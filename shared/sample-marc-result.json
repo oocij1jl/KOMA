@@ -1,0 +1,94 @@
+{
+  "leader": "00000nam a2200000 a 4500",
+  "fields": [
+    {
+      "tag": "020",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791190000001"
+        }
+      ]
+    },
+    {
+      "tag": "100",
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "김사서"
+        }
+      ]
+    },
+    {
+      "tag": "245",
+      "ind1": "1",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "도서관 업무를 바꾸는 인공지능 :"
+        },
+        {
+          "code": "b",
+          "value": "실무자를 위한 AI 활용 가이드 /"
+        },
+        {
+          "code": "c",
+          "value": "김사서"
+        }
+      ]
+    },
+    {
+      "tag": "260",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "상상출판사"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ]
+    },
+    {
+      "tag": "650",
+      "ind1": " ",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "인공지능"
+        }
+      ]
+    },
+    {
+      "tag": "650",
+      "ind1": " ",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "도서관 업무 자동화"
+        }
+      ]
+    },
+    {
+      "tag": "650",
+      "ind1": " ",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "서지데이터"
+        }
+      ]
+    }
+  ]
+}
