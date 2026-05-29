@@ -17,9 +17,17 @@ class Settings(BaseSettings):
     OPENAI_API_KEY: str = ""
     GEMINI_API_KEY: str = ""
 
+    """
+    v1 pydantic 
+    
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"
+    """
+    from pydantic_settings import BaseSettings, SettingsConfigDict
+    
+    class Settings(BaseSettings):
+        model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
 
 
 settings = Settings()
