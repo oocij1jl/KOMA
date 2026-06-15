@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routers import lookup, generate, validate
+
+try:  # pragma: no cover - import path depends on startup context
+    from backend.routers import generate, lookup, validate
+except ModuleNotFoundError:  # pragma: no cover - backend-local execution
+    from routers import generate, lookup, validate
 
 app = FastAPI(
     title="KOMA API",

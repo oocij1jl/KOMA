@@ -3,10 +3,12 @@
 .env 파일 또는 시스템 환경변수에서 로드.
 """
 
-from pydantic_settings import BaseSettings
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
+    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
+
     # 국립중앙도서관 Open API 인증키
     NL_API_KEY: str = ""
 
@@ -16,18 +18,6 @@ class Settings(BaseSettings):
     # LLM API 키 (다음 단계)
     OPENAI_API_KEY: str = ""
     GEMINI_API_KEY: str = ""
-
-    """
-    v1 pydantic 
-    
-    class Config:
-        env_file = ".env"
-        env_file_encoding = "utf-8"
-    """
-    from pydantic_settings import BaseSettings, SettingsConfigDict
-    
-    class Settings(BaseSettings):
-        model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
 
 
 settings = Settings()
