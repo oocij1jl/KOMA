@@ -19,3 +19,5 @@ venv/
 .env.example
 backend/docs/CLAUDE.md
 BACKEND_AUDIT_AND_PLAN.md
+
+.idea/
