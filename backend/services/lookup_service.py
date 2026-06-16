@@ -1,4 +1,5 @@
 import asyncio
+import importlib
 from typing import Any
 
 import httpx
@@ -11,14 +12,19 @@ try:  # pragma: no cover - import path depends on startup context
     )
     from backend.clients.nl_client import fetch_nl_isbn
     from backend.services.evidence_service import merge_evidence
+    from backend.utils.isbn import to_isbn13
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
-    from clients.data4library_client import (
-        fetch_d4l_detail,
-        fetch_d4l_keywords,
-        fetch_d4l_usage,
-    )
-    from clients.nl_client import fetch_nl_isbn
-    from services.evidence_service import merge_evidence
+    data4library_client = importlib.import_module("clients.data4library_client")
+    nl_client = importlib.import_module("clients.nl_client")
+    evidence_service = importlib.import_module("services.evidence_service")
+    isbn_utils = importlib.import_module("utils.isbn")
+
+    fetch_d4l_detail = data4library_client.fetch_d4l_detail
+    fetch_d4l_keywords = data4library_client.fetch_d4l_keywords
+    fetch_d4l_usage = data4library_client.fetch_d4l_usage
+    fetch_nl_isbn = nl_client.fetch_nl_isbn
+    merge_evidence = evidence_service.merge_evidence
+    to_isbn13 = isbn_utils.to_isbn13
 
 
 def _pick(*values: str) -> str:
@@ -35,6 +41,8 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
     d4l_found = bool(d4l.get("found", False))
 
     field_sources: dict[str, str] = {}
+    publish_predate = nl.get("publish_predate", "")
+    publish_predate_year = publish_predate[:4] if len(publish_predate) >= 4 else ""
 
     def pick_src(key: str, *pairs: tuple[str, str]) -> str:
         for value, source in pairs:
@@ -80,9 +88,9 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
         "publish_year": pick_src(
             "publish_year",
             (d4l.get("publish_year", ""), "d4l"),
-            (nl.get("publish_predate", "")[:4], "nl"),
+            (publish_predate_year, "nl"),
         ),
-        "publish_predate": _pick(nl.get("publish_predate", "")),
+        "publish_predate": _pick(publish_predate),
         "kdc": pick_src("kdc", (nl.get("kdc", ""), "nl"), (d4l.get("class_no", ""), "d4l")),
         "kdc_edition": "",
         "kdc_name": _pick(d4l.get("class_nm", "")),
@@ -111,18 +119,20 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
 
 async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     """4개 API 병렬 호출 → biblio/evidence/raw 분리 반환."""
+    isbn13 = to_isbn13(isbn)
+
     nl, d4l, keywords_result, usage_result = await asyncio.gather(
-        fetch_nl_isbn(client, isbn),
-        fetch_d4l_detail(client, isbn),
-        fetch_d4l_keywords(client, isbn),
-        fetch_d4l_usage(client, isbn),
+        fetch_nl_isbn(client, isbn13),
+        fetch_d4l_detail(client, isbn13),
+        fetch_d4l_keywords(client, isbn13),
+        fetch_d4l_usage(client, isbn13),
     )
 
     biblio = merge_biblio(nl, d4l)
     evidence = merge_evidence(biblio, keywords_result, usage_result)
 
     return {
-        "isbn": isbn,
+        "isbn": isbn13,
         "biblio": biblio,
         "evidence": evidence,
         "raw": {

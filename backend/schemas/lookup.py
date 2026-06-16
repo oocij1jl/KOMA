@@ -23,6 +23,7 @@ class EvidenceAvailability(BaseModel):
     keywords: bool
     description: bool
     co_loan_books: bool
+    translation_signals: bool
 
 
 class BiblioSchema(BaseModel):

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 """
 /api/lookup  ─  외부 서지 API 조회 라우터  (스키마 v2.1 대응)
 
@@ -15,21 +17,41 @@
 """
 
 import asyncio
+import importlib
 
 import httpx
 from fastapi import APIRouter, HTTPException, Query
+from pydantic import BaseModel, field_validator
 
 try:  # pragma: no cover - import path depends on startup context
-    from backend.schemas.lookup import BulkIsbnRequest
+    from backend.schemas.lookup import LookupResponseSchema
     from backend.services.lookup_service import lookup_one
-    from backend.utils.isbn import normalize_isbn
+    from backend.utils.isbn import normalize_isbn, to_isbn13
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
-    from schemas.lookup import BulkIsbnRequest
-    from services.lookup_service import lookup_one
-    from utils.isbn import normalize_isbn
+    lookup_schemas = importlib.import_module("schemas.lookup")
+    lookup_service = importlib.import_module("services.lookup_service")
+    isbn_utils = importlib.import_module("utils.isbn")
+
+    LookupResponseSchema = lookup_schemas.LookupResponseSchema
+    lookup_one = lookup_service.lookup_one
+    normalize_isbn = isbn_utils.normalize_isbn
+    to_isbn13 = isbn_utils.to_isbn13
 
 
 router = APIRouter()
+
+
+class LookupBulkRequest(BaseModel):
+    isbns: list[str]
+
+    @field_validator("isbns")
+    @classmethod
+    def check_limit(cls, value: list[str]) -> list[str]:
+        if len(value) == 0:
+            raise ValueError("ISBN 목록이 비어 있습니다.")
+        if len(value) > 10:
+            raise ValueError("한 번에 최대 10개까지 조회할 수 있습니다.")
+        return value
 
 
 @router.get("/lookup/isbn")
@@ -39,6 +61,7 @@ async def lookup_isbn(
     """ISBN으로 국중도 + 정보나루(상세·키워드·이용분석)를 병합 조회."""
     try:
         clean = normalize_isbn(isbn)
+        to_isbn13(clean)
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
 
@@ -48,22 +71,23 @@ async def lookup_isbn(
     if not result["found"]:
         raise HTTPException(
             status_code=404,
-            detail=f"ISBN {clean} 에 해당하는 서지정보를 찾을 수 없습니다.",
+            detail=f"ISBN {result['isbn']} 에 해당하는 서지정보를 찾을 수 없습니다.",
         )
 
-    result.pop("found", None)
-    return result
+    return LookupResponseSchema.model_validate(result).model_dump()
 
 
 @router.post("/lookup/isbn/bulk")
-async def lookup_isbn_bulk(body: BulkIsbnRequest):
+async def lookup_isbn_bulk(body: LookupBulkRequest):
     """여러 ISBN을 한 번에 조회 (각 ISBN별 4개 API 병합)."""
     normalized: list[str] = []
     errors: list[dict[str, str]] = []
 
     for raw in body.isbns:
         try:
-            normalized.append(normalize_isbn(raw))
+            clean = normalize_isbn(raw)
+            to_isbn13(clean)
+            normalized.append(clean)
         except ValueError as exc:
             errors.append({"isbn": raw, "error": str(exc)})
 
@@ -76,4 +100,5 @@ async def lookup_isbn_bulk(body: BulkIsbnRequest):
     async with httpx.AsyncClient() as client:
         results = await asyncio.gather(*(lookup_one(client, isbn) for isbn in normalized))
 
-    return {"total": len(results), "results": list(results)}
+    serialized_results = [LookupResponseSchema.model_validate(item).model_dump() for item in results]
+    return {"total": len(serialized_results), "results": serialized_results}

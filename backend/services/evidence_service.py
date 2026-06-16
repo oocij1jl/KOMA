@@ -1,9 +1,10 @@
+import importlib
 from typing import Any
 
 try:  # pragma: no cover - import path depends on startup context
     from backend.utils.translation import detect_translation
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
-    from utils.translation import detect_translation
+    detect_translation = importlib.import_module("utils.translation").detect_translation
 
 
 def merge_evidence(
@@ -18,6 +19,12 @@ def merge_evidence(
     author = biblio.get("author", "")
 
     translation_signals = detect_translation(author, description)
+    available = _build_available_flags(
+        keywords=keywords,
+        description=description,
+        co_loan_books=co_loan_books,
+        translation_signals=translation_signals,
+    )
 
     return {
         "keywords": keywords,
@@ -28,9 +35,20 @@ def merge_evidence(
         "kdc_from_api": biblio.get("kdc", ""),
         "ddc_from_api": biblio.get("ddc", ""),
         "translation_signals": translation_signals,
-        "available": {
-            "keywords": bool(keywords),
-            "description": bool(description),
-            "co_loan_books": bool(co_loan_books),
-        },
+        "available": available,
+    }
+
+
+def _build_available_flags(
+    *,
+    keywords: list[Any],
+    description: str,
+    co_loan_books: list[Any],
+    translation_signals: dict[str, Any],
+) -> dict[str, bool]:
+    return {
+        "keywords": bool(keywords),
+        "description": bool(description),
+        "co_loan_books": bool(co_loan_books),
+        "translation_signals": bool(translation_signals.get("detected")),
     }
