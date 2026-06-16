@@ -1,3 +1,4 @@
+import importlib
 from typing import Any
 
 import httpx
@@ -5,12 +6,16 @@ import httpx
 try:  # pragma: no cover - import path depends on startup context
     from backend.config import settings
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
-    from config import settings
+    settings = importlib.import_module("config").settings
 
 
 D4L_DETAIL_URL = "http://data4library.kr/api/srchDtlList"
 D4L_KEYWORD_URL = "http://data4library.kr/api/keywordList"
 D4L_USAGE_URL = "http://data4library.kr/api/usageAnalysisList"
+
+
+def _has_empty_body(response: httpx.Response) -> bool:
+    return response.text.strip() == ""
 
 
 async def fetch_d4l_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
@@ -27,6 +32,12 @@ async def fetch_d4l_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, An
     try:
         resp = await client.get(D4L_DETAIL_URL, params=params, timeout=10)
         resp.raise_for_status()
+        if _has_empty_body(resp):
+            return {
+                "source": "data4library.kr",
+                "found": False,
+                "error": "empty response from upstream",
+            }
         data = resp.json()
     except httpx.HTTPStatusError as exc:
         return {"source": "data4library.kr", "error": f"HTTP {exc.response.status_code}"}
@@ -74,6 +85,13 @@ async def fetch_d4l_keywords(client: httpx.AsyncClient, isbn: str) -> dict[str, 
     try:
         resp = await client.get(D4L_KEYWORD_URL, params=params, timeout=10)
         resp.raise_for_status()
+        if _has_empty_body(resp):
+            return {
+                "source": "keywordList",
+                "found": False,
+                "keywords": [],
+                "error": "empty response from upstream",
+            }
         data = resp.json()
     except Exception as exc:  # pragma: no cover - network failure path
         return {"source": "keywordList", "found": False, "keywords": [], "error": str(exc)}
@@ -108,6 +126,13 @@ async def fetch_d4l_usage(client: httpx.AsyncClient, isbn: str) -> dict[str, Any
     try:
         resp = await client.get(D4L_USAGE_URL, params=params, timeout=10)
         resp.raise_for_status()
+        if _has_empty_body(resp):
+            return {
+                "source": "usageAnalysisList",
+                "found": False,
+                "co_loan_books": [],
+                "error": "empty response from upstream",
+            }
         data = resp.json()
     except Exception as exc:  # pragma: no cover - network failure path
         return {"source": "usageAnalysisList", "found": False, "co_loan_books": [], "error": str(exc)}

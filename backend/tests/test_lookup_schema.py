@@ -33,6 +33,21 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertEqual(validated.kdc_edition, "")
         self.assertEqual(validated.field_sources["title"], "nl")
 
+    def test_merge_biblio_ignores_short_publish_predate_for_year(self) -> None:
+        biblio = merge_biblio(
+            {
+                "found": True,
+                "publish_predate": "202",
+            },
+            {
+                "found": False,
+            },
+        )
+
+        validated = BiblioSchema.model_validate(biblio)
+        self.assertEqual(validated.publish_year, "")
+        self.assertEqual(validated.publish_predate, "202")
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",
@@ -64,14 +79,15 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertTrue(response.evidence.available.keywords)
         self.assertTrue(response.evidence.available.description)
         self.assertTrue(response.evidence.available.co_loan_books)
+        self.assertTrue(response.evidence.available.translation_signals)
         self.assertEqual(response.evidence.keywords[0].word, "도서관")
 
     def test_single_lookup_endpoint_preserves_contract_shape(self) -> None:
         payload = {
-            "isbn": "9791194160004",
+            "isbn": "9780306406157",
             "biblio": {
                 "found": True,
-                "isbn_ea": "9791194160004",
+                "isbn_ea": "9780306406157",
                 "field_sources": {},
             },
             "evidence": {
@@ -87,6 +103,7 @@ class LookupSchemaTests(unittest.TestCase):
                     "keywords": False,
                     "description": False,
                     "co_loan_books": False,
+                    "translation_signals": False,
                 },
             },
             "raw": {"nl": {}, "d4l_detail": {}, "d4l_keyword": {}, "d4l_usage": {}},
@@ -95,19 +112,19 @@ class LookupSchemaTests(unittest.TestCase):
 
         with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)):
             client = TestClient(app)
-            response = client.get("/api/lookup/isbn", params={"isbn": "9791194160004"})
+            response = client.get("/api/lookup/isbn", params={"isbn": "9780306406157"})
 
         self.assertEqual(response.status_code, 200)
         body = response.json()
         self.assertEqual(set(body.keys()), {"isbn", "biblio", "evidence", "raw"})
         self.assertNotIn("found", body)
 
-    def test_bulk_lookup_endpoint_keeps_found_per_result(self) -> None:
+    def test_single_lookup_404_uses_transformed_isbn_in_message(self) -> None:
         payload = {
-            "isbn": "9791194160004",
+            "isbn": "9788936434120",
             "biblio": {
-                "found": True,
-                "isbn_ea": "9791194160004",
+                "found": False,
+                "isbn_ea": "",
                 "field_sources": {},
             },
             "evidence": {
@@ -123,6 +140,42 @@ class LookupSchemaTests(unittest.TestCase):
                     "keywords": False,
                     "description": False,
                     "co_loan_books": False,
+                    "translation_signals": False,
+                },
+            },
+            "raw": {"nl": {}, "d4l_detail": {}, "d4l_keyword": {}, "d4l_usage": {}},
+            "found": False,
+        }
+
+        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)):
+            client = TestClient(app)
+            response = client.get("/api/lookup/isbn", params={"isbn": "89-364-3412-X"})
+
+        self.assertEqual(response.status_code, 404)
+        self.assertEqual(response.json()["detail"], "ISBN 9788936434120 에 해당하는 서지정보를 찾을 수 없습니다.")
+
+    def test_bulk_lookup_endpoint_uses_biblio_found_without_top_level_found(self) -> None:
+        payload = {
+            "isbn": "9780306406157",
+            "biblio": {
+                "found": True,
+                "isbn_ea": "9780306406157",
+                "field_sources": {},
+            },
+            "evidence": {
+                "keywords": [],
+                "description": "",
+                "co_loan_books": [],
+                "title": "",
+                "author": "",
+                "kdc_from_api": "",
+                "ddc_from_api": "",
+                "translation_signals": {"detected": False, "hints": []},
+                "available": {
+                    "keywords": False,
+                    "description": False,
+                    "co_loan_books": False,
+                    "translation_signals": False,
                 },
             },
             "raw": {"nl": {}, "d4l_detail": {}, "d4l_keyword": {}, "d4l_usage": {}},
@@ -133,13 +186,34 @@ class LookupSchemaTests(unittest.TestCase):
             client = TestClient(app)
             response = client.post(
                 "/api/lookup/isbn/bulk",
-                json={"isbns": ["9791194160004"]},
+                json={"isbns": ["9780306406157"]},
             )
 
         self.assertEqual(response.status_code, 200)
         body = response.json()
         self.assertEqual(body["total"], 1)
-        self.assertTrue(body["results"][0]["found"])
+        self.assertEqual(set(body["results"][0].keys()), {"isbn", "biblio", "evidence", "raw"})
+        self.assertNotIn("found", body["results"][0])
+        self.assertTrue(body["results"][0]["biblio"]["found"])
+
+    def test_single_lookup_rejects_invalid_isbn13_checksum(self) -> None:
+        client = TestClient(app)
+        response = client.get("/api/lookup/isbn", params={"isbn": "9788936434121"})
+
+        self.assertEqual(response.status_code, 422)
+        self.assertIn("ISBN-13 체크섬 오류", response.json()["detail"])
+
+    def test_bulk_lookup_rejects_invalid_isbn13_checksum(self) -> None:
+        client = TestClient(app)
+        response = client.post(
+            "/api/lookup/isbn/bulk",
+            json={"isbns": ["9788936434121"]},
+        )
+
+        self.assertEqual(response.status_code, 422)
+        detail = response.json()["detail"]
+        self.assertEqual(detail["message"], "유효하지 않은 ISBN이 포함되어 있습니다.")
+        self.assertIn("ISBN-13 체크섬 오류", detail["errors"][0]["error"])
 
 
 if __name__ == "__main__":
