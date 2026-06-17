@@ -30,13 +30,13 @@ validate_output: Callable[[str], "GenerateResultType"] = output_validator_servic
 
 FIELD_653_EXAMPLE = {
     "tag": "653",
+    "source": "ai_inference",
     "indicator1": " ",
     "indicator2": " ",
     "subfields": [
         {"code": "a", "value": "진화론"},
         {"code": "a", "value": "생물학"},
     ],
-    "source": "ai_inference",
     "review_required": True,
     "confidence": "medium",
     "note": "정보나루 키워드 기반 비통제 색인어. 사서 검수 필요",

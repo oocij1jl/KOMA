@@ -32,10 +32,10 @@ class GeneratedField(BaseModel):
     )
 
     tag: str = Field(pattern=r"^\d{3}$")
+    source: Literal["api", "ai_inference"]
     indicator1: str = Field(min_length=1, max_length=1)
     indicator2: str = Field(min_length=1, max_length=1)
     subfields: list[SubfieldItem] = Field(min_length=1)
-    source: Literal["api", "ai_inference"]
     review_required: bool
     confidence: Literal["high", "medium", "low"]
     # source="ai_inference"이면 evidence 필수다. 강제 검증은 다음 단계 validator 책임이다.
