@@ -1,5 +1,6 @@
 import asyncio
 import unittest
+from typing import cast
 from unittest.mock import AsyncMock, patch
 
 import httpx
@@ -48,25 +49,30 @@ class GenerateSchemaTests(unittest.TestCase):
         )
 
         payload = build_llm_input(lookup_result)
-        dumped = payload.model_dump()
+        dumped: dict[str, object] = payload.model_dump()
+        evidence = cast(dict[str, object], dumped["evidence"])
+        available = cast(dict[str, bool], evidence["available"])
+        translation_signals = cast(dict[str, object], evidence["translation_signals"])
+        field_evidence_map = cast(dict[str, dict[str, object]], dumped["field_evidence_map"])
+        generate_options = cast(dict[str, list[str]], dumped["generate_options"])
 
         self.assertNotIn("raw", dumped)
-        self.assertTrue(dumped["evidence"]["available"]["keywords"])
-        self.assertTrue(dumped["evidence"]["available"]["translation_signals"])
-        self.assertTrue(dumped["evidence"]["translation_signals"]["detected"])
+        self.assertTrue(available["keywords"])
+        self.assertTrue(available["translation_signals"])
+        self.assertTrue(cast(bool, translation_signals["detected"]))
         self.assertIn("field_evidence_map", dumped)
-        self.assertIn("653", dumped["field_evidence_map"])
-        self.assertEqual(dumped["field_evidence_map"]["650"]["evidence_sources"], [])
-        self.assertTrue(dumped["field_evidence_map"]["650"]["skip_allowed"])
+        self.assertIn("653", field_evidence_map)
+        self.assertEqual(cast(list[object], field_evidence_map["650"]["evidence_sources"]), [])
+        self.assertTrue(cast(bool, field_evidence_map["650"]["skip_allowed"]))
         self.assertEqual(
-            dumped["field_evidence_map"]["650"]["rag_notes"],
+            cast(str, field_evidence_map["650"]["rag_notes"]),
             "MVP 기본 skip — 통제 주제명은 표목표 대조 필요",
         )
-        self.assertEqual(dumped["generate_options"]["review_required_fields"], ["653", "056", "082"])
-        self.assertEqual(dumped["generate_options"]["skipped_by_default"], ["650"])
-        self.assertNotIn("650", dumped["generate_options"]["required_fields"])
-        self.assertNotIn("650", dumped["generate_options"]["review_required_fields"])
-        self.assertIn("710", dumped["generate_options"]["required_fields"])
+        self.assertEqual(generate_options["review_required_fields"], ["653", "056", "082"])
+        self.assertEqual(generate_options["skipped_by_default"], ["650"])
+        self.assertNotIn("650", generate_options["required_fields"])
+        self.assertNotIn("650", generate_options["review_required_fields"])
+        self.assertIn("710", generate_options["required_fields"])
 
     def test_lookup_one_uses_isbn13_for_upstream_calls(self) -> None:
         async def run_test() -> None:
@@ -94,30 +100,37 @@ class GenerateSchemaTests(unittest.TestCase):
 
         asyncio.run(run_test())
 
-    def test_generate_routes_return_payload_with_primary_and_alias(self) -> None:
-        lookup_payload = {
+    def test_generate_routes_return_prompt_with_primary_and_alias(self) -> None:
+        lookup_payload: dict[str, object] = {
             "isbn": "9788936434120",
             "biblio": {
                 "found": True,
                 "isbn_ea": "9788936434120",
+                "title": "채식주의자",
+                "author": "한강 지음",
+                "publisher": "창비",
+                "publish_year": "2022",
+                "kdc": "813.7",
+                "page": "247 p.",
+                "description": "채식주의를 선택한 인물을 둘러싼 한국 장편소설.",
                 "field_sources": {},
             },
             "evidence": {
-                "keywords": [],
-                "description": "",
+                "keywords": [{"word": "채식주의", "weight": 0.91}],
+                "description": "채식주의를 선택한 인물을 둘러싼 한국 장편소설.",
                 "co_loan_books": [],
-                "title": "",
-                "author": "",
-                "kdc_from_api": "",
+                "title": "채식주의자",
+                "author": "한강 지음",
+                "kdc_from_api": "813.7",
                 "ddc_from_api": "",
                 "translation_signals": {"detected": False, "hints": []},
-                    "available": {
-                        "keywords": False,
-                        "description": False,
-                        "co_loan_books": False,
-                        "translation_signals": False,
-                    },
+                "available": {
+                    "keywords": True,
+                    "description": True,
+                    "co_loan_books": False,
+                    "translation_signals": False,
                 },
+            },
             "raw": {"nl": {}, "d4l_detail": {}, "d4l_keyword": {}, "d4l_usage": {}},
             "found": True,
         }
@@ -129,16 +142,61 @@ class GenerateSchemaTests(unittest.TestCase):
 
         self.assertEqual(primary.status_code, 200)
         self.assertEqual(alias.status_code, 200)
+        self.assertTrue(primary.headers["content-type"].startswith("text/plain"))
+        self.assertTrue(alias.headers["content-type"].startswith("text/plain"))
+        self.assertEqual(primary.text, alias.text)
 
-        primary_payload = primary.json()
-        alias_payload = alias.json()
-        self.assertEqual(primary_payload["isbn"], "9788936434120")
-        self.assertEqual(alias_payload["isbn"], "9788936434120")
-        self.assertNotIn("raw", primary_payload)
-        self.assertIn("field_evidence_map", primary_payload)
+        self.assertIn("9788936434120", primary.text)
+        self.assertIn("채식주의자", primary.text)
+        self.assertIn("813.7", primary.text)
+        self.assertIn("247 p.", primary.text)
+        self.assertIn("채식주의를 선택한 인물을 둘러싼 한국 장편소설.", primary.text)
+        self.assertIn("FIELD_EVIDENCE_MAP", primary.text)
+        self.assertIn("RAG RULES", primary.text)
+
+    def test_generate_routes_build_prompt_even_with_partial_evidence(self) -> None:
+        lookup_payload: dict[str, object] = {
+            "isbn": "9788936434120",
+            "biblio": {
+                "found": True,
+                "isbn_ea": "9788936434120",
+                "title": "예시 제목",
+                "author": "예시 저자",
+                "publisher": "예시 출판사",
+                "field_sources": {},
+            },
+            "evidence": {
+                "keywords": [],
+                "description": "",
+                "co_loan_books": [],
+                "title": "예시 제목",
+                "author": "예시 저자",
+                "kdc_from_api": "",
+                "ddc_from_api": "",
+                "translation_signals": {"detected": False, "hints": []},
+                "available": {
+                    "keywords": False,
+                    "description": False,
+                    "co_loan_books": False,
+                    "translation_signals": False,
+                },
+            },
+            "raw": {"nl": {}, "d4l_detail": {}, "d4l_keyword": {}, "d4l_usage": {}},
+            "found": True,
+        }
+
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)):
+            client = TestClient(app)
+            response = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
+
+        self.assertEqual(response.status_code, 200)
+        self.assertTrue(response.headers["content-type"].startswith("text/plain"))
+        self.assertIn("예시 제목", response.text)
+        self.assertIn('"keywords": false', response.text)
+        self.assertIn('"co_loan_books": false', response.text)
 
     def test_generate_routes_return_404_when_lookup_not_found(self) -> None:
-        lookup_payload = {
+        lookup_payload: dict[str, object] = {
             "isbn": "9788936434120",
             "biblio": {
                 "found": False,
@@ -170,7 +228,11 @@ class GenerateSchemaTests(unittest.TestCase):
             response = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
 
         self.assertEqual(response.status_code, 404)
-        self.assertIn("ISBN 9788936434120", response.json()["detail"])
+        response_json = cast(dict[str, object], response.json())
+        detail = response_json["detail"]
+        if not isinstance(detail, str):
+            self.fail("detail should be a string")
+        self.assertIn("ISBN 9788936434120", detail)
 
     def test_generate_routes_return_422_for_invalid_isbn(self) -> None:
         client = TestClient(app)
@@ -184,8 +246,12 @@ class GenerateSchemaTests(unittest.TestCase):
         response = client.post("/api/generate/marc", json={"isbn": "9788936434121"})
 
         self.assertEqual(response.status_code, 422)
-        self.assertIn("ISBN-13 체크섬 오류", response.json()["detail"])
+        response_json = cast(dict[str, object], response.json())
+        detail = response_json["detail"]
+        if not isinstance(detail, str):
+            self.fail("detail should be a string")
+        self.assertIn("ISBN-13 체크섬 오류", detail)
 
 
 if __name__ == "__main__":
-    unittest.main()
+    _ = unittest.main()
