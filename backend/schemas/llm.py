@@ -1,6 +1,19 @@
+import importlib
+from typing import TYPE_CHECKING, cast
+
 from pydantic import BaseModel, Field
 
-from backend.schemas.lookup import BiblioSchema, EvidenceSchema
+try:  # pragma: no cover - import path depends on startup context
+    from backend.schemas import lookup as lookup_schema
+except ModuleNotFoundError:  # pragma: no cover - backend-local execution
+    lookup_schema = importlib.import_module("schemas.lookup")
+
+if TYPE_CHECKING:  # pragma: no cover
+    from backend.schemas.lookup import BiblioSchema as BiblioSchemaType
+    from backend.schemas.lookup import EvidenceSchema as EvidenceSchemaType
+
+BiblioSchema = cast(type["BiblioSchemaType"], lookup_schema.BiblioSchema)
+EvidenceSchema = cast(type["EvidenceSchemaType"], lookup_schema.EvidenceSchema)
 
 
 class GenerateOptions(BaseModel):
@@ -22,8 +35,8 @@ class FieldEvidenceMapEntry(BaseModel):
 
 class LLMInputPayload(BaseModel):
     isbn: str = Field(pattern=r"^\d{13}$")
-    biblio: BiblioSchema
-    evidence: EvidenceSchema
+    biblio: "BiblioSchemaType"
+    evidence: "EvidenceSchemaType"
     generate_options: GenerateOptions = Field(default_factory=GenerateOptions)
     constraints: list[str] = Field(
         default_factory=lambda: [
@@ -55,3 +68,11 @@ class LLMInputPayload(BaseModel):
     # TODO: biblio.found는 조회 상태값이므로 facts-only 축소 시 제외 대상
     # cover_url / toc_url / intro_url 는 생성 근거가 아니므로 builder 단계에서 재검토
     # TODO: subject가 대분류 한 자리(예: "8")만 오는 경우(국중도 KDC 공백 시) kdc와 redundant하므로 정제 검토
+
+
+_ = LLMInputPayload.model_rebuild(
+    _types_namespace={
+        "BiblioSchemaType": BiblioSchema,
+        "EvidenceSchemaType": EvidenceSchema,
+    }
+)
