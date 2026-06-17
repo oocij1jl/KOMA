@@ -8,18 +8,24 @@ from typing import TYPE_CHECKING, cast
 try:  # pragma: no cover - import path depends on startup context
     from backend.schemas import llm as llm_schema
     from backend.schemas import llm_output as llm_output_schema
+    from backend.clients import llm_client
+    from backend.services import output_validator as output_validator_service
     from backend.services import rag_loader as rag_loader_service
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     llm_schema = importlib.import_module("schemas.llm")
     llm_output_schema = importlib.import_module("schemas.llm_output")
+    llm_client = importlib.import_module("clients.llm_client")
+    output_validator_service = importlib.import_module("services.output_validator")
     rag_loader_service = importlib.import_module("services.rag_loader")
 
 if TYPE_CHECKING:  # pragma: no cover
     from backend.schemas.llm import LLMInputPayload as LLMInputPayloadType
+    from backend.schemas.llm_output import GenerateResult as GenerateResultType
 
 LLMInputPayload = cast(type["LLMInputPayloadType"], llm_schema.LLMInputPayload)
 load_rules: Callable[[list[str]], dict[str, str]] = rag_loader_service.load_rules
 GenerateResult = llm_output_schema.GenerateResult
+validate_output: Callable[[str], "GenerateResultType"] = output_validator_service.validate_output
 
 
 FIELD_653_EXAMPLE = {
@@ -159,3 +165,11 @@ def build_prompt(payload: "LLMInputPayloadType") -> str:
             + f"653 출력 예시를 포함한 GenerateResult 예시:\n{_dump_json(GENERATE_RESULT_EXAMPLE)}",
         ]
     )
+
+
+async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
+    """프롬프트 생성, LLM 호출, 출력 검증을 묶어 GenerateResult를 반환한다."""
+
+    prompt = build_prompt(payload)
+    raw_output = await llm_client.generate(prompt)
+    return validate_output(raw_output)

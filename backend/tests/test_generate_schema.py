@@ -7,6 +7,7 @@ import httpx
 from fastapi.testclient import TestClient
 
 from backend.main import app
+from backend.schemas.llm_output import GenerateResult
 from backend.schemas.lookup import LookupResponseSchema
 from backend.services.llm_input_builder import build_llm_input
 from backend.services.lookup_service import lookup_one
@@ -100,7 +101,7 @@ class GenerateSchemaTests(unittest.TestCase):
 
         asyncio.run(run_test())
 
-    def test_generate_routes_return_prompt_with_primary_and_alias(self) -> None:
+    def test_generate_routes_return_generate_result_with_primary_and_alias(self) -> None:
         lookup_payload: dict[str, object] = {
             "isbn": "9788936434120",
             "biblio": {
@@ -135,26 +136,50 @@ class GenerateSchemaTests(unittest.TestCase):
             "found": True,
         }
 
-        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)):
+        generated = GenerateResult.model_validate(
+            {
+                "fields": [
+                    {
+                        "tag": "653",
+                        "indicator1": " ",
+                        "indicator2": " ",
+                        "subfields": [{"code": "a", "value": "채식주의"}],
+                        "source": "ai_inference",
+                        "review_required": True,
+                        "confidence": "medium",
+                        "evidence": {
+                            "from": ["keywords"],
+                            "keywords_used": ["채식주의(0.91)"],
+                            "reasoning": "키워드 근거",
+                        },
+                    }
+                ],
+                "skipped_fields": [{"tag": "650", "reason": "통제 주제명은 표목표 대조 필요"}],
+                "warnings": ["653 색인어는 키워드 기반 추론 — 반드시 검수"],
+            }
+        )
+
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)), patch(
+            "backend.routers.generate.generate_marc_result",
+            new=AsyncMock(return_value=generated),
+        ) as generate_mock:
             client = TestClient(app)
             primary = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
             alias = client.post("/api/generate", json={"isbn": "89-364-3412-X"})
 
         self.assertEqual(primary.status_code, 200)
         self.assertEqual(alias.status_code, 200)
-        self.assertTrue(primary.headers["content-type"].startswith("text/plain"))
-        self.assertTrue(alias.headers["content-type"].startswith("text/plain"))
-        self.assertEqual(primary.text, alias.text)
+        self.assertTrue(primary.headers["content-type"].startswith("application/json"))
+        self.assertTrue(alias.headers["content-type"].startswith("application/json"))
+        self.assertEqual(primary.json(), alias.json())
+        generate_mock.assert_awaited()
 
-        self.assertIn("9788936434120", primary.text)
-        self.assertIn("채식주의자", primary.text)
-        self.assertIn("813.7", primary.text)
-        self.assertIn("247 p.", primary.text)
-        self.assertIn("채식주의를 선택한 인물을 둘러싼 한국 장편소설.", primary.text)
-        self.assertIn("FIELD_EVIDENCE_MAP", primary.text)
-        self.assertIn("RAG RULES", primary.text)
+        body = primary.json()
+        self.assertEqual(body["fields"][0]["tag"], "653")
+        self.assertEqual(body["fields"][0]["evidence"]["from"], ["keywords"])
+        self.assertEqual(body["skipped_fields"][0]["tag"], "650")
 
-    def test_generate_routes_build_prompt_even_with_partial_evidence(self) -> None:
+    def test_generate_routes_return_generate_result_even_with_partial_evidence(self) -> None:
         lookup_payload: dict[str, object] = {
             "isbn": "9788936434120",
             "biblio": {
@@ -185,15 +210,29 @@ class GenerateSchemaTests(unittest.TestCase):
             "found": True,
         }
 
-        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)):
+        generated = GenerateResult.model_validate(
+            {
+                "fields": [],
+                "skipped_fields": [
+                    {"tag": "653", "reason": "근거 부족"},
+                    {"tag": "650", "reason": "통제 주제명은 표목표 대조 필요"},
+                ],
+                "warnings": [],
+            }
+        )
+
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)), patch(
+            "backend.routers.generate.generate_marc_result",
+            new=AsyncMock(return_value=generated),
+        ):
             client = TestClient(app)
             response = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
 
         self.assertEqual(response.status_code, 200)
-        self.assertTrue(response.headers["content-type"].startswith("text/plain"))
-        self.assertIn("예시 제목", response.text)
-        self.assertIn('"keywords": false', response.text)
-        self.assertIn('"co_loan_books": false', response.text)
+        self.assertTrue(response.headers["content-type"].startswith("application/json"))
+        response_json = response.json()
+        self.assertEqual(response_json["fields"], [])
+        self.assertEqual(response_json["skipped_fields"][0]["tag"], "653")
 
     def test_generate_routes_return_404_when_lookup_not_found(self) -> None:
         lookup_payload: dict[str, object] = {
