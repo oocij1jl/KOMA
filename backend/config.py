@@ -22,6 +22,7 @@ class Settings(BaseSettings):
 
     # LLM API 키 (다음 단계)
     OPENAI_API_KEY: str = ""
+    OPENAI_MODEL: str = "gpt-5.4-mini"
     GEMINI_API_KEY: str = ""
 
 

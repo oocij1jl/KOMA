@@ -1,5 +1,5 @@
-import React from "react";
-import HomeDashboard from "./pages/Home/HomeDashboard"; // 홈 대시보드를 루트로 지정
+import React from 'react';
+import HomeDashboard from './pages/Home/HomeDashboard';
 
 function App() {
   return <HomeDashboard />;

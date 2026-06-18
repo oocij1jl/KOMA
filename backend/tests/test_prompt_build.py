@@ -195,6 +195,7 @@ class PromptBuildTests(unittest.TestCase):
         subfield_item_properties = cast(dict[str, dict[str, object]], subfield_item["properties"])
 
         self.assertEqual(generated_field_properties["tag"]["pattern"], r"^\d{3}$")
+        self.assertEqual(list(generated_field_properties)[:2], ["tag", "source"])
         self.assertEqual(generated_field_properties["indicator1"]["minLength"], 1)
         self.assertEqual(generated_field_properties["indicator1"]["maxLength"], 1)
         self.assertEqual(generated_field_properties["indicator2"]["minLength"], 1)
