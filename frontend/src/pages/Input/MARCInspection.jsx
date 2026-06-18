@@ -39,6 +39,22 @@ export default function MARCInspection({ selectedBook, onBackToList }) {
   const skippedFields = result?.skipped_fields ?? [];
   const warnings = result?.warnings ?? [];
 
+  const handleExportJson = () => {
+    if (!result) return;
+
+    const blob = new Blob([JSON.stringify(result, null, 2)], {
+      type: 'application/json;charset=utf-8',
+    });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `marc-result-${selectedBook.isbn || 'unknown'}.json`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+  };
+
   if (!selectedBook || !result) {
     return (
       <div className="max-w-4xl mx-auto bg-white border border-gray-200 rounded-xl p-8 text-center">
@@ -60,9 +76,18 @@ export default function MARCInspection({ selectedBook, onBackToList }) {
         목록으로
       </button>
 
-      <div>
-        <h2 className="text-2xl font-extrabold text-gray-900 tracking-tight">MARC 생성 결과</h2>
-        <p className="text-gray-500 text-xs font-bold mt-1">LLM 출력 JSON을 검증한 결과입니다.</p>
+      <div className="flex items-start justify-between gap-4">
+        <div>
+          <h2 className="text-2xl font-extrabold text-gray-900 tracking-tight">MARC 생성 결과</h2>
+          <p className="text-gray-500 text-xs font-bold mt-1">LLM 출력 JSON을 검증한 결과입니다.</p>
+        </div>
+        <button
+          type="button"
+          onClick={handleExportJson}
+          className="shrink-0 px-4 py-2 bg-gray-900 text-white font-bold text-xs rounded-lg hover:bg-black shadow-sm transition"
+        >
+          JSON 내보내기
+        </button>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -161,7 +186,16 @@ export default function MARCInspection({ selectedBook, onBackToList }) {
       </div>
 
       <div className="bg-gray-950 rounded-xl overflow-hidden shadow-sm">
-        <div className="px-4 py-3 border-b border-gray-800 text-xs font-bold text-gray-300">원본 JSON</div>
+        <div className="flex items-center justify-between px-4 py-3 border-b border-gray-800">
+          <span className="text-xs font-bold text-gray-300">원본 JSON</span>
+          <button
+            type="button"
+            onClick={handleExportJson}
+            className="px-3 py-1.5 bg-white/10 text-white font-bold text-[11px] rounded-md hover:bg-white/20 transition"
+          >
+            내보내기
+          </button>
+        </div>
         <pre className="p-4 overflow-x-auto text-xs text-gray-100">
           {JSON.stringify(result, null, 2)}
         </pre>
