@@ -67,7 +67,7 @@ class GenerateSchemaTests(unittest.TestCase):
         self.assertTrue(cast(bool, field_evidence_map["650"]["skip_allowed"]))
         self.assertEqual(
             cast(str, field_evidence_map["650"]["rag_notes"]),
-            "MVP 기본 skip — 통제 주제명은 표목표 대조 필요",
+            "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체",
         )
         self.assertEqual(generate_options["review_required_fields"], ["653", "056", "082"])
         self.assertEqual(generate_options["skipped_by_default"], ["650"])
@@ -154,7 +154,7 @@ class GenerateSchemaTests(unittest.TestCase):
                         },
                     }
                 ],
-                "skipped_fields": [{"tag": "650", "reason": "통제 주제명은 표목표 대조 필요"}],
+                "skipped_fields": [{"tag": "650", "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"}],
                 "warnings": ["653 색인어는 키워드 기반 추론 — 반드시 검수"],
             }
         )
@@ -215,7 +215,7 @@ class GenerateSchemaTests(unittest.TestCase):
                 "fields": [],
                 "skipped_fields": [
                     {"tag": "653", "reason": "근거 부족"},
-                    {"tag": "650", "reason": "통제 주제명은 표목표 대조 필요"},
+                    {"tag": "650", "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"},
                 ],
                 "warnings": [],
             }
