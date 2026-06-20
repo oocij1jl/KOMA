@@ -57,7 +57,7 @@ export default function HomeDashboard() {
       <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-2 cursor-pointer" onClick={() => setCurrentView('home')}>
-            <span className="text-2xl font-extrabold text-gray-900 tracking-tight">KORMARC</span>
+            <span className="text-2xl font-extrabold text-gray-900 tracking-tight">MARC ON</span>
           </div>
           <nav className="flex space-x-10 font-bold text-gray-500 text-sm">
             <button
