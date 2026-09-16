@@ -8,7 +8,7 @@ from collections.abc import Awaitable, Callable
 from typing import TYPE_CHECKING, cast
 
 import httpx
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 
 if TYPE_CHECKING:  # pragma: no cover
@@ -17,6 +17,7 @@ if TYPE_CHECKING:  # pragma: no cover
     from backend.schemas.lookup import LookupResponseSchema as LookupResponseSchemaType
 
 try:  # pragma: no cover - import path depends on startup context
+    from backend.clients.http_client import get_http_client
     from backend.clients.llm_client import LLMClientError
     from backend.schemas.llm_output import GenerateResult
     from backend.schemas.lookup import LookupResponseSchema
@@ -25,6 +26,7 @@ try:  # pragma: no cover - import path depends on startup context
     from backend.services.lookup_service import lookup_one
     from backend.services.output_validator import OutputValidationError
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
+    get_http_client = importlib.import_module("clients.http_client").get_http_client
     LLMClientError = importlib.import_module("clients.llm_client").LLMClientError
     OutputValidationError = importlib.import_module("services.output_validator").OutputValidationError
     GenerateResult = cast(
@@ -60,11 +62,13 @@ class GeneratePayloadRequest(BaseModel):
 
 @router.post("/generate", response_model=GenerateResult)
 @router.post("/generate/marc", response_model=GenerateResult)
-async def generate_marc(body: GeneratePayloadRequest) -> "GenerateResultType":
+async def generate_marc(
+    body: GeneratePayloadRequest,
+    http_client: httpx.AsyncClient = Depends(get_http_client),
+) -> "GenerateResultType":
     """ISBN 조회 후 LLM을 호출해 GenerateResult JSON을 반환한다."""
     try:
-        async with httpx.AsyncClient() as client:
-            lookup_result = await lookup_one(client, body.isbn)
+        lookup_result = await lookup_one(http_client, body.isbn)
     except ValueError as exc:
         logger.warning("ISBN 형식 오류: isbn=%s error=%s", body.isbn, exc)
         raise HTTPException(status_code=422, detail=str(exc)) from exc

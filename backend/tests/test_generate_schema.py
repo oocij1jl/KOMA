@@ -162,8 +162,7 @@ class GenerateSchemaTests(unittest.TestCase):
         with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)), patch(
             "backend.routers.generate.generate_marc_result",
             new=AsyncMock(return_value=generated),
-        ) as generate_mock:
-            client = TestClient(app)
+        ) as generate_mock, TestClient(app) as client:
             primary = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
             alias = client.post("/api/generate", json={"isbn": "89-364-3412-X"})
 
@@ -224,8 +223,7 @@ class GenerateSchemaTests(unittest.TestCase):
         with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)), patch(
             "backend.routers.generate.generate_marc_result",
             new=AsyncMock(return_value=generated),
-        ):
-            client = TestClient(app)
+        ), TestClient(app) as client:
             response = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
 
         self.assertEqual(response.status_code, 200)
@@ -262,8 +260,9 @@ class GenerateSchemaTests(unittest.TestCase):
             "found": False,
         }
 
-        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)):
-            client = TestClient(app)
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup_payload)), TestClient(
+            app
+        ) as client:
             response = client.post("/api/generate/marc", json={"isbn": "89-364-3412-X"})
 
         self.assertEqual(response.status_code, 404)
@@ -274,15 +273,15 @@ class GenerateSchemaTests(unittest.TestCase):
         self.assertIn("ISBN 9788936434120", detail)
 
     def test_generate_routes_return_422_for_invalid_isbn(self) -> None:
-        client = TestClient(app)
-        response = client.post("/api/generate/marc", json={"isbn": "abc"})
+        with TestClient(app) as client:
+            response = client.post("/api/generate/marc", json={"isbn": "abc"})
 
         self.assertEqual(response.status_code, 422)
         self.assertEqual(response.json()["detail"], "유효하지 않은 ISBN 형식: 'abc'")
 
     def test_generate_routes_return_422_for_invalid_isbn13_checksum(self) -> None:
-        client = TestClient(app)
-        response = client.post("/api/generate/marc", json={"isbn": "9788936434121"})
+        with TestClient(app) as client:
+            response = client.post("/api/generate/marc", json={"isbn": "9788936434121"})
 
         self.assertEqual(response.status_code, 422)
         response_json = cast(dict[str, object], response.json())

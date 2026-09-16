@@ -21,10 +21,11 @@ import importlib
 import logging
 
 import httpx
-from fastapi import APIRouter, HTTPException, Query
+from fastapi import APIRouter, Depends, HTTPException, Query
 from pydantic import BaseModel, field_validator
 
 try:  # pragma: no cover - import path depends on startup context
+    from backend.clients.http_client import get_http_client
     from backend.schemas.lookup import LookupResponseSchema
     from backend.services.lookup_service import lookup_one
     from backend.utils.isbn import normalize_isbn, to_isbn13
@@ -33,6 +34,7 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     lookup_service = importlib.import_module("services.lookup_service")
     isbn_utils = importlib.import_module("utils.isbn")
 
+    get_http_client = importlib.import_module("clients.http_client").get_http_client
     LookupResponseSchema = lookup_schemas.LookupResponseSchema
     lookup_one = lookup_service.lookup_one
     normalize_isbn = isbn_utils.normalize_isbn
@@ -60,6 +62,7 @@ class LookupBulkRequest(BaseModel):
 @router.get("/lookup/isbn")
 async def lookup_isbn(
     isbn: str = Query(..., description="조회할 ISBN (10/13자리, 하이픈 허용)"),
+    http_client: httpx.AsyncClient = Depends(get_http_client),
 ):
     """ISBN으로 국중도 + 정보나루(상세·키워드·이용분석)를 병합 조회."""
     try:
@@ -68,8 +71,7 @@ async def lookup_isbn(
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
 
-    async with httpx.AsyncClient() as client:
-        result = await lookup_one(client, clean)
+    result = await lookup_one(http_client, clean)
 
     if not result["found"]:
         logger.warning("서지정보 조회 실패: isbn=%s", result["isbn"])
@@ -82,7 +84,10 @@ async def lookup_isbn(
 
 
 @router.post("/lookup/isbn/bulk")
-async def lookup_isbn_bulk(body: LookupBulkRequest):
+async def lookup_isbn_bulk(
+    body: LookupBulkRequest,
+    http_client: httpx.AsyncClient = Depends(get_http_client),
+):
     """여러 ISBN을 한 번에 조회 (각 ISBN별 4개 API 병합)."""
     normalized: list[str] = []
     errors: list[dict[str, str]] = []
@@ -101,8 +106,7 @@ async def lookup_isbn_bulk(body: LookupBulkRequest):
             detail={"message": "유효하지 않은 ISBN이 포함되어 있습니다.", "errors": errors},
         )
 
-    async with httpx.AsyncClient() as client:
-        results = await asyncio.gather(*(lookup_one(client, isbn) for isbn in normalized))
+    results = await asyncio.gather(*(lookup_one(http_client, isbn) for isbn in normalized))
 
     serialized_results = [LookupResponseSchema.model_validate(item).model_dump() for item in results]
     return {"total": len(serialized_results), "results": serialized_results}
