@@ -1,3 +1,4 @@
+import logging
 import re
 from typing import Any
 
@@ -8,6 +9,8 @@ try:  # pragma: no cover - import path depends on startup context
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     from config import settings
 
+
+logger = logging.getLogger(__name__)
 
 NL_SEOJI_URL = "https://www.nl.go.kr/seoji/SearchApi.do"
 
@@ -23,6 +26,7 @@ def _strip_price(raw: str) -> str:
 async def fetch_nl_isbn(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     """국중도 ISBN 서지정보 API → 정규화 dict."""
     if not settings.NL_API_KEY:
+        logger.warning("NL_API_KEY 미설정으로 국중도 조회 불가")
         return {"source": "nl.go.kr", "error": "API 키 미설정 (NL_API_KEY)"}
 
     params = {
@@ -37,8 +41,10 @@ async def fetch_nl_isbn(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
         resp.raise_for_status()
         data = resp.json()
     except httpx.HTTPStatusError as exc:
+        logger.warning("국중도 API HTTP 오류: isbn=%s status=%s", isbn, exc.response.status_code)
         return {"source": "nl.go.kr", "error": f"HTTP {exc.response.status_code}"}
     except Exception as exc:  # pragma: no cover - network failure path
+        logger.warning("국중도 API 호출 실패: isbn=%s error=%s", isbn, exc)
         return {"source": "nl.go.kr", "error": str(exc)}
 
     docs = data.get("docs", [])

@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import asyncio
 import importlib
+import logging
 
 import httpx
 from fastapi import APIRouter, HTTPException, Query
@@ -37,6 +38,8 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     normalize_isbn = isbn_utils.normalize_isbn
     to_isbn13 = isbn_utils.to_isbn13
 
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter()
 
@@ -69,6 +72,7 @@ async def lookup_isbn(
         result = await lookup_one(client, clean)
 
     if not result["found"]:
+        logger.warning("서지정보 조회 실패: isbn=%s", result["isbn"])
         raise HTTPException(
             status_code=404,
             detail=f"ISBN {result['isbn']} 에 해당하는 서지정보를 찾을 수 없습니다.",

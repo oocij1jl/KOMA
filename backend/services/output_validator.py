@@ -2,10 +2,13 @@ from __future__ import annotations
 
 import importlib
 import json
+import logging
 import re
 from typing import TYPE_CHECKING, Any, cast
 
 from pydantic import ValidationError
+
+logger = logging.getLogger(__name__)
 
 try:  # pragma: no cover - import path depends on startup context
     from backend.schemas import lookup as lookup_schema
@@ -59,9 +62,11 @@ def _load_json_object(raw_output: str) -> dict[str, Any]:
     try:
         parsed = json.loads(raw_output)
     except json.JSONDecodeError as exc:
+        logger.warning("LLM 응답 JSON 파싱 실패: %s", exc.msg)
         raise OutputValidationError(f"LLM 응답 JSON 파싱 실패: {exc.msg}") from exc
 
     if not isinstance(parsed, dict):
+        logger.warning("LLM 응답이 JSON 객체가 아님: type=%s", type(parsed).__name__)
         raise OutputValidationError("LLM 응답은 JSON 객체여야 합니다.")
     return parsed
 
@@ -391,6 +396,7 @@ def validate_output(
     try:
         result = GenerateResult.model_validate(parsed)
     except ValidationError as exc:
+        logger.warning("LLM 출력 스키마 검증 실패: %s", exc)
         raise OutputValidationError(f"LLM 출력 스키마 검증 실패: {exc}") from exc
 
     skipped_fields = list(result.skipped_fields)

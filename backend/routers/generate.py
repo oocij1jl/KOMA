@@ -3,6 +3,7 @@
 """
 
 import importlib
+import logging
 from collections.abc import Awaitable, Callable
 from typing import TYPE_CHECKING, cast
 
@@ -48,6 +49,8 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     )
 
 
+logger = logging.getLogger(__name__)
+
 router = APIRouter()
 
 
@@ -63,9 +66,11 @@ async def generate_marc(body: GeneratePayloadRequest) -> "GenerateResultType":
         async with httpx.AsyncClient() as client:
             lookup_result = await lookup_one(client, body.isbn)
     except ValueError as exc:
+        logger.warning("ISBN 형식 오류: isbn=%s error=%s", body.isbn, exc)
         raise HTTPException(status_code=422, detail=str(exc)) from exc
 
     if not lookup_result["found"]:
+        logger.warning("서지정보 조회 실패: isbn=%s", lookup_result["isbn"])
         raise HTTPException(
             status_code=404,
             detail=f"ISBN {lookup_result['isbn']} 에 해당하는 서지정보를 찾을 수 없습니다.",
@@ -76,8 +81,10 @@ async def generate_marc(body: GeneratePayloadRequest) -> "GenerateResultType":
     try:
         generated = await generate_marc_result(llm_input)
     except LLMClientError as exc:
+        logger.warning("MARC 생성 실패(LLM 오류): isbn=%s error=%s", body.isbn, exc)
         raise HTTPException(status_code=502, detail=str(exc)) from exc
     except OutputValidationError as exc:
+        logger.warning("MARC 생성 실패(출력 검증 오류): isbn=%s error=%s", body.isbn, exc)
         raise HTTPException(status_code=502, detail=str(exc)) from exc
 
     return cast("GenerateResultType", generated)
