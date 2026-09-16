@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194100119"
+        },
+        {
+          "code": "c",
+          "value": "35000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "그림 형제"
+        },
+        {
+          "code": "c",
+          "value": "하시모토 다카시 지음 육아리 옮김"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "427 p"
+        },
+        {
+          "code": "c",
+          "value": "140 x 220"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "번역서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "옮김 표현이 확인되어 번역 관련 일반주기를 최소한으로 부여"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "260",
+      "reason": "출판지 근거 부족"
+    },
+    {
+      "tag": "700",
+      "reason": "개인명 부출은 역할 구분과 표목 확정 필요"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 없음"
+    },
+    {
+      "tag": "653",
+      "reason": "근거 부족: 653 생성에 필요한 evidence 미수집: keywords, description, co_loan_books"
+    },
+    {
+      "tag": "056",
+      "reason": "056은 생성 가능하나 현재 요청에서 보수적으로 미생성"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황은 있으나 언어부호를 확정할 추가 근거 부족"
+    },
+    {
+      "tag": "246",
+      "reason": "대등표제 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서정보 근거 없음"
+    },
+    {
+      "tag": "546",
+      "reason": "문장형 언어주기 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 부가필드 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 근거가 없어 생성하지 않음",
+    "500은 번역 정황만 최소 반영함",
+    "245 저자 서술은 구두점 없이 정제함"
+  ]
+}

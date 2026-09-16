@@ -1,0 +1,340 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788961555951"
+        },
+        {
+          "code": "c",
+          "value": "15000"
+        },
+        {
+          "code": "q",
+          "value": "73810"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "7학년을 로딩 중"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "파랑새"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "서윤빈"
+        },
+        {
+          "code": "e",
+          "value": "저자"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "윤수란"
+        },
+        {
+          "code": "e",
+          "value": "저자"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "정명섭"
+        },
+        {
+          "code": "e",
+          "value": "저자"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이지유"
+        },
+        {
+          "code": "e",
+          "value": "저자"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "모차"
+        },
+        {
+          "code": "e",
+          "value": "삽화가"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "초등학교"
+        },
+        {
+          "code": "a",
+          "value": "중학교 입학"
+        },
+        {
+          "code": "a",
+          "value": "테마 동화집"
+        },
+        {
+          "code": "a",
+          "value": "SF"
+        },
+        {
+          "code": "a",
+          "value": "로맨스"
+        },
+        {
+          "code": "a",
+          "value": "판타지"
+        },
+        {
+          "code": "a",
+          "value": "스포츠"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 확인되는 작품의 주제와 장르 요소를 비통제 색인어로 최소 정제하여 제안"
+      },
+      "note": "정보나루 키워드 미제공으로 description 기반 제안 사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813.6"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "KDC API 값이 없고 description만으로는 확정이 어려우나 한국 어린이 문학 동화집 성격을 근거로 후보만 제안"
+      },
+      "note": "KDC 후보 검수 필요"
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "한국어로 된 국내 저자 공동집필 자료이며 번역 정황은 확인되지 않으나 본문 언어를 한국어로 제안"
+      },
+      "note": "언어부호 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "174 p"
+        },
+        {
+          "code": "c",
+          "value": "124 x 195 mm"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "초등학교를 마치고 중학교 입학을 기다리는 7학년의 시간을 담은 테마 동화집"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 형식과 내용의 일반주기를 간략히 옮김"
+      },
+      "note": "책소개 문구를 과도하게 복사하지 않도록 최소화"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 저자 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 부가필드 근거 부족"
+    }
+  ],
+  "warnings": [
+    "056은 KDC API 부재로 추론 생성된 후보이므로 검수 필요",
+    "041과 500은 description 기반 해석이 포함되어 검수 필요",
+    "653은 통제 주제명 대조 없이 생성된 비통제 색인어이므로 검수 필요"
+  ]
+}

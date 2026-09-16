@@ -1,0 +1,252 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788972979968"
+        },
+        {
+          "code": "c",
+          "value": "14000"
+        },
+        {
+          "code": "q",
+          "value": "03300"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "여자도 군대 가라는 말"
+        },
+        {
+          "code": "c",
+          "value": "김엘리"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "동녘"
+        },
+        {
+          "code": "c",
+          "value": "2021"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "여성"
+        },
+        {
+          "code": "a",
+          "value": "군인"
+        },
+        {
+          "code": "a",
+          "value": "여성징병제"
+        },
+        {
+          "code": "a",
+          "value": "신자유주"
+        },
+        {
+          "code": "a",
+          "value": "성평등"
+        },
+        {
+          "code": "a",
+          "value": "여군"
+        },
+        {
+          "code": "a",
+          "value": "논쟁"
+        },
+        {
+          "code": "a",
+          "value": "징집"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "여성",
+          "군인",
+          "시대",
+          "군대",
+          "여성징병제",
+          "신자유주",
+          "성평등",
+          "여군",
+          "논쟁",
+          "징집"
+        ],
+        "reasoning": "가중치 상위 키워드를 주제와 직접 관련된 비통제 색인어로 최소 정제하여 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "391.92"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "여성 군인과 여성징병제 논의를 다룬 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 주제 성격을 짧은 일반주기로 요약함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없고 한국어 표제와 저자 표기만 확인되어 문장형 언어주기로 최소 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "950",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "종이책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 또는 다국어 정황이 없어 생성하지 않음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "300",
+      "reason": "서술형 물리적 기술은 api 값만으로 보수 생성하지 않음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체저자 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 기반 추론 — 반드시 검수",
+    "056은 분류 검수 필요",
+    "500과 546은 저검수 주기 필드",
+    "041 미생성: 번역 정황 없음"
+  ]
+}

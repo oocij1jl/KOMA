@@ -1,0 +1,212 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791141602970"
+        },
+        {
+          "code": "c",
+          "value": "13500"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "걸음은 또 어쩜 그리 경쾌하신가요"
+        },
+        {
+          "code": "c",
+          "value": "김개미 외"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "문학동네"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "동시집"
+        },
+        {
+          "code": "a",
+          "value": "동시선집"
+        },
+        {
+          "code": "a",
+          "value": "창작동시"
+        },
+        {
+          "code": "a",
+          "value": "어린이"
+        },
+        {
+          "code": "a",
+          "value": "대표동시"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 동시집 동시선집 창작동시 어린이 대표동시가 명확히 확인되어 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 부재로 description 기반 비통제 색인어 제안"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "문학동네 동시집 시리즈 100권 출간을 기념하는 선집"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 시리즈 100권 출간을 기념하는 선집이라는 일반주기 성격의 사실이 확인됨"
+      },
+      "note": "description에서 확인되는 일반주기 사실만 간략히 기술"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 저자 및 책소개에서 한국어 자료로 판단되는 정황이 확인됨"
+      },
+      "note": "언어 설명은 041과 일관되게 해석 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 다국어 정황 없음: 041 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "기술적 서지사항 일부만 확인되어 세부값 임의 생성 금지"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 저자 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 관리필드 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653은 description 기반 추론이므로 검수 필요",
+    "500과 546은 description 근거에 의존하므로 표현 일관성 검토 필요",
+    "020과 260은 제공된 서지정보를 그대로 반영했으며 후처리 구두점 적용 필요",
+    "020 부가기호 비정상값 제거됨"
+  ]
+}

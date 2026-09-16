@@ -1,0 +1,175 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788936439910"
+        },
+        {
+          "code": "c",
+          "value": "₩17000"
+        },
+        {
+          "code": "z",
+          "value": "03810"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "나쁜 의도는 없었습니다"
+        },
+        {
+          "code": "c",
+          "value": "손원평"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "창비"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "손원평"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "소설집"
+        },
+        {
+          "code": "a",
+          "value": "내면"
+        },
+        {
+          "code": "a",
+          "value": "관계"
+        },
+        {
+          "code": "a",
+          "value": "서사"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 소설집과 인물의 내면 관계 서사에 관한 주제가 명확하여 비통제 색인어를 최소 정제해 제안"
+      },
+      "note": "정보나루 키워드 미제공으로 description 기반 제안"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저자 근거 없음"
+    },
+    {
+      "tag": "056",
+      "reason": "근거 부족: 056 생성에 필요한 evidence 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 없으므로 skipped 처리"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "300",
+      "reason": "서술형 면수 규격은 있으나 목록 레코드 자동 완성 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "500보다 특정 주기 필드 우선"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론 — 반드시 검수"
+  ]
+}

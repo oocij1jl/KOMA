@@ -1,0 +1,317 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194244349"
+        },
+        {
+          "code": "q",
+          "value": "74810"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "탐라의 아이들"
+        },
+        {
+          "code": "c",
+          "value": "정명섭 이현서 차영민 글 홍선주 그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "섬드레"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "정명섭"
+        },
+        {
+          "code": "a",
+          "value": "이현서"
+        },
+        {
+          "code": "a",
+          "value": "차영민"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "홍선주"
+        },
+        {
+          "code": "e",
+          "value": "그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "탐라국"
+        },
+        {
+          "code": "a",
+          "value": "제주도"
+        },
+        {
+          "code": "a",
+          "value": "외교관계"
+        },
+        {
+          "code": "a",
+          "value": "역사동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 탐라국 제주도 외교관계와 역사 서사가 확인되어 주제 접근어를 최소 정제하여 제안"
+      },
+      "note": "정보나루 키워드 미제공으로 description 근거만 사용"
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "911"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에 제주도 탐라국 역사 서사가 있어 한국사 계열 KDC 후보를 낮은 신뢰도로 제안"
+      },
+      "note": "KDC 후보 검수 필요"
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "author와 description에서 번역 정황은 없으나 한국어 자료로 볼 수 있어 언어부호 후보를 제한적으로 제안"
+      },
+      "note": "번역 정황 없음으로 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "139 p"
+        },
+        {
+          "code": "c",
+          "value": "165 x 225"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "490",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "섬드레 창작동화"
+        },
+        {
+          "code": "v",
+          "value": "2"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "title",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "자료 전체가 한국어로 제시되어 문장형 언어주기를 제한적으로 제안"
+      },
+      "note": "041과 일관성 검수 필요"
+    },
+    {
+      "tag": "830",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "섬드레 창작동화"
+        },
+        {
+          "code": "v",
+          "value": "2"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "950",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "₩14000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: 056만 생성"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차사항 근거 부족"
+    },
+    {
+      "tag": "500",
+      "reason": "500보다 특정 주기 필드 우선"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 부족"
+    }
+  ],
+  "warnings": [
+    "020에 대해 일부 판은 후처리에서 정규화 필요",
+    "056 041 546 653은 검수 필요"
+  ]
+}

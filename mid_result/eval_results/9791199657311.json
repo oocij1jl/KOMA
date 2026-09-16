@@ -1,0 +1,184 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791199657311"
+        },
+        {
+          "code": "c",
+          "value": "₩13000"
+        },
+        {
+          "code": "z",
+          "value": "9791198188687"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "밤의 공항"
+        },
+        {
+          "code": "c",
+          "value": "이원석"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "타이피스트"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이원석"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "시집"
+        },
+        {
+          "code": "a",
+          "value": "한국시"
+        },
+        {
+          "code": "a",
+          "value": "현대시"
+        },
+        {
+          "code": "a",
+          "value": "두번째시집"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 시집과 두 번째 시집 정황이 확인되어 주제 접근어를 최소 추출함"
+      },
+      "note": "정보나루 키워드 부재로 description 기반 최소 추론"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: 056만 생성"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "서지사항 일부만 있어 완전 기술 보류"
+    },
+    {
+      "tag": "490",
+      "reason": "총서명은 확인되나 서명과의 관계 기술은 검수 필요"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: description 단순 복사 금지"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 형식화 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653은 description 기반 추론 — 반드시 검수",
+    "056은 API 값 사용 — 반드시 검수"
+  ]
+}

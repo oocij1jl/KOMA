@@ -25,7 +25,7 @@ if TYPE_CHECKING:  # pragma: no cover
 LLMInputPayload = cast(type["LLMInputPayloadType"], llm_schema.LLMInputPayload)
 load_rules: Callable[[list[str]], dict[str, str]] = rag_loader_service.load_rules
 GenerateResult = llm_output_schema.GenerateResult
-validate_output: Callable[[str], "GenerateResultType"] = output_validator_service.validate_output
+validate_output: Callable[..., "GenerateResultType"] = output_validator_service.validate_output
 
 
 FIELD_653_EXAMPLE = {
@@ -52,7 +52,7 @@ GENERATE_RESULT_EXAMPLE = {
     "skipped_fields": [
         {
             "tag": "650",
-            "reason": "통제 주제명은 표목표 대조 필요",
+            "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체",
         }
     ],
     "warnings": ["653 색인어는 키워드 기반 추론 — 반드시 검수"],
@@ -107,7 +107,7 @@ def _format_650_skip_instruction(payload: "LLMInputPayloadType") -> str:
         return ""
     return (
         "650은 skipped_by_default에 있으므로 생성하지 않는다. "
-        "반드시 skipped_fields에 tag='650'과 reason='통제 주제명은 표목표 대조 필요'를 남긴다."
+        "반드시 skipped_fields에 tag='650'과 reason='통제 주제명은 표목표 대조 필요: 653으로 대체'를 남긴다."
     )
 
 
@@ -172,4 +172,4 @@ async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
 
     prompt = build_prompt(payload)
     raw_output = await llm_client.generate(prompt)
-    return validate_output(raw_output)
+    return validate_output(raw_output, biblio=payload.biblio, evidence=payload.evidence)

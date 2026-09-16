@@ -1,0 +1,191 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788965467892"
+        },
+        {
+          "code": "c",
+          "value": "₩14000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "isbn_ea",
+          "price"
+        ],
+        "keywords_used": [],
+        "reasoning": "ISBN과 가격은 biblio의 확정값을 근거로 생성"
+      },
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "사북 할아버지의 수상한 여행"
+        },
+        {
+          "code": "c",
+          "value": "이규희 글 방새미 그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "title",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 책임표시는 biblio의 확정값을 근거로 생성"
+      },
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "밝은미래"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "publisher",
+          "publish_year"
+        ],
+        "keywords_used": [],
+        "reasoning": "발행처와 발행년은 biblio의 확정값을 근거로 생성"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이규희"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자명은 책임표시에서 추출 가능한 확정값을 사용"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "가족애"
+        },
+        {
+          "code": "a",
+          "value": "역사"
+        },
+        {
+          "code": "a",
+          "value": "용서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 반복적으로 드러나는 주제 요소를 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 부재로 description 기반 비통제 색인어 제안 사서 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "056",
+      "reason": "KDC 근거 부족: api 값 없음"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 확인되지 않음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "페이지와 크기 외 추가 서술 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서명은 있으나 서명형 근거만으로 시리즈 필드 생성 보류"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: description 단순 복사 금지"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서 표목 확정 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 부가 필드 생성 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론이므로 검수 필요",
+    "700은 책임표시에서 추출한 개인명만 사용함"
+  ]
+}

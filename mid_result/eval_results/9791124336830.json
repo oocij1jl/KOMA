@@ -1,0 +1,242 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791124336830"
+        },
+        {
+          "code": "c",
+          "value": "18500"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "운동하면 좋은 걸 누가 모르냐고요"
+        },
+        {
+          "code": "c",
+          "value": "지은이 하주원"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": ""
+        },
+        {
+          "code": "b",
+          "value": "사이언스북스"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "하주원"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "정신건강"
+        },
+        {
+          "code": "a",
+          "value": "건강관리"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 운동 가능성 정신건강의학과 전문의 임상 경험 신체 조건과 관련된 주제가 확인되어 비통제 주제어를 최소 정제하여 제안"
+      },
+      "note": "정보나루 키워드 없음 description 근거의 주제어 제안"
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "692"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "운동과 신체활동을 다루는 내용으로 보이나 kdc_from_api가 비어 있어 확정 불가하므로 KDC 후보만 제안"
+      },
+      "note": "KDC 후보 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "273 p"
+        },
+        {
+          "code": "c",
+          "value": "128*188"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "정신건강의학과 전문의의 임상 경험과 운동 경험을 바탕으로 한 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "description과 author에서 저자의 전문성과 운동 경험을 함께 확인할 수 있어 일반주기로 기술 가능한 사실만 추려 제안"
+      },
+      "note": "일반주기 검수 필요"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "제목 저자표기 설명이 모두 한국어로 제시되어 한국어 자료로 볼 수 있음"
+      },
+      "note": "언어주기 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 또는 다국어 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체저자 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "총서 표목 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 확장 필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론이므로 검수 필요",
+    "056 KDC는 api 근거가 없어 후보 수준이며 검수 필요",
+    "500과 546은 조건부 필드이므로 사실 확인 필요"
+  ]
+}

@@ -114,7 +114,7 @@ class PromptBuildTests(unittest.TestCase):
         self.assertNotIn("rag_notes", prompt)
         self.assertNotIn("skip_allowed", prompt)
         self.assertIn("650은 skipped_by_default", prompt)
-        self.assertIn("통제 주제명은 표목표 대조 필요", prompt)
+        self.assertIn("통제 주제명은 표목표 대조 필요: 653으로 대체", prompt)
 
     def test_output_schema_uses_from_alias(self) -> None:
         evidence = FieldEvidence.model_validate(
@@ -141,7 +141,7 @@ class PromptBuildTests(unittest.TestCase):
                         "evidence": evidence.model_dump(by_alias=True),
                     }
                 ],
-                "skipped_fields": [{"tag": "650", "reason": "통제 주제명은 표목표 대조 필요"}],
+                "skipped_fields": [{"tag": "650", "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"}],
                 "warnings": ["653 색인어는 키워드 기반 추론 — 반드시 검수"],
             }
         )

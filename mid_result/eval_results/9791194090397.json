@@ -1,0 +1,243 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194090397"
+        },
+        {
+          "code": "c",
+          "value": "15000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "단종 애사"
+        },
+        {
+          "code": "h",
+          "value": "장선경"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "마루벌"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "역사동화"
+        },
+        {
+          "code": "a",
+          "value": "조선시대"
+        },
+        {
+          "code": "a",
+          "value": "왕위"
+        },
+        {
+          "code": "a",
+          "value": "유배"
+        },
+        {
+          "code": "a",
+          "value": "정의"
+        },
+        {
+          "code": "a",
+          "value": "우정"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에 나타난 역사동화와 단종 관련 서사를 바탕으로 주제 접근어를 최소 정제하여 제안"
+      },
+      "note": "사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "KDC API 값이 없어 description만으로는 확정 불가하나 한국 아동 역사동화 성격을 반영한 후보로 제안"
+      },
+      "note": "검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "160 p"
+        },
+        {
+          "code": "c",
+          "value": "128 x 188"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "어린이의 눈높이에서 풀어낸 역사동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 확인되는 작품 성격을 일반주기로 간략히 정리함"
+      },
+      "note": "사서 검수 필요"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 기술된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 책임표시 및 설명에서 번역 정황은 없고 한국어 자료로 보는 것이 자연스러움"
+      },
+      "note": "사서 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 다국어 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "700",
+      "reason": "추가 개인명 근거 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 없음"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "청구기호 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "020의 c와 q는 원문 값에서 정제됨",
+    "056은 API 값 부재로 검수 필요",
+    "653과 500은 description 기반 추론이므로 검수 필요",
+    "546은 번역 정황 없이 한국어 자료 설명으로만 제안됨",
+    "020 부가기호 비정상값 제거됨"
+  ]
+}

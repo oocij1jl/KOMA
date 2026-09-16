@@ -54,7 +54,7 @@ class LLMInputPayload(BaseModel):
             "650": FieldEvidenceMapEntry(
                 evidence_sources=[],
                 skip_allowed=True,
-                rag_notes="MVP 기본 skip — 통제 주제명은 표목표 대조 필요",
+                rag_notes="MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체",
             ),
             "056": FieldEvidenceMapEntry(evidence_sources=["keywords", "kdc_from_api", "description"]),
             "082": FieldEvidenceMapEntry(evidence_sources=["keywords", "ddc_from_api", "description"]),
