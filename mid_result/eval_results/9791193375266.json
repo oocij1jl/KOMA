@@ -1,0 +1,240 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791193375266"
+        },
+        {
+          "code": "c",
+          "value": "14800"
+        },
+        {
+          "code": "q",
+          "value": "73810"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "배다리를 지킨 아이들"
+        },
+        {
+          "code": "d",
+          "value": "이수연 글 고광삼 그림"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "베틀북"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이수연"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "고광삼"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "조선시대"
+        },
+        {
+          "code": "a",
+          "value": "소꿉친구"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 조선 시대와 배다리, 소꿉친구 관계가 확인되어 주제 접근어로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813.6"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "한국 아동 역사소설 성격의 책소개만으로 추정한 KDC 후보"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "조선 시대를 배경으로 한 어린이 역사 이야기"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개의 배경과 전개를 바탕으로 한 일반주기 후보"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 본문"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없지만 국내 저자와 한국어 서지 정보로 본문 언어를 한국어로 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "일부 서지요소는 있으나 현재 출력 정책상 미생성"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체저자 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "가격 등 로컬 메모 필드 정책상 미생성"
+    }
+  ],
+  "warnings": [
+    "056과 500, 546은 검수 필요",
+    "653은 책소개 기반 비통제 색인어이므로 검수 필요"
+  ]
+}

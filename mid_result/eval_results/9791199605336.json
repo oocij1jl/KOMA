@@ -1,0 +1,219 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791199605336"
+        },
+        {
+          "code": "c",
+          "value": "18500"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "독수리 식당을 아시나요?"
+        },
+        {
+          "code": "c",
+          "value": "박경화 글 이장미 그림"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "나무의말"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "84 p"
+        },
+        {
+          "code": "c",
+          "value": "210*260"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "환경 그림책"
+        },
+        {
+          "code": "a",
+          "value": "생명"
+        },
+        {
+          "code": "a",
+          "value": "멸종 위기 동물"
+        },
+        {
+          "code": "a",
+          "value": "사람과 자연"
+        },
+        {
+          "code": "a",
+          "value": "공존"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 주제어를 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "title",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 책임표시 및 책소개에서 번역 정황은 없으나 한국어로 된 단행본 자료로 보이는 언어 설명을 보수적으로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "환경과 생명을 다룬 그림책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 드러나는 일반적 내용만 간단한 주기로 제안하고 책소개 문장을 그대로 복사하지 않음"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "056",
+      "reason": "KDC 근거 없음: 056만 생성"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황 없음: 041 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 책임표시 근거 부족"
+    },
+    {
+      "tag": "700",
+      "reason": "개인명 추가표목은 책임표시 이외의 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 필드 생성 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 책소개 기반 추론 — 반드시 검수",
+    "500은 일반주기 최소화 권장",
+    "546과 041은 번역 정황 부재로 보수적으로만 생성 가능"
+  ]
+}

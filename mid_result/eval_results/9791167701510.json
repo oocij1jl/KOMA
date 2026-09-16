@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791167701510"
+        },
+        {
+          "code": "c",
+          "value": "17000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "경험을 기획하는 일"
+        },
+        {
+          "code": "c",
+          "value": "손현 지음"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "유유"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "콘텐츠 커뮤니케이션"
+        },
+        {
+          "code": "a",
+          "value": "성과 관리"
+        },
+        {
+          "code": "a",
+          "value": "커리어 관리"
+        },
+        {
+          "code": "a",
+          "value": "직무 이해"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 조직 내 콘텐츠로 커뮤니케이션하고 성과를 만드는 직무와 직무 파악 진입 실제 업무 흐름 성과 및 커리어 관리를 주제로 확인할 수 있어 비통제 색인어를 제안함"
+      },
+      "note": "정보나루 키워드 미제공으로 설명 기반 제안"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "700",
+      "reason": "개인명 저자 정보는 245에 이미 반영되며 추가 표목 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 없음"
+    },
+    {
+      "tag": "056",
+      "reason": "근거 부족: 056 생성에 필요한 evidence 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 없으므로 생성하지 않음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "300",
+      "reason": "일부 물리사항은 확인되나 전체 서지기술을 위한 완전 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "특정 5XX 필드가 더 적합하고 일반주기 근거 부족: description 단순 복사 금지"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서 표목 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "기관 내부필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 설명 기반 추론 — 반드시 검수",
+    "020 c는 가격에서 구두점과 통화기호를 제거한 값으로 후처리 필요"
+  ]
+}

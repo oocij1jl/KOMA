@@ -1,0 +1,193 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194100133"
+        },
+        {
+          "code": "c",
+          "value": "17000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "우리는 죽으면 어디로 갈나요"
+        },
+        {
+          "code": "c",
+          "value": "사미 라모스"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "여유당출판사"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "사미 라모스"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "그림책"
+        },
+        {
+          "code": "a",
+          "value": "죽음"
+        },
+        {
+          "code": "a",
+          "value": "자연"
+        },
+        {
+          "code": "a",
+          "value": "우주"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 그림책 형태와 죽음 자연 우주 삶과 죽음의 의미가 확인되어 주제 접근어로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 그림책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "title",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없으나 한국어 표제와 한국어 책소개를 바탕으로 자료 언어를 문장형으로 최소 기술"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "056",
+      "reason": "근거 부족: 056 생성에 필요한 evidence 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "형태사항 일부는 biblio에 있으나 생성 근거 정책상 확정 필드로 처리하지 않음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 부족"
+    },
+    {
+      "tag": "500",
+      "reason": "500보다 특정 주기 필드 우선"
+    },
+    {
+      "tag": "710",
+      "reason": "단체저자 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 필드 생성 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 목록이 없어 description 기반 추론으로 제안함 검수 필요",
+    "546은 번역 정황이 없으므로 최소 언어기술만 제안함 검수 필요",
+    "245 표제는 원문 표기를 유지해야 하며 후처리 검수 필요"
+  ]
+}

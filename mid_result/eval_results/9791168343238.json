@@ -1,0 +1,228 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791168343238"
+        },
+        {
+          "code": "c",
+          "value": "18800"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오늘 당신은 어떤 용기를 내었는가"
+        },
+        {
+          "code": "c",
+          "value": "폴 김 지음"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": ""
+        },
+        {
+          "code": "b",
+          "value": "인플루엔셜"
+        },
+        {
+          "code": "c",
+          "value": "2025"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "폴 김"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "인생 지침서"
+        },
+        {
+          "code": "a",
+          "value": "불안"
+        },
+        {
+          "code": "a",
+          "value": "두려움"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 주제어를 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 미제공으로 description 기반 추론"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "1991"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 책"
+        },
+        {
+          "code": "a",
+          "value": "폴 김이 쓴 한국어 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 저자표기 및 책소개에 번역 정황이 없어 한국어 자료로 보이는 문장형 언어 설명만 보수적으로 제안"
+      },
+      "note": "041 부호는 생성하지 않음"
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "불안과 두려움 속에서 망설이는 이들을 위한 인생 지침서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 일반주기로 옮길 만한 핵심 사실만 축약하여 제안"
+      },
+      "note": "책소개 단순 복사 아님"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "300",
+      "reason": "page와 book_size는 있으나 상세 항목 확정 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 비표준 필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 검수 필요",
+    "056은 KDC API 값 기반이지만 판차 미확정으로 검수 필요",
+    "546과 041은 번역 정황이 없어 보수적으로 처리함",
+    "500은 주기 정보만 축약해 제안함"
+  ]
+}

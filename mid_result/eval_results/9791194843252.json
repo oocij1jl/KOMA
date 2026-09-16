@@ -1,0 +1,295 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194843252"
+        },
+        {
+          "code": "c",
+          "value": "13000"
+        },
+        {
+          "code": "z",
+          "value": "9791185173702"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "엄마의 선물"
+        },
+        {
+          "code": "c",
+          "value": "신미애 두둥실"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "키위북스"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "신미애"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "두둥실"
+        },
+        {
+          "code": "e",
+          "value": "삽화"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "고학년 어린이 동화"
+        },
+        {
+          "code": "a",
+          "value": "엄마와의 재회"
+        },
+        {
+          "code": "a",
+          "value": "사랑과 이별"
+        },
+        {
+          "code": "a",
+          "value": "성장"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 주제어를 의미 변경 없이 비통제 색인어로 정제함"
+      },
+      "note": "정보나루 책소개 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8138"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 확인되지 않지만 한국어로 된 국내 창작 동화로 판단되어 본문 언어를 kor로 제안함"
+      },
+      "note": "언어부호 추정 사서 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "172 p"
+        },
+        {
+          "code": "c",
+          "value": "150 x 210"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "490",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이야기열매"
+        },
+        {
+          "code": "v",
+          "value": "5"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "본문은 한국어로 된 것으로 보인다"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없고 국내 아동 동화 소개로 한국어 자료 설명을 최소 문장으로 제안함"
+      },
+      "note": "언어 설명 추정 사서 검수 필요"
+    },
+    {
+      "tag": "830",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이야기열매"
+        },
+        {
+          "code": "v",
+          "value": "5"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: 056만 생성"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: description 단순 복사 금지"
+    },
+    {
+      "tag": "950",
+      "reason": "MARC 로컬 부가필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 설명 기반 추론 — 반드시 검수",
+    "041과 546은 언어 설명 일관성 검토 필요",
+    "056은 KDC 검수 필요"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791158366179"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "끝까지 해 보자 때밀이 장갑"
+        },
+        {
+          "code": "c",
+          "value": "유설화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "주식회사 책읽는곰"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "유설화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "목욕탕"
+        },
+        {
+          "code": "a",
+          "value": "태권도"
+        },
+        {
+          "code": "a",
+          "value": "게임"
+        },
+        {
+          "code": "a",
+          "value": "끈기"
+        },
+        {
+          "code": "a",
+          "value": "인내"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 확인되는 핵심 소재와 주제를 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": "사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "목욕탕집 3대째 이어진 배경의 이야기"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 드러나는 배경 정보를 일반주기로 축약해 제안"
+      },
+      "note": "사서 검수 필요"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 저자 정보가 한국어이고 책소개도 한국어로 제시되어 언어 주기를 문장형으로 제안"
+      },
+      "note": "사서 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 확인되지 않음"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "면수와 크기는 있으나 서지 형식 확정값 생성 보류"
+    },
+    {
+      "tag": "490",
+      "reason": "총서기호는 830 우선"
+    },
+    {
+      "tag": "830",
+      "reason": "총서 표목 형식 확정 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 필드 생성 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론이므로 검수 필요",
+    "500은 일반주기로 축약한 정보만 제안",
+    "546은 한국어 자료로 보이나 번역서 근거는 없음",
+    "020 부가기호 비정상값 제거됨"
+  ]
+}
