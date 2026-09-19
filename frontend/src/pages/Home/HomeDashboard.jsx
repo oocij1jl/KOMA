@@ -26,7 +26,7 @@ function getTitleFromResult(result) {
   return titleSubfield?.value || '제목 미확인';
 }
 
-export default function HomeDashboard() {
+export default function HomeDashboard({ onSelectBook }) {
   const [currentView, setCurrentView] = useState('home');
   const [activeInputTab, setActiveInputTab] = useState('single');
   const [selectedBook, setSelectedBook] = useState(null);
