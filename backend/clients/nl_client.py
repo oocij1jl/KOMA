@@ -44,8 +44,8 @@ async def fetch_nl_isbn(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
         logger.warning("국중도 API HTTP 오류: isbn=%s status=%s", isbn, exc.response.status_code)
         return {"source": "nl.go.kr", "error": f"HTTP {exc.response.status_code}"}
     except Exception as exc:  # pragma: no cover - network failure path
-        logger.warning("국중도 API 호출 실패: isbn=%s error=%s", isbn, exc)
-        return {"source": "nl.go.kr", "error": str(exc)}
+        logger.warning("국중도 API 호출 실패: isbn=%s error_type=%s", isbn, type(exc).__name__)
+        return {"source": "nl.go.kr", "error": "upstream request failed"}
 
     docs = data.get("docs", [])
     if not docs:
