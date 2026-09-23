@@ -2,10 +2,13 @@ from __future__ import annotations
 
 import importlib
 import json
+import logging
 import re
 from typing import TYPE_CHECKING, Any, cast
 
 from pydantic import ValidationError
+
+logger = logging.getLogger(__name__)
 
 try:  # pragma: no cover - import path depends on startup context
     from backend.schemas import lookup as lookup_schema
@@ -59,9 +62,11 @@ def _load_json_object(raw_output: str) -> dict[str, Any]:
     try:
         parsed = json.loads(raw_output)
     except json.JSONDecodeError as exc:
+        logger.warning("LLM 응답 JSON 파싱 실패: %s", exc.msg)
         raise OutputValidationError(f"LLM 응답 JSON 파싱 실패: {exc.msg}") from exc
 
     if not isinstance(parsed, dict):
+        logger.warning("LLM 응답이 JSON 객체가 아님: type=%s", type(parsed).__name__)
         raise OutputValidationError("LLM 응답은 JSON 객체여야 합니다.")
     return parsed
 
@@ -77,6 +82,22 @@ def _normalize_source_aliases(parsed: dict[str, Any]) -> None:
         source = field.get("source")
         if isinstance(source, str) and source.lower() in API_SOURCE_ALIASES:
             field["source"] = "api"
+
+
+def _assign_generated_by(parsed: dict[str, Any]) -> None:
+    """generated_by는 LLM 출력에 없는 필드다. BIBLIO_API_TAGS(API 직접 반영 필드)면
+    "api", 그 외에는 현재 파이프라인에 rule 레이어가 없으므로 전부 "llm"으로
+    서버가 직접 결정한다. T5(rule-based 변환 레이어) 도입 시 이 함수에 "rule"
+    분기가 추가될 자리다."""
+    fields = parsed.get("fields")
+    if not isinstance(fields, list):
+        return
+
+    for field in fields:
+        if not isinstance(field, dict):
+            continue
+        tag = field.get("tag")
+        field["generated_by"] = "api" if tag in BIBLIO_API_TAGS else "llm"
 
 
 def _ensure_skipped_fields(parsed: dict[str, Any]) -> list[dict[str, str]]:
@@ -387,10 +408,12 @@ def validate_output(
 
     parsed = _load_json_object(raw_output)
     _normalize_source_aliases(parsed)
+    _assign_generated_by(parsed)
     _preprocess_policy_violations(parsed)
     try:
         result = GenerateResult.model_validate(parsed)
     except ValidationError as exc:
+        logger.warning("LLM 출력 스키마 검증 실패: %s", exc)
         raise OutputValidationError(f"LLM 출력 스키마 검증 실패: {exc}") from exc
 
     skipped_fields = list(result.skipped_fields)

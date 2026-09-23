@@ -16,8 +16,8 @@ LIVE_TEST_ISBN = os.getenv("LOOKUP_TEST_ISBN", "").strip()
 )
 class LookupLiveTests(unittest.TestCase):
     def test_lookup_endpoint_returns_biblio_with_real_api_keys(self) -> None:
-        client = TestClient(app)
-        response = client.get("/api/lookup/isbn", params={"isbn": LIVE_TEST_ISBN})
+        with TestClient(app) as client:
+            response = client.get("/api/lookup/isbn", params={"isbn": LIVE_TEST_ISBN})
 
         self.assertEqual(response.status_code, 200, response.text)
         payload = response.json()

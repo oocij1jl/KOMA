@@ -16,8 +16,8 @@ venv/
 
 *.log
 *.tmp
-.env.example
 backend/docs/CLAUDE.md
 BACKEND_AUDIT_AND_PLAN.md
 
 .idea/
+backend_demo.html

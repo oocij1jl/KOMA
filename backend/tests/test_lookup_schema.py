@@ -110,8 +110,9 @@ class LookupSchemaTests(unittest.TestCase):
             "found": True,
         }
 
-        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)):
-            client = TestClient(app)
+        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)), TestClient(
+            app
+        ) as client:
             response = client.get("/api/lookup/isbn", params={"isbn": "9780306406157"})
 
         self.assertEqual(response.status_code, 200)
@@ -147,8 +148,9 @@ class LookupSchemaTests(unittest.TestCase):
             "found": False,
         }
 
-        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)):
-            client = TestClient(app)
+        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)), TestClient(
+            app
+        ) as client:
             response = client.get("/api/lookup/isbn", params={"isbn": "89-364-3412-X"})
 
         self.assertEqual(response.status_code, 404)
@@ -182,8 +184,9 @@ class LookupSchemaTests(unittest.TestCase):
             "found": True,
         }
 
-        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)):
-            client = TestClient(app)
+        with patch("backend.routers.lookup.lookup_one", new=AsyncMock(return_value=payload)), TestClient(
+            app
+        ) as client:
             response = client.post(
                 "/api/lookup/isbn/bulk",
                 json={"isbns": ["9780306406157"]},
@@ -197,18 +200,18 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertTrue(body["results"][0]["biblio"]["found"])
 
     def test_single_lookup_rejects_invalid_isbn13_checksum(self) -> None:
-        client = TestClient(app)
-        response = client.get("/api/lookup/isbn", params={"isbn": "9788936434121"})
+        with TestClient(app) as client:
+            response = client.get("/api/lookup/isbn", params={"isbn": "9788936434121"})
 
         self.assertEqual(response.status_code, 422)
         self.assertIn("ISBN-13 체크섬 오류", response.json()["detail"])
 
     def test_bulk_lookup_rejects_invalid_isbn13_checksum(self) -> None:
-        client = TestClient(app)
-        response = client.post(
-            "/api/lookup/isbn/bulk",
-            json={"isbns": ["9788936434121"]},
-        )
+        with TestClient(app) as client:
+            response = client.post(
+                "/api/lookup/isbn/bulk",
+                json={"isbns": ["9788936434121"]},
+            )
 
         self.assertEqual(response.status_code, 422)
         detail = response.json()["detail"]

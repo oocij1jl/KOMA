@@ -11,7 +11,7 @@
 
 import re
 from fastapi import APIRouter
-from pydantic import BaseModel
+from pydantic import AliasChoices, BaseModel, Field
 
 router = APIRouter()
 
@@ -26,8 +26,11 @@ class Subfield(BaseModel):
 
 class MarcField(BaseModel):
     tag: str        # 3자리 숫자 문자열
-    ind1: str = " "  # 1자리 (공백 포함)
-    ind2: str = " "
+    # /api/generate가 돌려주는 GeneratedField는 indicator1/indicator2로 부른다.
+    # 편집 화면에서 그 모양 그대로 되돌아와도(ind1/ind2로 리매핑 안 해도) 값이
+    # 조용히 공백으로 무시되지 않도록 두 이름 다 받는다.
+    ind1: str = Field(" ", validation_alias=AliasChoices("ind1", "indicator1"))
+    ind2: str = Field(" ", validation_alias=AliasChoices("ind2", "indicator2"))
     subfields: list[Subfield] = []
 
 

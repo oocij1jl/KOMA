@@ -1,4 +1,5 @@
 import importlib
+import logging
 from typing import Any
 
 import httpx
@@ -9,9 +10,11 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     settings = importlib.import_module("config").settings
 
 
-D4L_DETAIL_URL = "http://data4library.kr/api/srchDtlList"
-D4L_KEYWORD_URL = "http://data4library.kr/api/keywordList"
-D4L_USAGE_URL = "http://data4library.kr/api/usageAnalysisList"
+logger = logging.getLogger(__name__)
+
+D4L_DETAIL_URL = "https://data4library.kr/api/srchDtlList"
+D4L_KEYWORD_URL = "https://data4library.kr/api/keywordList"
+D4L_USAGE_URL = "https://data4library.kr/api/usageAnalysisList"
 
 
 def _has_empty_body(response: httpx.Response) -> bool:
@@ -21,6 +24,7 @@ def _has_empty_body(response: httpx.Response) -> bool:
 async def fetch_d4l_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     """정보나루 도서 상세 조회 API → 정규화 dict."""
     if not settings.D4L_API_KEY:
+        logger.warning("D4L_API_KEY 미설정으로 정보나루 상세조회 불가")
         return {"source": "data4library.kr", "error": "API 키 미설정 (D4L_API_KEY)"}
 
     params = {
@@ -33,6 +37,7 @@ async def fetch_d4l_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, An
         resp = await client.get(D4L_DETAIL_URL, params=params, timeout=10)
         resp.raise_for_status()
         if _has_empty_body(resp):
+            logger.warning("정보나루 상세조회 빈 응답: isbn=%s", isbn)
             return {
                 "source": "data4library.kr",
                 "found": False,
@@ -40,9 +45,11 @@ async def fetch_d4l_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, An
             }
         data = resp.json()
     except httpx.HTTPStatusError as exc:
+        logger.warning("정보나루 상세조회 HTTP 오류: isbn=%s status=%s", isbn, exc.response.status_code)
         return {"source": "data4library.kr", "error": f"HTTP {exc.response.status_code}"}
     except Exception as exc:  # pragma: no cover - network failure path
-        return {"source": "data4library.kr", "error": str(exc)}
+        logger.warning("정보나루 상세조회 실패: isbn=%s error_type=%s", isbn, type(exc).__name__)
+        return {"source": "data4library.kr", "error": "upstream request failed"}
 
     detail = data.get("response", {}).get("detail", [])
     if not detail:
@@ -86,6 +93,7 @@ async def fetch_d4l_keywords(client: httpx.AsyncClient, isbn: str) -> dict[str, 
         resp = await client.get(D4L_KEYWORD_URL, params=params, timeout=10)
         resp.raise_for_status()
         if _has_empty_body(resp):
+            logger.warning("정보나루 키워드조회 빈 응답: isbn=%s", isbn)
             return {
                 "source": "keywordList",
                 "found": False,
@@ -93,8 +101,17 @@ async def fetch_d4l_keywords(client: httpx.AsyncClient, isbn: str) -> dict[str, 
                 "error": "empty response from upstream",
             }
         data = resp.json()
+    except httpx.HTTPStatusError as exc:
+        logger.warning("정보나루 키워드조회 HTTP 오류: isbn=%s status=%s", isbn, exc.response.status_code)
+        return {
+            "source": "keywordList",
+            "found": False,
+            "keywords": [],
+            "error": f"HTTP {exc.response.status_code}",
+        }
     except Exception as exc:  # pragma: no cover - network failure path
-        return {"source": "keywordList", "found": False, "keywords": [], "error": str(exc)}
+        logger.warning("정보나루 키워드조회 실패: isbn=%s error_type=%s", isbn, type(exc).__name__)
+        return {"source": "keywordList", "found": False, "keywords": [], "error": "upstream request failed"}
 
     items = data.get("response", {}).get("items", [])
     keywords: list[dict[str, Any]] = []
@@ -127,6 +144,7 @@ async def fetch_d4l_usage(client: httpx.AsyncClient, isbn: str) -> dict[str, Any
         resp = await client.get(D4L_USAGE_URL, params=params, timeout=10)
         resp.raise_for_status()
         if _has_empty_body(resp):
+            logger.warning("정보나루 이용분석 빈 응답: isbn=%s", isbn)
             return {
                 "source": "usageAnalysisList",
                 "found": False,
@@ -134,8 +152,22 @@ async def fetch_d4l_usage(client: httpx.AsyncClient, isbn: str) -> dict[str, Any
                 "error": "empty response from upstream",
             }
         data = resp.json()
+    except httpx.HTTPStatusError as exc:
+        logger.warning("정보나루 이용분석 HTTP 오류: isbn=%s status=%s", isbn, exc.response.status_code)
+        return {
+            "source": "usageAnalysisList",
+            "found": False,
+            "co_loan_books": [],
+            "error": f"HTTP {exc.response.status_code}",
+        }
     except Exception as exc:  # pragma: no cover - network failure path
-        return {"source": "usageAnalysisList", "found": False, "co_loan_books": [], "error": str(exc)}
+        logger.warning("정보나루 이용분석 실패: isbn=%s error_type=%s", isbn, type(exc).__name__)
+        return {
+            "source": "usageAnalysisList",
+            "found": False,
+            "co_loan_books": [],
+            "error": "upstream request failed",
+        }
 
     raw_books = data.get("response", {}).get("coLoanBooks", [])
     co_loan_books: list[dict[str, str]] = []
