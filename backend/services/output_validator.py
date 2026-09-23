@@ -84,6 +84,22 @@ def _normalize_source_aliases(parsed: dict[str, Any]) -> None:
             field["source"] = "api"
 
 
+def _assign_generated_by(parsed: dict[str, Any]) -> None:
+    """generated_by는 LLM 출력에 없는 필드다. BIBLIO_API_TAGS(API 직접 반영 필드)면
+    "api", 그 외에는 현재 파이프라인에 rule 레이어가 없으므로 전부 "llm"으로
+    서버가 직접 결정한다. T5(rule-based 변환 레이어) 도입 시 이 함수에 "rule"
+    분기가 추가될 자리다."""
+    fields = parsed.get("fields")
+    if not isinstance(fields, list):
+        return
+
+    for field in fields:
+        if not isinstance(field, dict):
+            continue
+        tag = field.get("tag")
+        field["generated_by"] = "api" if tag in BIBLIO_API_TAGS else "llm"
+
+
 def _ensure_skipped_fields(parsed: dict[str, Any]) -> list[dict[str, str]]:
     skipped_fields = parsed.get("skipped_fields")
     if not isinstance(skipped_fields, list):
@@ -392,6 +408,7 @@ def validate_output(
 
     parsed = _load_json_object(raw_output)
     _normalize_source_aliases(parsed)
+    _assign_generated_by(parsed)
     _preprocess_policy_violations(parsed)
     try:
         result = GenerateResult.model_validate(parsed)

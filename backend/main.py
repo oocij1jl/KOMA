@@ -9,9 +9,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 try:  # pragma: no cover - import path depends on startup context
-    from backend.routers import generate, lookup, validate
+    from backend.routers import export, generate, lookup, validate
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
-    from routers import generate, lookup, validate
+    from routers import export, generate, lookup, validate
 
 _SENSITIVE_QUERY_PATTERN = re.compile(r"(cert_key|authKey)=[^&\s\"]+", re.IGNORECASE)
 
@@ -75,6 +75,7 @@ app.add_middleware(
 app.include_router(lookup.router, prefix="/api", tags=["lookup"])
 app.include_router(generate.router, prefix="/api", tags=["generate"])
 app.include_router(validate.router, prefix="/api", tags=["validate"])
+app.include_router(export.router, prefix="/api", tags=["export"])
 
 
 @app.get("/")
