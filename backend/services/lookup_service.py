@@ -11,6 +11,7 @@ try:  # pragma: no cover - import path depends on startup context
         fetch_d4l_usage,
     )
     from backend.clients.nl_client import fetch_nl_isbn
+    from backend.config import settings
     from backend.services.evidence_service import merge_evidence
     from backend.utils.isbn import to_isbn13
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
@@ -23,8 +24,17 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     fetch_d4l_keywords = data4library_client.fetch_d4l_keywords
     fetch_d4l_usage = data4library_client.fetch_d4l_usage
     fetch_nl_isbn = nl_client.fetch_nl_isbn
+    settings = importlib.import_module("config").settings
     merge_evidence = evidence_service.merge_evidence
     to_isbn13 = isbn_utils.to_isbn13
+
+
+SKIPPED_USAGE_RESULT: dict[str, Any] = {
+    "source": "usageAnalysisList",
+    "found": False,
+    "co_loan_books": [],
+    "error": "skipped (D4L_SKIP_USAGE)",
+}
 
 
 def _pick(*values: str) -> str:
@@ -118,14 +128,26 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
 
 
 async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
-    """4개 API 병렬 호출 → biblio/evidence/raw 분리 반환."""
+    """4개 API 병렬 호출 → biblio/evidence/raw 분리 반환.
+
+    settings.D4L_SKIP_USAGE가 켜져 있으면 정보나루 이용분석(co_loan_books)
+    호출을 건너뛴다. 정보나루는 하루 500콜 한도가 있어, 책당 호출 수를
+    3콜(상세+키워드+이용분석)에서 2콜(상세+키워드)로 줄여 대량 평가 시
+    하루에 처리 가능한 권수를 늘리기 위함이다. 653 필드의 공동대출 근거만
+    빠지고 keywords/description 근거는 그대로 유지된다.
+    """
     isbn13 = to_isbn13(isbn)
+
+    async def _usage() -> dict[str, Any]:
+        if settings.D4L_SKIP_USAGE:
+            return SKIPPED_USAGE_RESULT
+        return await fetch_d4l_usage(client, isbn13)
 
     nl, d4l, keywords_result, usage_result = await asyncio.gather(
         fetch_nl_isbn(client, isbn13),
         fetch_d4l_detail(client, isbn13),
         fetch_d4l_keywords(client, isbn13),
-        fetch_d4l_usage(client, isbn13),
+        _usage(),
     )
 
     biblio = merge_biblio(nl, d4l)

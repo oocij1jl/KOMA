@@ -1,3 +1,4 @@
+import asyncio
 import logging
 import re
 from collections.abc import AsyncIterator
@@ -40,9 +41,20 @@ logging.getLogger("httpx").addFilter(_RedactSensitiveQueryParams())
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncIterator[dict[str, object]]:
-    """앱 생애주기 동안 재사용할 httpx.AsyncClient를 생성/종료하고 request.state로 전달한다."""
+    """앱 생애주기 동안 재사용할 httpx.AsyncClient와 다건 생성 동시성 세마포어를
+    생성/종료하고 request.state로 전달한다.
+
+    세마포어를 요청마다 새로 만들지 않고 lifespan에서 한 번만 만들어 공유해야
+    (1) 여러 bulk 요청이 겹쳐 들어와도 동시 LLM 호출 총량이 하나의 상한을
+    넘지 않고, (2) asyncio 동기화 프리미티브가 실행 중인 이벤트 루프와 다른
+    루프에서 재사용되어 RuntimeError가 나는 것도 함께 방지된다(httpx.AsyncClient와
+    동일한 이유).
+    """
     async with httpx.AsyncClient() as client:
-        yield {"http_client": client}
+        yield {
+            "http_client": client,
+            "generate_semaphore": asyncio.Semaphore(generate.GENERATE_BULK_CONCURRENCY),
+        }
 
 
 app = FastAPI(
