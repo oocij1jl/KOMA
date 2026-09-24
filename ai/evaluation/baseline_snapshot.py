@@ -399,16 +399,66 @@ def parse_args() -> argparse.Namespace:
         default="",
         help="이 스냅샷의 생성 조건 메모. 모델명, API 조회 시점 등 코드에서 알 수 없는 정보.",
     )
+    parser.add_argument(
+        "--verify",
+        action="store_true",
+        help="새 스냅샷을 만들지 않고, 기존 manifest.json의 해시와 현재 파일을 대조만 한다.",
+    )
     return parser.parse_args()
+
+
+def verify_manifest(out_dir: Path) -> None:
+    """기록된 해시와 현재 파일을 대조해 기준선 훼손 여부를 확인한다."""
+
+    manifest_path = out_dir / "manifest.json"
+    if not manifest_path.is_file():
+        raise SystemExit(f"manifest.json이 없습니다: {manifest_path}")
+
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    inputs = manifest["inputs"]
+    results_dir = ROOT_DIR / inputs["results_dir"]
+    gold_mrc = ROOT_DIR / inputs["gold_mrc"]
+
+    problems: list[str] = []
+
+    if not gold_mrc.is_file():
+        problems.append(f"gold MARC 없음: {gold_mrc}")
+    elif sha256_of(gold_mrc) != inputs["gold_mrc_sha256"]:
+        problems.append(f"gold MARC 내용 변경됨: {gold_mrc}")
+
+    recorded: dict[str, str] = inputs["result_file_sha256"]
+    for isbn, digest in sorted(recorded.items()):
+        path = results_dir / f"{isbn}.json"
+        if not path.is_file():
+            problems.append(f"결과 파일 없음: {path}")
+        elif sha256_of(path) != digest:
+            problems.append(f"결과 파일 내용 변경됨: {path}")
+
+    current = {path.stem for path in results_dir.glob("*.json")} if results_dir.is_dir() else set()
+    for isbn in sorted(current - set(recorded)):
+        problems.append(f"기록에 없는 결과 파일 추가됨: {results_dir / f'{isbn}.json'}")
+
+    print(f"label: {manifest['label']}")
+    print(f"checked: gold 1 + results {len(recorded)}")
+    if problems:
+        for problem in problems:
+            print(f"- {problem}")
+        raise SystemExit(f"기준선이 훼손되었습니다: 문제 {len(problems)}건")
+    print("기준선 무결성 확인: 기록된 모든 파일이 그대로입니다.")
 
 
 def main() -> None:
     args = parse_args()
+    out_dir: Path = args.out_dir or (DEFAULT_OUT_ROOT / args.label)
+
+    if args.verify:
+        verify_manifest(out_dir)
+        return
+
     results_dir: Path = args.results_dir
     if not results_dir.is_dir():
         raise SystemExit(f"결과 디렉터리가 없습니다: {results_dir}")
 
-    out_dir: Path = args.out_dir or (DEFAULT_OUT_ROOT / args.label)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     policy = load_field_policy(GENERATE_OPTIONS_PATH)

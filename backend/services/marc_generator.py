@@ -9,23 +9,29 @@ try:  # pragma: no cover - import path depends on startup context
     from backend.schemas import llm as llm_schema
     from backend.schemas import llm_output as llm_output_schema
     from backend.clients import llm_client
+    from backend.services import deterministic_fields as deterministic_fields_service
     from backend.services import output_validator as output_validator_service
     from backend.services import rag_loader as rag_loader_service
 except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     llm_schema = importlib.import_module("schemas.llm")
     llm_output_schema = importlib.import_module("schemas.llm_output")
     llm_client = importlib.import_module("clients.llm_client")
+    deterministic_fields_service = importlib.import_module("services.deterministic_fields")
     output_validator_service = importlib.import_module("services.output_validator")
     rag_loader_service = importlib.import_module("services.rag_loader")
 
 if TYPE_CHECKING:  # pragma: no cover
     from backend.schemas.llm import LLMInputPayload as LLMInputPayloadType
+    from backend.schemas.llm_output import GeneratedField as GeneratedFieldType
     from backend.schemas.llm_output import GenerateResult as GenerateResultType
+    from backend.schemas.llm_output import SkippedField as SkippedFieldType
 
 LLMInputPayload = cast(type["LLMInputPayloadType"], llm_schema.LLMInputPayload)
 load_rules: Callable[[list[str]], dict[str, str]] = rag_loader_service.load_rules
 GenerateResult = llm_output_schema.GenerateResult
 validate_output: Callable[..., "GenerateResultType"] = output_validator_service.validate_output
+build_deterministic_fields = deterministic_fields_service.build_deterministic_fields
+DETERMINISTIC_TAGS: tuple[str, ...] = deterministic_fields_service.DETERMINISTIC_TAGS
 
 
 FIELD_653_EXAMPLE = {
@@ -75,10 +81,14 @@ def _dedupe_preserve_order(values: list[str]) -> list[str]:
 
 
 def select_generation_tags(payload: "LLMInputPayloadType") -> list[str]:
-    """payload.generate_options에서 실제 생성 대상 tag를 고른다."""
+    """payload.generate_options에서 실제 LLM 생성 대상 tag를 고른다.
+
+    규칙 레이어(deterministic_fields)가 담당하는 태그는 제외한다. 같은 태그를
+    두 경로가 동시에 만들면 API 확정값을 LLM이 덮어쓸 수 있기 때문이다.
+    """
 
     options = payload.generate_options
-    skipped = set(options.skipped_by_default)
+    skipped = set(options.skipped_by_default) | set(DETERMINISTIC_TAGS)
     candidates = [
         *options.required_fields,
         *options.review_required_fields,
@@ -152,6 +162,8 @@ def build_prompt(payload: "LLMInputPayloadType") -> str:
             "[GENERATION TAGS]\n"
             + f"생성 대상 tag: {_dump_json(generation_tags)}\n"
             + f"skipped_by_default: {_dump_json(payload.generate_options.skipped_by_default)}\n"
+            + f"규칙 레이어가 이미 생성한 tag(생성 금지): {_dump_json(list(DETERMINISTIC_TAGS))}\n"
+            + "규칙 레이어 tag는 백엔드가 biblio에서 직접 만든다. 이 tag를 출력하면 무시된다.\n"
             + f"{_format_650_skip_instruction(payload)}",
             "[RAG RULES: 각 필드를 만드는 방법]\n"
             + "이 섹션은 field_evidence_map의 evidence 소스를 사용해 값을 만드는 방법만 설명한다. "
@@ -168,8 +180,42 @@ def build_prompt(payload: "LLMInputPayloadType") -> str:
 
 
 async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
-    """프롬프트 생성, LLM 호출, 출력 검증을 묶어 GenerateResult를 반환한다."""
+    """규칙 생성, 프롬프트 생성, LLM 호출, 출력 검증을 묶어 GenerateResult를 반환한다.
+
+    규칙 레이어가 만든 필드가 최종 결과의 기준이다. LLM이 같은 태그를 만들어도
+    규칙 결과를 덮어쓰지 않는다.
+    """
 
     prompt = build_prompt(payload)
     raw_output = await llm_client.generate(prompt)
-    return validate_output(raw_output, biblio=payload.biblio, evidence=payload.evidence)
+    result = validate_output(raw_output, biblio=payload.biblio, evidence=payload.evidence)
+
+    rule_fields, rule_skipped = build_deterministic_fields(payload.biblio)
+    return merge_deterministic_fields(result, rule_fields, rule_skipped)
+
+
+def merge_deterministic_fields(
+    result: "GenerateResultType",
+    rule_fields: list["GeneratedFieldType"],
+    rule_skipped: list["SkippedFieldType"],
+) -> "GenerateResultType":
+    """규칙 생성 결과를 LLM 결과와 합친다. 같은 태그는 규칙 결과가 이긴다."""
+
+    rule_tags = {field.tag for field in rule_fields} | {item.tag for item in rule_skipped}
+    warnings = list(result.warnings)
+
+    kept_fields: list["GeneratedFieldType"] = []
+    for field in result.fields:
+        if field.tag in rule_tags:
+            warnings.append(f"{field.tag}은 규칙 레이어가 생성하므로 LLM 출력을 무시했습니다.")
+            continue
+        kept_fields.append(field)
+
+    skipped_fields = [item for item in result.skipped_fields if item.tag not in rule_tags]
+    skipped_fields.extend(rule_skipped)
+
+    return GenerateResult(
+        fields=rule_fields + kept_fields,
+        skipped_fields=skipped_fields,
+        warnings=warnings,
+    )

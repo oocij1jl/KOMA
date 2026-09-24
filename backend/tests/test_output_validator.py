@@ -704,30 +704,6 @@ class OutputValidatorTests(unittest.TestCase):
         self.assertEqual([subfield.value for subfield in result.fields[0].subfields], ["채식주의"])
         self.assertEqual(result.skipped_fields, [])
 
-    def test_validate_output_assigns_generated_by_api_for_biblio_tags(self) -> None:
-        raw_output = json.dumps(
-            {
-                "fields": [
-                    {
-                        "tag": "245",
-                        "indicator1": "1",
-                        "indicator2": "0",
-                        "subfields": [{"code": "a", "value": "채식주의자"}],
-                        "source": "api",
-                        "review_required": False,
-                        "confidence": "high",
-                    }
-                ],
-                "skipped_fields": [],
-                "warnings": [],
-            },
-            ensure_ascii=False,
-        )
-
-        result = validate_output(raw_output)
-
-        self.assertEqual(result.fields[0].generated_by, "api")
-
     def test_validate_output_assigns_generated_by_llm_for_inference_tags(self) -> None:
         raw_output = json.dumps(
             {
@@ -754,17 +730,21 @@ class OutputValidatorTests(unittest.TestCase):
         self.assertEqual(result.fields[0].generated_by, "llm")
 
     def test_validate_output_overrides_llm_reported_generated_by(self) -> None:
-        """generated_by는 LLM 출력에 있더라도 신뢰하지 않고 서버가 재계산해야 한다."""
+        """generated_by는 LLM 출력에 있더라도 신뢰하지 않고 서버가 재계산해야 한다.
+
+        LLM 응답에서 온 필드는 태그와 무관하게 "llm"이다. 규칙 레이어가 만든
+        필드만 "rule"을 가진다.
+        """
         raw_output = json.dumps(
             {
                 "fields": [
                     {
-                        "tag": "245",
-                        "indicator1": "1",
-                        "indicator2": "0",
-                        "subfields": [{"code": "a", "value": "채식주의자"}],
+                        "tag": "020",
+                        "indicator1": " ",
+                        "indicator2": " ",
+                        "subfields": [{"code": "a", "value": "9788936434120"}],
                         "source": "api",
-                        "generated_by": "llm",
+                        "generated_by": "api",
                         "review_required": False,
                         "confidence": "high",
                     }
@@ -777,7 +757,7 @@ class OutputValidatorTests(unittest.TestCase):
 
         result = validate_output(raw_output)
 
-        self.assertEqual(result.fields[0].generated_by, "api")
+        self.assertEqual(result.fields[0].generated_by, "llm")
 
 
 if __name__ == "__main__":

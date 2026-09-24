@@ -85,10 +85,13 @@ def _normalize_source_aliases(parsed: dict[str, Any]) -> None:
 
 
 def _assign_generated_by(parsed: dict[str, Any]) -> None:
-    """generated_by는 LLM 출력에 없는 필드다. BIBLIO_API_TAGS(API 직접 반영 필드)면
-    "api", 그 외에는 현재 파이프라인에 rule 레이어가 없으므로 전부 "llm"으로
-    서버가 직접 결정한다. T5(rule-based 변환 레이어) 도입 시 이 함수에 "rule"
-    분기가 추가될 자리다."""
+    """LLM 출력에서 온 필드는 모두 generated_by="llm"이다.
+
+    이 함수는 LLM 응답만 다룬다. 규칙 레이어(deterministic_fields)가 만든 필드는
+    이 경로를 거치지 않고 자기 값("rule")을 그대로 가진다. 예전에는 태그가
+    BIBLIO_API_TAGS에 있으면 "api"로 표기했지만, 실제 생성 주체가 아니라
+    태그만 보고 붙이는 라벨이라 검수자와 평가를 오도했다.
+    """
     fields = parsed.get("fields")
     if not isinstance(fields, list):
         return
@@ -96,8 +99,7 @@ def _assign_generated_by(parsed: dict[str, Any]) -> None:
     for field in fields:
         if not isinstance(field, dict):
             continue
-        tag = field.get("tag")
-        field["generated_by"] = "api" if tag in BIBLIO_API_TAGS else "llm"
+        field["generated_by"] = "llm"
 
 
 def _ensure_skipped_fields(parsed: dict[str, Any]) -> list[dict[str, str]]:
