@@ -36,6 +36,8 @@ DETERMINISTIC_TAGS: tuple[str, ...] = ("020", "245", "250", "260", "300", "490",
 # 300 ▼a 수량 단위. API 문자열에 이 단위가 있으면 그대로 따른다.
 KOREAN_EXTENT_UNITS: tuple[str, ...] = ("장", "책", "권", "면", "매")
 NUMBER_RE = re.compile(r"\d+")
+# book_size에서 숫자·구분자를 제거하고 남는 게 있으면 "알 수 없는 단위"로 본다.
+SIZE_UNIT_STRIP_RE = re.compile(r"[\d*x×\s.,]+")
 
 # 책임표시 구분에 쓰는 역할어. 긴 표현을 먼저 찾는다.
 RESPONSIBILITY_ROLE_WORDS: tuple[str, ...] = (
@@ -237,7 +239,12 @@ def _extract_height_cm(book_size: str) -> str:
 
     - `22 cm` 처럼 cm 단위면 그대로 쓴다.
     - `128*188mm` 처럼 두 값이면 큰 값을 세로로 보고 cm로 올림한다.
-    - 단위를 알 수 없으면 빈 문자열을 돌려준다. 임의 환산하지 않는다.
+    - `188*257`처럼 단위 표기가 아예 없는 경우: 정보나루/국중도 API가 실제로
+      이 형태(가로*세로, mm, 단위 생략)로 값을 준다(2026-09-25 실API 응답
+      `book_size='188*257'` 확인). 숫자 외 다른 문자가 전혀 없고 최댓값이
+      100 이상일 때만 mm 관례를 적용한다 — "22"처럼 이미 cm로 보이는 작은
+      값이나 알 수 없는 단위 문자가 섞인 값은 여전히 추정하지 않는다.
+    - 그 외에는 빈 문자열을 돌려준다. 임의 환산하지 않는다.
     """
 
     cleaned = _clean(book_size).lower()
@@ -248,12 +255,18 @@ def _extract_height_cm(book_size: str) -> str:
     if not numbers:
         return ""
 
+    if "cm" in cleaned:
+        return f"{max(numbers)} cm"
     if "mm" in cleaned:
         millimeters = max(numbers)
         return f"{-(-millimeters // 10)} cm"
-    if "cm" in cleaned:
-        return f"{max(numbers)} cm"
-    # 단위 표기가 없으면 값의 크기로 추정하지 않는다.
+
+    residual = SIZE_UNIT_STRIP_RE.sub("", cleaned)
+    if not residual and max(numbers) >= 100:
+        millimeters = max(numbers)
+        return f"{-(-millimeters // 10)} cm"
+
+    # 단위 표기가 없고 위 관례도 적용할 수 없으면 값의 크기로 추정하지 않는다.
     return ""
 
 

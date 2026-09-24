@@ -187,8 +187,24 @@ class Build300Tests(unittest.TestCase):
         assert field is not None
         self.assertNotIn("b", {code for code, _ in subfield_pairs(field)})
 
-    def test_unknown_unit_drops_size_only(self) -> None:
+    def test_unitless_two_numbers_is_treated_as_mm(self) -> None:
+        """단위 표기가 없는 '128*188' 형태는 국중도/정보나루 API가 실제로 주는
+        정상 포맷이다(2026-09-25 실API 응답 `book_size='188*257'` 확인). 관례상
+        mm(가로*세로)로 보고 세로 188mm는 19cm로 올림한다."""
         field, _ = build_300(biblio(page="200", book_size="128*188"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "200 p."), ("c", "19 cm")])
+
+    def test_small_unitless_number_is_not_guessed(self) -> None:
+        """100 미만의 단위 없는 값은 이미 cm일 가능성이 있어 mm로 추정하지 않는다."""
+        field, _ = build_300(biblio(page="200", book_size="22"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "200 p.")])
+
+    def test_unrecognized_unit_text_is_not_guessed(self) -> None:
+        field, _ = build_300(biblio(page="200", book_size="128*188in"))
 
         assert field is not None
         self.assertEqual(subfield_pairs(field), [("a", "200 p.")])
