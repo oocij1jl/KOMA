@@ -400,6 +400,64 @@ def _cleanup_structural_field_errors(
     return kept_fields
 
 
+FIELD_041_SKIP_REASON = "번역·다국어 근거 없음: 041 생성 보류"
+FIELD_546_SKIP_REASON = "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+# 546에 자주 나오는 무근거 문구. "한국어로 된 자료"처럼 자료 자체가 한국어라는
+# 추정만 담고 있으면 언어주기 근거가 되지 않는다.
+GENERIC_KOREAN_NOTE_RE = re.compile(r"^한국어(?:로)?\s*(?:된|기술된|쓰인|작성된)?\s*\S*$")
+LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "옮김", "대역", "병기", "자막", "요약", "초록", "원문")
+
+
+def _has_translation_signal(evidence: "EvidenceSchemaType | None") -> bool:
+    if evidence is None:
+        return False
+    signals = getattr(evidence, "translation_signals", None)
+    return bool(getattr(signals, "detected", False))
+
+
+def _enforce_language_field_policy(
+    fields: list["GeneratedFieldType"],
+    skipped_fields: list["SkippedFieldType"],
+    warnings: list[str],
+    *,
+    evidence: "EvidenceSchemaType | None",
+) -> list["GeneratedFieldType"]:
+    """041/546을 근거 없이 만든 경우 제거한다.
+
+    - 041은 008/35-37만으로 부족할 때 쓰는 필드다. 본문언어 하나만 기술한
+      041은 정보를 더하지 않으므로, 번역 정황이 없으면 남기지 않는다.
+    - 546은 문장형 언어 설명이다. "한국어로 된 자료"처럼 단일 언어 추정만
+      담긴 주기는 근거가 아니다.
+    """
+
+    translation_detected = _has_translation_signal(evidence)
+    kept_fields: list["GeneratedFieldType"] = []
+
+    for field in fields:
+        if field.tag == "041":
+            codes = {subfield.code for subfield in field.subfields}
+            only_text_language = codes <= {"a"}
+            if only_text_language and not translation_detected:
+                warnings.append("041 본문언어만 기술되어 근거 부족으로 제거됨")
+                _set_skip_reason(skipped_fields, "041", FIELD_041_SKIP_REASON)
+                continue
+
+        if field.tag == "546":
+            values = [subfield.value for subfield in field.subfields if subfield.code == "a"]
+            informative = any(
+                keyword in value for value in values for keyword in LANGUAGE_NOTE_KEYWORDS
+            )
+            generic_only = all(GENERIC_KOREAN_NOTE_RE.match(value) for value in values) if values else True
+            if not informative and (generic_only or not translation_detected):
+                warnings.append("546 언어주기 근거 부족으로 제거됨")
+                _set_skip_reason(skipped_fields, "546", FIELD_546_SKIP_REASON)
+                continue
+
+        kept_fields.append(field)
+
+    return kept_fields
+
+
 def validate_output(
     raw_output: str,
     *,
@@ -434,6 +492,7 @@ def validate_output(
                 subfield.value = normalized
 
     fields = _cleanup_structural_field_errors(fields, skipped_fields, warnings)
+    fields = _enforce_language_field_policy(fields, skipped_fields, warnings, evidence=evidence)
     fields = _remove_redundant_653_fields(fields, skipped_fields, biblio=biblio, evidence=evidence)
 
     return GenerateResult(fields=fields, skipped_fields=skipped_fields, warnings=warnings)

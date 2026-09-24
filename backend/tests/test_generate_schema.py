@@ -75,10 +75,11 @@ class GenerateSchemaTests(unittest.TestCase):
             "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체",
         )
         self.assertEqual(generate_options["review_required_fields"], ["653", "056", "082"])
-        self.assertEqual(generate_options["skipped_by_default"], ["650"])
+        self.assertEqual(generate_options["skipped_by_default"], ["650", "830", "950"])
         self.assertNotIn("650", generate_options["required_fields"])
         self.assertNotIn("650", generate_options["review_required_fields"])
-        self.assertIn("710", generate_options["required_fields"])
+        # 710 단체저자는 근거가 있을 때만 만드는 조건부 필드다.
+        self.assertIn("710", generate_options["conditional_fields"])
 
     def test_lookup_one_uses_isbn13_for_upstream_calls(self) -> None:
         async def run_test() -> None:

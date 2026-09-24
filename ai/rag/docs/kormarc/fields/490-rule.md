@@ -1,0 +1,50 @@
+# 490 총서사항
+
+## Metadata
+
+- `chunk_group`: `kormarc.field.490`
+- `tag`: `490`
+- `field_name`: `총서사항`
+- `generation_path`: `rule` (코드가 biblio에서 결정론적으로 생성한다. LLM 생성 대상 아님)
+- `source_type`: `official_kormarc_summary`
+- `official_source`: https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/4XX_490.html
+- `schema_source`: `backend/docs/KOMA_스키마_v2.1.md`
+- `last_reviewed`: `2026-09-24`
+
+## 생성 주체
+
+490은 `backend/services/deterministic_fields.py`가 만든다. LLM 프롬프트의 생성 대상에서 제외되며, LLM이 이 태그를 출력해도 무시된다.
+
+## Purpose
+
+490은 총서 표제를 기술하는 해당시필수 반복 필드다. 490은 총서사항을 기술할 뿐 총서부출표목의 역할은 하지 않는다. 이 서비스에서는 biblio.series_title과 series_no를 코드가 전사한다.
+
+## Indicators
+
+제1지시기호는 총서의 부출이며 0은 총서를 부출하지 않음, 1은 총서를 부출함이다. 1을 쓰려면 대응하는 800-830 총서부출표목을 함께 기술해야 한다. 이 서비스는 830을 만들지 않으므로 항상 0을 쓴다. 제2지시기호는 표제 배열이며 원괄호 관제가 있을 때만 1이다.
+
+## Subfields
+
+허용 식별기호는 a 총서사항, v 총서번호, x ISSN, y 부정확한 ISSN, z 취소된 ISSN, 3, 6, 8이다.
+
+## Service Generation Rule
+
+biblio.series_title을 a에, series_no가 있으면 v에 기술한다. 총서명이 없으면 490을 만들지 않고 '총서사항 근거 없음: 총서명 미수집'을 남긴다.
+
+## Forbidden
+
+490 값을 그대로 830 총서부출표목으로 복사하지 않는다. 총서부출표목은 전거 확인과 기관 정책이 필요하므로 자동 생성하지 않는다. 제1지시기호 1을 830 없이 쓰지 않는다.
+
+## Retrieval Hints
+
+- 490 정의
+- 총서사항
+- 490 지시기호
+- 총서 부출
+- 830 연동
+- 490 식별기호
+- 총서번호 v
+- 490 생성
+- 총서명 없음
+- 490 금지
+- 830 자동 생성 금지

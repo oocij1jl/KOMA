@@ -17,12 +17,22 @@ EvidenceSchema = cast(type["EvidenceSchemaType"], lookup_schema.EvidenceSchema)
 
 
 class GenerateOptions(BaseModel):
-    required_fields: list[str] = Field(default_factory=lambda: ["020", "245", "260", "700", "710"])
+    """필드 정책.
+
+    이 목록은 '레코드에 필요한 필드'를 뜻하며 생성 주체와는 다르다.
+    020/245/250/260/300/490/056/082는 `services/deterministic_fields.py`의 규칙
+    레이어가 biblio에서 직접 만들고, LLM 생성 대상에서는 제외된다.
+    LLM이 실제로 담당하는 필드는 653/500/546/041/246/700/710이다.
+    """
+
+    required_fields: list[str] = Field(default_factory=lambda: ["020", "245", "260", "700"])
     review_required_fields: list[str] = Field(default_factory=lambda: ["653", "056", "082"])
     conditional_fields: list[str] = Field(
-        default_factory=lambda: ["041", "246", "250", "300", "490", "500", "546", "830", "950"]
+        default_factory=lambda: ["041", "246", "250", "300", "490", "500", "546", "710"]
     )
-    skipped_by_default: list[str] = Field(default_factory=lambda: ["650"])
+    # 650: 표목표 대조 근거 없음. 830: 총서부출표목 전거 정책 미확정.
+    # 950: 기관 로컬 필드라 자관 규칙 없이 자동 생성하지 않는다.
+    skipped_by_default: list[str] = Field(default_factory=lambda: ["650", "830", "950"])
     allow_inference: bool = True
     show_source: bool = True
 

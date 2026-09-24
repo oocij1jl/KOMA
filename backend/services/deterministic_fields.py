@@ -30,7 +30,12 @@ SkippedField = cast(type["SkippedFieldType"], llm_output_schema.SkippedField)
 
 
 # 이 모듈이 담당하는 태그. marc_generator가 LLM 생성 대상에서 뺀다.
-DETERMINISTIC_TAGS: tuple[str, ...] = ("245",)
+# 값이 없으면 LLM에 넘기지 않고 skip 사유를 남긴다. 추론으로 채울 필드가 아니다.
+DETERMINISTIC_TAGS: tuple[str, ...] = ("020", "245", "250", "260", "300", "490", "056", "082")
+
+# 300 ▼a 수량 단위. API 문자열에 이 단위가 있으면 그대로 따른다.
+KOREAN_EXTENT_UNITS: tuple[str, ...] = ("장", "책", "권", "면", "매")
+NUMBER_RE = re.compile(r"\d+")
 
 # 책임표시 구분에 쓰는 역할어. 긴 표현을 먼저 찾는다.
 RESPONSIBILITY_ROLE_WORDS: tuple[str, ...] = (
@@ -205,18 +210,335 @@ def build_245(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
     return field, None
 
 
+def _extract_extent(page: str) -> str:
+    """`biblio.page`에서 수량과 특정자료종별을 만든다.
+
+    숫자가 없으면 빈 문자열을 돌려준다. 수량을 추정하지 않는다.
+    """
+
+    cleaned = _clean(page)
+    if not cleaned:
+        return ""
+
+    match = NUMBER_RE.search(cleaned)
+    if match is None:
+        return ""
+
+    count = match.group()
+    # API가 이미 단위를 갖고 있으면 그 단위를 따른다. 없으면 도서 기본 단위 p.를 쓴다.
+    for unit in KOREAN_EXTENT_UNITS:
+        if unit in cleaned:
+            return f"{count}{unit}"
+    return f"{count} p."
+
+
+def _extract_height_cm(book_size: str) -> str:
+    """`biblio.book_size`에서 세로 크기(cm)를 만든다.
+
+    - `22 cm` 처럼 cm 단위면 그대로 쓴다.
+    - `128*188mm` 처럼 두 값이면 큰 값을 세로로 보고 cm로 올림한다.
+    - 단위를 알 수 없으면 빈 문자열을 돌려준다. 임의 환산하지 않는다.
+    """
+
+    cleaned = _clean(book_size).lower()
+    if not cleaned:
+        return ""
+
+    numbers = [int(value) for value in NUMBER_RE.findall(cleaned)]
+    if not numbers:
+        return ""
+
+    if "mm" in cleaned:
+        millimeters = max(numbers)
+        return f"{-(-millimeters // 10)} cm"
+    if "cm" in cleaned:
+        return f"{max(numbers)} cm"
+    # 단위 표기가 없으면 값의 크기로 추정하지 않는다.
+    return ""
+
+
+def build_300(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    """biblio.page/book_size로 300을 만든다.
+
+    삽화(▼b)는 근거가 없으므로 만들지 않는다. 지시기호는 미정의라 공백이다.
+    """
+
+    extent = _extract_extent(_clean(getattr(biblio, "page", "")))
+    height = _extract_height_cm(_clean(getattr(biblio, "book_size", "")))
+
+    subfields: list[dict[str, str]] = []
+    if extent:
+        subfields.append({"code": "a", "value": extent})
+    if height:
+        subfields.append({"code": "c", "value": height})
+
+    if not subfields:
+        return None, SkippedField(tag="300", reason="형태사항 근거 없음: page/book_size 미수집")
+
+    notes = ["biblio.page/book_size 변환"]
+    if not extent:
+        notes.append("수량 근거 없음")
+    if not height:
+        notes.append("크기 근거 없음 또는 단위 미확인")
+
+    field = GeneratedField(
+        tag="300",
+        source="api",
+        generated_by="rule",
+        indicator1=" ",
+        indicator2=" ",
+        subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in subfields],
+        review_required=True,
+        confidence="medium",
+        evidence=None,
+        note=". ".join(notes),
+    )
+    return field, None
+
+
+def _build_classification(
+    *,
+    tag: str,
+    value: str,
+    edition: str,
+    skip_reason: str,
+) -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    """056/082 공통. API 분류기호가 있을 때만 전사한다."""
+
+    number = _clean(value)
+    if not number:
+        return None, SkippedField(tag=tag, reason=skip_reason)
+
+    subfields: list[dict[str, str]] = [{"code": "a", "value": number}]
+    notes = [f"API 분류기호 전사({tag})"]
+
+    edition_value = _clean(edition)
+    if edition_value:
+        subfields.append({"code": "2", "value": edition_value})
+    else:
+        notes.append("판차 미수집 — 검수 필요")
+
+    # 056은 지시기호가 미정의라 공백이다.
+    # 082는 판 유형(제1)과 부여 출처(제2)를 확정할 근거가 없으므로 공백으로 두고 검수에 맡긴다.
+    field = GeneratedField(
+        tag=tag,
+        source="api",
+        generated_by="rule",
+        indicator1=" ",
+        indicator2=" ",
+        subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in subfields],
+        review_required=True,
+        confidence="medium",
+        evidence=None,
+        note=". ".join(notes),
+    )
+    return field, None
+
+
+def build_056(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    return _build_classification(
+        tag="056",
+        value=getattr(biblio, "kdc", ""),
+        edition=getattr(biblio, "kdc_edition", ""),
+        skip_reason="KDC 근거 없음: API 분류기호 미수집",
+    )
+
+
+def build_082(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    return _build_classification(
+        tag="082",
+        value=getattr(biblio, "ddc", ""),
+        edition=getattr(biblio, "ddc_edition", ""),
+        skip_reason="DDC 근거 없음: API 분류기호 미수집",
+    )
+
+
+def build_020(biblio: "BiblioSchemaType") -> tuple[list["GeneratedFieldType"], list["SkippedFieldType"]]:
+    """biblio의 ISBN·부가기호·가격·세트 정보로 020을 만든다.
+
+    낱권 번호와 세트 번호는 제1지시기호가 다르므로 필드를 나눠 기술한다.
+    """
+
+    fields: list[GeneratedFieldType] = []
+
+    isbn = _clean(getattr(biblio, "isbn_ea", ""))
+    add_code = _clean(getattr(biblio, "isbn_add_code", ""))
+    price = _clean(getattr(biblio, "price", ""))
+    if isbn or price:
+        subfields: list[dict[str, str]] = []
+        if isbn:
+            subfields.append({"code": "a", "value": isbn})
+        # 부가기호는 우리나라 ISBN에만 쓰는 5자리 숫자다. 형식이 다르면 버린다.
+        if add_code.isdigit() and len(add_code) == 5:
+            subfields.append({"code": "g", "value": add_code})
+        if price:
+            subfields.append({"code": "c", "value": price})
+        fields.append(
+            GeneratedField(
+                tag="020",
+                source="api",
+                generated_by="rule",
+                indicator1=" ",
+                indicator2=" ",
+                subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in subfields],
+                review_required=False,
+                confidence="high",
+                evidence=None,
+                note="biblio ISBN 전사",
+            )
+        )
+
+    set_isbn = _clean(getattr(biblio, "set_isbn", ""))
+    if set_isbn:
+        set_subfields: list[dict[str, str]] = [{"code": "a", "value": set_isbn}]
+        set_expression = _clean(getattr(biblio, "set_expression", ""))
+        if set_expression:
+            set_subfields.append({"code": "q", "value": set_expression})
+        set_add_code = _clean(getattr(biblio, "set_add_code", ""))
+        if set_add_code.isdigit() and len(set_add_code) == 5:
+            set_subfields.append({"code": "g", "value": set_add_code})
+        fields.append(
+            GeneratedField(
+                tag="020",
+                source="api",
+                generated_by="rule",
+                indicator1="1",
+                indicator2=" ",
+                subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in set_subfields],
+                review_required=True,
+                confidence="high",
+                evidence=None,
+                note="세트 ISBN 전사",
+            )
+        )
+
+    if not fields:
+        return [], [SkippedField(tag="020", reason="ISBN 근거 없음: 020 생성 불가")]
+    return fields, []
+
+
+def build_250(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    """판사항은 API에 명시된 문구가 있을 때만 만든다. 초판을 가정하지 않는다."""
+
+    edition_stmt = _clean(getattr(biblio, "edition_stmt", ""))
+    if not edition_stmt:
+        return None, SkippedField(tag="250", reason="판사항 근거 없음: 판 표시 미수집")
+
+    field = GeneratedField(
+        tag="250",
+        source="api",
+        generated_by="rule",
+        indicator1=" ",
+        indicator2=" ",
+        subfields=[llm_output_schema.SubfieldItem(code="a", value=edition_stmt)],
+        review_required=False,
+        confidence="high",
+        evidence=None,
+        note="biblio.edition_stmt 전사",
+    )
+    return field, None
+
+
+def build_260(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    """발행사항을 만든다.
+
+    발행지(▼a)는 두 API 모두 제공하지 않으므로 생성하지 않는다. 출판사 주소를
+    추정해 넣지 않는다.
+    """
+
+    publisher = _clean(getattr(biblio, "publisher", ""))
+    year = _clean(getattr(biblio, "publish_year", ""))
+
+    subfields: list[dict[str, str]] = []
+    if publisher:
+        subfields.append({"code": "b", "value": publisher})
+    if year:
+        subfields.append({"code": "c", "value": year})
+
+    if not subfields:
+        return None, SkippedField(tag="260", reason="발행사항 근거 없음: 발행처·발행년 미수집")
+
+    notes = ["biblio.publisher/publish_year 전사", "발행지 미수집 — 검수 필요"]
+    field = GeneratedField(
+        tag="260",
+        source="api",
+        generated_by="rule",
+        indicator1=" ",
+        indicator2=" ",
+        subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in subfields],
+        review_required=True,
+        confidence="high",
+        evidence=None,
+        note=". ".join(notes),
+    )
+    return field, None
+
+
+def build_490(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
+    """총서사항을 만든다.
+
+    제1지시기호는 총서 부출 여부다. 이 서비스는 830 총서부출표목을 만들지
+    않으므로 `0`(총서를 부출하지 않음)으로 둔다.
+    """
+
+    series_title = _clean(getattr(biblio, "series_title", ""))
+    if not series_title:
+        return None, SkippedField(tag="490", reason="총서사항 근거 없음: 총서명 미수집")
+
+    subfields: list[dict[str, str]] = [{"code": "a", "value": series_title}]
+    series_no = _clean(getattr(biblio, "series_no", ""))
+    if series_no:
+        subfields.append({"code": "v", "value": series_no})
+
+    indicator2 = "1" if series_title.startswith("(") and ")" in series_title else "0"
+    field = GeneratedField(
+        tag="490",
+        source="api",
+        generated_by="rule",
+        indicator1="0",
+        indicator2=indicator2,
+        subfields=[llm_output_schema.SubfieldItem(**subfield) for subfield in subfields],
+        review_required=True,
+        confidence="high",
+        evidence=None,
+        note="biblio.series_title 전사. 총서 부출(830)은 전거 확인 전까지 생성하지 않음",
+    )
+    return field, None
+
+
+def _as_lists(
+    result: tuple["GeneratedFieldType | None", "SkippedFieldType | None"],
+) -> tuple[list["GeneratedFieldType"], list["SkippedFieldType"]]:
+    field, skipped = result
+    return ([field] if field is not None else []), ([skipped] if skipped is not None else [])
+
+
+BUILDERS = {
+    "020": build_020,
+    "245": lambda biblio: _as_lists(build_245(biblio)),
+    "250": lambda biblio: _as_lists(build_250(biblio)),
+    "260": lambda biblio: _as_lists(build_260(biblio)),
+    "300": lambda biblio: _as_lists(build_300(biblio)),
+    "490": lambda biblio: _as_lists(build_490(biblio)),
+    "056": lambda biblio: _as_lists(build_056(biblio)),
+    "082": lambda biblio: _as_lists(build_082(biblio)),
+}
+
+
 def build_deterministic_fields(
     biblio: "BiblioSchemaType",
 ) -> tuple[list["GeneratedFieldType"], list["SkippedFieldType"]]:
-    """규칙으로 만들 수 있는 필드를 모두 만든다."""
+    """규칙으로 만들 수 있는 필드를 모두 만든다.
 
-    fields: list[GeneratedFieldType] = []
-    skipped: list[SkippedFieldType] = []
+    값이 없으면 필드 대신 skip 사유를 남긴다. 추론으로 채우지 않는다.
+    """
 
-    field_245, skipped_245 = build_245(biblio)
-    if field_245 is not None:
-        fields.append(field_245)
-    if skipped_245 is not None:
-        skipped.append(skipped_245)
+    fields: list["GeneratedFieldType"] = []
+    skipped: list["SkippedFieldType"] = []
+
+    for tag in DETERMINISTIC_TAGS:
+        built_fields, built_skips = BUILDERS[tag](biblio)
+        fields.extend(built_fields)
+        skipped.extend(built_skips)
 
     return fields, skipped

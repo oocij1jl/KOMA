@@ -450,8 +450,137 @@ python3 ai/evaluation/baseline_snapshot.py --label mid-presentation --verify
 
 테스트: `backend/tests/test_deterministic_fields.py` 13건, `backend/tests/test_marc_generator.py` 병합 동작 2건. 백엔드 전체 126건 통과.
 
+### 5단계 — 300, 056, 082, 041/546 (완료)
+
+**300 / 056 / 082는 규칙 레이어로 옮겼다.** 값이 없으면 LLM에 넘기지 않고 skip 사유를 남긴다.
+
+| 태그 | 입력 | 규칙 | 값이 없을 때 |
+|---|---|---|---|
+| 300 | `page`, `book_size` | 수량은 API 단위(장·책·권·면·매) 유지, 없으면 `p.`. 크기는 mm면 세로값을 cm로 올림, cm면 그대로. 단위 불명이면 생성 안 함 | `형태사항 근거 없음` |
+| 056 | `kdc`, `kdc_edition` | `$a` 전사, 판차 있으면 `$2`. 지시기호 공백 | `KDC 근거 없음` (키워드 추론 금지) |
+| 082 | `ddc`, `ddc_edition` | `$a` 전사. 판 유형·부여 출처 근거가 없어 지시기호 공백 | `DDC 근거 없음` (KDC 변환 금지) |
+
+**041 / 546은 LLM이 담당하되 검증기가 근거 없는 생성을 제거한다.**
+
+- 041: 본문언어 `$a` 하나뿐이고 번역 신호가 없으면 제거. 008/35-37에 이미 있는 정보라 추가 가치가 없다.
+- 546: `한국어로 된 자료`처럼 단일 언어 추정만 담은 주기는 제거. 번역·원작·대역·병기·자막·요약 같은 언어 정보가 있으면 유지.
+
+공식 원문 대조: [041](https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_041.html), [082](https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_082.html), [300](https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/3XX_300.html), [546](https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/5XX_546.html).
+
+### 6단계 — LLM 담당 필드 정리 (완료)
+
+순수 전사 필드를 모두 규칙 레이어로 옮겨 **생성 주체를 분리**했다.
+
+| 구분 | 태그 | 생성 주체 |
+|---|---|---|
+| 규칙 레이어 | 020, 245, 250, 260, 300, 490, 056, 082 | `backend/services/deterministic_fields.py` |
+| LLM | 700, 710, 653, 500, 546, 041, 246 | 프롬프트 + RAG 규칙 |
+| 기본 제외 | 650, 830, 950 | 생성하지 않고 사유 기록 |
+
+- 650: 표목표 대조 근거 없음(기존 정책 유지).
+- 830: 총서부출표목은 전거·기관 정책이 필요하다. 490을 복사해 만들지 않는다.
+- 950: 기관 로컬 필드다. 자관 규칙 없이 자동 생성하지 않는다. 중간발표 결과의 `950$a 종이책` 같은 오류를 원천 차단한다.
+- 710을 `required_fields`에서 `conditional_fields`로 옮겼다. 일반 도서에 단체저자는 대부분 없다.
+
+### 7단계 — RAG 수정 (완료)
+
+| 작업 | 대상 |
+|---|---|
+| 신규 규칙 문서·청크 | 020, 250, 260, 300, 490 (규칙 레이어), 700, 710, 246 (LLM) |
+| 정책 반영해 재작성 | 056, 082 (규칙 레이어로 전환), 041, 546 (근거 조건 강화) |
+| 유지 | 500, 653, 650 |
+
+각 문서에 `generation_path`(rule/llm)를 명시해 생성 주체를 규칙 자체에 기록했다.
+
+확인: **LLM 생성 대상 7개 태그 전부 RAG 규칙이 주입된다.** 중간발표 시점에는 17개 중 6개뿐이었다.
+
+```text
+LLM 생성 대상: ['700', '653', '041', '246', '500', '546', '710']
+규칙 주입:     ['041', '246', '500', '546', '653', '700', '710']
+규칙 없는 LLM 태그: []
+```
+
+### 8단계 — 같은 33권 다시 생성 (미완료: API 키 없음)
+
+**실행하지 못했다.** 재생성은 국중도·정보나루·LLM을 실제로 호출해야 하는데, 이 저장소에는 `.env`가 없고 `NL_API_KEY`/`D4L_API_KEY`/`OPENAI_API_KEY` 환경변수도 설정돼 있지 않다. 키 없이 만든 결과를 재생성 결과로 보고할 수는 없다.
+
+키가 준비되면 아래 순서로 실행한다.
+
+```sh
+# 1) 키 설정 (backend/.env.example 참고, 커밋 금지)
+cp backend/.env.example backend/.env && $EDITOR backend/.env
+
+# 2) 서버 기동
+uvicorn backend.main:app --port 8000
+
+# 3) 기존 결과를 덮어쓰지 않도록 새 디렉터리로 재생성 + 평가
+python3 ai/evaluation/evaluate_koma.py \
+  --results-dir ai/evaluation/runs/after-rule-layer/results \
+  --summary-csv ai/evaluation/runs/after-rule-layer/eval_summary.csv \
+  --summary-old-csv ai/evaluation/runs/after-rule-layer/eval_summary_old.csv \
+  --books-csv ai/evaluation/runs/after-rule-layer/eval_books.csv \
+  --details-json ai/evaluation/runs/after-rule-layer/eval_details.json \
+  --isbns-txt ai/evaluation/runs/after-rule-layer/eval_isbns.txt
+
+# 4) 필드 현황 스냅샷 + 기준선 훼손 여부 확인
+python3 ai/evaluation/baseline_snapshot.py --label after-rule-layer \
+  --results-dir ai/evaluation/runs/after-rule-layer/results \
+  --note "모델·조회시점·D4L_SKIP_USAGE 값을 여기에 기록"
+python3 ai/evaluation/baseline_snapshot.py --label mid-presentation --verify
+```
+
+재생성 시 `D4L_SKIP_USAGE` 값을 반드시 기록한다. 이 플래그가 켜져 있으면 `co_loan_books` 근거가 빠져 653 결과가 달라진다.
+
+대신 **전체 경로가 실제로 동작하는지는 확인했다.** 외부 호출만 대역으로 두고 라우터→규칙 레이어→검증기를 실제 코드로 통과시켰다(`backend/tests/test_generate_pipeline.py`).
+
+```text
+020    $a9791194630678$g13000$c₩13000        [api/rule]
+245 00 $a모두의 노션 AI$b초보자도 바로 써먹는 노션 입문서$d임대균 오가연 지음   [api/rule]
+260    $b생능북스$c2026                        [api/rule]
+300    $a190 p.$c26 cm                       [api/rule]
+490 00 $a모두의 시리즈$v12                     [api/rule]
+056    $a005.58                              [api/rule]
+653    $a인공지능$a업무관리                     [ai_inference/llm]
+skipped: 546(단일 언어 추정), 250(판사항 미수집), 082(DDC 미수집)
+```
+
+LLM이 예전과 같은 `245$c`와 `546 한국어로 된 자료`를 출력해도 최종 결과에서 제거됐다. 이 도서의 gold 300은 `190 p. : 천연색삽화 ; 26 cm`로, 규칙이 만든 `190 p.`/`26 cm`와 일치한다(삽화는 근거가 없어 생성하지 않음).
+
+### 9단계 — 기존 결과 vs 새 결과 비교 (오프라인 범위만 완료)
+
+실제 재생성이 막혀 있어, **저장된 33권을 새 파이프라인에 통과시킨 오프라인 비교**를 했다. 규칙 레이어와 검증기는 실제 코드이고, 입력만 저장 결과에서 역산한 대체값이다.
+
+평가는 양쪽 모두 새 평가 기준(3단계)으로 했다.
+
+| 필드 | gold | 생성 권수 | 정확 건수 | 구조 위반 도서 |
+|---|---:|---:|---:|---:|
+| 020 | 33 | 33 → 33 | 33 → 33 | 0 → 0 |
+| 245 | 33 | 33 → 33 | 2 → **13** | 29 → **0** |
+| 260 | 33 | 32 → 32 | 25 → 25 | 0 → 0 |
+| 300 | 33 | 11 → 11 | 2 → 0 | 0 → 0 |
+| 056 | 33 | 21 → 21 | 5 → 5 | 0 → 0 |
+| 653 | 33 | 31 → 31 | 23 → 23 | 0 → 0 |
+| **전체** | | 완전성 0.7446 유지 | 정확도 **0.5719 → 0.5936** | **29 → 0** |
+
+과잉 생성도 줄었다.
+
+| 태그 | 생성 권수 | gold 보유 권수 |
+|---|---|---:|
+| 546 | 19 → 0 | 3 |
+| 041 | 5 → 1 | 3 |
+| 082 | 1 → 0 | 0 |
+| 830 | 3 → 0 | 0 |
+| 950 | 2 → 0 | 33(기관 로컬) |
+
+**이 비교의 한계(반드시 감안할 것)**
+
+- 입력이 실제 API 값이 아니라 저장된 생성 결과에서 역산한 값이다. 예를 들어 300은 저장값 `152 x 224`에 단위가 없어 크기가 빠졌고, 그래서 정확 2건이 0건이 됐다. 실제 API `book_size`는 `188*257mm`처럼 단위가 있어 위 스모크에서는 `26 cm`가 정상 생성됐다.
+- 546이 0권이 된 것도 대체 입력에 번역 신호가 없기 때문이다. 실제 재생성에서는 번역서 3권에서 유지될 것으로 본다. **[INFERENCE]**
+- 따라서 **값 정확도 개선 폭은 8단계 재생성 후에 확정해야 한다.** 지금 확정적으로 말할 수 있는 것은 구조 위반 29 → 0과 근거 없는 과잉 생성 감소다.
+
 ## 8. 아직 하지 않은 것
 
-- 5~9단계(300/056/082/041/546, LLM 담당 필드 정리, RAG 보강, 재생성, 전후 비교).
-- 프런트 연동 수정, 실제 도서 실물 대조, LAS 반입 검증.
+- 실제 API·LLM을 호출한 33권 재생성과 그에 따른 최종 수치 확정(8·9단계).
+- 사서 직접 검수, 실제 도서 실물 대조, LAS 반입 검증.
+- 프런트 연동 수정(배열/객체 계약 불일치, 목업 폴백, 검증·내보내기 미연결).
 - 원격 push·PR 생성.

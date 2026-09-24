@@ -48,9 +48,9 @@ class MarcGeneratorTests(unittest.IsolatedAsyncioTestCase):
             result = await generate_marc(payload)
 
         validate_mock.assert_called_once_with(raw_output, biblio=payload.biblio, evidence=payload.evidence)
-        # 245는 LLM 출력이 비어 있어도 규칙 레이어가 biblio에서 만든다.
-        self.assertEqual([field.tag for field in result.fields], ["245"])
-        self.assertEqual(result.fields[0].generated_by, "rule")
+        # LLM 출력이 비어 있어도 규칙 레이어가 biblio에 있는 필드를 만든다.
+        self.assertEqual([field.tag for field in result.fields], ["020", "245", "260", "490"])
+        self.assertTrue(all(field.generated_by == "rule" for field in result.fields))
 
     async def test_generate_marc_ignores_llm_output_for_rule_tags(self) -> None:
         """LLM이 245를 만들어도 규칙 레이어 결과가 최종값이다."""
@@ -108,8 +108,9 @@ class MarcGeneratorTests(unittest.IsolatedAsyncioTestCase):
         ), patch("backend.services.marc_generator.validate_output", return_value=llm_result):
             result = await generate_marc(payload)
 
-        self.assertEqual(len(result.fields), 1)
-        field = result.fields[0]
+        rule_245 = [field for field in result.fields if field.tag == "245"]
+        self.assertEqual(len(rule_245), 1)
+        field = rule_245[0]
         self.assertEqual(field.generated_by, "rule")
         self.assertEqual([subfield.code for subfield in field.subfields], ["a", "d"])
         self.assertEqual(field.subfields[0].value, "채식주의자")

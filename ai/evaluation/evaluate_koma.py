@@ -73,16 +73,20 @@ STRUCTURED_FIELD_CODES = {
 # 공식 KORMARC(통합서지용)에서 직접 확인한 허용 식별기호.
 # 확인하지 못한 태그는 넣지 않는다. 넣지 않은 태그는 식별기호 위반을 집계하지 않는다.
 # 020 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_020.html
+# 041 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_041.html
+# 056 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_056.html
+# 082 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_082.html
 # 245 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/20X_24X_245.html
 # 260 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/250_28X_260.html
 # 300 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/3XX_300.html
-# 056 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_056.html
 ALLOWED_SUBFIELD_CODES = {
     "020": frozenset("acgqz68"),
+    "041": frozenset("abdefghijkmnpqrt268"),
+    "056": frozenset("abmq268"),
+    "082": frozenset("abmq268"),
     "245": frozenset("abdefghknpsx68"),
     "260": frozenset("abcefg368"),
     "300": frozenset("abcefg368"),
-    "056": frozenset("abmq268"),
 }
 
 # 반복불가 필드. 한 레코드에 2개 이상 있으면 구조 오류다.

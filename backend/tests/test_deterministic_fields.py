@@ -1,13 +1,19 @@
-"""규칙 레이어(245) 테스트.
+"""규칙 레이어(245/300/056/082) 테스트.
 
-245는 LLM이 아니라 biblio에서 코드가 만든다. 값을 지어내지 않는지,
-KORMARC 식별기호에 맞게 배치하는지 확인한다.
+이 필드들은 LLM이 아니라 biblio에서 코드가 만든다. 값을 지어내지 않는지,
+KORMARC 식별기호에 맞게 배치하는지, 근거가 없으면 skip하는지 확인한다.
 """
-
 import unittest
 
 from backend.schemas.lookup import BiblioSchema
-from backend.services.deterministic_fields import build_245, build_deterministic_fields, split_responsibility
+from backend.services.deterministic_fields import (
+    build_056,
+    build_082,
+    build_245,
+    build_300,
+    build_deterministic_fields,
+    split_responsibility,
+)
 
 
 def biblio(**overrides: object) -> BiblioSchema:
@@ -130,11 +136,101 @@ class Build245Tests(unittest.TestCase):
         self.assertEqual(skipped.tag, "245")
         self.assertIn("표제 근거 없음", skipped.reason)
 
-    def test_build_deterministic_fields_returns_245(self) -> None:
-        fields, skipped = build_deterministic_fields(biblio(title="처단", author="정보라 지음"))
+    def test_build_deterministic_fields_covers_all_rule_tags(self) -> None:
+        fields, skipped = build_deterministic_fields(
+            biblio(
+                isbn_ea="9791194630678",
+                isbn_add_code="13000",
+                title="처단",
+                author="정보라 지음",
+                publisher="래빗홀",
+                publish_year="2026",
+                page="320 p",
+                book_size="128*188mm",
+                kdc="813.7",
+            )
+        )
 
-        self.assertEqual([field.tag for field in fields], ["245"])
-        self.assertEqual(skipped, [])
+        self.assertEqual([field.tag for field in fields], ["020", "245", "260", "300", "056"])
+        # 값이 없는 필드는 추론하지 않고 skip한다.
+        self.assertEqual([item.tag for item in skipped], ["250", "490", "082"])
+
+
+class Build300Tests(unittest.TestCase):
+    def test_page_and_size_conversion(self) -> None:
+        field, skipped = build_300(biblio(page="320 p", book_size="128*188mm"))
+
+        assert field is not None
+        self.assertIsNone(skipped)
+        # 세로 188mm는 19cm로 올림한다.
+        self.assertEqual(subfield_pairs(field), [("a", "320 p."), ("c", "19 cm")])
+        self.assertEqual((field.indicator1, field.indicator2), (" ", " "))
+        self.assertEqual(field.generated_by, "rule")
+
+    def test_cm_size_is_kept(self) -> None:
+        field, _ = build_300(biblio(page="176", book_size="20 cm"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "176 p."), ("c", "20 cm")])
+
+    def test_korean_unit_is_preserved(self) -> None:
+        field, _ = build_300(biblio(page="152장", book_size="26 cm"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field)[0], ("a", "152장"))
+
+    def test_illustration_subfield_is_never_generated(self) -> None:
+        """삽화(▼b)는 근거가 없으므로 만들지 않는다."""
+
+        field, _ = build_300(biblio(page="190 p", book_size="26 cm"))
+
+        assert field is not None
+        self.assertNotIn("b", {code for code, _ in subfield_pairs(field)})
+
+    def test_unknown_unit_drops_size_only(self) -> None:
+        field, _ = build_300(biblio(page="200", book_size="128*188"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "200 p.")])
+
+    def test_missing_extent_and_size_is_skipped(self) -> None:
+        field, skipped = build_300(biblio())
+
+        self.assertIsNone(field)
+        assert skipped is not None
+        self.assertIn("형태사항 근거 없음", skipped.reason)
+
+
+class ClassificationTests(unittest.TestCase):
+    def test_kdc_is_transcribed_without_edition(self) -> None:
+        field, skipped = build_056(biblio(kdc="005.58"))
+
+        assert field is not None
+        self.assertIsNone(skipped)
+        self.assertEqual(subfield_pairs(field), [("a", "005.58")])
+        self.assertEqual((field.indicator1, field.indicator2), (" ", " "))
+        self.assertTrue(field.review_required)
+        self.assertIn("판차 미수집", field.note)
+
+    def test_kdc_edition_is_used_when_available(self) -> None:
+        field, _ = build_056(biblio(kdc="813.7", kdc_edition="6"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "813.7"), ("2", "6")])
+
+    def test_missing_kdc_is_skipped_not_inferred(self) -> None:
+        field, skipped = build_056(biblio(description="생물학 입문서"))
+
+        self.assertIsNone(field)
+        assert skipped is not None
+        self.assertIn("KDC 근거 없음", skipped.reason)
+
+    def test_missing_ddc_is_skipped(self) -> None:
+        field, skipped = build_082(biblio(kdc="813.7"))
+
+        self.assertIsNone(field)
+        assert skipped is not None
+        self.assertIn("DDC 근거 없음", skipped.reason)
 
 
 if __name__ == "__main__":
