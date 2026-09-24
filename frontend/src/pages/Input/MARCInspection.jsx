@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'; // [수정] useState, useEffect 훅 호출
+import { validateMarcFields, exportMarc } from '../../api/marc';
 
 function flattenFields(fields = []) {
   if (!Array.isArray(fields)) return [];
@@ -11,6 +12,7 @@ function flattenFields(fields = []) {
     if (subfields.length === 0) {
       return [{
         id: `${field?.tag || 'tag'}-${fieldIdx}`,
+        fieldIndex: fieldIdx,
         tag: field?.tag || '',
         source: field?.source || 'user',
         indicator1: field?.indicator1 ?? ' ',
@@ -26,6 +28,7 @@ function flattenFields(fields = []) {
 
     return subfields.map((subfield, index) => ({
       id: `${field.tag}-${subfield?.code || 'a'}-${fieldIdx}-${index}`,
+      fieldIndex: fieldIdx,
       tag: field.tag || '',
       source: field.source || 'user',
       indicator1: field.indicator1 ?? ' ',
@@ -38,6 +41,45 @@ function flattenFields(fields = []) {
       evidence: field.evidence || null,
     }));
   });
+}
+
+// flattenFields의 역변환: 편집된 행(subfield 단위)을 다시 원래 필드 경계(fieldIndex)
+// 기준으로 묶어서 백엔드가 기대하는 { tag, indicator1, indicator2, subfields } 배열로 만든다.
+function buildFieldsFromRows(rows) {
+  const groups = new Map();
+  const order = [];
+
+  rows.forEach((row) => {
+    const key = row.fieldIndex ?? row.id;
+    if (!groups.has(key)) {
+      groups.set(key, {
+        tag: (row.tag || '').trim(),
+        indicator1: row.indicator1 || ' ',
+        indicator2: row.indicator2 || ' ',
+        subfields: [],
+      });
+      order.push(key);
+    }
+    const value = (row.value ?? '').trim();
+    if (value) {
+      groups.get(key).subfields.push({ code: row.code || 'a', value });
+    }
+  });
+
+  return order
+    .map((key) => groups.get(key))
+    .filter((field) => field.tag && field.subfields.length > 0);
+}
+
+function downloadBlob(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
 }
 
 function sourceLabel(source) {
@@ -69,6 +111,9 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
   const result = selectedBook?.result;
   
   const [isSaved, setIsSaved] = useState(true);
+  const [validationResult, setValidationResult] = useState(null);
+  const [isValidating, setIsValidating] = useState(false);
+  const [isExporting, setIsExporting] = useState(false);
 
  const [rows, setRows] = useState(() => {
   if (selectedBook && selectedBook.result && selectedBook.result.fields) {
@@ -98,8 +143,12 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
 
   const handleAddRow = () => {
     setIsSaved(false);
+    const nextFieldIndex = rows.length
+      ? Math.max(...rows.map((row) => row.fieldIndex ?? 0)) + 1
+      : 0;
     const newRow = {
       id: `new-${Date.now()}`,
+      fieldIndex: nextFieldIndex,
       tag: '245',
       source: 'user',
       indicator1: '0',
@@ -120,16 +169,21 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
   };
 
   const handleSave = () => {
+    // rows는 subfield 단위로 펼쳐진 편집용 표현이라 그대로 fields에 넣으면 모양이
+    // 깨진다. buildFieldsFromRows로 { tag, indicator1, indicator2, subfields } 꼴로
+    // 되돌린 뒤 저장한다(export와 동일한 재조립 로직 재사용).
+    const updatedFields = buildFieldsFromRows(rows);
     const updatedBook = {
       ...selectedBook,
-      status: '완료', 
+      status: '완료',
       result: {
         ...selectedBook.result,
-        fields: rows, // 수정된 필드 데이터 저장
+        fields: updatedFields,
       },
     };
 
-    // 상위 컴포넌트(HomeDashboard 등)에 전달 함수가 있는 경우 전달
+    // 상위 컴포넌트(HomeDashboard)에 반영 — 이게 없으면 편집이 목록/선택 상태에
+    // 전혀 반영되지 않고 로컬 alert만 뜨는 채로 끝난다.
     if (onSave) {
       onSave(updatedBook);
     }
@@ -138,24 +192,39 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
     alert('수정사항이 성공적으로 저장되었습니다!');
   };
 
-  // MARC TXT 파일 다운로드 기능 (더미/실제 공용)
-  const handleExportText = () => {
-    if (!rows.length) return alert('저장할 데이터가 없습니다.');
+  // 편집된 행을 서버 검증 규칙(/api/validate)으로 다시 검증한다.
+  const handleRevalidate = async () => {
+    const fields = buildFieldsFromRows(rows);
+    if (!fields.length) {
+      setValidationResult(null);
+      return alert('검증할 필드가 없습니다.');
+    }
+    setIsValidating(true);
+    try {
+      const result = await validateMarcFields(fields);
+      setValidationResult(result);
+    } catch (error) {
+      alert(error instanceof Error ? error.message : '검증 요청에 실패했습니다.');
+    } finally {
+      setIsValidating(false);
+    }
+  };
 
-    const textLines = rows.map(
-      (r) => `${r.tag} ${r.indicator1 || ' '}${r.indicator2 || ' '} $${r.code}${r.value}`
-    );
-    const content = textLines.join('\n');
+  // 실제 MARC 파일(.mrc 바이너리 / .mrk 텍스트)로 내보낸다.
+  const handleExportMarc = async (format) => {
+    const fields = buildFieldsFromRows(rows);
+    if (!fields.length) return alert('내보낼 필드가 없습니다.');
 
-    const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `MARC_EDITED_${selectedBook?.isbn || 'result'}.txt`;
-    document.body.appendChild(link);
-    link.click();
-    link.remove();
-    URL.revokeObjectURL(url);
+    setIsExporting(true);
+    try {
+      const blob = await exportMarc(fields, format);
+      const ext = format === 'mrc' ? 'mrc' : 'mrk';
+      downloadBlob(blob, `MARC_EDITED_${selectedBook?.isbn || 'result'}.${ext}`);
+    } catch (error) {
+      alert(error instanceof Error ? error.message : 'MARC 내보내기 요청에 실패했습니다.');
+    } finally {
+      setIsExporting(false);
+    }
   };
 
   // JSON 내보내기
@@ -230,10 +299,27 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
           </button>
           <button
             type="button"
-            onClick={handleExportText}
-            className="px-4 py-2 bg-blue-600 text-white font-bold text-xs rounded-lg hover:bg-blue-700 shadow-sm transition"
+            onClick={handleRevalidate}
+            disabled={isValidating}
+            className="px-3 py-2 bg-amber-500 text-white font-bold text-xs rounded-lg hover:bg-amber-600 shadow-sm transition disabled:opacity-50"
           >
-            TXT 저장
+            {isValidating ? '검증 중...' : '재검증'}
+          </button>
+          <button
+            type="button"
+            onClick={() => handleExportMarc('mrk')}
+            disabled={isExporting}
+            className="px-4 py-2 bg-blue-600 text-white font-bold text-xs rounded-lg hover:bg-blue-700 shadow-sm transition disabled:opacity-50"
+          >
+            MARC 저장(.mrk)
+          </button>
+          <button
+            type="button"
+            onClick={() => handleExportMarc('mrc')}
+            disabled={isExporting}
+            className="px-4 py-2 bg-blue-700 text-white font-bold text-xs rounded-lg hover:bg-blue-800 shadow-sm transition disabled:opacity-50"
+          >
+            MARC 저장(.mrc)
           </button>
           <button
             type="button"
@@ -265,6 +351,33 @@ export default function MARCInspection({ selectedBook, onBackToList, onSave }) {
           </span>
         </div>
       </div>
+
+      {validationResult && (
+        <div
+          className={`border rounded-xl p-4 shadow-sm space-y-2 ${
+            validationResult.valid ? 'bg-green-50/60 border-green-200' : 'bg-red-50/60 border-red-200'
+          }`}
+        >
+          <h4 className={`text-xs font-extrabold ${validationResult.valid ? 'text-green-900' : 'text-red-900'}`}>
+            재검증 결과: {validationResult.valid ? '통과' : `오류 ${validationResult.error_count}건`}
+            {validationResult.warning_count > 0 && ` / 경고 ${validationResult.warning_count}건`}
+          </h4>
+          {validationResult.errors?.length > 0 && (
+            <ul className="space-y-1 text-red-800 text-[11px] font-semibold">
+              {validationResult.errors.map((err, index) => (
+                <li key={`err-${index}`}><span className="font-mono">[{err.field}]</span> {err.message}</li>
+              ))}
+            </ul>
+          )}
+          {validationResult.warnings?.length > 0 && (
+            <ul className="space-y-1 text-amber-800 text-[11px] font-semibold">
+              {validationResult.warnings.map((warn, index) => (
+                <li key={`warn-${index}`}><span className="font-mono">[{warn.field}]</span> {warn.message}</li>
+              ))}
+            </ul>
+          )}
+        </div>
+      )}
 
       {(warnings.length > 0 || skippedFields.length > 0) && (
         <div className="bg-amber-50/60 border border-amber-200 rounded-xl p-4 shadow-sm space-y-3">

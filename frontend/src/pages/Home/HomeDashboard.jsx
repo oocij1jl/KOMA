@@ -34,22 +34,42 @@ export default function HomeDashboard({ onSelectBook }) {
 
   const recentHistory = generatedResults.slice(0, 4);
 
+  // MARCInspection에서 저장한 편집 결과를 목록/선택 상태에 반영한다.
+  const handleSaveEdit = (updatedBook) => {
+    setGeneratedResults((previous) =>
+      previous.map((item) => (item.id === updatedBook.id ? { ...item, ...updatedBook } : item))
+    );
+    setSelectedBook(updatedBook);
+  };
+
   const handleInputMethodJump = (methodType) => {
     setActiveInputTab(methodType);
     setCurrentView('input');
   };
 
-  const handleGenerated = (generatedItem) => {
-    const item = {
+  // MARCInput의 onGenerated는 단건이든 다건이든 항상 배열을 넘겨준다
+  // (단건도 [{...}] 형태). 배열을 객체 취급하면(...generatedItem) {0: {...}}
+  // 꼴로 깨져서 selectedBook.result가 undefined가 되는 버그가 있었다.
+  const handleGenerated = (generatedItems) => {
+    const items = (generatedItems ?? []).map((generatedItem) => ({
       ...generatedItem,
-      title: getTitleFromResult(generatedItem.result),
+      title: generatedItem.title || getTitleFromResult(generatedItem.result),
       fields: generatedItem.result?.fields?.length ?? 0,
       createdAt: new Date().toLocaleString('ko-KR'),
-    };
+    }));
 
-    setGeneratedResults((previous) => [item, ...previous]);
-    setSelectedBook(item);
-    setCurrentView('inspect');
+    if (items.length === 0) return;
+
+    setGeneratedResults((previous) => [...items, ...previous]);
+
+    if (items.length === 1) {
+      // 단건: 바로 상세(편집) 화면으로 이동
+      setSelectedBook(items[0]);
+      setCurrentView('inspect');
+    } else {
+      // 다건: 목록에서 어떤 책을 볼지 고를 수 있도록 결과 목록으로 이동
+      setCurrentView('results');
+    }
   };
 
   return (
@@ -191,12 +211,20 @@ export default function HomeDashboard({ onSelectBook }) {
           <MARCInspection
             selectedBook={selectedBook}
             onBackToList={() => setCurrentView('results')}
+            onSave={handleSaveEdit}
           />
         )}
 
         {currentView === 'history' && (
           <MARCHistory
-            onSelectTask={() => setCurrentView('results')}
+            results={generatedResults}
+            onSelectTask={(item) => {
+              setSelectedBook(item);
+              setCurrentView('inspect');
+            }}
+            onDeleteTask={(id) => {
+              setGeneratedResults((previous) => previous.filter((item) => item.id !== id));
+            }}
           />
         )}
 

@@ -15,28 +15,8 @@ const styles = {
   );
 }
 
-// [MOCK DATA 시작] 개발/테스트 중 데이터가 없을 때 UI 확인용 더미 생성 함수
-function getMockResultsIfEmpty() {
-  return Array.from({ length: 25 }, (_, i) => ({
-    id: `mock-${i + 1}`,
-    isbn: `97889364345${(90 + i).toString().padStart(2, '0')}`,
-    title: `테스트 도서 ${i + 1} - 대량 데이터 UI 확인용`,
-    status: i % 4 === 0 ? '검수 필요' : i % 5 === 0 ? '조회 실패' : '완료',
-    createdAt: '2026-09-19 14:00',
-    result: {
-      fields: new Array((i % 5) + 3).fill(null),
-    },
-  }));
-}
-// [MOCK DATA 끝]
-
 export default function MARCResultList({ results = [], onSelectDetail, onCreate }) {
-
-  // [MOCK DATA 시작] 전달된 results가 비어있을 때 테스트용 mock 데이터 적용 (필요 없으면 displayResults = results 로 바로 사용)
-  const displayResults = useMemo(() => {
-    return results.length > 0 ? results : getMockResultsIfEmpty();
-  }, [results]);
-  // [MOCK DATA 끝]
+  const displayResults = results;
 
   // 대량 조회를 위한 검색, 필터, 페이지네이션 상태
   const [searchQuery, setSearchQuery] = useState('');

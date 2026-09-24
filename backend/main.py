@@ -67,7 +67,9 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # 개발 중 전체 허용 (배포 시 프론트엔드 도메인으로 제한)
-    allow_credentials=True,
+    # allow_credentials=True + allow_origins=["*"]는 브라우저가 응답 자체를 거부하는
+    # 조합이다(쿠키 등 자격증명이 필요 없는 앱이라 credentials는 애초에 불필요).
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
