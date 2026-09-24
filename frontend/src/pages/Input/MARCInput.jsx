@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { generateMarcByIsbn } from '../../api/marc';
+import { generateMarcByIsbn, generateMarcBulk } from '../../api/marc';
+
+// 서버가 한 번에 받는 ISBN 최대 개수(백엔드 GenerateBulkRequest 상한과 동일)
+const BULK_CHUNK_SIZE = 10;
 
 // ISBN 유효성 검사 함수
 function isValidIsbn(value) {
@@ -9,7 +12,16 @@ function isValidIsbn(value) {
   return false;
 }
 
-// [MOCK DATA 시작] 백엔드 미연결 시 UI 테스트용 더미 생성 함수 (삭제 필요)
+// MARC 245(표제 및 책임표시사항) 필드에서 본표제($a)를 안전하게 추출한다.
+// 백엔드는 제목을 태그 245(MARC21 표준)에, subfields를 [{code,value}] 배열로 담아
+// 돌려준다 — 태그 200(UNIMARC)이나 subfields를 객체로 읽으면 항상 못 찾는다.
+function extractTitle(fields, fallback) {
+  const titleField = Array.isArray(fields) ? fields.find((f) => f.tag === '245') : null;
+  const subfieldA = titleField?.subfields?.find((sf) => sf.code === 'a')?.value;
+  return subfieldA || fallback;
+}
+
+// [MOCK DATA 시작] "직접 입력" 탭 전용 — 백엔드에 수기 등록 API가 아직 없어서 유지 (삭제 필요)
 function createMockMarcResult(isbn, title) {
   return {
     leader: "00000nam a2200000 a 4500",
@@ -101,29 +113,21 @@ export default function MARCInput({ initialTab, onGenerated, onCancel }) {
       // 1. 단일 ISBN 처리
       if (activeTab === 'single') {
         const trimmed = singleIsbn.trim();
-        let result;
-        try {
-          // 백엔드 호출 시도
-          result = await generateMarcByIsbn(trimmed);
-        } catch {
-          // [MOCK DATA 시작] 백엔드 미연결 시 전용 처리 (삭제 필요)
-          result = createMockMarcResult(trimmed, `단일 조회 도서 (${trimmed})`);
-          // [MOCK DATA 끝]
-        }
+        const result = await generateMarcByIsbn(trimmed);
 
         onGenerated?.([{
           id: Date.now(),
           isbn: trimmed,
-          title: result.fields?.find(f => f.tag === '200')?.subfields?.a || `도서 (${trimmed})`,
+          title: extractTitle(result.fields, `도서 (${trimmed})`),
           status: result.fields?.some((field) => field.review_required) ? '검수 필요' : '완료',
           result,
         }]);
       }
-      // 2. 복수 ISBN 처리 (다건 입력)
+      // 2. 복수 ISBN 처리 (다건 입력) — /api/generate/marc/bulk 사용, 10개씩 나눠 보냄
       else if (activeTab === 'multiple') {
         const results = [];
 
-        // 1) 형식이 잘못된 ISBN 처리 (조회 실패 분류)
+        // 1) 형식이 잘못된 ISBN 처리 (조회 실패 분류) — 서버에 보내지 않고 바로 실패 처리
         invalidIsbns.forEach((isbn, idx) => {
           results.push({
             id: Date.now() + idx,
@@ -135,24 +139,29 @@ export default function MARCInput({ initialTab, onGenerated, onCancel }) {
           });
         });
 
-        // 2) 유효한 ISBN 처리 
-        for (let i = 0; i < validIsbns.length; i++) {
-          const isbn = validIsbns[i];
-          let result;
-          try {
-            result = await generateMarcByIsbn(isbn);
-          } catch (error) {
-            // [MOCK DATA 시작] 백엔드 미연결 시 전용 처리 (삭제 필요)
-            result = createMockMarcResult(isbn, `테스트 도서 ${i + 1} (${isbn})`);
-            // [MOCK DATA 끝]
-          }
+        // 2) 유효한 ISBN은 10개씩 묶어서 bulk API 호출 (서버 상한과 동일)
+        for (let start = 0; start < validIsbns.length; start += BULK_CHUNK_SIZE) {
+          const chunk = validIsbns.slice(start, start + BULK_CHUNK_SIZE);
+          const bulkResponse = await generateMarcBulk(chunk);
 
-          results.push({
-            id: Date.now() + invalidIsbns.length + i,
-            isbn,
-            title: result.fields?.find(f => f.tag === '200')?.subfields?.a || `테스트 도서 ${i + 1}`,
-            status: result.fields?.some((field) => field.review_required) ? '검수 필요' : '완료',
-            result,
+          bulkResponse.results.forEach((item, idx) => {
+            const baseEntry = { id: Date.now() + start + idx, isbn: item.isbn };
+            if (item.status === 'success') {
+              results.push({
+                ...baseEntry,
+                title: extractTitle(item.result.fields, `도서 (${item.isbn})`),
+                status: item.result.fields?.some((field) => field.review_required) ? '검수 필요' : '완료',
+                result: item.result,
+              });
+            } else {
+              results.push({
+                ...baseEntry,
+                title: '생성 실패',
+                status: '조회 실패',
+                error: item.error_message || item.error_code,
+                result: null,
+              });
+            }
           });
         }
 
