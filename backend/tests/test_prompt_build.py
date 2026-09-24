@@ -64,7 +64,9 @@ class PromptBuildTests(unittest.TestCase):
         self.assertIn("비통제 색인어", rules["653"])
 
     def test_load_rules_skips_missing_tag_without_error(self) -> None:
-        self.assertEqual(load_rules(["020"]), {})
+        """규칙 파일이 없는 태그는 예외 없이 건너뛴다. 504는 아직 규칙 문서가 없다."""
+
+        self.assertEqual(load_rules(["504"]), {})
 
     def test_load_rules_rejects_path_like_tags(self) -> None:
         self.assertEqual(load_rules(["../653", "653/../../020", "/653", "abc"]), {})

@@ -1,0 +1,34 @@
+# 710 부출표목 - 단체명
+
+## Metadata
+
+- `chunk_group`: `kormarc.field.710`
+- `tag`: `710`
+- `field_name`: `부출표목 - 단체명`
+- `field_priority`: `conditional`
+- `generation_path`: `llm` (evidence·biblio 기반 LLM 판단)
+- `source_type`: `official_kormarc_summary`
+- `official_source`: https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/70X_75X_710.html
+- `schema_source`: `backend/docs/KOMA_스키마_v2.1.md`
+- `last_reviewed`: `2026-09-24`
+
+## Purpose
+
+710은 부출표목의 표목이 단체명인 반복 필드다. 기관·학회·위원회·연구소 등이 저작 책임을 질 때만 사용한다.
+
+## Service Generation Rule
+
+biblio.author나 책임표시에서 단체가 저작 책임자로 확인될 때만 만든다. 단체명을 a에 넣고 역할어는 e에 넣는다. 개인 저자는 700에 둔다.
+
+## Skip Rule
+
+단체 저작 근거가 없으면 710을 만들지 않는다. 출판사·발행처를 단체저자로 올리지 않는다. 일반 도서는 대부분 710이 없다. 필수 필드가 아니므로 비워 두는 것이 정상이다.
+
+## Retrieval Hints
+
+- 710 정의
+- 단체명 부출
+- 710 생성
+- 단체저자
+- 710 skipped
+- 출판사 금지

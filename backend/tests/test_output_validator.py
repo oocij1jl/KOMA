@@ -704,30 +704,6 @@ class OutputValidatorTests(unittest.TestCase):
         self.assertEqual([subfield.value for subfield in result.fields[0].subfields], ["채식주의"])
         self.assertEqual(result.skipped_fields, [])
 
-    def test_validate_output_assigns_generated_by_api_for_biblio_tags(self) -> None:
-        raw_output = json.dumps(
-            {
-                "fields": [
-                    {
-                        "tag": "245",
-                        "indicator1": "1",
-                        "indicator2": "0",
-                        "subfields": [{"code": "a", "value": "채식주의자"}],
-                        "source": "api",
-                        "review_required": False,
-                        "confidence": "high",
-                    }
-                ],
-                "skipped_fields": [],
-                "warnings": [],
-            },
-            ensure_ascii=False,
-        )
-
-        result = validate_output(raw_output)
-
-        self.assertEqual(result.fields[0].generated_by, "api")
-
     def test_validate_output_assigns_generated_by_llm_for_inference_tags(self) -> None:
         raw_output = json.dumps(
             {
@@ -754,17 +730,21 @@ class OutputValidatorTests(unittest.TestCase):
         self.assertEqual(result.fields[0].generated_by, "llm")
 
     def test_validate_output_overrides_llm_reported_generated_by(self) -> None:
-        """generated_by는 LLM 출력에 있더라도 신뢰하지 않고 서버가 재계산해야 한다."""
+        """generated_by는 LLM 출력에 있더라도 신뢰하지 않고 서버가 재계산해야 한다.
+
+        LLM 응답에서 온 필드는 태그와 무관하게 "llm"이다. 규칙 레이어가 만든
+        필드만 "rule"을 가진다.
+        """
         raw_output = json.dumps(
             {
                 "fields": [
                     {
-                        "tag": "245",
-                        "indicator1": "1",
-                        "indicator2": "0",
-                        "subfields": [{"code": "a", "value": "채식주의자"}],
+                        "tag": "020",
+                        "indicator1": " ",
+                        "indicator2": " ",
+                        "subfields": [{"code": "a", "value": "9788936434120"}],
                         "source": "api",
-                        "generated_by": "llm",
+                        "generated_by": "api",
                         "review_required": False,
                         "confidence": "high",
                     }
@@ -777,7 +757,99 @@ class OutputValidatorTests(unittest.TestCase):
 
         result = validate_output(raw_output)
 
-        self.assertEqual(result.fields[0].generated_by, "api")
+        self.assertEqual(result.fields[0].generated_by, "llm")
+
+    def _language_output(self, fields: list[dict[str, object]]) -> str:
+        return json.dumps({"fields": fields, "skipped_fields": [], "warnings": []}, ensure_ascii=False)
+
+    def test_validate_output_removes_generic_korean_546(self) -> None:
+        """'한국어로 된 자료'는 언어주기 근거가 아니다. 중간발표 결과의 대표 과잉 생성."""
+
+        raw_output = self._language_output(
+            [
+                {
+                    "tag": "546",
+                    "indicator1": " ",
+                    "indicator2": " ",
+                    "subfields": [{"code": "a", "value": "한국어로 된 자료"}],
+                    "source": "ai_inference",
+                    "review_required": True,
+                    "confidence": "medium",
+                    "evidence": {"from": ["title"], "reasoning": "표제가 한국어"},
+                }
+            ]
+        )
+
+        result = validate_output(raw_output, evidence=self._build_evidence())
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["546"])
+
+    def test_validate_output_keeps_translation_546(self) -> None:
+        raw_output = self._language_output(
+            [
+                {
+                    "tag": "546",
+                    "indicator1": " ",
+                    "indicator2": " ",
+                    "subfields": [{"code": "a", "value": "스페인어 원작을 한국어로 번역"}],
+                    "source": "ai_inference",
+                    "review_required": True,
+                    "confidence": "medium",
+                    "evidence": {"from": ["description"], "reasoning": "번역 정황 확인"},
+                }
+            ]
+        )
+
+        result = validate_output(
+            raw_output,
+            evidence=self._build_evidence(translation_signals={"detected": True, "hints": ["author에 '옮김' 포함"]}),
+        )
+
+        self.assertEqual([field.tag for field in result.fields], ["546"])
+
+    def test_validate_output_removes_041_without_translation_signal(self) -> None:
+        """본문언어 하나만 있는 041은 008/35-37에 없는 정보를 더하지 않는다."""
+
+        raw_output = self._language_output(
+            [
+                {
+                    "tag": "041",
+                    "indicator1": "1",
+                    "indicator2": " ",
+                    "subfields": [{"code": "a", "value": "kor"}],
+                    "source": "ai_inference",
+                    "review_required": True,
+                    "confidence": "low",
+                    "evidence": {"from": ["description"], "reasoning": "한국어 자료"},
+                }
+            ]
+        )
+
+        result = validate_output(raw_output, evidence=self._build_evidence())
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["041"])
+
+    def test_validate_output_keeps_041_with_original_language(self) -> None:
+        raw_output = self._language_output(
+            [
+                {
+                    "tag": "041",
+                    "indicator1": "1",
+                    "indicator2": " ",
+                    "subfields": [{"code": "a", "value": "kor"}, {"code": "h", "value": "ger"}],
+                    "source": "ai_inference",
+                    "review_required": True,
+                    "confidence": "medium",
+                    "evidence": {"from": ["description"], "reasoning": "독일어 원작 번역"},
+                }
+            ]
+        )
+
+        result = validate_output(raw_output, evidence=self._build_evidence())
+
+        self.assertEqual([field.tag for field in result.fields], ["041"])
 
 
 if __name__ == "__main__":

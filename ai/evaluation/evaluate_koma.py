@@ -64,11 +64,66 @@ STRUCTURED_FIELDS = ["020", "245", "250", "260", "300"]
 CLASS_FIELDS = ["056", "082"]
 EVALUATED_FIELDS = STRUCTURED_FIELDS + ["041"] + CLASS_FIELDS + ["653"]
 STRUCTURED_FIELD_CODES = {
-    "245": ("a",),
+    "245": ("a", "b", "d", "e"),
     "250": ("a",),
     "260": ("b", "c"),
     "300": ("a", "c"),
 }
+
+# 공식 KORMARC(통합서지용)에서 직접 확인한 허용 식별기호.
+# 확인하지 못한 태그는 넣지 않는다. 넣지 않은 태그는 식별기호 위반을 집계하지 않는다.
+# 020 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_020.html
+# 041 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_041.html
+# 056 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_056.html
+# 082 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_082.html
+# 245 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/20X_24X_245.html
+# 260 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/250_28X_260.html
+# 300 https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/3XX_300.html
+ALLOWED_SUBFIELD_CODES = {
+    "020": frozenset("acgqz68"),
+    "041": frozenset("abdefghijkmnpqrt268"),
+    "056": frozenset("abmq268"),
+    "082": frozenset("abmq268"),
+    "245": frozenset("abdefghknpsx68"),
+    "260": frozenset("abcefg368"),
+    "300": frozenset("abcefg368"),
+}
+
+# 반복불가 필드. 한 레코드에 2개 이상 있으면 구조 오류다.
+NON_REPEATABLE_TAGS = frozenset({"245"})
+
+# 책임표시에서 이름만 남기기 위해 제거하는 역할어.
+RESPONSIBILITY_ROLE_WORDS = (
+    "엮고 옮김",
+    "글·그림",
+    "글그림",
+    "지은이",
+    "옮긴이",
+    "그린이",
+    "엮은이",
+    "지음",
+    "옮김",
+    "엮음",
+    "편역",
+    "편저",
+    "번역",
+    "감수",
+    "사진",
+    "공저",
+    "공역",
+    "그림",
+    "글",
+    "저",
+    "역",
+    "편",
+    "作",
+    "著",
+    "譯",
+    "編",
+)
+RESPONSIBILITY_ROLE_RE = re.compile("|".join(RESPONSIBILITY_ROLE_WORDS))
+BRACKET_TEXT_RE = re.compile(r"[\[\(<][^\]\)>]*[\]\)>]")
+NAME_SPLIT_RE = re.compile(r"[^0-9A-Za-z가-힣]+")
 
 
 @dataclass
@@ -363,8 +418,10 @@ def extract_structured_occurrences(field_map: dict[str, list[FieldOccurrence]], 
         for code, value in occurrence.subfields:
             if code not in allowed_codes:
                 continue
-            if tag == "245" and code == "a":
+            if tag == "245" and code in ("a", "b"):
                 normalized_value = normalize_title_compare_value(value)
+            elif tag == "245" and code in ("d", "e"):
+                normalized_value = normalize_text(value)
             elif tag == "250" and code == "a":
                 normalized_value = normalize_text(value)
             elif tag == "260" and code == "b":
@@ -386,6 +443,158 @@ def extract_structured_occurrences(field_map: dict[str, list[FieldOccurrence]], 
         if filtered is not None:
             occurrences.append(filtered)
     return occurrences
+
+
+def responsibility_names(occurrence: FieldOccurrence) -> set[str]:
+    """245 ▼d/▼e에서 역할어와 괄호 표기를 걷어내고 이름 토큰만 남긴다.
+
+    gold는 `임대균,` / `오가연 [공]지음`처럼 ISBD 구두점과 역할어를 포함하고,
+    생성 결과는 `임대균 오가연 지음`처럼 한 덩어리일 수 있다. 어느 식별기호에
+    넣었는지가 아니라 '누가 책임표시에 들어갔는지'를 비교하기 위해 양쪽을
+    같은 방식으로 토큰화한다.
+    """
+
+    names: set[str] = set()
+    for code, value in occurrence.subfields:
+        if code not in ("d", "e"):
+            continue
+        cleaned = BRACKET_TEXT_RE.sub(" ", value)
+        cleaned = RESPONSIBILITY_ROLE_RE.sub(" ", cleaned)
+        for token in NAME_SPLIT_RE.split(cleaned):
+            token = token.strip()
+            if token:
+                names.add(token)
+    return names
+
+
+def name_set_score(gold_names: set[str], koma_names: set[str]) -> float:
+    """책임표시 인명 집합의 F1. 완전 일치면 1.0."""
+
+    if not gold_names and not koma_names:
+        return 1.0
+    if not gold_names or not koma_names:
+        return 0.0
+
+    matched = len(gold_names & koma_names)
+    if matched == 0:
+        return 0.0
+    precision = matched / len(koma_names)
+    recall = matched / len(gold_names)
+    return round(2 * precision * recall / (precision + recall), 4)
+
+
+def subfield_value(occurrence: FieldOccurrence, code: str) -> str:
+    for subfield_code, value in occurrence.subfields:
+        if subfield_code == code and value:
+            return value
+    return ""
+
+
+def compare_245_occurrence(gold: FieldOccurrence, koma: FieldOccurrence) -> dict[str, Any]:
+    """245를 본표제·부제·책임표시 세 성분으로 나눠 비교한다.
+
+    gold에 없는 성분은 점수에 넣지 않는다. 생성 결과에만 있는 부제는
+    과잉 생성이므로 별도로 표시한다.
+    """
+
+    components: dict[str, float] = {}
+
+    gold_title = subfield_value(gold, "a")
+    koma_title = subfield_value(koma, "a")
+    if gold_title or koma_title:
+        if gold_title and koma_title and gold_title == koma_title:
+            components["title"] = 1.0
+        elif gold_title and koma_title and (gold_title in koma_title or koma_title in gold_title):
+            components["title"] = 0.5
+        else:
+            components["title"] = 0.0
+
+    gold_subtitle = subfield_value(gold, "b")
+    koma_subtitle = subfield_value(koma, "b")
+    if gold_subtitle:
+        if koma_subtitle and gold_subtitle == koma_subtitle:
+            components["subtitle"] = 1.0
+        elif koma_subtitle and (gold_subtitle in koma_subtitle or koma_subtitle in gold_subtitle):
+            components["subtitle"] = 0.5
+        else:
+            components["subtitle"] = 0.0
+
+    gold_names = responsibility_names(gold)
+    koma_names = responsibility_names(koma)
+    if gold_names:
+        components["responsibility"] = name_set_score(gold_names, koma_names)
+
+    score = round(sum(components.values()) / len(components), 4) if components else 0.0
+    return {
+        "score": score,
+        "components": components,
+        "gold_names": sorted(gold_names),
+        "koma_names": sorted(koma_names),
+        "extra_subtitle": bool(koma_subtitle and not gold_subtitle),
+    }
+
+
+def compare_245(gold_fields: list[FieldOccurrence], koma_fields: list[FieldOccurrence]) -> dict[str, Any]:
+    if not gold_fields and not koma_fields:
+        return {"status": "excluded", "score": None, "gold_match": None, "koma_match": None, "detail": {}}
+    if gold_fields and not koma_fields:
+        return {"status": "missing", "score": 0.0, "gold_match": None, "koma_match": None, "detail": {}}
+    if not gold_fields and koma_fields:
+        return {"status": "excluded", "score": None, "gold_match": None, "koma_match": None, "detail": {}}
+
+    best: dict[str, Any] = {"score": -1.0}
+    best_pair: tuple[FieldOccurrence | None, FieldOccurrence | None] = (None, None)
+    for gold_field in gold_fields:
+        for koma_field in koma_fields:
+            detail = compare_245_occurrence(gold_field, koma_field)
+            if detail["score"] > best["score"]:
+                best = detail
+                best_pair = (gold_field, koma_field)
+
+    score = float(best["score"])
+    if score >= 1.0:
+        status = "exact"
+    elif score > 0:
+        status = "partial"
+    else:
+        status = "mismatch"
+        score = 0.0
+
+    return {
+        "status": status,
+        "score": round(score, 4),
+        "gold_match": best_pair[0],
+        "koma_match": best_pair[1],
+        "detail": {key: value for key, value in best.items() if key != "score"},
+    }
+
+
+def structural_violations(field_map: dict[str, list[FieldOccurrence]], tag: str) -> list[str]:
+    """생성 결과의 KORMARC 구조 위반을 찾는다. 값 정확도와 별개다."""
+
+    occurrences = field_occurrences(field_map, tag)
+    if not occurrences:
+        return []
+
+    violations: list[str] = []
+    if tag in NON_REPEATABLE_TAGS and len(occurrences) > 1:
+        violations.append(f"{tag} 반복불가 필드가 {len(occurrences)}회 생성됨")
+
+    allowed = ALLOWED_SUBFIELD_CODES.get(tag)
+    if allowed is not None:
+        for occurrence in occurrences:
+            for code, _ in occurrence.subfields:
+                if code not in allowed:
+                    violations.append(f"{tag}${code} 정의되지 않은 식별기호")
+
+    if tag == "245":
+        for occurrence in occurrences:
+            if subfield_value(occurrence, "h"):
+                violations.append("245$h 자료유형표시에 다른 값이 들어감")
+            if not subfield_value(occurrence, "a"):
+                violations.append("245$a 본표제 누락")
+
+    return violations
 
 
 def extract_class_occurrences(field_map: dict[str, list[FieldOccurrence]], tag: str) -> list[FieldOccurrence]:
@@ -631,14 +840,20 @@ def metric_row(
     matched: list[dict[str, str]] | None = None,
     gold_only: list[str] | None = None,
     koma_only: list[str] | None = None,
+    violations: list[str] | None = None,
+    detail: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     excluded = not gold_present
     rich_generated = excluded and generated_present
+    violations = violations or []
     accurate = False
     if tag == "653":
         accurate = gold_present and generated_present and status in {"exact", "partial"}
     else:
         accurate = gold_present and generated_present and status == "exact"
+    # 값이 맞아도 KORMARC 구조가 틀리면 그대로 쓸 수 없는 레코드다.
+    if violations:
+        accurate = False
 
     completeness_credit = 1 if gold_present and generated_present else 0
     return {
@@ -657,6 +872,8 @@ def metric_row(
         "matched": matched or [],
         "gold_only": gold_only or [],
         "koma_only": koma_only or [],
+        "violations": violations,
+        "detail": detail or {},
     }
 
 
@@ -680,9 +897,24 @@ def compare_record(gold: RecordData, koma_payload: dict[str, Any], *, allow_part
         generated_present=bool(koma_020),
         score=scalar_020["score"],
         regularity=regularity_score(gold_020_occurrences[0], koma_020_occurrences[0]) if scalar_020["status"] == "exact" and gold_020_occurrences and koma_020_occurrences else None,
+        violations=structural_violations(koma_fields, "020"),
     )
 
-    for tag in ("245", "250", "260", "300"):
+    gold_245 = extract_structured_occurrences(gold_fields, "245")
+    koma_245 = extract_structured_occurrences(koma_fields, "245")
+    title_result = compare_245(gold_245, koma_245)
+    field_results["245"] = metric_row(
+        tag="245",
+        status=title_result["status"],
+        gold_present=bool(gold_245),
+        generated_present=bool(field_occurrences(koma_fields, "245")),
+        score=title_result["score"],
+        regularity=regularity_score(title_result["gold_match"], title_result["koma_match"]) if title_result["status"] == "exact" and title_result["gold_match"] and title_result["koma_match"] else None,
+        violations=structural_violations(koma_fields, "245"),
+        detail=title_result["detail"],
+    )
+
+    for tag in ("250", "260", "300"):
         gold_occurrences = extract_structured_occurrences(gold_fields, tag)
         koma_occurrences = extract_structured_occurrences(koma_fields, tag)
         structured_result = compare_structured_field(tag, gold_occurrences, koma_occurrences)
@@ -693,6 +925,7 @@ def compare_record(gold: RecordData, koma_payload: dict[str, Any], *, allow_part
             generated_present=bool(koma_occurrences),
             score=structured_result["score"],
             regularity=regularity_score(structured_result["gold_match"], structured_result["koma_match"]) if structured_result["status"] == "exact" and structured_result["gold_match"] and structured_result["koma_match"] else None,
+            violations=structural_violations(koma_fields, tag),
         )
 
     gold_041 = subfield_values(gold_fields, "041", "a")
@@ -722,6 +955,7 @@ def compare_record(gold: RecordData, koma_payload: dict[str, Any], *, allow_part
             generated_present=bool(koma_values),
             score=class_result["score"],
             regularity=regularity_score(gold_occurrences[0], koma_occurrences[0]) if class_result["status"] == "exact" and gold_occurrences and koma_occurrences else None,
+            violations=structural_violations(koma_fields, tag),
         )
 
     compare_653_result = compare_653(gold_fields, koma_fields, allow_partial=allow_partial_653)
@@ -747,12 +981,17 @@ def compare_record(gold: RecordData, koma_payload: dict[str, Any], *, allow_part
         if result["rich_generated"]:
             rich_generated_fields.append(tag)
 
+    violation_fields = {
+        tag: field_results[tag]["violations"] for tag in EVALUATED_FIELDS if field_results[tag]["violations"]
+    }
+
     return {
         "isbn": gold.isbn,
         "field_results": field_results,
         "missing_fields": missing_fields,
         "rich_generated_fields": rich_generated_fields,
         "skipped_tags": sorted(skipped_tags),
+        "violation_fields": violation_fields,
     }
 
 
@@ -770,6 +1009,7 @@ def build_summary_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
         gold_count = generated_count = accurate_count = 0
         exact = partial = mismatch = missing = 0
         excluded_count = rich_generated_count = 0
+        violation_books = 0
         regularities: list[float] = []
         precisions: list[float] = []
         recalls: list[float] = []
@@ -777,6 +1017,8 @@ def build_summary_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
         for result in results:
             field_result = result["field_results"][tag]
+            if field_result["violations"]:
+                violation_books += 1
             if field_result["excluded"]:
                 excluded_count += 1
                 if field_result["rich_generated"]:
@@ -828,6 +1070,7 @@ def build_summary_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "partial_count": partial,
                 "mismatch_count": mismatch,
                 "missing_count": missing,
+                "violation_books": violation_books,
                 "avg_precision": safe_average(precisions) if tag == "653" else "",
                 "avg_recall": safe_average(recalls) if tag == "653" else "",
                 "avg_f1": safe_average(f1s) if tag == "653" else "",
@@ -853,6 +1096,7 @@ def build_summary_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
         "partial_count": "",
         "mismatch_count": "",
         "missing_count": "",
+        "violation_books": sum(int(row["violation_books"]) for row in rows),
         "avg_precision": safe_average([row["avg_precision"] for row in rows if row["avg_precision"] != ""]),
         "avg_recall": safe_average([row["avg_recall"] for row in rows if row["avg_recall"] != ""]),
         "avg_f1": safe_average([row["avg_f1"] for row in rows if row["avg_f1"] != ""]),
@@ -877,17 +1121,25 @@ def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
 def build_book_rows(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
     rows: list[dict[str, Any]] = []
     for result in results:
+        violation_fields = result["violation_fields"]
         row: dict[str, Any] = {
             "isbn": result["isbn"],
             "missing_fields": ",".join(result["missing_fields"]),
             "rich_generated_fields": ",".join(result["rich_generated_fields"]),
             "skipped_tags": ",".join(result["skipped_tags"]),
+            "violations": " | ".join(
+                f"{tag}: {'; '.join(messages)}" for tag, messages in sorted(violation_fields.items())
+            ),
         }
         for tag in STRUCTURED_FIELDS + ["041", "056", "082"]:
             row[f"{tag}_status"] = result["field_results"][tag]["status"]
             row[f"{tag}_completeness"] = result["field_results"][tag]["completeness_credit"]
             row[f"{tag}_accurate"] = result["field_results"][tag]["accurate"]
             row[f"{tag}_regularity"] = result["field_results"][tag]["regularity"]
+        row["245_score"] = result["field_results"]["245"]["score"]
+        row["245_components"] = ";".join(
+            f"{name}={value}" for name, value in sorted(result["field_results"]["245"]["detail"].get("components", {}).items())
+        )
         row["653_status"] = result["field_results"]["653"]["status"]
         row["653_precision"] = result["field_results"]["653"]["precision"]
         row["653_recall"] = result["field_results"]["653"]["recall"]
