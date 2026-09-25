@@ -1,0 +1,242 @@
+{
+  "label": "after-rag",
+  "created_at_utc": "2026-09-25T09:26:43+00:00",
+  "note": "2026-09-25 01:58 로컬 재생성본(eval_results/)을 복사. backend/.env에 OPENAI_MODEL·D4L_SKIP_USAGE 지정 없음 → config 기본값(gpt-5.4-mini, D4L_SKIP_USAGE=False) 기준, 셸 환경변수는 미확인",
+  "git_commit": "a9dd99e8bc5729b8edf977217e6fb7acdf14bc84",
+  "python_version": "3.12.0",
+  "inputs": {
+    "results_dir": "ai/evaluation/runs/after-rag/results",
+    "result_count": 33,
+    "gold_mrc": "docs/0428_희망샘도서관4월희망(33)OEM55126-OEM55158.mrc",
+    "gold_mrc_sha256": "208f53f4bc7fcd0901aa93cd6f61a87a678632c309015733bc147b049c21325d",
+    "gold_record_count": 33,
+    "result_file_sha256": {
+      "9788911732906": "c6cc348de1d10beaf67402efc62359d7c02c363261eabb05dd1011b80f7879f5",
+      "9788936439910": "a7689a6932b733381e02d414a78002339ea493269b99bd1b1a4efbeadc2a4072",
+      "9788936451684": "5a917a91f32801df169148e2b6edd0be13b95228abb7a6c48a8ba4186183981b",
+      "9788939231900": "717ffaaab763df3c01717a0d6ad4dbbc4e039dbde4c46ef0dffee4120336d69e",
+      "9788949102689": "18056c26970fa450d74ced8ba522bd2b38c7e11925527e0a6c7821c3228a751f",
+      "9788955885132": "ce1d27494cd48ead80feece1c47269a7a6442e69ddd948437760ca8a9262a3fb",
+      "9788960909830": "b6b9a1e066414e8af6f5eda2992b0c8a4b56b9d87dc77258d99df50b5111e3a2",
+      "9788961555951": "8e51d9a066665d6eb483980c53ff192d9255df599312d2d11c9e8d087ab68809",
+      "9788965467892": "a48874ccc80c5a0a8d532638102298120cd3ba41a4fb83ba41f7772aedfd5c9b",
+      "9788972979968": "0dd1bfdabf61c19b39311b6202ea37634fc83e9732a826632d20a31783de2252",
+      "9791124248232": "fdb05c31a2bae22559a7657f6fd962304b22f09bb8ba53b3b0b987e1747e40c3",
+      "9791124336830": "b272c7c80c2f0907d3648c449a67d8c566bad0e61b50a206e2221b7d451619dc",
+      "9791141602970": "7cca914232c7ed02fb49a7ba7babe5dbd30b6574e8a65da1784ce7a2ae553b0a",
+      "9791141615819": "e1622f3c75fc46af3be86da0e56bd94ea0bb9c6aafc78c1eb4d90971989d97d4",
+      "9791158366179": "33f25230a3eb93e7b0a9d960736a207d495f612967edd6eff0b73edb3ce558bd",
+      "9791167701510": "c9ce16f6eedd9a0f4768d13cd64029949169e98616586a6a7d0647a2423f257f",
+      "9791168343238": "1d1449c7d8efed577c35423c733608daccc0982c2cd4d57382693b23cbe4514d",
+      "9791173578823": "27b40429d3c15d2326ed612553c56cf844edbd8104f58df4e1b35cbcd5171c5b",
+      "9791174760548": "fb3794406e0f35eb79604fc94061d08a6e8bdaae242fe3fbddf90e7393c152c2",
+      "9791175610729": "e7239cc1b42be135ecf29e66704d99f25d0cffe9292c8bb7da524d421eed742f",
+      "9791189936594": "b9e9a82c2869220b3284e74fe74636b4b146f1dc848073ca2a830e3a13c0fbc1",
+      "9791191592870": "6106c350200bf05d69394efec0675505277edd12444c4e56d11c0874d0b97006",
+      "9791192638843": "00c439083981a5d88e6b81d52db9d93410cf2184cb5ca2cbff5fd6bd42b02c61",
+      "9791193375266": "a7cc3cb7b52a18c16becb354c29cd0d0fe9800fb80b98c6d832bd6c4f55caef3",
+      "9791194090397": "0b13e842d6610dc45975d5cc0d0e29763e7afd9ff02a3a62199b2d1556f23df5",
+      "9791194100119": "953a7dea1d32c3848075336a042eb32dc27c295a9dd9706f34e03edb2e8cf7c6",
+      "9791194100133": "0e3393b573c04b083062ec6f22f869a8085971dae10d8cd4dd9d25fc25c728d4",
+      "9791194244349": "333fbe8b6d7b5f4708294adc6f9696b6a551ba89076275ab595f78969265a550",
+      "9791194630678": "b84d348f03f55f06b46fc33dc97c32ce8fd262223d6ed8d3caf24667e1152d5c",
+      "9791194843252": "939212a0b5f0fbd126d68709a16b15987be0ec77fa0fd551736d2ddf1281bb3b",
+      "9791199136250": "ff26b8c759472801dfbe423989cab214161396fc13ce146c279b2b370557234a",
+      "9791199605336": "88a850b30ff82b44ac74aaf3e1316c93d64feb0f0242fa2609c03f353c66cb1c",
+      "9791199657311": "7d056ffad2a75f138f01ae7393f1b1734f64ecdceb4ec4ed0c4af8463d4a2e1e"
+    }
+  },
+  "field_policy": {
+    "required_fields": [
+      "020",
+      "245",
+      "260",
+      "700"
+    ],
+    "review_required_fields": [
+      "653",
+      "056",
+      "082"
+    ],
+    "conditional_fields": [
+      "041",
+      "246",
+      "250",
+      "300",
+      "490",
+      "500",
+      "546",
+      "710"
+    ],
+    "skipped_by_default": [
+      "650",
+      "830",
+      "950"
+    ]
+  },
+  "biblio_api_tags_labelled_api": [
+    "020",
+    "245",
+    "260",
+    "700",
+    "710"
+  ],
+  "evaluated_fields": [
+    "020",
+    "245",
+    "250",
+    "260",
+    "300",
+    "041",
+    "056",
+    "082",
+    "653"
+  ],
+  "rag_chunks": {
+    "020": {
+      "path": "ai/rag/chunks/kormarc-020.jsonl",
+      "chunk_count": 5,
+      "malformed_line_count": 0,
+      "sha256": "cf0a726bce3d6fe8e5ed3f3bd082dee1e1efa6c650d5a5b4892e966a619da8fa"
+    },
+    "041": {
+      "path": "ai/rag/chunks/kormarc-041.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "bbd4516fbf0e6198508366df5ee003fbf03f653628ada4928529f529c59420fd"
+    },
+    "056": {
+      "path": "ai/rag/chunks/kormarc-056.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "b087ea8d277076beb366257482eade806ddccbf60b74d949631e53f8909ee82a"
+    },
+    "082": {
+      "path": "ai/rag/chunks/kormarc-082.jsonl",
+      "chunk_count": 5,
+      "malformed_line_count": 0,
+      "sha256": "84a3e8d9a67c6289d755e08800df3244817c2ec9fc520a69f7346572978760ab"
+    },
+    "245": {
+      "path": "ai/rag/chunks/kormarc-245.jsonl",
+      "chunk_count": 8,
+      "malformed_line_count": 0,
+      "sha256": "08ce760bfd33efd1024d9ccbb2b4c654ff1a4a0d1bb35b65bf2ff7483d6ef8ce"
+    },
+    "246": {
+      "path": "ai/rag/chunks/kormarc-246.jsonl",
+      "chunk_count": 3,
+      "malformed_line_count": 0,
+      "sha256": "4391e465456f54de11760130724b4e015541d1a3342f5d21d120aa38d8095088"
+    },
+    "250": {
+      "path": "ai/rag/chunks/kormarc-250.jsonl",
+      "chunk_count": 4,
+      "malformed_line_count": 0,
+      "sha256": "a70d80dcdc203ac0e70dd2036ff82fdf34ba5b8787758168e8ac4b0175b8cd70"
+    },
+    "260": {
+      "path": "ai/rag/chunks/kormarc-260.jsonl",
+      "chunk_count": 5,
+      "malformed_line_count": 0,
+      "sha256": "7ed4968856db801b6bdb2220301483e714c57b9c654120954fa6fb1750dcfaee"
+    },
+    "300": {
+      "path": "ai/rag/chunks/kormarc-300.jsonl",
+      "chunk_count": 5,
+      "malformed_line_count": 0,
+      "sha256": "41a9115f05a6728ae33342e65c3f366e492b2b56eae8e73af79d2d956493a5ab"
+    },
+    "490": {
+      "path": "ai/rag/chunks/kormarc-490.jsonl",
+      "chunk_count": 5,
+      "malformed_line_count": 0,
+      "sha256": "348b3cf00bc6201d21573de7b536701599b8146846c7269aea45052a4ebdcf61"
+    },
+    "500": {
+      "path": "ai/rag/chunks/kormarc-500.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "7196dbe53ef5aacecefdb0193459b6d949b12280755f1cd32edad0acaf5b91ed"
+    },
+    "546": {
+      "path": "ai/rag/chunks/kormarc-546.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "ae6b9626ce208e1ca82a44ca6a46ed95bbe48c970856c113a1eb14051bdf830d"
+    },
+    "650": {
+      "path": "ai/rag/chunks/kormarc-650.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "6fdd9feb172c3808808950f499e8d6eb63cf8c295a16751c8d1dcdd59152f345"
+    },
+    "653": {
+      "path": "ai/rag/chunks/kormarc-653.jsonl",
+      "chunk_count": 8,
+      "malformed_line_count": 0,
+      "sha256": "11fd5971bd0cdecff94097c6321773fb7fe01a436864cd1dcb58e62c9e1b32e6"
+    },
+    "700": {
+      "path": "ai/rag/chunks/kormarc-700.jsonl",
+      "chunk_count": 6,
+      "malformed_line_count": 0,
+      "sha256": "5d0137c7ce4d8a11bb1562ecdb83225391710663cd42c11fcc638e07cc4e5418"
+    },
+    "710": {
+      "path": "ai/rag/chunks/kormarc-710.jsonl",
+      "chunk_count": 3,
+      "malformed_line_count": 0,
+      "sha256": "90047b82d53e896ab286981b9e9b569884af32262fdc92dcc92e0d2f1e4697b3"
+    }
+  },
+  "skip_reasons": {
+    "041": {
+      "번역·다국어 근거 없음: 041 생성 보류": 26,
+      "번역 다국어 근거 없음: 041 생성 보류": 1
+    },
+    "056": {
+      "KDC 근거 없음: API 분류기호 미수집": 3
+    },
+    "082": {
+      "DDC 근거 없음: API 분류기호 미수집": 33
+    },
+    "246": {
+      "대체표제 근거 없음": 26
+    },
+    "250": {
+      "판사항 근거 없음: 판 표시 미수집": 33
+    },
+    "490": {
+      "총서사항 근거 없음: 총서명 미수집": 26
+    },
+    "500": {
+      "일반주기 근거 부족: description 단순 복사 금지": 8
+    },
+    "546": {
+      "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지": 28
+    },
+    "650": {
+      "통제 주제명은 표목표 대조 필요: 653으로 대체": 33
+    },
+    "710": {
+      "단체 저작 근거 없음": 25,
+      "단체 저작 근거가 없음": 1
+    },
+    "830": {
+      "기본 생성 대상 아님": 1,
+      "생성 대상 아님": 2,
+      "총서 정보 없음": 1
+    },
+    "950": {
+      "기본 생성 대상 아님": 1,
+      "생성 대상 아님": 2,
+      "가격 등 부가필드 생성 대상 아님": 1
+    }
+  },
+  "known_unknowns": [
+    "생성 당시 LLM 모델명과 호출 파라미터는 결과 JSON에 없어 확인할 수 없다.",
+    "생성 당시 API 조회 시점과 원본 응답이 저장되어 있지 않아 값 결측 여부를 사후 확인할 수 없다.",
+    "생성 당시 D4L_SKIP_USAGE 설정값이 기록되어 있지 않다."
+  ]
+}

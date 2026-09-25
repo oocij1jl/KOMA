@@ -1,0 +1,319 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788965467892"
+        },
+        {
+          "code": "g",
+          "value": "74800"
+        },
+        {
+          "code": "c",
+          "value": "₩14000"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788992693301"
+        },
+        {
+          "code": "g",
+          "value": "74800"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "세트 ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "사북 할아버지의 수상한 여행"
+        },
+        {
+          "code": "d",
+          "value": "이규희 글"
+        },
+        {
+          "code": "e",
+          "value": "방새미 그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사. 역할어 기준 책임표시 분리 — 검수 필요"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "밝은미래"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "156 p."
+        },
+        {
+          "code": "c",
+          "value": "20 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "490",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "아이스토리빌 세트"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.series_title 전사. 총서 부출(830)은 전거 확인 전까지 생성하지 않음"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813.6"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이규희"
+        },
+        {
+          "code": "e",
+          "value": "글"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명과 역할어를 분리해 첫 번째 저작 책임자를 700으로 기술"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "방새미"
+        },
+        {
+          "code": "e",
+          "value": "그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명과 역할어를 분리해 두 번째 저작 책임자를 700으로 기술"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "가족애"
+        },
+        {
+          "code": "a",
+          "value": "용서"
+        },
+        {
+          "code": "a",
+          "value": "역사"
+        },
+        {
+          "code": "a",
+          "value": "감동"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "co_loan_books"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 가족애 용서 역사 감동 어린이 눈높이 등의 주제어를 추출하고 서지 맥락으로 적합성을 보조 확인"
+      },
+      "note": "정보나루 키워드가 없어 description과 서지 맥락으로 주제 접근어를 최소 추론"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어 자료로 보이나 번역이나 다국어 정황은 확인되지 않음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역이나 다국어 관련 신호가 없어 언어 설명 필드는 생성하지 않는 것이 원칙이므로 546은 보류 대상"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "가족의 사랑과 용서가 중심이 되는 아동 문학"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에 나타난 작품 성격을 일반주기로 축약해 제안하되 상세 소개문을 그대로 옮기지 않음"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "546은 단일 언어 추정만으로 생성하지 않는 규칙과 충돌 소지",
+    "500은 description 요약 수준이므로 검수 필요",
+    "653은 키워드 목록 부재로 설명 기반 추론이므로 검수 필요"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194630678"
+        },
+        {
+          "code": "g",
+          "value": "13000"
+        },
+        {
+          "code": "c",
+          "value": "₩16800"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "모두의 노션 AI"
+        },
+        {
+          "code": "d",
+          "value": "임대균,오가연 지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "생능북스 :생능출판사"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "192 p."
+        },
+        {
+          "code": "c",
+          "value": "26 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "005.5"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "임대균"
+        },
+        {
+          "code": "e",
+          "value": "지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에 제시된 개인명을 분리해 부출표목으로 기술함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오가연"
+        },
+        {
+          "code": "e",
+          "value": "지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에 제시된 개인명을 분리해 부출표목으로 기술함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "데이터베이스"
+        },
+        {
+          "code": "a",
+          "value": "기능"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords"
+        ],
+        "keywords_used": [
+          "노션",
+          "AI",
+          "데이터베이스",
+          "활용",
+          "기능"
+        ],
+        "reasoning": "가중치 상위 키워드 중 서지 값 반복을 제외하고 주제어 성격의 비통제 색인어를 최소 정제하여 제안함"
+      },
+      "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "노션 입문자를 위한 안내서로 데이터베이스 활용과 AI 기능을 단계별로 다룸"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 내용 특성을 일반주기로 최소화해 기술함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "246",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "3",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "모두의 노션 AI"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제의 다른 형태가 확인되지 않아 대체표제 근거 부족"
+      },
+      "note": ""
+    },
+    {
+      "tag": "710",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "2",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "생능북스"
+        },
+        {
+          "code": "e",
+          "value": "출판"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "publisher"
+        ],
+        "keywords_used": [],
+        "reasoning": "출판사명이 확인되지만 단체 저작 책임 근거는 없어 원칙상 생성 보류 대상임"
+      },
+      "note": ""
+    },
+    {
+      "tag": "710",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "2",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "생능출판사"
+        },
+        {
+          "code": "e",
+          "value": "출판"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "publisher"
+        ],
+        "keywords_used": [],
+        "reasoning": "출판사명에 포함된 단체를 저작 책임 단체로 오인하지 않도록 주의가 필요함"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "700은 책임표시 분해 결과로 검수 필요",
+    "653 색인어는 키워드 기반 추론이므로 검수 필요",
+    "041 546 500은 근거가 약해 검수 필요",
+    "710은 출판사명을 단체저자로 올리지 않도록 검수 필요",
+    "546 언어주기 근거 부족으로 제거됨",
+    "041 본문언어만 기술되어 근거 부족으로 제거됨"
+  ]
+}

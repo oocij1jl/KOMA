@@ -1,0 +1,336 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788960909830"
+        },
+        {
+          "code": "g",
+          "value": "03850"
+        },
+        {
+          "code": "c",
+          "value": "₩19500"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "카프카의 문장들"
+        },
+        {
+          "code": "d",
+          "value": "지은이: 프란츠 카프카"
+        },
+        {
+          "code": "e",
+          "value": "엮고 옮긴이: 권혁준"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사. 역할어 기준 책임표시 분리 — 검수 필요"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "마음산책"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "399 p."
+        },
+        {
+          "code": "c",
+          "value": "20 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "854"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "프란츠 카프카"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명으로 식별되는 저자를 분리하여 700으로 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "권혁준"
+        },
+        {
+          "code": "e",
+          "value": "엮고 옮긴이"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명으로 식별되는 역자 엮은이를 분리하여 700으로 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "소송"
+        },
+        {
+          "code": "a",
+          "value": "변신"
+        },
+        {
+          "code": "a",
+          "value": "일기"
+        },
+        {
+          "code": "a",
+          "value": "편지"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "카프카",
+          "문장",
+          "소송",
+          "변신",
+          "일기",
+          "편지"
+        ],
+        "reasoning": "가중치 상위 키워드 중 서명 저자명 출판사명을 제외하고 주제 소재를 비통제 색인어로 최소 정제"
+      },
+      "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        },
+        {
+          "code": "h",
+          "value": "ger"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "옮긴이 번역 신호가 확인되고 카프카 원저 언어는 독일어로 판단되어 번역물의 언어 정보를 041로 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "카프카의 문장과 독일어 원문 번역을 엮은 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역과 엮은이 정보가 확인되어 일반주기로 간단히 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어 번역 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황이 확인되어 언어주기로 번역 자료임을 설명"
+      },
+      "note": ""
+    },
+    {
+      "tag": "710",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "2",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "마음산책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "단체 저작 책임이 아니라 출판사명일 가능성이 높아 710 근거가 부족하므로 생성 보류 대상"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "700 인명 분해는 검수 대상",
+    "041과 546은 번역 정황에 따라 일치 여부 검토 필요",
+    "500은 일반주기이므로 사서 검수 필요",
+    "710은 출판사명을 단체저자로 올릴 수 없음"
+  ]
+}

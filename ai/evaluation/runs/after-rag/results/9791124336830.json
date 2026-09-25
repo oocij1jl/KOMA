@@ -1,0 +1,268 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791124336830"
+        },
+        {
+          "code": "g",
+          "value": "03180"
+        },
+        {
+          "code": "c",
+          "value": "₩18500"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "운동하면 좋은 걸 누가 모르냐고요"
+        },
+        {
+          "code": "d",
+          "value": "지은이: 하주원"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "사이언스북스"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "273 p."
+        },
+        {
+          "code": "c",
+          "value": "19 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "185"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "하주원"
+        },
+        {
+          "code": "e",
+          "value": "지은이"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에 개인명 하주원이 확인되어 700 부출표목으로 기술함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "마음"
+        },
+        {
+          "code": "a",
+          "value": "우울"
+        },
+        {
+          "code": "a",
+          "value": "불안"
+        },
+        {
+          "code": "a",
+          "value": "움직임"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "운동",
+          "마음",
+          "우울",
+          "불안",
+          "움직임"
+        ],
+        "reasoning": "상위 키워드 중 서지값 반복을 제외하고 주제 적합성이 높은 자유 키워드를 최소 정제하여 제안함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "정신건강의학과 전문의인 저자의 임상 경험이 반영된 운동 안내서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 직업과 소개문에서 임상 경험이 책의 성격을 설명하는 일반주기 근거로 확인됨"
+      },
+      "note": ""
+    },
+    {
+      "tag": "246",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "3",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "운동하면 좋은 걸 누가 모르냐고"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title"
+        ],
+        "keywords_used": [],
+        "reasoning": "제목에서 종결 어미를 제외한 변형 표제를 확인할 수 있어 대체 표제로 제안함"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "기본 생성 대상 아님"
+    },
+    {
+      "tag": "950",
+      "reason": "기본 생성 대상 아님"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 기반 추론이므로 검수 필요",
+    "500과 546은 설명 성격이 겹치지 않도록 검수 필요",
+    "546 언어주기 근거 부족으로 제거됨"
+  ]
+}

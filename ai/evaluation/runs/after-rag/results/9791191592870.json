@@ -1,0 +1,292 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791191592870"
+        },
+        {
+          "code": "g",
+          "value": "77810"
+        },
+        {
+          "code": "c",
+          "value": "₩19000"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오징어땅콩전"
+        },
+        {
+          "code": "d",
+          "value": "글·그림: 고혜진"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "달그림 :노란돼지"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "74 p."
+        },
+        {
+          "code": "c",
+          "value": "24 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813.7"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "고혜진"
+        },
+        {
+          "code": "e",
+          "value": "글 그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명 고혜진을 확인할 수 있어 700으로 기술하고 역할은 글 그림으로 분리"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "전쟁"
+        },
+        {
+          "code": "a",
+          "value": "오해"
+        },
+        {
+          "code": "a",
+          "value": "갈등"
+        },
+        {
+          "code": "a",
+          "value": "과자"
+        },
+        {
+          "code": "a",
+          "value": "편견"
+        },
+        {
+          "code": "a",
+          "value": "풍자"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "전쟁",
+          "오징어땅콩전",
+          "오해",
+          "갈등",
+          "그림책",
+          "과자",
+          "편견",
+          "풍자"
+        ],
+        "reasoning": "상위 키워드에서 서지 값 반복을 제외하고 주제 소재 개념을 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오징어땅콩을 모티브로 오해와 편견이 전쟁으로 번지는 양상을 다룬 그림책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 작품의 성격과 주제 전개를 요약한 일반주기 후보를 확인할 수 있음"
+      },
+      "note": ""
+    },
+    {
+      "tag": "246",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "3",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오징어땅콩전"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 동일한 값만 확인되어 대체표제 근거가 부족함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "710",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "2",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "달그림"
+        },
+        {
+          "code": "e",
+          "value": "출판"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "단체 저작 책임은 아니지만 책임 주체로 보이는 표기에서 단체명을 확인할 수 있어 검수 참고용 후보로만 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "500은 책소개 요약 성격이므로 검수 필요",
+    "546은 단일 언어 추정에 가깝고 번역 근거는 없음",
+    "246은 대체표제 근거가 약함",
+    "710은 출판사명을 저작 책임 단체로 볼 근거가 약함",
+    "653 색인어는 키워드 기반 추론이므로 반드시 검수",
+    "546 언어주기 근거 부족으로 제거됨"
+  ]
+}

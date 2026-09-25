@@ -851,6 +851,71 @@ class OutputValidatorTests(unittest.TestCase):
 
         self.assertEqual([field.tag for field in result.fields], ["041"])
 
+    def _inference_field(self, tag: str, subfields: list[dict[str, str]], indicator1: str = " ") -> dict[str, object]:
+        return {
+            "tag": tag,
+            "indicator1": indicator1,
+            "indicator2": " ",
+            "subfields": subfields,
+            "source": "ai_inference",
+            "review_required": True,
+            "confidence": "low",
+            "evidence": {"from": ["author"], "reasoning": "검수용 후보"},
+        }
+
+    def test_validate_output_removes_negated_546_even_with_keyword(self) -> None:
+        """'번역' 키워드가 있어도 근거가 없다는 문장은 언어주기가 아니다."""
+
+        raw_output = self._language_output(
+            [self._inference_field("546", [{"code": "a", "value": "한국어 자료로 보이나 번역이나 다국어 정황은 확인되지 않음"}])]
+        )
+
+        result = validate_output(raw_output, evidence=self._build_evidence())
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["546"])
+
+    def test_validate_output_removes_246_identical_to_title(self) -> None:
+        raw_output = self._language_output(
+            [self._inference_field("246", [{"code": "a", "value": "끝까지 해 보자 때밀이 장갑"}], indicator1="3")]
+        )
+
+        result = validate_output(raw_output, biblio=self._build_biblio(title="끝까지 해 보자, 때밀이 장갑!"))
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["246"])
+
+    def test_validate_output_keeps_246_with_different_title(self) -> None:
+        raw_output = self._language_output(
+            [self._inference_field("246", [{"code": "a", "value": "Dove andiamo quando moriamo?"}], indicator1="1")]
+        )
+
+        result = validate_output(raw_output, biblio=self._build_biblio(title="우리는 죽으면 어디로 가요?"))
+
+        self.assertEqual([field.tag for field in result.fields], ["246"])
+
+    def test_validate_output_removes_publisher_as_710(self) -> None:
+        raw_output = self._language_output(
+            [
+                self._inference_field("710", [{"code": "a", "value": "마음산책"}], indicator1="2"),
+                self._inference_field("710", [{"code": "a", "value": "생능출판사"}, {"code": "e", "value": "출판"}], indicator1="2"),
+            ]
+        )
+
+        result = validate_output(raw_output, biblio=self._build_biblio(publisher="마음산책"))
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["710"])
+
+    def test_validate_output_keeps_corporate_author_710(self) -> None:
+        raw_output = self._language_output(
+            [self._inference_field("710", [{"code": "a", "value": "국립국어원"}, {"code": "e", "value": "편"}], indicator1="2")]
+        )
+
+        result = validate_output(raw_output, biblio=self._build_biblio(publisher="창비"))
+
+        self.assertEqual([field.tag for field in result.fields], ["710"])
+
 
 if __name__ == "__main__":
     _ = unittest.main()

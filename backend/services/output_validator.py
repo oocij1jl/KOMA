@@ -406,6 +406,9 @@ FIELD_546_SKIP_REASON = "언어주기 근거 없음: 단일 언어 추정만으�
 # 추정만 담고 있으면 언어주기 근거가 되지 않는다.
 GENERIC_KOREAN_NOTE_RE = re.compile(r"^한국어(?:로)?\s*(?:된|기술된|쓰인|작성된)?\s*\S*$")
 LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "옮김", "대역", "병기", "자막", "요약", "초록", "원문")
+# "번역 정황은 확인되지 않음"처럼 근거가 없다는 사실을 적은 주기. 키워드가
+# 들어 있어도 언어 정보를 주지 않으므로 남기지 않는다.
+NEGATED_NOTE_RE = re.compile(r"확인되지\s*않|확인할\s*수\s*없|정황은\s*없|근거\s*(?:가\s*)?(?:부족|없)|보이나|아님|없음")
 
 
 def _has_translation_signal(evidence: "EvidenceSchemaType | None") -> bool:
@@ -448,9 +451,66 @@ def _enforce_language_field_policy(
                 keyword in value for value in values for keyword in LANGUAGE_NOTE_KEYWORDS
             )
             generic_only = all(GENERIC_KOREAN_NOTE_RE.match(value) for value in values) if values else True
-            if not informative and (generic_only or not translation_detected):
+            negated = any(NEGATED_NOTE_RE.search(value) for value in values)
+            if negated or (not informative and (generic_only or not translation_detected)):
                 warnings.append("546 언어주기 근거 부족으로 제거됨")
                 _set_skip_reason(skipped_fields, "546", FIELD_546_SKIP_REASON)
+                continue
+
+        kept_fields.append(field)
+
+    return kept_fields
+
+
+FIELD_246_SKIP_REASON = "대체표제 근거 없음: 245 본표제와 같은 값"
+FIELD_710_SKIP_REASON = "단체저자 근거 없음: 출판사는 710으로 올리지 않음"
+PUBLISHER_ROLE_VALUES = frozenset({"출판", "발행", "펴냄", "출판사", "발행처"})
+TITLE_KEY_RE = re.compile(r"[^0-9A-Za-z가-힣]+")
+
+
+def _title_key(value: str) -> str:
+    return TITLE_KEY_RE.sub("", value).casefold()
+
+
+def _enforce_added_entry_policy(
+    fields: list["GeneratedFieldType"],
+    skipped_fields: list["SkippedFieldType"],
+    warnings: list[str],
+    *,
+    biblio: "BiblioSchemaType | None",
+) -> list["GeneratedFieldType"]:
+    """246/710을 RAG skip 규칙대로 거른다.
+
+    - 246: 245 본표제와 구두점·공백만 다른 값은 다른 표제가 아니다.
+    - 710: 출판사·발행처는 단체저자가 아니다. 역할어가 출판이거나 이름이
+      biblio.publisher와 겹치면 제거한다.
+    """
+
+    title_keys: set[str] = set()
+    publisher_key = ""
+    if biblio is not None:
+        title_keys = {_title_key(biblio.title), _title_key(biblio.title.split(":", 1)[0])}
+        title_keys.discard("")
+        publisher_key = _title_key(biblio.publisher)
+
+    kept_fields: list["GeneratedFieldType"] = []
+    for field in fields:
+        if field.tag == "246" and title_keys:
+            values = [subfield.value for subfield in field.subfields if subfield.code == "a"]
+            if values and all(_title_key(value) in title_keys for value in values):
+                warnings.append("246이 245 본표제와 같아 제거됨")
+                _set_skip_reason(skipped_fields, "246", FIELD_246_SKIP_REASON)
+                continue
+
+        if field.tag == "710":
+            roles = {subfield.value.strip() for subfield in field.subfields if subfield.code == "e"}
+            names = [_title_key(subfield.value) for subfield in field.subfields if subfield.code == "a"]
+            publisher_like = bool(publisher_key) and any(
+                name and (name in publisher_key or publisher_key in name) for name in names
+            )
+            if roles & PUBLISHER_ROLE_VALUES or publisher_like:
+                warnings.append("710에 출판사가 들어가 제거됨")
+                _set_skip_reason(skipped_fields, "710", FIELD_710_SKIP_REASON)
                 continue
 
         kept_fields.append(field)
@@ -493,6 +553,7 @@ def validate_output(
 
     fields = _cleanup_structural_field_errors(fields, skipped_fields, warnings)
     fields = _enforce_language_field_policy(fields, skipped_fields, warnings, evidence=evidence)
+    fields = _enforce_added_entry_policy(fields, skipped_fields, warnings, biblio=biblio)
     fields = _remove_redundant_653_fields(fields, skipped_fields, biblio=biblio, evidence=evidence)
 
     return GenerateResult(fields=fields, skipped_fields=skipped_fields, warnings=warnings)
