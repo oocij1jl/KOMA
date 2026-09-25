@@ -18,8 +18,8 @@ venv/
 *.tmp
 backend/docs/CLAUDE.md
 BACKEND_AUDIT_AND_PLAN.md
-mid_result/testset_cache/
-mid_result/testsets/
+ai/evaluation/data/testset_cache/
+ai/evaluation/data/testsets/
 
 .idea/
 backend_demo.html

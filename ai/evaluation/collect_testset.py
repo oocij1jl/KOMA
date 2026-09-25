@@ -29,8 +29,8 @@ from urllib import parse, request
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
-DEFAULT_OUTPUT_DIR = ROOT_DIR / "mid_result" / "testsets"
-DEFAULT_CACHE_DIR = ROOT_DIR / "mid_result" / "testset_cache"
+DEFAULT_OUTPUT_DIR = ROOT_DIR / "ai" / "evaluation" / "data" / "testsets"
+DEFAULT_CACHE_DIR = ROOT_DIR / "ai" / "evaluation" / "data" / "testset_cache"
 
 D4L_SEARCH_BOOKS_URL = "https://data4library.kr/api/srchBooks"
 D4L_LOAN_ITEMS_URL = "https://data4library.kr/api/loanItemSrch"
@@ -51,6 +51,7 @@ TRANSLATION_RE = re.compile(r"(옮김|번역|역주|역자|옮긴이|원작|tran
 MULTI_AUTHOR_RE = re.compile(r"(;|,|·|ㆍ|/| 외\b|공저|공동|엮음|편저|글\s*;|그림\s*;)")
 ASCII_RE = re.compile(r"[A-Za-z]{3,}")
 ISBN_RE = re.compile(r"[^0-9Xx]")
+TEXT_KEY_NOISE_RE = re.compile(r"[\s:;,.!?\-_/()\[\]{}『』「」《》〈〉·ㆍ]+")
 
 # Broad keywords are used only to diversify the candidate pool. Final balancing
 # is done with API-provided KDC and category heuristics.
@@ -439,6 +440,14 @@ def selection_score(candidate: Candidate) -> tuple[int, int, int, str]:
     )
 
 
+def duplicate_key(candidate: Candidate) -> str:
+    title = TEXT_KEY_NOISE_RE.sub("", candidate.title or "").casefold()
+    author = TEXT_KEY_NOISE_RE.sub("", candidate.author or "").casefold()
+    if not title or not author:
+        return ""
+    return f"{title}|{author}"
+
+
 def select_primary(candidates: list[Candidate]) -> tuple[list[Candidate], list[dict[str, str]]]:
     usable = [
         item
@@ -450,19 +459,29 @@ def select_primary(candidates: list[Candidate]) -> tuple[list[Candidate], list[d
     selected: list[Candidate] = []
     rejects: list[dict[str, str]] = []
     used: set[str] = set()
+    used_duplicate_keys: set[str] = set()
     category_counts: Counter[str] = Counter()
     kdc_counts: Counter[str] = Counter()
 
     def take(item: Candidate) -> None:
         selected.append(item)
         used.add(item.isbn)
+        key = duplicate_key(item)
+        if key:
+            used_duplicate_keys.add(key)
         category_counts[item.category] += 1
         kdc_counts[item.kdc_group] += 1
+
+    def is_duplicate_title_author(item: Candidate) -> bool:
+        key = duplicate_key(item)
+        return bool(key and key in used_duplicate_keys)
 
     # Strict pass: category and KDC quotas must both have room.
     for item in usable:
         if len(selected) >= TARGET_TOTAL:
             break
+        if is_duplicate_title_author(item):
+            continue
         if category_counts[item.category] >= CATEGORY_QUOTAS[item.category]:
             continue
         if kdc_counts[item.kdc_group] >= KDC_QUOTAS[item.kdc_group]:
@@ -475,12 +494,16 @@ def select_primary(candidates: list[Candidate]) -> tuple[list[Candidate], list[d
             break
         if item.isbn in used:
             continue
+        if is_duplicate_title_author(item):
+            continue
         if kdc_counts[item.kdc_group] >= KDC_QUOTAS[item.kdc_group] + 10:
             continue
         if category_counts[item.category] >= CATEGORY_QUOTAS[item.category] + 15:
             continue
         take(item)
 
+    # Duplicate fallback: preserve the required 500-book shape even if a bucket
+    # does not have enough unique title+author candidates.
     # Last resort: keep the set at 500 if the source data is imbalanced.
     for item in usable:
         if len(selected) >= TARGET_TOTAL:
@@ -582,6 +605,9 @@ def candidate_row(candidate: Candidate, index: int) -> dict[str, Any]:
 
 
 def build_summary(selected: list[Candidate], secondary: list[Candidate], pool_size: int) -> dict[str, Any]:
+    duplicate_keys = [duplicate_key(item) for item in selected if duplicate_key(item)]
+    duplicate_key_counts = Counter(duplicate_keys)
+    duplicate_groups = {key: count for key, count in duplicate_key_counts.items() if count > 1}
     return {
         "pool_size": pool_size,
         "selected_total": len(selected),
@@ -591,6 +617,8 @@ def build_summary(selected: list[Candidate], secondary: list[Candidate], pool_si
         "secondary_by_category": dict(Counter(item.category for item in secondary)),
         "secondary_by_kdc_group": dict(sorted(Counter(item.kdc_group for item in secondary).items())),
         "marc_available_in_selected": sum(1 for item in selected if item.marc_available),
+        "duplicate_title_author_group_count": len(duplicate_groups),
+        "duplicate_title_author_row_count": sum(duplicate_groups.values()),
     }
 
 
@@ -603,7 +631,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--sleep-seconds", type=float, default=0.15)
     parser.add_argument("--pages-per-kdc", type=int, default=4)
     parser.add_argument("--keyword-pages", type=int, default=2)
-    parser.add_argument("--max-nl-enrich", type=int, default=1200, help="Limit NL ISBN enrichment calls; use 0 for no limit")
+    parser.add_argument("--max-nl-enrich", type=int, default=2400, help="Limit NL ISBN enrichment calls; use 0 for no limit")
     return parser.parse_args()
 
 

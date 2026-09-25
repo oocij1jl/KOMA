@@ -26,7 +26,7 @@ except ModuleNotFoundError:  # pragma: no cover
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 DEFAULT_SOURCE_DIR = Path.home() / "Downloads" / "TalkFile_마크"
-DEFAULT_OUTPUT_DIR = ROOT_DIR / "mid_result" / "testsets"
+DEFAULT_OUTPUT_DIR = ROOT_DIR / "ai" / "evaluation" / "data" / "testsets"
 
 TRANSLATION_RE = re.compile(r"(옮김|번역|역주|역자|옮긴이|원작|원저|translat)", re.IGNORECASE)
 MULTI_AUTHOR_RE = re.compile(r"(;|,|·|ㆍ|/| 외\b|공저|공동|엮음|편저|글\s*;|그림\s*;)")
@@ -154,12 +154,10 @@ def field_tags(record: RecordData) -> str:
 
 def build_rows(source_dir: Path) -> list[MarcBookRow]:
     rows: list[MarcBookRow] = []
-    seen_isbns: Counter[str] = Counter()
 
     for path in sorted(source_dir.glob("*.mrc")):
         records = parse_gold_records(path)
         for record in records:
-            seen_isbns[record.isbn] += 1
             title = extract_title(record)
             author = extract_author(record)
             publisher = extract_publisher(record)
@@ -194,10 +192,6 @@ def build_rows(source_dir: Path) -> list[MarcBookRow]:
                     source_mrc_file=path.name,
                 )
             )
-
-    for row in rows:
-        if seen_isbns[row.isbn] > 1:
-            row.validation_tier = "gold_marc_duplicate_isbn"
 
     return rows
 
@@ -234,7 +228,6 @@ def main() -> None:
         raise SystemExit(f"Source directory does not exist: {args.source_dir}")
 
     rows = build_rows(args.source_dir)
-    row_dicts = [row.__dict__ for row in rows]
     unique_rows = unique_by_isbn(rows)
     unique_row_dicts = [row.__dict__ for row in unique_rows]
 
@@ -258,23 +251,17 @@ def main() -> None:
     ]
     minimal_fields = ["id", "isbn", "category", "reference_available"]
 
-    write_csv(args.output_dir / "marc_gold_books.csv", row_dicts, full_fields)
-    write_csv(args.output_dir / "marc_gold_books_minimal.csv", row_dicts, minimal_fields)
-    write_csv(args.output_dir / "marc_gold_books_unique.csv", unique_row_dicts, full_fields)
-    write_csv(args.output_dir / "marc_gold_books_unique_minimal.csv", unique_row_dicts, minimal_fields)
+    write_csv(args.output_dir / "marc_gold_books.csv", unique_row_dicts, full_fields)
+    write_csv(args.output_dir / "marc_gold_books_minimal.csv", unique_row_dicts, minimal_fields)
 
     summary = {
-        "source_dir": str(args.source_dir),
         "source_file_count": len(list(args.source_dir.glob("*.mrc"))),
-        "record_count": len(rows),
+        "raw_record_count": len(rows),
         "unique_isbn_count": len(unique_rows),
         "duplicate_isbn_count": len(rows) - len(unique_rows),
-        "by_category": dict(Counter(row.category for row in rows)),
-        "by_kdc_group": dict(sorted(Counter(row.kdc_group or "missing" for row in rows).items())),
-        "unique_by_category": dict(Counter(row.category for row in unique_rows)),
-        "unique_by_kdc_group": dict(sorted(Counter(row.kdc_group or "missing" for row in unique_rows).items())),
-        "missing_kdc_count": sum(1 for row in rows if not row.kdc_group),
-        "unique_missing_kdc_count": sum(1 for row in unique_rows if not row.kdc_group),
+        "by_category": dict(Counter(row.category for row in unique_rows)),
+        "by_kdc_group": dict(sorted(Counter(row.kdc_group or "missing" for row in unique_rows).items())),
+        "missing_kdc_count": sum(1 for row in unique_rows if not row.kdc_group),
     }
     (args.output_dir / "marc_gold_summary.json").write_text(
         json.dumps(summary, ensure_ascii=False, indent=2),
@@ -284,8 +271,6 @@ def main() -> None:
     print(json.dumps(summary, ensure_ascii=False, indent=2))
     print(f"Wrote: {args.output_dir / 'marc_gold_books.csv'}")
     print(f"Wrote: {args.output_dir / 'marc_gold_books_minimal.csv'}")
-    print(f"Wrote: {args.output_dir / 'marc_gold_books_unique.csv'}")
-    print(f"Wrote: {args.output_dir / 'marc_gold_books_unique_minimal.csv'}")
 
 
 if __name__ == "__main__":
