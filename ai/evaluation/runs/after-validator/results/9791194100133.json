@@ -1,0 +1,298 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194100133"
+        },
+        {
+          "code": "g",
+          "value": "77880"
+        },
+        {
+          "code": "c",
+          "value": "₩17000"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "우리는 죽으면 어디로 가나요?"
+        },
+        {
+          "code": "d",
+          "value": "사미 라모스 글·그림"
+        },
+        {
+          "code": "e",
+          "value": "제님 옮김"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사. 역할어 기준 책임표시 분리 — 검수 필요"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "여유당(여유당출판사)"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "38 p."
+        },
+        {
+          "code": "c",
+          "value": "26 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "883"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "사미 라모스"
+        },
+        {
+          "code": "e",
+          "value": "글 그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "author에서 개인명 사미 라모스를 식별할 수 있고 글 그림 역할이 함께 제시되어 700 부출표목으로 분리 가능"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "제님"
+        },
+        {
+          "code": "e",
+          "value": "옮김"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author",
+          "translation_signals"
+        ],
+        "keywords_used": [],
+        "reasoning": "author의 옮김 표기와 translation_signals의 번역 정황으로 번역자 제님을 개인명 부출표목으로 생성"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "죽음"
+        },
+        {
+          "code": "a",
+          "value": "질문"
+        },
+        {
+          "code": "a",
+          "value": "우주"
+        },
+        {
+          "code": "a",
+          "value": "수상작"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "죽음",
+          "그림책",
+          "질문",
+          "우주",
+          "수상작"
+        ],
+        "reasoning": "가중치가 높고 내용 주제와 직접 관련된 비통제 키워드를 최소 정제하여 주제 접근점으로 제안"
+      },
+      "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        },
+        {
+          "code": "h",
+          "value": "spa"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "translation_signals에 번역 정황이 있고 author의 옮김 표기로 번역서임이 확인됨. 원저작 언어는 description과 키워드의 콜롬비아 사미 라모스 정황을 바탕으로 스페인어로 추정"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어 번역본"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "옮김 표기와 번역 신호로 번역 자료임이 확인되어 언어 설명 주기를 부여"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: 허용 유형 아님"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거 없음"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "041 h의 원저작 언어는 명시 근거가 없어 추정치이므로 검수 필요",
+    "546과 041은 번역 정황에 대해서만 사용하고 단일 언어 추정은 배제함",
+    "653은 자유 키워드 기반이므로 표목 검수 필요"
+  ]
+}

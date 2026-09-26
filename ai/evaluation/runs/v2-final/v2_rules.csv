@@ -1,0 +1,55 @@
+run,rule,label,rag_ref,applicable_books,passed_books,pass_rate
+mid-presentation,S-codes,허용 식별기호만 사용,KORMARC 통합서지 020/041/056/082/245/260/300,33,33,1.0
+mid-presentation,R-020,ISBN·부가기호 형식,kormarc.field.020.subfields/forbidden,33,33,1.0
+mid-presentation,R-245,245 구조(반복·$a·$c/$h 금지·지시기호 0),kormarc.field.245.forbidden/indicators,33,2,0.0606
+mid-presentation,R-260,발행지 추정 금지,kormarc.field.260.forbidden,32,32,1.0
+mid-presentation,R-300,300 단위·$b 금지·무의미값 금지,kormarc.field.300.generation/forbidden,11,0,0.0
+mid-presentation,R-056/082,분류기호 형식,kormarc.field.056/082.generation,21,10,0.4762
+mid-presentation,R-490,490 제1지시기호 1은 830과 함께,kormarc.field.490.forbidden,3,3,1.0
+mid-presentation,R-policy,650·830·950 자동 생성 금지,"kormarc.field.650/490.generation, 기관 로컬 정책",33,29,0.8788
+mid-presentation,R-041,041 부호 형식·번역 정황,kormarc.field.041.generation/indicators,5,5,1.0
+mid-presentation,R-546,546 무근거 언어주기 금지,kormarc.field.546.generation,19,1,0.0526
+mid-presentation,R-041/546,546 번역 주기와 041 번역 표시 일관,kormarc.field.546.generation,0,0,
+mid-presentation,R-500,언어정보를 500에 쓰지 않음,kormarc.field.500.generation/validation,22,20,0.9091
+mid-presentation,R-700-form,"700은 1인 1필드, 역할어는 $e",kormarc.field.700.generation,23,22,0.9565
+mid-presentation,R-700-245,700 인원 = 245 책임표시 인원,kormarc.field.700.generation,2,2,1.0
+mid-presentation,R-710,출판사를 710에 올리지 않음,kormarc.field.710.skip,0,0,
+mid-presentation,R-246,245와 같은 표제를 246으로 만들지 않음,kormarc.field.246.skip,1,0,0.0
+mid-presentation,R-evidence,추론 필드는 evidence·검수 표시 필수,kormarc.field.500/653/041.validation,32,32,1.0
+mid-presentation,R-653,653 사용 키워드 기록·중복 없음,kormarc.field.653.generation,31,31,1.0
+after-rag,S-codes,허용 식별기호만 사용,KORMARC 통합서지 020/041/056/082/245/260/300,33,33,1.0
+after-rag,R-020,ISBN·부가기호 형식,kormarc.field.020.subfields/forbidden,33,33,1.0
+after-rag,R-245,245 구조(반복·$a·$c/$h 금지·지시기호 0),kormarc.field.245.forbidden/indicators,33,33,1.0
+after-rag,R-260,발행지 추정 금지,kormarc.field.260.forbidden,33,33,1.0
+after-rag,R-300,300 단위·$b 금지·무의미값 금지,kormarc.field.300.generation/forbidden,33,33,1.0
+after-rag,R-056/082,분류기호 형식,kormarc.field.056/082.generation,30,30,1.0
+after-rag,R-490,490 제1지시기호 1은 830과 함께,kormarc.field.490.forbidden,7,7,1.0
+after-rag,R-policy,650·830·950 자동 생성 금지,"kormarc.field.650/490.generation, 기관 로컬 정책",33,33,1.0
+after-rag,R-041,041 부호 형식·번역 정황,kormarc.field.041.generation/indicators,3,3,1.0
+after-rag,R-546,546 무근거 언어주기 금지,kormarc.field.546.generation,5,3,0.6
+after-rag,R-041/546,546 번역 주기와 041 번역 표시 일관,kormarc.field.546.generation,3,3,1.0
+after-rag,R-500,언어정보를 500에 쓰지 않음,kormarc.field.500.generation/validation,25,23,0.92
+after-rag,R-700-form,"700은 1인 1필드, 역할어는 $e",kormarc.field.700.generation,33,33,1.0
+after-rag,R-700-245,700 인원 = 245 책임표시 인원,kormarc.field.700.generation,33,32,0.9697
+after-rag,R-710,출판사를 710에 올리지 않음,kormarc.field.710.skip,5,0,0.0
+after-rag,R-246,245와 같은 표제를 246으로 만들지 않음,kormarc.field.246.skip,6,1,0.1667
+after-rag,R-evidence,추론 필드는 evidence·검수 표시 필수,kormarc.field.500/653/041.validation,33,32,0.9697
+after-rag,R-653,653 사용 키워드 기록·중복 없음,kormarc.field.653.generation,33,33,1.0
+after-validator,S-codes,허용 식별기호만 사용,KORMARC 통합서지 020/041/056/082/245/260/300,33,33,1.0
+after-validator,R-020,ISBN·부가기호 형식,kormarc.field.020.subfields/forbidden,33,33,1.0
+after-validator,R-245,245 구조(반복·$a·$c/$h 금지·지시기호 0),kormarc.field.245.forbidden/indicators,33,33,1.0
+after-validator,R-260,발행지 추정 금지,kormarc.field.260.forbidden,33,33,1.0
+after-validator,R-300,300 단위·$b 금지·무의미값 금지,kormarc.field.300.generation/forbidden,33,33,1.0
+after-validator,R-056/082,분류기호 형식,kormarc.field.056/082.generation,30,30,1.0
+after-validator,R-490,490 제1지시기호 1은 830과 함께,kormarc.field.490.forbidden,7,7,1.0
+after-validator,R-policy,650·830·950 자동 생성 금지,"kormarc.field.650/490.generation, 기관 로컬 정책",33,33,1.0
+after-validator,R-041,041 부호 형식·번역 정황,kormarc.field.041.generation/indicators,3,3,1.0
+after-validator,R-546,546 무근거 언어주기 금지,kormarc.field.546.generation,1,1,1.0
+after-validator,R-041/546,546 번역 주기와 041 번역 표시 일관,kormarc.field.546.generation,1,1,1.0
+after-validator,R-500,언어정보를 500에 쓰지 않음,kormarc.field.500.generation/validation,0,0,
+after-validator,R-700-form,"700은 1인 1필드, 역할어는 $e",kormarc.field.700.generation,33,32,0.9697
+after-validator,R-700-245,700 인원 = 245 책임표시 인원,kormarc.field.700.generation,33,33,1.0
+after-validator,R-710,출판사를 710에 올리지 않음,kormarc.field.710.skip,0,0,
+after-validator,R-246,245와 같은 표제를 246으로 만들지 않음,kormarc.field.246.skip,1,1,1.0
+after-validator,R-evidence,추론 필드는 evidence·검수 표시 필수,kormarc.field.500/653/041.validation,33,33,1.0
+after-validator,R-653,653 사용 키워드 기록·중복 없음,kormarc.field.653.generation,32,32,1.0

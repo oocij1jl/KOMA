@@ -1,0 +1,250 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194630678"
+        },
+        {
+          "code": "g",
+          "value": "13000"
+        },
+        {
+          "code": "c",
+          "value": "₩16800"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "모두의 노션 AI"
+        },
+        {
+          "code": "d",
+          "value": "임대균,오가연 지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "생능북스 :생능출판사"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "192 p."
+        },
+        {
+          "code": "c",
+          "value": "26 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "005.5"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "임대균"
+        },
+        {
+          "code": "e",
+          "value": "지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 개인명 임대균을 식별할 수 있어 700 개인명 부출표목으로 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오가연"
+        },
+        {
+          "code": "e",
+          "value": "지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 개인명 오가연을 식별할 수 있어 700 개인명 부출표목으로 제시"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "데이터베이스"
+        },
+        {
+          "code": "a",
+          "value": "기능"
+        },
+        {
+          "code": "a",
+          "value": "올인원"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "keywords_used": [
+          "노션",
+          "AI",
+          "데이터베이스",
+          "활용",
+          "자동화",
+          "업무",
+          "기능",
+          "기본",
+          "올인원"
+        ],
+        "reasoning": "상위 키워드 중 서지값 반복을 제외하고 주제 개념으로 적합한 비통제 색인어를 최소 정제하여 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 기반 추론 — 반드시 검수",
+    "500은 일반주기 성격상 review_required=true",
+    "저자명 분해는 검수 대상",
+    "500 허용 유형이 아니어서 제거됨"
+  ]
+}

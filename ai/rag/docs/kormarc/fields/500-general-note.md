@@ -9,7 +9,7 @@
 - `source_type`: `official_kormarc_summary`
 - `official_source`: https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/5XX_500.html
 - `schema_source`: `backend/docs/KOMA_스키마_v2.1.md`
-- `last_reviewed`: `2026-06-16`
+- `last_reviewed`: `2026-09-26`
 
 ## Purpose
 
@@ -58,12 +58,19 @@
 ## Service Generation Rule
 
 1. 500은 조건부 필드이며, 근거가 명확할 때만 생성한다.
-2. 특정 주기 필드가 더 적합하면 500을 사용하지 않는다. 언어 설명은 546, 언어부호는 041을 우선한다.
-3. 번역 관련 원저자/원표제 주기는 `evidence.translation_signals`, `evidence.description`, `evidence.author`에서 명확히 확인될 때만 제안한다.
-4. 책소개 전체를 500에 그대로 복사하지 않는다.
-5. 근거 없는 원저자명, 원표제, 부록, 색인 여부를 만들지 않는다.
-6. 생성 시 `source="ai_inference"`, `review_required=true`를 부여한다.
-7. API에서 명시적으로 제공된 설명을 단순 표시하는 것과 MARC 500 생성은 구분한다.
+2. 특정 주기 필드가 더 적합하면 500을 사용하지 않는다. 언어 설명은 546, 언어부호는 041을 우선한다. 수상 정보는 586, 책소개 요약·장르·대상 독자는 520 범위이며 이 서비스는 생성하지 않는다. 총서 설명은 490이 맡는다.
+3. 500으로 남길 수 있는 유형은 아래뿐이다. 형식은 `유형: 값`이다.
+   - `원저자명: <원어 표기>` — 번역서에서 원저자 원어명이 evidence에 명시된 경우
+   - `원표제: <원표제>` — 원서명이 evidence에 명시된 경우
+   - `공저자: <이름>, <이름>` / `공역자: …` / `공그림: …` — 245 책임표시에서 대표 저자 외 공동 저작자를 생략한 경우
+   - `감수: <이름>` — author 문자열에 감수자가 있는 경우
+   - 인명의 한자명 설명, 수록 범위(`○○ 50선`, `연보 수록`)
+   - 위 유형이 아니면 500을 만들지 않는다. 책소개를 요약하거나 책의 성격을 설명하는 문장은 500이 아니다.
+4. 번역 관련 원저자/원표제 주기는 `evidence.translation_signals`, `evidence.description`, `evidence.author`에서 명확히 확인될 때만 제안한다.
+5. 책소개 전체를 500에 그대로 복사하지 않는다.
+6. 근거 없는 원저자명, 원표제, 부록, 색인 여부를 만들지 않는다.
+7. 생성 시 `source="ai_inference"`, `review_required=true`를 부여한다.
+8. API에서 명시적으로 제공된 설명을 단순 표시하는 것과 MARC 500 생성은 구분한다.
 
 ## JSON Output Rule
 
@@ -73,7 +80,7 @@
   "indicator1": " ",
   "indicator2": " ",
   "subfields": [
-    { "code": "a", "value": "원저자명은 책소개에 기재된 정보를 따름" }
+    { "code": "a", "value": "원저자명: Frantz Kafka" }
   ],
   "source": "ai_inference",
   "review_required": true,
@@ -91,6 +98,7 @@
 | Condition | Reason |
 |---|---|
 | 특정 5XX 필드가 더 적합함 | `500보다 특정 주기 필드 우선` |
+| 허용 유형(원저자명·원표제·공저자·감수·한자명·수록)이 아님 | `일반주기 근거 부족: 허용 유형 아님` |
 | 책소개만 있고 일반주기로 옮길 명확한 사실이 없음 | `일반주기 근거 부족: description 단순 복사 금지` |
 | 원저자명/원표제가 추정일 뿐임 | `원저작 정보 미확정: 500 생성 금지` |
 | `evidence.available.description=false`이고 `translation_signals` 힌트도 없으며 `author`에도 주기 근거가 없음 | `근거 부족: 500 생성에 필요한 evidence 미수집` |
@@ -104,6 +112,7 @@
 - 책소개를 장문으로 그대로 복사하지 않는다.
 - `value`에는 필드 종단 구두점을 임의로 넣지 않는다.
 - 546, 041 등 더 구체적인 필드와 중복되면 경고한다.
+- 허용 유형이 아닌 500은 `backend/services/output_validator.py`의 `_enforce_general_note_policy`가 제거한다.
 
 ## Retrieval Hints
 

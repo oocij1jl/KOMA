@@ -1,0 +1,194 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791189936594"
+        },
+        {
+          "code": "g",
+          "value": "03910"
+        },
+        {
+          "code": "c",
+          "value": "₩22000"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "조선 예술가들의 직업세계"
+        },
+        {
+          "code": "d",
+          "value": "저자 : 박영규"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "옥당북스"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "379 p."
+        },
+        {
+          "code": "c",
+          "value": "21 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "박영규"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명 박영규를 확인할 수 있어 저자 부출표목으로 700 생성"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "조선시대"
+        },
+        {
+          "code": "a",
+          "value": "문화사"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "co_loan_books"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 조선 시대 예술가와 직업 관점이 확인되고 co_loan_books의 역사 문화 관련 자료들로 주제 적합성을 보조 확인하여 비통제 색인어를 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거가 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "056",
+      "reason": "KDC 근거 없음: API 분류기호 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "041은 번역·다국어 근거 없음이면 보류 대상",
+    "546은 단일 언어 추정만으로 생성 금지",
+    "500은 책소개를 장문 그대로 복사하면 안 됨",
+    "653은 비통제 색인어이므로 검수 필요",
+    "546 언어주기 근거 부족으로 제거됨",
+    "041 본문언어만 기술되어 근거 부족으로 제거됨",
+    "500 허용 유형이 아니어서 제거됨"
+  ]
+}

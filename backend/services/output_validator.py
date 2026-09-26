@@ -462,6 +462,33 @@ def _enforce_language_field_policy(
     return kept_fields
 
 
+FIELD_500_SKIP_REASON = "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+# 500으로 남길 수 있는 주기 유형. 책소개 요약·장르·대상 독자는 520 범위이고,
+# 수상은 586, 번역 사실은 041/546, 총서는 490이 맡는다.
+GENERAL_NOTE_ALLOWED_RE = re.compile(
+    r"^(?:원저자명|원저자|원표제|원서명|공저자|공역자|공그림|공편자|감수)\s*[:：]|한자명|수록|선집|\d+\s*선$"
+)
+
+
+def _enforce_general_note_policy(
+    fields: list["GeneratedFieldType"],
+    skipped_fields: list["SkippedFieldType"],
+    warnings: list[str],
+) -> list["GeneratedFieldType"]:
+    """500은 RAG가 허용한 주기 유형만 남긴다."""
+
+    kept_fields: list["GeneratedFieldType"] = []
+    for field in fields:
+        if field.tag == "500":
+            values = [subfield.value.strip() for subfield in field.subfields if subfield.code == "a"]
+            if not any(GENERAL_NOTE_ALLOWED_RE.search(value) for value in values):
+                warnings.append("500 허용 유형이 아니어서 제거됨")
+                _set_skip_reason(skipped_fields, "500", FIELD_500_SKIP_REASON)
+                continue
+        kept_fields.append(field)
+    return kept_fields
+
+
 FIELD_246_SKIP_REASON = "대체표제 근거 없음: 245 본표제와 같은 값"
 FIELD_710_SKIP_REASON = "단체저자 근거 없음: 출판사는 710으로 올리지 않음"
 PUBLISHER_ROLE_VALUES = frozenset({"출판", "발행", "펴냄", "출판사", "발행처"})
@@ -554,6 +581,7 @@ def validate_output(
     fields = _cleanup_structural_field_errors(fields, skipped_fields, warnings)
     fields = _enforce_language_field_policy(fields, skipped_fields, warnings, evidence=evidence)
     fields = _enforce_added_entry_policy(fields, skipped_fields, warnings, biblio=biblio)
+    fields = _enforce_general_note_policy(fields, skipped_fields, warnings)
     fields = _remove_redundant_653_fields(fields, skipped_fields, biblio=biblio, evidence=evidence)
 
     return GenerateResult(fields=fields, skipped_fields=skipped_fields, warnings=warnings)

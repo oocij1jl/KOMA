@@ -40,7 +40,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import evaluate_koma as v1  # noqa: E402
 
 
-EVALUATOR_VERSION = "v2.0"
+EVALUATOR_VERSION = "v2.1"  # 2026-09-26 기준 승인·동결. 채점 규칙을 바꾸면 버전을 올린다.
 
 # A축 채점 필드. 250/082는 gold가 생기면 자동으로 들어오도록 v1 필드도 포함한다.
 VALUE_FIELDS = ("020", "245", "250", "260", "300", "041", "056", "082", "653", "700")

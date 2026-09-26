@@ -916,6 +916,36 @@ class OutputValidatorTests(unittest.TestCase):
 
         self.assertEqual([field.tag for field in result.fields], ["710"])
 
+    def test_validate_output_removes_summary_and_translation_500(self) -> None:
+        """책소개 요약은 520, 번역 사실은 041/546 범위다. 500으로 남기지 않는다."""
+
+        raw_output = self._language_output(
+            [
+                self._inference_field("500", [{"code": "a", "value": "조선 시대 배경의 창작동화"}]),
+                self._inference_field("500", [{"code": "a", "value": "제1회 소원청소년문학상 대상 수상작"}]),
+                self._inference_field("500", [{"code": "a", "value": "번역서"}]),
+            ]
+        )
+
+        result = validate_output(raw_output)
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["500"])
+
+    def test_validate_output_keeps_allowed_500_types(self) -> None:
+        raw_output = self._language_output(
+            [
+                self._inference_field("500", [{"code": "a", "value": "원저자명: Frantz Kafka"}]),
+                self._inference_field("500", [{"code": "a", "value": "공저자: 윤수란, 정명섭, 이지유"}]),
+                self._inference_field("500", [{"code": "a", "value": "감수: 장윤석, 송지희"}]),
+                self._inference_field("500", [{"code": "a", "value": "하시모토 다카시의 한자명은 '橋本孝' 임"}]),
+            ]
+        )
+
+        result = validate_output(raw_output)
+
+        self.assertEqual([field.tag for field in result.fields], ["500", "500", "500", "500"])
+
 
 if __name__ == "__main__":
     _ = unittest.main()
