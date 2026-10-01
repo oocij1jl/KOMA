@@ -35,13 +35,17 @@ def save_json(path: Path, value: dict) -> None:
     temporary.replace(path)
 
 
+# 생성 규칙이 들어 있는 경로. 실행 산출물(runs/)은 생성 중에 계속 바뀌므로 제외한다.
+_CODE_PATHS = ("backend", "ai/rag", "ai/evaluation/run_daily_bulk.py", "ai/evaluation/evaluate_bulk.py")
+
+
 def _code_revision() -> str:
-    """생성 규칙을 담은 코드의 git 리비전. 작업 트리가 더러우면 표시한다."""
+    """생성 규칙을 담은 코드의 git 리비전. 규칙 코드가 커밋되지 않았으면 표시한다."""
     root = Path(__file__).resolve().parents[2]
     try:
         rev = subprocess.run(["git", "rev-parse", "--short", "HEAD"], cwd=root,
                              capture_output=True, text=True, check=True).stdout.strip()
-        dirty = subprocess.run(["git", "status", "--porcelain"], cwd=root,
+        dirty = subprocess.run(["git", "status", "--porcelain", "--", *_CODE_PATHS], cwd=root,
                                capture_output=True, text=True, check=True).stdout.strip()
     except (OSError, subprocess.CalledProcessError):
         return "unknown"
