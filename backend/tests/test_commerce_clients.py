@@ -34,6 +34,11 @@ KYOBO_DETAIL = (
     '<h1 class="fz-28" aria-label="카프카의 문장들"><span>카프카의 문장들</span></h1>'
     '<p class="line-clamp-2" aria-label="희박한 희망을 채굴하다 | 양장본 Hardcover">'
     '<span>희박한 희망을 채굴하다</span></p></div>'
+    '<table aria-label="상품정보"><caption>상품정보 테이블로 ISBN, 쪽수/크기를 나타낸 표입니다.</caption>'
+    '<tbody><tr><th scope="row">ISBN</th><td><div>9788960909830</div></td></tr>'
+    '<tr><th scope="row">쪽수/크기</th><td><div>400쪽 | 128 * 197 * 34 mm / 573 g</div></td></tr>'
+    '<tr><th scope="row">원서(번역서)명/저자명</th><td><div>Kafka / Franz Kafka</div></td></tr>'
+    "</tbody></table>"
 )
 
 
@@ -102,6 +107,9 @@ class KyoboClientTests(unittest.IsolatedAsyncioTestCase):
         self.assertTrue(result["found"])
         self.assertEqual(result["title"], "카프카의 문장들")
         self.assertEqual(result["subtitle"], "희박한 희망을 채굴하다")
+        self.assertEqual(result["page"], "400 p.")
+        self.assertEqual(result["book_size"], "128*197mm")
+        self.assertEqual(result["original_title"], "Kafka / Franz Kafka")
         self.assertEqual(len(requested), 2)
 
     async def test_detail_without_subtitle_paragraph_returns_blank_subtitle(self) -> None:
@@ -115,6 +123,7 @@ class KyoboClientTests(unittest.IsolatedAsyncioTestCase):
 
         self.assertTrue(result["found"])
         self.assertEqual(result["subtitle"], "")
+        self.assertEqual((result["page"], result["book_size"]), ("", ""))
 
     async def test_missing_product_link_is_reported_as_not_found(self) -> None:
         client = httpx.AsyncClient(

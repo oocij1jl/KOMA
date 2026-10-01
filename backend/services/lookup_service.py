@@ -191,10 +191,19 @@ def merge_biblio(
         "edition_stmt": _pick(nl.get("edition_stmt", "")),
         "series_title": _pick(nl.get("series_title", "")),
         "series_no": _pick(nl.get("series_no", "")),
-        # 국중도에 형태사항이 없을 때만 알라딘 값을 쓴다. 단위를 붙여 300 규칙이 읽는 문법으로 맞춘다.
-        "page": pick_src("page", (nl.get("page", ""), "nl"), (_aladin_extent(aladin), "aladin")),
+        # 쪽수는 교보 상품정보가 정답(목록 규칙상 마지막 번호 쪽)에 더 가깝다.
+        # 33권 대조에서 교보 23건, 국중도 12건이 정답과 일치했다. 교보가 없으면 국중도, 알라딘 순이다.
+        "page": pick_src(
+            "page",
+            ((kyobo or {}).get("page", ""), "kyobo"),
+            (nl.get("page", ""), "nl"),
+            (_aladin_extent(aladin), "aladin"),
+        ),
         "book_size": pick_src(
-            "book_size", (nl.get("book_size", ""), "nl"), (_aladin_dimensions(aladin), "aladin")
+            "book_size",
+            (nl.get("book_size", ""), "nl"),
+            ((kyobo or {}).get("book_size", ""), "kyobo"),
+            (_aladin_dimensions(aladin), "aladin"),
         ),
         "form": _pick(nl.get("form", "")),
         "ebook_yn": _pick(nl.get("ebook_yn", "")),
@@ -220,9 +229,9 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     하루에 처리 가능한 권수를 늘리기 위함이다. 653 필드의 공동대출 근거만
     빠지고 keywords/description 근거는 그대로 유지된다.
 
-    부제는 공식 API(알라딘) → 국중도 상세 페이지 → 교보 상세 순으로 찾는다.
-    교보는 공개 API가 없어 두 번 요청해야 하므로, 앞의 두 곳에서 부제를 얻지
-    못했을 때만 호출한다. 어느 쪽이 실패해도 나머지 결과로 계속 진행한다.
+    부제는 공식 API(알라딘) → 국중도 상세 페이지 → 교보 상세 순으로 찾고,
+    쪽수는 교보 상품정보를 먼저 쓴다. 교보는 공개 API가 없어 검색·상세 2회를
+    요청한다. 어느 수집원이 실패해도 나머지 결과로 계속 진행한다.
     """
     isbn13 = to_isbn13(isbn)
 
@@ -231,20 +240,17 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
             return SKIPPED_USAGE_RESULT
         return await fetch_d4l_usage(client, isbn13)
 
-    nl, d4l, keywords_result, usage_result, seoji_detail, aladin = await asyncio.gather(
+    nl, d4l, keywords_result, usage_result, seoji_detail, aladin, kyobo = await asyncio.gather(
         fetch_nl_isbn(client, isbn13),
         fetch_d4l_detail(client, isbn13),
         fetch_d4l_keywords(client, isbn13),
         _usage(),
         fetch_nl_seoji_title_statement(client, isbn13),
         fetch_aladin_item(client, isbn13),
+        fetch_kyobo_detail(client, isbn13),
     )
 
-    biblio = merge_biblio(nl, d4l, seoji_detail, aladin)
-    kyobo: dict[str, Any] = {"source": "kyobobook.co.kr", "found": False, "error": "skipped (부제 확보됨)"}
-    if not biblio["subtitle"]:
-        kyobo = await fetch_kyobo_detail(client, isbn13)
-        biblio = merge_biblio(nl, d4l, seoji_detail, aladin, kyobo)
+    biblio = merge_biblio(nl, d4l, seoji_detail, aladin, kyobo)
     evidence = merge_evidence(biblio, keywords_result, usage_result)
 
     return {

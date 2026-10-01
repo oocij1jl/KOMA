@@ -17,7 +17,7 @@
 
 ## Purpose
 
-300은 수량, 기타 물리적 특성, 크기를 기술하는 필수 필드다. 이 서비스에서는 biblio.page와 biblio.book_size를 코드가 변환한다.
+300은 수량, 기타 물리적 특성, 크기를 기술하는 필수 필드다. 이 서비스에서는 biblio.page와 biblio.book_size를 코드가 변환한다. `biblio.page`는 교보문고 상품정보 → 국중도 `PAGE` → 알라딘 `itemPage` 순으로, `biblio.book_size`는 국중도 `BOOK_SIZE` → 교보 크기 → 알라딘 판형 순으로 수집한다. 33권 대조에서 교보 쪽수가 23건, 국중도가 12건 정답과 일치했기 때문이다. 어느 수집원이든 값 자체는 전사만 하고 추정하지 않는다.
 
 ## Indicators
 

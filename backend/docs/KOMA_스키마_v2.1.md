@@ -164,8 +164,8 @@ ISBD 구두점 등 "값과 값 사이를 잇는 표시 기호".
   "edition_stmt": "",             // EDITION_STMT → 250
   "series_title": "",             // SERIES_TITLE → 490/830
   "series_no": "",                // SERIES_NO → 490 ▼v
-  "page": "",                     // PAGE → 300 ▼a (명확할 때만)
-  "book_size": "",                // BOOK_SIZE → 300 ▼c (세로 cm, 명확할 때만)
+  "page": "",                     // 교보 '쪽수/크기' → 국중도 PAGE → 알라딘 itemPage 순 → 300 ▼a (명확할 때만)
+  "book_size": "",                // 국중도 BOOK_SIZE → 교보 크기 → 알라딘 판형 순 → 300 ▼c (세로 cm, 명확할 때만)
   "form": "종이책",                // FORM → 007/008
   "ebook_yn": "N",                // EBOOK_YN
   "description": "",              // 정보나루 description → 500(조건부) + evidence 원천(추론용)

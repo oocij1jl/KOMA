@@ -23,6 +23,12 @@ KYOBO_SEARCH_URL = "https://search.kyobobook.co.kr/search"
 KYOBO_PRODUCT_URL_RE = re.compile(r"https://product\.kyobobook\.co\.kr/detail/[A-Z0-9]+")
 _TITLE_HEADING_RE = re.compile(r'<h1[^>]*aria-label="([^"]*)"[^>]*>(.*?)</h1>(.*?)(?:</div>|<h2)', re.S)
 _PARAGRAPH_LABEL_RE = re.compile(r'<p[^>]*aria-label="([^"]*)"', re.S)
+# 상세 하단 '기본정보' 표: <th>항목</th><td>값</td>.
+_INFO_ROW_RE = re.compile(r"<th[^>]*>(.*?)</th>\s*<td[^>]*>(.*?)</td>", re.S)
+_PAGE_COUNT_RE = re.compile(r"(\d+)\s*쪽")
+_DIMENSION_RE = re.compile(r"(\d+)\s*\*\s*(\d+)")
+_EXTENT_LABEL = "쪽수/크기"
+_ORIGINAL_TITLE_LABEL = "원서(번역서)명/저자명"
 SOURCE_NAME = "kyobobook.co.kr"
 # 교보 상세는 브라우저 세션을 전제로 하므로 일반 브라우저 UA로 요청한다.
 _BROWSER_HEADERS = {
@@ -52,6 +58,28 @@ def extract_title_and_subtitle(html_text: str) -> tuple[str, str]:
     if not subtitle or subtitle == title:
         return title, ""
     return title, subtitle
+
+
+def _plain_text(markup: str) -> str:
+    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", markup))).strip()
+
+
+def extract_basic_info(html_text: str) -> dict[str, str]:
+    """'기본정보' 표에서 쪽수·크기·원서명을 뽑는다.
+
+    표기는 `400쪽 | 128 * 197 * 34 mm / 573 g` 형태다. 세 번째 수치는 두께,
+    뒤의 g는 무게이므로 300에 쓰지 않는다. 쪽수와 가로*세로만 가져온다.
+    """
+
+    rows = {_plain_text(label): _plain_text(value) for label, value in _INFO_ROW_RE.findall(html_text)}
+    extent = rows.get(_EXTENT_LABEL, "")
+    page_match = _PAGE_COUNT_RE.search(extent)
+    size_match = _DIMENSION_RE.search(extent)
+    return {
+        "page": f"{page_match.group(1)} p." if page_match else "",
+        "book_size": f"{size_match.group(1)}*{size_match.group(2)}mm" if size_match else "",
+        "original_title": rows.get(_ORIGINAL_TITLE_LABEL, ""),
+    }
 
 
 async def fetch_kyobo_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
@@ -88,12 +116,14 @@ async def fetch_kyobo_detail(client: httpx.AsyncClient, isbn: str) -> dict[str, 
         return {"source": SOURCE_NAME, "found": False, "error": "upstream request failed"}
 
     title, subtitle = extract_title_and_subtitle(detail.text)
+    basic_info = extract_basic_info(detail.text)
     if not title:
-        return {"source": SOURCE_NAME, "found": False, "title": "", "subtitle": ""}
+        return {"source": SOURCE_NAME, "found": False, "title": "", "subtitle": "", **basic_info}
     return {
         "source": SOURCE_NAME,
         "found": True,
         "product_url": product_url.group(0),
         "title": title,
         "subtitle": subtitle,
+        **basic_info,
     }

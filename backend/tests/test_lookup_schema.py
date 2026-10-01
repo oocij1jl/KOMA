@@ -133,6 +133,22 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertEqual((kept.page, kept.book_size), ("400 p.", "188*257mm"))
         self.assertEqual(kept.field_sources["page"], "nl")
 
+    def test_page_prefers_kyobo_and_falls_back_to_nl(self) -> None:
+        kyobo = {"found": True, "page": "400 p.", "book_size": "128*197mm", "subtitle": ""}
+        preferred = BiblioSchema.model_validate(
+            merge_biblio({"found": True, "page": "399 p.", "book_size": "120*192"}, {"found": False}, None, None, kyobo)
+        )
+        self.assertEqual(preferred.page, "400 p.")
+        self.assertEqual(preferred.field_sources["page"], "kyobo")
+        # 크기는 국중도 값을 유지한다. 교보 수치에는 두께가 섞여 있어 보조로만 쓴다.
+        self.assertEqual(preferred.book_size, "120*192")
+
+        without_kyobo = BiblioSchema.model_validate(
+            merge_biblio({"found": True, "page": "399 p."}, {"found": False}, None, None, {"found": False})
+        )
+        self.assertEqual(without_kyobo.page, "399 p.")
+        self.assertEqual(without_kyobo.field_sources["page"], "nl")
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",
