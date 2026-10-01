@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "예술",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 4014,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "112034"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "[재정가도서] [최신인쇄본] [가나출판사] 만화로 보는 그리스 로마 신화 (전20권)",
+          "authors": "해성이앤피 편집부 (지은이)",
+          "publisher": "가나출판사(전집)",
+          "publication_year": "2011",
+          "isbn13": "9788957363379",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "",
+          "bookImageURL": "http://image.aladin.co.kr/product/7072/63/cover/scm135563958805.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427441",
+          "loan_count": "105272"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950979317",
+          "addition_symbol": "74900",
+          "vol": "6",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/17950/53/cover/8950979314_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5357919",
+          "loan_count": "96096"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190305891",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/21713/69/cover/k712636807_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5528392",
+          "loan_count": "69633"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971588",
+          "addition_symbol": "74800",
+          "vol": "23",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27355/46/cover/8950971585_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6032626",
+          "loan_count": "64215"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164135226",
+          "addition_symbol": "77890",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24136/50/cover/k182639748_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5676293",
+          "loan_count": "58344"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137893",
+          "addition_symbol": "77890",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26982/8/cover/k142730513_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5966621",
+          "loan_count": "51947"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오늘 내 기분은… ",
+          "authors": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+          "publisher": "키즈엠",
+          "publication_year": "2015",
+          "isbn13": "9788967493349",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5968/77/cover/8967493347_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2621983",
+          "loan_count": "51114"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이탈리아에서 보물찾기",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937848278",
+          "addition_symbol": "77900",
+          "vol": "1",
+          "class_no": "928",
+          "class_nm": "역사 > 유럽(구라파) > 이탈리아",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/219/06721972.jpg?type=m1&udate=20120102",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372827",
+          "loan_count": "50596"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138920",
+          "addition_symbol": "77890",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27861/10/cover/k712734796_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6087581",
+          "loan_count": "50390"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164139927",
+          "addition_symbol": "77890",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28618/82/cover/k572835059_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6384893",
+          "loan_count": "49229"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "불안 ",
+          "authors": "지은이: 알랭 드 보통 ;정영목 옮김",
+          "publisher": "은행나무",
+          "publication_year": "2012",
+          "isbn13": "9788956605593",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "332.6",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회조직 및 제도",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/930/06793081.jpg?type=m1&udate=20171011",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1226611",
+          "loan_count": "48673"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "848",
+          "class_nm": "문학 > 영미문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/32892/38/cover/8901276534_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6793850",
+          "loan_count": "48507"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이탈리아에서 보물찾기",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937848285",
+          "addition_symbol": "77900",
+          "vol": "2",
+          "class_no": "928",
+          "class_nm": "역사 > 유럽(구라파) > 이탈리아",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/006/06800637.jpg?type=m1&udate=20120102",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372828",
+          "loan_count": "48425"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411333",
+          "addition_symbol": "77890",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29437/74/cover/k862837421_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6460238",
+          "loan_count": "46277"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "표현의 기술 ",
+          "authors": "글: 유시민 ;만화: 정훈이",
+          "publisher": "아름다운사람들",
+          "publication_year": "2016",
+          "isbn13": "9788965133759",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "802",
+          "class_nm": "문학 > 문학 > 문장작법, 수사학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8454/76/cover/8965133750_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3158832",
+          "loan_count": "45680"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2022",
+          "isbn13": "9791192300245",
+          "addition_symbol": "03160",
+          "vol": "",
+          "class_no": "165.77",
+          "class_nm": "철학 > 서양철학 > 독일, 오스트리아철학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30006/52/cover/k162838352_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6546065",
+          "loan_count": "45215"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "길 잃은 무지개 물고기",
+          "authors": "마르쿠스 피스터 글·그림;조경수 옮김",
+          "publisher": "시공사",
+          "publication_year": "2005",
+          "isbn13": "9788952742490",
+          "addition_symbol": "77890",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/57/26/cover/8952742494_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=880643",
+          "loan_count": "43693"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "무지개 물고기와 흰수염고래",
+          "authors": "마르쿠스 피스터 그림.글;지혜연 옮김",
+          "publisher": "시공주니어",
+          "publication_year": "1999",
+          "isbn13": "9788972599999",
+          "addition_symbol": "77890",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/766/00176634.jpg?type=m1&udate=20141122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1524922",
+          "loan_count": "43601"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엄마의 선물 ",
+          "authors": "김윤정 지음",
+          "publisher": "맥스교육",
+          "publication_year": "2016",
+          "isbn13": "9791155714058",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8044/36/cover/k352434747_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3145708",
+          "loan_count": "43402"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(앤서니 브라운의) 행복한 미술관 ",
+          "authors": "글·그림: 앤서니 브라운 ;옮긴이: 서애경",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2006",
+          "isbn13": "9788901044873",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/701/00170140.jpg?type=m1&udate=20171214",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374012",
+          "loan_count": "43224"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오스트리아에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔 컬처그룹",
+          "publication_year": "2009",
+          "isbn13": "9788937847622",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "925.5",
+          "class_nm": "역사 > 유럽(구라파) > 독일",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/060/307/06030716.jpg?type=m1&udate=20120109",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372822",
+          "loan_count": "42919"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "용기를 내, 무지개 물고기!",
+          "authors": "마르쿠스 피스터 글·그림;송순섭 옮김",
+          "publisher": "시공사",
+          "publication_year": "2001",
+          "isbn13": "9788952709851",
+          "addition_symbol": "77890",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/29/98/cover/8952709853_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1833079",
+          "loan_count": "42291"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168412712",
+          "addition_symbol": "77890",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30175/47/cover/k822839790_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6563280",
+          "loan_count": "42168"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "날 좀 도와 줘, 무지개 물고기!",
+          "authors": "마르쿠스 피스터 그림.글;우미경 옮김",
+          "publisher": "시공사",
+          "publication_year": "1996",
+          "isbn13": "9788972592976",
+          "addition_symbol": "77890",
+          "vol": "",
+          "class_no": "853.8",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2/89/cover/8972592978_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=329092",
+          "loan_count": "41693"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "러시아에서 보물찾기",
+          "authors": "글: 곰돌이 co.;그림: 강경효",
+          "publisher": "대한교과서",
+          "publication_year": "2007",
+          "isbn13": "9788937840289",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "929",
+          "class_nm": "역사 > 유럽(구라파) > 러시아",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/021/139/02113976.jpg?type=m1&udate=20130116",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372810",
+          "loan_count": "40747"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "방구석 미술관",
+          "authors": "조원재 지음",
+          "publisher": "백도씨",
+          "publication_year": "2020",
+          "isbn13": "9788968332845",
+          "addition_symbol": "03600",
+          "vol": "2",
+          "class_no": "650.4",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "https://image.aladin.co.kr/product/25566/91/cover/8968332843_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5799196",
+          "loan_count": "39814"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오리진",
+          "authors": "댄 브라운 지음 ;안종설 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2017",
+          "isbn13": "9788983926845",
+          "addition_symbol": "04840",
+          "vol": "1",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12257/17/cover/8983926848_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658230",
+          "loan_count": "39489"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "참을 수 없는 존재의 가벼움 ",
+          "authors": "지은이: 밀란 쿤데라 ;옮긴이: 이재룡",
+          "publisher": "민음사",
+          "publication_year": "2018",
+          "isbn13": "9788937437564",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "892.96",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/15251/16/cover/8937437562_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3788932",
+          "loan_count": "39120"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411937",
+          "addition_symbol": "77890",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30748/21/cover/k712830355_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6612808",
+          "loan_count": "39044"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "점",
+          "authors": "피터 레이놀즈 글·그림;김지효 옮김",
+          "publisher": "문학동네",
+          "publication_year": "2003",
+          "isbn13": "9788982816888",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/23/cover/8982816887_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=366337",
+          "loan_count": "37289"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "런던에서 보물찾기 ",
+          "authors": "글: 팝콘스토리 ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2018",
+          "isbn13": "9791162334997",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/135/503/13550337.jpg?type=m1&udate=20180619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3745616",
+          "loan_count": "37276"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415744",
+          "addition_symbol": "77890",
+          "vol": "10",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32158/22/cover/k312834419_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6740373",
+          "loan_count": "36130"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "폴란드에서 보물찾기 ",
+          "authors": "글: 달콤팩토리 ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2013",
+          "isbn13": "9788937884436",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "925.6",
+          "class_nm": "역사 > 유럽(구라파) > 독일",
+          "bookImageURL": "http://image.aladin.co.kr/product/3032/68/cover/8937884437_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2602121",
+          "loan_count": "36090"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "안나 카레니나",
+          "authors": "지은이: 톨스토이 ;옮긴이: 연진희",
+          "publisher": "민음사",
+          "publication_year": "2009",
+          "isbn13": "9788937462191",
+          "addition_symbol": "04800",
+          "vol": "1",
+          "class_no": "892.8",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/461/57/cover/s852532176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2425567",
+          "loan_count": "35304"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오리진",
+          "authors": "댄 브라운 지음 ;안종설 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2017",
+          "isbn13": "9788983926852",
+          "addition_symbol": "04840",
+          "vol": "2",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12257/21/cover/8983926856_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658231",
+          "loan_count": "35256"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168418424",
+          "addition_symbol": "74810",
+          "vol": "3",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/34172/56/cover200/k432931118_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6893831",
+          "loan_count": "33792"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "모스크바에서 보물찾기 ",
+          "authors": "글: 팝콘스토리 ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2018",
+          "isbn13": "9791162335796",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/15253/82/cover/k222533778_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3788326",
+          "loan_count": "33719"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950968243",
+          "addition_symbol": "74400",
+          "vol": "12",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32308/44/cover/895096824x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6750261",
+          "loan_count": "33374"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 수학 :도형",
+          "authors": "글: 그림나무 ;윤창원",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930220668",
+          "addition_symbol": "74410",
+          "vol": "1",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5423/10/cover/8930220665_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619027",
+          "loan_count": "31476"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로마에서 보물찾기 ",
+          "authors": "글: 포도알친구 ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164134618",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/23136/94/cover/k452637700_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5591161",
+          "loan_count": "31167"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 미술 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231398",
+          "addition_symbol": "73650",
+          "vol": "",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/833/90/cover/893023139x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1134863",
+          "loan_count": "31014"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인페르노",
+          "authors": "댄 브라운 지음 ;안종설 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2013",
+          "isbn13": "9788983924872",
+          "addition_symbol": "03840",
+          "vol": "1",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/351/07235152.jpg?type=m1&udate=20161224",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373848",
+          "loan_count": "30944"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "절대로 누르면 안 돼! ",
+          "authors": "빌 코터 글 그림 ;이정훈 옮김",
+          "publisher": "북뱅크",
+          "publication_year": "2018",
+          "isbn13": "9788966350919",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17194/1/cover/8966350917_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230521",
+          "loan_count": "30716"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 이탈리아 ",
+          "authors": "글: 김승렬 ;그림: 이태훈",
+          "publisher": "예림당",
+          "publication_year": "2012",
+          "isbn13": "9788930200967",
+          "addition_symbol": "73920",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/1668/49/cover/8930200966_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1853967",
+          "loan_count": "30420"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(난생 처음 한번 공부하는) 미술 이야기",
+          "authors": "양정무 지음",
+          "publisher": "사회평론",
+          "publication_year": "2016",
+          "isbn13": "9788964358306",
+          "addition_symbol": "03600",
+          "vol": "2",
+          "class_no": "601",
+          "class_nm": "예술 > 예술 > 미술이론, 미학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8340/48/cover/8964358309_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3152681",
+          "loan_count": "30258"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168417823",
+          "addition_symbol": "77890",
+          "vol": "11",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33573/57/cover/k062939295_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6840921",
+          "loan_count": "30058"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이선비, 한양에 가다 :옛날 교통과 통신 ",
+          "authors": "세계로 글 ;이우창 그림",
+          "publisher": "미래엔 컬처그룹",
+          "publication_year": "2010",
+          "isbn13": "9788937845888",
+          "addition_symbol": "74910",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/063/483/06348381.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375513",
+          "loan_count": "30039"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자두의 과학일기",
+          "authors": "캐릭터 원작: 이빈 ;박은자",
+          "publisher": "학산문화사",
+          "publication_year": "2016",
+          "isbn13": "9791125698906",
+          "addition_symbol": "74400",
+          "vol": "6",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/11877/15/cover/k762531939_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3630148",
+          "loan_count": "29721"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자두의 과학일기",
+          "authors": "캐릭터 원작: 이빈 ;박은자",
+          "publisher": "학산문화사",
+          "publication_year": "2016",
+          "isbn13": "9791125698913",
+          "addition_symbol": "74400",
+          "vol": "7",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/12397/43/cover/k582531550_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3665321",
+          "loan_count": "29160"
+        }
+      }
+    ]
+  }
+}

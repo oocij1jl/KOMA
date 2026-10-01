@@ -1,0 +1,19 @@
+run,rule,label,rag_ref,applicable_books,passed_books,pass_rate
+중간78권,S-codes,허용 식별기호만 사용,KORMARC 통합서지 020/041/056/082/245/260/300,78,78,1.0
+중간78권,R-020,ISBN·부가기호 형식,kormarc.field.020.subfields/forbidden,78,78,1.0
+중간78권,R-245,245 구조(반복·$a·$c/$h 금지·지시기호 0),kormarc.field.245.forbidden/indicators,78,78,1.0
+중간78권,R-260,발행지 추정 금지,kormarc.field.260.forbidden,78,78,1.0
+중간78권,R-300,300 단위·$b 금지·무의미값 금지,kormarc.field.300.generation/forbidden,77,77,1.0
+중간78권,R-056/082,분류기호 형식,kormarc.field.056/082.generation,78,78,1.0
+중간78권,R-490,490 제1지시기호 1은 830과 함께,kormarc.field.490.forbidden,4,4,1.0
+중간78권,R-policy,650·830·950 자동 생성 금지,"kormarc.field.650/490.generation, 기관 로컬 정책",78,78,1.0
+중간78권,R-041,041 부호 형식·번역 정황,kormarc.field.041.generation/indicators,0,0,
+중간78권,R-546,546 무근거 언어주기 금지,kormarc.field.546.generation,3,3,1.0
+중간78권,R-041/546,546 번역 주기와 041 번역 표시 일관,kormarc.field.546.generation,3,0,0.0
+중간78권,R-500,언어정보를 500에 쓰지 않음,kormarc.field.500.generation/validation,1,1,1.0
+중간78권,R-700-form,"700은 1인 1필드, 역할어는 $e",kormarc.field.700.generation,78,74,0.9487
+중간78권,R-700-245,700 인원 = 245 책임표시 인원,kormarc.field.700.generation,78,77,0.9872
+중간78권,R-710,출판사를 710에 올리지 않음,kormarc.field.710.skip,1,1,1.0
+중간78권,R-246,245와 같은 표제를 246으로 만들지 않음,kormarc.field.246.skip,3,3,1.0
+중간78권,R-evidence,추론 필드는 evidence·검수 표시 필수,kormarc.field.500/653/041.validation,78,78,1.0
+중간78권,R-653,653 사용 키워드 기록·중복 없음,kormarc.field.653.generation,76,76,1.0

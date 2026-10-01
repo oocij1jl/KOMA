@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "0",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "공부머리 독서법 :실현 가능하고 지속 가능한 독서교육의 모든 것 ",
+          "authors": "최승필 지음",
+          "publisher": "책구루",
+          "publication_year": "2018",
+          "isbn13": "9791196316808",
+          "addition_symbol": "03370",
+          "vol": "",
+          "class_no": "029.8",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/14131/58/cover/k722532337_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3742159",
+          "loan_count": "94286"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "2",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "64676"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "책은 도끼다 :박웅현 인문학 강독회 ",
+          "authors": "지은이: 박웅현",
+          "publisher": "북하우스",
+          "publication_year": "2018",
+          "isbn13": "9788956055466",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/378/06737822.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1202379",
+          "loan_count": "64626"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2014",
+          "isbn13": "9788994120966",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396928",
+          "loan_count": "62483"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2019",
+          "isbn13": "9791158681609",
+          "addition_symbol": "73030",
+          "vol": "",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/18763/25/cover/k532635371_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5387905",
+          "loan_count": "59820"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578410",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/27944/7/cover/k332734114_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6291224",
+          "loan_count": "59673"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2014",
+          "isbn13": "9788994120966",
+          "addition_symbol": "13100",
+          "vol": "1",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396928",
+          "loan_count": "57938"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578427",
+          "addition_symbol": "74900",
+          "vol": "2",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/28568/80/cover/k852835146_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6369830",
+          "loan_count": "49850"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Why? 소프트웨어와 코딩 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930219556",
+          "addition_symbol": "74400",
+          "vol": "64",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "http://image.aladin.co.kr/product/7153/70/cover/8930219551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097787",
+          "loan_count": "48671"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "열한 계단 :나를 흔들어 키운 불편한 지식들 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2016",
+          "isbn13": "9791195677153",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/9755/9/cover/k662535442_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3393986",
+          "loan_count": "47447"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "다시, 책은 도끼다 :박웅현 인문학 강독회 ",
+          "authors": "지은이: 박웅현",
+          "publisher": "북하우스 퍼블리셔스",
+          "publication_year": "2016",
+          "isbn13": "9788956056609",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/8465/71/cover/8956056609_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159556",
+          "loan_count": "47327"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504230",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/31681/54/cover/k442833889_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6693801",
+          "loan_count": "46139"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504261",
+          "addition_symbol": "77810",
+          "vol": "3",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/32315/56/cover/k142834154_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6750790",
+          "loan_count": "42127"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "시민의 교양 :지금, 여기, 보통 사람들을 위한 현실 인문학 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale books(웨일북)",
+          "publication_year": "2015",
+          "isbn13": "9791195677108",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/16591/67/cover/k312533955_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3103064",
+          "loan_count": "41377"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578434",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/29282/23/cover/k692837906_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6446082",
+          "loan_count": "41333"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "41260"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2020",
+          "isbn13": "9791190313186",
+          "addition_symbol": "03100",
+          "vol": "1",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/22872/79/cover/k992636841_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5584764",
+          "loan_count": "38947"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Why? 3D 프린팅 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219693",
+          "addition_symbol": "74400",
+          "vol": "74",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11055/63/cover/8930219691_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3445558",
+          "loan_count": "38651"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "Why? 컴퓨터 바이러스 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930206785",
+          "addition_symbol": "73560",
+          "vol": "57",
+          "class_no": "004.6",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/079/933/07993308.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2353540",
+          "loan_count": "37670"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504278",
+          "addition_symbol": "77810",
+          "vol": "4",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/32922/96/cover/k152936935_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6795295",
+          "loan_count": "36546"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578441",
+          "addition_symbol": "74900",
+          "vol": "4",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/29958/47/cover/k132838145_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6542153",
+          "loan_count": "36242"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "(퀴즈!) 과학상식 :빅데이터 과학 ",
+          "authors": "도기성 지음",
+          "publisher": "글송이",
+          "publication_year": "2018",
+          "isbn13": "9791170183976",
+          "addition_symbol": "74400",
+          "vol": "75",
+          "class_no": "005.7",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/131/929/13192910.jpg?type=m1&udate=20180126",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3690856",
+          "loan_count": "36239"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "리딩으로 리드하라 =세상을 지배하는 0.1퍼센트의 인문고전 독서법 /Reading lead ",
+          "authors": "이지성 지음",
+          "publisher": "문학동네",
+          "publication_year": "2010",
+          "isbn13": "9788954613026",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/804/88/cover/8954613020_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1117254",
+          "loan_count": "34314"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Why? 음식과 요리 ",
+          "authors": "글쓴이: 파피루스 ;그린이: 김강호",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930231541",
+          "addition_symbol": "73590",
+          "vol": "22",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/844/07184497.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1944586",
+          "loan_count": "33802"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "청춘의 독서 :세상을 바꾼 위험하고 위대한 생각들 ",
+          "authors": "유시민 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2009",
+          "isbn13": "9788901101569",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "029.1",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/060/964/06096491.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1015347",
+          "loan_count": "33186"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504339",
+          "addition_symbol": "77810",
+          "vol": "5",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/33564/77/cover/k562939886_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6840059",
+          "loan_count": "33020"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Why? SNS =소셜 네트워크 서비스 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930231633",
+          "addition_symbol": "73560",
+          "vol": "24",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/3642/25/cover/8930231632_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2032029",
+          "loan_count": "32815"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전 ",
+          "authors": "코코로사 글 ;이소담 옮김",
+          "publisher": "김영사",
+          "publication_year": "2022",
+          "isbn13": "9788934951278",
+          "addition_symbol": "73300",
+          "vol": "",
+          "class_no": "033",
+          "class_nm": "총류 > 백과사전 > 일본어",
+          "bookImageURL": "https://image.aladin.co.kr/product/28883/18/cover/8934951273_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6402688",
+          "loan_count": "32767"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "인공지능 세계에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937843877",
+          "addition_symbol": "77470",
+          "vol": "56",
+          "class_no": "004",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11212/54/cover/8937843870_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3455557",
+          "loan_count": "32074"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Why? 외계인과 UFO ",
+          "authors": "글: 이광웅 ;만화: 송희석",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930202527",
+          "addition_symbol": "74440",
+          "vol": "23",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/716/61/cover/8930202527_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1148635",
+          "loan_count": "31339"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "팜 :기발한 상상력이 가득한 판타지 코딩과학동화",
+          "authors": "글: 홍지연 ;그림: 지문",
+          "publisher": "길벗",
+          "publication_year": "2019",
+          "isbn13": "9791160509441",
+          "addition_symbol": "74500",
+          "vol": "1",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://image.aladin.co.kr/product/21263/13/cover/k962636284_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5507563",
+          "loan_count": "31311"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2019",
+          "isbn13": "9791190313131",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/21984/15/cover/k622636607_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5534696",
+          "loan_count": "31264"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "인공지능 세계에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937857997",
+          "addition_symbol": "77470",
+          "vol": "57",
+          "class_no": "004",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/953/12495373.jpg?type=m1&udate=20170829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541429",
+          "loan_count": "31024"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578458",
+          "addition_symbol": "74900",
+          "vol": "5",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/30614/95/cover/k762830721_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6600450",
+          "loan_count": "30818"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "쾌락독서 :개인주의자 문유석의 유쾌한 책 읽기 ",
+          "authors": "지은이: 문유석",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954653848",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/17554/20/cover/8954653847_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5247564",
+          "loan_count": "30234"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "1시간에 1권 퀀텀 독서법 :하루 30분 3주면 된다! ",
+          "authors": "김병완 지음",
+          "publisher": "청림출판",
+          "publication_year": "2017",
+          "isbn13": "9788935211609",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/10539/30/cover/8935211605_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3422189",
+          "loan_count": "29881"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "(퀴즈!) 과학 상식 :가상 현실 증강 현실 ",
+          "authors": "도기성 지음",
+          "publisher": "글송이",
+          "publication_year": "2018",
+          "isbn13": "9791170184218",
+          "addition_symbol": "74080",
+          "vol": "77",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17140/77/cover/k672534481_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5229196",
+          "loan_count": "29875"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "(퀴즈!) 과학상식 :3D 프린팅 과학 ",
+          "authors": "도기성 지음",
+          "publisher": "글송이",
+          "publication_year": "2019",
+          "isbn13": "9791170185208",
+          "addition_symbol": "74400",
+          "vol": "80",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19651/61/cover/k002635624_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5442572",
+          "loan_count": "29798"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578465",
+          "addition_symbol": "74900",
+          "vol": "6",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/31355/13/cover/k082832997_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6659546",
+          "loan_count": "29658"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504360",
+          "addition_symbol": "77810",
+          "vol": "6",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/34009/10/cover200/k582931865_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6883250",
+          "loan_count": "29280"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Why? 인공 지능 ",
+          "authors": "글: 윤상석 ;만화: 정석호",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219723",
+          "addition_symbol": "74400",
+          "vol": "78",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/11750/31/cover/8930219721_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3605589",
+          "loan_count": "29137"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "Why? 심리학 ",
+          "authors": "글: 조영선 ;그림: 그림수레",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231428",
+          "addition_symbol": "73180",
+          "vol": "11",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1198/50/cover/893023142x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1191735",
+          "loan_count": "29068"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "레벨업 카카오프렌즈",
+          "authors": "글: 전판교 ;그림: 최우빈",
+          "publisher": "대원씨아이",
+          "publication_year": "2019",
+          "isbn13": "9791136202635",
+          "addition_symbol": "74030",
+          "vol": "1",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/19971/48/cover/k042635948_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5452021",
+          "loan_count": "28749"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "Why? 집과 건축 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231480",
+          "addition_symbol": "74610",
+          "vol": "9",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1115/5/cover/8930231489_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1158263",
+          "loan_count": "28714"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Why? 가상 현실 증강 현실 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219754",
+          "addition_symbol": "74400",
+          "vol": "80",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/12201/30/cover/8930219756_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3652783",
+          "loan_count": "28696"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791171241675",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/32444/24/cover/k332935299_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6759490",
+          "loan_count": "28666"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+          "authors": "지은이: 고명환",
+          "publisher": "라곰",
+          "publication_year": "2023",
+          "isbn13": "9791189686826",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/31884/93/cover/k372833535_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6711335",
+          "loan_count": "28647"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "코딩맨 :히어로 액션 코딩 학습 만화",
+          "authors": "글: 송아론,그림: 김기수",
+          "publisher": "스튜디오다산",
+          "publication_year": "",
+          "isbn13": "9791156396635",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/131/764/13176478.jpg?type=m1&udate=20180111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3687573",
+          "loan_count": "28112"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "Why? 발표력 ",
+          "authors": "글: 박세준 ;그림: 박종성",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231503",
+          "addition_symbol": "74300",
+          "vol": "14",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/973/06797314.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376769",
+          "loan_count": "28005"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "코딩맨 :히어로 액션 코딩 학습 만화",
+          "authors": "글: 송아론,그림: 김기수",
+          "publisher": "스튜디오다산",
+          "publication_year": "",
+          "isbn13": "9791156396642",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/131/764/13176479.jpg?type=m1&udate=20180122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3693177",
+          "loan_count": "27943"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "Why? 수와 수학 ",
+          "authors": "글: 조영선 ;그림: 송회석",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231466",
+          "addition_symbol": "73410",
+          "vol": "10",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1122/4/cover/8930231462_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1158252",
+          "loan_count": "27899"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Why? 사이버 범죄 ",
+          "authors": "글쓴이: 박세준 ;그린이: 윤현우",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930231657",
+          "addition_symbol": "74300",
+          "vol": "30",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/700/09770065.jpg?type=m1&udate=20151111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2995962",
+          "loan_count": "27847"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Why? 화폐와 경제 ",
+          "authors": "글: 윤상석 ;그림: 김강호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231374",
+          "addition_symbol": "73320",
+          "vol": "1",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/754/98/cover/8930231373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1100736",
+          "loan_count": "27690"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "독서 천재가 된 홍대리 :운명을 바꾸는 책 읽기 프로젝트 ",
+          "authors": "이지성,정회일 지음",
+          "publisher": "다산북스",
+          "publication_year": "2012",
+          "isbn13": "9788963706320",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/251/06725154.jpg?type=m1&udate=20130405",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1233324",
+          "loan_count": "27017"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "생각하는 인문학 :5000년 역사를 만든 동서양 천재들의 사색공부법 ",
+          "authors": "지은이: 이지성",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954635738",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/5484/42/cover/8954635733_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619650",
+          "loan_count": "26768"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "(퀴즈!) 과학상식 :황당 불량 과학 ",
+          "authors": "신혜영 지음",
+          "publisher": "글송이",
+          "publication_year": "2017",
+          "isbn13": "9791170183617",
+          "addition_symbol": "74400",
+          "vol": "72",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "http://image.aladin.co.kr/product/11013/20/cover/k822531977_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3448358",
+          "loan_count": "26449"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Why? 미술 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231398",
+          "addition_symbol": "73650",
+          "vol": "6",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/833/90/cover/893023139x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1134863",
+          "loan_count": "26262"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2020",
+          "isbn13": "9791190313193",
+          "addition_symbol": "03100",
+          "vol": "2",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/22872/85/cover/k912636841_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5584763",
+          "loan_count": "26241"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578472",
+          "addition_symbol": "74900",
+          "vol": "7",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/32065/65/cover/k612834896_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6731767",
+          "loan_count": "26115"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Why? 옷과 패션 ",
+          "authors": "원안: 이재일 ;그린이: 이항선",
+          "publisher": "예림당",
+          "publication_year": "2012",
+          "isbn13": "9788930231435",
+          "addition_symbol": "73590",
+          "vol": "17",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1688/51/cover/8930231438_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1853972",
+          "loan_count": "26053"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "우리는 언젠가 만난다 :나, 타인, 세계를 이어주는 40가지 눈부신 이야기 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2017",
+          "isbn13": "9791188248124",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/12596/20/cover/k252532871_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3675281",
+          "loan_count": "26001"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Why? 글로벌 매너 ",
+          "authors": "글쓴이: 김승렬 ;그린이: 코믹팜",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930231626",
+          "addition_symbol": "73300",
+          "vol": "26",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/4735/84/cover/8930231624_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2613656",
+          "loan_count": "25837"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법 ",
+          "authors": "이동진 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9788959135264",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/11061/76/cover/8959135267_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3448371",
+          "loan_count": "25827"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "인공지능 세계에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937843877",
+          "addition_symbol": "77470",
+          "vol": "1",
+          "class_no": "004",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11212/54/cover/8937843870_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3455557",
+          "loan_count": "25677"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "Why? 법 ",
+          "authors": "글: 조영선 ;그림: 그림수레",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231473",
+          "addition_symbol": "74360",
+          "vol": "12",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/446/06744646.jpg?type=m1&udate=20150720",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1207729",
+          "loan_count": "25651"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "Why? 빅데이터 ",
+          "authors": "글: 파피루스 ;만화: 유희석",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219570",
+          "addition_symbol": "74400",
+          "vol": "77",
+          "class_no": "005.7",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/123/206/12320696.jpg?type=m1&udate=20170803",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3518863",
+          "loan_count": "25515"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Why? 전쟁과 무기 ",
+          "authors": "글: 이항선 ;그림: 윤현우",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930231411",
+          "addition_symbol": "73500",
+          "vol": "25",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/3932/82/cover/8930231411_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2038701",
+          "loan_count": "25497"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Why? 漢字 이야기 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231510",
+          "addition_symbol": "74720",
+          "vol": "13",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/446/06744670.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1207719",
+          "loan_count": "25407"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "초등 1학년 공부, 책읽기가 전부다 ",
+          "authors": "송재환 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2013",
+          "isbn13": "9788991731745",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "029.8",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/3276/86/cover/8991731740_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1987740",
+          "loan_count": "25274"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "코딩맨 :히어로 액션 코딩 학습 만화",
+          "authors": "글: 송아론,그림: 김기수",
+          "publisher": "스튜디오다산",
+          "publication_year": "",
+          "isbn13": "9791156396659",
+          "addition_symbol": "77400",
+          "vol": "3",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/099/13409903.jpg?type=m1&udate=20180308",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3711838",
+          "loan_count": "25251"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "냥 작가의 독서록 상담소 ",
+          "authors": "글: 즐비 ;그림: 류수형",
+          "publisher": "파란정원",
+          "publication_year": "2022",
+          "isbn13": "9791158682422",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/29646/15/cover/k062838679_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6484170",
+          "loan_count": "25231"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791171722747",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/33037/28/cover/k642937586_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6806859",
+          "loan_count": "24971"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Why? 언어와 문자 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231343",
+          "addition_symbol": "73700",
+          "vol": "4",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/764/15/cover/8930231349_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1100724",
+          "loan_count": "24881"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "(언어천재 조승연의) 이야기 인문학 ",
+          "authors": "조승연 지음",
+          "publisher": "김영사",
+          "publication_year": "2013",
+          "isbn13": "9788934965305",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/3272/5/cover/8934965304_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1988485",
+          "loan_count": "24878"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "팜 :기발한 상상력이 가득한 판타지 코딩과학동화",
+          "authors": "글: 홍지연 ;그림: 지문",
+          "publisher": "길벗",
+          "publication_year": "2019",
+          "isbn13": "9791165211004",
+          "addition_symbol": "74500",
+          "vol": "2",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://image.aladin.co.kr/product/23590/25/cover/k542638327_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5638555",
+          "loan_count": "24490"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "(퀴즈!) 과학 상식 :사물 인터넷 과학 ",
+          "authors": "권찬호 지음 ;차현진 그림",
+          "publisher": "글송이",
+          "publication_year": "2019",
+          "isbn13": "9791170184324",
+          "addition_symbol": "74400",
+          "vol": "78",
+          "class_no": "004.5",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17951/37/cover/k442534234_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359242",
+          "loan_count": "24463"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Why? 삼국유사 ",
+          "authors": "원전엮음: 홍영주 ;그림: 송회석",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930201407",
+          "addition_symbol": "73150",
+          "vol": "5",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/593/07259339.jpg?type=m1&udate=20170207",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1959370",
+          "loan_count": "24397"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "Why? 영화 ",
+          "authors": "글: 박세준 ;그림: 윤남선",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231497",
+          "addition_symbol": "74680",
+          "vol": "16",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/186/06818610.jpg?type=m1&udate=20150725",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1238161",
+          "loan_count": "24321"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "Why? 반려동물 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930231671",
+          "addition_symbol": "74300",
+          "vol": "32",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/11055/50/cover/8930231675_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3449362",
+          "loan_count": "24161"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Why? 세계의 축제 ",
+          "authors": "글쓴이: 김승렬 ;그린이: 김정진",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930231602",
+          "addition_symbol": "74300",
+          "vol": "28",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/6052/7/cover/8930231608_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619504",
+          "loan_count": "23859"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "Why? 세계 유산 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2012",
+          "isbn13": "9788930231558",
+          "addition_symbol": "73900",
+          "vol": "19",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1949/3/cover/8930231551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1875778",
+          "loan_count": "23746"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "백앤아 :교양이 층층 쌓이는 점프 맵",
+          "authors": "원작: 백앤아 ;그림: 돌만",
+          "publisher": "샌드박스네트워크",
+          "publication_year": "2023",
+          "isbn13": "9791192504407",
+          "addition_symbol": "77810",
+          "vol": "7",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/img/noimg_b.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6942038",
+          "loan_count": "23702"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Why? 논어 ",
+          "authors": "글구성: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2012",
+          "isbn13": "9788930231534",
+          "addition_symbol": "73820",
+          "vol": "1",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/355/07135539.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1913453",
+          "loan_count": "23639"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172036669",
+          "addition_symbol": "77810",
+          "vol": "3",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/33690/58/cover/k922939033_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6851439",
+          "loan_count": "23432"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "Why? 오폐라와 뮤지컬 ",
+          "authors": "글: 박세준 ;그림: 한종천",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231527",
+          "addition_symbol": "74600",
+          "vol": "15",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/037/06803779.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1238162",
+          "loan_count": "23209"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "Why? 목민심서 ",
+          "authors": "원전엮음: 옥혜정 ;글구성·그림: 정석호",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930201483",
+          "addition_symbol": "73150",
+          "vol": "3",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/508/07150844.jpg?type=m1&udate=20170411",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1928437",
+          "loan_count": "23177"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "인공지능 세계에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937857997",
+          "addition_symbol": "77470",
+          "vol": "2",
+          "class_no": "004",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/953/12495373.jpg?type=m1&udate=20170829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541429",
+          "loan_count": "23012"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254069",
+          "addition_symbol": "74030",
+          "vol": "1",
+          "class_no": "034",
+          "class_nm": "총류 > 백과사전 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/29747/62/cover/k952830140_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6608959",
+          "loan_count": "22923"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼 ",
+          "authors": "<어쩌다 어른> 제작팀 지음",
+          "publisher": "교보문고",
+          "publication_year": "2017",
+          "isbn13": "9791159096174",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "041",
+          "class_nm": "총류 > 일반 논문집 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3613016",
+          "loan_count": "22892"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "Why? 국제기구 ",
+          "authors": "글쓴이: 조영선 ;그린이: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930231596",
+          "addition_symbol": "73340",
+          "vol": "21",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/841/07184177.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1944587",
+          "loan_count": "22865"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "청춘의 독서 :세상을 바꾼 위험하고 위대한 생각들 ",
+          "authors": "유시민 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2017",
+          "isbn13": "9788901218151",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "029.1",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/11306/13/cover/8901218151_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3470292",
+          "loan_count": "22730"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "코딩맨 :히어로 액션 코딩 학습 만화",
+          "authors": "글: 송아론,그림: 김기수",
+          "publisher": "스튜디오다산",
+          "publication_year": "",
+          "isbn13": "9791156397175",
+          "addition_symbol": "77400",
+          "vol": "4",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://image.aladin.co.kr/product/14576/95/cover/k432532644_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3753858",
+          "loan_count": "22591"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "Why? 고대문명 ",
+          "authors": "글: 전재운 ;그림: 박종성",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231404",
+          "addition_symbol": "73900",
+          "vol": "7",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/879/64/cover/8930231403_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1144285",
+          "loan_count": "22571"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "아홉 살 독서 수업 :부모가 알아야 할 초등 저학년 독서의 모든 것 ",
+          "authors": "한미화 지음",
+          "publisher": "어크로스",
+          "publication_year": "2019",
+          "isbn13": "9791190030137",
+          "addition_symbol": "03370",
+          "vol": "",
+          "class_no": "029.5",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/19832/23/cover/k412635045_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5455193",
+          "loan_count": "22539"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "Why? 음악 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231367",
+          "addition_symbol": "73670",
+          "vol": "3",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/755/96/cover/8930231365_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1100727",
+          "loan_count": "22515"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "코딩맨 :히어로 액션 코딩 학습 만화",
+          "authors": "글: 송아론,그림: 김기수",
+          "publisher": "스튜디오다산",
+          "publication_year": "",
+          "isbn13": "9791156397182",
+          "addition_symbol": "77400",
+          "vol": "5",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://image.aladin.co.kr/product/15377/73/cover/k212533325_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3791902",
+          "loan_count": "22142"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "Why? 정치 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231459",
+          "addition_symbol": "73340",
+          "vol": "8",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/890/68/cover/8930231454_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1152408",
+          "loan_count": "22015"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "(퀴즈!) 과학상식 :세계 최고·최초 ",
+          "authors": "차현진 지음",
+          "publisher": "글송이",
+          "publication_year": "2015",
+          "isbn13": "9791170181705",
+          "addition_symbol": "74400",
+          "vol": "26",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/774/54/cover/k402434891_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3127423",
+          "loan_count": "21949"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "(단 한 권을 읽어도 제대로 남는) 메모 독서법 ",
+          "authors": "신정철 지음",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791189938338",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/18588/75/cover/k482635965_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5375971",
+          "loan_count": "21868"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487006",
+          "addition_symbol": "74900",
+          "vol": "8",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/32819/10/cover/k782936808_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6784542",
+          "loan_count": "21863"
+        }
+      }
+    ]
+  }
+}

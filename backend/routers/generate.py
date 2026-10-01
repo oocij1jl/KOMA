@@ -160,7 +160,9 @@ async def _generate_one(http_client: httpx.AsyncClient, sem: asyncio.Semaphore, 
                 "error_message": str(exc),
             }
 
-        return {"isbn": lookup_result["isbn"], "status": "success", "result": generated.model_dump()}
+        # 단건 응답과 같은 JSON 계약을 유지한다. by_alias를 빼면 evidence가 `from` 대신
+        # `from_`으로 나가 검증·평가·내보내기에서 근거가 없는 것으로 읽힌다.
+        return {"isbn": lookup_result["isbn"], "status": "success", "result": generated.model_dump(mode="json", by_alias=True)}
 
 
 @router.post("/generate/marc/bulk")

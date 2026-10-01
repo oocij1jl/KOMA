@@ -1,0 +1,9 @@
+{
+  "day": "2026-10-01",
+  "d4l_requests": 449,
+  "paused_day": null,
+  "attempted_today": [],
+  "model": "gpt-5.4-mini",
+  "conditions": "NL+D4L detail/keywords/usage+NL detail+Kyobo+OpenAI; Aladin optional",
+  "next_run_at": "2026-10-02T00:10:00+09:00"
+}

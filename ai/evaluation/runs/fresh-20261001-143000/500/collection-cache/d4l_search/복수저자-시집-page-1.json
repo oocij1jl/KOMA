@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "시집",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 2445,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "데미안 ",
+          "authors": "지은이: 헤르만 헤세 ;옮긴이: 전영애",
+          "publisher": "민음사",
+          "publication_year": "2000",
+          "isbn13": "9788937460449",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005186.jpg?type=m1&udate=20160509",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374415",
+          "loan_count": "101156"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꽃을 보듯 너를 본다 :나태주 인터넷 시집 ",
+          "authors": "지은이: 나태주",
+          "publisher": "지혜",
+          "publication_year": "2015",
+          "isbn13": "9791157280292",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/092/206/09220655.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2889104",
+          "loan_count": "72888"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "싯다르타",
+          "authors": "헤르만 헤세 지음;박병덕 옮김",
+          "publisher": "민음사",
+          "publication_year": "2002",
+          "isbn13": "9788937460586",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/32/95/cover/8937460580_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2404471",
+          "loan_count": "49853"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "운다고 달라지는 일은 아무것도 없겠지만 :박준 산문 ",
+          "authors": "지은이: 박준",
+          "publisher": "난다",
+          "publication_year": "2017",
+          "isbn13": "9791196075170",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/15678/39/cover/k212533138_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3452053",
+          "loan_count": "48883"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "선생님, 바보 의사 선생님",
+          "authors": "이상희 글;김명길 그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2006",
+          "isbn13": "9788901055190",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "998.5",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/021/196/02119619.jpg?type=m1&udate=20141122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2386725",
+          "loan_count": "47904"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "서랍에 저녁을 넣어 두었다 :한강 시집 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2013",
+          "isbn13": "9788932024639",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/3335/59/cover/8932024634_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1991954",
+          "loan_count": "45873"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "좋은지 나쁜지 누가 아는가 ",
+          "authors": "지은이: 류시화 ;그림: 미로코 마치코",
+          "publisher": "더숲",
+          "publication_year": "2019",
+          "isbn13": "9791186900789",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.62",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/18390/11/cover/k652534159_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5369294",
+          "loan_count": "44622"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시골의사",
+          "authors": "프란츠 카프카 지음;전영애 옮김",
+          "publisher": "민음사",
+          "publication_year": "1998",
+          "isbn13": "9788937460043",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005150.jpg?type=m1&udate=20141122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374412",
+          "loan_count": "37821"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 강물처럼 말해요 ",
+          "authors": "조던 스콧 글 ;김지은 옮김",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362157",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26055/63/cover/k402737059_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5848834",
+          "loan_count": "37509"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "가장 예쁜 생각을 너에게 주고 싶다 ",
+          "authors": "나태주 지음 ;강라은 그림",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2017",
+          "isbn13": "9788925561820",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/11067/22/cover/8925561824_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3448583",
+          "loan_count": "32158"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고도를 기다리며",
+          "authors": "사뮈엘 베케트 지음;오증자 옮김",
+          "publisher": "민음사",
+          "publication_year": "2000",
+          "isbn13": "9788937460432",
+          "addition_symbol": "04860",
+          "vol": "",
+          "class_no": "862",
+          "class_nm": "문학 > 프랑스문학 > 희곡",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005185.jpg?type=m1&udate=20171018",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376970",
+          "loan_count": "31175"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당신의 이름을 지어다가 며칠은 먹었다 :박준 시집 ",
+          "authors": "지은이: 박준",
+          "publisher": "문학동네",
+          "publication_year": "2012",
+          "isbn13": "9788954619578",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/11297/69/cover/k242531996_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1903733",
+          "loan_count": "30640"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음의 온도는 몇 도일까요? - 그림 시집",
+          "authors": "정여민 (지은이), 허구 (그림)",
+          "publisher": "주니어김영사",
+          "publication_year": "2016",
+          "isbn13": "9788934993537",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "",
+          "bookImageURL": "http://image.aladin.co.kr/product/8894/96/cover/8934993537_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3270709",
+          "loan_count": "30439"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음챙김의 시 ",
+          "authors": "류시화 엮음",
+          "publisher": "수오서재",
+          "publication_year": "2020",
+          "isbn13": "9791190382267",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "808.1",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/25108/7/cover/k842633074_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5750685",
+          "loan_count": "30002"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너무 잘하려고 애쓰지 마라 :나태주 시집 ",
+          "authors": "지은이: 나태주",
+          "publisher": "열림원",
+          "publication_year": "2022",
+          "isbn13": "9791170400608",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/29566/59/cover/k702837352_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6472560",
+          "loan_count": "29990"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엄마는 파업 중:김희숙 동화집",
+          "authors": "김희숙 지음;박지영 그림",
+          "publisher": "푸른책들",
+          "publication_year": "2006",
+          "isbn13": "9788957980385",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/26/73/cover/8957980385_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=916998",
+          "loan_count": "29891"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "10층 큰 나무 아파트로 이사 가요 ",
+          "authors": "부시카 에쓰코 글 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164130092",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17999/2/cover/k792534536_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5361200",
+          "loan_count": "28600"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "밤이 선생이다 :황현산 산문집 ",
+          "authors": "지은이: 황현산",
+          "publisher": "문학동네",
+          "publication_year": "2013",
+          "isbn13": "9788954621496",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/414/07241400.jpg?type=m1&udate=20170523",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1952681",
+          "loan_count": "27923"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고릴라 할머니 ",
+          "authors": "글·그림: 윤진현",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2012",
+          "isbn13": "9788901144108",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1679/51/cover/8901144107_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1854941",
+          "loan_count": "24712"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "10층 큰 나무 아파트에 겨울이 왔어요 ",
+          "authors": "부시카 에쓰코 글 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164133512",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22787/81/cover/k462636431_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5584138",
+          "loan_count": "23971"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "별 헤는 아이, 윤동주 ",
+          "authors": "우현옥 글 ;반성희 그림",
+          "publisher": "봄볕",
+          "publication_year": "2015",
+          "isbn13": "9791195530304",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "998.8",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "http://image.aladin.co.kr/product/5991/28/cover/6000851011_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2649233",
+          "loan_count": "23968"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음이 살짝 기운다 :나태주 신작 시집 ",
+          "authors": "나태주 쓰고 ;로아 그리다",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2019",
+          "isbn13": "9788925565736",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/18249/6/cover/8925565730_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5368170",
+          "loan_count": "23967"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "눈 한 송이가 녹는 동안 :제15회 황순원문학상 수상작품집 ",
+          "authors": "지은이: 한강 외",
+          "publisher": "중앙북스",
+          "publication_year": "2015",
+          "isbn13": "9788927806936",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/713/09771392.jpg?type=m1&udate=20170609",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3026166",
+          "loan_count": "23531"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "깔깔 주스 :박세랑 그림책 ",
+          "authors": "글·그림: 박세랑",
+          "publisher": "노란돼지",
+          "publication_year": "2021",
+          "isbn13": "9791159952708",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27976/87/cover/k822734128_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6307414",
+          "loan_count": "23184"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "디스코 팡팡 소시지 :박세랑 그림책 ",
+          "authors": "글·그림: 박세랑",
+          "publisher": "Fika Junior(피카주니어)",
+          "publication_year": "2022",
+          "isbn13": "9791197419164",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/30749/83/cover/k702830458_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6613440",
+          "loan_count": "22704"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내가 예쁘다고? ",
+          "authors": "황인찬 지음 ;이명애 그림",
+          "publisher": "봄볕",
+          "publication_year": "2022",
+          "isbn13": "9791190704564",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29541/5/cover/k432837956_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6471686",
+          "loan_count": "22386"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "네가 만약",
+          "authors": "존 버닝햄 글·그림;이상희 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2003",
+          "isbn13": "9788949111124",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/664/00166427.jpg?type=m1&udate=20180524",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375846",
+          "loan_count": "21210"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사랑하라 한번도 상처받지 않은 것처럼",
+          "authors": "류시화 엮음",
+          "publisher": "오래된미래",
+          "publication_year": "2005",
+          "isbn13": "9788995501474",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "808.1",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/293/01529381.jpg?type=m1&udate=20160308",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=838901",
+          "loan_count": "21056"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "살아 있다는 건 ",
+          "authors": "다니카와 슌타로 시 ;권남희 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949113920",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "831.6",
+          "class_nm": "문학 > 일본문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/23673/6/cover/8949113929_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5645018",
+          "loan_count": "20120"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시녀 이야기 ",
+          "authors": "지은이: 마거릿 애트우드 ;옮긴이: 김선형",
+          "publisher": "황금가지",
+          "publication_year": "2018",
+          "isbn13": "9791158883843",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/135/614/13561440.jpg?type=m1&udate=20180627",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3746499",
+          "loan_count": "20117"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "서울 시 ",
+          "authors": "지은이: 하상욱",
+          "publisher": "중앙북스",
+          "publication_year": "2013",
+          "isbn13": "9788927804093",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/315/07131539.jpg?type=m1&udate=20170209",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1912735",
+          "loan_count": "20066"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마녀 위니의 야생 동물 탐험 ",
+          "authors": "밸러리 토마스 글 ;노은정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949113944",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24841/17/cover/8949113945_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5736328",
+          "loan_count": "19930"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(대포알)심프",
+          "authors": "존 버닝햄 글·그림;이상희 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2001",
+          "isbn13": "9788949110677",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/745/00174505.jpg?type=m1&udate=20170221",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375844",
+          "loan_count": "19647"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사서함 110호의 우편물 :네 사랑이 무사하기를, 내 사랑도 무사하니까 ",
+          "authors": "이도우 지음",
+          "publisher": "알에이치코리아",
+          "publication_year": "2013",
+          "isbn13": "9788925550091",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/547/07154785.jpg?type=m1&udate=20160206",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1926731",
+          "loan_count": "19611"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사과의 길 ",
+          "authors": "김철순 시 ;구은선 그림",
+          "publisher": "문학동네",
+          "publication_year": "2014",
+          "isbn13": "9788954624633",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "811.8",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/4020/10/cover/8954624634_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2035516",
+          "loan_count": "19038"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "옹고집전 ",
+          "authors": "박철 글 ;조혜란 그림",
+          "publisher": "창비",
+          "publication_year": "2004",
+          "isbn13": "9788936449087",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.5",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/696/00169644.jpg?type=m1&udate=20161207",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374351",
+          "loan_count": "19018"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "우리가 함께 장마를 볼 수도 있겠습니다 :박준 시집 ",
+          "authors": "지은이: 박준",
+          "publisher": "문학과지성사",
+          "publication_year": "2018",
+          "isbn13": "9788932034942",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/16234/12/cover/893203494x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5248266",
+          "loan_count": "17467"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너와 함께라면 인생도 여행이다 :나태주 시집 ",
+          "authors": "지은이: 나태주",
+          "publisher": "열림원",
+          "publication_year": "2019",
+          "isbn13": "9791170400097",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/22160/14/cover/k842636310_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5546376",
+          "loan_count": "17303"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "롤리타 :블라디미르 나보코프 장편소설 ",
+          "authors": "지은이: 블라디미르 나보코프 ;옮긴이: 김진준",
+          "publisher": "문학동네",
+          "publication_year": "2013",
+          "isbn13": "9788954620437",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2264/95/cover/8954620434_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2423734",
+          "loan_count": "16870"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "축구부에 들고 싶다 :성명진 동시집 ",
+          "authors": "지은이: 성명진 ;그린이: 홍정선",
+          "publisher": "창비",
+          "publication_year": "2011",
+          "isbn13": "9788936446130",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "811.8",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/919/6/cover/8936446134_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1148613",
+          "loan_count": "16847"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시로 납치하다 ",
+          "authors": "지은이: 류시화",
+          "publisher": "더숲",
+          "publication_year": "2018",
+          "isbn13": "9791186900420",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/12846/27/cover/k392532080_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3684103",
+          "loan_count": "16809"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "철학은 날씨를 바꾼다 :삶을 쓰다듬는 위안의 책 ",
+          "authors": "서동욱 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934971351",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "104",
+          "class_nm": "철학 > 철학 > 강연집, 수필집",
+          "bookImageURL": "https://image.aladin.co.kr/product/33148/4/cover/8934971355_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6813791",
+          "loan_count": "16715"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "줄다리기 ",
+          "authors": "존 버닝햄 글·그림 ;이상희 옮김",
+          "publisher": "토토북",
+          "publication_year": "2014",
+          "isbn13": "9788964961605",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3499/10/cover/8964961609_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2007959",
+          "loan_count": "16603"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(박성우 시인의) 이상한 낱말 사전 ",
+          "authors": "박성우 시 ;서현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949181769",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "811.8",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/29844/4/cover/8949181762_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6527784",
+          "loan_count": "16567"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "바다는 잘 있습니다 ",
+          "authors": "지은이: 이병률",
+          "publisher": "문학과지성사",
+          "publication_year": "2017",
+          "isbn13": "9788932030395",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.7",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://image.aladin.co.kr/product/11844/39/cover/8932030391_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3625234",
+          "loan_count": "16232"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "백은의 잭 ",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 한성례",
+          "publisher": "씨엘북스",
+          "publication_year": "2011",
+          "isbn13": "9788996733126",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/558/06755848.jpg?type=m1&udate=20160913",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1226754",
+          "loan_count": "15897"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "입 속의 검은 잎:기형도 시집",
+          "authors": "기형도",
+          "publisher": "문학과지성사",
+          "publication_year": "1996",
+          "isbn13": "9788932003979",
+          "addition_symbol": "02810",
+          "vol": "",
+          "class_no": "811.6",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/408/00140899.jpg?type=m1&udate=20150121",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2137763",
+          "loan_count": "15830"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "안네의 일기 ",
+          "authors": "안네 프랑크 원작 ;이주현 그림",
+          "publisher": "지경사",
+          "publication_year": "2008",
+          "isbn13": "9788931919875",
+          "addition_symbol": "73850",
+          "vol": "",
+          "class_no": "808",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/045/701/04570100.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376623",
+          "loan_count": "15767"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "셜리야, 물가에 가지 마!",
+          "authors": "존 버닝햄 글·그림;이상희 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2003",
+          "isbn13": "9788949111087",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/663/00166322.jpg?type=m1&udate=20170604",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375845",
+          "loan_count": "15580"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "기억을 파는 가게 ",
+          "authors": "이하 지음",
+          "publisher": "실천문학사",
+          "publication_year": "2014",
+          "isbn13": "9788939207141",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4142/12/cover/8939207149_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2050086",
+          "loan_count": "15141"
+        }
+      }
+    ]
+  }
+}

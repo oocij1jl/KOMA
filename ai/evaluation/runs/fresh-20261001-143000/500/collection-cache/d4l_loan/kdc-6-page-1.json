@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "6",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137176",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/25813/3/cover/k172736336_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5833701",
+          "loan_count": "95393"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "방구석 미술관 :가볍고 편하게 시작하는 유쾌한 교양 미술 ",
+          "authors": "조원재 지음",
+          "publisher": "백도씨",
+          "publication_year": "2018",
+          "isbn13": "9788968331862",
+          "addition_symbol": "03600",
+          "vol": "",
+          "class_no": "650.4",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/339/13833956.jpg?type=m1&udate=20180803",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3858776",
+          "loan_count": "93681"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137879",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/26959/80/cover/k182730410_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962802",
+          "loan_count": "88342"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138715",
+          "addition_symbol": "77810",
+          "vol": "3",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/27760/63/cover/k442734867_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6076995",
+          "loan_count": "80812"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168410541",
+          "addition_symbol": "77810",
+          "vol": "4",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/28533/10/cover/k182835138_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6365433",
+          "loan_count": "77607"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411692",
+          "addition_symbol": "77810",
+          "vol": "5",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/29445/12/cover/k012837621_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6460293",
+          "loan_count": "69027"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "(읽으면서 바로 해 보는) 어린이 게임 ",
+          "authors": "글·그림: 한날",
+          "publisher": "책먹는아이",
+          "publication_year": "2018",
+          "isbn13": "9791158681395",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/213/13221338.jpg?type=m1&udate=20180726",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3693228",
+          "loan_count": "52075"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "축구 잘하는 50가지 비밀 :진짜 진짜 축구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 길 하비,번역: 이성빈",
+          "publisher": "부즈펌",
+          "publication_year": "2015",
+          "isbn13": "9791186073605",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "http://image.aladin.co.kr/product/5941/80/cover/6000848116_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647185",
+          "loan_count": "46738"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Why? 마술과학 ",
+          "authors": "글: 파피루스 ;만화: 이준희",
+          "publisher": "예림당",
+          "publication_year": "2016",
+          "isbn13": "9788930219563",
+          "addition_symbol": "74400",
+          "vol": "65",
+          "class_no": "689",
+          "class_nm": "예술 > 연극 > 대중연예",
+          "bookImageURL": "http://image.aladin.co.kr/product/7672/82/cover/893021956x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3118887",
+          "loan_count": "46719"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "세상에서 제일 재밌는 종이접기 :색종이 한 장이면 장난감 뚝딱! ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2018",
+          "isbn13": "9791186494431",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/16236/65/cover/k972533242_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3870198",
+          "loan_count": "45490"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "방구석 미술관",
+          "authors": "조원재 지음",
+          "publisher": "백도씨",
+          "publication_year": "2020",
+          "isbn13": "9788968332845",
+          "addition_symbol": "03600",
+          "vol": "2",
+          "class_no": "650.4",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "https://image.aladin.co.kr/product/25566/91/cover/8968332843_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5799196",
+          "loan_count": "39410"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "(한 권으로 끝내는) 종이접기 ",
+          "authors": "주부의벗사 편집 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2016",
+          "isbn13": "9788962228960",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "http://image.aladin.co.kr/product/7606/23/cover/8962228963_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3117169",
+          "loan_count": "35533"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "모든 것은 기본에서 시작한다 :실력도 기술도 사람 됨됨이도, 기본을 지키는 손웅정의 삶의 철학 ",
+          "authors": "손웅정 지음",
+          "publisher": "수오서재",
+          "publication_year": "2021",
+          "isbn13": "9791190382502",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "695.404",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://image.aladin.co.kr/product/28089/84/cover/k082734846_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6315300",
+          "loan_count": "34683"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환",
+          "publisher": "부즈펌",
+          "publication_year": "2016",
+          "isbn13": "9791186073995",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/689/10768972.jpg?type=m1&udate=20170711",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3186311",
+          "loan_count": "30846"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "마술 잘하는 50가지 비밀 :진짜 진짜 마술 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 제이크 밴필드 ;번역: 서나연",
+          "publisher": "부즈펌",
+          "publication_year": "2017",
+          "isbn13": "9791187504092",
+          "addition_symbol": "73680",
+          "vol": "",
+          "class_no": "689",
+          "class_nm": "예술 > 연극 > 대중연예",
+          "bookImageURL": "http://image.aladin.co.kr/product/10644/6/cover/k352530047_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3427322",
+          "loan_count": "29484"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Why? 스포츠과학 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930202626",
+          "addition_symbol": "74690",
+          "vol": "33",
+          "class_no": "692",
+          "class_nm": "예술 > 오락, 운동 > 체육학, 스포츠",
+          "bookImageURL": "http://image.aladin.co.kr/product/716/59/cover/8930202624_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1148623",
+          "loan_count": "26908"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "마인크래프트 건축 장인 되기 ",
+          "authors": "구성: 조이 데이비,번역: 이주안",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930270458",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "http://image.aladin.co.kr/product/11019/15/cover/893027045x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3443905",
+          "loan_count": "26529"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "다이어터 :건강한 생활을 위한 본격 다이어트 웹툰",
+          "authors": "글: 네온비 ;그림: 캐러멜",
+          "publisher": "중앙북스",
+          "publication_year": "",
+          "isbn13": "9788927802778",
+          "addition_symbol": "14710",
+          "vol": "2",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/734/06773497.jpg?type=m1&udate=20130318",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373017",
+          "loan_count": "26466"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "김이나의 작사법 :우리의 감정을 사로잡는 일상의 언어들 ",
+          "authors": "지은이: 김이나",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954635608",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "673.511",
+          "class_nm": "예술 > 음악 > 성악",
+          "bookImageURL": "http://image.aladin.co.kr/product/5482/88/cover/8954635601_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619164",
+          "loan_count": "26190"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "80일간의 퀴즈 여행 ",
+          "authors": "알렉산드라 아르티모프스카 지음 ;김영선 옮김",
+          "publisher": "보림",
+          "publication_year": "2018",
+          "isbn13": "9788943311230",
+          "addition_symbol": "74840",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/121/13212198.jpg?type=m1&udate=20180714",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3692493",
+          "loan_count": "26150"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2018",
+          "isbn13": "9791186494479",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/17561/33/cover/k342534505_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5296220",
+          "loan_count": "26027"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "(난생 처음 한번 공부하는) 미술 이야기",
+          "authors": "양정무 지음",
+          "publisher": "사회평론",
+          "publication_year": "2016",
+          "isbn13": "9788964358306",
+          "addition_symbol": "03600",
+          "vol": "2",
+          "class_no": "601",
+          "class_nm": "예술 > 예술 > 미술이론, 미학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8340/48/cover/8964358309_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3152681",
+          "loan_count": "25792"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "다이어터 :건강한 생활을 위한 본격 다이어트 웹툰",
+          "authors": "글: 네온비 ;그림: 캐러멜",
+          "publisher": "중앙북스",
+          "publication_year": "",
+          "isbn13": "9788927803478",
+          "addition_symbol": "14810",
+          "vol": "3",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/636/06963604.jpg?type=m1&udate=20120723",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373018",
+          "loan_count": "25765"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "(퀴즈!) 과학상식 :공포 마술 ",
+          "authors": "권찬호 지음 ;손종근 그림",
+          "publisher": "글송이",
+          "publication_year": "2015",
+          "isbn13": "9791170180494",
+          "addition_symbol": "74400",
+          "vol": "43",
+          "class_no": "689",
+          "class_nm": "예술 > 연극 > 대중연예",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/092/307/09230766.jpg?type=m1&udate=20160220",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2861712",
+          "loan_count": "25219"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "다이어터 :건강한 생활을 위한 본격 다이어트 웹툰",
+          "authors": "글: 네온비 ;그림: 캐러멜",
+          "publisher": "중앙북스",
+          "publication_year": "",
+          "isbn13": "9788927802396",
+          "addition_symbol": "14810",
+          "vol": "1",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/929/06692966.jpg?type=m1&udate=20111115",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373016",
+          "loan_count": "25070"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "인생에서 너무 늦은 때란 없습니다 :모지스 할머니 이야기 ",
+          "authors": "지은이: 애나 메리 로버트슨 모지스 ;옮긴이: 류승경",
+          "publisher": "수오서재",
+          "publication_year": "2017",
+          "isbn13": "9791187498186",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "653.42",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/12540/78/cover/k482532464_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3673894",
+          "loan_count": "24195"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494530",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/18834/2/cover/k012635887_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5397402",
+          "loan_count": "23761"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007245",
+          "addition_symbol": "74690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://image.aladin.co.kr/product/29543/96/cover/k832837053_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6472415",
+          "loan_count": "23262"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "(종이접기아저씨) 김영만 종이접기놀이 100 ",
+          "authors": "지은이: 김영만",
+          "publisher": "종이나라",
+          "publication_year": "2016",
+          "isbn13": "9788976227652",
+          "addition_symbol": "73630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "http://image.aladin.co.kr/product/7554/14/cover/8976227654_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3121144",
+          "loan_count": "22984"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "마인크래프트 건축 장인 세계 여행 ",
+          "authors": "구성: 윌 제윗,번역: 이주안",
+          "publisher": "예림당",
+          "publication_year": "2018",
+          "isbn13": "9788930270779",
+          "addition_symbol": "74690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/13374/51/cover/8930270778_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658898",
+          "loan_count": "22385"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494561",
+          "addition_symbol": "13650",
+          "vol": "2",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/20030/63/cover/k262635249_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5455957",
+          "loan_count": "22255"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "(난생 처음 한번 공부하는) 미술 이야기",
+          "authors": "양정무 지음",
+          "publisher": "사회평론",
+          "publication_year": "2016",
+          "isbn13": "9788964358290",
+          "addition_symbol": "03600",
+          "vol": "1",
+          "class_no": "601",
+          "class_nm": "예술 > 예술 > 미술이론, 미학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8340/48/cover/8964358295_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3152680",
+          "loan_count": "22213"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "내가 사랑한 화가들 :살면서 한 번은 꼭 들어야 할 아주 특별한 미술 수업 ",
+          "authors": "정우철 지음",
+          "publisher": "나무의철학",
+          "publication_year": "2021",
+          "isbn13": "9791158512132",
+          "addition_symbol": "03600",
+          "vol": "",
+          "class_no": "650.4",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/189/259/18925927.jpg?type=m1&udate=20210413",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962096",
+          "loan_count": "21826"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934996170",
+          "addition_symbol": "77690",
+          "vol": "1",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/19794/52/cover/893499617x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5446502",
+          "loan_count": "21700"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2020",
+          "isbn13": "9791186494592",
+          "addition_symbol": "13650",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/24700/8/cover/k192631415_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5728626",
+          "loan_count": "21483"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934998280",
+          "addition_symbol": "77690",
+          "vol": "2",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/20709/62/cover/8934998288_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5477559",
+          "loan_count": "21418"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "대충 봐도 머리에 남는 어린이 야구 상식 :야구의 재미를 제대로 알게 하는 알쏭달쏭 야구의 모든 것 ",
+          "authors": "글: 김양희 ;그림: 나인완",
+          "publisher": "블루무스어린이",
+          "publication_year": "2023",
+          "isbn13": "9791198381811",
+          "addition_symbol": "77690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://image.aladin.co.kr/product/32452/50/cover/k792935394_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6760317",
+          "loan_count": "21229"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "왜 유명한 거야, 이 그림? ",
+          "authors": "이유리 글 ;허현경 그림",
+          "publisher": "우리학교",
+          "publication_year": "2022",
+          "isbn13": "9791167550712",
+          "addition_symbol": "73600",
+          "vol": "",
+          "class_no": "650",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "https://image.aladin.co.kr/product/30176/95/cover/k202839795_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6563679",
+          "loan_count": "20803"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2020",
+          "isbn13": "9791186494615",
+          "addition_symbol": "13630",
+          "vol": "3",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/25703/98/cover/k482736666_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5820501",
+          "loan_count": "20632"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "신과 함께 :저승편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2011",
+          "isbn13": "9788959193684",
+          "addition_symbol": "07810",
+          "vol": "1",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/265/06426579.jpg?type=m1&udate=20120315",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372953",
+          "loan_count": "20348"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2018",
+          "isbn13": "9791186494479",
+          "addition_symbol": "13630",
+          "vol": "1",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/17561/33/cover/k342534505_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5296220",
+          "loan_count": "20197"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "신과 함께 :저승편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2011",
+          "isbn13": "9788959193707",
+          "addition_symbol": "07810",
+          "vol": "3",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/265/06426581.jpg?type=m1&udate=20120315",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372955",
+          "loan_count": "20179"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "(최승호·방시혁의) 말놀이 동요집 ",
+          "authors": "최승호 시 ;윤정주 그림",
+          "publisher": "비룡소",
+          "publication_year": "2011",
+          "isbn13": "9788949120447",
+          "addition_symbol": "78670",
+          "vol": "",
+          "class_no": "673",
+          "class_nm": "예술 > 음악 > 성악",
+          "bookImageURL": "http://image.aladin.co.kr/product/920/25/cover/8949120445_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1146501",
+          "loan_count": "20132"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "서양미술사 ",
+          "authors": "E.H. 곰브리치 지음 ;이종숭 옮김",
+          "publisher": "예경",
+          "publication_year": "2010",
+          "isbn13": "9788970840659",
+          "addition_symbol": "03600",
+          "vol": "",
+          "class_no": "609.2",
+          "class_nm": "예술 > 예술 > 미술사",
+          "bookImageURL": "http://image.aladin.co.kr/product/12372/83/cover/k512531356_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1134538",
+          "loan_count": "19738"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "신과 함께 :저승편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2011",
+          "isbn13": "9788959193691",
+          "addition_symbol": "07810",
+          "vol": "2",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/265/06426580.jpg?type=m1&udate=20120315",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372954",
+          "loan_count": "19250"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007320",
+          "addition_symbol": "74690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://image.aladin.co.kr/product/30499/5/cover/k222830688_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6593425",
+          "loan_count": "19219"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "(매일매일 두뇌 트레이닝) 간단 종이접기 대백과 ",
+          "authors": "주부의벗사 편집부 저 ;김수연 역",
+          "publisher": "아르고나인",
+          "publication_year": "2011",
+          "isbn13": "9788997227099",
+          "addition_symbol": "13740",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/560/06756060.jpg?type=m1&udate=20180330",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1209975",
+          "loan_count": "18865"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934999539",
+          "addition_symbol": "77690",
+          "vol": "3",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/22586/76/cover/8934999535_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5582110",
+          "loan_count": "18815"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "(이세돌의) 어린이 바둑 교과서",
+          "authors": "이세돌 지음 ;성기창 기획",
+          "publisher": "조선매거진",
+          "publication_year": "2011",
+          "isbn13": "9788993968422",
+          "addition_symbol": "64690",
+          "vol": "1",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "http://image.aladin.co.kr/product/1127/77/cover/899396842x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2439918",
+          "loan_count": "18767"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "미술관 그림 도둑을 잡아라! ",
+          "authors": "사가라 아츠코 글 ;김윤정 옮김",
+          "publisher": "킨더랜드",
+          "publication_year": "2017",
+          "isbn13": "9788956187334",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "650",
+          "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+          "bookImageURL": "http://image.aladin.co.kr/product/10248/99/cover/8956187339_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3413628",
+          "loan_count": "18642"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "당신의 모든 순간",
+          "authors": "강풀 글·그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2011",
+          "isbn13": "9788901121499",
+          "addition_symbol": "04650",
+          "vol": "1",
+          "class_no": "657.1",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/1147/27/cover/8901121492_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2611451",
+          "loan_count": "18604"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "(열두 살 백용기의) 게임 회사 정복기 ",
+          "authors": "이송현 글 ;조경규 그림",
+          "publisher": "비룡소",
+          "publication_year": "2014",
+          "isbn13": "9788949189512",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "http://image.aladin.co.kr/product/4161/20/cover/8949189518_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2048056",
+          "loan_count": "18190"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "임금님의 집 창덕궁 ",
+          "authors": "최재숙 글 ;달·리 그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2008",
+          "isbn13": "9788901089874",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "611",
+          "class_nm": "예술 > 건축술 > 궁전, 묘사, 성곽",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/052/560/05256010.jpg?type=m1&udate=20170803",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376629",
+          "loan_count": "18133"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2021",
+          "isbn13": "9791186494714",
+          "addition_symbol": "13630",
+          "vol": "4",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/28447/97/cover/k822835517_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6356239",
+          "loan_count": "18065"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "조훈현, 고수의 생각법 :생각은 반드시 답을 찾는다 ",
+          "authors": "조훈현 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2015",
+          "isbn13": "9791186560020",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "691.204",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/091/889/09188930.jpg?type=m1&udate=20180511",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396982",
+          "loan_count": "18051"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934992226",
+          "addition_symbol": "77690",
+          "vol": "4",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/23451/86/cover/8934992220_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5609793",
+          "loan_count": "18026"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "당신의 모든 순간",
+          "authors": "강풀 글·그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2011",
+          "isbn13": "9788901121505",
+          "addition_symbol": "04650",
+          "vol": "2",
+          "class_no": "657.1",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/1147/27/cover/8901121506_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646443",
+          "loan_count": "17797"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "공룡세계에서 너도 찾았니?",
+          "authors": "커스틴 롭슨 (지은이), 가레스 루카스 (그림), 루스 러셀",
+          "publisher": "어스본코리아",
+          "publication_year": "2017",
+          "isbn13": "9791186872864",
+          "addition_symbol": "74370",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/12264/46/cover/k792531855_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658618",
+          "loan_count": "17653"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "어쿠스틱라이프",
+          "authors": "난다 만화",
+          "publisher": "애니북스",
+          "publication_year": "",
+          "isbn13": "9788959194087",
+          "addition_symbol": "17810",
+          "vol": "1",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/259/06725916.jpg?type=m1&udate=20110905",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373249",
+          "loan_count": "17620"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "우아하고 호쾌한 여자 축구 :김혼비 에세이 ",
+          "authors": "지은이: 김혼비",
+          "publisher": "민음사",
+          "publication_year": "2018",
+          "isbn13": "9788937437571",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "695.404",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "http://image.aladin.co.kr/product/14970/22/cover/8937437570_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3766967",
+          "loan_count": "17413"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934992028",
+          "addition_symbol": "77690",
+          "vol": "5",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/24129/98/cover/8934992026_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5674934",
+          "loan_count": "17393"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "임금님의 집 창덕궁 ",
+          "authors": "최재숙 글 ;달·리 그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2008",
+          "isbn13": "9788901089874",
+          "addition_symbol": "74900",
+          "vol": "",
+          "class_no": "611",
+          "class_nm": "예술 > 건축술 > 궁전, 묘사, 성곽",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/052/560/05256010.jpg?type=m1&udate=20170803",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376629",
+          "loan_count": "17269"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(처음 시작하는) 다면체 종이접기 :색종이 유닛을 조립해 입체를 완성해요 ",
+          "authors": "호조 도시아키 지음 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2017",
+          "isbn13": "9788962227468",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/12457/84/cover/8962227460_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3665751",
+          "loan_count": "17110"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "당신은 사건 현장에 있습니다 :일러스트 한 장으로 즐기는 추리 게임 ",
+          "authors": "글: 모데스토 가르시아 ;번역: 엄지영",
+          "publisher": "중앙일보에스",
+          "publication_year": "2022",
+          "isbn13": "9788927812975",
+          "addition_symbol": "03030",
+          "vol": "",
+          "class_no": "691.9",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/29623/60/cover/8927812972_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6479562",
+          "loan_count": "17094"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "(매직 키드를 위한)마술 대백과",
+          "authors": "해바라기 지음;이명선 그림",
+          "publisher": "지경사",
+          "publication_year": "2004",
+          "isbn13": "9788931916072",
+          "addition_symbol": "73400",
+          "vol": "",
+          "class_no": "689.3",
+          "class_nm": "예술 > 연극 > 대중연예",
+          "bookImageURL": "http://image.aladin.co.kr/product/45/71/cover/8931916078_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=348289",
+          "loan_count": "17060"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "색깔 속에 숨은 세상 이야기 ",
+          "authors": "박영란,송효정 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2007",
+          "isbn13": "9788937844218",
+          "addition_symbol": "74900",
+          "vol": "",
+          "class_no": "651",
+          "class_nm": "예술 > 회화, 도화 > 채색이론 및 실제",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/043/002/04300213.jpg?type=m1&udate=20141127",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2186253",
+          "loan_count": "16936"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934990970",
+          "addition_symbol": "77690",
+          "vol": "6",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/24790/60/cover/893499097x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5747402",
+          "loan_count": "16867"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "당신의 모든 순간",
+          "authors": "강풀 글·그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2011",
+          "isbn13": "9788901121529",
+          "addition_symbol": "04650",
+          "vol": "4",
+          "class_no": "657.1",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/1147/27/cover/8901121522_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646452",
+          "loan_count": "16782"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "당신의 모든 순간",
+          "authors": "강풀 글·그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2011",
+          "isbn13": "9788901121512",
+          "addition_symbol": "04650",
+          "vol": "3",
+          "class_no": "657.1",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/1147/27/cover/8901121514_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646454",
+          "loan_count": "16710"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "생각하는 야구 교과서 :어린이를 위한 야구의 모든 것 ",
+          "authors": "스포츠문화연구소,이창우 그림",
+          "publisher": "휴먼어린이",
+          "publication_year": "2016",
+          "isbn13": "9788965913085",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/103/10710331.jpg?type=m1&udate=20170517",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3169623",
+          "loan_count": "16442"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "바둑전쟁 신들의 게임 :어린이 바둑 학습만화",
+          "authors": "하지강,최우빈 그림",
+          "publisher": "김영사",
+          "publication_year": "2019",
+          "isbn13": "9788934990826",
+          "addition_symbol": "77690",
+          "vol": "7",
+          "class_no": "691.2",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/25694/79/cover/8934990821_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819965",
+          "loan_count": "16422"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "국가대표 종이비행기 :멀리 날리기 ",
+          "authors": "위플레이 지음",
+          "publisher": "로이 Books",
+          "publication_year": "2021",
+          "isbn13": "9791190897518",
+          "addition_symbol": "73550",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/27667/26/cover/k422733235_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063416",
+          "loan_count": "16394"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "체스 바이블 :그림으로 배우는 체스의 정석 ",
+          "authors": "클레어 서머스케일 지음 ;이은경 옮김",
+          "publisher": "보누스",
+          "publication_year": "2021",
+          "isbn13": "9788964944844",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/27058/72/cover/8964944844_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5969849",
+          "loan_count": "16348"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494530",
+          "addition_symbol": "13630",
+          "vol": "2",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/18834/2/cover/k012635887_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5397402",
+          "loan_count": "16165"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "퐁당보들젤리 뿌직슬라임 ",
+          "authors": "지은이: 뿌직",
+          "publisher": "베가북스",
+          "publication_year": "2019",
+          "isbn13": "9791186137949",
+          "addition_symbol": "77690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/18836/99/cover/k392635984_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5394295",
+          "loan_count": "15946"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "다른 방식으로 보기 ",
+          "authors": "존 버거 [지음] ;최민 옮김",
+          "publisher": "열화당",
+          "publication_year": "2012",
+          "isbn13": "9788930104272",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "604",
+          "class_nm": "예술 > 예술 > 미술의 주제",
+          "bookImageURL": "http://image.aladin.co.kr/product/1875/91/cover/8930104274_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1864587",
+          "loan_count": "15940"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "스마트폰 끄고 재미있게 노는 방법 100 ",
+          "authors": "글: 크리스 허시먼 ;옮김: 김재홍",
+          "publisher": "아울북",
+          "publication_year": "2018",
+          "isbn13": "9788950976460",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/339/13833947.jpg?type=m1&udate=20180802",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3858747",
+          "loan_count": "15939"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "마인크래프트 건축 장인 시간 여행 ",
+          "authors": "구성: 제이크 터너,번역: 아보카도",
+          "publisher": "예림당",
+          "publication_year": "2018",
+          "isbn13": "9788930270885",
+          "addition_symbol": "74690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "http://image.aladin.co.kr/product/16825/21/cover/8930270883_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3915879",
+          "loan_count": "15895"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "그림들 :모마 미술관 도슨트북 ",
+          "authors": "Sun 도슨트 지음",
+          "publisher": "나무의마음",
+          "publication_year": "2022",
+          "isbn13": "9791190457187",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "606.9",
+          "class_nm": "예술 > 예술 > 미술 분야의 학회, 단체, 기관, 회의",
+          "bookImageURL": "https://image.aladin.co.kr/product/29110/98/cover/k052837263_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6427528",
+          "loan_count": "15875"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "(난생 처음 한번 공부하는) 미술 이야기",
+          "authors": "양정무 지음",
+          "publisher": "사회평론",
+          "publication_year": "2016",
+          "isbn13": "9788964359402",
+          "addition_symbol": "03600",
+          "vol": "3",
+          "class_no": "601",
+          "class_nm": "예술 > 예술 > 미술이론, 미학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10044/20/cover/8964359402_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3455338",
+          "loan_count": "15862"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(앙리 마티스의 작품을 재현하며) 마티스의 정원 ",
+          "authors": "사만사 프리드만 글 ;지혜연 옮김",
+          "publisher": "알에이치코리아",
+          "publication_year": "2014",
+          "isbn13": "9788925554419",
+          "addition_symbol": "73840",
+          "vol": "",
+          "class_no": "653",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "http://image.aladin.co.kr/product/5029/74/cover/8925554410_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614833",
+          "loan_count": "15823"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "캘리그라피 쉽게 배우기 =How to write calligraphy easily ",
+          "authors": "박효지 지음",
+          "publisher": "단한권의책",
+          "publication_year": "2014",
+          "isbn13": "9788998697143",
+          "addition_symbol": "13640",
+          "vol": "",
+          "class_no": "658.31",
+          "class_nm": "예술 > 회화, 도화 > 그래픽디자인, 도안, 포스터",
+          "bookImageURL": "http://image.aladin.co.kr/product/4728/18/cover/8998697149_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647481",
+          "loan_count": "15750"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "신과 함께 :신화편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2012",
+          "isbn13": "9788959195008",
+          "addition_symbol": "07810",
+          "vol": "33",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/2077/65/cover/8959195006_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646400",
+          "loan_count": "15693"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "(난생 처음 한번 공부하는) 미술 이야기",
+          "authors": "양정무 지음",
+          "publisher": "사회평론",
+          "publication_year": "2016",
+          "isbn13": "9788964359419",
+          "addition_symbol": "03600",
+          "vol": "4",
+          "class_no": "601",
+          "class_nm": "예술 > 예술 > 미술이론, 미학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10044/20/cover/8964359410_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3455339",
+          "loan_count": "15690"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "범죄 수학 ",
+          "authors": "리스 하스아우트 글 ;오혜정 옮김",
+          "publisher": "Gbrain",
+          "publication_year": "2010",
+          "isbn13": "9788959791927",
+          "addition_symbol": "13410",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "http://image.aladin.co.kr/product/740/68/cover/895979192x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1093769",
+          "loan_count": "15681"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "(한 권으로 끝내는) 종이접기 ",
+          "authors": "주부의벗사 편집 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164061471",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/22039/77/cover/k362636918_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5543383",
+          "loan_count": "15604"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "(한눈에 반한) 우리 미술관 :풍속화에서 사군자까지 ",
+          "authors": "장세현 글",
+          "publisher": "사계절",
+          "publication_year": "2012",
+          "isbn13": "9788958285878",
+          "addition_symbol": "73650",
+          "vol": "",
+          "class_no": "653",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/007/06800731.jpg?type=m1&udate=20180123",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1232277",
+          "loan_count": "15597"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "바닷속에서 너도 찾았니? :머리가 좋아지는 숨은그림찾기 ",
+          "authors": "가레스 루카스 그림 ;커스틴 롭슨 글",
+          "publisher": "Usborne Korea",
+          "publication_year": "[201",
+          "isbn13": "9791186872741",
+          "addition_symbol": "74370",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/122/707/12270720.jpg?type=m1&udate=20180612",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3495772",
+          "loan_count": "15528"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "그림 그리기가 이토록 쉬울 줄이야 :혼자서 가볍게 시작하는 일상 드로잉 ",
+          "authors": "이기주 지음",
+          "publisher": "스몰빅미디어",
+          "publication_year": "2022",
+          "isbn13": "9791191731279",
+          "addition_symbol": "13650",
+          "vol": "",
+          "class_no": "656.2",
+          "class_nm": "예술 > 회화, 도화 > 소묘, 도화",
+          "bookImageURL": "https://image.aladin.co.kr/product/29734/83/cover/k722838698_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6498922",
+          "loan_count": "15520"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "신과 함께 :신화편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2012",
+          "isbn13": "9788959194995",
+          "addition_symbol": "07810",
+          "vol": "32",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/2077/65/cover/8959194999_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645788",
+          "loan_count": "15458"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "뒤죽박죽 미술관 :정기 휴관일 ",
+          "authors": "유주연 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2012",
+          "isbn13": "9788993242751",
+          "addition_symbol": "77810",
+          "vol": "9",
+          "class_no": "653",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "http://image.aladin.co.kr/product/2167/46/cover/8993242755_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646431",
+          "loan_count": "15452"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "꿈꾸는 징검돌 :화가 박수근 이야기 ",
+          "authors": "김용철 쓰고 그림",
+          "publisher": "사계절출판사",
+          "publication_year": "2012",
+          "isbn13": "9788958286158",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "653",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "http://image.aladin.co.kr/product/1672/31/cover/8958286156_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1839884",
+          "loan_count": "15243"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "(결정판) 종이접기 대백과 :집중력과 학습능력을 키워주는 두뇌 발달 수업 ",
+          "authors": "저자: 야마구치 마코토 ;역자: 서현아",
+          "publisher": "학산문화사",
+          "publication_year": "2017",
+          "isbn13": "9791125674481",
+          "addition_symbol": "13630",
+          "vol": "",
+          "class_no": "634",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "http://image.aladin.co.kr/product/10362/33/cover/k632536792_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3416952",
+          "loan_count": "15236"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "신과 함께 :신화편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2012",
+          "isbn13": "9788959194988",
+          "addition_symbol": "07810",
+          "vol": "31",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "http://image.aladin.co.kr/product/2077/64/cover/8959194980_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645771",
+          "loan_count": "15235"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "(아빠가 들려주는) 숭례문 이야기 ",
+          "authors": "글: 이용재 ;그림: 이승원",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953587236",
+          "addition_symbol": "73800",
+          "vol": "",
+          "class_no": "610",
+          "class_nm": "예술 > 건축술 > 건축술",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/680/07168084.jpg?type=m1&udate=20150719",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1928430",
+          "loan_count": "15170"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "신과 함께 :이승편",
+          "authors": "지은이: 주호민",
+          "publisher": "애니북스",
+          "publication_year": "2011",
+          "isbn13": "9788959194179",
+          "addition_symbol": "07810",
+          "vol": "2",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/702/06770266.jpg?type=m1&udate=20150725",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372952",
+          "loan_count": "15146"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "간송 전형필 :한국의 미를 지킨 대수장가 간송의 삶과 우리 문화재 수집 이야기 ",
+          "authors": "이충렬 지음",
+          "publisher": "김영사",
+          "publication_year": "2010",
+          "isbn13": "9788934939429",
+          "addition_symbol": "03990",
+          "vol": "",
+          "class_no": "606.911",
+          "class_nm": "예술 > 예술 > 미술 분야의 학회, 단체, 기관, 회의",
+          "bookImageURL": "http://image.aladin.co.kr/product/697/1/cover/8934939427_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1087772",
+          "loan_count": "15138"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "토깽이네와 집에서 놀아요 ",
+          "authors": "지은이: 토깽이네",
+          "publisher": "코알라스토어",
+          "publication_year": "2020",
+          "isbn13": "9791188073450",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "691",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/22508/34/cover/k212636731_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5581761",
+          "loan_count": "15118"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "어쿠스틱라이프",
+          "authors": "난다 만화",
+          "publisher": "애니북스",
+          "publication_year": "",
+          "isbn13": "9788959194261",
+          "addition_symbol": "17810",
+          "vol": "2",
+          "class_no": "657.3",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/904/06790464.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373250",
+          "loan_count": "15070"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "책상 잘 쓰는 법 ",
+          "authors": "이고은 글·그림",
+          "publisher": "사계절",
+          "publication_year": "2019",
+          "isbn13": "9791160944303",
+          "addition_symbol": "74370",
+          "vol": "",
+          "class_no": "649",
+          "class_nm": "예술 > 서예 > 문방구",
+          "bookImageURL": "https://image.aladin.co.kr/product/18021/73/cover/k202534849_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5363362",
+          "loan_count": "14944"
+        }
+      }
+    ]
+  }
+}

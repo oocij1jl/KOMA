@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "4",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "(그리며 배우는) 동물의 세계 :스텐실북",
+          "authors": "로렌스 클레이 메를 그림",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9788809264182",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "490",
+          "class_nm": "자연과학 > 동물학 > 동물학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3117197",
+          "loan_count": "6499"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "(아동)내일은 실험왕. 40: 원소의 대결",
+          "authors": "스토리 a. 지음",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9798937856648",
+          "addition_symbol": "77400",
+          "vol": "40",
+          "class_no": "404",
+          "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3540221",
+          "loan_count": "1855"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "Earth! My First 4.54 Billion Years",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803689",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957072",
+          "loan_count": "1830"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "(The)truth about bats",
+          "authors": "written by Eva Moore;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729086",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355749",
+          "loan_count": "1671"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "Moon! Earth's Best Friend",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803702",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957071",
+          "loan_count": "1543"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "(The)search for the missing bones",
+          "authors": "written by Eva Moore;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729093",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355750",
+          "loan_count": "1448"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "Ocean! Waves For All",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803719",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957070",
+          "loan_count": "1295"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "(The Senses) Sight",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252782",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699681",
+          "loan_count": "1277"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "(The)wild whale watch",
+          "authors": "written by Eva Moore;illustrations by John Speirs",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729109",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355751",
+          "loan_count": "1234"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "(Nature's Miracles) Once there was a Raindrop",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263948",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699722",
+          "loan_count": "1216"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "Our Universe #5 : Mars! Earthlings Welcome (Paperback)",
+          "authors": "McAnulty, Stacy",
+          "publisher": "Macmillan",
+          "publication_year": "2021",
+          "isbn13": "9781250846068",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/28270/99/cover/1250846064_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6361096",
+          "loan_count": "1206"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "Twister trouble",
+          "authors": "written by Ann Schreiber;illustrations by John Speirs",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729123",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355753",
+          "loan_count": "1190"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "(Nature's Miracles) Once there was a Caterpillar",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263955",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699723",
+          "loan_count": "1186"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "(Nature's Miracles) Once there was a Tadpole",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263962",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699724",
+          "loan_count": "1164"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "How I Breath (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-06-11",
+          "isbn13": "9780750259477",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699701",
+          "loan_count": "1160"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "(Nature's Miracles) Once there was a Seed",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263931",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699721",
+          "loan_count": "1143"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "(The Senses) Taste",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252799",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699682",
+          "loan_count": "1140"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "(I'm Alive!) I an Growing",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750259507",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699704",
+          "loan_count": "1138"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "When I Eat (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-06-25",
+          "isbn13": "9780750259491",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699703",
+          "loan_count": "1136"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "The Orange outlaw _ A to Z Mysteries 총 8권",
+          "authors": "",
+          "publisher": "",
+          "publication_year": "2006",
+          "isbn13": "9999999999999",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/8521/55/cover/scm4377094375640.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2867285",
+          "loan_count": "1119"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "Space explorers",
+          "authors": "written by Eva Moore;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729116",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355752",
+          "loan_count": "1099"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "Sun!",
+          "authors": "by Sun (with Stacy McAnulty);illustrated by Sun (and Stevie Lewis)",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803696",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "443",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5932201",
+          "loan_count": "1056"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Levers (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-08-13",
+          "isbn13": "9780750259545",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699708",
+          "loan_count": "1051"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Earth! My First 4.54 Billion Years",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803689",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957072",
+          "loan_count": "1049"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Sun!",
+          "authors": "by Sun (with Stacy McAnulty);illustrated by Sun (and Stevie Lewis)",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803696",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "443",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5932201",
+          "loan_count": "1043"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Hearing (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2007-09-13",
+          "isbn13": "9780750252751",
+          "addition_symbol": "00599",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699678",
+          "loan_count": "1024"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Smell (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2007-09-13",
+          "isbn13": "9780750252775",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699680",
+          "loan_count": "998"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "(The)giant germ",
+          "authors": "written by Anne Capeci;illustrations by John Speirs",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729130",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355754",
+          "loan_count": "994"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "Moon! Earth's Best Friend",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803702",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957071",
+          "loan_count": "976"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "(The)great shark escape",
+          "authors": "written by Jennifer Johnston;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729147",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355755",
+          "loan_count": "948"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Touch (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2007-09-13",
+          "isbn13": "9780750252768",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699679",
+          "loan_count": "919"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Slopes (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-07-09",
+          "isbn13": "9780750259514",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699705",
+          "loan_count": "904"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "Pulleys (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-07-09",
+          "isbn13": "9780750259521",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699706",
+          "loan_count": "897"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "Levers (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-08-13",
+          "isbn13": "9780750259545",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699708",
+          "loan_count": "880"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "Ocean! Waves For All",
+          "authors": "by Stacy McAnulty;illustrated by David Litchfield",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781250803719",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "445",
+          "class_nm": "자연과학 > 천문학 > 지구",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5957070",
+          "loan_count": "879"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Penguin puzzle",
+          "authors": "written by Judith Bauer Stamper;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729154",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355756",
+          "loan_count": "871"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Wheels and Cogs (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-08-13",
+          "isbn13": "9780750259538",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699707",
+          "loan_count": "864"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "Wheels and Cogs (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-08-13",
+          "isbn13": "9780750259538",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699707",
+          "loan_count": "828"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Our Universe #5 : Mars! Earthlings Welcome (Paperback)",
+          "authors": "McAnulty, Stacy",
+          "publisher": "Macmillan",
+          "publication_year": "2021",
+          "isbn13": "9781250846068",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/28270/99/cover/1250846064_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6361096",
+          "loan_count": "811"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "Birds",
+          "authors": "by Denise Ryan",
+          "publisher": "Weldon OwenMoonjinmedia",
+          "publication_year": "2008",
+          "isbn13": "9781740896757",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2484840",
+          "loan_count": "809"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Dinosaur detectives",
+          "authors": "written by Judith Bauer Stamper;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729161",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355757",
+          "loan_count": "784"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "National Geographic 펼치면서 알아보는 숨겨진 공룡지식백과",
+          "authors": "크리스티나 반피 (지은이), 로만 가르시아 모라 (그림), 정성재 (옮긴이)",
+          "publisher": "봄봄스쿨",
+          "publication_year": "2019",
+          "isbn13": "8809332972656",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "457.279",
+          "class_nm": "자연과학 > 지학 > 고생물학(화석학)",
+          "bookImageURL": "https://image.aladin.co.kr/product/23818/63/cover/k882639182_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5689659",
+          "loan_count": "773"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "(역사를 바꾼 17가지)화학이야기:비타민에서 나일론까지, 세계사 속에 숨겨진 화학의 비밀",
+          "authors": "페니 르 쿠터;제이 버레슨 [공]지음;곽주영 옮김",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9789783711914",
+          "addition_symbol": "03400",
+          "vol": "1",
+          "class_no": "430",
+          "class_nm": "자연과학 > 화학 > 화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2852582",
+          "loan_count": "744"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "Expedition down under",
+          "authors": "written by Rebecca Carmi;illustrations by John Speirs",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729178",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355758",
+          "loan_count": "718"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Why? 빅데이터",
+          "authors": "파피루스",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "8930219578978",
+          "addition_symbol": "",
+          "vol": "77",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3540335",
+          "loan_count": "710"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "Polar bear patrol",
+          "authors": "written by Judith Stamper",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2001",
+          "isbn13": "9789814729208",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399126",
+          "loan_count": "677"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "Pulleys (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-07-09",
+          "isbn13": "9780750259521",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699706",
+          "loan_count": "657"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "They came from Planet Zabalooloo! ",
+          "authors": "Sean Taylor ;[illustrated by] Kate Hindley",
+          "publisher": "Walker Books Ltd",
+          "publication_year": "2017",
+          "isbn13": "9781406374346",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "443.1",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/10633/51/cover/1406374342_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5384846",
+          "loan_count": "654"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "The Ultimate Book of Planet Earth (Hardcover)",
+          "authors": "안 소피 보만 (지은이), 디디에 발리세빅 (그림)",
+          "publisher": "Twirl",
+          "publication_year": "2019",
+          "isbn13": "9791027605620",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/13408/45/cover/f502532303_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5459524",
+          "loan_count": "633"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "Slopes (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-07-09",
+          "isbn13": "9780750259514",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699705",
+          "loan_count": "632"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "50",
+          "bookname": "Food chain frenzy",
+          "authors": "written by Anne Capeci",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2001",
+          "isbn13": "9789814729246",
+          "addition_symbol": "",
+          "vol": "17",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399133",
+          "loan_count": "632"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "(Nature's Miracles) Once there was a Seed",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263931",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699721",
+          "loan_count": "628"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Voyage to the volcano",
+          "authors": "written by Judith Stamper",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729222",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399128",
+          "loan_count": "626"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "Attack of the plants ",
+          "authors": "by AnnMarie Anderson",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2018",
+          "isbn13": "9781338290790",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/12844/8/cover/1338290797_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5438792",
+          "loan_count": "612"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Color day realy",
+          "authors": "written by Gail Herman",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729536",
+          "addition_symbol": "",
+          "vol": "19",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399131",
+          "loan_count": "608"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "Chomp: A Shark Romp (Hardcover)",
+          "authors": "Michael Paul (지은이)",
+          "publisher": "Crown Pub                               ",
+          "publication_year": "2019",
+          "isbn13": "9781524767020",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "497.44",
+          "class_nm": "자연과학 > 동물학 > 어류, 양서류, 파충류",
+          "bookImageURL": "https://image.aladin.co.kr/product/15938/68/cover/1524767026_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5423920",
+          "loan_count": "607"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Electric storm",
+          "authors": "written by Anne Capeci",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729215",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399127",
+          "loan_count": "603"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "(The) Fishy field trip",
+          "authors": "written by Martin Schwabacher",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729253",
+          "addition_symbol": "",
+          "vol": "18",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399130",
+          "loan_count": "597"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "Amazing magnetism",
+          "authors": "written by Rebecca Carmi",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2001",
+          "isbn13": "9789814729192",
+          "addition_symbol": "",
+          "vol": "12",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399125",
+          "loan_count": "590"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Smell (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2007-09-13",
+          "isbn13": "9780750252775",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699680",
+          "loan_count": "588"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Rocky road trip",
+          "authors": "written by Judith Bauer Stamper",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729543",
+          "addition_symbol": "",
+          "vol": "20",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399132",
+          "loan_count": "584"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Ultimate Shark Rumble (Who Would Win?), Volume 24 (Paperback)",
+          "authors": "제리 팰로타 (지은이), 롭 볼스터 (그림)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2020",
+          "isbn13": "9781338320275",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "497",
+          "class_nm": "자연과학 > 동물학 > 어류, 양서류, 파충류",
+          "bookImageURL": "https://image.aladin.co.kr/product/23730/90/cover/1338320270_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5817120",
+          "loan_count": "578"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(Nature's Miracles) Once there was a Tadpole",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263962",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699724",
+          "loan_count": "576"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "Who would win?",
+          "authors": "by Jerry Pallotta",
+          "publisher": "Scholastic",
+          "publication_year": "2013-01-01",
+          "isbn13": "9780545451901",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "499",
+          "class_nm": "자연과학 > 동물학 > 포유류",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2553796",
+          "loan_count": "571"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "Attack of the plants ",
+          "authors": "by AnnMarie Anderson",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2018",
+          "isbn13": "9781338290790",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/12844/8/cover/1338290797_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5438792",
+          "loan_count": "555"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "다만 악에서 구하소서 - 초회한정 엽서(4종)",
+          "authors": "홍원찬 (감독), 황정민, 이정재, 박정민 (출연)",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2020",
+          "isbn13": "8809602682544",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "4691",
+          "class_nm": " >  > ",
+          "bookImageURL": "https://image.aladin.co.kr/product/25752/66/cover/d152832242_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5845418",
+          "loan_count": "549"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Insect invaders",
+          "authors": "written by Anne Capeci",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2001",
+          "isbn13": "9789814729185",
+          "addition_symbol": "",
+          "vol": "11",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399124",
+          "loan_count": "538"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Your place in the universe ",
+          "authors": "Jason Chin",
+          "publisher": "Neal Porter Books",
+          "publication_year": "2020",
+          "isbn13": "9780823446230",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "443.1",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/22137/14/cover/0823446239_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5851211",
+          "loan_count": "534"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "How to :absurd scientific advice for common real-world problems ",
+          "authors": "Randall Munroe",
+          "publisher": "Penguin Publishing Group",
+          "publication_year": "2019",
+          "isbn13": "9780593086377",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "407",
+          "class_nm": "자연과학 > 자연과학 > 지도법, 연구법 및 교육, 교육자료",
+          "bookImageURL": "https://image.aladin.co.kr/product/20067/84/cover/0593086376_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5522139",
+          "loan_count": "528"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "(Nature's Miracles) Once there was a Raindrop",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263948",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699722",
+          "loan_count": "520"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "70",
+          "bookname": "Hey, Water! (Paperback)",
+          "authors": "Antoinette Portis (지은이)",
+          "publisher": "Neal Porter Books",
+          "publication_year": "2021",
+          "isbn13": "9780823447350",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "435.12",
+          "class_nm": "자연과학 > 화학 > 무기화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27188/79/cover/0823447359_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6407016",
+          "loan_count": "520"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "(Why?) 3D 프린팅",
+          "authors": "조영선 지음 ; 이영호 만화;이낙규 감수",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9878930219693",
+          "addition_symbol": "74400",
+          "vol": "74",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3612215",
+          "loan_count": "518"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Butterfly battle",
+          "authors": "written by Nancy White",
+          "publisher": "Scholastic Singapore",
+          "publication_year": "2017",
+          "isbn13": "9789814729239",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399129",
+          "loan_count": "516"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "(The)truth about bats",
+          "authors": "written by Eva Moore;illustrations by Ted Enik",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789814729086",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355749",
+          "loan_count": "496"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "(Nature's Miracles) Once there was a Caterpillar",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263955",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699723",
+          "loan_count": "483"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "(역사를 바꾼 17가지)화학이야기:아스피린에서 카페인까지, 세계사 속에 숨겨진 화학의 비밀",
+          "authors": "페니 르 쿠터;제이 버레슨 지음;곽주영 옮김",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9788798983712",
+          "addition_symbol": "03400",
+          "vol": "2",
+          "class_no": "430",
+          "class_nm": "자연과학 > 화학 > 화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2740439",
+          "loan_count": "478"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "냠냠, 꿀꺽 과자 열매 열",
+          "authors": "김경란",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9788809331297",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5519509",
+          "loan_count": "456"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "(The) Secret Explorers and the lost whales ",
+          "authors": "[SJ King] ;[illustrator: Ellie O'Shea]",
+          "publisher": "Dk Pub",
+          "publication_year": "2020",
+          "isbn13": "9780744021059",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "404",
+          "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "https://image.aladin.co.kr/product/21355/52/cover/0744021057_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5800612",
+          "loan_count": "455"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(Nature's Miracles) Once there was a Seed",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263931",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699721",
+          "loan_count": "452"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "(아동)내일은 실험왕. 40: 원소의 대결",
+          "authors": "스토리 a. 지음",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9798937856648",
+          "addition_symbol": "77400",
+          "vol": "",
+          "class_no": "404",
+          "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3540221",
+          "loan_count": "450"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "Who Would Win?: Ultimate Showdown (Hardcover)",
+          "authors": "제리 팰로타 (지은이), 롭 볼스터 (그림)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338535563",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "491",
+          "class_nm": "자연과학 > 동물학 > 일반 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17754/9/cover/1338535560_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5647884",
+          "loan_count": "439"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "One tiny turtle",
+          "authors": "by Nicola Davies",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439429832",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "497",
+          "class_nm": "자연과학 > 동물학 > 어류, 양서류, 파충류",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2508796",
+          "loan_count": "436"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Circle under berry ",
+          "authors": "Carter Higgins",
+          "publisher": "Chronicle Books",
+          "publication_year": "2021",
+          "isbn13": "9781797205083",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "415",
+          "class_nm": "자연과학 > 수학 > 기하학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27139/73/cover/1797205080_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336294",
+          "loan_count": "435"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "What If You Had Animal Scales!?: Or Other Animal Coats? (Paperback)",
+          "authors": "Sandra Markle (지은이), Howard McWilliam (그림)",
+          "publisher": "Scholastic Press",
+          "publication_year": "2021",
+          "isbn13": "9781338666144",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "490",
+          "class_nm": "자연과학 > 동물학 > 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25738/40/cover/1338666142_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6353487",
+          "loan_count": "400"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "(I'm Alive!) I an Growing",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750259507",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699704",
+          "loan_count": "392"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "85",
+          "bookname": "(A)home for panda",
+          "authors": "based on text by Ann Whitehead Nagda",
+          "publisher": "Little Soundprints",
+          "publication_year": "2007",
+          "isbn13": "9781592497058",
+          "addition_symbol": "50499",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2566715",
+          "loan_count": "392"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "Wacky wild amimals",
+          "authors": "by Beth Pountney",
+          "publisher": "Make Believe Ideas",
+          "publication_year": "2013",
+          "isbn13": "9781846105920",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "490",
+          "class_nm": "자연과학 > 동물학 > 동물학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2426786",
+          "loan_count": "391"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "(The Senses) Taste",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252799",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699682",
+          "loan_count": "390"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "(Nature's Miracles) Once there was a Raindrop",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263948",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699722",
+          "loan_count": "387"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "Unstoppable Us: How Humans Took Over the World - Volume 1 (Paperback) - The incredible true story of the human race",
+          "authors": "유발 하라리 (지은이), Ricard Zaplana Ruiz (그림)",
+          "publisher": "Puffin Books,",
+          "publication_year": "2022",
+          "isbn13": "9780241596104",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "471",
+          "class_nm": "자연과학 > 생물과학 > 인류학(자연인류학)",
+          "bookImageURL": "https://image.aladin.co.kr/product/29839/88/cover/0241596106_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6598649",
+          "loan_count": "385"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "(The Senses) Sight",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252782",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699681",
+          "loan_count": "383"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(The Senses) Sight",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252782",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699681",
+          "loan_count": "382"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "(국립과천과학관) 과학관 사이언스",
+          "authors": "정인경",
+          "publisher": "아이세움미래엔컬처그룹",
+          "publication_year": "2007",
+          "isbn13": "9789788937845",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2539491",
+          "loan_count": "376"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "(I'm Alive!) I an Growing",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750259507",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699704",
+          "loan_count": "372"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "(Nature's Miracles) Once there was a Caterpillar",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750263955",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699723",
+          "loan_count": "370"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "(The Senses) Taste",
+          "authors": "Mike Gordon",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9780750252799",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699682",
+          "loan_count": "369"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "How I Breath (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-06-11",
+          "isbn13": "9780750259477",
+          "addition_symbol": "",
+          "vol": "12",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699701",
+          "loan_count": "366"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "When I Eat (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-06-25",
+          "isbn13": "9780750259491",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699703",
+          "loan_count": "364"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "How I Breath (Paperback)",
+          "authors": "Mandy Suhr",
+          "publisher": "Wayland",
+          "publication_year": "2009-06-11",
+          "isbn13": "9780750259477",
+          "addition_symbol": "",
+          "vol": "17",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699701",
+          "loan_count": "363"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "Except Antarctica! ",
+          "authors": "Todd Sturgell",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2021",
+          "isbn13": "9781728233260",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "490",
+          "class_nm": "자연과학 > 동물학 > 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25545/76/cover/1728233267_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6298006",
+          "loan_count": "362"
+        }
+      }
+    ]
+  }
+}

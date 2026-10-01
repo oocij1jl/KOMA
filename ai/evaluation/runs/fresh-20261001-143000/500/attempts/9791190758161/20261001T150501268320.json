@@ -1,0 +1,390 @@
+{
+  "isbn": "9791190758161",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791190758161"
+          },
+          {
+            "code": "g",
+            "value": "03810"
+          },
+          {
+            "code": "c",
+            "value": "₩12000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "들어본 이야기"
+          },
+          {
+            "code": "b",
+            "value": "구병모 권여선 듀나 박솔뫼 한유주 소설집"
+          },
+          {
+            "code": "d",
+            "value": "지은이: 구병모,권여선,듀나,박솔뫼,한유주"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "M창비(미디어창비)"
+          },
+          {
+            "code": "c",
+            "value": "2020"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "184 p."
+          },
+          {
+            "code": "c",
+            "value": "19 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '128*188'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '128*188'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "813.7"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "구병모"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 명시된 개인 저자 1인"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "권여선"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 명시된 개인 저자 1인"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "듀나"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 명시된 개인 저자 1인"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "박솔뫼"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 명시된 개인 저자 1인"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "한유주"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 명시된 개인 저자 1인"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "세계"
+          },
+          {
+            "code": "a",
+            "value": "독자"
+          },
+          {
+            "code": "a",
+            "value": "사유"
+          },
+          {
+            "code": "a",
+            "value": "시선"
+          },
+          {
+            "code": "a",
+            "value": "시대"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "keywords",
+            "description"
+          ],
+          "keywords_used": [
+            "세계",
+            "독자",
+            "사유",
+            "시선",
+            "시대"
+          ],
+          "reasoning": "상위 키워드 중 서지값과 중복되지 않는 주제어를 최소 정제하여 비통제 색인어로 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "한국문학"
+          },
+          {
+            "code": "a",
+            "value": "한국소설"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 813.7, ISBN 부가기호 03810에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: description 단순 복사 금지"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 검수 필요",
+      "700의 역할어는 입력 author의 지은이 표기를 분리한 것임"
+    ]
+  },
+  "generated_at": "2026-10-01T15:05:01.268271+09:00",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

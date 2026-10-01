@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "2",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971373",
+          "addition_symbol": "74800",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/12308/2/cover/8950971372_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3665795",
+          "loan_count": "90632"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971380",
+          "addition_symbol": "74800",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/045/13204504.jpg?type=m1&udate=20180117",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3692898",
+          "loan_count": "88472"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971397",
+          "addition_symbol": "74800",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/404/13440466.jpg?type=m1&udate=20180319",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3726870",
+          "loan_count": "86816"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971366",
+          "addition_symbol": "74800",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/11839/63/cover/8950971364_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3630589",
+          "loan_count": "83845"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971410",
+          "addition_symbol": "74800",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/15650/23/cover/8950971410_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3836747",
+          "loan_count": "80308"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971427",
+          "addition_symbol": "74800",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/16870/94/cover/8950971429_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3913813",
+          "loan_count": "80017"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971434",
+          "addition_symbol": "74800",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17423/34/cover/8950971437_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5245617",
+          "loan_count": "79598"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971403",
+          "addition_symbol": "74800",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/14656/89/cover/8950971402_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3754579",
+          "loan_count": "78618"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971465",
+          "addition_symbol": "74800",
+          "vol": "11",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19196/58/cover/s722635909_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5409176",
+          "loan_count": "78142"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "9",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363010",
+          "addition_symbol": "77840",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/453/01545335.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374187",
+          "loan_count": "78142"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363027",
+          "addition_symbol": "77840",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/535/01553517.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374190",
+          "loan_count": "76252"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971472",
+          "addition_symbol": "74800",
+          "vol": "12",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/20292/65/cover/895097147x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5462193",
+          "loan_count": "75639"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971458",
+          "addition_symbol": "74800",
+          "vol": "10",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18621/27/cover/8950971453_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3464859",
+          "loan_count": "75435"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971489",
+          "addition_symbol": "74800",
+          "vol": "13",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/21221/70/cover/8950971488_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5506299",
+          "loan_count": "75255"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971441",
+          "addition_symbol": "74800",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17898/46/cover/8950971445_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5354695",
+          "loan_count": "75136"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363034",
+          "addition_symbol": "73840",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/579/01557928.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374191",
+          "loan_count": "71886"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971502",
+          "addition_symbol": "74800",
+          "vol": "15",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23345/16/cover/895097150x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5599304",
+          "loan_count": "71102"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971519",
+          "addition_symbol": "74800",
+          "vol": "16",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23700/5/cover/8950971518_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5646841",
+          "loan_count": "67914"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971496",
+          "addition_symbol": "74800",
+          "vol": "14",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/22235/22/cover/8950971496_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5550000",
+          "loan_count": "67543"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363041",
+          "addition_symbol": "73840",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/711/01571186.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374192",
+          "loan_count": "67519"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971564",
+          "addition_symbol": "74800",
+          "vol": "21",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26534/15/cover/8950971569_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5926407",
+          "loan_count": "66716"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971571",
+          "addition_symbol": "74800",
+          "vol": "22",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26933/97/cover/8950971577_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5960251",
+          "loan_count": "65563"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971588",
+          "addition_symbol": "74800",
+          "vol": "23",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27355/46/cover/8950971585_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6032626",
+          "loan_count": "64681"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971526",
+          "addition_symbol": "74800",
+          "vol": "17",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24298/32/cover/8950971526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5690731",
+          "loan_count": "63129"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971540",
+          "addition_symbol": "74800",
+          "vol": "19",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25399/23/cover/8950971542_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784122",
+          "loan_count": "62737"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971533",
+          "addition_symbol": "74800",
+          "vol": "18",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24919/43/cover/8950971534_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5739927",
+          "loan_count": "62447"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971557",
+          "addition_symbol": "74800",
+          "vol": "20",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25834/74/cover/8950971550_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5834626",
+          "loan_count": "61860"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971595",
+          "addition_symbol": "74800",
+          "vol": "24",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27793/76/cover/8950971593_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6078716",
+          "loan_count": "59281"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363065",
+          "addition_symbol": "77840",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/967/01596702.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371069",
+          "loan_count": "58604"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363058",
+          "addition_symbol": "73840",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/795/01579501.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374193",
+          "loan_count": "58278"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971601",
+          "addition_symbol": "74800",
+          "vol": "25",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28121/51/cover/8950971607_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6316704",
+          "loan_count": "57845"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164135226",
+          "addition_symbol": "77890",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24136/50/cover/k182639748_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5676293",
+          "loan_count": "57687"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363072",
+          "addition_symbol": "77840",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/016/090/01609018.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374194",
+          "loan_count": "57351"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363096",
+          "addition_symbol": "77840",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/018/774/01877449.jpg?type=m1&udate=20130708",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374196",
+          "loan_count": "57348"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363089",
+          "addition_symbol": "77840",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/016/206/01620682.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374195",
+          "loan_count": "56263"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164135851",
+          "addition_symbol": "77890",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24890/93/cover/k682632377_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5738760",
+          "loan_count": "55883"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;홍은영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788990103192",
+          "addition_symbol": "74840",
+          "vol": "19",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/272/01527278.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374189",
+          "loan_count": "55018"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;홍은영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788990103208",
+          "addition_symbol": "74840",
+          "vol": "20",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/519/01551982.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371068",
+          "loan_count": "54888"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363171",
+          "addition_symbol": "77840",
+          "vol": "17",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/141/01914140.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371066",
+          "loan_count": "53354"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363133",
+          "addition_symbol": "77840",
+          "vol": "13",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/289/01928966.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371063",
+          "loan_count": "53239"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971618",
+          "addition_symbol": "74800",
+          "vol": "26",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28555/5/cover/8950971615_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6368073",
+          "loan_count": "53072"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136667",
+          "addition_symbol": "77890",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25663/7/cover/k822735241_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5818608",
+          "loan_count": "52072"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "내가 틀릴 수도 있습니다 =숲속의 현자가 전하는 마지막 인생수업 /I may be wrong ",
+          "authors": "비욘 나티코 린데블라드 지음 ;박미경 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2022",
+          "isbn13": "9791130689890",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "220.4",
+          "class_nm": "종교 > 불교 > 불교",
+          "bookImageURL": "https://image.aladin.co.kr/product/29269/12/cover/k822837807_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6445483",
+          "loan_count": "51989"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363126",
+          "addition_symbol": "77840",
+          "vol": "12",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/043/01904385.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371062",
+          "loan_count": "51848"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137893",
+          "addition_symbol": "77890",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26982/8/cover/k142730513_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5966621",
+          "loan_count": "51499"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363188",
+          "addition_symbol": "77840",
+          "vol": "18",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/018/832/01883202.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371067",
+          "loan_count": "51172"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363164",
+          "addition_symbol": "77840",
+          "vol": "16",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/640/01964093.jpg?type=m1&udate=20130708",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371065",
+          "loan_count": "51005"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971632",
+          "addition_symbol": "74800",
+          "vol": "28",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29371/55/cover/8950971631_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6454494",
+          "loan_count": "50954"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971625",
+          "addition_symbol": "74800",
+          "vol": "27",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29057/0/cover/8950971623_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6420979",
+          "loan_count": "50807"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363119",
+          "addition_symbol": "77840",
+          "vol": "11",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/043/01904380.jpg?type=m1&udate=20130708",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371061",
+          "loan_count": "50509"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138920",
+          "addition_symbol": "77890",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27861/10/cover/k712734796_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6087581",
+          "loan_count": "50359"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363102",
+          "addition_symbol": "77840",
+          "vol": "10",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/018/875/01887594.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371060",
+          "loan_count": "50019"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363140",
+          "addition_symbol": "77840",
+          "vol": "14",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/336/01933649.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374188",
+          "loan_count": "49686"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164139927",
+          "addition_symbol": "77890",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28618/82/cover/k572835059_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6384893",
+          "loan_count": "48655"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "authors": "글: 스카이엠 ;오승원",
+          "publisher": "계림북스",
+          "publication_year": "2016",
+          "isbn13": "9788953331211",
+          "addition_symbol": "74800",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/108/343/10834381.jpg?type=m1&udate=20160829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3202925",
+          "loan_count": "48431"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971656",
+          "addition_symbol": "74800",
+          "vol": "30",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30121/26/cover/8950971658_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6559298",
+          "loan_count": "47731"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496628",
+          "addition_symbol": "77890",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30235/56/cover/k602839401_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6569409",
+          "loan_count": "46498"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "(만화로 보는)그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "2005",
+          "isbn13": "9788957363157",
+          "addition_symbol": "77840",
+          "vol": "15",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/409/01940969.jpg?type=m1&udate=20130522",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371064",
+          "loan_count": "46453"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950971649",
+          "addition_symbol": "74800",
+          "vol": "29",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29749/67/cover/895097164x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6499425",
+          "loan_count": "46389"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411333",
+          "addition_symbol": "77890",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29437/74/cover/k862837421_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6460238",
+          "loan_count": "46111"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496949",
+          "addition_symbol": "77890",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30841/64/cover/k382831374_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6619716",
+          "loan_count": "44493"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168412712",
+          "addition_symbol": "77890",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30175/47/cover/k822839790_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6563280",
+          "loan_count": "41943"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179982",
+          "addition_symbol": "77890",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31463/43/cover/k912832421_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6672531",
+          "loan_count": "40392"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941567",
+          "addition_symbol": "74800",
+          "vol": "31",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30522/25/cover/8950941562_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6595118",
+          "loan_count": "40165"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941574",
+          "addition_symbol": "74800",
+          "vol": "32",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31088/91/cover/8950941570_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6640171",
+          "loan_count": "39572"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411937",
+          "addition_symbol": "77890",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30748/21/cover/k712830355_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6612808",
+          "loan_count": "38965"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "authors": "글: 스카이엠 ;오승원",
+          "publisher": "계림북스",
+          "publication_year": "2016",
+          "isbn13": "9788953331228",
+          "addition_symbol": "74800",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/9086/0/cover/8953331226_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3324704",
+          "loan_count": "37474"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031209",
+          "addition_symbol": "77890",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32025/6/cover/k442834781_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6726839",
+          "loan_count": "37450"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "224.2",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "https://image.aladin.co.kr/product/33973/70/cover200/k682930444_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6878420",
+          "loan_count": "37009"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941581",
+          "addition_symbol": "74800",
+          "vol": "33",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31560/18/cover/8950941589_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6682010",
+          "loan_count": "35919"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415744",
+          "addition_symbol": "77890",
+          "vol": "10",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32158/22/cover/k312834419_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6740373",
+          "loan_count": "35685"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031278",
+          "addition_symbol": "77890",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32585/6/cover/k622935343_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6771633",
+          "loan_count": "33088"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "(만화로 보는) 그리스 로마 신화 :특별판",
+          "authors": "이경우 엮음 ;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788957364857",
+          "addition_symbol": "77840",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/485/6/cover/8957364854_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2481643",
+          "loan_count": "32897"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941598",
+          "addition_symbol": "74800",
+          "vol": "34",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32129/12/cover/8950941597_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6738262",
+          "loan_count": "32379"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "(만화로 보는) 그리스 로마 신화 :특별판",
+          "authors": "이경우 엮음 ;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788957364956",
+          "addition_symbol": "77840",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/112/06211215.jpg?type=m1&udate=20100519",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2556030",
+          "loan_count": "31027"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941604",
+          "addition_symbol": "74800",
+          "vol": "35",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32489/62/cover/8950941600_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6763862",
+          "loan_count": "30594"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "authors": "글: 스카이엠 ;오승원",
+          "publisher": "계림북스",
+          "publication_year": "2016",
+          "isbn13": "9788953331235",
+          "addition_symbol": "74800",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/110/11211058.jpg?type=m1&udate=20161019",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3385219",
+          "loan_count": "30367"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031377",
+          "addition_symbol": "77890",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33161/5/cover/k132937233_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6813769",
+          "loan_count": "30198"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168417823",
+          "addition_symbol": "77890",
+          "vol": "11",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33573/57/cover/k062939295_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6840921",
+          "loan_count": "29964"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "(만화로 보는) 그리스 로마 신화 :특별판",
+          "authors": "이경우 엮음 ;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788957365052",
+          "addition_symbol": "77840",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/626/06262615.jpg?type=m1&udate=20100519",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2555185",
+          "loan_count": "29329"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(만화로 보는) 그리스 로마 신화 :특별판",
+          "authors": "이경우 엮음 ;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788957365199",
+          "addition_symbol": "77840",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/813/82/cover/8957365192_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2439882",
+          "loan_count": "28477"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031612",
+          "addition_symbol": "77890",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33748/39/cover/k912930960_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6858788",
+          "loan_count": "27919"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "(만화로 보는) 그리스 로마 신화 :특별판",
+          "authors": "이경우 엮음 ;서영 그림",
+          "publisher": "가나출판사",
+          "publication_year": "",
+          "isbn13": "9788957365120",
+          "addition_symbol": "77840",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/734/13/cover/8957365125_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2429779",
+          "loan_count": "27706"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "삶으로 다시 떠오르기 ",
+          "authors": "지은이: 에크하르트 톨레 ;옮긴이: 류시화",
+          "publisher": "연금술사",
+          "publication_year": "2013",
+          "isbn13": "9791195026128",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "214",
+          "class_nm": "종교 > 비교종교학 > 종교신앙, 신앙록, 신앙(수도)생활",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/896/07289682.jpg?type=m1&udate=20180426",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1969391",
+          "loan_count": "27497"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941611",
+          "addition_symbol": "74800",
+          "vol": "36",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32915/16/cover/8950941619_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6794916",
+          "loan_count": "26843"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130696614",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31484/41/cover/k842832622_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6674338",
+          "loan_count": "26597"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "authors": "글: 스카이엠 ;오승원",
+          "publisher": "계림북스",
+          "publication_year": "2016",
+          "isbn13": "9788953331242",
+          "addition_symbol": "74800",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/9829/79/cover/8953331242_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3399394",
+          "loan_count": "26407"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "만들어진 신 :신은 과연 인간을 창조했는가? ",
+          "authors": "리처드 도킨스 [지음] ;이한음 옮김",
+          "publisher": "김영사",
+          "publication_year": "2007",
+          "isbn13": "9788934926184",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "204.21",
+          "class_nm": "종교 > 종교 > 자연종교, 자연신학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/030/088/03008836.jpg?type=m1&udate=20180619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2126974",
+          "loan_count": "25777"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941628",
+          "addition_symbol": "74800",
+          "vol": "37",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33272/64/cover/8950941627_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6820955",
+          "loan_count": "25584"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "authors": "글: 최설희 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168418554",
+          "addition_symbol": "77890",
+          "vol": "12",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/34311/64/cover200/k662932376_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6914312",
+          "loan_count": "25547"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "authors": "지은이: 법륜",
+          "publisher": "정토출판",
+          "publication_year": "2014",
+          "isbn13": "9788985961851",
+          "addition_symbol": "03220",
+          "vol": "",
+          "class_no": "224.8",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "http://image.aladin.co.kr/product/4980/86/cover/8985961853_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430612",
+          "loan_count": "25073"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031667",
+          "addition_symbol": "77890",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/img/noimg_b.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6900493",
+          "loan_count": "24948"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "야단법석 :법륜 스님의 지구촌 즉문즉설 ",
+          "authors": "지은이: 법륜",
+          "publisher": "정토출판",
+          "publication_year": "2015",
+          "isbn13": "9788985961363",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "224.2",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/096/843/09684390.jpg?type=m1&udate=20170315",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2882078",
+          "loan_count": "24785"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "authors": "글: 스카이엠 ;오승원",
+          "publisher": "계림북스",
+          "publication_year": "2016",
+          "isbn13": "9788953331259",
+          "addition_symbol": "74800",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10155/77/cover/8953331250_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3413270",
+          "loan_count": "24136"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "배움의 발견 :나의 특별한 가족, 교육, 그리고 자유의 이야기 ",
+          "authors": "타라 웨스트오버 지음 ;김희정 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2020",
+          "isbn13": "9788932919553",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "230.99",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/22271/23/cover/8932919550_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5568300",
+          "loan_count": "23456"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698182",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31940/20/cover/k242833153_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6717452",
+          "loan_count": "22942"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941635",
+          "addition_symbol": "74800",
+          "vol": "38",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33684/93/cover/8950941635_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6850344",
+          "loan_count": "22778"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698434",
+          "addition_symbol": "77810",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://shopping-phinf.pstatic.net/main_4291786/42917864620.20230928091943.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6769532",
+          "loan_count": "22174"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "그리스 로마 신화",
+          "authors": "글: 김민희,정보 글: 강대진",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2017",
+          "isbn13": "9788950941642",
+          "addition_symbol": "74800",
+          "vol": "39",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33988/81/cover200/8950941643_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6878651",
+          "loan_count": "21621"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031711",
+          "addition_symbol": "77890",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/34874/57/cover200/k202933051_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6956698",
+          "loan_count": "20826"
+        }
+      }
+    ]
+  }
+}

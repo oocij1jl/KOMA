@@ -1,0 +1,302 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194100133"
+        },
+        {
+          "code": "g",
+          "value": "77880"
+        },
+        {
+          "code": "c",
+          "value": "₩17000"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "우리는 죽으면 어디로 가나요?"
+        },
+        {
+          "code": "d",
+          "value": "사미 라모스 글·그림"
+        },
+        {
+          "code": "e",
+          "value": "제님 옮김"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사. 역할어 기준 책임표시 분리 — 검수 필요"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "여유당(여유당출판사)"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "48 p."
+        },
+        {
+          "code": "c",
+          "value": "26 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '255*150'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '255*150'"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "883"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "사미 라모스"
+        },
+        {
+          "code": "e",
+          "value": "글그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 개인명 사미 라모스와 역할 글그림을 식별하여 700으로 분리"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "제님"
+        },
+        {
+          "code": "e",
+          "value": "옮김"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author",
+          "translation_signals"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기와 번역 정황의 옮김 표기를 근거로 제님을 역자로 분리"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "죽음"
+        },
+        {
+          "code": "a",
+          "value": "그림책"
+        },
+        {
+          "code": "a",
+          "value": "질문"
+        },
+        {
+          "code": "a",
+          "value": "우주"
+        },
+        {
+          "code": "a",
+          "value": "라가치상"
+        },
+        {
+          "code": "a",
+          "value": "대상"
+        },
+        {
+          "code": "a",
+          "value": "수상작"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "keywords_used": [
+          "죽음",
+          "그림책",
+          "질문",
+          "우주",
+          "라가치상",
+          "대상",
+          "수상작"
+        ],
+        "reasoning": "가중치가 높은 주제 키워드를 우선하고 설명과 공대출 자료의 주제 적합성으로 보조 확인하여 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "653",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이탈리아문학"
+        },
+        {
+          "code": "a",
+          "value": "아동문학"
+        },
+        {
+          "code": "a",
+          "value": "이탈리아동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "KDC 883, ISBN 부가기호 77880에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "500",
+      "reason": "원저작 정보 미확정: 500 생성 금지"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거 없음"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "830",
+      "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+    },
+    {
+      "tag": "950",
+      "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "041은 원저작 언어가 설명에 직접 확인되지 않아 검수 필요",
+    "653은 키워드 기반 추론이므로 반드시 검수",
+    "700의 역할어 분리는 표기 해석이 포함되어 검수 필요",
+    "041 언어별 입력 근거 부족으로 제거됨"
+  ]
+}

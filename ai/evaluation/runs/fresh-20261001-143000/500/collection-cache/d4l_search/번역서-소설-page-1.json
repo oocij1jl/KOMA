@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "소설",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 51,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "내게 무해한 사람 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954651820",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/15133/51/cover/8954651828_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3774162",
+          "loan_count": "92353"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "글자전쟁 :김진명 장편소설 ",
+          "authors": "지은이: 김진명",
+          "publisher": "새움",
+          "publication_year": "2015",
+          "isbn13": "9791186340691",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/093/428/09342840.jpg?type=m1&udate=20170803",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396931",
+          "loan_count": "60483"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너의 췌장을 먹고 싶어 ",
+          "authors": "스미노 요루 지음 ;양윤옥 옮김",
+          "publisher": "소미미디어",
+          "publication_year": "2017",
+          "isbn13": "9791157107223",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10599/62/cover/k762530636_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3424071",
+          "loan_count": "53306"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그녀를 지키다 :장바티스트 앙드레아 장편소설 ",
+          "authors": "지은이: 장바티스트 앙드레아 ;옮긴이: 정혜용",
+          "publisher": "열린책들",
+          "publication_year": "2025",
+          "isbn13": "9788932924984",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36072/76/cover200/8932924988_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7031287",
+          "loan_count": "11059"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꽃그림자놀이 :박소연 장편소설 ",
+          "authors": "지은이: 박소연",
+          "publisher": "나무옆의자",
+          "publication_year": "2015",
+          "isbn13": "9791195500611",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5743/43/cover/6000843635_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646487",
+          "loan_count": "7229"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "키스 앤 텔 :알랭 드 보통 장편소설 ",
+          "authors": "지은이: 알랭 드 보통 ;옮긴이: 정영목",
+          "publisher": "은행나무",
+          "publication_year": "2015",
+          "isbn13": "9788956608563",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5564/73/cover/8956608563_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619838",
+          "loan_count": "7181"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글북 ",
+          "authors": "러디어드 키플링 글 ;윤희기 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2016",
+          "isbn13": "9788949141190",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8029/5/cover/8949141191_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3134868",
+          "loan_count": "6239"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(2020) 김승옥문학상 수상작품집 ",
+          "authors": "지은이: 김금희,기준영",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954674966",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25233/6/cover/8954674968_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5775059",
+          "loan_count": "5808"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "도리언 그레이의 초상 :오스카 와일드 장편소설 ",
+          "authors": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+          "publisher": "열린책들",
+          "publication_year": "2010",
+          "isbn13": "9788932911526",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.4",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/843/34/cover/8932911525_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1136686",
+          "loan_count": "5760"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "난 가끔 엄마 아빠를 버리고 싶어 ",
+          "authors": "발레리 다이르 글 ;김이정 옮김",
+          "publisher": "미래M&B",
+          "publication_year": "2008",
+          "isbn13": "9788983944948",
+          "addition_symbol": "73860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/275/97/cover/8983944943_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2259095",
+          "loan_count": "3783"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "옛 소설에 빠지다 :금오신화에서 호질까지 맛있게 읽기 ",
+          "authors": "조혜란",
+          "publisher": "마음산책",
+          "publication_year": "2009",
+          "isbn13": "9788960900530",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.5",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/352/72/cover/8960900532_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2292961",
+          "loan_count": "3448"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "성공하는 프로그래밍 공부법 :프로그래머의 길을 생각한다 ",
+          "authors": "박재성,박지현 지음",
+          "publisher": "로드북",
+          "publication_year": "2018",
+          "isbn13": "9788997924417",
+          "addition_symbol": "93000",
+          "vol": "",
+          "class_no": "005.104",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/139/936/13993648.jpg?type=m1&udate=20180904",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3910605",
+          "loan_count": "3012"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "authors": "나관중 지음 ;송도진 옮김",
+          "publisher": "글항아리",
+          "publication_year": "2019",
+          "isbn13": "9788967356149",
+          "addition_symbol": "04910",
+          "vol": "1",
+          "class_no": "823.5",
+          "class_nm": "문학 > 중국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19002/39/cover/8967356145_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5401533",
+          "loan_count": "2692"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "SF 작가입니다 :배명훈 에세이 ",
+          "authors": "지은이: 배명훈",
+          "publisher": "문학과지성사",
+          "publication_year": "2020",
+          "isbn13": "9788932036007",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/23405/43/cover/8932036004_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5602264",
+          "loan_count": "2287"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 어떻게 글을 쓰게 되었나 ",
+          "authors": "레이먼드 챈들러 지음 ;안현주 엮고 옮김",
+          "publisher": "북스피어",
+          "publication_year": "2014",
+          "isbn13": "9788998791179",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "846",
+          "class_nm": "문학 > 영미문학 > 일기, 서간, 기행",
+          "bookImageURL": "http://image.aladin.co.kr/product/3896/30/cover/899879117x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2034858",
+          "loan_count": "2287"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "위폐범들 ",
+          "authors": "지은이: 앙드레 지드 ;옮긴이: 원윤수",
+          "publisher": "민음사",
+          "publication_year": "2010",
+          "isbn13": "9788937462498",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/733/38/cover/8937462494_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2442673",
+          "loan_count": "2241"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "키스하기 전에 우리가 하는 말들",
+          "authors": "알랭 드 보통 지음;이강룡 옮김",
+          "publisher": "생각의 나무",
+          "publication_year": "2005",
+          "isbn13": "9788984984165",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/56/45/cover/8984984167_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=857445",
+          "loan_count": "1997"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세상을 바꾼 노벨상 수상자 50인의 특강 ",
+          "authors": "스토리 나인 글 ;김덕영 그림",
+          "publisher": "북이십일 아울북",
+          "publication_year": "2011",
+          "isbn13": "9788950928049",
+          "addition_symbol": "73300",
+          "vol": "",
+          "class_no": "990",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "http://image.aladin.co.kr/product/1133/94/cover/8950928043_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2481055",
+          "loan_count": "1873"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마르탱 게르의 귀향 ",
+          "authors": "장-클로드 카리에르,고봉만 옮김",
+          "publisher": "문학과지성사",
+          "publication_year": "2018",
+          "isbn13": "9788932033303",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/16234/16/cover/8932033307_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3866666",
+          "loan_count": "1673"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "진주 :장혜령 소설 ",
+          "authors": "지은이: 장혜령",
+          "publisher": "문학동네",
+          "publication_year": "2019",
+          "isbn13": "9788954660211",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22453/5/cover/8954660215_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5571903",
+          "loan_count": "1576"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "서울의 낮은 언덕들 :배수아 장편소설 ",
+          "authors": "지은이: 배수아",
+          "publisher": "자음과 모음",
+          "publication_year": "2011",
+          "isbn13": "9788957076101",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/864/06786450.jpg?type=m1&udate=20150807",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1225813",
+          "loan_count": "1525"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음을 건다 :정홍수 산문집 ",
+          "authors": "지은이: 정홍수",
+          "publisher": "창비",
+          "publication_year": "2017",
+          "isbn13": "9788936474188",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/122/993/12299302.jpg?type=m1&udate=20180503",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3496944",
+          "loan_count": "1457"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그녀는 조용히 살고 있다",
+          "authors": "이해경 지음",
+          "publisher": "문학동네",
+          "publication_year": "2003",
+          "isbn13": "9788982816116",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/39/13/cover/8982816119_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=249592",
+          "loan_count": "1193"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자정의 픽션:박형서 소설집",
+          "authors": "지은이: 박형서",
+          "publisher": "문학과지성사",
+          "publication_year": "2006",
+          "isbn13": "9788932017365",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/85/15/cover/8932017360_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2054866",
+          "loan_count": "1138"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "배고픔의 자서전",
+          "authors": "아멜리 노통브 지음;전미연 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2006",
+          "isbn13": "9788932906003",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "866",
+          "class_nm": "문학 > 프랑스문학 > 일기, 서간, 기행",
+          "bookImageURL": "http://image.aladin.co.kr/product/64/92/cover/8932906009_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=945666",
+          "loan_count": "1100"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "서러워라, 잊혀진다는 것은:김탁환 장편소설",
+          "authors": "김탁환 지음",
+          "publisher": "동방미디어북스",
+          "publication_year": "2002",
+          "isbn13": "9788995337516",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/38/90/cover/8995337516_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=249089",
+          "loan_count": "967"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "소설의 이론:대(大) 서사문학의 형식들에 관한 역사철학적 시론",
+          "authors": "게오르크 루카치 지음;김경식 옮김",
+          "publisher": "문예출판사",
+          "publication_year": "2007",
+          "isbn13": "9788931005691",
+          "addition_symbol": "93800",
+          "vol": "",
+          "class_no": "853.09",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/029/581/02958121.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2121449",
+          "loan_count": "948"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "소설 :제임스 미치너 장편소설",
+          "authors": "지은이: 제임스 미치너 ;옮긴이: 윤희기",
+          "publisher": "열린책들",
+          "publication_year": "2010",
+          "isbn13": "9788932909189",
+          "addition_symbol": "03840",
+          "vol": "상",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/598/47/cover/8932909180_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1105515",
+          "loan_count": "882"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그림책 쓰기 :글과 그림의 조화로운 이중주 ",
+          "authors": "이상희 지음",
+          "publisher": "랜덤하우스코리아",
+          "publication_year": "2011",
+          "isbn13": "9788925544670",
+          "addition_symbol": "14800",
+          "vol": "",
+          "class_no": "802",
+          "class_nm": "문학 > 문학 > 문장작법, 수사학",
+          "bookImageURL": "http://image.aladin.co.kr/product/1350/65/cover/8925544679_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2753353",
+          "loan_count": "815"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "하벤 길마 :하버드 로스쿨을 정복한 최초의 중복장애인 하벤 길마가 전하는 놀라운 삶의 이야기 ",
+          "authors": "하벤 길마 ;윤희기 옮김",
+          "publisher": "알파미디어",
+          "publication_year": "2020",
+          "isbn13": "9791196396886",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "367.3099",
+          "class_nm": "사회과학 > 법학 > 사법제도 및 소송법",
+          "bookImageURL": "https://image.aladin.co.kr/product/24488/7/cover/k362630133_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5705690",
+          "loan_count": "803"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(막스 티볼리의) 고백 ",
+          "authors": "앤드루 숀 그리어 지음 ;윤희기 옮김",
+          "publisher": "시공사",
+          "publication_year": "2008",
+          "isbn13": "9788952751522",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/190/48/cover/8952751523_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2192416",
+          "loan_count": "751"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "소설 :제임스 미치너 장편소설",
+          "authors": "지은이: 제임스 미치너 ;옮긴이: 윤희기",
+          "publisher": "열린책들",
+          "publication_year": "2010",
+          "isbn13": "9788932909196",
+          "addition_symbol": "03840",
+          "vol": "하",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/061/954/06195452.jpg?type=m1&udate=20150825",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2539705",
+          "loan_count": "740"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "작가는 왜 쓰는가 ",
+          "authors": "지은이: 제임스 A. 미치너 ;옮긴이: 이종인",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788959130023",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "840.9",
+          "class_nm": "문학 > 영미문학 > 영미문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7492/6/cover/8959130028_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3141131",
+          "loan_count": "700"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이소룡, 세계와 겨룬 영혼의 승부사 ",
+          "authors": "브루스 토마스 [지음] ;류현 옮김",
+          "publisher": "김영사",
+          "publication_year": "2008",
+          "isbn13": "9788934931829",
+          "addition_symbol": "03990",
+          "vol": "",
+          "class_no": "698.2099",
+          "class_nm": "예술 > 오락, 운동 > 무예 및 기타경기",
+          "bookImageURL": "http://image.aladin.co.kr/product/281/44/cover/8934931825_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2274388",
+          "loan_count": "604"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그리스 신화의 이해=Introduction to Greek mythology",
+          "authors": "이진성 지음",
+          "publisher": "아카넷",
+          "publication_year": "2004",
+          "isbn13": "9788957330203",
+          "addition_symbol": "03210",
+          "vol": "",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "http://image.aladin.co.kr/product/47/21/cover/8957330208_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=348147",
+          "loan_count": "599"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "폐허의 도시",
+          "authors": "폴 오스터 지음;윤희기 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2002",
+          "isbn13": "9788932904351",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/36/19/cover/8932904359_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=165207",
+          "loan_count": "515"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "authors": "나관중 지음 ;송도진 옮김",
+          "publisher": "글항아리",
+          "publication_year": "2019",
+          "isbn13": "9788967356187",
+          "addition_symbol": "04910",
+          "vol": "5",
+          "class_no": "823.5",
+          "class_nm": "문학 > 중국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19002/50/cover/8967356188_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5401522",
+          "loan_count": "455"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "authors": "나관중 지음 ;송도진 옮김",
+          "publisher": "글항아리",
+          "publication_year": "2019",
+          "isbn13": "9788967356194",
+          "addition_symbol": "04910",
+          "vol": "6",
+          "class_no": "823.5",
+          "class_nm": "문학 > 중국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19002/53/cover/8967356196_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5401518",
+          "loan_count": "452"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "소설 쓰는 여자 :채희윤 장편소설 ",
+          "authors": "채희윤",
+          "publisher": "현대문학",
+          "publication_year": "2008",
+          "isbn13": "9788972754046",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/043/746/04374665.jpg?type=m1&udate=20141122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2179361",
+          "loan_count": "426"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "바보들은 항상 결심만 한다",
+          "authors": "팻 맥라건 지음;윤희기 옮김",
+          "publisher": "예문",
+          "publication_year": "2002",
+          "isbn13": "9788956590080",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "325.1",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4333/45/cover/6000745825_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=241221",
+          "loan_count": "426"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "벤저민 프랭클린",
+          "authors": "에드거 파린 돌레르;윤희기 옮김",
+          "publisher": "미래사",
+          "publication_year": "2004",
+          "isbn13": "9788970876184",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "998.3",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/79/cover/8970876189_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=390415",
+          "loan_count": "393"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(실록)군인 박정희",
+          "authors": "정운현 지음",
+          "publisher": "개마고원",
+          "publication_year": "2005",
+          "isbn13": "9788957690246",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "340.99",
+          "class_nm": "사회과학 > 정치학 > 정치학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/014/673/01467398.jpg?type=m1&udate=20131222",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=835684",
+          "loan_count": "293"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 아버지가 하느님인 줄 알았다",
+          "authors": "폴 오스터 엮음;황보석 [공]옮김",
+          "publisher": "열린책들",
+          "publication_year": "2004",
+          "isbn13": "9788932905556",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "848",
+          "class_nm": "문학 > 영미문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/49/49/cover/893290555x_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=361954",
+          "loan_count": "279"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(아빠와 함께 한)베니스 여행",
+          "authors": "크리스티나 비외르크 글;윤희기 옮김",
+          "publisher": "미래사",
+          "publication_year": "2003",
+          "isbn13": "9788970876115",
+          "addition_symbol": "77870",
+          "vol": "",
+          "class_no": "859.7",
+          "class_nm": "문학 > 독일문학 > 기타 게르만 문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/41/99/cover/8970876111_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=286989",
+          "loan_count": "273"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "동행",
+          "authors": "폴 오스터 저;윤희기 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2000",
+          "isbn13": "9788932902852",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/106/00210664.jpg?type=m1&udate=20180323",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1675087",
+          "loan_count": "268"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "소유",
+          "authors": "엔토니어 수잔 바이어트 지음;윤희기 옮김",
+          "publisher": "미래사",
+          "publication_year": "2003",
+          "isbn13": "9788970872711",
+          "addition_symbol": "03840",
+          "vol": "상",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/205/00120543.jpg?type=m1&udate=20130629",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2391445",
+          "loan_count": "247"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사랑한다면 우리도 이들처럼:김하인이 찾아낸 우리 시대 가장 감동적인 러브스토리 14",
+          "authors": "김하인 지음",
+          "publisher": "이른아침",
+          "publication_year": "2006",
+          "isbn13": "9788990956682",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/68/85/cover/8990956684_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=979408",
+          "loan_count": "186"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내 생애 가장 아름다운 여행",
+          "authors": "즈느비에브 쉬레 지음;김은정 옮김",
+          "publisher": "작가정신",
+          "publication_year": "2000",
+          "isbn13": "9788972881322",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/319/00031941.jpg?type=m1&udate=20130628",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1699487",
+          "loan_count": "166"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "슈베르트에 홀리다 :악흥의 때 열둘과 소설 하나 ",
+          "authors": "페터 헤르틀링 지음 ;엄선애 옮김",
+          "publisher": "한국학술정보",
+          "publication_year": "2014",
+          "isbn13": "9788926854693",
+          "addition_symbol": "03850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3721/20/cover/8926854698_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2016398",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(체 게바라의) 빙산 :아리엘 도르프만 장편소설 ",
+          "authors": "지은이: 아리엘 도르프만 ;옮긴이: 김의석",
+          "publisher": "창비",
+          "publication_year": "2004",
+          "isbn13": "9788936470944",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/4/cover/8936470949_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=378624",
+          "loan_count": "108"
+        }
+      }
+    ]
+  }
+}

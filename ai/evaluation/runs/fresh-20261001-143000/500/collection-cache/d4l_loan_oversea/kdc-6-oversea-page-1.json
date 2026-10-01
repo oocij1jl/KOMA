@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "6",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "센과 치히로의 행방불명 보정판 (2disc) - DTS-ES",
+          "authors": "미야자키 하야오 (감독)",
+          "publisher": "대원DVD",
+          "publication_year": "2002",
+          "isbn13": "8809105873012",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/47/77/cover/3332430269_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671085",
+          "loan_count": "12451"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "하울의 움직이는 성 일반판 (2disc)",
+          "authors": "미야자키 하야오 감독, 기무라 타쿠야 외 목소리",
+          "publisher": "대원DVD",
+          "publication_year": "2005-12-23",
+          "isbn13": "8809105873333",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671093",
+          "loan_count": "10862"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "겨울왕국 - 한국어 더빙 수록",
+          "authors": "크리스 벅 외 감독, 크리스틴 벨 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2014-04-10",
+          "isbn13": "8809362345505",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/3819/53/cover150/9362345501_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673303",
+          "loan_count": "10670"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "코코 - 접지 속지(미로 찾기)",
+          "authors": "리 언크리치 감독, 벤자민 브랫 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2018-03-28",
+          "isbn13": "8809505722071",
+          "addition_symbol": "00680",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3745569",
+          "loan_count": "10392"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "벼랑위의 포뇨 (2DISC)",
+          "authors": "미야자키 하야오 감독, 나라 유리아 외 목소리",
+          "publisher": "대원디지털엔터테인먼트",
+          "publication_year": "2009-08-10",
+          "isbn13": "8809105879052",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671105",
+          "loan_count": "9348"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "빅 히어로 - 한국어 더빙 수록",
+          "authors": "크리스 윌리엄스 외 감독, 다니엘 헤니 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2015-04-22",
+          "isbn13": "8809362348148",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673354",
+          "loan_count": "7439"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "귀향 [비디오녹화자료]",
+          "authors": "조정래 감독, 강하나 외 출연",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809505728",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3400329",
+          "loan_count": "5137"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "명탐정 코난: 순흑의 악몽",
+          "authors": "시즈노 코분 감독, 강수진 외 목소리",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2018-02-05",
+          "isbn13": "8809276108364",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3721132",
+          "loan_count": "5049"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "라따뚜이 - 할인행사",
+          "authors": "브래드 버드 감독, 피터 오툴 외 목소리",
+          "publisher": "브에나비스타",
+          "publication_year": "2009-02-20",
+          "isbn13": "8809274082956",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672028",
+          "loan_count": "4982"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "뽀롱뽀롱 뽀로로 [DVD] .3",
+          "authors": "이비에스교육방송",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9788809226722",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3168250",
+          "loan_count": "4798"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "명탐정 코난: 은빛 날개의 마술사 - 한국어 더빙판",
+          "authors": "야마모토 야스이치로 감독, 강수진 외 목소리",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2013-06-25",
+          "isbn13": "8809276102454",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6913",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672231",
+          "loan_count": "4437"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "모노노케 히메",
+          "authors": "미야자키 하야오 (Hayao Miyazaki) 감독, 다나카 유코 외 목소리",
+          "publisher": "대원DVD",
+          "publication_year": "2003-08-08",
+          "isbn13": "8809105873081",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671087",
+          "loan_count": "4334"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "겨울왕국 2",
+          "authors": "크리스 벅, 제니퍼 리 (감독), 크리스틴 벨, 이디나 멘젤 (Idina Menzel) (목소리)",
+          "publisher": "월트디즈니",
+          "publication_year": "2020",
+          "isbn13": "8809505725003",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/23589/76/cover/d692832663_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5647864",
+          "loan_count": "4183"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "미니언즈 - 한국어 더빙 수록",
+          "authors": "피에르 코팽 외 감독, 마이클 키튼 외 목소리",
+          "publisher": "유니버설픽쳐스",
+          "publication_year": "2015-11-27",
+          "isbn13": "8809462436769",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3026991",
+          "loan_count": "4174"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "고양이의 보은 [dts](2disc)",
+          "authors": "모리타 히로유키 감독",
+          "publisher": "대원DVD",
+          "publication_year": "2003-12-05",
+          "isbn13": "8809105873128",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671088",
+          "loan_count": "4005"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "찰리와 초콜릿 공장 (1disc)",
+          "authors": "팀 버튼 감독, 조니 뎁 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2013-05-10",
+          "isbn13": "8809360253581",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673126",
+          "loan_count": "3993"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "어바웃 타임 : 일반판",
+          "authors": "리처드 커티스 감독, 레이첼 맥애덤스 외 출연",
+          "publisher": "유니버설픽쳐스",
+          "publication_year": "2014-04-24",
+          "isbn13": "8809427208011",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646984",
+          "loan_count": "3922"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "넛잡: 땅콩 도둑들 - 한국어 더빙 수록",
+          "authors": "피터 레프니오티스, 박지윤 외",
+          "publisher": "아트서비스",
+          "publication_year": "2014-08-14",
+          "isbn13": "8809306455949",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672599",
+          "loan_count": "3917"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "토이 스토리 4 - 색칠 놀이(8p)",
+          "authors": "조시 쿨리 (감독), 톰 행크스, 팀 앨런, 애니 파츠, 토니 헤일 (목소리)",
+          "publisher": "월트디즈니",
+          "publication_year": "2019",
+          "isbn13": "8809505724815",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/22018/81/cover/d662831940_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5547022",
+          "loan_count": "3855"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "월-E (2disc)",
+          "authors": "앤드류 스탠튼 감독",
+          "publisher": "월트디즈니",
+          "publication_year": "2010-09-29",
+          "isbn13": "8809274082932",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672027",
+          "loan_count": "3755"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "어린왕자 - 한국어 더빙 수록",
+          "authors": "마크 오스본 감독, 제프 브리지스 외 목소리",
+          "publisher": "비디오여행",
+          "publication_year": "2016-05-25",
+          "isbn13": "8809270746791",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3173036",
+          "loan_count": "3716"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "몬스터 대학교 [디지털비디오디스크]",
+          "authors": "댄 스캔론 감독",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9788809362345",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2989288",
+          "loan_count": "3662"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "인크레더블 - 아웃케이스 없음",
+          "authors": "홀리 헌터, 사무엘 L. 잭슨, 크레이그 T. 넬슨 (출연), 브래드 버드 (감독)",
+          "publisher": "월트디즈니",
+          "publication_year": "2005",
+          "isbn13": "8809274082482",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/54/82/cover/3582430367_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2876633",
+          "loan_count": "3644"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "명탐정 코난: 수평선상의 음모 - 한국어 더빙판",
+          "authors": "야마모토 야스이치로 감독, 강수진 외 목소리",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2013-12-18",
+          "isbn13": "8809276102737",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672236",
+          "loan_count": "3634"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "명탐정 코난 천공의 난파선 =Detective Conan: The Lost Ship In The Sky",
+          "authors": "야마모토 야스이치로",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809276109",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3176155",
+          "loan_count": "3543"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "택시운전사 (2disc)",
+          "authors": "장훈 감독, 송강호 외 출연",
+          "publisher": "에프엔씨애드컬쳐",
+          "publication_year": "2018-01-26",
+          "isbn13": "8809505721920",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3702268",
+          "loan_count": "3410"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "이야기하며 종이접기 .[2] ,곤충",
+          "authors": "올챙이",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9788809254947",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "634.9",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3175169",
+          "loan_count": "3404"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "해리포터 7 : 죽음의 성물 1부 (2disc)",
+          "authors": "데이비드 예이츠 감독, 다니엘 래드클리프 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2011-04-15",
+          "isbn13": "8809323140019",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "688.2942",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672888",
+          "loan_count": "3251"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "라푼젤 - 아웃케이스 없음",
+          "authors": "나단 그레노 외 감독, 도나 머피 외 출연",
+          "publisher": "월트디즈니",
+          "publication_year": "2011-04-19",
+          "isbn13": "8809362340166",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673161",
+          "loan_count": "3234"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "극장판 명탐정 코난: 탐정들의 진혼가 - 한국어 더빙판",
+          "authors": "야마모토 야스이치로 감독, 강수진 외 목소리",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2014-07-10",
+          "isbn13": "8809276102850",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6913",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672237",
+          "loan_count": "3167"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "엄마의 유산 [디지털비디오디스크]",
+          "authors": "알렉세이 고를로프 감독",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9788809270749",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.24",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2989237",
+          "loan_count": "3077"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "설국열차 (3disc 디지팩)",
+          "authors": "봉준호 감독, 송강호 외 출연",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2014-07-24",
+          "isbn13": "8809306455307",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672576",
+          "loan_count": "3055"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "킹스맨: 시크릿 에이전트",
+          "authors": "매튜 본 감독, 콜린 퍼스 외 출연",
+          "publisher": "20세기폭스",
+          "publication_year": "2015-08-18",
+          "isbn13": "8809461421001",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673657",
+          "loan_count": "3048"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "신비아파트 : 금빛 도깨비와 비밀의 동굴",
+          "authors": "김병갑 (감독), 조현정, 김영은, 김채하 (목소리)",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2019",
+          "isbn13": "8809619412035",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/18685/77/cover/d482830906_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5399296",
+          "loan_count": "3046"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "명탐정 코난 : 천공의 난파선",
+          "authors": "야마모토 야스이치로 감독",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2010-12-15",
+          "isbn13": "8809276100733",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672205",
+          "loan_count": "2994"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "귀를 기울이면 (2disc)",
+          "authors": "미야자키 하야오 감독, 다카하시 이세이 외 목소리",
+          "publisher": "대원디지털엔터테인먼트",
+          "publication_year": "2008-05-10",
+          "isbn13": "8809105873951",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671098",
+          "loan_count": "2990"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "사도 : 일반판 (2disc)",
+          "authors": "이준익 감독, 송강호 외 출연",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2016-06-15",
+          "isbn13": "8809505720084",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3186320",
+          "loan_count": "2983"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "해리포터와 죽음의 성물 2부 - 일반판 (2disc)",
+          "authors": "데이비드 예이츠 감독, 다니엘 래드클리프 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2011-11-25",
+          "isbn13": "8809323149029",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "688.2942",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672941",
+          "loan_count": "2971"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "캡틴 아메리카: 시빌 워",
+          "authors": "크리스 에반스, 로버트 다우니 주니어, 스칼렛 요한슨, 세바스찬 스탠 (출연), 조 루소, 앤소니 루소 (감독)",
+          "publisher": "월트디즈니",
+          "publication_year": "2016",
+          "isbn13": "8809505720527",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/9424/75/cover/d282735973_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3387073",
+          "loan_count": "2931"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "토르: 라그나로크",
+          "authors": "타이카 와이티티 감독, 케이트 블란쳇 외 출연",
+          "publisher": "월트디즈니",
+          "publication_year": "2018-03-21",
+          "isbn13": "8809505722033",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3734736",
+          "loan_count": "2925"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "악의 연대기 [디지털비디오디스크]",
+          "authors": "백운학 감독",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9788809306455",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.21",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2989234",
+          "loan_count": "2900"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "명탐정 코난 : 침묵의 15분",
+          "authors": "시즈노 코분 감독",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2012-02-02",
+          "isbn13": "8809276100986",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672208",
+          "loan_count": "2867"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "변호인 : 일반판 (2disc)",
+          "authors": "양우석 감독, 송강호 외 출연",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2014-08-20",
+          "isbn13": "8809362346663",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673327",
+          "loan_count": "2798"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "어벤져스 : 엔드게임 - 속지",
+          "authors": "앤소니 루소, 조 루소 (감독), 로버트 다우니 주니어, 크리스 에반스, 크리스 헴스워스, 스칼렛 요한슨, 마크 러팔로, 제레미 레너, 폴 러드, 돈 치들, 브리 라슨, 카렌 길런, 브래들리 쿠퍼, 조쉬 브롤린 (출연)",
+          "publisher": "월트디즈니",
+          "publication_year": "2019",
+          "isbn13": "8809505724426",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/20636/73/cover/d022831704_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5481088",
+          "loan_count": "2665"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "몬스터 호텔 3",
+          "authors": "겐디타르타코프스키 (감독), 아담 샌들러, 셀레나 고메즈 (목소리)",
+          "publisher": "소니픽쳐스",
+          "publication_year": "2018",
+          "isbn13": "8809461429892",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/17100/47/cover/d572839451_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5244261",
+          "loan_count": "2650"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "꼬마 유령 : 한국어 더빙판",
+          "authors": "알랑 그스포너 감독, 여민정 외 목소리",
+          "publisher": "비디오가게",
+          "publication_year": "2015-10-01",
+          "isbn13": "8809276103581",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3030786",
+          "loan_count": "2628"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "코렐라인:비밀의 문 ",
+          "authors": "헨리 셀릭 감독",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "8809306508287",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672683",
+          "loan_count": "2627"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "코쿠리코 언덕에서 (2disc)",
+          "authors": "미야자키 고로 감독, 오카다 준이치 외 목소리, 미야자키 하야오",
+          "publisher": "대원DVD",
+          "publication_year": "2012-08-30",
+          "isbn13": "8809105879618",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671125",
+          "loan_count": "2611"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "괴물의 아이 - 한국어 더빙 수록",
+          "authors": "호소다 마모루 감독, 야쿠쇼 코지 외 목소리",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2016-05-18",
+          "isbn13": "8809276105097",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3187318",
+          "loan_count": "2572"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "신비아파트 444호",
+          "authors": "김병갑 (감독), 조현정, 김영은, 김채하 (목소리)",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2018",
+          "isbn13": "8809619411502",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/17399/23/cover/d462830364_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5339292",
+          "loan_count": "2554"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "(바람 계곡의)나우시카",
+          "authors": "미야자키 하야오 감독",
+          "publisher": "",
+          "publication_year": "2004",
+          "isbn13": "9789105873177",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2850171",
+          "loan_count": "2495"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "히든 피겨스",
+          "authors": "타라지 P. 헨슨, 자넬 모네 (Janelle Monae), 옥타비아 스펜서 (출연), 테오도르 멜피 (감독)",
+          "publisher": "20세기폭스",
+          "publication_year": "2017",
+          "isbn13": "8809461427157",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/11329/20/cover/d202735754_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3540657",
+          "loan_count": "2484"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "창문 넘어 도망친 100세 노인",
+          "authors": "펠릭스 헤른그렌 감독, 로베르트 구스타프손 외 출연",
+          "publisher": "콘텐츠게이트",
+          "publication_year": "2015-01-07",
+          "isbn13": "8809333430476",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672981",
+          "loan_count": "2468"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "점박이: 한반도의 공룡",
+          "authors": "한상호 감독, 구자형 외 목소리",
+          "publisher": "이엔이미디어",
+          "publication_year": "2013-03-28",
+          "isbn13": "8809036445562",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2670864",
+          "loan_count": "2458"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "뽀로로 극장판 : 보물섬 대모험",
+          "authors": "김현호, 윤창섭 (감독), 이선, 이미자, 김현지, 홍소영, 정미숙, 김환진, 남도형 (목소리)",
+          "publisher": "SM LDG",
+          "publication_year": "2020",
+          "isbn13": "8809505724969",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/22934/41/cover/d212831358_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5596774",
+          "loan_count": "2454"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "주사위 게임 : 동물 친구들과 함께",
+          "authors": "마리 포르닥 (지은이), 마리옹 퓌에크 (그림), 최정수 (옮긴이)",
+          "publisher": "보림",
+          "publication_year": "2020",
+          "isbn13": "8809019513516",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "691.54",
+          "class_nm": "예술 > 오락, 운동 > 오락",
+          "bookImageURL": "https://image.aladin.co.kr/product/23575/74/cover/k422638222_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5650416",
+          "loan_count": "2426"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "세얼간이 - 인도판",
+          "authors": "라지쿠마르 히라니 감독, 마드하반 외 출연",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2011-12-29",
+          "isbn13": "8809306450654",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672434",
+          "loan_count": "2373"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "해리포터 5 : 불사조 기사단 (2disc) - 할인행사",
+          "authors": "데이빗 예이츠 감독, 다니엘 래드클리프 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2007-12-01",
+          "isbn13": "8809323140071",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672894",
+          "loan_count": "2363"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "너의 췌장을 먹고 싶어 - 부클릿(12p)",
+          "authors": "츠키카와 쇼 감독, 오구리 슌 외 출연",
+          "publisher": "알스컴퍼니",
+          "publication_year": "2018-04-17",
+          "isbn13": "8809495331369",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3745567",
+          "loan_count": "2341"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "업 (1disc)",
+          "authors": "피트 닥터 감독, 이순재 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2012-12-12",
+          "isbn13": "8809362340234",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673167",
+          "loan_count": "2336"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "나우 유 씨 미 : 마술사기단",
+          "authors": "루이 르테리에 감독, 마크 러팔로 외 출연",
+          "publisher": "데이지 앤 시너지(D&C)",
+          "publication_year": "2013-12-11",
+          "isbn13": "8809365390342",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673377",
+          "loan_count": "2317"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "명탐정 코난:베이커가의 망령",
+          "authors": "코다마 켄지 감독",
+          "publisher": "",
+          "publication_year": "2008",
+          "isbn13": "8809276102683",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2996041",
+          "loan_count": "2288"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "발레리나 - 아웃케이스 없음",
+          "authors": "엘르 패닝, 데인 드한, 매디 지글러 (목소리), 에릭 섬머, 에릭 와린 (감독)",
+          "publisher": "인조인간",
+          "publication_year": "2017",
+          "isbn13": "8809520440813",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/11471/19/cover/d352735259_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3540658",
+          "loan_count": "2277"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "드래곤 길들이기 2",
+          "authors": "딘 데블로이스 (감독), 제라드 버틀러, 제이 바루첼, 케이트 블란쳇, 아메리카 페레라, 크레이그 퍼거슨, 조나 힐 (목소리)",
+          "publisher": "유니버설픽쳐스",
+          "publication_year": "2019",
+          "isbn13": "8809549668953",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/17942/96/cover/d112830489_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5370936",
+          "loan_count": "2267"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "마션 [비디오 녹화자료]",
+          "authors": "Scott, Ridley",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809461420",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.24",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3336651",
+          "loan_count": "2257"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "종이접기 동물원 - 가위 없이 색종이 한 장으로 만드는",
+          "authors": "후지모토 무네지 (지은이), 김현영 (옮긴이)",
+          "publisher": "봄봄스쿨",
+          "publication_year": "2022",
+          "isbn13": "8809332974117",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "634.9",
+          "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+          "bookImageURL": "https://image.aladin.co.kr/product/29621/69/cover/k602838371_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6488551",
+          "loan_count": "2226"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "명탐정 코난 : 제로의 집행인",
+          "authors": "타치카와 유즈루 (감독), 김선혜, 이현진, 이정구 (목소리)",
+          "publisher": "버즈픽쳐스",
+          "publication_year": "2019",
+          "isbn13": "8809276108593",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/19541/21/cover/d012830525_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5452360",
+          "loan_count": "2207"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "가디언즈 - 한국어 더빙 수록",
+          "authors": "피터 램지 감독, 알렉 볼드윈 외 목소리",
+          "publisher": "파라마운트",
+          "publication_year": "2013-05-28",
+          "isbn13": "8809380193096",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673418",
+          "loan_count": "2166"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "터키 - 한국어 더빙 수록",
+          "authors": "지미 헤이워드 감독, 오웬 윌슨 외 목소리",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2014-12-24",
+          "isbn13": "8809362347165",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673345",
+          "loan_count": "2108"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "해리포터 8 Film Collection (16disc) : 부가영상 1,220분 가량",
+          "authors": "엠마 왓슨, 루퍼트 그린트, 다니엘 래드클리프 (출연), 마이크 뉴웰, 크리스 콜럼버스, 알폰소 쿠아론 (감독)",
+          "publisher": "워너브라더스",
+          "publication_year": "2016",
+          "isbn13": "8809462432792",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/9271/81/cover/d572735469_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3387072",
+          "loan_count": "2097"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "나는 아들을 사랑하지 않는다 [DVD]",
+          "authors": "안드레센, 아릴드",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9788809602687",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3844763",
+          "loan_count": "2070"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "토르:다크 월드",
+          "authors": "앨런 테일러 감독",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "8809362344881",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673289",
+          "loan_count": "2062"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "곰돌이 푸 다시 만나 행복해 - 속지",
+          "authors": "마크 포스터 (감독), 이완 맥그리거, 헤일리 앳웰, 마크 게티스 (출연), 짐 커밍스 (목소리)",
+          "publisher": "월트디즈니",
+          "publication_year": "2018",
+          "isbn13": "8809505722910",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/17428/19/cover/d212830461_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5338518",
+          "loan_count": "2048"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "마야 - 한국어 더빙 수록",
+          "authors": "알렉스 슈타더만 감독, 김서영 외 목소리",
+          "publisher": "아트서비스",
+          "publication_year": "2015-04-30",
+          "isbn13": "8809306456939",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672625",
+          "loan_count": "2046"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "명탐정 코난:칠흑의 추적자",
+          "authors": "야마모토 야스이치로 감독",
+          "publisher": "팬텀",
+          "publication_year": "2009-12-16",
+          "isbn13": "8809276100108",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672196",
+          "loan_count": "2039"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "해리포터 7 : 죽음의 성물 1부 (2disc)",
+          "authors": "데이비드 예이츠 감독, 다니엘 래드클리프 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2011-04-15",
+          "isbn13": "8809323140019",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2942",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672888",
+          "loan_count": "2025"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "온워드 : 단 하루의 기적",
+          "authors": "댄 스캔론 (감독), 톰 홀랜드, 크리스 프랫, 줄리아 루이스 드레이퍼스 (목소리)",
+          "publisher": "월트디즈니",
+          "publication_year": "2020",
+          "isbn13": "8809505725454",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/24870/50/cover/d982832004_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5746282",
+          "loan_count": "2013"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "무민가족의 한여름 대소동 : 한국어 더빙판",
+          "authors": "마리아 린드버그 감독",
+          "publisher": "미디어허브",
+          "publication_year": "2014-05-21",
+          "isbn13": "8809270741246",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671899",
+          "loan_count": "2012"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "카3: 새로운 도전",
+          "authors": "브라이언 피 감독, 보니 헌트 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2017-12-13",
+          "isbn13": "8809505721852",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3680591",
+          "loan_count": "1980"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "빌리 엘리어트 SE",
+          "authors": "스티븐 달드리 감독, 게리 루이스 외 출연",
+          "publisher": "블루",
+          "publication_year": "2010-10-22",
+          "isbn13": "8809154131828",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2942",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671309",
+          "loan_count": "1974"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "알라딘 (2disc) - 한국어 더빙 수록",
+          "authors": "론 클레멘츠 외 감독, 로빈 윌리엄스 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2013-05-01",
+          "isbn13": "8809362342009",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673214",
+          "loan_count": "1957"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "업 - 아웃케이스 없음",
+          "authors": "피트 닥터 감독",
+          "publisher": "월트디즈니",
+          "publication_year": "2009-12-02",
+          "isbn13": "8809274083489",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672039",
+          "loan_count": "1953"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "극한직업 (2disc) - 인쇄사인엽서(6종)",
+          "authors": "이병헌 (감독), 류승룡, 이하늬, 진선규, 이동휘, 공명 (출연)",
+          "publisher": "CJ 엔터테인먼트",
+          "publication_year": "2019",
+          "isbn13": "8809520441933",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/20561/57/cover/d612831595_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5480980",
+          "loan_count": "1929"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "캐치! 티니핑 캐릭터도감",
+          "authors": "도티도그 편집부 (지은이)",
+          "publisher": "도티도그",
+          "publication_year": "2024",
+          "isbn13": "8809854312855",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "657",
+          "class_nm": "예술 > 회화, 도화 > 만화, 삽화",
+          "bookImageURL": "https://image.aladin.co.kr/product/34238/96/cover200/k802931335_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6905502",
+          "loan_count": "1921"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "관상 : 일반판 (2disc)",
+          "authors": "한재림 감독, 송강호 외 출연",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2014-02-07",
+          "isbn13": "8809362345017",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673292",
+          "loan_count": "1909"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "마이펫의 이중생활2",
+          "authors": "크리스 리노드, 조나단 델 발 (감독), 페튼 오스월트, 에릭 스톤스트리트, 제니 슬레이트, 케빈 하트, 티파니 하디쉬, 레이크 벨 (목소리)",
+          "publisher": "유니버설픽쳐스",
+          "publication_year": "2019",
+          "isbn13": "8809639452011",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/20827/67/cover/d042831712_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5506031",
+          "loan_count": "1880"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "극장판 도라에몽 : 진구의 공룡대탐험",
+          "authors": "와타나베 아유무 감독, 김성연 외 목소리",
+          "publisher": "덕슨미디어",
+          "publication_year": "2009-12-30",
+          "isbn13": "8809105879069",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671106",
+          "loan_count": "1871"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "해적: 바다로 간 산적 - 초회한정판 (2disc+52p 화보집)",
+          "authors": "이석훈 감독, 김남길 외 출연",
+          "publisher": "비디오여행",
+          "publication_year": "2015-02-04",
+          "isbn13": "8809270743004",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2671955",
+          "loan_count": "1859"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "레고 DC코믹스 슈퍼히어로 저스티스 리그 :둠 군단의 공격! [디지털비디오디스크]",
+          "authors": "릭 모럴스 감독",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809462434",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2989238",
+          "loan_count": "1853"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "레고 DC 슈퍼히어로: 플래시",
+          "authors": "에단 스폴딩 감독, 제임스 아놀드 테일러 외 목소리",
+          "publisher": "워너브라더스",
+          "publication_year": "2018-03-15",
+          "isbn13": "8809549662463",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3734744",
+          "loan_count": "1833"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "토이 스토리: 공포의 대탈출 - 한국어 더빙 수록",
+          "authors": "앵거스 맥레인 감독, 톰 행크스 외 목소리",
+          "publisher": "월트디즈니",
+          "publication_year": "2014-09-24",
+          "isbn13": "8809362346755",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673331",
+          "loan_count": "1825"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "그렇게 아버지가 된다 - 아웃케이스 없음",
+          "authors": "고레에다 히로카즈 감독, 오노 마치코 외 출연",
+          "publisher": "아트서비스",
+          "publication_year": "2014-06-19",
+          "isbn13": "8809306455277",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672575",
+          "loan_count": "1799"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "엑스맨 : 아포칼립스",
+          "authors": "제임스 맥어보이, 오스카 아이삭, 마이클 패스벤더, 제니퍼 로렌스 (출연), 브라이언 싱어 (감독)",
+          "publisher": "20세기폭스",
+          "publication_year": "2016",
+          "isbn13": "8809461425306",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.25 ",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/9404/66/cover/d382735877_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3390918",
+          "loan_count": "1775"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "앵그리버드 더 무비 - 한국어 더빙 수록",
+          "authors": "대니 맥브라이드, 조시 개드, 제이슨 서디키스 (목소리), 퍼갈 라일리, 클레이 케이티스 (감독)",
+          "publisher": "소니픽쳐스",
+          "publication_year": "2016",
+          "isbn13": "8809461424965",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "https://image.aladin.co.kr/product/8936/29/cover/d552634254_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3354027",
+          "loan_count": "1753"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "개구쟁이 스머프 2 - 한국어 더빙 수록",
+          "authors": "라자 고스넬 감독, 행크 아자리아 외 목소리",
+          "publisher": "소니픽쳐스",
+          "publication_year": "2013-11-26",
+          "isbn13": "8809380199012",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673510",
+          "loan_count": "1750"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "모노노케 히메 [디지털비디오디스크]",
+          "authors": "미야자키 하야오 감독",
+          "publisher": "",
+          "publication_year": "2008",
+          "isbn13": "9788809105874",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2989287",
+          "loan_count": "1733"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "덩케르크 SE: 초도한정판 (2disc)",
+          "authors": "크리스토퍼 놀란 감독, 톰 하디 외 출연",
+          "publisher": "워너브라더스",
+          "publication_year": "2017-12-18",
+          "isbn13": "8809549661534",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3675851",
+          "loan_count": "1726"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "타잔 - 한국어 더빙 수록",
+          "authors": "라인하르트 클루스 감독, 스펜서 로크 외 목소리",
+          "publisher": "아트서비스",
+          "publication_year": "2014-07-03",
+          "isbn13": "8809306455680",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.6",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672591",
+          "loan_count": "1723"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "더 기버: 기억전달자",
+          "authors": "필립 노이스 감독, 메릴 스트립 외 출연",
+          "publisher": "캔들미디어",
+          "publication_year": "2015-02-25",
+          "isbn13": "8809308187756",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2672810",
+          "loan_count": "1721"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "7번방의 선물 (1disc)",
+          "authors": "이환경 감독, 박신혜 외 출연",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2013-08-23",
+          "isbn13": "8809362342382",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "688.2",
+          "class_nm": "예술 > 연극 > 영화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673233",
+          "loan_count": "1706"
+        }
+      }
+    ]
+  }
+}

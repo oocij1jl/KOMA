@@ -1,0 +1,21 @@
+{
+  "isbn": "9791192300818",
+  "status": "error",
+  "error_code": "d4l_incomplete",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ],
+  "generated_at": "2026-10-01T14:58:13.988430+09:00",
+  "deferred": false
+}

@@ -1,0 +1,266 @@
+{
+  "isbn": "9791195677108",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791195677108"
+          },
+          {
+            "code": "g",
+            "value": "03100"
+          },
+          {
+            "code": "c",
+            "value": "₩15000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "시민의 교양"
+          },
+          {
+            "code": "b",
+            "value": "지금, 여기, 보통 사람들을 위한 현실 인문학"
+          },
+          {
+            "code": "d",
+            "value": "채사장"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "(주)웨일북"
+          },
+          {
+            "code": "c",
+            "value": "2015"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "348 p."
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 크기 근거 없음 또는 단위·가로/세로 미확인 — 원문 검수 필요: '신국판 변형(148*210)'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "001.3"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "채사장"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명 채사장을 확인하여 700 부출표목으로 생성"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "지식"
+          },
+          {
+            "code": "a",
+            "value": "시민"
+          },
+          {
+            "code": "a",
+            "value": "인문학"
+          },
+          {
+            "code": "a",
+            "value": "현실"
+          },
+          {
+            "code": "a",
+            "value": "사회"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "keywords",
+            "description"
+          ],
+          "keywords_used": [
+            "지식",
+            "시민",
+            "인문학",
+            "현실",
+            "사회"
+          ],
+          "reasoning": "가중치 상위 키워드 중 서지요소와 중복되지 않는 주제어를 최소 정제하여 653으로 제안"
+        },
+        "note": ""
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "원저작 정보 미확정: 500 생성 금지"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거가 없으면 710을 만들지 않는다"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "546은 단일 언어 추정만으로 생성하지 않는 것이 원칙이므로 검수 필요",
+      "653 색인어는 키워드 기반 추론이므로 반드시 검수",
+      "546 언어주기 입력 근거 부족으로 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-01T14:53:55.640943+09:00",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ],
+  "validation": {
+    "valid": true,
+    "error_count": 0,
+    "warning_count": 1,
+    "errors": [],
+    "warnings": [
+      {
+        "field": "056",
+        "message": "[056] AI 생성 필드입니다. 사서 검수가 필요합니다."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "9",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156390428",
+          "addition_symbol": "14990",
+          "vol": "8",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704859",
+          "loan_count": "1692"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156390428",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704859",
+          "loan_count": "1350"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "잘란잘란 말레이시아 =장우혜 여행수필 /Jalan-jalan Malaysia ",
+          "authors": "글과 사진: 장우혜",
+          "publisher": "지구라는별",
+          "publication_year": "2017",
+          "isbn13": "9780944851470",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "981.4602",
+          "class_nm": "역사 > 지리 > 아시아지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/11812/38/cover/scm5198245569689.png",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3412420",
+          "loan_count": "1077"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156390428",
+          "addition_symbol": "14990",
+          "vol": "3",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704859",
+          "loan_count": "727"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "추천! 가볼 만한 곳:대한민국 구석구석 100",
+          "authors": "한국관광공사",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789789811137",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "981.102",
+          "class_nm": "역사 > 지리 > 아시아지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3884980",
+          "loan_count": "600"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "두근두근 한국사 : 선사 시대부터 조선 중기까지",
+          "authors": "김종엽;박찬희;배성호 글;김한종 감수",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9798963721927",
+          "addition_symbol": "74910",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3143103",
+          "loan_count": "437"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "Sapiens Graphic Novel : Volume 1 (Hardcover) - '사피엔스 : 그래픽 히스토리 Vol.1 - 인류의 탄생' 원서",
+          "authors": "Yuval Noah Harari, 유발 하라리 (지은이), David Vanderneulen (엮은이), David Casanave (그림)",
+          "publisher": "Vintage Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781787332812",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/25166/14/cover/1787332810_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5927896",
+          "loan_count": "407"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "Cub (Paperback)",
+          "authors": "Cynthia L. Copeland (지은이)",
+          "publisher": "Algonquin Young Readers",
+          "publication_year": "2020",
+          "isbn13": "9781616208486",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "990",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/17674/5/cover/1616208481_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5667674",
+          "loan_count": "395"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "(어진 임금)세종대왕:훈민정음을 펴다  =",
+          "authors": "진복희 글;장혜련 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9786000440800",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6631159",
+          "loan_count": "384"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "노래하는 세계지도 :6대륙 동요가 들어 있어요! ",
+          "authors": "글: 책마중 ;음악: 그레이스밸리",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "8809477870329",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "989",
+          "class_nm": "역사 > 지리 > 지도 및 지도책",
+          "bookImageURL": "http://image.aladin.co.kr/product/10660/43/cover/k312530343_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3427832",
+          "loan_count": "359"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "Son Heung-min (Ultimate Football Heroes - the No. 1 football series) : Collect them all! (Paperback)",
+          "authors": "Matt & Tom Oldfield (지은이)",
+          "publisher": "John Blake Publishing Ltd",
+          "publication_year": "2021",
+          "isbn13": "9781789464719",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998.69",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/26415/53/cover/1789464714_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6484730",
+          "loan_count": "357"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "해적선의 보물은 누가 찾을까?",
+          "authors": "김호경;어린이독서연구원 지음",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781186966045",
+          "addition_symbol": "73400",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3132455",
+          "loan_count": "346"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Avoid being a Skyscraper Builder!",
+          "authors": "written by John Malam;illustrated by David Antram",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9781906370961",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720038",
+          "loan_count": "302"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "King Sejong Invents an Alphabet (Hardcover)",
+          "authors": "Carol Kim (지은이), Cindy Kang (그림)",
+          "publisher": "Albert Whitman & Company",
+          "publication_year": "2021",
+          "isbn13": "9780807541616",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "990",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/26579/96/cover/0807541613_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6353496",
+          "loan_count": "297"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "조선왕조실톡 1 (조선 패밀리의 탄생)",
+          "authors": "무적핑크|이한",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781195434078",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "911.05",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705623",
+          "loan_count": "261"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "무작정 따라하기 타이베이 : 타이완 북부",
+          "authors": "이진경 지음",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781186978833",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "981.2402",
+          "class_nm": "역사 > 지리 > 아시아지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3149242",
+          "loan_count": "258"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "나홀로 여행:두근두근 혼자 떠나는 일본여행",
+          "authors": "다카기 나오코 글,그림;윤지은 옮김",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9798952228871",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "981.302",
+          "class_nm": "역사 > 지리 > 아시아지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2866582",
+          "loan_count": "248"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Sapiens: A Brief History of Humankind (Paperback)",
+          "authors": "유발 하라리 (지은이)",
+          "publisher": "Perennial",
+          "publication_year": "2018",
+          "isbn13": "9780062316110",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/5998/26/cover/0062316117_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5392461",
+          "loan_count": "243"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "Around The World We Go",
+          "authors": "by Margaret Wise Brown",
+          "publisher": "Parragon",
+          "publication_year": "2012",
+          "isbn13": "9781472302809",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "980",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2425189",
+          "loan_count": "240"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "My Mum ",
+          "authors": "byBeth shoshan ; illustrated by Jacqueline East",
+          "publisher": "Meadowside Children's Books",
+          "publication_year": "2010-01-31",
+          "isbn13": "9781845392680",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "980",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2718215",
+          "loan_count": "237"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "Abe Lincoln",
+          "authors": "by Kay Winters",
+          "publisher": "Scholastic",
+          "publication_year": "2005",
+          "isbn13": "9780439730679",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507238",
+          "loan_count": "232"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "땅, 땅, 땅을 넓혀라",
+          "authors": "김용만",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040063900000",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620932",
+          "loan_count": "225"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "22",
+          "bookname": "The People Awards (Hardcover)",
+          "authors": "Lily Murray (지은이), 안나 알베로 (그림)",
+          "publisher": "Frances Lincoln Children's Bks",
+          "publication_year": "2018",
+          "isbn13": "9781786030641",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "990",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/13409/40/cover/1786030640_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5443723",
+          "loan_count": "225"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "(Who?) 김연아",
+          "authors": "오영석 글;라임 스튜디오 그림;송인섭 추천",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9786000725488",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2728814",
+          "loan_count": "224"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Avoid working on the Statue of Liberty!",
+          "authors": "written by John Malam;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906370206",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720033",
+          "loan_count": "214"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Avoid Being a Samurai! (Paperback)",
+          "authors": "Fiona MacDonald",
+          "publisher": "Book House",
+          "publication_year": "2009-07-07",
+          "isbn13": "9781906714161",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720057",
+          "loan_count": "211"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "(Who?)박지원",
+          "authors": "김현수 글;정병훈 그림",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781156393130",
+          "addition_symbol": "14990",
+          "vol": "14",
+          "class_no": "911.05",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3217938",
+          "loan_count": "209"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "27",
+          "bookname": "L. M. Montgomery (Hardcover)",
+          "authors": "Isabel Sanchez Vegara (지은이), Anuska Allepuz (그림)",
+          "publisher": "Frances Lincoln Children's Bks",
+          "publication_year": "2018",
+          "isbn13": "9781786032331",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "https://image.aladin.co.kr/product/13409/40/cover/1786032333_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5231648",
+          "loan_count": "209"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "27",
+          "bookname": "Messi (Ultimate Football Heroes - the No. 1 football series) : Collect them all! (Paperback)",
+          "authors": "Tom Oldfield, MATT OLDFIELD (지은이)",
+          "publisher": "John Blake",
+          "publication_year": "2017",
+          "isbn13": "9781786064035",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998.695",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/10798/67/cover/1786064030_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6064392",
+          "loan_count": "209"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Avoid working on the Statue of Liberty!",
+          "authors": "written by John Malam;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906370206",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720033",
+          "loan_count": "205"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "30",
+          "bookname": "Story of the World, Vol. 4 Revised Edition: History for the Classical Child: The Modern Age (Paperback, 2, Revised)",
+          "authors": "수잔 와이즈 바우어, West, FRETTO (지은이)",
+          "publisher": "W. W. Norton & Company",
+          "publication_year": "2021",
+          "isbn13": "9781945841903",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/23977/90/cover/1945841907_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6313372",
+          "loan_count": "205"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Avoid flying on the Hindenburg!",
+          "authors": "written by Ian Graham;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906370985",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720039",
+          "loan_count": "201"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "강한 나라 고구려의 비결은?",
+          "authors": "김용만",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040083900000",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620934",
+          "loan_count": "197"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "(A)Picture book of Jesse Owens",
+          "authors": "by David A. Adler",
+          "publisher": "Scholastic inc",
+          "publication_year": "1992",
+          "isbn13": "9780590494397",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "994.2",
+          "class_nm": "역사 > 전기 > 북아메리카",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2525197",
+          "loan_count": "196"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "Avoid Working on a Victorian Bridge! (Paperback)",
+          "authors": "Tom Ratliff",
+          "publisher": "Book House",
+          "publication_year": "2010-01-29",
+          "isbn13": "9781906714123",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720055",
+          "loan_count": "195"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156390428",
+          "addition_symbol": "14990",
+          "vol": "1",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704859",
+          "loan_count": "188"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "36",
+          "bookname": "(신비아파트) 고스트 탐험대",
+          "authors": "임우영 글 ;카툰TM; 오윤미 [공]그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789788926375",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "980.24",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5512585",
+          "loan_count": "188"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "나라의 운명을 걸고 수·당과 싸우다",
+          "authors": "김용만",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040073900000",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620933",
+          "loan_count": "186"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "38",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789788926382",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5490204",
+          "loan_count": "186"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "네 죄를 네가 알렷다!:우리 역사 속 죄와 벌",
+          "authors": "장경원 글;이경석 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781185494593",
+          "addition_symbol": "74910",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705239",
+          "loan_count": "184"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Avoid Being a Tudor Actor in Shakespeare's Theatre! (Paperback)",
+          "authors": "Jacqueline Morley",
+          "publisher": "Book House",
+          "publication_year": "2010-08-01",
+          "isbn13": "9781906714185",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720058",
+          "loan_count": "183"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "용선생 만화 한국사. 7  :조선시대Ⅰ",
+          "authors": "이홍석",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9785664359150",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3853931",
+          "loan_count": "182"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "Avoid being in the great fire of London!",
+          "authors": "written by Jim Pipe;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906714673",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720065",
+          "loan_count": "179"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "My first book of New York ",
+          "authors": "Ingela P. Arrhenius",
+          "publisher": "Walker Books Us",
+          "publication_year": "2019",
+          "isbn13": "9781536209907",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "942",
+          "class_nm": "역사 > 북아메리카(북미) > 미국",
+          "bookImageURL": "https://image.aladin.co.kr/product/18028/78/cover/1536209902_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5533623",
+          "loan_count": "177"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "44",
+          "bookname": "Avoid being a Skyscraper Builder!",
+          "authors": "written by John Malam;illustrated by David Antram",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9781906370961",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720038",
+          "loan_count": "177"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "What Was the Ice Age? (Paperback, DGS)",
+          "authors": "Nicolas David Medina (지은이), David Groff (그림)",
+          "publisher": "Penguin Workshop",
+          "publication_year": "2017",
+          "isbn13": "9780399543890",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/10117/13/cover/0399543899_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5677070",
+          "loan_count": "174"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "46",
+          "bookname": "6·25전쟁:6·25전쟁에서 휴전협정까지",
+          "authors": "양영조 글;금창연 그림;정현정 만화",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9798998443146",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3393800",
+          "loan_count": "174"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "Sapiens: A Graphic History, Volume 2: The Pillars of Civilization - 사피엔스 그래픽 노블 Vol 2",
+          "authors": "Yuval Noah Harari, 유발 하라리 (지은이)",
+          "publisher": "HarperPerennial",
+          "publication_year": "2021",
+          "isbn13": "9780063212237",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/27360/54/cover/0063212234_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6345271",
+          "loan_count": "173"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "선비의 방에 놀러가요?",
+          "authors": "윤열수;이호백 [공]글",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789788986560",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2959045",
+          "loan_count": "171"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156391586",
+          "addition_symbol": "14990",
+          "vol": "8",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3049252",
+          "loan_count": "170"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "50",
+          "bookname": "Avoid flying on the Hindenburg!",
+          "authors": "written by Ian Graham;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906370985",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720039",
+          "loan_count": "170"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "(교과서인물로 배우는 우리역사)LIVE 한국사",
+          "authors": "글: 윤상석;그림: 김기수;학습.감수:이지은",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781125913375",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5564012",
+          "loan_count": "169"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Live 한국사",
+          "authors": "이준범 글;인진호 그림",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781125913382",
+          "addition_symbol": "74910",
+          "vol": "2",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3165197",
+          "loan_count": "168"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "History Smashers: The Titanic (Paperback)",
+          "authors": "케이트 메스너 (지은이), 딜런 메코니스 (그림)",
+          "publisher": "Random House Books for Young Readers",
+          "publication_year": "2021",
+          "isbn13": "9780593120439",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "942",
+          "class_nm": "역사 > 북아메리카(북미) > 미국",
+          "bookImageURL": "https://image.aladin.co.kr/product/24399/46/cover/0593120434_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6366901",
+          "loan_count": "166"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "(Who?)앤디 워홀=Andy Warhol",
+          "authors": "스튜디오 해닮 글그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9978896370615",
+          "addition_symbol": "14990",
+          "vol": "34",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2867259",
+          "loan_count": "163"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "Everything & Everywhere: A Fact-Filled Adventure for Curious Globe-Trotters (Hardcover)",
+          "authors": "마크 마틴 (지은이)",
+          "publisher": "Chronicle Books",
+          "publication_year": "2018",
+          "isbn13": "9781452165141",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/12844/11/cover/1452165149_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5411766",
+          "loan_count": "160"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "56",
+          "bookname": "What Was the Bombing of Hiroshima? (Paperback, DGS)",
+          "authors": "Jess M. Brallier, Who Hq (지은이), Tim Foley (그림)",
+          "publisher": "Penguin Workshop",
+          "publication_year": "2020",
+          "isbn13": "9781524792657",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/19629/60/cover/1524792659_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5677069",
+          "loan_count": "160"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Awful Egyptians (Paperback)",
+          "authors": "테리 디어리 (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2021",
+          "isbn13": "9780702311277",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6443786",
+          "loan_count": "158"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "(The) boy whose head was filled with stars :a life of Edwin Hubble ",
+          "authors": "words by Isabelle Marinov ;pictures by Deborah Marcero",
+          "publisher": "Enchanted Lion Books",
+          "publication_year": "2021",
+          "isbn13": "9781592703173",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998.4",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/23250/84/cover/1592703178_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5946536",
+          "loan_count": "157"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Avoid being in the great fire of London!",
+          "authors": "written by Jim Pipe;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906714673",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720065",
+          "loan_count": "152"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Avoid Being a Tudor Actor in Shakespeare's Theatre! (Paperback)",
+          "authors": "Jacqueline Morley",
+          "publisher": "Book House",
+          "publication_year": "2010-08-01",
+          "isbn13": "9781906714185",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720058",
+          "loan_count": "151"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Jane Goodall ",
+          "authors": "written by Maria Isabel Sánchez Vegara ;illustrated by Beatrice Cerocchi",
+          "publisher": "Frances Lincoln Children's Bks",
+          "publication_year": "2018",
+          "isbn13": "9781786032317",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "https://image.aladin.co.kr/product/13409/40/cover/1786032317_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5231646",
+          "loan_count": "149"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(교양있는 우리아이를 위한) 세계역사 이야기",
+          "authors": "수잔 와이어 바우어 지음;이계정 옮김;정병수 그림",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "6788931380088",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3268010",
+          "loan_count": "148"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "(Who?)노무현",
+          "authors": "스튜디오 청비 글·그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781156391609",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5489264",
+          "loan_count": "144"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "(Who?)박지성",
+          "authors": "카툰박스 글;툰쟁이 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781156390428",
+          "addition_symbol": "14990",
+          "vol": "4",
+          "class_no": "990.8",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704859",
+          "loan_count": "143"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "이성계, 새 나라를 세우다",
+          "authors": "강문식",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040323900000",
+          "addition_symbol": "",
+          "vol": "32",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620958",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "66",
+          "bookname": "走埃及",
+          "authors": "裴芳;盛? [共]?著",
+          "publisher": "",
+          "publication_year": "2013",
+          "isbn13": "9787563717460",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "932",
+          "class_nm": "역사 > 아프리카 > 이집트",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3040313",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "66",
+          "bookname": "무쇠를 가진 자, 권력을 잡다",
+          "authors": "이영희 지음",
+          "publisher": "현암사",
+          "publication_year": "2007",
+          "isbn13": "9789788932314",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2539588",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "MANFISH, A STORY OF JACQUES COUSTEAU (Paperback)",
+          "authors": "by Jennifer Berne",
+          "publisher": "",
+          "publication_year": "2008-01-01",
+          "isbn13": "9780545265577",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998.53",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2694700",
+          "loan_count": "140"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "69",
+          "bookname": "오랑캐 홍타이지 천하를 얻다:역사가 숨긴 한반도 정복자",
+          "authors": "장한식 지음",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9978898097355",
+          "addition_symbol": "03910",
+          "vol": "",
+          "class_no": "912.062",
+          "class_nm": "역사 > 아시아(아세아) > 중국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2867265",
+          "loan_count": "140"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "What Does It Mean to Be American? (Hardcover)",
+          "authors": "Rana Diorio, Elad Yoran (지은이), Nina Mata (그림)",
+          "publisher": "Little Pickle Press",
+          "publication_year": "2019",
+          "isbn13": "9781492683803",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "942",
+          "class_nm": "역사 > 북아메리카(북미) > 미국",
+          "bookImageURL": "https://image.aladin.co.kr/product/15266/3/cover/1492683809_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5423950",
+          "loan_count": "138"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "Avoid Being a Samurai! (Paperback)",
+          "authors": "Fiona MacDonald",
+          "publisher": "Book House",
+          "publication_year": "2009-07-07",
+          "isbn13": "9781906714161",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720057",
+          "loan_count": "137"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "명량: 회오리 바다를 향하여",
+          "authors": "김한민 감독, 김한민 외 출연",
+          "publisher": "KD미디어(케이디미디어)",
+          "publication_year": "2015-08-19",
+          "isbn13": "8809362348650",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2673361",
+          "loan_count": "136"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "73",
+          "bookname": "유관순 : 불꽃같은 삶, 영원한 빛",
+          "authors": "이정은 지음",
+          "publisher": "",
+          "publication_year": "2005",
+          "isbn13": "9781137008008",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3345008",
+          "loan_count": "136"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "Avoid Working on a Victorian Bridge! (Paperback)",
+          "authors": "Tom Ratliff",
+          "publisher": "Book House",
+          "publication_year": "2010-01-29",
+          "isbn13": "9781906714123",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720055",
+          "loan_count": "135"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "75",
+          "bookname": "클로즈업 오사카 =Close up Osaka :교토·고베·나라·아스카·고야산 :2018-19 최신 개정판 ",
+          "authors": "유재우;손미경 지음",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9878967441852",
+          "addition_symbol": "13910",
+          "vol": "",
+          "class_no": "981.32802",
+          "class_nm": "역사 > 지리 > 아시아지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3793937",
+          "loan_count": "135"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "신라, 한반도의 중심에 서다",
+          "authors": "김운의",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040153900000",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620941",
+          "loan_count": "133"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "(고조선을 세운)단군왕검",
+          "authors": "일연",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "1190011900000",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3622179",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "나라 안팎을 튼튼히 하다",
+          "authors": "김운의",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040143900000",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620940",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "79",
+          "bookname": "흔한남매 흔한 초성게임북 : 한국사",
+          "authors": "두드림교육연구소 (지은이)",
+          "publisher": "두드림M&B",
+          "publication_year": "2021",
+          "isbn13": "8809686481064",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/28511/73/cover/k332835831_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6413498",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "79",
+          "bookname": "Major impossible ",
+          "authors": "Nathan Hale",
+          "publisher": "Amulet Books",
+          "publication_year": "2019",
+          "isbn13": "9781419737084",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "909.51",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/18423/16/cover/1419737082_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5640342",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "신라, 백제를 무너뜨리다",
+          "authors": "김운의",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "1040163900000",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3620942",
+          "loan_count": "127"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Avoid working on the Statue of Liberty!",
+          "authors": "written by John Malam;illustrated by David Antram;created and designed by David Salariya",
+          "publisher": "",
+          "publication_year": "2010",
+          "isbn13": "9781906370206",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2720033",
+          "loan_count": "125"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "83",
+          "bookname": "(초등학생을 위한) 맨처음 한국사 1",
+          "authors": "전국역사교사모임 원작 ;;윤종배;;이성호 글 ;;이은홍 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9978896591259",
+          "addition_symbol": "77910",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2876556",
+          "loan_count": "125"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "(우리나라 최초 여성 파일럿)권기옥",
+          "authors": "임복남 글",
+          "publisher": "작은씨앗",
+          "publication_year": "2007",
+          "isbn13": "9789788990789",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "998.5",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2483909",
+          "loan_count": "124"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "(초등학생을 위한) 맨처음 한국사 1",
+          "authors": "전국역사교사모임 원작 ;;윤종배;;이성호 글 ;;이은홍 그림",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9978896591259",
+          "addition_symbol": "77910",
+          "vol": "5",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2876556",
+          "loan_count": "122"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "(사진과 그림으로 보는)한국사 편지",
+          "authors": "박은봉 글",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9788891221437",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3816948",
+          "loan_count": "121"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "(신과 인간이 만나는 곳)종묘",
+          "authors": "윤여림 글;김세현 그림",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9787890109927",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2740026",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "88",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신나는 세계여행",
+          "authors": "송도수 글;서정은 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9798926397756",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5244998",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "88",
+          "bookname": "피렌체:욕망의 성벽에 기대 서서",
+          "authors": "이해욱 글.사진",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "9878985493499",
+          "addition_symbol": "03610",
+          "vol": "",
+          "class_no": "982.802",
+          "class_nm": "역사 > 지리 > 유럽지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2867111",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "88",
+          "bookname": "(만화로 보는) 진주 이야기",
+          "authors": "윤소영 글·그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9999999999184",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911.88",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5635934",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "I Live in Tokyo (Paperback, Reprint)",
+          "authors": "Mari Takabayashi (지은이)",
+          "publisher": "Sandpiper",
+          "publication_year": "2004",
+          "isbn13": "9780618494842",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "913",
+          "class_nm": "역사 > 아시아(아세아) > 일본",
+          "bookImageURL": "https://image.aladin.co.kr/product/95/55/cover/0618494847_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5554683",
+          "loan_count": "118"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "92",
+          "bookname": "(김진명의) 한국사 X파일",
+          "authors": "박상철",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9783902000095",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3842357",
+          "loan_count": "118"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "(The)flag we love",
+          "authors": "By Pam Munoz Ryan",
+          "publisher": "Scholastic",
+          "publication_year": "1996",
+          "isbn13": "9780439252928",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "999",
+          "class_nm": "역사 > 전기 > 계보, 족보",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2508742",
+          "loan_count": "117"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "94",
+          "bookname": "James towne",
+          "authors": "written and illustrated by Marcia Sewall",
+          "publisher": "Atheneum books",
+          "publication_year": "2006",
+          "isbn13": "9789780689810",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "942.32",
+          "class_nm": "역사 > 북아메리카(북미) > 미국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2537395",
+          "loan_count": "117"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "Awful Egyptians (Paperback)",
+          "authors": "테리 디어리 (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2021",
+          "isbn13": "9780702311277",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6443786",
+          "loan_count": "116"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "96",
+          "bookname": "로버트 풀턴:만들기를 좋아한 아이",
+          "authors": "마거릿 헨리 지음;로렌스 드레서 그림;오소희 옮김",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9787892917582",
+          "addition_symbol": "74840",
+          "vol": "",
+          "class_no": "990.3",
+          "class_nm": "역사 > 전기 > 전기",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3104270",
+          "loan_count": "116"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "96",
+          "bookname": "(세계를 간다)스페인 포르투갈",
+          "authors": "[랜덤하우스 편]",
+          "publisher": "랜덤하우스",
+          "publication_year": "2007",
+          "isbn13": "9789788957577",
+          "addition_symbol": "14980",
+          "vol": "",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2560736",
+          "loan_count": "116"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "설민석의 한국사 대모험:뒤바뀐 역사를 되돌려라",
+          "authors": "설민석;스토리박스 [공]글;정현희 그림;태건역사연구소 감수",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "1165382652650",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5651485",
+          "loan_count": "114"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "99",
+          "bookname": "Abraham Lincoln",
+          "authors": "Caroline Crosson Gilpin",
+          "publisher": "",
+          "publication_year": "2013",
+          "isbn13": "9780545536356",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "942.06",
+          "class_nm": "역사 > 북아메리카(북미) > 미국",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2941291",
+          "loan_count": "114"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "8",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "나미야 잡화점의 기적 :히가시노 게이고 장편소설 ",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥",
+          "publisher": "현대문학",
+          "publication_year": "2012",
+          "isbn13": "9788972756194",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/15848/6/cover/k622533431_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1902173",
+          "loan_count": "282072"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4086/97/cover/8936434128_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2037399",
+          "loan_count": "259979"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "채식주의자:한강 연작소설",
+          "authors": "한강",
+          "publisher": "창비",
+          "publication_year": "2007",
+          "isbn13": "9788936433598",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/033/094/03309417.jpg?type=m1&udate=20180609",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2155671",
+          "loan_count": "245659"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26942/84/cover/k582730818_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962217",
+          "loan_count": "233312"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "authors": "지은이: 손원평",
+          "publisher": "창비",
+          "publication_year": "2017",
+          "isbn13": "9788936434267",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/16839/4/cover/k492534773_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423096",
+          "loan_count": "227624"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+          "authors": "지은이: 정유정",
+          "publisher": "은행나무",
+          "publication_year": "2016",
+          "isbn13": "9788956609959",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7492/9/cover/8956609950_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3151708",
+          "loan_count": "194250"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "authors": "지은이: 안녕달",
+          "publisher": "창비",
+          "publication_year": "2015",
+          "isbn13": "9788936446819",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/093/451/09345174.jpg?type=m1&udate=20180718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396971",
+          "loan_count": "191721"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9788937838750",
+          "addition_symbol": "74830",
+          "vol": "1",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8920/23/cover/8937838753_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3272507",
+          "loan_count": "187140"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9788937853470",
+          "addition_symbol": "74830",
+          "vol": "2",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/113/327/11332741.jpg?type=m1&udate=20161209",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3392650",
+          "loan_count": "183739"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9788937889714",
+          "addition_symbol": "74830",
+          "vol": "3",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10644/93/cover/8937889714_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3425818",
+          "loan_count": "183270"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164131686",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19404/61/cover/k712635217_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5429011",
+          "loan_count": "179103"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2020",
+          "isbn13": "9791165341909",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24512/70/cover/k392630952_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5707051",
+          "loan_count": "177831"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164134267",
+          "addition_symbol": "77810",
+          "vol": "3",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/22327/46/cover/k782636924_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5569013",
+          "loan_count": "177773"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9788937848247",
+          "addition_symbol": "74830",
+          "vol": "4",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/953/12495377.jpg?type=m1&udate=20170829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541426",
+          "loan_count": "177061"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164132454",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/20398/4/cover/k002635150_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5463101",
+          "loan_count": "175312"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "7년의 밤 :정유정 장편소설 ",
+          "authors": "지은이: 정유정",
+          "publisher": "은행나무",
+          "publication_year": "2011",
+          "isbn13": "9788956604992",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/14712/55/cover/k202532053_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1153285",
+          "loan_count": "172276"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791162332542",
+          "addition_symbol": "74830",
+          "vol": "5",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/129/756/12975600.jpg?type=m1&udate=20180126",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3676788",
+          "loan_count": "171007"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164134847",
+          "addition_symbol": "77810",
+          "vol": "4",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23568/96/cover/k992638123_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5635121",
+          "loan_count": "170721"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164135592",
+          "addition_symbol": "77810",
+          "vol": "5",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24307/73/cover/k822630592_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5686627",
+          "loan_count": "168788"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "82년생 김지영 :조남주 장편소설 ",
+          "authors": "지은이: 조남주",
+          "publisher": "민음사",
+          "publication_year": "2016",
+          "isbn13": "9788937473135",
+          "addition_symbol": "04810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/111/11211133.jpg?type=m1&udate=20180530",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3369923",
+          "loan_count": "167212"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791162335123",
+          "addition_symbol": "74830",
+          "vol": "6",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/135/613/13561388.jpg?type=m1&udate=20180619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3746485",
+          "loan_count": "160802"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164136261",
+          "addition_symbol": "77810",
+          "vol": "6",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25301/95/cover/k062633309_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5777315",
+          "loan_count": "157555"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "언어의 온도 :말과 글에는 나름의 따뜻함과 차가움이 있다 ",
+          "authors": "지은이: 이기주",
+          "publisher": "말글터",
+          "publication_year": "2016",
+          "isbn13": "9791195522125",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/14842/6/cover/k742532452_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3278940",
+          "loan_count": "154695"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791162339466",
+          "addition_symbol": "74830",
+          "vol": "7",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17457/14/cover/k792534209_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5245643",
+          "loan_count": "153807"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164137527",
+          "addition_symbol": "77810",
+          "vol": "7",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26556/36/cover/k602738939_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5929100",
+          "loan_count": "147442"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/23651/80/cover/8936447696_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5642562",
+          "loan_count": "145109"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "바깥은 여름 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2017",
+          "isbn13": "9788954646079",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/15533/81/cover/k852533629_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3451595",
+          "loan_count": "143769"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164138197",
+          "addition_symbol": "77810",
+          "vol": "8",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27456/81/cover/k752733475_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6041427",
+          "loan_count": "142126"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164060481",
+          "addition_symbol": "74830",
+          "vol": "1",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19610/47/cover/k282635522_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5439175",
+          "loan_count": "142017"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "살인자의 기억법 :김영하 장편소설 ",
+          "authors": "지은이: 김영하",
+          "publisher": "문학동네",
+          "publication_year": "2013",
+          "isbn13": "9788954622035",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/622/07262295.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1962014",
+          "loan_count": "139607"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "나는 나로 살기로 했다 :냉담한 현실에서 어른살이를 위한 to do list ",
+          "authors": "글·그림: 김수현",
+          "publisher": "마음의숲",
+          "publication_year": "2016",
+          "isbn13": "9791187119845",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/16751/86/cover/k642534567_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3395679",
+          "loan_count": "138600"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "쇼코의 미소 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954641630",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/859/10785953.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3190615",
+          "loan_count": "136102"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791164131914",
+          "addition_symbol": "74830",
+          "vol": "8",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19874/27/cover/k432635431_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5448424",
+          "loan_count": "135314"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "addition_symbol": "03810",
+          "vol": "2",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29858/98/cover/k432838027_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6529613",
+          "loan_count": "135176"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27877/5/cover/8954682154_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6086446",
+          "loan_count": "134789"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791164134090",
+          "addition_symbol": "74830",
+          "vol": "9",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22712/95/cover/k102636135_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5581788",
+          "loan_count": "132323"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "돌이킬 수 없는 약속 :야쿠마루 가쿠 장편소설 ",
+          "authors": "저자: 야쿠마루 가쿠 ;옮긴이: 김성미",
+          "publisher": "Book plaza(북플라자)",
+          "publication_year": "2017",
+          "isbn13": "9788998274795",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10174/56/cover/s572533950_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3411733",
+          "loan_count": "130644"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "authors": "지은이: 황영미",
+          "publisher": "문학동네",
+          "publication_year": "2019",
+          "isbn13": "9788954654753",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17970/0/cover/8954654754_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359157",
+          "loan_count": "130561"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164060498",
+          "addition_symbol": "74830",
+          "vol": "2",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19612/74/cover/k772635522_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5439173",
+          "loan_count": "129542"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447861",
+          "addition_symbol": "74810",
+          "vol": "2",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24790/61/cover/8936447866_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784086",
+          "loan_count": "129315"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "가면산장 살인사건 ",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 김난주",
+          "publisher": "재인",
+          "publication_year": "2014",
+          "isbn13": "9788990982575",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4745/51/cover/899098257x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427470",
+          "loan_count": "129295"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "라플라스의 마녀 :히가시노 게이고 장편소설 ",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥",
+          "publisher": "현대문학",
+          "publication_year": "2016",
+          "isbn13": "9788972757573",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7288/55/cover/8972757578_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3107992",
+          "loan_count": "128715"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "허블",
+          "publication_year": "2019",
+          "isbn13": "9791190090018",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19359/16/cover/s972635417_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5430429",
+          "loan_count": "128078"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "바다 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2014",
+          "isbn13": "9788966350278",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4516/64/cover/8966350275_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2613557",
+          "loan_count": "127608"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "할머니의 여름휴가",
+          "authors": "안녕달",
+          "publisher": "창비",
+          "publication_year": "2016",
+          "isbn13": "9788936454951",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/500/10750051.jpg?type=m1&udate=20170712",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3174306",
+          "loan_count": "126683"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681179",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27541/91/cover/8954681174_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6045915",
+          "loan_count": "124990"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164139897",
+          "addition_symbol": "77810",
+          "vol": "9",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28395/15/cover/k962835911_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6350914",
+          "loan_count": "124657"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "장수탕 선녀님 ",
+          "authors": "지은이: 백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2012",
+          "isbn13": "9788993242706",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/922/06992205.jpg?type=m1&udate=20180120",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372746",
+          "loan_count": "122177"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "addition_symbol": "77810",
+          "vol": "10",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29286/99/cover/k082837005_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6447451",
+          "loan_count": "121204"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "시간을 파는 상점 :김선영 장편소설 ",
+          "authors": "지은이: 김선영",
+          "publisher": "자음과모음",
+          "publication_year": "2012",
+          "isbn13": "9788954427173",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/723/06872343.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1245351",
+          "loan_count": "120771"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "여행의 이유 :김영하 산문 ",
+          "authors": "지은이: 김영하",
+          "publisher": "문학동네",
+          "publication_year": "2019",
+          "isbn13": "9788954655972",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "816.62",
+          "class_nm": "문학 > 한국문학 > 일기, 서간, 기행",
+          "bookImageURL": "https://image.aladin.co.kr/product/18827/60/cover/8954655971_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5390731",
+          "loan_count": "120171"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "오베라는 남자 :프레드릭 배크만 장편소설 ",
+          "authors": "지은이: 프레드릭 배크만 ;옮긴이: 최민우",
+          "publisher": "다산북스",
+          "publication_year": "2015",
+          "isbn13": "9791130605210",
+          "addition_symbol": "03850",
+          "vol": "",
+          "class_no": "859.7",
+          "class_nm": "문학 > 독일문학 > 기타 게르만 문학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/090/537/09053751.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396935",
+          "loan_count": "120077"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164060931",
+          "addition_symbol": "74830",
+          "vol": "3",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21439/64/cover/k142636199_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5518312",
+          "loan_count": "118812"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "감기 걸린 물고기 :박정섭 그림책 ",
+          "authors": "글·그림: 박정섭",
+          "publisher": "사계절",
+          "publication_year": "2016",
+          "isbn13": "9788958284482",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/9123/41/cover/895828448x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3326033",
+          "loan_count": "117217"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "파친코 :이민진 장편소설",
+          "authors": "이민진 지음 ;이미정 옮김",
+          "publisher": "문학사상",
+          "publication_year": "2018",
+          "isbn13": "9788970129815",
+          "addition_symbol": "04840",
+          "vol": "1",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/282/13428208.jpg?type=m1&udate=20180331",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3723218",
+          "loan_count": "116802"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448011",
+          "addition_symbol": "74810",
+          "vol": "3",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25967/84/cover/8936448013_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5996157",
+          "loan_count": "116614"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "(흔한남매) 안 흔한 일기",
+          "authors": "흔한남매 원작 ;조병주 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164134649",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "816.7",
+          "class_nm": "문학 > 한국문학 > 일기, 서간, 기행",
+          "bookImageURL": "https://image.aladin.co.kr/product/23331/23/cover/k012637918_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5595543",
+          "loan_count": "116319"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/30048/51/cover/8936438832_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6551957",
+          "loan_count": "115635"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "시선으로부터, :정세랑 장편소설 ",
+          "authors": "지은이: 정세랑",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954672214",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24131/37/cover/8954672213_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5674475",
+          "loan_count": "115550"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "알사탕 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2017",
+          "isbn13": "9791158360375",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10586/14/cover/k422530533_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423451",
+          "loan_count": "115041"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "addition_symbol": "44800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26674/56/cover/8949123495_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5941926",
+          "loan_count": "114927"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "(추리 천재) 엉덩이 탐정",
+          "authors": "트롤 글·그림 ;김정화 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791164137053",
+          "addition_symbol": "74830",
+          "vol": "10",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25801/42/cover/k252736232_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5827187",
+          "loan_count": "114186"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/902/07190270.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1938053",
+          "loan_count": "113440"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164060948",
+          "addition_symbol": "74830",
+          "vol": "4",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21439/72/cover/k272636199_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5518313",
+          "loan_count": "112853"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "addition_symbol": "77810",
+          "vol": "11",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29832/74/cover/k652838723_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6525944",
+          "loan_count": "112701"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "틀려도 괜찮아",
+          "authors": "마키타 신지 글;유문조 옮김",
+          "publisher": "토토북",
+          "publication_year": "2006",
+          "isbn13": "9788990611260",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/62/27/cover/8990611261_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=937338",
+          "loan_count": "112435"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "완전한 행복 :정유정 장편소설 ",
+          "authors": "지은이: 정유정",
+          "publisher": "은행나무",
+          "publication_year": "2021",
+          "isbn13": "9791167370280",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27225/29/cover/k432732398_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5987427",
+          "loan_count": "111720"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "Giant Books(자이언트북스)",
+          "publication_year": "2021",
+          "isbn13": "9791191824001",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27692/63/cover/k082733434_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6065686",
+          "loan_count": "111371"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2021",
+          "isbn13": "9791165343729",
+          "addition_symbol": "03810",
+          "vol": "2",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27587/47/cover/k962733015_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6049391",
+          "loan_count": "110538"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "(흔한남매) 안 흔한 일기",
+          "authors": "흔한남매 원작 ;조병주 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164135158",
+          "addition_symbol": "74810",
+          "vol": "2",
+          "class_no": "816.7",
+          "class_nm": "문학 > 한국문학 > 일기, 서간, 기행",
+          "bookImageURL": "https://image.aladin.co.kr/product/24050/77/cover/k252639625_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5669599",
+          "loan_count": "110052"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27587/94/cover/8954681158_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6050062",
+          "loan_count": "109124"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "오직 두 사람 :김영하 소설 ",
+          "authors": "지은이: 김영하",
+          "publisher": "문학동네",
+          "publication_year": "2017",
+          "isbn13": "9788954645614",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10949/50/cover/8954645615_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3440172",
+          "loan_count": "108028"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164062065",
+          "addition_symbol": "74830",
+          "vol": "5",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/23450/15/cover/k522638585_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5609753",
+          "loan_count": "107855"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "지하 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2011",
+          "isbn13": "9788989863915",
+          "addition_symbol": "73830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/063/835/06383547.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372182",
+          "loan_count": "107605"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "authors": "글쓴이: 이꽃님",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954650212",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/133/146/13314689.jpg?type=m1&udate=20180330",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3699193",
+          "loan_count": "107560"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28685/95/cover/k362836265_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6389692",
+          "loan_count": "107516"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "28 :정유정 장편소설 ",
+          "authors": "지은이: 정유정",
+          "publisher": "은행나무",
+          "publication_year": "2013",
+          "isbn13": "9788956607030",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/241/07224178.jpg?type=m1&udate=20141022",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1945948",
+          "loan_count": "107214"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2021",
+          "isbn13": "9788989863786",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/411/63/cover/8989863783_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2308045",
+          "loan_count": "106783"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(내 멋대로) 친구 뽑기 ",
+          "authors": "최은옥 글 ;김무연 그림",
+          "publisher": "김영사",
+          "publication_year": "2016",
+          "isbn13": "9788934993483",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7966/80/cover/8934993480_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3138091",
+          "loan_count": "106765"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "이상한 엄마 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360214",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7918/85/cover/k352434031_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3128902",
+          "loan_count": "105181"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164062072",
+          "addition_symbol": "74830",
+          "vol": "6",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/23450/17/cover/k692638585_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5609754",
+          "loan_count": "104781"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "오싹오싹 팬티! ",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미",
+          "publisher": "토토북",
+          "publication_year": "2018",
+          "isbn13": "9788964963678",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/342/13834257.jpg?type=m1&udate=20180801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3858748",
+          "loan_count": "104541"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "파친코 :이민진 장편소설",
+          "authors": "이민진 지음 ;이미정 옮김",
+          "publisher": "문학사상",
+          "publication_year": "2018",
+          "isbn13": "9788970129822",
+          "addition_symbol": "04840",
+          "vol": "2",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/282/13428213.jpg?type=m1&udate=20180331",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3723461",
+          "loan_count": "104211"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "하늘 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2017",
+          "isbn13": "9788966350759",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12254/13/cover/8966350755_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658224",
+          "loan_count": "102978"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "authors": "지은이: 천선란",
+          "publisher": "허블",
+          "publication_year": "2020",
+          "isbn13": "9791190090261",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24895/69/cover/k882632470_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5738747",
+          "loan_count": "102095"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "addition_symbol": "77810",
+          "vol": "12",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30518/41/cover/k422830492_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6594703",
+          "loan_count": "100083"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "당근 유치원 ",
+          "authors": "지은이: 안녕달",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936455484",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24011/82/cover/8936455486_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5666934",
+          "loan_count": "99735"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448134",
+          "addition_symbol": "74810",
+          "vol": "4",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28612/9/cover/8936448137_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6378029",
+          "loan_count": "99697"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "미드나잇 라이브러리 ",
+          "authors": "매트 헤이그 지음 ;노진선 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056556",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26987/37/cover/k962730610_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5965665",
+          "loan_count": "99470"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "긴긴밤 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954677158",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26302/71/cover/8954677150_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5857188",
+          "loan_count": "99356"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "책 먹는 여우 ",
+          "authors": "프란치스카 비어만 지음 ;김경연 옮김",
+          "publisher": "김영사",
+          "publication_year": "2001",
+          "isbn13": "9788934908067",
+          "addition_symbol": "73850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/15652/86/cover/k232533034_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=130887",
+          "loan_count": "99249"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "봉제인형 살인사건 :다니엘 콜 장편소설 ",
+          "authors": "저자: 다니엘 콜 ;옮긴이: 유혜인",
+          "publisher": "Book plaza(북플라자)",
+          "publication_year": "2017",
+          "isbn13": "9788998274931",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/11997/87/cover/8998274930_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3649594",
+          "loan_count": "99228"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "(이상한 과자 가게) 전천당",
+          "authors": "히로시마 레이코 글 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164062270",
+          "addition_symbol": "74830",
+          "vol": "7",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24394/32/cover/k412630313_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5699900",
+          "loan_count": "98567"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "죽고 싶지만 떡볶이는 먹고 싶어 :백세희 에세이 ",
+          "authors": "지은이: 백세희",
+          "publisher": "흔",
+          "publication_year": "2018",
+          "isbn13": "9791196394509",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/15136/29/cover/k962533360_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3768386",
+          "loan_count": "97795"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "(흔한남매) 안 흔한 일기",
+          "authors": "흔한남매 원작 ;조병주 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136223",
+          "addition_symbol": "74810",
+          "vol": "3",
+          "class_no": "816.7",
+          "class_nm": "문학 > 한국문학 > 일기, 서간, 기행",
+          "bookImageURL": "https://image.aladin.co.kr/product/25151/11/cover/k762633375_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5769272",
+          "loan_count": "97752"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "슈퍼 거북 ",
+          "authors": "유설화 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2014",
+          "isbn13": "9788993242980",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3568/34/cover/8993242984_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604318",
+          "loan_count": "97565"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "13층 나무 집 ",
+          "authors": "앤디 그리피스 글 ;신수진 옮김",
+          "publisher": "시공사",
+          "publication_year": "2015",
+          "isbn13": "9788952773104",
+          "addition_symbol": "74840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/089/205/08920553.jpg?type=m1&udate=20170223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2402918",
+          "loan_count": "96821"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "마법의 설탕 두 조각",
+          "authors": "미카엘 엔데 글;유혜자 옮김",
+          "publisher": "한길사",
+          "publication_year": "2001",
+          "isbn13": "9788935652792",
+          "addition_symbol": "74850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/27/73/cover/8935652792_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1799690",
+          "loan_count": "96802"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409124",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27982/44/cover/k832734228_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6307324",
+          "loan_count": "96123"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "위저드 베이커리 =구병모 장편소설 /Wizard bakery ",
+          "authors": "지은이: 구병모",
+          "publisher": "창비",
+          "publication_year": "2009",
+          "isbn13": "9788936433697",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/346/0/cover/8936433695_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2314042",
+          "loan_count": "95804"
+        }
+      }
+    ]
+  }
+}

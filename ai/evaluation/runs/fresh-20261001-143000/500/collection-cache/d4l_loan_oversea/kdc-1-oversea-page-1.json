@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "1",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 4712,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "탈무드 채근담 - 세상을 이기는 가장 위대한 지혜",
+          "authors": "마빈 토케이어|홍자성",
+          "publisher": "휘닉스",
+          "publication_year": "2010",
+          "isbn13": "9788793335271",
+          "addition_symbol": "13800",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/105/06410589.jpg?type=m1&udate=20140611",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374606",
+          "loan_count": "4789"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "You choose",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368350",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222290",
+          "loan_count": "1018"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "First Greek Myths 2 : The Secret of Pandora's Box (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366066",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "197",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 성윤리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/51/cover/1408366061_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6323819",
+          "loan_count": "944"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "First Greek Myths 3 : King Midas's Goldfingers (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366028",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "197",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 성윤리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/51/cover/1408366029_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6323818",
+          "loan_count": "932"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "You choose your dreams",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368329",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222292",
+          "loan_count": "896"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "You choose in space",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368299",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222291",
+          "loan_count": "851"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "You choose",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368350",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222290",
+          "loan_count": "845"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "You choose in space",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368299",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222291",
+          "loan_count": "735"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "You choose your dreams",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368329",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222292",
+          "loan_count": "699"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "嫌われる勇気 :自己啓発の源流「アドラー」の教え ",
+          "authors": "著者: 岸見一郎,古賀史健",
+          "publisher": "ダイヤモンド社",
+          "publication_year": "2013",
+          "isbn13": "9784478025819",
+          "addition_symbol": "0030",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/3411/20/cover/4478025819_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2910194",
+          "loan_count": "553"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "You choose in space",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368299",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222291",
+          "loan_count": "534"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "사주·명리 실전 100구문 완전정복",
+          "authors": "김철주 저",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9789788974611",
+          "addition_symbol": "03150",
+          "vol": "",
+          "class_no": "188.5",
+          "class_nm": "철학 > 심리학 > 상법, 운명판단",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2977895",
+          "loan_count": "493"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Atomic Habits (MR-EXP) : An Easy & Proven Way to Build Good Habits & Break Bad Ones (Paperback)",
+          "authors": "제임스 클리어 (지은이)",
+          "publisher": "Penguin Publishing Group",
+          "publication_year": "2019",
+          "isbn13": "9780593189641",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.845",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/21858/26/cover/0593189647_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5697888",
+          "loan_count": "420"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "You choose your dreams",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368329",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222292",
+          "loan_count": "403"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Facts vs. Opinions vs. Robots (Hardcover)",
+          "authors": "마이클 렉스 (지은이)",
+          "publisher": "Nancy Paulsen Books                     ",
+          "publication_year": "2020",
+          "isbn13": "9781984816269",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "121",
+          "class_nm": "철학 > 인식론, 인과론, 인간학 > 인식론",
+          "bookImageURL": "https://image.aladin.co.kr/product/19226/19/cover/1984816268_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5642610",
+          "loan_count": "395"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "12 Rules for Life (Paperback) - An Antidote to Chaos",
+          "authors": "조던 B. 피터슨 (지은이)",
+          "publisher": "Random House US",
+          "publication_year": "2019",
+          "isbn13": "9780735278516",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/18298/90/cover/0735278512_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5434880",
+          "loan_count": "345"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "You choose",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368350",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222290",
+          "loan_count": "335"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "I'm sorry",
+          "authors": "written by Moira Butterfield",
+          "publisher": "Parragon",
+          "publication_year": "2010",
+          "isbn13": "9781445416748",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "194.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 사회윤리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2426940",
+          "loan_count": "291"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "탄탄한 논리력:말과 글과 생각이 업그레이드되는",
+          "authors": "브랜드 로열 지음;정미화 옮김",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781185952284",
+          "addition_symbol": "03170",
+          "vol": "",
+          "class_no": "170",
+          "class_nm": "철학 > 논리학 > 논리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3124401",
+          "loan_count": "290"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "Big feelings :a story about big emotions and the power of empathy ",
+          "authors": "Alexandra Penfold ;[illustrated by] Suzanne Kaufman",
+          "publisher": "Bloomsbury Publishing (UK)",
+          "publication_year": "2021",
+          "isbn13": "9781526639776",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/219/829/21982980.jpg?type=m1&udate=20220308",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6048229",
+          "loan_count": "287"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "I Feel... Sick (Hardcover)",
+          "authors": "DJ Corchin (지은이)",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2020",
+          "isbn13": "9781728219523",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/23682/69/cover/1728219523_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063149",
+          "loan_count": "277"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "대화가 필요해!",
+          "authors": "박현진 지음;윤정주 그림;캐서린 한 감수",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789788990024",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "180",
+          "class_nm": "철학 > 심리학 > 심리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2852994",
+          "loan_count": "274"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "마흔으로 산다는 것:인생 후반전, 마흔 이후를 즐겁게 사는 습관",
+          "authors": "박형근 글",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781188794225",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5384821",
+          "loan_count": "264"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "탈무드 채근담 - 세상을 이기는 가장 위대한 지혜",
+          "authors": "마빈 토케이어|홍자성",
+          "publisher": "휘닉스",
+          "publication_year": "2010",
+          "isbn13": "9788793335271",
+          "addition_symbol": "13800",
+          "vol": "1",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/105/06410589.jpg?type=m1&udate=20140611",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374606",
+          "loan_count": "258"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Love for Imperfect Things : The Sunday Times Bestseller: How to Accept Yourself in a World Striving for Perfection (Hardcover) - 혜민 스님 '완벽하지 않은 것들에 대한 사랑' 영문판",
+          "authors": "Haemin Sunim, 혜민 (지은이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2019",
+          "isbn13": "9780241331125",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/15993/50/cover/0241331129_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5382878",
+          "loan_count": "245"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "First Greek Myths 2 : The Secret of Pandora's Box (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366066",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "197",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 성윤리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/51/cover/1408366061_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6323819",
+          "loan_count": "238"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "幸せになる勇気 :自己啓発の源流「アドラー」の教え",
+          "authors": "著者: 岸見一郎,古賀史健",
+          "publisher": "ダイヤモンド社",
+          "publication_year": "2016",
+          "isbn13": "9784478066119",
+          "addition_symbol": "0030",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/100/877/10087741.jpg?type=m1&udate=20160227",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3162662",
+          "loan_count": "217"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "First Greek Myths 3 : King Midas's Goldfingers (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366028",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "197",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 성윤리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/51/cover/1408366029_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6323818",
+          "loan_count": "216"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "How do you feel? ",
+          "authors": "Lizzy Rockwell",
+          "publisher": "Holiday House",
+          "publication_year": "2019",
+          "isbn13": "9780823440511",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "183",
+          "class_nm": "철학 > 심리학 > 발달심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18662/5/cover/0823440516_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5596122",
+          "loan_count": "211"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "I Feel... Allergic (Hardcover)",
+          "authors": "DJ Corchin (지은이)",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2021",
+          "isbn13": "9781728219493",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/24408/20/cover/1728219493_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6064165",
+          "loan_count": "209"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "You choose",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368350",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222290",
+          "loan_count": "205"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "31",
+          "bookname": "This makes me scared ",
+          "authors": "Courtney Carbone ;illustrated by Hilli Kushnir",
+          "publisher": "Rodale Kids",
+          "publication_year": "2019",
+          "isbn13": "9781635650815",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/13033/33/cover/163565081x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5403310",
+          "loan_count": "205"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "The Cafe on the Edge of the World : A Story About the Meaning of Life (Paperback)",
+          "authors": "John P. Strelecky (지은이)",
+          "publisher": "Little, Brown",
+          "publication_year": "2024",
+          "isbn13": "9780349439853",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "126",
+          "class_nm": "철학 > 인식론, 인과론, 인간학 > 철학적 인간학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31881/55/cover200/0349439850_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7089435",
+          "loan_count": "191"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "The Courage To Be Disliked : How to free yourself, change your life and achieve real happiness (Paperback, Main) - '미움받을 용기' 영문판",
+          "authors": "Ichiro Kishimi, Fumitake Koga (지은이)",
+          "publisher": "Allen & Unwin",
+          "publication_year": "2019",
+          "isbn13": "9781760630737",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/16874/8/cover/176063073x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5390879",
+          "loan_count": "182"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "악당의 명언 - 완전판",
+          "authors": "손호성 (지은이)",
+          "publisher": "생각정리연구소",
+          "publication_year": "2019",
+          "isbn13": "8809332972588",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.8",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/21296/60/cover/k262636480_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5571651",
+          "loan_count": "177"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Noise : A Flaw in Human Judgment (Paperback) - '생각에 관한 생각' 대니얼 카너먼 신작",
+          "authors": "올리비에 시보니, 대니얼 카너먼, 캐스 R. 선스타인 (지은이)",
+          "publisher": "Little, Brown and Company",
+          "publication_year": "2021",
+          "isbn13": "9780316266659",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/26615/21/cover/0316266655_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5999366",
+          "loan_count": "167"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Dopamine Nation (Paperback\n) - 『도파미네이션』원서",
+          "authors": "애나 렘키 (지은이)",
+          "publisher": "Dutton",
+          "publication_year": "2022",
+          "isbn13": "9780593472866",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/29683/18/cover/0593472861_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6594403",
+          "loan_count": "159"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "Invisible Things (Hardcover)",
+          "authors": "Sophie Miller, Andy J. Pizza (지은이)",
+          "publisher": "Chronicle Books",
+          "publication_year": "2023",
+          "isbn13": "9781797215204",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/30431/51/cover/1797215205_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6782581",
+          "loan_count": "158"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Dopamine Nation: Finding Balance in the Age of Indulgence (Hardcover)",
+          "authors": "Dr. Anna Lembke (지은이)",
+          "publisher": "Dutton",
+          "publication_year": "2021",
+          "isbn13": "9781524746728",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "186",
+          "class_nm": "철학 > 심리학 > 임상심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25310/40/cover/152474672x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6315478",
+          "loan_count": "157"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "なんだろうなんだろう ",
+          "authors": "著者: ヨシタケシンスケ",
+          "publisher": "光村図書出版",
+          "publication_year": "2019",
+          "isbn13": "9784813802648",
+          "addition_symbol": "8795",
+          "vol": "",
+          "class_no": "190",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 윤리학, 도덕철학",
+          "bookImageURL": "https://image.aladin.co.kr/product/22004/22/cover/4813802648_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5583775",
+          "loan_count": "147"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "(初譯)채근담:중국 고전의 지혜에서 배우는 삶의 깨달음",
+          "authors": "홍자성 지음;민경수 옮김",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9798896109207",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2866508",
+          "loan_count": "146"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "(군더더기를 뺀) 첫 번째 철학",
+          "authors": "김영진;변상출;안현효;양승권;이종주 지음",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9771195734115",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "100",
+          "class_nm": "철학 > 철학 > 철학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3170449",
+          "loan_count": "144"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "I Feel... Sick (Hardcover)",
+          "authors": "DJ Corchin (지은이)",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2020",
+          "isbn13": "9781728219523",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/23682/69/cover/1728219523_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063149",
+          "loan_count": "136"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "강신주의 노자 혹은 장자:노자의 길과 장자의 길 사이에서",
+          "authors": "강신주 지음",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9798997889419",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "152.2",
+          "class_nm": "철학 > 동양 철학, 사상 > 중국철학, 사상",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2866835",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "幸せになる勇気 :自己啓発の源流「アドラー」の教え",
+          "authors": "著者: 岸見一郎,古賀史健",
+          "publisher": "ダイヤモンド社",
+          "publication_year": "2016",
+          "isbn13": "9784478066119",
+          "addition_symbol": "0030",
+          "vol": "2",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/100/877/10087741.jpg?type=m1&udate=20160227",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3162662",
+          "loan_count": "125"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "화를 참을 수 없어:똑똑하게 감정 조절하는 법",
+          "authors": "강현식;박지영 글;박선미 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "1158681402979",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5606753",
+          "loan_count": "124"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "You choose your dreams",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368329",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222292",
+          "loan_count": "123"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "미러:나를 위로하고 사랑하게 만드는 마법의 시간",
+          "authors": "루이스 L. 헤이 지음;김태훈 옮김",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781190356177",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5586507",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "How to Change : The Science of Getting from Where You Are to Where You Want to Be (Paperback) - 『슈퍼 해빗 : 완전한 변화로 이끄는 습관 설계』 원서",
+          "authors": "케이티 밀크먼 (지은이)",
+          "publisher": "Ebury Publishing",
+          "publication_year": "2022",
+          "isbn13": "9781785043734",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/27935/57/cover/1785043730_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6592775",
+          "loan_count": "117"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "49",
+          "bookname": "(고등학생이 감동한) 논어",
+          "authors": "사쿠 야스시 [지음]",
+          "publisher": "김영사",
+          "publication_year": "2009",
+          "isbn13": "9789788934936",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "148",
+          "class_nm": "철학 > 경학 > 사서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2370058",
+          "loan_count": "117"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "The Comfort Book (Hardcover)",
+          "authors": "매트 헤이그 (지은이)",
+          "publisher": "Penguin Life",
+          "publication_year": "2021",
+          "isbn13": "9780143136668",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/25601/8/cover/0143136666_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6078967",
+          "loan_count": "115"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "I Feel... Sick (Hardcover)",
+          "authors": "DJ Corchin (지은이)",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2020",
+          "isbn13": "9781728219523",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/23682/69/cover/1728219523_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063149",
+          "loan_count": "114"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "(고등학생이 감동한) 논어",
+          "authors": "사쿠 야스시 [지음]",
+          "publisher": "김영사",
+          "publication_year": "2009",
+          "isbn13": "9789788934936",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "148",
+          "class_nm": "철학 > 경학 > 사서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2370058",
+          "loan_count": "113"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "Who Feels Scared? A Book About Being Afraid (Paperback)",
+          "authors": "Sue Graves (지은이)",
+          "publisher": "Franklin Watts",
+          "publication_year": "2014",
+          "isbn13": "9781445129891",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/3222/61/cover/1445129892_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5468429",
+          "loan_count": "110"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Humankind : A Hopeful History (Paperback) - 『휴먼카인드』원서",
+          "authors": "뤼트허르 브레흐만 (지은이)",
+          "publisher": "Bloomsbury Publishing PLC",
+          "publication_year": "2021",
+          "isbn13": "9781408898956",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "126",
+          "class_nm": "철학 > 인식론, 인과론, 인간학 > 철학적 인간학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25015/28/cover/1408898950_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6077641",
+          "loan_count": "104"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "(고등학생이 감동한) 논어",
+          "authors": "사쿠 야스시 [지음]",
+          "publisher": "김영사",
+          "publication_year": "2009",
+          "isbn13": "9789788934936",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "148",
+          "class_nm": "철학 > 경학 > 사서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2370058",
+          "loan_count": "102"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "I'm So Happy You're Here: A Little Book about Why You're Great (Hardcover)",
+          "authors": "리즈 클라이모 (지은이)",
+          "publisher": "Flatiron Books                          ",
+          "publication_year": "2022",
+          "isbn13": "9781250841445",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/28576/93/cover/1250841445_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6652558",
+          "loan_count": "100"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Puppy in my Head : A Book About Mindfulness (Paperback)",
+          "authors": "엘리즈 그라벨 (지은이)",
+          "publisher": "Trigger Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781789561197",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/21090/21/cover/1789561191_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5800596",
+          "loan_count": "97"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "Mindfulness Moments for Kids: Bunny Breaths (Board Books)",
+          "authors": "키라 윌리 (지은이), 애니 베츠 (그림)",
+          "publisher": "Rodale Pr",
+          "publication_year": "2020",
+          "isbn13": "9780593119853",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "186.5",
+          "class_nm": "철학 > 심리학 > 임상심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19560/88/cover/0593119851_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5767026",
+          "loan_count": "93"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "59",
+          "bookname": "Beyond Order (Paperback)",
+          "authors": "조던 B. 피터슨 (지은이)",
+          "publisher": "Penguin Publishing Group",
+          "publication_year": "2022",
+          "isbn13": "9780593543696",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/220/876/22087626.jpg?type=m1&udate=20220508",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6488187",
+          "loan_count": "93"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "(Everybody feels...)angry!",
+          "authors": "by Moira butterfield;Holly Sterling",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781784935115",
+          "addition_symbol": "00000",
+          "vol": "1",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3751511",
+          "loan_count": "90"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "네 연애는 왜 그 모양이니?",
+          "authors": "로리 고틀립",
+          "publisher": "황매",
+          "publication_year": "2007",
+          "isbn13": "9789788991311",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2382642",
+          "loan_count": "88"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "El sutil arte de que te importe un caraj/ The Subtle Art of Caring for a Caraj (Un Enfoque Disruptivo Para Vivir Una Buena Vida/ a Disruptive Approach to Living a Good Life)",
+          "authors": "Manson|MARK",
+          "publisher": "HarpercollinsEspanol",
+          "publication_year": "2018",
+          "isbn13": "9781400213306",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/058/13805839.jpg?type=m1&udate=20200823",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6383730",
+          "loan_count": "87"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "50 이후, 인생을 결정하는 열 가지 힘",
+          "authors": "B. F. 스키너,마거릿 E. 본 [공]지음;이시형 옮김",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "1165211254979",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "183.7",
+          "class_nm": "철학 > 심리학 > 발달심리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5705439",
+          "loan_count": "84"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "64",
+          "bookname": "나도 이유가 있어!:마음을 읽어 주는 그림책",
+          "authors": "송지영 글;혜경 그림",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9781195049982",
+          "addition_symbol": "77800",
+          "vol": "",
+          "class_no": "186.3",
+          "class_nm": "철학 > 심리학 > 임상심리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705411",
+          "loan_count": "84"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "The Organized Mind : Thinking Straight in the Age of Information Overload (Paperback) - '정리하는 뇌' 원서",
+          "authors": "대니얼 J. 레비틴 (지은이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2015",
+          "isbn13": "9780241965788",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/56/cover/0241965780_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5462731",
+          "loan_count": "82"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "내 인생에 너만 없었다면:나를 힘들게 하는 당신에 대한 이야기",
+          "authors": "프랑수아 를로르;크리스토프 앙드레 [공]지음;최고나 옮김",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9781185494624",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "182.12",
+          "class_nm": "철학 > 심리학 > 차이심리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705241",
+          "loan_count": "81"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Think Again (Paperback)",
+          "authors": "애덤 그랜트 (지은이)",
+          "publisher": "Ebury Publishing",
+          "publication_year": "2021",
+          "isbn13": "9780753553893",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/25272/22/cover/0753553899_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5967323",
+          "loan_count": "79"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "68",
+          "bookname": "Things to Look Forward to (Hardcover)",
+          "authors": "소피 블랙올 (그림)",
+          "publisher": "Chronicle Books",
+          "publication_year": "2022",
+          "isbn13": "9781797214481",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/27843/18/cover/1797214489_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6506308",
+          "loan_count": "79"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "(화를 참지 못하는 세상에서) 정신적 폭력으로부터 나를 지키는 방법 ",
+          "authors": "가타다 다마미 지음;이소담 엮음",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "7889626098379",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3348433",
+          "loan_count": "78"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "70",
+          "bookname": "Mixed feelings ",
+          "authors": "by Liana Finck",
+          "publisher": "Rise x Penguin Workshop",
+          "publication_year": "2025",
+          "isbn13": "9780593660423",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/33840/39/cover200/0593660420_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7032498",
+          "loan_count": "78"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "70",
+          "bookname": "(The) monster parade :a book about feeling all your feelings and then watching them go ",
+          "authors": "Wendy O'Leary ;illustrated by Noémie Gionet Landry",
+          "publisher": "Bala Kids",
+          "publication_year": "2022",
+          "isbn13": "9781611809220",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/27842/78/cover/1611809223_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6484782",
+          "loan_count": "78"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "The Power of One More: The Ultimate Guide to Happiness and Success (Hardcover)",
+          "authors": "Ed Mylett (지은이)",
+          "publisher": "John Wiley & Sons Inc",
+          "publication_year": "2022",
+          "isbn13": "9781119815365",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/26414/73/cover/1119815363_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6559094",
+          "loan_count": "77"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "73",
+          "bookname": "감정은 습관이다:부정의 나를 긍정의 나로 바꾸는 힘",
+          "authors": "박용철 지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781155400051",
+          "addition_symbol": "13180",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2704679",
+          "loan_count": "77"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "73",
+          "bookname": "백년을 살아보니 [대활자본]",
+          "authors": "김형석 지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781185716534",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6025980",
+          "loan_count": "77"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "I feel... ",
+          "authors": "words and pictures by DJ Corchin",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2020",
+          "isbn13": "9781728219462",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/23141/6/cover/1728219469_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063007",
+          "loan_count": "75"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "76",
+          "bookname": "(Everybody feels...)scared!",
+          "authors": "by Moira butterfield;Holly Sterling",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781784935146",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3751514",
+          "loan_count": "75"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "It's OK to Make Mistakes (Hardcover)",
+          "authors": "Anneliesdraws (지은이)",
+          "publisher": "Wide Eyed Editions",
+          "publication_year": "2021",
+          "isbn13": "9780711251984",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/26199/75/cover/0711251983_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6333936",
+          "loan_count": "74"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "Here's to Your Dreams!: A Teatime with Noah Book (Hardcover)",
+          "authors": "Dave Hollis (지은이), Arief Putra (그림)",
+          "publisher": "Thomas Nelson Publishers",
+          "publication_year": "2022",
+          "isbn13": "9781400231751",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "183.2",
+          "class_nm": "철학 > 심리학 > 발달심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27807/11/cover/1400231752_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6778900",
+          "loan_count": "73"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "79",
+          "bookname": "Do I have to?",
+          "authors": "Katherine Eason",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781804451779",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6888315",
+          "loan_count": "73"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "First Emotions: I Feel Happy (Board Book)",
+          "authors": "DK (지은이)",
+          "publisher": "Dorling Kindersley Ltd",
+          "publication_year": "2020",
+          "isbn13": "9780241439579",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/21089/68/cover/0241439574_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5988670",
+          "loan_count": "72"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "81",
+          "bookname": "My Little Book of Feelings (Novelty Book)",
+          "authors": "Vanessa Port (그림)",
+          "publisher": "North Parade Publishing",
+          "publication_year": "2025",
+          "isbn13": "9781835092361",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7046464",
+          "loan_count": "72"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "81",
+          "bookname": "反応しない練習 :あらゆる悩みが消えていくブッダの超・合理的な「考え方」 ",
+          "authors": "著者: 草薙龍瞬",
+          "publisher": "KADOKAWA",
+          "publication_year": "2015",
+          "isbn13": "9784041030400",
+          "addition_symbol": "0030",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/093/460/09346049.jpg?type=m1&udate=20161201",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2915988",
+          "loan_count": "72"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "프랑켄슈타인과 철학 좀 하는 괴물:괴물, 인간을 탐구하다",
+          "authors": "문명식 지음;원혜진 그림",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9781195030584",
+          "addition_symbol": "44100",
+          "vol": "",
+          "class_no": "114",
+          "class_nm": "철학 > 형이상학 > 철학적 인간학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705402",
+          "loan_count": "71"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "84",
+          "bookname": "Mini Philosophy : A Small Book of Big Ideas (Hardcover) - 『필로소피 랩』원서",
+          "authors": "Jonny Thomson (지은이)",
+          "publisher": "Headline Publishing Group",
+          "publication_year": "2021",
+          "isbn13": "9781472282170",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "104",
+          "class_nm": "철학 > 철학 > 강연집, 수필집",
+          "bookImageURL": "https://image.aladin.co.kr/product/26201/76/cover/1472282175_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6372128",
+          "loan_count": "71"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "嫌われる勇気 :自己啓発の源流「アドラー」の教え ",
+          "authors": "著者: 岸見一郎,古賀史健",
+          "publisher": "ダイヤモンド社",
+          "publication_year": "2013",
+          "isbn13": "9784478025819",
+          "addition_symbol": "0030",
+          "vol": "1",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/3411/20/cover/4478025819_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2910194",
+          "loan_count": "67"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "86",
+          "bookname": "대화가 필요해!",
+          "authors": "박현진 지음;윤정주 그림;캐서린 한 감수",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789788990024",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "180",
+          "class_nm": "철학 > 심리학 > 심리학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2852994",
+          "loan_count": "67"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "Explaining Humans : Winner of the Royal Society Science Book Prize 2020 (Paperback)",
+          "authors": "Camilla Pang (지은이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2021",
+          "isbn13": "9780241987117",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "180",
+          "class_nm": "철학 > 심리학 > 심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24727/84/cover/0241987113_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6327296",
+          "loan_count": "66"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "88",
+          "bookname": "(101)Ways to bug your teacher",
+          "authors": "by Lee Wardlaw",
+          "publisher": "",
+          "publication_year": "2005",
+          "isbn13": "9780439791069",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "158",
+          "class_nm": "철학 > 동양 철학, 사상 > 서남아시아(근동, 중동) 제국철학, 사상",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2691562",
+          "loan_count": "66"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "88",
+          "bookname": "(Everybody feels...)happy!",
+          "authors": "by Moira butterfield;Holly Sterling",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781784935122",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3751512",
+          "loan_count": "66"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "88",
+          "bookname": "I want to watch!",
+          "authors": "Katherine Eason",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781804451656",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6888324",
+          "loan_count": "66"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "Pip and Posy: The Little Puddle (Board Book)",
+          "authors": "악셀 셰플러 (지은이)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2015",
+          "isbn13": "9780857632395",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "126",
+          "class_nm": "철학 > 인식론, 인과론, 인간학 > 철학적 인간학",
+          "bookImageURL": "https://image.aladin.co.kr/product/5722/93/cover/0857632396_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5783112",
+          "loan_count": "65"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "92",
+          "bookname": "Purrfect Pranksters (Paperback)",
+          "authors": "Shannon Penney (지은이), Addy Rivera Sonda (그림)",
+          "publisher": "Scholastic Paperbacks",
+          "publication_year": "2020",
+          "isbn13": "9781338540383",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "197",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 성윤리",
+          "bookImageURL": "https://image.aladin.co.kr/product/20306/77/cover/1338540386_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6322389",
+          "loan_count": "65"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "어쩌면 동화는 어른을 위한 것:지친 너에게 권하는 동화 속 명언 320가지",
+          "authors": "이서희 지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781186151489",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.8",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6339523",
+          "loan_count": "63"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "94",
+          "bookname": "So what!",
+          "authors": "Katherine Eason",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781804451618",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6888332",
+          "loan_count": "63"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "94",
+          "bookname": "I want it!",
+          "authors": "Katherine Eason",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781804451717",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6888323",
+          "loan_count": "63"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "94",
+          "bookname": "因为痛, 所以叫青春 =写给独自站在人生路口的你 /(The) pain makes it youth ",
+          "authors": "金兰都 著 ;金勇 译",
+          "publisher": "廣西科学技術出版社",
+          "publication_year": "2012",
+          "isbn13": "9787807637295",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "199.5",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "http://image.aladin.co.kr/product/1780/8/cover/7807637293_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1872874",
+          "loan_count": "63"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "You choose in space",
+          "authors": "Nick Sharratt ;Pippa Goodhart",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780241368299",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5222291",
+          "loan_count": "62"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "98",
+          "bookname": "When I am Happy (Board Book)",
+          "authors": "BOOKS  CAMPBELL (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2020",
+          "isbn13": "9781529029789",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "181.7",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6572389",
+          "loan_count": "62"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "98",
+          "bookname": "镜中的我:积极思考的力量",
+          "authors": "(美)露易丝·海;克里斯蒂娜·特雷西 著;(德)曼纽拉·施瓦兹 绘;张羲 译",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9787513319126",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3251284",
+          "loan_count": "62"
+        }
+      }
+    ]
+  }
+}

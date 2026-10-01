@@ -1,0 +1,815 @@
+{
+  "response": {
+    "request": {
+      "keyword": "프로젝트",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 1742,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130641607",
+          "addition_symbol": "77700",
+          "vol": "4",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/28344/0/cover/k342835103_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6339841",
+          "loan_count": "79736"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 5 - 초등 국어 고수 되기 프로젝트",
+          "authors": "한은호 (지은이), 흔한남매 (원작), 유희석 (그림), 흔한컴퍼니 (감수)",
+          "publisher": "다산어린이",
+          "publication_year": "2022",
+          "isbn13": "9791130679266",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "",
+          "bookImageURL": "https://image.aladin.co.kr/product/29168/59/cover/k962837473_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6431746",
+          "loan_count": "72744"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(설민석의) 무도 한국사 특강 ",
+          "authors": "설민석 지음",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954623773",
+          "addition_symbol": "03910",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/3501/62/cover/8954623778_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2011957",
+          "loan_count": "65144"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인류 탐험 보고서",
+          "authors": "글: 차유진,그림: 김현민",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2021",
+          "isbn13": "9788950996505",
+          "addition_symbol": "74400",
+          "vol": "1",
+          "class_no": "471",
+          "class_nm": "자연과학 > 생물과학 > 인류학(자연인류학)",
+          "bookImageURL": "https://image.aladin.co.kr/product/27637/74/cover/8950996502_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6061650",
+          "loan_count": "59223"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 소프트웨어와 코딩 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930219556",
+          "addition_symbol": "74400",
+          "vol": "",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "http://image.aladin.co.kr/product/7153/70/cover/8930219551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097787",
+          "loan_count": "56923"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "캡슐 마녀의 수리수리 약국 ",
+          "authors": "김소민 글 ;소윤경 그림",
+          "publisher": "비룡소",
+          "publication_year": "2012",
+          "isbn13": "9788949161495",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/332/06833270.jpg?type=m1&udate=20180712",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372761",
+          "loan_count": "53746"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957361993",
+          "addition_symbol": "74510",
+          "vol": "3",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/206/490/20649051.jpg?type=m1&udate=20210618",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=351971",
+          "loan_count": "51994"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 냉장고를 부탁해 :대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜 ",
+          "authors": "글: 스토리박스 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2015",
+          "isbn13": "9788960243781",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7212/81/cover/8960243787_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3118536",
+          "loan_count": "51376"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "노잣돈 갚기 프로젝트 ",
+          "authors": "김진희 글 ;손지희 그림",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954634748",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5300/60/cover/8954634745_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2618039",
+          "loan_count": "51166"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 절약 영재 발굴단 ",
+          "authors": "글: 임창호 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2016",
+          "isbn13": "9788960243873",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/144/11214453.jpg?type=m1&udate=20170225",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3385978",
+          "loan_count": "50983"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957362020",
+          "addition_symbol": "74510",
+          "vol": "4",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27923/21/cover/8957362029_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6288690",
+          "loan_count": "49359"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090200",
+          "addition_symbol": "74510",
+          "vol": "6",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29010/36/cover/k932836528_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6417153",
+          "loan_count": "47356"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957362037",
+          "addition_symbol": "74510",
+          "vol": "5",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28310/20/cover/8957362037_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6337498",
+          "loan_count": "46531"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "authors": "송희구 지음",
+          "publisher": "서삼독",
+          "publication_year": "2023",
+          "isbn13": "9791165347161",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/31515/53/cover/k842832539_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6676280",
+          "loan_count": "44290"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090217",
+          "addition_symbol": "74510",
+          "vol": "7",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29523/27/cover/k522837347_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468894",
+          "loan_count": "40464"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090224",
+          "addition_symbol": "74510",
+          "vol": "8",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29809/38/cover/k652838211_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6520171",
+          "loan_count": "39013"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090743",
+          "addition_symbol": "74510",
+          "vol": "11",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31064/81/cover/k092831526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6638934",
+          "loan_count": "38827"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 절약 1박 2일 - 대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜",
+          "authors": "이봉기 (글), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243439",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5489/7/cover/8960243434_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2792847",
+          "loan_count": "38732"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나에게 고맙다 :책 읽어주는 남자의 토닥토닥 에세이 ",
+          "authors": "글: 전승환",
+          "publisher": "백도씨",
+          "publication_year": "2016",
+          "isbn13": "9788968330889",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/408/10740832.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3173479",
+          "loan_count": "38619"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "똑게육아 =내 아이에게 '꿀잠' 선물하기 프로젝트 /Smart & lazy motherhood consulting ",
+          "authors": "로리 지음",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954639002",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "http://image.aladin.co.kr/product/7178/18/cover/s262532660_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3100886",
+          "loan_count": "35176"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자가 되는 정리의 힘 :정리만 했을 뿐인데 돈, 시간, 의욕이 생긴다 ",
+          "authors": "윤선현 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2015",
+          "isbn13": "9788960868878",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "http://image.aladin.co.kr/product/7181/61/cover/8960868876_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3104938",
+          "loan_count": "34327"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인류 탐험 보고서",
+          "authors": "글: 차유진,그림: 김현민",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2021",
+          "isbn13": "9788950996536",
+          "addition_symbol": "74400",
+          "vol": "4",
+          "class_no": "471",
+          "class_nm": "자연과학 > 생물과학 > 인류학(자연인류학)",
+          "bookImageURL": "https://image.aladin.co.kr/product/29980/78/cover/8950996537_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6543170",
+          "loan_count": "33785"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "1시간에 1권 퀀텀 독서법 :하루 30분 3주면 된다! ",
+          "authors": "김병완 지음",
+          "publisher": "청림출판",
+          "publication_year": "2017",
+          "isbn13": "9788935211609",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "029.4",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "http://image.aladin.co.kr/product/10539/30/cover/8935211605_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3422189",
+          "loan_count": "29696"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "authors": "나민애 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934965404",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "375.471",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/33600/46/cover/8934965401_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6843539",
+          "loan_count": "29595"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당신의 소원을 들어드립니다 :이지음 장편동화 ",
+          "authors": "글쓴이: 이지음 ;그린이: 국민지",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949121956",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28584/89/cover/8949121956_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6371843",
+          "loan_count": "29105"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "무지개 도시를 만드는 초록 슈퍼맨 :세상을 바꾸는 시민의 힘 ",
+          "authors": "김영숙 글 ;장명진 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2015",
+          "isbn13": "9788962476682",
+          "addition_symbol": "73330",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반  > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7204/82/cover/8962476681_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3118640",
+          "loan_count": "28455"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인류 탐험 보고서",
+          "authors": "글: 차유진,그림: 김현민",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2021",
+          "isbn13": "9788950996543",
+          "addition_symbol": "74400",
+          "vol": "5",
+          "class_no": "471",
+          "class_nm": "자연과학 > 생물과학 > 인류학(자연인류학)",
+          "bookImageURL": "https://image.aladin.co.kr/product/30771/29/cover/8950996545_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6614559",
+          "loan_count": "28320"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "습관의 재발견 :기적 같은 변화를 불러오는 작은 습관의 힘 ",
+          "authors": "스티븐 기즈 지음 ;구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2014",
+          "isbn13": "9788997575336",
+          "addition_symbol": "13190",
+          "vol": "",
+          "class_no": "181.845",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/4882/22/cover/8997575333_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614320",
+          "loan_count": "26451"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 덜렁이도 같이 펀딩 :대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜 ",
+          "authors": "글: 임창호 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2020",
+          "isbn13": "9788960245082",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "327",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/23861/65/cover/8960245089_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5660215",
+          "loan_count": "26326"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "6개월에 천만 원 모으기 :EBS 특별기획 호모이코노미쿠스 ",
+          "authors": "이대표,서영아 지음",
+          "publisher": "한국경제신문",
+          "publication_year": "2018",
+          "isbn13": "9788947544337",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/17640/61/cover/8947544337_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5338574",
+          "loan_count": "26061"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "1cm 다이빙 ",
+          "authors": "지은이: 장태수,조문정",
+          "publisher": "Fika(피카)",
+          "publication_year": "2020",
+          "isbn13": "9791190299060",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/22869/54/cover/k012636849_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5588452",
+          "loan_count": "25459"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지방 대사 켜는 스위치온 다이어트 ",
+          "authors": "박용우 지음",
+          "publisher": "루미너스",
+          "publication_year": "2018",
+          "isbn13": "9791196334703",
+          "addition_symbol": "13510",
+          "vol": "",
+          "class_no": "517.52",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/13709/58/cover/k632532720_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3723429",
+          "loan_count": "25044"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "SCP 재단 :확보하고 격리하고 보호하라 ",
+          "authors": "저자: 올드스테어즈 편집부",
+          "publisher": "Old Stairs",
+          "publication_year": "2021",
+          "isbn13": "9791191156256",
+          "addition_symbol": "77000",
+          "vol": "",
+          "class_no": "187",
+          "class_nm": "철학 > 심리학 > 심령연구 및 비학, 초심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27604/47/cover/k442733924_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6060852",
+          "loan_count": "24113"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "암호클럽",
+          "authors": "글: 페니 워너 ;윤영",
+          "publisher": "가람어린이",
+          "publication_year": "2016",
+          "isbn13": "9791187777588",
+          "addition_symbol": "74840",
+          "vol": "8",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/15410/61/cover/k502533429_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3804542",
+          "loan_count": "23895"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로봇 소년, 학교에 가다 ",
+          "authors": "톰 앵글버거,김영란 옮김",
+          "publisher": "미래M&B",
+          "publication_year": "2017",
+          "isbn13": "9788983948113",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10016/21/cover/8983948116_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3409122",
+          "loan_count": "23177"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 울 때마다 엄마 얼굴이 된다 ",
+          "authors": "이슬아 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954653381",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/17111/75/cover/8954653383_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5220761",
+          "loan_count": "23104"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "변호사 어벤저스 :어린이 법학 동화",
+          "authors": "글: 고희정 ;그림: 최미란",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2024",
+          "isbn13": "9791168091238",
+          "addition_symbol": "74810",
+          "vol": "2",
+          "class_no": "360",
+          "class_nm": "사회과학 > 법학 > 법학",
+          "bookImageURL": "https://image.aladin.co.kr/product/34411/44/cover200/k662932021_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6926522",
+          "loan_count": "22609"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "한강 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954693462",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "810.81",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31784/0/cover/8954693466_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6701218",
+          "loan_count": "22451"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "청소 특공대 다람단",
+          "authors": "글·그림: 문채빈",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168415393",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/31954/15/cover/k672833259_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6718965",
+          "loan_count": "22367"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "SCP 재단 :확보하고 격리하고 보호하라",
+          "authors": "저자: 올드스테어즈 편집부,Team. StoryG",
+          "publisher": "Old Stairs",
+          "publication_year": "2021",
+          "isbn13": "9791191156324",
+          "addition_symbol": "77000",
+          "vol": "2",
+          "class_no": "187",
+          "class_nm": "철학 > 심리학 > 심령연구 및 비학, 초심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27983/82/cover/k622734221_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6307319",
+          "loan_count": "22186"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "1일 1정리 :1/1 ",
+          "authors": "심지은 지음",
+          "publisher": "For Book",
+          "publication_year": "2018",
+          "isbn13": "9791159000508",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "595.4",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 주택관리 및 가정설비",
+          "bookImageURL": "https://image.aladin.co.kr/product/17399/89/cover/k052534704_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5244144",
+          "loan_count": "22086"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "SCP 재단 :확보하고 격리하고 보호하라",
+          "authors": "저자: 올드스테어즈 편집부,Team. StoryG",
+          "publisher": "Old Stairs",
+          "publication_year": "2021",
+          "isbn13": "9791191156409",
+          "addition_symbol": "77000",
+          "vol": "3",
+          "class_no": "187",
+          "class_nm": "철학 > 심리학 > 심령연구 및 비학, 초심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28356/39/cover/k402835307_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6344824",
+          "loan_count": "21896"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(지랄발랄 하은맘의) 십팔년 책육아 ",
+          "authors": "김선미 지음",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2019",
+          "isbn13": "9788925567921",
+          "addition_symbol": "13370",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://image.aladin.co.kr/product/21198/59/cover/892556792x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5505145",
+          "loan_count": "21822"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? Special 앙겔라 메르켈",
+          "authors": "오영석",
+          "publisher": "다산어린이",
+          "publication_year": "2018",
+          "isbn13": "9791156397151",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/133/488/13348850.jpg?type=m1&udate=20180309",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3701972",
+          "loan_count": "21664"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 수학 :확률과 통계",
+          "authors": "글: 그림나무 ;그림: 김성래",
+          "publisher": "예림당",
+          "isbn13": "9788930220743",
+          "addition_symbol": "74410",
+          "vol": "2",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7672/97/cover/8930220746_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3122191",
+          "loan_count": "21351"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "여행영어 100일의 기적 :해외여행 준비 D-100 프로젝트 ",
+          "authors": "문성현 지음",
+          "publisher": "넥서스",
+          "publication_year": "2017",
+          "isbn13": "9791161650401",
+          "addition_symbol": "13740",
+          "vol": "",
+          "class_no": "747.5",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "http://image.aladin.co.kr/product/11100/26/cover/k002531575_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3450344",
+          "loan_count": "21072"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 노무현 =Roh Moo-hyun ",
+          "authors": "글·그림: 스튜디오 청비",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2015",
+          "isbn13": "9791156391609",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/5684/62/cover/6000840876_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646421",
+          "loan_count": "21033"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(KBS 위기탈출) 넘버원",
+          "authors": "구성: 에듀코믹 ;원 프로덕션",
+          "publisher": "밝은미래",
+          "publication_year": "2006",
+          "isbn13": "9788965461708",
+          "addition_symbol": "77810",
+          "vol": "32",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반  > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5736/64/cover/8965461707_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620469",
+          "loan_count": "20926"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "딱 1년만 옷 안사고 살아보기 ",
+          "authors": "임다혜 지음",
+          "publisher": "잇콘",
+          "publication_year": "2019",
+          "isbn13": "9791196630409",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/18701/52/cover/k572635878_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5382740",
+          "loan_count": "20795"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(호야의) 티키타카 경제왕 :어린이 금융 습관 기르기 프로젝트",
+          "authors": "글: 달콤팩토리 ;그림: 박종호",
+          "publisher": "북이십일",
+          "publication_year": "2022",
+          "isbn13": "9788950941673",
+          "addition_symbol": "77320",
+          "vol": "1",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30683/5/cover/8950941678_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6607644",
+          "loan_count": "20567"
+        }
+      }
+    ]
+  }
+}

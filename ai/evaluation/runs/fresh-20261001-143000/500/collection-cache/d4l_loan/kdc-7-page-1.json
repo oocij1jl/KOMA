@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "7",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130637594",
+          "addition_symbol": "77700",
+          "vol": "2",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/27144/52/cover/k372731447_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5982308",
+          "loan_count": "96200"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950963477",
+          "addition_symbol": "77720",
+          "vol": "35",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/8123/66/cover/8950963477_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3139924",
+          "loan_count": "91509"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950980801",
+          "addition_symbol": "77720",
+          "vol": "45",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/19184/13/cover/8950980800_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5408148",
+          "loan_count": "91025"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950961435",
+          "addition_symbol": "77720",
+          "vol": "33",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/096/399/09639929.jpg?type=m1&udate=20151001",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2877115",
+          "loan_count": "90702"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130640280",
+          "addition_symbol": "77700",
+          "vol": "3",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/27833/74/cover/k162734674_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6084991",
+          "loan_count": "90208"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950982898",
+          "addition_symbol": "77720",
+          "vol": "46",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/20925/63/cover/8950982897_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5481400",
+          "loan_count": "89430"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950960537",
+          "addition_symbol": "77720",
+          "vol": "32",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/092/296/09229672.jpg?type=m1&udate=20150701",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396989",
+          "loan_count": "88666"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950957827",
+          "addition_symbol": "77720",
+          "vol": "31",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/5502/44/cover/8950957825_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645756",
+          "loan_count": "88067"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950962746",
+          "addition_symbol": "77720",
+          "vol": "34",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/7368/83/cover/8950962748_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3110248",
+          "loan_count": "87553"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950965471",
+          "addition_symbol": "77720",
+          "vol": "36",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/8762/64/cover/895096547x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3247284",
+          "loan_count": "87410"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950984748",
+          "addition_symbol": "77720",
+          "vol": "47",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/22947/24/cover/8950984741_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5586945",
+          "loan_count": "84964"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950987749",
+          "addition_symbol": "77720",
+          "vol": "48",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/24081/64/cover/8950987740_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5670909",
+          "loan_count": "83066"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950967024",
+          "addition_symbol": "77720",
+          "vol": "30",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/4934/29/cover/8950967022_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2613928",
+          "loan_count": "82739"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950967321",
+          "addition_symbol": "77720",
+          "vol": "37",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/234/11223446.jpg?type=m1&udate=20161027",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3380679",
+          "loan_count": "82124"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950952587",
+          "addition_symbol": "77720",
+          "vol": "27",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/3530/49/cover/8950952580_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604614",
+          "loan_count": "81901"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130641607",
+          "addition_symbol": "77700",
+          "vol": "4",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/28344/0/cover/k342835103_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6339841",
+          "loan_count": "81894"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950968670",
+          "addition_symbol": "77720",
+          "vol": "38",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/10215/5/cover/8950968673_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3412238",
+          "loan_count": "81408"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950948030",
+          "addition_symbol": "77720",
+          "vol": "25",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/924/07192483.jpg?type=m1&udate=20130425",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376578",
+          "loan_count": "81335"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950969783",
+          "addition_symbol": "77720",
+          "vol": "39",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/11040/73/cover/8950969785_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3443871",
+          "loan_count": "79779"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950989804",
+          "addition_symbol": "77720",
+          "vol": "49",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/25166/28/cover/8950989808_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5770455",
+          "loan_count": "79466"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950993153",
+          "addition_symbol": "77720",
+          "vol": "50",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/26192/73/cover/8950993155_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5852314",
+          "loan_count": "79188"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950954949",
+          "addition_symbol": "77720",
+          "vol": "28",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/3960/28/cover/895095494x_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2605008",
+          "loan_count": "78874"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950950750",
+          "addition_symbol": "77720",
+          "vol": "26",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/3045/87/cover/8950950758_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2602751",
+          "loan_count": "77851"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950956233",
+          "addition_symbol": "77720",
+          "vol": "29",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/4387/16/cover/8950956233_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2611550",
+          "loan_count": "77067"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950945220",
+          "addition_symbol": "77720",
+          "vol": "24",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/044/07104446.jpg?type=m1&udate=20130115",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376577",
+          "loan_count": "76587"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950939618",
+          "addition_symbol": "77720",
+          "vol": "23",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/070/152/07015260.jpg?type=m1&udate=20120920",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376576",
+          "loan_count": "76459"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950937911",
+          "addition_symbol": "77720",
+          "vol": "22",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/462/06946215.jpg?type=m1&udate=20120619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376575",
+          "loan_count": "76066"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950971946",
+          "addition_symbol": "77720",
+          "vol": "40",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/11872/91/cover/8950971941_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3629683",
+          "loan_count": "75650"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950936358",
+          "addition_symbol": "77720",
+          "vol": "21",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/693/06869397.jpg?type=m1&udate=20120326",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376574",
+          "loan_count": "74718"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950973223",
+          "addition_symbol": "77720",
+          "vol": "41",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/565/13256553.jpg?type=m1&udate=20180126",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3694200",
+          "loan_count": "73897"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950975739",
+          "addition_symbol": "77720",
+          "vol": "42",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/15218/88/cover/8950975734_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3787804",
+          "loan_count": "71093"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2018",
+          "isbn13": "9791158681531",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/17584/36/cover/k552534711_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5296196",
+          "loan_count": "70387"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "영어책 한 권 외워봤니? :딱 한 권만 넘으면 영어 울렁증이 사라진다 ",
+          "authors": "김민식 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9788960863132",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "740",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "http://image.aladin.co.kr/product/10010/27/cover/8960863130_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3405492",
+          "loan_count": "69174"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2019",
+          "isbn13": "9791158681647",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "711",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/20178/19/cover/k152635649_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5458890",
+          "loan_count": "69105"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950995904",
+          "addition_symbol": "77720",
+          "vol": "51",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/27526/22/cover/8950995905_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6045918",
+          "loan_count": "68859"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950935252",
+          "addition_symbol": "77720",
+          "vol": "20",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/031/06803135.jpg?type=m1&udate=20120120",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376573",
+          "loan_count": "68473"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2018",
+          "isbn13": "9791158681487",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/15618/32/cover/k192533830_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3834442",
+          "loan_count": "65478"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950977306",
+          "addition_symbol": "77720",
+          "vol": "43",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17046/9/cover/8950977303_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3920584",
+          "loan_count": "64840"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950979300",
+          "addition_symbol": "77720",
+          "vol": "44",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17997/54/cover/8950979306_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359799",
+          "loan_count": "64109"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950908584",
+          "addition_symbol": "77720",
+          "vol": "19",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/219/06721903.jpg?type=m1&udate=20110830",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371811",
+          "loan_count": "63616"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950997717",
+          "addition_symbol": "77720",
+          "vol": "52",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/28527/35/cover/8950997711_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6365158",
+          "loan_count": "62846"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "(지적이고 아름다운 삶을 위한) 라틴어 수업 ",
+          "authors": "한동일 지음",
+          "publisher": "흐름출판",
+          "publication_year": "2017",
+          "isbn13": "9788965962205",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "792.2",
+          "class_nm": "언어 > 기타 제어 > 인도-유럽계어",
+          "bookImageURL": "http://image.aladin.co.kr/product/11217/32/cover/896596220x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3456002",
+          "loan_count": "60015"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950903138",
+          "addition_symbol": "77720",
+          "vol": "53",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/29781/62/cover/895090313x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6512858",
+          "loan_count": "58673"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "신비아파트 한자 귀신 1 - 1001개의 구슬",
+          "authors": "김강현 (지은이), 김기수 (그림), 김경익, 박상우 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2018",
+          "isbn13": "9788926380413",
+          "addition_symbol": "67400",
+          "vol": "1",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17423/10/cover/8926380416_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5243802",
+          "loan_count": "55238"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "신비아파트 한자 귀신 2 - 저주의 대가",
+          "authors": "김강현 (지은이), 김기수 (그림), 김경익, 박상우 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2019",
+          "isbn13": "9788926382141",
+          "addition_symbol": "67400",
+          "vol": "2",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17856/94/cover/8926382141_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5355363",
+          "loan_count": "53223"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "마법천자문 1 - 불어라! 바람 풍風",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2003",
+          "isbn13": "9788950936006",
+          "addition_symbol": "77720",
+          "vol": "1",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864077.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374159",
+          "loan_count": "53153"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158681999",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/27794/72/cover/k262734065_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6079130",
+          "loan_count": "52870"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934990987",
+          "addition_symbol": "77700",
+          "vol": "1",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/180/049/18004915.jpg?type=m1&udate=20210218",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5882750",
+          "loan_count": "50388"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950922955",
+          "addition_symbol": "77720",
+          "vol": "54",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/30064/43/cover/8950922959_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6552618",
+          "loan_count": "49905"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "마법천자문 2 - 솟아라! 뿔 각角",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2003",
+          "isbn13": "9788950936013",
+          "addition_symbol": "77720",
+          "vol": "2",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864080.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374169",
+          "loan_count": "49706"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950942274",
+          "addition_symbol": "77720",
+          "vol": "55",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/30349/58/cover/8950942275_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6577877",
+          "loan_count": "49060"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158681944",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/26944/79/cover/k392730819_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962212",
+          "loan_count": "48113"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "잠수네 프리스쿨 영어공부법 :엄마와 아이가 모두 행복한 5세·6세·7세 로드맵 ",
+          "authors": "이신애 지음",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2014",
+          "isbn13": "9788925552651",
+          "addition_symbol": "03740",
+          "vol": "",
+          "class_no": "740.7",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "http://image.aladin.co.kr/product/3954/19/cover/8925552655_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2038840",
+          "loan_count": "47823"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976859",
+          "addition_symbol": "77720",
+          "vol": "1",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17845/81/cover/8950976854_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5348021",
+          "loan_count": "47821"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926398234",
+          "addition_symbol": "64710",
+          "vol": "2",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/5387/33/cover/8926398234_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2616787",
+          "loan_count": "46605"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926398111",
+          "addition_symbol": "64710",
+          "vol": "1",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/5028/47/cover/8926398110_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431488",
+          "loan_count": "46563"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "마법천자문 3 - 비춰라! 빛 광光",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2004",
+          "isbn13": "9788950936020",
+          "addition_symbol": "77720",
+          "vol": "3",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864081.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374170",
+          "loan_count": "46119"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "(영어 앞에서 당당한 아이를 만드는 새벽달의) 엄마표 영어 17년 보고서 ",
+          "authors": "새벽달 지음",
+          "publisher": "청림출판",
+          "publication_year": "2016",
+          "isbn13": "9788997195916",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "740.7",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/429/11242999.jpg?type=m1&udate=20170725",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3385866",
+          "loan_count": "46058"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950942694",
+          "addition_symbol": "77720",
+          "vol": "56",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/30782/28/cover/8950942690_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6615186",
+          "loan_count": "46034"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "(신비아파트) 한자귀신",
+          "authors": "글: 김강현 ;그림: 김기수",
+          "publisher": "서울문화사",
+          "publication_year": "2019",
+          "isbn13": "9791164386178",
+          "addition_symbol": "67400",
+          "vol": "7",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/21778/96/cover/k912636106_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529835",
+          "loan_count": "45889"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2019",
+          "isbn13": "9791158681722",
+          "addition_symbol": "73740",
+          "vol": "",
+          "class_no": "744",
+          "class_nm": "언어 > 영어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/22132/63/cover/k472636210_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5545179",
+          "loan_count": "45567"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "마법천자문 4 - 울려라! 소리 음音",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2004",
+          "isbn13": "9788950936037",
+          "addition_symbol": "77720",
+          "vol": "4",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864082.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374171",
+          "loan_count": "45177"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387078",
+          "addition_symbol": "64710",
+          "vol": "4",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/094/725/09472511.jpg?type=m1&udate=20160218",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2667846",
+          "loan_count": "45062"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "설민석의 고사성어 대격돌",
+          "authors": "글: 설민석,그림: 김문식",
+          "publisher": "한솔수북",
+          "publication_year": "2020",
+          "isbn13": "9791170287056",
+          "addition_symbol": "74700",
+          "vol": "1",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/25648/48/cover/k512735043_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5815459",
+          "loan_count": "45018"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934989882",
+          "addition_symbol": "77700",
+          "vol": "2",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/27002/0/cover/8934989882_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5966610",
+          "loan_count": "44845"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976866",
+          "addition_symbol": "77720",
+          "vol": "2",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17845/97/cover/8950976862_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359850",
+          "loan_count": "44760"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "(신비아파트) 한자귀신",
+          "authors": "글: 김강현 ;그림: 김기수",
+          "publisher": "서울문화사",
+          "publication_year": "2019",
+          "isbn13": "9791164386536",
+          "addition_symbol": "67400",
+          "vol": "9",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/23591/90/cover/k862638429_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5638261",
+          "loan_count": "44731"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "(잠수네 아이들의) 소문난 영어공부법 :통합로드맵 ",
+          "authors": "이신애 지음",
+          "publisher": "알에이치코리아",
+          "publication_year": "2013",
+          "isbn13": "9788925551425",
+          "addition_symbol": "03740",
+          "vol": "",
+          "class_no": "740.7",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "http://image.aladin.co.kr/product/3256/64/cover/892555142x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1991539",
+          "loan_count": "44344"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950970901",
+          "addition_symbol": "77720",
+          "vol": "57",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/873/01587343.jpg?type=m1&udate=20060308",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2769062",
+          "loan_count": "43886"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "마법천자문 5 - 열려라! 열 개開",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2004",
+          "isbn13": "9788950936044",
+          "addition_symbol": "77720",
+          "vol": "5",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864083.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374172",
+          "loan_count": "43643"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976873",
+          "addition_symbol": "77720",
+          "vol": "3",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17846/0/cover/8950976870_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359851",
+          "loan_count": "42730"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "쿠키런 한자런 3 - 이어달리기로 승부다! 이을 계(繼)!, 달리는 쿠키들의 한자 대모험",
+          "authors": "조주희 (글), 이태영 (그림), 김장미 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926387016",
+          "addition_symbol": "64710",
+          "vol": "3",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/6054/10/cover/8926387011_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619720",
+          "loan_count": "42619"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "addition_symbol": "73710",
+          "vol": "",
+          "class_no": "711",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/31155/7/cover/k882831149_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6643894",
+          "loan_count": "42214"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950936150",
+          "addition_symbol": "77720",
+          "vol": "16",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864099.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374166",
+          "loan_count": "42144"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "마법천자문 7 - 쏘아라! 쏠 사射",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2004",
+          "isbn13": "9788950936068",
+          "addition_symbol": "77720",
+          "vol": "7",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864085.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374174",
+          "loan_count": "42067"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387238",
+          "addition_symbol": "64710",
+          "vol": "5",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/7112/63/cover/8926387232_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3102722",
+          "loan_count": "41960"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "마법천자문 11 - 참는 마음! 참을 인忍",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2006",
+          "isbn13": "9788950936105",
+          "addition_symbol": "77720",
+          "vol": "11",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864079.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374161",
+          "loan_count": "41658"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "마법천자문 18 - 오라, 환상의 세계로! 꿈 몽",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2010",
+          "isbn13": "9788950936174",
+          "addition_symbol": "77720",
+          "vol": "18",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864094.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374168",
+          "loan_count": "41111"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "마법천자문 12 - 끊임없는 배움! 배울 학學",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2006",
+          "isbn13": "9788950936112",
+          "addition_symbol": "77720",
+          "vol": "12",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864095.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374162",
+          "loan_count": "40978"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387481",
+          "addition_symbol": "64710",
+          "vol": "6",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/8029/10/cover/8926387488_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3141874",
+          "loan_count": "40892"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "마법천자문 8 - 타올라라! 불꽃 염炎",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950936075",
+          "addition_symbol": "77720",
+          "vol": "8",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864086.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374175",
+          "loan_count": "40844"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934980056",
+          "addition_symbol": "77700",
+          "vol": "3",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/28011/81/cover/8934980052_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6308100",
+          "loan_count": "40824"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "마법천자문 6 - 지어라! 이름 명名",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2004",
+          "isbn13": "9788950936051",
+          "addition_symbol": "77720",
+          "vol": "6",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864084.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374173",
+          "loan_count": "40584"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "마법천자문 10 - 강철의 주먹, 주먹 권拳",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950936099",
+          "addition_symbol": "77720",
+          "vol": "10",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864089.jpg?type=m1&udate=20160312",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374160",
+          "loan_count": "40550"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "마법천자문 15 - 간절히 바라는 마음! 바랄 희希!",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2007",
+          "isbn13": "9788950936143",
+          "addition_symbol": "77720",
+          "vol": "15",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864098.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374165",
+          "loan_count": "40405"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976880",
+          "addition_symbol": "77720",
+          "vol": "4",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17846/9/cover/8950976889_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359852",
+          "loan_count": "40208"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950945565",
+          "addition_symbol": "77720",
+          "vol": "58",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/31554/93/cover/8950945568_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6681826",
+          "loan_count": "40172"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "마법천자문 17 - 거듭해서! 다시 재再",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2008",
+          "isbn13": "9788950936167",
+          "addition_symbol": "77720",
+          "vol": "17",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864093.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374167",
+          "loan_count": "39888"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "그램그램 영문법 원정대",
+          "authors": "지은이: 장영준,김덕영",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788956026220",
+          "addition_symbol": "77740",
+          "vol": "1",
+          "class_no": "745",
+          "class_nm": "언어 > 영어 > 문법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/020/928/02092829.jpg?type=m1&udate=20150428",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371252",
+          "loan_count": "39756"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "마법천자문 9 - 믿는 마음! 믿을 신信",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950936082",
+          "addition_symbol": "77720",
+          "vol": "9",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864088.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374176",
+          "loan_count": "39451"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "마법천자문 13 - 모두에게 알려라~ 알릴 고告!",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2006",
+          "isbn13": "9788950936129",
+          "addition_symbol": "77720",
+          "vol": "13",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864096.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374163",
+          "loan_count": "39437"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387849",
+          "addition_symbol": "64710",
+          "vol": "7",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/281/10728165.jpg?type=m1&udate=20160624",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3190926",
+          "loan_count": "39101"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976897",
+          "addition_symbol": "77720",
+          "vol": "5",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17845/94/cover/8950976897_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359855",
+          "loan_count": "39093"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "마법천자문 14 - 부모님을 향한 마음! 효도 효孝",
+          "authors": "스튜디오 시리얼",
+          "publisher": "아울북",
+          "publication_year": "2007",
+          "isbn13": "9788950936136",
+          "addition_symbol": "77720",
+          "vol": "14",
+          "class_no": "711.47",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/640/06864097.jpg?type=m1&udate=20150819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374164",
+          "loan_count": "38747"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "설민석의 고사성어 대격돌",
+          "authors": "글: 설민석,그림: 김문식",
+          "publisher": "한솔수북",
+          "publication_year": "2020",
+          "isbn13": "9791170287773",
+          "addition_symbol": "74700",
+          "vol": "2",
+          "class_no": "714",
+          "class_nm": "언어 > 한국어 > 어휘",
+          "bookImageURL": "https://image.aladin.co.kr/product/26851/82/cover/k002730494_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5953790",
+          "loan_count": "38391"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976903",
+          "addition_symbol": "77720",
+          "vol": "6",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17846/3/cover/8950976900_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359856",
+          "loan_count": "37968"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "저자: 스튜디오시리얼,정수영",
+          "publisher": "아울북",
+          "publication_year": "2005",
+          "isbn13": "9788950932435",
+          "addition_symbol": "77720",
+          "vol": "59",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/32084/49/cover/8950932431_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6733624",
+          "loan_count": "37832"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384114",
+          "addition_symbol": "64710",
+          "vol": "10",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "http://image.aladin.co.kr/product/10593/0/cover/892638411x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3424307",
+          "loan_count": "37729"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "(쿠키런) 한자런 :달리는 쿠키들의 한자 대모험",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926385371",
+          "addition_symbol": "64710",
+          "vol": "8",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/705/11170501.jpg?type=m1&udate=20161007",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3360468",
+          "loan_count": "37274"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "마법천자문 :손오공의 한자 대탐험",
+          "authors": "글: 시리얼,홍거북",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950976910",
+          "addition_symbol": "77720",
+          "vol": "7",
+          "class_no": "711.4",
+          "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+          "bookImageURL": "https://image.aladin.co.kr/product/17846/6/cover/8950976919_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5359857",
+          "loan_count": "37212"
+        }
+      }
+    ]
+  }
+}

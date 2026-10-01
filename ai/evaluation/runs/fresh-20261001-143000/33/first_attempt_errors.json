@@ -1,0 +1,9 @@
+{
+  "9788960909830.error": {
+    "isbn": "9788960909830",
+    "status_code": 502,
+    "payload": {
+      "detail": "LLM 출력 스키마 검증 실패: 4 validation errors for GenerateResult\nfields.0.review_required\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.0.confidence\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.1.review_required\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.1.confidence\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing"
+    }
+  }
+}

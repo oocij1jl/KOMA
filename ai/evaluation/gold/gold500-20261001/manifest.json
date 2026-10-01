@@ -1,0 +1,19 @@
+{
+  "books": 500,
+  "gold_source": "nl.go.kr 소장자료 목록 MARC 다운로드",
+  "from_primary_sample": 280,
+  "from_extra_candidates": 220,
+  "dropped_in_merge": [
+    "9788972881322"
+  ],
+  "by_category": {
+    "일반도서": 90,
+    "번역서": 105,
+    "복수저자": 75,
+    "외국도서": 10,
+    "후보": 220
+  },
+  "dataset": "dataset.csv",
+  "gold_mrc": "gold.mrc",
+  "note": "정답이 확인된 ISBN만 포함한다. 생성 결과에서 정답을 만들지 않는다."
+}

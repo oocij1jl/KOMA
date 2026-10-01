@@ -1,0 +1,305 @@
+{
+  "isbn": "9791190382175",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791190382175"
+          },
+          {
+            "code": "g",
+            "value": "03320"
+          },
+          {
+            "code": "c",
+            "value": "₩16000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "더 해빙"
+          },
+          {
+            "code": "b",
+            "value": "부와 행운을 끌어당기는 힘"
+          },
+          {
+            "code": "d",
+            "value": "이서윤,홍주연 지음"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "수오서재"
+          },
+          {
+            "code": "c",
+            "value": "2020"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "344 p."
+          },
+          {
+            "code": "c",
+            "value": "21 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '128*203'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '128*203'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "325.2113"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "이서윤"
+          },
+          {
+            "code": "e",
+            "value": "지음"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명 이서윤을 식별하여 700 개인명 부출로 생성"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "홍주연"
+          },
+          {
+            "code": "e",
+            "value": "지음"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명 홍주연을 식별하여 700 개인명 부출로 생성"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "행운"
+          },
+          {
+            "code": "a",
+            "value": "부자"
+          },
+          {
+            "code": "a",
+            "value": "Having"
+          },
+          {
+            "code": "a",
+            "value": "세계"
+          },
+          {
+            "code": "a",
+            "value": "불안"
+          },
+          {
+            "code": "a",
+            "value": "마음가짐"
+          },
+          {
+            "code": "a",
+            "value": "감정"
+          },
+          {
+            "code": "a",
+            "value": "운명학"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "keywords"
+          ],
+          "keywords_used": [
+            "행운",
+            "부자",
+            "Having",
+            "세계",
+            "불안",
+            "마음가짐",
+            "감정",
+            "운명학"
+          ],
+          "reasoning": "가중치 상위 키워드 중 서지값의 단순 반복이 아닌 주제어를 의미 변경 없이 최소 정제하여 653으로 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거가 없음"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론 — 반드시 검수",
+      "546은 언어·번역 관계가 입력에 명시되지 않아 생성 보류가 적절함",
+      "500은 원저작 정보가 미확정이면 생성하지 않는 것이 안전함",
+      "546 언어주기 입력 근거 부족으로 제거됨",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-01T15:25:21.507704+09:00",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

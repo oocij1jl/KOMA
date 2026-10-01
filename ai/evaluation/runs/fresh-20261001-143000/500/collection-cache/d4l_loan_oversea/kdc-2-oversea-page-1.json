@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "2",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 2731,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "First Greek Myths 10 : Theseus and the Man-Eating (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366073",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/140836607x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336353",
+          "loan_count": "1032"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "First Greek Myths 8 : Pegasus, the Flying Horse",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366042",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366045_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336349",
+          "loan_count": "974"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "First Greek Myths 9 : Jason and the Golden Fleece (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366011",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366010_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336351",
+          "loan_count": "951"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "First Greek Myths 7 : Arion, the Dolphin Boy (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408365991",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408365995_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336347",
+          "loan_count": "946"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "First Greek Myths 4 : Odysseus and the Wooden Horse (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366035",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366037_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336341",
+          "loan_count": "866"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "First Greek Myths 6 : Perseus and the Monstrous Medusa (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366059",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366053_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336345",
+          "loan_count": "845"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "First Greek Myths 5 : Icarus, the Boy Who Could Fly (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366004",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366002_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336343",
+          "loan_count": "814"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "Octopus Socktopus (Paperback)",
+          "authors": "닉 샤랫 (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2020",
+          "isbn13": "9780702300981",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5824420",
+          "loan_count": "603"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Here Comes Hercules! (Paperback, 2 ed)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263784",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825582",
+          "loan_count": "499"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "(만화로 보는)그리스 로마신화",
+          "authors": "토머스 불핀치 저;이광진 엮음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "8943801866978",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5828914",
+          "loan_count": "359"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "Hera's Terrible Trap! (Paperback, 2 ed)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263791",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825583",
+          "loan_count": "313"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "First Greek Myths 10 : Theseus and the Man-Eating (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366073",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/140836607x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336353",
+          "loan_count": "310"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "First Greek Myths 8 : Pegasus, the Flying Horse",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366042",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366045_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336349",
+          "loan_count": "309"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "First Greek Myths 9 : Jason and the Golden Fleece (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366011",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366010_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336351",
+          "loan_count": "299"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "First Greek Myths 7 : Arion, the Dolphin Boy (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408365991",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408365995_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336347",
+          "loan_count": "298"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Rapunzel (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2016",
+          "isbn13": "9781447295693",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6674/9/cover/1447295692_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819814",
+          "loan_count": "286"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "Cat's Cookbook : A new Tales from Acorn Wood story (Board Book)",
+          "authors": "줄리아 도널드슨 (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529034363",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "210",
+          "class_nm": "종교 > 비교종교학 > 비교종교학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26113/53/cover/1529034361_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6377265",
+          "loan_count": "277"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "(우리아이 첫 찬양)예수님과 함께 노래해요",
+          "authors": "김민아",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809525191",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "275.1",
+          "class_nm": "종교 > 힌두교, 브라만교 > 포교, 전도, 교육, 교화활동",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3416412",
+          "loan_count": "275"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "노부영 Lemons are not Red (Paperback & CD)",
+          "authors": "로라 바카로 시거 (지은이)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2017",
+          "isbn13": "8809448444467",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/15834/37/cover/f122533333_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230910",
+          "loan_count": "273"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "Snow White (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2015",
+          "isbn13": "9781447295716",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6598/79/cover/1447295714_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819816",
+          "loan_count": "254"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "20",
+          "bookname": "(The) Very noisy bear",
+          "authors": "by Nick Bland",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9789810980108",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3648842",
+          "loan_count": "254"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "임마누엘, 최고의 하루 - 생활 기도송 사운드북",
+          "authors": "신유진 (그림)",
+          "publisher": "언약의책",
+          "publication_year": "2018",
+          "isbn13": "8809544940054",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "237.2",
+          "class_nm": "종교 > 기독교 > 예배, 전례, 성례",
+          "bookImageURL": "https://image.aladin.co.kr/product/14861/61/cover/k042532559_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3910723",
+          "loan_count": "248"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Rapunzel (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2016",
+          "isbn13": "9781447295693",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6674/9/cover/1447295692_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819814",
+          "loan_count": "237"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Arachne's Golden Gloves! (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263470",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825584",
+          "loan_count": "232"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Noah's Ark (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2003-02-28",
+          "isbn13": "9780746054321",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699248",
+          "loan_count": "216"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "노부영 Lemons are not Red (Paperback & CD)",
+          "authors": "로라 바카로 시거 (지은이)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2017",
+          "isbn13": "8809448444467",
+          "addition_symbol": "",
+          "vol": "141",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/15834/37/cover/f122533333_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230910",
+          "loan_count": "211"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Pandora'S Box",
+          "authors": "Henriette Barkow",
+          "publisher": "Mantra Lingua",
+          "publication_year": "2007",
+          "isbn13": "9781844443802",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "292",
+          "class_nm": "종교 > 기타 제종교 > 유럽",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431397",
+          "loan_count": "208"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "Usborne Bible Tales 3",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054314",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699247",
+          "loan_count": "201"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "찬양이 참 좋아(보드북)",
+          "authors": "편집부",
+          "publisher": "언약의책",
+          "publication_year": "2017",
+          "isbn13": "9788809544949",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3434331",
+          "loan_count": "199"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Usborne Bible Tales 5",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054284",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699245",
+          "loan_count": "197"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Love for imperfect things :how to accept yourself in a world striving for perfection ",
+          "authors": "Haemin Sunim ;artwork by Lisk Feng",
+          "publisher": "Penguin Group USA",
+          "publication_year": "2018",
+          "isbn13": "9780143132288",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "220.4",
+          "class_nm": "종교 > 불교 > 불교",
+          "bookImageURL": "https://image.aladin.co.kr/product/14090/69/cover/0143132288_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5392114",
+          "loan_count": "196"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "복 있는 사람은 - 시편 1편",
+          "authors": "미래를 키우는 사람들 (지은이)",
+          "publisher": "키즈위드",
+          "publication_year": "2019",
+          "isbn13": "8809581780064",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233.32",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "https://image.aladin.co.kr/product/18959/77/cover/k112635580_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5415817",
+          "loan_count": "191"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "Supermouse and the Big Cheese Robbery (Hardcover)",
+          "authors": "M. N. Tahl (지은이), Mark Chambers (그림)",
+          "publisher": "Tiger Tales",
+          "publication_year": "2021",
+          "isbn13": "9781680102628",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "200",
+          "class_nm": "종교 > 종교 > 종교",
+          "bookImageURL": "https://image.aladin.co.kr/product/26187/98/cover/1680102621_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6585205",
+          "loan_count": "187"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "Usborne Bible Tales 4",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054307",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699246",
+          "loan_count": "186"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "The Easter Story (Hardcover)",
+          "authors": "브렌던 스미스 (지은이)",
+          "publisher": "Sky Pony Press",
+          "publication_year": "2018",
+          "isbn13": "9781510712775",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "https://image.aladin.co.kr/product/10231/74/cover/1510712771_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5443440",
+          "loan_count": "185"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Problems with Pythagoras! (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263487",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825585",
+          "loan_count": "180"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "First Greek Myths 4 : Odysseus and the Wooden Horse (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366035",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366037_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336341",
+          "loan_count": "178"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "Joseph and His Amazing Coat (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2003-02-28",
+          "isbn13": "9780746054338",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699249",
+          "loan_count": "175"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Good Samaritan (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2004-02-28",
+          "isbn13": "9780746054345",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699250",
+          "loan_count": "174"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "The Easter Story (Paperback, New ed)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2006-02-10",
+          "isbn13": "9780746071533",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699322",
+          "loan_count": "173"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "First Greek Myths 6 : Perseus and the Monstrous Medusa (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366059",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366053_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336345",
+          "loan_count": "171"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "Usborne Bible Tales 6",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2004",
+          "isbn13": "9780746054369",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699251",
+          "loan_count": "165"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "First Greek Myths 5 : Icarus, the Boy Who Could Fly (Paperback + CD + QR Audio)",
+          "authors": "Saviour Pirotta, Jan Lewis (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2021",
+          "isbn13": "9781408366004",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27970/52/cover/1408366002_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6336343",
+          "loan_count": "161"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "Apollo's Mystic Message! (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263494",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825586",
+          "loan_count": "150"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Snow White (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2015",
+          "isbn13": "9781447295716",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6598/79/cover/1447295714_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819816",
+          "loan_count": "148"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "Cat's Cookbook : A new Tales from Acorn Wood story (Board Book)",
+          "authors": "줄리아 도널드슨 (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529034363",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "210",
+          "class_nm": "종교 > 비교종교학 > 비교종교학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26113/53/cover/1529034361_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6377265",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "Paper Peek: Colours (Board Book)",
+          "authors": "Chihiro Takeuchi (지은이)",
+          "publisher": "Walker Books Ltd",
+          "publication_year": "2019",
+          "isbn13": "9781406392777",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "210",
+          "class_nm": "종교 > 비교종교학 > 비교종교학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5738598",
+          "loan_count": "139"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "Snow White (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2015",
+          "isbn13": "9781447295716",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6598/79/cover/1447295714_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819816",
+          "loan_count": "134"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "(The) story of Noah",
+          "authors": "ed. by Flowerpot Press",
+          "publisher": "Flowerpot Press",
+          "publication_year": "2011",
+          "isbn13": "9781897533765",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424535",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "잘난 척은 안 돼!",
+          "authors": "마크 영",
+          "publisher": "넥서스주니어",
+          "publication_year": "2007",
+          "isbn13": "9789788959946",
+          "addition_symbol": "74230",
+          "vol": "2",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2515378",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "50",
+          "bookname": "능엄경(楞嚴經) 대의 풀이",
+          "authors": "남회근 지음 ; 송찬문 번역",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9791858440469",
+          "addition_symbol": "03220",
+          "vol": "",
+          "class_no": "223.59",
+          "class_nm": "종교 > 불교 > 경전(불전, 대장경)",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3239468",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Here We Are: Book of Colors (Board Books)",
+          "authors": "올리버 제퍼스 (지은이)",
+          "publisher": "Philomel Books",
+          "publication_year": "2022",
+          "isbn13": "9780593527887",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "200",
+          "class_nm": "종교 > 종교 > 종교",
+          "bookImageURL": "https://image.aladin.co.kr/product/28577/73/cover/0593527887_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6608665",
+          "loan_count": "129"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "I May Be Wrong : The Sunday Times Bestseller (Paperback)",
+          "authors": "LINDEBLAD BJORN NATT (지은이)",
+          "publisher": "Bloomsbury Paperbacks",
+          "publication_year": "2022",
+          "isbn13": "9781526644817",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "220.4",
+          "class_nm": "종교 > 불교 > 불교",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/224/650/22465033.jpg?type=m1&udate=20220517",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6485166",
+          "loan_count": "127"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "53",
+          "bookname": "동행 125 ",
+          "authors": "지은이: 양창삼",
+          "publisher": "이새의 나무",
+          "publication_year": "2014",
+          "isbn13": "9781565812314",
+          "addition_symbol": "52250",
+          "vol": "",
+          "class_no": "234.2",
+          "class_nm": "종교 > 기독교 > 신앙록, 명상록, 신앙생활",
+          "bookImageURL": "http://image.aladin.co.kr/product/15136/70/cover/k452533360_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3114377",
+          "loan_count": "127"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Candle Bible for Toddlers (Hardcover)",
+          "authors": "줄리엣 데이빗 (지은이), Helen Prole (그림)",
+          "publisher": "Candle Books",
+          "publication_year": "2015",
+          "isbn13": "9781781282014",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "https://image.aladin.co.kr/product/4674/71/cover/1781282013_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5558736",
+          "loan_count": "124"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "Baby's Carry Along Bible (Board Books)",
+          "authors": "샐리 로이드 존스 (지은이), Claudine Gevry (그림)",
+          "publisher": "HarperFestival",
+          "publication_year": "2020",
+          "isbn13": "9780062961235",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "https://image.aladin.co.kr/product/18967/30/cover/0062961233_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5650628",
+          "loan_count": "123"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "56",
+          "bookname": "Jason's Wild Winds (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781782263500",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825587",
+          "loan_count": "123"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Noah's Ark (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2003-02-28",
+          "isbn13": "9780746054321",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699248",
+          "loan_count": "118"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "58",
+          "bookname": "Odysseus' Trojan Trick (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781782263524",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825589",
+          "loan_count": "118"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Usborne Bible Tales 4",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054307",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699246",
+          "loan_count": "116"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Rapunzel (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2016",
+          "isbn13": "9781447295693",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6674/9/cover/1447295692_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819814",
+          "loan_count": "114"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "61",
+          "bookname": "Here Comes Hercules! (Paperback, 2 ed)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263784",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825582",
+          "loan_count": "114"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "Usborne Bible Tales 5",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054284",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699245",
+          "loan_count": "113"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "Circe's Beastly Feast (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781782263517",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825588",
+          "loan_count": "112"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "64",
+          "bookname": "Hades' Pet Hellhound (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781782263531",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825590",
+          "loan_count": "112"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "64",
+          "bookname": "考えない練習 ",
+          "authors": "著者: 小池龍之介",
+          "publisher": "小學館",
+          "publication_year": "2011",
+          "isbn13": "9784093881067",
+          "addition_symbol": "0095",
+          "vol": "",
+          "class_no": "224.3",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "http://image.aladin.co.kr/product/639/88/cover/4093881065_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1182893",
+          "loan_count": "112"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Time's Up, Tim! (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2020",
+          "isbn13": "9781782263548",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825591",
+          "loan_count": "110"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Usborne Bible Tales 3",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2003",
+          "isbn13": "9780746054314",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699247",
+          "loan_count": "107"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "68",
+          "bookname": "Olympians: Hera: The Goddess and Her Glory (Paperback)",
+          "authors": "George O'Connor (지은이)",
+          "publisher": "First Second",
+          "publication_year": "2011",
+          "isbn13": "9781596434332",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/1248/30/cover/1596434333_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5344414",
+          "loan_count": "107"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "노부영 마더구스 This Old Man (Paperback + CD) - 노래 부르는 영어동화",
+          "authors": "Childs Play (지은이), Claire Keay (그림)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2018",
+          "isbn13": "8809448444948",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/16608/8/cover/f412533254_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230909",
+          "loan_count": "106"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "기초성경공부 =Basic Bible doctrine ",
+          "authors": "김경환 지음",
+          "publisher": "BBCI",
+          "publication_year": "2024",
+          "isbn13": "9781956936025",
+          "addition_symbol": "51400",
+          "vol": "1",
+          "class_no": "235.74",
+          "class_nm": "종교 > 기독교 > 포교, 교육, 교화활동, 목회학",
+          "bookImageURL": "https://image.aladin.co.kr/product/33496/38/cover/1956936025_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6846651",
+          "loan_count": "103"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "71",
+          "bookname": "(만화로 보는) 그리스 로마 신화",
+          "authors": "토머스 불핀치 지음;이광진 엮음;서영 그림",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9798957363010",
+          "addition_symbol": "77840",
+          "vol": "1",
+          "class_no": "208",
+          "class_nm": "종교 > 종교 > 총서, 전집, 선집",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3279927",
+          "loan_count": "103"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Olympians: Poseidon: Earth Shaker (Paperback)",
+          "authors": "George O'Connor (지은이)",
+          "publisher": "First Second",
+          "publication_year": "2013",
+          "isbn13": "9781596437388",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/1732/73/cover/1596437383_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5344415",
+          "loan_count": "102"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "Beauty and the Beast (Board Book)",
+          "authors": "루스 마틴 (엮은이), Dan Taylor (그림)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2017",
+          "isbn13": "9781509821013",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/8609/74/cover/1509821015_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5818133",
+          "loan_count": "101"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "노부영 마더구스 Hey Diddle Diddle (Paperback + CD) - 노래 부르는 영어동화",
+          "authors": "Childs Play (지은이), Emma Schmid (그림)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2018",
+          "isbn13": "8809448444924",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/16608/7/cover/f472533254_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230908",
+          "loan_count": "99"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "The Orchard Book of First Greek Myths (Hardcover)",
+          "authors": "Saviour Pirotta (지은이)",
+          "publisher": "Orchard",
+          "publication_year": "2003",
+          "isbn13": "9781841217758",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/1533/67/cover/1841217751_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5556505",
+          "loan_count": "98"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Silent Night (Hardcover)",
+          "authors": "라라 호손 (지은이)",
+          "publisher": "Frances Lincoln Children's Bks",
+          "publication_year": "2018",
+          "isbn13": "9781786030665",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/13409/40/cover/1786030667_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5427660",
+          "loan_count": "97"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "노부영 마더구스 She'll Be Coming Round the Mountain (Paperback + CD) - 노래 부르는 영어동화",
+          "authors": "Childs Play (지은이), Anne Passchier (그림)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2018",
+          "isbn13": "8809448444931",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/16608/6/cover/f462533254_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230907",
+          "loan_count": "96"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(처음 읽는) 그리스 로마 신화",
+          "authors": "최설희 글;한현동 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "6791208415744",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6768310",
+          "loan_count": "95"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Usborne Bible Tales 6",
+          "authors": "by Heather Amery",
+          "publisher": "",
+          "publication_year": "2004",
+          "isbn13": "9780746054369",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699251",
+          "loan_count": "93"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "80",
+          "bookname": "The Easter Story (Paperback, New ed)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2006-02-10",
+          "isbn13": "9780746071533",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699322",
+          "loan_count": "93"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Can't Hurt Me: Master Your Mind and Defy the Odds (Paperback)",
+          "authors": "David Goggins (지은이)",
+          "publisher": "Lioncrest Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781544512273",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "234.8",
+          "class_nm": "종교 > 기독교 > 신앙록, 명상록, 신앙생활",
+          "bookImageURL": "https://image.aladin.co.kr/product/17173/90/cover/1544512279_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5499754",
+          "loan_count": "90"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "(The story of) Creation",
+          "authors": "illustrated by Pascale Lafond",
+          "publisher": "Flowerpot Press",
+          "publication_year": "2011",
+          "isbn13": "9781897533901",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2440305",
+          "loan_count": "88"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "(The) Twelve Labours of Heracles",
+          "authors": "Geraldine McCaughrean;illustrated by Tony Ross",
+          "publisher": "",
+          "publication_year": "1997",
+          "isbn13": "9781408351406",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.2",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3680615",
+          "loan_count": "87"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "Sleeping Beauty (Board Book)",
+          "authors": "TAYLOR  DAN (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2018",
+          "isbn13": "9781509851683",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/11237/36/cover/1509851682_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819815",
+          "loan_count": "85"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "85",
+          "bookname": "(The) Very noisy bear",
+          "authors": "by Nick Bland",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9789810980108",
+          "addition_symbol": "",
+          "vol": "no",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3648842",
+          "loan_count": "85"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "The Beginner's Bible Adam and Eve in the Garden (Paperback)",
+          "authors": "Kelly Pulley (지은이)",
+          "publisher": "Zondervan",
+          "publication_year": "2008",
+          "isbn13": "9780310715528",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "https://image.aladin.co.kr/product/119/36/cover/0310715520_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5318753",
+          "loan_count": "84"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "Rapunzel (Board Book, Main Market Ed.)",
+          "authors": "Dan Taylor (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2016",
+          "isbn13": "9781447295693",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/6674/9/cover/1447295692_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819814",
+          "loan_count": "83"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "Bluey: Mini Bluey (Board Book)",
+          "authors": "Bluey (지은이)",
+          "publisher": "Penguin Random House Children's UK",
+          "publication_year": "2023",
+          "isbn13": "9780241662540",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "220",
+          "class_nm": "종교 > 불교 > 불교",
+          "bookImageURL": "https://image.aladin.co.kr/product/31370/56/cover200/0241662540_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6865287",
+          "loan_count": "81"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "89",
+          "bookname": "Hera's Terrible Trap! (Paperback, 2 ed)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263791",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825583",
+          "loan_count": "81"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "Joseph and His Amazing Coat (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2003-02-28",
+          "isbn13": "9780746054338",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699249",
+          "loan_count": "80"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(A) Tree For Christmas",
+          "authors": "by Dandi Daley Mackall",
+          "publisher": "Concordia Publishing house",
+          "publication_year": "2004",
+          "isbn13": "9780758606693",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2508756",
+          "loan_count": "79"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "92",
+          "bookname": "Olympians: Apollo: The Brilliant One (Paperback)",
+          "authors": "George O'Connor (지은이)",
+          "publisher": "First Second",
+          "publication_year": "2016",
+          "isbn13": "9781626720152",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/5390/71/cover/1626720150_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5344416",
+          "loan_count": "79"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "당신은 전도하는 제자입니까?",
+          "authors": "김학중 지음",
+          "publisher": "넥서스Cross",
+          "publication_year": "2007",
+          "isbn13": "9789788960003",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "235.4",
+          "class_nm": "종교 > 기독교 > 포교, 교육, 교화활동, 목회학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2539349",
+          "loan_count": "78"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "Olympians: Poseidon: Earth Shaker (Paperback)",
+          "authors": "George O'Connor (지은이)",
+          "publisher": "First Second",
+          "publication_year": "2013",
+          "isbn13": "9781596437388",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219.21",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "https://image.aladin.co.kr/product/1732/73/cover/1596437383_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5344415",
+          "loan_count": "77"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "What Is God Like? (Hardcover)",
+          "authors": "Matthew Paul Turner, 레이첼 헬드 에반스 (지은이)",
+          "publisher": "Convergent Books",
+          "publication_year": "2021",
+          "isbn13": "9780593193310",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230.4",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/24978/76/cover/0593193318_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6076871",
+          "loan_count": "76"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "Arachne's Golden Gloves! (Paperback)",
+          "authors": "Stella Tarakson (지은이), Nick Roberts (그림)",
+          "publisher": "Sweet Cherry Publishing",
+          "publication_year": "2018",
+          "isbn13": "9781782263470",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "219",
+          "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5825584",
+          "loan_count": "75"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "Good Samaritan (Paperback)",
+          "authors": "Amery, Heather",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2004-02-28",
+          "isbn13": "9780746054345",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "233",
+          "class_nm": "종교 > 기독교 > 성서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699250",
+          "loan_count": "74"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "하나님의 보물 - 파이디온 사운드북",
+          "authors": "키즈위드 편집부 (지은이)",
+          "publisher": "키즈위드",
+          "publication_year": "2020",
+          "isbn13": "8809581780217",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230.4",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/24130/48/cover/k712639633_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5698717",
+          "loan_count": "73"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "99",
+          "bookname": "Lullaby Prayer (Hardcover)",
+          "authors": "Tamara Bundy (지은이)",
+          "publisher": "Thomas Nelson",
+          "publication_year": "2020",
+          "isbn13": "9781400221479",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "230",
+          "class_nm": "종교 > 기독교 > 기독교",
+          "bookImageURL": "https://image.aladin.co.kr/product/23779/57/cover/1400221471_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948807",
+          "loan_count": "73"
+        }
+      }
+    ]
+  }
+}

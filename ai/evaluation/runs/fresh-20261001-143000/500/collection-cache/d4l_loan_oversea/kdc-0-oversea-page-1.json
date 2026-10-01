@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "0",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "I love you because you're you",
+          "authors": "by Liza Baker",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439206563",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536873",
+          "loan_count": "1775"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "Don't Let The Pigeon Drive The Bus! (Paperback, First Edition)",
+          "authors": "by Mo Willems",
+          "publisher": "New York :Scholastic",
+          "publication_year": "2003-01-01",
+          "isbn13": "9780439686174",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535495",
+          "loan_count": "1122"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "Cookie's week",
+          "authors": "by Cindy Ward",
+          "publisher": "Scholastic",
+          "publication_year": "1988",
+          "isbn13": "9780590436045",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531002",
+          "loan_count": "1057"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "Biscuit goes to school",
+          "authors": "story by Alyssa Satin Capucilli",
+          "publisher": "Scholastic",
+          "publication_year": "2002",
+          "isbn13": "9780439799409",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536463",
+          "loan_count": "980"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "Pyramids",
+          "authors": "by Sally Odgers",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897082",
+          "addition_symbol": "",
+          "vol": "213",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427659",
+          "loan_count": "949"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "The Stray Dog",
+          "authors": "by Marc Simont",
+          "publisher": "Scholastic Bks",
+          "publication_year": "2014-08-13",
+          "isbn13": "9780439385916",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531114",
+          "loan_count": "939"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "At the park",
+          "authors": "by Patrick Jackson;illustrated by Rie Kimura",
+          "publisher": "",
+          "publication_year": "2005",
+          "isbn13": "9780194391771",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2686163",
+          "loan_count": "868"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "Wild places",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740896894",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507633",
+          "loan_count": "846"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Dogs",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896795",
+          "addition_symbol": "",
+          "vol": "22",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427613",
+          "loan_count": "840"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "Owl moon",
+          "authors": "by Jane Yolen",
+          "publisher": "Scholastic",
+          "publication_year": "1989-12-01",
+          "isbn13": "9780590420440",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536515",
+          "loan_count": "832"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "Baby animals",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740896726",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507632",
+          "loan_count": "824"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "Weather Watching",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897266",
+          "addition_symbol": "",
+          "vol": "211",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427644",
+          "loan_count": "818"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Our Amazing Bodies",
+          "authors": "by Sally Odgers",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897259",
+          "addition_symbol": "",
+          "vol": "210",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427643",
+          "loan_count": "805"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "(The)Pigeon Wants a Puppy!",
+          "authors": "Mo Willems",
+          "publisher": "Scholastic",
+          "publication_year": "2008",
+          "isbn13": "9780545157704",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535241",
+          "loan_count": "799"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Push and pull",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897075",
+          "addition_symbol": "",
+          "vol": "116",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507777",
+          "loan_count": "798"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Hot Rocks",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896931",
+          "addition_symbol": "",
+          "vol": "27",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427640",
+          "loan_count": "789"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "On the farm",
+          "authors": "by Patrick Jackson;illustrated by Rie Kimura",
+          "publisher": "",
+          "publication_year": "2005",
+          "isbn13": "9780194391887",
+          "addition_symbol": "",
+          "vol": "26",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2686165",
+          "loan_count": "779"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "I will never not Ever Eat a Tomato",
+          "authors": "Lauren Child",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439305471",
+          "addition_symbol": "50295",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535167",
+          "loan_count": "774"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "(The) Great Wall of China",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897068",
+          "addition_symbol": "",
+          "vol": "115",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507590",
+          "loan_count": "765"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "Castles",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897044",
+          "addition_symbol": "",
+          "vol": "113",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507689",
+          "loan_count": "761"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "Rain or shine",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon owen문진미디어[배포]",
+          "publication_year": "2008",
+          "isbn13": "9781740896917",
+          "addition_symbol": "",
+          "vol": "18",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2558661",
+          "loan_count": "753"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "Boats and ships",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897235",
+          "addition_symbol": "",
+          "vol": "112",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507706",
+          "loan_count": "748"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Dino Dig",
+          "authors": "by Sally Odgers",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897273",
+          "addition_symbol": "",
+          "vol": "212",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427645",
+          "loan_count": "744"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Time Song (Paperback)",
+          "authors": "시드 무어, Rozanne Lanczak Williams (지은이)",
+          "publisher": "Creative Teaching Pr",
+          "publication_year": "2015",
+          "isbn13": "9781574710045",
+          "addition_symbol": "90000",
+          "vol": "216",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/556/31/cover/1574710044_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507503",
+          "loan_count": "731"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Peter's Chair (Paperback)",
+          "authors": "Ezra Jack Keats",
+          "publisher": "New York :Scholastic",
+          "publication_year": "2000-01-01",
+          "isbn13": "9780439114257",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535156",
+          "loan_count": "723"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Dinosaurs Before Dark (Magic Tree House #1) (Paperback)",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "",
+          "publication_year": "1992-01-01",
+          "isbn13": "9780590623520",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535531",
+          "loan_count": "707"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "It's mine!",
+          "authors": "by Leo Lionni",
+          "publisher": "Scholastic",
+          "publication_year": "1995",
+          "isbn13": "9780590621984",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531134",
+          "loan_count": "705"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "Deserts",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896955",
+          "addition_symbol": "",
+          "vol": "28",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427641",
+          "loan_count": "699"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "(뉴스로 배우는) 어린이 시사상식",
+          "authors": "새롬누리 글",
+          "publisher": "삼성출판사",
+          "publication_year": "1999",
+          "isbn13": "9789815020045",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "030",
+          "class_nm": "총류 > 백과사전 > 백과사전",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2472226",
+          "loan_count": "695"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Fly Guy Presents: Garbage and Recycling (Paperback)",
+          "authors": "Tedd Arnold (지은이)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338217193",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "034",
+          "class_nm": "총류 > 백과사전 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/14466/8/cover/1338217194_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5450797",
+          "loan_count": "692"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Big cats",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897204",
+          "addition_symbol": "",
+          "vol": "19",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507705",
+          "loan_count": "690"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Musicals instruments",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740897228",
+          "addition_symbol": "",
+          "vol": "111",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507739",
+          "loan_count": "680"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "How Des It Work?",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897242",
+          "addition_symbol": "",
+          "vol": "29",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427642",
+          "loan_count": "679"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "Under the Sea",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896924",
+          "addition_symbol": "",
+          "vol": "26",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427639",
+          "loan_count": "677"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "George shrinks",
+          "authors": "story and pictures by William Joyce",
+          "publisher": "Scholastic",
+          "publication_year": "",
+          "isbn13": "9780590450317",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536227",
+          "loan_count": "670"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Penguin and Pinecone (Paperback)",
+          "authors": "[by] Salina Yoon",
+          "publisher": "",
+          "publication_year": "2013-01-01",
+          "isbn13": "9780545552929",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535153",
+          "loan_count": "645"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Pete the Cat Rocking in My School Shoes (Paperback)",
+          "authors": "story by Eric Litwin (aka Mr. Eric);created & illustrated by James Dean",
+          "publisher": "",
+          "publication_year": "2011-01-01",
+          "isbn13": "9780545501064",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535218",
+          "loan_count": "641"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "37",
+          "bookname": "Roman Times",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897112",
+          "addition_symbol": "",
+          "vol": "216",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427662",
+          "loan_count": "641"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Big Bears",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896771",
+          "addition_symbol": "",
+          "vol": "24",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427615",
+          "loan_count": "622"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "The Kissing Hand (Paperback, Worn)",
+          "authors": "오드리 펜 (지은이)",
+          "publisher": "New York :Scholastic",
+          "publication_year": "1993-01-01",
+          "isbn13": "9780590047012",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535450",
+          "loan_count": "618"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Beatrice doesn't want to",
+          "authors": "by Laura Numeroff",
+          "publisher": "Scholastic",
+          "publication_year": "2005",
+          "isbn13": "9780439796071",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531130",
+          "loan_count": "613"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "(The)Sky Watch",
+          "authors": "by Kate McAllan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897181",
+          "addition_symbol": "",
+          "vol": "416",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427857",
+          "loan_count": "601"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "We're going on a lion hunt",
+          "authors": "by David Axtell",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439278423",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531120",
+          "loan_count": "592"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "Frog's Lunch (Paperback, Reprint)",
+          "authors": "Dee Lillegard (지은이)",
+          "publisher": "New York:Scholastic",
+          "publication_year": "1994-01-01",
+          "isbn13": "9780590273787",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536122",
+          "loan_count": "590"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Stellalune",
+          "authors": "Janell Cannon",
+          "publisher": "scholastic",
+          "publication_year": "1993",
+          "isbn13": "9780590483797",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535168",
+          "loan_count": "587"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "White rabbit's color book",
+          "authors": "by Alan Backer",
+          "publisher": "Scholastic",
+          "publication_year": "1994",
+          "isbn13": "9780590224994",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531121",
+          "loan_count": "577"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "Junie B. Jones And The Mushy Gushy Valentine",
+          "authors": "Barbara Park",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439198998",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535089",
+          "loan_count": "576"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "(The)Titanic",
+          "authors": "by Sally Odgers",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897129",
+          "addition_symbol": "",
+          "vol": "316",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427807",
+          "loan_count": "575"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "Crazy Hair Day",
+          "authors": "Barney Saltzberg",
+          "publisher": "scholastic",
+          "publication_year": "2008",
+          "isbn13": "9780545110884",
+          "addition_symbol": "50499",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535130",
+          "loan_count": "561"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "Quick as a Cricket",
+          "authors": "Audrey Wood",
+          "publisher": "Scholastic",
+          "publication_year": "1994",
+          "isbn13": "9780590469005",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535451",
+          "loan_count": "560"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "Rain or shine",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740896900",
+          "addition_symbol": "",
+          "vol": "17",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507690",
+          "loan_count": "558"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Z is for Moose",
+          "authors": "Kelly Bingham",
+          "publisher": "Scholastic",
+          "publication_year": "2013",
+          "isbn13": "9780545544214",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535603",
+          "loan_count": "557"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Things with wings",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon Owen",
+          "publication_year": "2008",
+          "isbn13": "9781740896764",
+          "addition_symbol": "",
+          "vol": "23",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507842",
+          "loan_count": "554"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "53",
+          "bookname": "American Indians",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897099",
+          "addition_symbol": "",
+          "vol": "214",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427660",
+          "loan_count": "554"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Moonwalk",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897280",
+          "addition_symbol": "",
+          "vol": "312",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427804",
+          "loan_count": "550"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "Scary Sharks",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896788",
+          "addition_symbol": "",
+          "vol": "21",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427612",
+          "loan_count": "547"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Aunt Flossie's hats (and crab cakes later)",
+          "authors": "by Elizabeth Fitzgerald Howerd",
+          "publisher": "Scholastic",
+          "publication_year": "1991",
+          "isbn13": "9780590488815",
+          "addition_symbol": "90000",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536355",
+          "loan_count": "543"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "57",
+          "bookname": "あるかしら書店 ",
+          "authors": "著者: ヨシタケシンスケ",
+          "publisher": "ポプラ社",
+          "publication_year": "2017",
+          "isbn13": "9784591154441",
+          "addition_symbol": "0095",
+          "vol": "",
+          "class_no": "029",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/121/213/12121323.jpg?type=m1&udate=20170607",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3676883",
+          "loan_count": "543"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "Inventions",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897303",
+          "addition_symbol": "",
+          "vol": "310",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427786",
+          "loan_count": "537"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Great Building",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897310",
+          "addition_symbol": "",
+          "vol": "311",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427787",
+          "loan_count": "535"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Mummies",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897136",
+          "addition_symbol": "",
+          "vol": "315",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427806",
+          "loan_count": "530"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Dinosaur Train (Paperback)",
+          "authors": "John Steven Gurney (지은이)",
+          "publisher": "New York:Scholastic",
+          "publication_year": "2003-01-01",
+          "isbn13": "9780439631051",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2531125",
+          "loan_count": "528"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "My Name Is Yoon (Paperback)",
+          "authors": "Helen Recorvits;pictures by Gabi Swiatkowska",
+          "publisher": "New York :Scholastic",
+          "publication_year": "2003-01-01",
+          "isbn13": "9780545200127",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535192",
+          "loan_count": "527"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "Plants",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon owen문진미디어[배포]",
+          "publication_year": "2008",
+          "isbn13": "9781740896887",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2558660",
+          "loan_count": "521"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "Solar System",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896986",
+          "addition_symbol": "",
+          "vol": "37",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427783",
+          "loan_count": "515"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "(The) Art lesson",
+          "authors": "Tomie de Paola",
+          "publisher": "Scholastic",
+          "publication_year": "1989",
+          "isbn13": "9780590367950",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536028",
+          "loan_count": "512"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Tikki Tikki Tembo (Paperback, Reprint)",
+          "authors": "아를린 모젤",
+          "publisher": "Scholastic",
+          "publication_year": "1968-02-01",
+          "isbn13": "9780590416221",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535983",
+          "loan_count": "504"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Earth's Surface",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896979",
+          "addition_symbol": "",
+          "vol": "36",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427782",
+          "loan_count": "502"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "Froggy's sleepover",
+          "authors": "by Jonathan London",
+          "publisher": "Scholastic",
+          "publication_year": "2005",
+          "isbn13": "9780439800938",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2530843",
+          "loan_count": "495"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "Big bug surprise",
+          "authors": "[by] Julia Gran",
+          "publisher": "Scholastic",
+          "publication_year": "2008",
+          "isbn13": "9780545057387",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536959",
+          "loan_count": "487"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "70",
+          "bookname": "(The)Greeks",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897150",
+          "addition_symbol": "",
+          "vol": "314",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427805",
+          "loan_count": "487"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "Extreme Sports",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897358",
+          "addition_symbol": "",
+          "vol": "412",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427853",
+          "loan_count": "485"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Miss Nelson is back",
+          "authors": "[by] Harry Allard",
+          "publisher": "Scholastic",
+          "publication_year": "1982",
+          "isbn13": "9780590334679",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536934",
+          "loan_count": "481"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "Cat's Colors",
+          "authors": "Jane Cabrera",
+          "publisher": "SCHOLASTIC",
+          "publication_year": "1998",
+          "isbn13": "9780590035859",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535076",
+          "loan_count": "476"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "Lola at the Library",
+          "authors": "Anna McQuinn",
+          "publisher": "SCHOLASTIC",
+          "publication_year": "2007",
+          "isbn13": "9780439025638",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535562",
+          "loan_count": "473"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "Big Red Barn (Paperback)",
+          "authors": "마거릿 와이즈 브라운 (지은이)",
+          "publisher": "New York:Scholastic",
+          "publication_year": "1989-01-01",
+          "isbn13": "9780590442459",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2530842",
+          "loan_count": "470"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Aztecs and Maya",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897174",
+          "addition_symbol": "",
+          "vol": "414",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427855",
+          "loan_count": "465"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "Lilly's Purple Plastic Purse",
+          "authors": "Kevin Henkes",
+          "publisher": "Scholastic",
+          "publication_year": "2004",
+          "isbn13": "9780439642873",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535046",
+          "loan_count": "463"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "78",
+          "bookname": "Into the Unknown",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897327",
+          "addition_symbol": "",
+          "vol": "49",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427838",
+          "loan_count": "463"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Grumpy Bird",
+          "authors": "by Jeremy Tankard",
+          "publisher": "New York :SCHOLASTIC",
+          "publication_year": "0001-01-01",
+          "isbn13": "9780545019774",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535257",
+          "loan_count": "458"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "Tar beach",
+          "authors": "[by] Faith Ringgold",
+          "publisher": "Scholastic",
+          "publication_year": "1992",
+          "isbn13": "9780590463812",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536360",
+          "loan_count": "453"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Continents and Oceans",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897037",
+          "addition_symbol": "",
+          "vol": "47",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427837",
+          "loan_count": "451"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Jungle Life",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896948",
+          "addition_symbol": "",
+          "vol": "25",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427638",
+          "loan_count": "447"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "Fly Guy Presents: Garbage and Recycling (Paperback)",
+          "authors": "Tedd Arnold (지은이)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338217193",
+          "addition_symbol": "",
+          "vol": "12",
+          "class_no": "034",
+          "class_nm": "총류 > 백과사전 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/14466/8/cover/1338217194_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5450797",
+          "loan_count": "445"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "Dogs",
+          "authors": "by Denise Ryan",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896795",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427613",
+          "loan_count": "443"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "Just a mess",
+          "authors": "Mercer Mayer",
+          "publisher": "Scholastic",
+          "publication_year": "2007",
+          "isbn13": "9780545004930",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535245",
+          "loan_count": "434"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "Coral Reefs",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896993",
+          "addition_symbol": "",
+          "vol": "38",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427784",
+          "loan_count": "428"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "Abiyoyo: Based on a South African Lullaby and Folk Story (Paperback)",
+          "authors": "Pete Seeger",
+          "publisher": "Scholastic Paperbacks",
+          "publication_year": "1994-03-01",
+          "isbn13": "9780590427203",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2536354",
+          "loan_count": "427"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "88",
+          "bookname": "Volcanoes",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897020",
+          "addition_symbol": "",
+          "vol": "45",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427835",
+          "loan_count": "427"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "Flight",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897297",
+          "addition_symbol": "",
+          "vol": "39",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427785",
+          "loan_count": "426"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "Extremes",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896962",
+          "addition_symbol": "",
+          "vol": "35",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427781",
+          "loan_count": "425"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "Pyramids",
+          "authors": "by Sally Odgers",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897082",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427659",
+          "loan_count": "424"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "Stinky",
+          "authors": "Eleanor Davis",
+          "publisher": "Scholastic",
+          "publication_year": "2012",
+          "isbn13": "9780545474665",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535406",
+          "loan_count": "421"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "Balancing Act (Paperback)",
+          "authors": "Ellen Stoll Walsh",
+          "publisher": "",
+          "publication_year": "2010-01-01",
+          "isbn13": "9780545512442",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535634",
+          "loan_count": "416"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "94",
+          "bookname": "Attack and Defense",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896849",
+          "addition_symbol": "",
+          "vol": "41",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427808",
+          "loan_count": "416"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "94",
+          "bookname": "Plants",
+          "authors": "[by] Denise Ryan",
+          "publisher": "Weldon owen문진미디어[배포]",
+          "publication_year": "2008",
+          "isbn13": "9781740896887",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2558660",
+          "loan_count": "416"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "Biscuit Finds a Friend (Paperback, 1ST)",
+          "authors": "by Alyssa Satin Capucilli;pictures by Pat Schories",
+          "publisher": "New York :Scholastic",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780439650342",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535613",
+          "loan_count": "413"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "Pirates Don't Change Diapers (Paperback, 1st)",
+          "authors": "by Melinda Long;ill. by David Shannon",
+          "publisher": "New York :Scholastic",
+          "publication_year": "2008-01-01",
+          "isbn13": "9780545081061",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "080",
+          "class_nm": "총류 > 일반 전집, 총서 > 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2535146",
+          "loan_count": "410"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "Insect World",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740896856",
+          "addition_symbol": "",
+          "vol": "42",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427809",
+          "loan_count": "404"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "(The)Silk Road",
+          "authors": "by Robert Coupe",
+          "publisher": "MoonJin MediaWeldon Own",
+          "publication_year": "2008",
+          "isbn13": "9781740897167",
+          "addition_symbol": "",
+          "vol": "413",
+          "class_no": "082",
+          "class_nm": "총류 > 일반 전집, 총서 > 2인 이상의 일반 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427854",
+          "loan_count": "400"
+        }
+      }
+    ]
+  }
+}

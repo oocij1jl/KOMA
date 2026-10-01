@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "3",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "나는 상가에서 월급 받는다 :회사대신 상가에서 월급받는 시스템 만들기 ",
+          "authors": "배용환 지음",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9781195446513",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.87",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3069662",
+          "loan_count": "4769"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "동물 농장 사운드북 :우리 아기 오감발달 ",
+          "authors": "샘 태플린 글 ;페데리카 아이오사 그림",
+          "publisher": "비룡소인터내셔널",
+          "publication_year": "c201",
+          "isbn13": "8809264180921",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "http://bookthumb.phinf.naver.net/cover/135/042/13504226.jpg?type=m1&udate=20180425",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3743315",
+          "loan_count": "4724"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "(내가 말하는 세계 인사)안녕 헬로우 니하오",
+          "authors": "애플비 편집부",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9788809254701",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2929191",
+          "loan_count": "4683"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "제로 투 원:스탠퍼드대학교 스타트업 최고 명강의",
+          "authors": "피터 틸;블레이크 매스터스 지음;이지연 옮김",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788894752987",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.21",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2616335",
+          "loan_count": "4246"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "여보세요? 전화놀이",
+          "authors": "책마중 글, 윤성희 그림",
+          "publisher": "스마트베어",
+          "publication_year": "2017",
+          "isbn13": "9788809477872",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3353602",
+          "loan_count": "2198"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "Animal Pants : from the bestselling Pants series (Paperback)",
+          "authors": "Giles Andreae (지은이), 닉 샤랫 (그림)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2019",
+          "isbn13": "9780141378343",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/17660/73/cover/0141378344_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5430977",
+          "loan_count": "2101"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "A Little Book about Colors (Leo Lionni's Friends) (Board Books)",
+          "authors": "레오 리오니 (지은이), Jan Gerardi (그림)",
+          "publisher": "Random House Childrens Books",
+          "publication_year": "2019",
+          "isbn13": "9780525582298",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/17077/43/cover/0525582290_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5458772",
+          "loan_count": "1985"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "핑크퐁 사운드북  :상어가족",
+          "authors": "스마트스터디 편집부",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809456150",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3711955",
+          "loan_count": "1770"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "(웅진)스마티펜  =Smartie",
+          "authors": "웅진주니어 편집부",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9788809319189",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3338975",
+          "loan_count": "1656"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "Mixed :an inspiring story about colour ",
+          "authors": "Arree Chung",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2018",
+          "isbn13": "9781509871346",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "342.3",
+          "class_nm": "사회과학 > 정치학 > 국가와 개인 및 집단",
+          "bookImageURL": "https://image.aladin.co.kr/product/14928/32/cover/1509871349_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5474401",
+          "loan_count": "1613"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "스티커 자석놀이 : 척척 붙는 공룡",
+          "authors": "디엔에스공오 그림",
+          "publisher": "꿈꾸는달팽이(꿈달)",
+          "publication_year": "2016",
+          "isbn13": "9788809445901",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3353606",
+          "loan_count": "1352"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "Ness the Nurse (NE) (Board Book)",
+          "authors": "닉 샤랫 (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2020",
+          "isbn13": "9780702306839",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948804",
+          "loan_count": "1294"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Charlie Chick",
+          "authors": "Denchfield, Nick",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781447276722",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5393129",
+          "loan_count": "1251"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "내가 누구게?",
+          "authors": "푸른아이 .편집부",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9788809446571",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3179851",
+          "loan_count": "1201"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Bizzy Bear: Pizza Time (Board Book)",
+          "authors": "벤지 데이비스 (그림)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2021",
+          "isbn13": "9781788006620",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5949244",
+          "loan_count": "1089"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Little and Big (Paperback)",
+          "authors": "주디 하인들리 (지은이)",
+          "publisher": "Walker",
+          "publication_year": "2008",
+          "isbn13": "9781406316681",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/1532/31/cover/1406316687_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5378078",
+          "loan_count": "1039"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "두뇌 스케치북  : 좌뇌우뇌 컬러링",
+          "authors": "도티도그 편집부 지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9788809854314",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6428591",
+          "loan_count": "1037"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "좋아하는 과목으로 진로를 찾아라:문·이과 선택에서 유망 학과 결정까지",
+          "authors": "김상호 지음",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9798963057088",
+          "addition_symbol": "43300",
+          "vol": "",
+          "class_no": "372.68",
+          "class_nm": "사회과학 > 교육학 > 학교행정 및 경영, 보건",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2869634",
+          "loan_count": "1030"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "No! Says Olly Bear",
+          "authors": "by Tony Kenyon",
+          "publisher": "Red Fox Picture Books",
+          "publication_year": "2003",
+          "isbn13": "9781407227283",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424908",
+          "loan_count": "1017"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "강릉대 아이들, 미국 명문대학원을 점령하다",
+          "authors": "조명석 지음",
+          "publisher": "김영사",
+          "publication_year": "2007",
+          "isbn13": "9789788934929",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "377.7",
+          "class_nm": "사회과학 > 교육학 > 대학, 전문, 고등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2382702",
+          "loan_count": "993"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "A Little Book about Colors (Leo Lionni's Friends) (Board Books)",
+          "authors": "레오 리오니 (지은이), Jan Gerardi (그림)",
+          "publisher": "Random House Childrens Books",
+          "publication_year": "2019",
+          "isbn13": "9780525582298",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/17077/43/cover/0525582290_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5458772",
+          "loan_count": "989"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "(The) school book ",
+          "authors": "Todd Parr",
+          "publisher": "Little Brown & Co",
+          "publication_year": "2019",
+          "isbn13": "9780316423809",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/17411/59/cover/0316423807_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5478690",
+          "loan_count": "984"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Hullet 구멍",
+          "authors": "어이빈드 토세테르 글,그림",
+          "publisher": "봄봄스쿨",
+          "publication_year": "2013",
+          "isbn13": "9788809332973",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2920328",
+          "loan_count": "895"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Let's Go into Space! (Board Book)",
+          "authors": "Petr Horacek (지은이)",
+          "publisher": "Walker Books Ltd",
+          "publication_year": "2020",
+          "isbn13": "9781406388794",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/176/003/17600336.jpg?type=m1&udate=20201211",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5927906",
+          "loan_count": "859"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "나타났다 뿌직! 똥 - 뽀로로 응가 사운드북",
+          "authors": "키즈아이콘 편집부 (엮은이)",
+          "publisher": "키즈아이콘(아이코닉스)",
+          "publication_year": "2022",
+          "isbn13": "8809644081817",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/30188/37/cover/k032839996_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6582062",
+          "loan_count": "849"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Piglet and mama",
+          "authors": "by Margaret Wild",
+          "publisher": "Working Title Press",
+          "publication_year": "2008",
+          "isbn13": "9781876288594",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2510485",
+          "loan_count": "814"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Gossie",
+          "authors": "by Olivier Dunrea",
+          "publisher": "",
+          "publication_year": "2006",
+          "isbn13": "9781406301182",
+          "addition_symbol": "90100",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2707946",
+          "loan_count": "780"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "카카오 리틀프렌즈 사운드 토이북 : 부릉부릉 자동차",
+          "authors": "도희 (지은이), 마키토이 (그림)",
+          "publisher": "꿈꾸는달팽이(꿈달)",
+          "publication_year": "2020",
+          "isbn13": "8809445902823",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/25593/57/cover/k672735582_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819190",
+          "loan_count": "779"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "Bizzy Bear: Building Site (Board Book)",
+          "authors": "Benji Davies (지은이)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2013",
+          "isbn13": "9780857633552",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/3222/60/cover/0857633554_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5377463",
+          "loan_count": "758"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "누구 것일까?",
+          "authors": "타나아미 야스코",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789100000004",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3850275",
+          "loan_count": "741"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Ollie (Paperback)",
+          "authors": "Olivier Dunrea",
+          "publisher": "Walker Books Ltd",
+          "publication_year": "2006-04-03",
+          "isbn13": "9781406301205",
+          "addition_symbol": "90100",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2519573",
+          "loan_count": "714"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Factfulness: Ten Reasons We're Wrong about the World--And Why Things Are Better Than You Think",
+          "authors": "Rosling, Hans, 올라 로슬링, Anna Rosling R?nlund (지은이)",
+          "publisher": "FlatironBooks",
+          "publication_year": "2020",
+          "isbn13": "9781250123824",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "331.54",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24157/94/cover/f822639649_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5748998",
+          "loan_count": "688"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "잠수네 초등 3, 4학년 공부법",
+          "authors": "이신애 지음",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "8925558459978",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "373.4",
+          "class_nm": "사회과학 > 교육학 > 학습지도, 교육방법",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3143614",
+          "loan_count": "663"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "Bizzy Bear: Building Site (Board Book)",
+          "authors": "Benji Davies (지은이)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2013",
+          "isbn13": "9780857633552",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/3222/60/cover/0857633554_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5377463",
+          "loan_count": "661"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "Baa for beginners",
+          "authors": "by Deborah Fajerman",
+          "publisher": "Red fox",
+          "publication_year": "2006",
+          "isbn13": "9781862306486",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427044",
+          "loan_count": "646"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "카카오 리틀프렌즈 사운드 토이북 : 쿵작쿵작 디제잉 드럼",
+          "authors": "난나 (그림)",
+          "publisher": "꿈꾸는달팽이(꿈달)",
+          "publication_year": "2020",
+          "isbn13": "8809445902885",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/25744/12/cover/k082736907_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5845316",
+          "loan_count": "641"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Telling the Time (Board Book, New ed)",
+          "authors": "헤더 어메리",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2007",
+          "isbn13": "9780746081204",
+          "addition_symbol": "",
+          "vol": "20",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/1529/62/cover/0746081200_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2510486",
+          "loan_count": "640"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "(노래로 바로 잡는) 로보카폴리 생활습관",
+          "authors": "최재숙",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9788809316331",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3338234",
+          "loan_count": "639"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Our house is on fire :Greta Thunberg's call to save the planet ",
+          "authors": "Jeanette Winter",
+          "publisher": "Beach Lane Books",
+          "publication_year": "2019",
+          "isbn13": "9781534467781",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "334",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회문제",
+          "bookImageURL": "https://image.aladin.co.kr/product/20347/53/cover/1534467785_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5517033",
+          "loan_count": "636"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "Bizzy Bear: Pizza Time (Board Book)",
+          "authors": "벤지 데이비스 (그림)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2021",
+          "isbn13": "9781788006620",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5949244",
+          "loan_count": "634"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Let's Find the Puppy (Board Books)",
+          "authors": "Alex Willmore (지은이)",
+          "publisher": "Tiger Tales",
+          "publication_year": "2020",
+          "isbn13": "9781680106299",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/22604/33/cover/1680106295_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6356626",
+          "loan_count": "623"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "Moo-cow kung-fu-cow ",
+          "authors": "Nick Sharratt",
+          "publisher": "Scholastic",
+          "publication_year": "2019",
+          "isbn13": "9781407189468",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5450981",
+          "loan_count": "622"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "I Feel... Angry (Hardcover)",
+          "authors": "DJ Corchin (지은이)",
+          "publisher": "Sourcebooks Explore",
+          "publication_year": "2021",
+          "isbn13": "9781728219585",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/24408/20/cover/1728219582_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948761",
+          "loan_count": "607"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "베이비버스 : 영어 동요",
+          "authors": "토이트론 편집부 (지은이)",
+          "publisher": "토이트론",
+          "publication_year": "2020",
+          "isbn13": "8809182327248",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/25760/47/cover/k772736100_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5941830",
+          "loan_count": "596"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Sing Along With Me! Old Macdonald had a Farm (Board Book)",
+          "authors": "노지 크로 (지은이), Yu-Hsuan Huang (그림)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2020",
+          "isbn13": "9781788007467",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696394",
+          "loan_count": "581"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "Tilly and milly",
+          "authors": "Told by Kate Summers",
+          "publisher": "Orion Children's Books",
+          "publication_year": "1998",
+          "isbn13": "9781407227269",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "388.3",
+          "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427121",
+          "loan_count": "579"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "おつきさまこんばんは=Hello, moon!",
+          "authors": "林明子 さく",
+          "publisher": "福音館書店",
+          "publication_year": "2006",
+          "isbn13": "9784834006872",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "http://image.aladin.co.kr/product/403/78/cover/4834006875_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=980149",
+          "loan_count": "576"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "Time for Bed, Panda (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026740",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/167/487/16748780.jpg?type=m1&udate=20220104",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468879",
+          "loan_count": "572"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "One by One (Paperback)",
+          "authors": "주디 하인들리 (지은이)",
+          "publisher": "Walker",
+          "publication_year": "2008",
+          "isbn13": "9781406316674",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/1532/31/cover/1406316679_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5372146",
+          "loan_count": "568"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "Peppa Pig: At the Zoo : A lift-the-flap book (Board Book)",
+          "authors": "Peppa Pig (지은이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2018",
+          "isbn13": "9780241335918",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/12992/49/cover/0241335914_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5474406",
+          "loan_count": "560"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "Sing Along With Me! Incy Wincy Spider (Board Book)",
+          "authors": "노지 크로 (지은이), Yu-Hsuan Huang (그림)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2020",
+          "isbn13": "9781788007542",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696397",
+          "loan_count": "555"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Frog at the Farm (Board Book)",
+          "authors": "BOOKS  CAMPBELL (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2022",
+          "isbn13": "9781529049763",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468874",
+          "loan_count": "552"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Everybody Has Feelings (Paperback, 1)",
+          "authors": "존 버거맨 (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2021",
+          "isbn13": "9780192766045",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6327580",
+          "loan_count": "551"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "(Goodnight)piggy wiggy",
+          "authors": "by Christyan Fox",
+          "publisher": "Little Tiger Press",
+          "publication_year": "2000",
+          "isbn13": "9781854306586",
+          "addition_symbol": "",
+          "vol": "19",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2510488",
+          "loan_count": "549"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Hide and Seek Bunnies (Hardcover)",
+          "authors": "Fiona Watt",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2007",
+          "isbn13": "9780746077405",
+          "addition_symbol": "",
+          "vol": "18",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/1529/61/cover/0746077408_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2510487",
+          "loan_count": "544"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "Ten black dots",
+          "authors": "[by] Donald Crews",
+          "publisher": "Scholastic",
+          "publication_year": "1992",
+          "isbn13": "9780590464796",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2503652",
+          "loan_count": "543"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Happy Birthday",
+          "authors": "Yu-Hsuan Huang",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788007627",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696390",
+          "loan_count": "540"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Zoo poo",
+          "authors": "by Richard Morgan",
+          "publisher": "red fox",
+          "publication_year": "2004",
+          "isbn13": "9781849413695",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424532",
+          "loan_count": "539"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "Let's Go Out, Elephant (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026771",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468876",
+          "loan_count": "537"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Twinkle Twinkle Little Star",
+          "authors": "Yu-Hsuan Huang",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788007603",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696396",
+          "loan_count": "534"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "A Little Book about Winter (Board Books)",
+          "authors": "레오 리오니 (지은이)",
+          "publisher": "Random House Books for Young Readers",
+          "publication_year": "2021",
+          "isbn13": "9780593374740",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/26580/2/cover/0593374746_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6319072",
+          "loan_count": "529"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "(The) oldest student :how Mary Walker learned to read ",
+          "authors": "written by Rita Lorraine Hubbard ;illustrated by Oge Mora",
+          "publisher": "Schwartz & Wade Books",
+          "publication_year": "2020",
+          "isbn13": "9781524768287",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "301",
+          "class_nm": "사회과학 > 사회과학 > 사회사상",
+          "bookImageURL": "https://image.aladin.co.kr/product/19560/90/cover/1524768286_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5596085",
+          "loan_count": "523"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "62",
+          "bookname": "It's Lunchtime, Monkey (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026757",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468875",
+          "loan_count": "523"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "62",
+          "bookname": "Ten Shiny Snowflakes (Novelty Book)",
+          "authors": "Russell Julian (지은이)",
+          "publisher": "Caterpillar Books",
+          "publication_year": "2012",
+          "isbn13": "9781848572744",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/1731/72/cover/1848572743_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5378159",
+          "loan_count": "523"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "62",
+          "bookname": "(The)man who loved boxes",
+          "authors": "by Stephen Michael King",
+          "publisher": "Scholastic",
+          "publication_year": "2008",
+          "isbn13": "9781865048376",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2510172",
+          "loan_count": "523"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "Tiger at the Beach : First Summer Words (Board Book)",
+          "authors": "BOOKS  CAMPBELL (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2022",
+          "isbn13": "9781529049787",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468878",
+          "loan_count": "517"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Loveblock ",
+          "authors": "by Christopher Franceschelli ;art by Peskimo",
+          "publisher": "Abrams Appleseed",
+          "publication_year": "2020",
+          "isbn13": "9781419731532",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/24302/96/cover/141973153x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5984870",
+          "loan_count": "514"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "My book of opposites",
+          "authors": "illustrated by Kasia Nowowiejska",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9781848696143",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3635568",
+          "loan_count": "507"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "뽀로로 토이북 칭찬놀이 : 참 잘했어요 뽀로로",
+          "authors": "키즈아이콘 편집부 (엮은이)",
+          "publisher": "키즈아이콘(아이코닉스)",
+          "publication_year": "2020",
+          "isbn13": "8809644080797",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/25464/79/cover/k962633829_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5810272",
+          "loan_count": "506"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "Hickory Dickory Dock",
+          "authors": "Yu-Hsuan Huang",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788008273",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696391",
+          "loan_count": "489"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "70",
+          "bookname": "리더와 보스:홍사중의 新지도자론",
+          "authors": "홍사중  지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789788971962",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "331.17",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2852844",
+          "loan_count": "489"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "No, David! (Board Books)",
+          "authors": "데이빗 섀논 (지은이)",
+          "publisher": "Blue Sky Press (AZ)",
+          "publication_year": "2018",
+          "isbn13": "9781338299588",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/13409/89/cover/1338299581_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5411515",
+          "loan_count": "487"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "72",
+          "bookname": "나도 학교에 가요!",
+          "authors": "유효진 지음",
+          "publisher": "청림아이",
+          "publication_year": "2007",
+          "isbn13": "9789788995883",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.2",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2382457",
+          "loan_count": "487"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "The Very Hungry Caterpillar Eats Lunch: A Colors Book (Board Books)",
+          "authors": "에릭 칼 (지은이)",
+          "publisher": "World of Eric Carle",
+          "publication_year": "2022",
+          "isbn13": "9780593384114",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/27364/7/cover/0593384113_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6450545",
+          "loan_count": "481"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "Five Little Ducks",
+          "authors": "Yu-Hsuan Huang",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788007610",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696389",
+          "loan_count": "480"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "Animalphabet (Paperback)",
+          "authors": "줄리아 도널드슨 (지은이), Sharon King-chai (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2020",
+          "isbn13": "9781509801640",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/20839/79/cover/1509801642_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5849961",
+          "loan_count": "479"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Who's there, spot?",
+          "authors": "Eric Hill",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "9780723267379",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3100185",
+          "loan_count": "478"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "카카오 리틀프렌즈 사운드 토이북 : 냠냠 치카 건강 지킴이",
+          "authors": "도희 (지은이), 윤나래 (그림)",
+          "publisher": "꿈꾸는달팽이(꿈달)",
+          "publication_year": "2020",
+          "isbn13": "8809445902892",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/25837/33/cover/k622736538_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5839182",
+          "loan_count": "471"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "Time for Bed, Panda (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026740",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/167/487/16748780.jpg?type=m1&udate=20220104",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468879",
+          "loan_count": "467"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Let's Play, Cheetah : First Playtime Words (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026764",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/167/487/16748781.jpg?type=m1&udate=20211130",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468877",
+          "loan_count": "460"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "Let's Go Out, Elephant (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026771",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468876",
+          "loan_count": "457"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "My book of colours",
+          "authors": "illustrated by Kasia Nowowiejska",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9781848696136",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3635475",
+          "loan_count": "454"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Busy Baking (Board Book, Main Market Ed.)",
+          "authors": "Louise Forshaw (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2016",
+          "isbn13": "9781509808960",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/7472/56/cover/1509808965_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5559821",
+          "loan_count": "452"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "핑크퐁 사운드북 : 생활 습관 동요 STEP 2",
+          "authors": "더핑크퐁컴퍼니 편집부 (지은이)",
+          "publisher": "더핑크퐁컴퍼니",
+          "publication_year": "2022",
+          "isbn13": "8809456154624",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/30352/47/cover/k212839644_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6597260",
+          "loan_count": "450"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "A Little Book about Colors (Leo Lionni's Friends) (Board Books)",
+          "authors": "레오 리오니 (지은이), Jan Gerardi (그림)",
+          "publisher": "Random House Childrens Books",
+          "publication_year": "2019",
+          "isbn13": "9780525582298",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/17077/43/cover/0525582290_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5458772",
+          "loan_count": "449"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "Happy Birthday",
+          "authors": "Yu-Hsuan Huang",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788007627",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5696390",
+          "loan_count": "442"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "Firefighters A to Z",
+          "authors": "by Chris L. Demarest",
+          "publisher": "Scholastic",
+          "publication_year": "2001",
+          "isbn13": "9780439287166",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2507223",
+          "loan_count": "437"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "Let's Play, Cheetah : First Playtime Words (Board Book)",
+          "authors": "Campbell Books (지은이), 조 로지 (그림)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2021",
+          "isbn13": "9781529026764",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/167/487/16748781.jpg?type=m1&udate=20211130",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468877",
+          "loan_count": "428"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "Pictory Set IT-08 / Orange Pear Apple Bear - 픽토리 Picture Your Story",
+          "authors": "에밀리 그래빗 (지은이)",
+          "publisher": "TWOPONDS (투판즈)",
+          "publication_year": "2016",
+          "isbn13": "8809445506403",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/8995/41/cover/f492535809_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5449093",
+          "loan_count": "425"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "Frog at the Farm (Board Book)",
+          "authors": "BOOKS  CAMPBELL (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2022",
+          "isbn13": "9781529049763",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468874",
+          "loan_count": "424"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "Tiger at the Beach : First Summer Words (Board Book)",
+          "authors": "BOOKS  CAMPBELL (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2022",
+          "isbn13": "9781529049787",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468878",
+          "loan_count": "422"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "The Tyranny of Merit : What's Become of the Common Good? (Paperback) - 마이클 샌델 '공정하다는 착각' 원서",
+          "authors": "마이클 샌델 (지은이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2020",
+          "isbn13": "9780241407608",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "332.6",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회조직 및 제도",
+          "bookImageURL": "https://image.aladin.co.kr/product/23375/88/cover/0241407605_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5819775",
+          "loan_count": "421"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "92",
+          "bookname": "[큰글자책]나는 어떻게 삶의 해답을 찾는가:고명환의 독서 내공",
+          "authors": "고명환 지음",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781193939154",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6957285",
+          "loan_count": "421"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "Busy Park (Board Book, Main Market Ed.)",
+          "authors": "Forshaw (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2017",
+          "isbn13": "9781509828937",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/8648/19/cover/1509828931_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5559841",
+          "loan_count": "419"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "Bizzy Bear: Happy Holiday (Board Book, 2 Rev ed)",
+          "authors": "벤지 데이비스 (지은이)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2013",
+          "isbn13": "9780857633569",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/3222/60/cover/0857633562_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5569957",
+          "loan_count": "416"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "95",
+          "bookname": "Ten on the Sled (Paperback)",
+          "authors": "Kim Norman (지은이), Liza Woodruff (그림)",
+          "publisher": "Sterling Pub Co Inc",
+          "publication_year": "2015",
+          "isbn13": "9781454916833",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/5323/56/cover/1454916834_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5378158",
+          "loan_count": "416"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "김미경의 드림 온 Dream on",
+          "authors": "김미경 지음",
+          "publisher": "",
+          "publication_year": "2013",
+          "isbn13": "7988965701200",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2670605",
+          "loan_count": "413"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "Airport",
+          "authors": "by Byron Barton",
+          "publisher": "Scholastic",
+          "publication_year": "1982",
+          "isbn13": "9780439204637",
+          "addition_symbol": "90000",
+          "vol": "",
+          "class_no": "375",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2508386",
+          "loan_count": "410"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "Animalphabet (Hardcover)",
+          "authors": "줄리아 도널드슨 (지은이), Sharon King-chai (그림)",
+          "publisher": "Dial Books",
+          "publication_year": "2018",
+          "isbn13": "9780525554158",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "https://image.aladin.co.kr/product/14645/88/cover/0525554157_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5396593",
+          "loan_count": "409"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "みんなうんち=Everyone eats and ……",
+          "authors": "五味太郎 さく",
+          "publisher": "福音館書店",
+          "publication_year": "2006",
+          "isbn13": "9784834008487",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "375.1",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "http://image.aladin.co.kr/product/8993/80/cover/4834008487_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=978465",
+          "loan_count": "404"
+        }
+      }
+    ]
+  }
+}

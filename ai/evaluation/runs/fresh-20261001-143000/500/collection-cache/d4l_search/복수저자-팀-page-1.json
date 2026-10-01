@@ -1,0 +1,15 @@
+{
+  "response": {
+    "request": {
+      "keyword": "팀",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 0,
+    "docs": []
+  }
+}

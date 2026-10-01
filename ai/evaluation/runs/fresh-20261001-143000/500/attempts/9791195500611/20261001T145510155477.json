@@ -1,0 +1,303 @@
+{
+  "isbn": "9791195500611",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791195500611"
+          },
+          {
+            "code": "g",
+            "value": "03810"
+          },
+          {
+            "code": "c",
+            "value": "₩13000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "꽃그림자놀이"
+          },
+          {
+            "code": "b",
+            "value": "박소연 장편소설"
+          },
+          {
+            "code": "d",
+            "value": "박소연"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "나무옆의자"
+          },
+          {
+            "code": "c",
+            "value": "2015"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "300 p."
+          },
+          {
+            "code": "c",
+            "value": "21 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '145*210mm'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "813.7"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "082",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "895.735"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(082). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "박소연"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명 박소연을 확인하여 700 부출표목으로 생성"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "세계문학상"
+          },
+          {
+            "code": "a",
+            "value": "미스터리"
+          },
+          {
+            "code": "a",
+            "value": "정조"
+          },
+          {
+            "code": "a",
+            "value": "조선"
+          },
+          {
+            "code": "a",
+            "value": "욕망"
+          },
+          {
+            "code": "a",
+            "value": "소설"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "keywords",
+            "description"
+          ],
+          "keywords_used": [
+            "세계문학상",
+            "미스터리",
+            "정조",
+            "조선",
+            "욕망",
+            "소설"
+          ],
+          "reasoning": "키워드 상위 항목 중 서지값 반복이 아닌 주제어를 최소 정제하여 653 비통제 색인어로 제안"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "한국문학"
+          },
+          {
+            "code": "a",
+            "value": "한국소설"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 813.7, ISBN 부가기호 03810에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음: 245 본표제와 같은 값"
+      },
+      {
+        "tag": "710",
+        "reason": "단체저자 근거 없음: 출판사는 710으로 올리지 않음"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 검수 필요",
+      "500과 546은 description 근거에 대한 사서 검토가 필요",
+      "246은 다른 표제의 명시적 근거가 없어 검수 필요",
+      "710은 출판사를 단체저자로 올리지 않도록 검수 필요",
+      "546 언어주기 입력 근거 부족으로 제거됨",
+      "041 언어별 입력 근거 부족으로 제거됨",
+      "246이 245 본표제와 같아 제거됨",
+      "710에 출판사가 들어가 제거됨",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-01T14:55:10.155446+09:00",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

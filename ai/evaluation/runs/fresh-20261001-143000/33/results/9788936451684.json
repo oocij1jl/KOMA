@@ -1,0 +1,294 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788936451684"
+        },
+        {
+          "code": "g",
+          "value": "73810"
+        },
+        {
+          "code": "c",
+          "value": "₩12800"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio ISBN 전사"
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "양배추를 응원해 주세요"
+        },
+        {
+          "code": "b",
+          "value": "온선영 동화"
+        },
+        {
+          "code": "d",
+          "value": "지은이: 온선영"
+        },
+        {
+          "code": "e",
+          "value": "그린이: 홍주연"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "창비"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "80 p."
+        },
+        {
+          "code": "c",
+          "value": "22 cm"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '168*220'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '168*220'"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "813.7"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "온선영"
+        },
+        {
+          "code": "e",
+          "value": "지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명 온선영과 역할 지음이 확인됨"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "홍주연"
+        },
+        {
+          "code": "e",
+          "value": "그림"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "biblio.author에서 개인명 홍주연과 역할 그림이 확인됨"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "generated_by": "llm",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "양배추"
+        },
+        {
+          "code": "a",
+          "value": "어린이"
+        },
+        {
+          "code": "a",
+          "value": "좋은 어린이책"
+        },
+        {
+          "code": "a",
+          "value": "저학년"
+        },
+        {
+          "code": "a",
+          "value": "동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "keywords",
+          "description"
+        ],
+        "keywords_used": [
+          "양배추",
+          "어린이",
+          "좋은 어린이책",
+          "저학년",
+          "동화"
+        ],
+        "reasoning": "가중치 상위 키워드 중 서지 정보 반복이 아닌 주제어를 선택하고 description으로 적합성을 보조 확인함"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "api",
+      "generated_by": "rule",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국문학"
+        },
+        {
+          "code": "a",
+          "value": "아동문학"
+        },
+        {
+          "code": "a",
+          "value": "한국동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": null,
+      "note": "KDC 813.7, ISBN 부가기호 73810에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "041",
+      "reason": "번역·다국어 근거 없음: 041 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 없음"
+    },
+    {
+      "tag": "710",
+      "reason": "단체 저작 근거가 없으므로 생성하지 않음"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+    },
+    {
+      "tag": "830",
+      "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+    },
+    {
+      "tag": "950",
+      "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 없음: 판 표시 미수집"
+    },
+    {
+      "tag": "490",
+      "reason": "총서사항 근거 없음: 총서명 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: API 분류기호 미수집"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 키워드 기반 추론이므로 사서 검수 필요",
+    "500과 546은 검수 대상이며 단일 언어 자료는 546 생성 보류 대상임",
+    "546 언어주기 입력 근거 부족으로 제거됨",
+    "500 허용 유형이 아니어서 제거됨"
+  ]
+}

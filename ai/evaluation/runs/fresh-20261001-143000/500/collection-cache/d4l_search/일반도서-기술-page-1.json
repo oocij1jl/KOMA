@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "keyword": "기술",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 7905,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934972464",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3027835",
+          "loan_count": "189670"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448011",
+          "addition_symbol": "74810",
+          "vol": "3",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25967/84/cover/8936448013_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5996157",
+          "loan_count": "116968"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874460",
+          "addition_symbol": "74910",
+          "vol": "12",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/21613/51/cover/k122636592_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5521219",
+          "loan_count": "106929"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "authors": "지은이: 천선란",
+          "publisher": "허블",
+          "publication_year": "2020",
+          "isbn13": "9791190090261",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24895/69/cover/k882632470_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5738747",
+          "loan_count": "100256"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950980214",
+          "addition_symbol": "74900",
+          "vol": "7",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/18740/97/cover/8950980215_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5384091",
+          "loan_count": "95134"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환",
+          "publisher": "민음인",
+          "publication_year": "2018",
+          "isbn13": "9791158883591",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/13492/56/cover/k162532501_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3701374",
+          "loan_count": "93191"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/25967/85/cover/k412737326_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5846583",
+          "loan_count": "89380"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "신경 끄기의 기술 :인생에서 가장 중요한것만 남기는 힘 ",
+          "authors": "마크 맨슨 지음 ;한재호 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2017",
+          "isbn13": "9788901219943",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/12005/79/cover/8901219948_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3649711",
+          "loan_count": "85009"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "도깨비폰을 개통하시겠습니까? :박하익 장편동화 ",
+          "authors": "지은이: 박하익 ;그린이: 손지희",
+          "publisher": "창비",
+          "publication_year": "2018",
+          "isbn13": "9788936442927",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/534/13453490.jpg?type=m1&udate=20180609",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3729400",
+          "loan_count": "84376"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9791162337561",
+          "addition_symbol": "77400",
+          "vol": "44",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/16869/78/cover/k302534971_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3913800",
+          "loan_count": "77486"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 단순하게 살기로 했다 :물건을 버린 후 찾아온 12가지 놀라운 인생의 변화 ",
+          "authors": "사사키 후미오 지음 ;김윤경 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2015",
+          "isbn13": "9791186805114",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "http://image.aladin.co.kr/product/7092/47/cover/k792434688_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097763",
+          "loan_count": "77245"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9791162335741",
+          "addition_symbol": "77400",
+          "vol": "43",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/15149/20/cover/k202533462_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3778933",
+          "loan_count": "75516"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인공지능 세계에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937857997",
+          "addition_symbol": "77470",
+          "vol": "2",
+          "class_no": "004",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/953/12495373.jpg?type=m1&udate=20170829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541429",
+          "loan_count": "74448"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(비울수록 사람을 더 채우는) 말그릇 ",
+          "authors": "김윤나 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2017",
+          "isbn13": "9791185952987",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/15652/80/cover/k282533034_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3614517",
+          "loan_count": "71686"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "초정리 편지:배유안 장편동화",
+          "authors": "배유안 [지음];홍선주 그림",
+          "publisher": "창비",
+          "publication_year": "2006",
+          "isbn13": "9788936442293",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/69/5/cover/8936442295_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2063146",
+          "loan_count": "67527"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937857379",
+          "addition_symbol": "77400",
+          "vol": "22",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/11745/7/cover/8937857375_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3605310",
+          "loan_count": "66381"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.27",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/31559/97/cover/k682832859_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6682845",
+          "loan_count": "65403"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 장애와 과학 ",
+          "authors": "글: 남춘자 ;만화: 김성래",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930206761",
+          "addition_symbol": "73500",
+          "vol": "",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/257/07325706.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1985068",
+          "loan_count": "51971"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164135189",
+          "addition_symbol": "77400",
+          "vol": "31",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/24741/0/cover/k452631612_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5729214",
+          "loan_count": "51851"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "태도에 관하여 :임경선 에세이 ",
+          "authors": "지은이: 임경선",
+          "publisher": "한겨레출판",
+          "publication_year": "2015",
+          "isbn13": "9788984318885",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/5518/23/cover/8984318884_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619229",
+          "loan_count": "51655"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 : 키 크는 빵 주세요",
+          "authors": "GIMC|DPS",
+          "publisher": "한솔수북",
+          "publication_year": "2011",
+          "isbn13": "9788953581166",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/435/06643572.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373882",
+          "loan_count": "51538"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "산불에서 살아남기",
+          "authors": "글: 포도알친구 ;그림: 한현동",
+          "publisher": "미래엔",
+          "isbn13": "9791164137510",
+          "addition_symbol": "77470",
+          "vol": "2",
+          "class_no": "526",
+          "class_nm": "기술과학 > 농업, 농학 > 임학, 입업",
+          "bookImageURL": "https://image.aladin.co.kr/product/26541/43/cover/k122738733_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5929445",
+          "loan_count": "51197"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "낭만적 연애와 그 후의 일상 :알랭 드 보통 장편소설 ",
+          "authors": "지은이: 알랭 드 보통 ;옮긴이: 김한영",
+          "publisher": "은행나무",
+          "publication_year": "2016",
+          "isbn13": "9788956608846",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/9789/89/cover/k002535757_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3279229",
+          "loan_count": "50502"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "쿠키런 추리.수사 과학 상식",
+          "authors": "조주희 (글), 이태영 (그림), 정효해 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926389362",
+          "addition_symbol": "07400",
+          "vol": "",
+          "class_no": "404",
+          "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "http://image.aladin.co.kr/product/5166/38/cover/8926389367_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2621334",
+          "loan_count": "50293"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 : 엄마의 립스틱",
+          "authors": "GIMC|DPS",
+          "publisher": "한솔수북",
+          "publication_year": "2011",
+          "isbn13": "9788953581180",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/435/06643571.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373878",
+          "loan_count": "49957"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "애쓰지 않고 편안하게",
+          "authors": "김수현",
+          "publisher": "놀(다산북스)",
+          "publication_year": "2020-05-15",
+          "isbn13": "9791130629636",
+          "addition_symbol": "13740",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/24054/10/cover/k772639730_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5668706",
+          "loan_count": "48059"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 뒤죽박죽 방 치우기 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2011",
+          "isbn13": "9788953582767",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/774/06777401.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376980",
+          "loan_count": "47746"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 3D 프린팅 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219693",
+          "addition_symbol": "74400",
+          "vol": "",
+          "class_no": "004.7",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11055/63/cover/8930219691_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3445558",
+          "loan_count": "47133"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "축구 잘하는 50가지 비밀 :진짜 진짜 축구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 길 하비,번역: 이성빈",
+          "publisher": "부즈펌",
+          "publication_year": "2015",
+          "isbn13": "9791186073605",
+          "addition_symbol": "73690",
+          "vol": "",
+          "class_no": "695",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "http://image.aladin.co.kr/product/5941/80/cover/6000848116_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647185",
+          "loan_count": "46145"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 이빨 빠진 날 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2012",
+          "isbn13": "9788953584037",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/656/06865625.jpg?type=m1&udate=20160405",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373880",
+          "loan_count": "46124"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "식량 위기에서 살아남기 ",
+          "authors": "글: 곰돌이 co. ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2021",
+          "isbn13": "9791164139699",
+          "addition_symbol": "77470",
+          "vol": "",
+          "class_no": "335",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 생활문제",
+          "bookImageURL": "https://image.aladin.co.kr/product/28205/96/cover/k142835073_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6325833",
+          "loan_count": "46028"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 :욕심 바구니 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2012",
+          "isbn13": "9788953584051",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/311/06931116.jpg?type=m1&udate=20120611",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373879",
+          "loan_count": "45972"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 꿈이 너무 많아 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2012",
+          "isbn13": "9788953583979",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/312/06831215.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373873",
+          "loan_count": "45785"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "표현의 기술 ",
+          "authors": "글: 유시민 ;만화: 정훈이",
+          "publisher": "아름다운사람들",
+          "publication_year": "2016",
+          "isbn13": "9788965133759",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "802",
+          "class_nm": "문학 > 문학 > 문장작법, 수사학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8454/76/cover/8965133750_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3158832",
+          "loan_count": "45680"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "쿠키런 신통방통 과학 상식 =신통방통! 흥미진진! 신기한 과학 상식 25 /CookieRun ",
+          "authors": "글: 조주희 ;그림: 이태영",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926388464",
+          "addition_symbol": "67400",
+          "vol": "",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/096/508/09650862.jpg?type=m1&udate=20151018",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2889099",
+          "loan_count": "45400"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 콩닥콩닥 거짓말 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2012",
+          "isbn13": "9788953583986",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/312/06831226.jpg?type=m1&udate=20160331",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373881",
+          "loan_count": "45303"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 잘하는 건 다 달라 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953588264",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2687/10/cover/895358826x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2601703",
+          "loan_count": "45233"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "명견만리 :향후 인류에게 가장 중요한 것들을 말하다",
+          "authors": "KBS <명견만리> 제작팀 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2016",
+          "isbn13": "9791186560167",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "331.544",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8468/10/cover/k362535362_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159565",
+          "loan_count": "44558"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(카카오프렌즈) 과학 탐정단 :미스터리 과학 학습만화",
+          "authors": "글: 김승현,그림: 최우빈",
+          "publisher": "대원씨아이",
+          "isbn13": "9791136202673",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19971/48/cover/k152635948_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5452020",
+          "loan_count": "44269"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자언니 부자연습 :가난한 공주 부자되기 프로젝트 ",
+          "authors": "유수진 지음",
+          "publisher": "세종서적",
+          "publication_year": "2017",
+          "isbn13": "9788984076266",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/10951/42/cover/8984076260_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3440202",
+          "loan_count": "44237"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 진짜 사나이 ",
+          "authors": "글: 권찬호 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2014",
+          "isbn13": "9788960243187",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3572/73/cover/8960243183_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2028812",
+          "loan_count": "44119"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 꾸물꾸물 지각대장 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953588196",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/558/07155850.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373663",
+          "loan_count": "43640"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 과일 좋아! 채소 좋아! ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953588202",
+          "addition_symbol": "7480",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2567/38/cover/8953588200_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2423691",
+          "loan_count": "43214"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 그림자가 사라졌어 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2011",
+          "isbn13": "9788953582750",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/774/06777467.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376979",
+          "loan_count": "42922"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 컴퓨터 바이러스 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930206785",
+          "addition_symbol": "73560",
+          "vol": "",
+          "class_no": "004.6",
+          "class_nm": "총류 > 총류 > 전산학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/079/933/07993308.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2353540",
+          "loan_count": "42865"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 자전거 타고 전국일주 ",
+          "authors": "글: 양태수 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2010",
+          "isbn13": "9788960242135",
+          "addition_symbol": "77000",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/809/18/cover/8960242136_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1121540",
+          "loan_count": "42674"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "authors": "글: 스토리 a. ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2021",
+          "isbn13": "9791168410794",
+          "addition_symbol": "77400",
+          "vol": "02",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28618/84/cover/k502835059_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6384352",
+          "loan_count": "42414"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 약속은 지켜야 해 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953588288",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/403/07240372.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373739",
+          "loan_count": "42075"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일단 오늘은 나한테 잘합시다 :어쩐지 의기양양 도대체 씨의 띄엄띄엄 인생 기술 ",
+          "authors": "도대체 글·그림",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2017",
+          "isbn13": "9788959135592",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/11842/38/cover/8959135593_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3625256",
+          "loan_count": "41825"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구름빵 동생이랑 안 놀아 ",
+          "authors": "글·그림: GIMC,김향수",
+          "publisher": "한솔교육",
+          "publication_year": "2013",
+          "isbn13": "9788953588271",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/403/07240369.jpg?type=m1&udate=20170906",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373740",
+          "loan_count": "41797"
+        }
+      }
+    ]
+  }
+}

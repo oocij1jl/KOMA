@@ -144,5 +144,45 @@ class DecisionTests(unittest.TestCase):
         self.assertEqual(outcomes["490"], "FN")
 
 
+class CoverageTests(unittest.TestCase):
+    def test_missing_book_does_not_become_success_only_accuracy(self) -> None:
+        first = gold_record({"245": [("0", "0", [("a", "카프카의 문장들")])]})
+        second = v1.RecordData(isbn="9791194100133", tags=first.tags)
+        results = {first.isbn: {"fields": [field("245", [("a", "카프카의 문장들")], ind1="0", ind2="0")]}}
+
+        with self.assertRaisesRegex(ValueError, "생성 결과 1권 누락: 9791194100133"):
+            evaluator.evaluate_run([first, second], results)
+
+    def test_error_envelope_is_not_a_generated_record(self) -> None:
+        gold = gold_record({"245": [("0", "0", [("a", "카프카의 문장들")])]})
+        results = {gold.isbn: {"status": "error", "error_code": "d4l_incomplete"}}
+
+        with self.assertRaisesRegex(ValueError, "생성 실패 결과"):
+            evaluator.evaluate_run([gold], results)
+
+    def test_duplicate_gold_isbn_cannot_inflate_book_count(self) -> None:
+        gold = gold_record({"245": [("0", "0", [("a", "카프카의 문장들")])]})
+
+        with self.assertRaisesRegex(ValueError, "중복 ISBN"):
+            evaluator.evaluate_run([gold, gold], {gold.isbn: {"fields": []}})
+
+    def test_bulk_success_envelope_is_scored_like_a_plain_result(self) -> None:
+        gold = gold_record({"245": [("0", "0", [("a", "카프카의 문장들")])]})
+        plain = {"fields": [field("245", [("a", "카프카의 문장들")], ind1="0", ind2="0")]}
+        envelope = {"isbn": gold.isbn, "status": "success", "result": plain, "validation": {"valid": True}}
+
+        direct = evaluator.evaluate_run([gold], {gold.isbn: plain})["scorecard"]
+        wrapped = evaluator.evaluate_run([gold], {gold.isbn: envelope})["scorecard"]
+
+        self.assertEqual(wrapped, direct)
+
+    def test_failed_bulk_envelope_is_rejected(self) -> None:
+        gold = gold_record({"245": [("0", "0", [("a", "카프카의 문장들")])]})
+        envelope = {"isbn": gold.isbn, "status": "error", "error_code": "d4l_incomplete"}
+
+        with self.assertRaisesRegex(ValueError, "status=error"):
+            evaluator.evaluate_run([gold], {gold.isbn: envelope})
+
+
 if __name__ == "__main__":
     _ = unittest.main()

@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "9",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934972464",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3027835",
+          "loan_count": "190508"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791195794799",
+          "addition_symbol": "74910",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10016/32/cover/k512536564_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3405847",
+          "loan_count": "186830"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791196025809",
+          "addition_symbol": "74910",
+          "vol": "2",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10227/84/cover/k782536886_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3412785",
+          "loan_count": "174169"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791196025847",
+          "addition_symbol": "74910",
+          "vol": "3",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10780/17/cover/k342530155_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3431411",
+          "loan_count": "160502"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791196025861",
+          "addition_symbol": "74910",
+          "vol": "4",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/438/12443866.jpg?type=m1&udate=20170818",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3536732",
+          "loan_count": "153515"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791196232160",
+          "addition_symbol": "74910",
+          "vol": "5",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/12455/35/cover/k282532761_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3665736",
+          "loan_count": "151155"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874088",
+          "addition_symbol": "74910",
+          "vol": "6",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/447/13444720.jpg?type=m1&udate=20180326",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3724093",
+          "loan_count": "135040"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874262",
+          "addition_symbol": "74910",
+          "vol": "9",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/17950/14/cover/k552534233_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5357472",
+          "loan_count": "128110"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874149",
+          "addition_symbol": "74910",
+          "vol": "7",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/14923/28/cover/s232533665_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3762427",
+          "loan_count": "128060"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874217",
+          "addition_symbol": "74910",
+          "vol": "8",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/16868/13/cover/k532534979_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3913803",
+          "loan_count": "121113"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874293",
+          "addition_symbol": "74910",
+          "vol": "10",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/19007/0/cover/k242635997_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5400516",
+          "loan_count": "119878"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "설민석의 조선왕조실록 :대한민국이 선택한 역사 이야기 ",
+          "authors": "지은이: 설민석",
+          "publisher": "세계사",
+          "publication_year": "2016",
+          "isbn13": "9788933870693",
+          "addition_symbol": "03910",
+          "vol": "",
+          "class_no": "911.052",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/8749/45/cover/8933870695_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3238806",
+          "loan_count": "119779"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874385",
+          "addition_symbol": "74910",
+          "vol": "11",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/20004/68/cover/k562635045_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5453376",
+          "loan_count": "108643"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950976118",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/15220/17/cover/8950976110_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3788041",
+          "loan_count": "106586"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791188874460",
+          "addition_symbol": "74910",
+          "vol": "12",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/21613/51/cover/k122636592_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5521219",
+          "loan_count": "106547"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950974329",
+          "addition_symbol": "74900",
+          "vol": "2",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/954/13495493.jpg?type=m1&udate=20180411",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3734987",
+          "loan_count": "103591"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950973353",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/700/13270005.jpg?type=m1&udate=20180406",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3695133",
+          "loan_count": "103026"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950977405",
+          "addition_symbol": "74900",
+          "vol": "4",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/16831/53/cover/8950977400_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3902011",
+          "loan_count": "102406"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165382650",
+          "addition_symbol": "74910",
+          "vol": "13",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/23535/70/cover/k662638920_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5623860",
+          "loan_count": "101143"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165382674",
+          "addition_symbol": "74910",
+          "vol": "14",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/24258/33/cover/k742630570_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5686995",
+          "loan_count": "99213"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001261",
+          "addition_symbol": "77900",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/18731/7/cover/k092635974_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5383811",
+          "loan_count": "98038"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950978358",
+          "addition_symbol": "74900",
+          "vol": "5",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/17424/71/cover/8950978350_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5243812",
+          "loan_count": "96113"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893118",
+          "addition_symbol": "77900",
+          "vol": "4",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/22692/88/cover/k942636037_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5581789",
+          "loan_count": "93869"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165382704",
+          "addition_symbol": "74910",
+          "vol": "15",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/25259/92/cover/k052633102_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5776020",
+          "loan_count": "93214"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950979317",
+          "addition_symbol": "74900",
+          "vol": "6",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/17950/53/cover/8950979314_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5357919",
+          "loan_count": "93197"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950980214",
+          "addition_symbol": "74900",
+          "vol": "7",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/18740/97/cover/8950980215_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5384091",
+          "loan_count": "92881"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950984144",
+          "addition_symbol": "74900",
+          "vol": "11",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/21765/80/cover/8950984148_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5528882",
+          "loan_count": "91986"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950981150",
+          "addition_symbol": "74900",
+          "vol": "8",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/19303/96/cover/8950981157_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5412597",
+          "loan_count": "88665"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165382841",
+          "addition_symbol": "74910",
+          "vol": "16",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/26651/26/cover/k962739334_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5938620",
+          "loan_count": "87823"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950983369",
+          "addition_symbol": "74900",
+          "vol": "10",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/20796/92/cover/8950983362_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5478213",
+          "loan_count": "86936"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950982188",
+          "addition_symbol": "74900",
+          "vol": "9",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/19913/94/cover/8950982188_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5450234",
+          "loan_count": "86526"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "31",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893132",
+          "addition_symbol": "77900",
+          "vol": "5",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/23704/20/cover/k832638340_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5646824",
+          "loan_count": "86526"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893170",
+          "addition_symbol": "77900",
+          "vol": "6",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/24741/87/cover/k622631613_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5729586",
+          "loan_count": "85804"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165382940",
+          "addition_symbol": "74910",
+          "vol": "17",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/27426/6/cover/k602733272_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6037961",
+          "loan_count": "85748"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "역사의 쓸모 :자유롭고 떳떳한 삶을 위한 22가지 통찰 ",
+          "authors": "최태성 지음",
+          "publisher": "다산북스",
+          "publication_year": "2019",
+          "isbn13": "9791130621968",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "904",
+          "class_nm": "역사 > 역사 > 강연집, 사평",
+          "bookImageURL": "https://image.aladin.co.kr/product/19433/93/cover/k152635416_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5428401",
+          "loan_count": "85276"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈드림",
+          "publication_year": "2019",
+          "isbn13": "9791189001278",
+          "addition_symbol": "77900",
+          "vol": "2",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/19544/57/cover/k242635126_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5435275",
+          "loan_count": "85247"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950987008",
+          "addition_symbol": "74900",
+          "vol": "13",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/23596/28/cover/8950987007_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5638545",
+          "loan_count": "81846"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950985554",
+          "addition_symbol": "74900",
+          "vol": "12",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/22811/8/cover/8950985551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5583794",
+          "loan_count": "80515"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950991722",
+          "addition_symbol": "74900",
+          "vol": "16",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/25169/0/cover/8950991721_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5770451",
+          "loan_count": "79603"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926395820",
+          "addition_symbol": "67980",
+          "vol": "1",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/3534/17/cover/8926395820_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430952",
+          "loan_count": "78936"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926397756",
+          "addition_symbol": "67980",
+          "vol": "5",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4635/64/cover/8926397750_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430958",
+          "loan_count": "78335"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001322",
+          "addition_symbol": "77900",
+          "vol": "3",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/20889/52/cover/k792636977_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5480232",
+          "loan_count": "77282"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950987756",
+          "addition_symbol": "74900",
+          "vol": "14",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/24075/34/cover/8950987759_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5670888",
+          "loan_count": "77160"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926395950",
+          "addition_symbol": "67980",
+          "vol": "3",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4091/8/cover/8926395952_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430954",
+          "loan_count": "77123"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926395943",
+          "addition_symbol": "67980",
+          "vol": "2",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/3843/13/cover/8926395944_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2605188",
+          "loan_count": "76020"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926395967",
+          "addition_symbol": "67980",
+          "vol": "4",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4364/18/cover/8926395960_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2611985",
+          "loan_count": "75502"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387764",
+          "addition_symbol": "67980",
+          "vol": "15",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/8424/25/cover/8926387763_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3157100",
+          "loan_count": "75344"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788964359167",
+          "addition_symbol": "67900",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/9869/38/cover/896435916x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3400375",
+          "loan_count": "75059"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926398258",
+          "addition_symbol": "67980",
+          "vol": "8",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/5482/20/cover/8926398250_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2618786",
+          "loan_count": "74963"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950989064",
+          "addition_symbol": "74900",
+          "vol": "15",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/24688/46/cover/8950989069_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5724221",
+          "loan_count": "74057"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950994594",
+          "addition_symbol": "74900",
+          "vol": "19",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/26785/89/cover/8950994593_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948194",
+          "loan_count": "74053"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950992835",
+          "addition_symbol": "74900",
+          "vol": "17",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/25684/1/cover/8950992833_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5818560",
+          "loan_count": "73134"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387054",
+          "addition_symbol": "67980",
+          "vol": "10",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/6325/60/cover/8926387054_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647176",
+          "loan_count": "73128"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926398203",
+          "addition_symbol": "67980",
+          "vol": "7",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/5168/45/cover/892639820x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430579",
+          "loan_count": "72165"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893187",
+          "addition_symbol": "77900",
+          "vol": "7",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/25811/68/cover/k602736334_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5828028",
+          "loan_count": "72139"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384329",
+          "addition_symbol": "67980",
+          "vol": "21",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/10998/30/cover/8926384322_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3442511",
+          "loan_count": "71034"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950995034",
+          "addition_symbol": "74900",
+          "vol": "20",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27182/42/cover/8950995034_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5985627",
+          "loan_count": "70243"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387474",
+          "addition_symbol": "67980",
+          "vol": "14",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/7973/18/cover/892638747x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3131248",
+          "loan_count": "69999"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387221",
+          "addition_symbol": "67980",
+          "vol": "11",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/6671/9/cover/8926387224_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645735",
+          "loan_count": "69886"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387405",
+          "addition_symbol": "67980",
+          "vol": "13",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/7506/49/cover/8926387402_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3113546",
+          "loan_count": "69800"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926397787",
+          "addition_symbol": "67980",
+          "vol": "6",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4907/11/cover/8926397785_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430576",
+          "loan_count": "69711"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788964359174",
+          "addition_symbol": "67900",
+          "vol": "2",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/9869/43/cover/8964359178_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3400376",
+          "loan_count": "69399"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387009",
+          "addition_symbol": "67980",
+          "vol": "9",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/5947/91/cover/8926387003_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431522",
+          "loan_count": "69265"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926387252",
+          "addition_symbol": "67980",
+          "vol": "12",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/7016/36/cover/8926387259_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3064778",
+          "loan_count": "69249"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950993511",
+          "addition_symbol": "74900",
+          "vol": "18",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/26211/84/cover/8950993511_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5853175",
+          "loan_count": "69180"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926385012",
+          "addition_symbol": "67980",
+          "vol": "16",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/8765/60/cover/8926385019_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3247287",
+          "loan_count": "69132"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165383053",
+          "addition_symbol": "74910",
+          "vol": "19",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/28540/88/cover/k222835233_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6365947",
+          "loan_count": "69022"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496208",
+          "addition_symbol": "74910",
+          "vol": "21",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/29546/35/cover/k192837057_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6470952",
+          "loan_count": "67766"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893194",
+          "addition_symbol": "77900",
+          "vol": "8",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/26819/60/cover/k392730291_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5950404",
+          "loan_count": "67743"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926385388",
+          "addition_symbol": "67980",
+          "vol": "17",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/110/915/11091568.jpg?type=m1&udate=20160922",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3351310",
+          "loan_count": "67143"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926385821",
+          "addition_symbol": "67980",
+          "vol": "19",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/10098/97/cover/8926385825_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3408414",
+          "loan_count": "66414"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "(설민석의) 통일 대모험 ",
+          "authors": "글: 설민석,그림: 원프로",
+          "publisher": "휴먼큐브",
+          "publication_year": "2018",
+          "isbn13": "9791188874187",
+          "addition_symbol": "74910",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/329/13832959.jpg?type=m1&udate=20180802",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3857213",
+          "loan_count": "65923"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926385616",
+          "addition_symbol": "67980",
+          "vol": "18",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/9742/6/cover/8926385612_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3394006",
+          "loan_count": "65807"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "(설민석의) 무도 한국사 특강 ",
+          "authors": "설민석 지음",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954623773",
+          "addition_symbol": "03910",
+          "vol": "",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/3501/62/cover/8954623778_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2011957",
+          "loan_count": "64771"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "휴먼큐브",
+          "publication_year": "2017",
+          "isbn13": "9791165383114",
+          "addition_symbol": "74910",
+          "vol": "20",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/28952/11/cover/k692836418_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6409042",
+          "loan_count": "64290"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788964359181",
+          "addition_symbol": "67900",
+          "vol": "3",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10054/56/cover/8964359186_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3406474",
+          "loan_count": "64102"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496017",
+          "addition_symbol": "77900",
+          "vol": "9",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/27355/50/cover/k982732520_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6032625",
+          "loan_count": "63878"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384497",
+          "addition_symbol": "67980",
+          "vol": "22",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/122/707/12270701.jpg?type=m1&udate=20170719",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3494998",
+          "loan_count": "62882"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496604",
+          "addition_symbol": "74910",
+          "vol": "22",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/30046/55/cover/k442839462_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6551965",
+          "loan_count": "62789"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384138",
+          "addition_symbol": "67980",
+          "vol": "20",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/10586/35/cover/8926384136_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423452",
+          "loan_count": "62030"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168415355",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/31704/70/cover/k952833687_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6695722",
+          "loan_count": "61772"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950996604",
+          "addition_symbol": "74900",
+          "vol": "21",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27838/91/cover/895099660x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6085198",
+          "loan_count": "61648"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926381144",
+          "addition_symbol": "67980",
+          "vol": "27",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/14694/81/cover/8926381145_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755796",
+          "loan_count": "61176"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "그림으로 보는 한국사 :교과서 속 역사 이야기",
+          "authors": "최종순",
+          "publisher": "계림북스",
+          "publication_year": "",
+          "isbn13": "9788953315433",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/2171/28/cover/8953315433_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2441347",
+          "loan_count": "60042"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496055",
+          "addition_symbol": "77900",
+          "vol": "10",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/28053/49/cover/k352734532_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6312236",
+          "loan_count": "59977"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "(설민석의) 통일 대모험 ",
+          "authors": "글: 설민석,그림: 원프로",
+          "publisher": "휴먼큐브",
+          "publication_year": "2018",
+          "isbn13": "9791188874224",
+          "addition_symbol": "74910",
+          "vol": "2",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/17484/26/cover/k972534204_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5246607",
+          "loan_count": "58638"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "식탁 위의 세계사 ",
+          "authors": "이영숙 지음",
+          "publisher": "창비",
+          "publication_year": "2012",
+          "isbn13": "9788936452056",
+          "addition_symbol": "43900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/352/06935249.jpg?type=m1&udate=20180726",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1855042",
+          "loan_count": "58568"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384718",
+          "addition_symbol": "67980",
+          "vol": "23",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/11852/99/cover/8926384713_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3626330",
+          "loan_count": "58027"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496642",
+          "addition_symbol": "74910",
+          "vol": "23",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/30568/62/cover/k172830601_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6598399",
+          "loan_count": "57946"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926382578",
+          "addition_symbol": "67980",
+          "vol": "25",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/406/13240633.jpg?type=m1&udate=20180124",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3693231",
+          "loan_count": "57577"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926384831",
+          "addition_symbol": "67980",
+          "vol": "24",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/12411/5/cover/8926384837_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3664616",
+          "loan_count": "56697"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950998707",
+          "addition_symbol": "74900",
+          "vol": "23",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/28958/24/cover/895099870x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6410183",
+          "loan_count": "56649"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "용선생 처음 한국사 ",
+          "authors": "글: 사회평론 역사연구소 ;윤효식",
+          "publisher": "사회평론",
+          "publication_year": "2019",
+          "isbn13": "9791162730270",
+          "addition_symbol": "77900",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/17779/61/cover/k642534226_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5346986",
+          "loan_count": "56603"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926379936",
+          "addition_symbol": "67980",
+          "vol": "30",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/17427/65/cover/8926379930_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5243806",
+          "loan_count": "55857"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788964359204",
+          "addition_symbol": "67900",
+          "vol": "5",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10789/58/cover/8964359208_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3433261",
+          "loan_count": "55360"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "publication_year": "",
+          "isbn13": "9788964359198",
+          "addition_symbol": "67900",
+          "vol": "4",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10789/54/cover/8964359194_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3432898",
+          "loan_count": "55085"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "조선왕조실톡",
+          "authors": "무적핑크 지음 ;이한 해설",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2015",
+          "isbn13": "9791195434077",
+          "addition_symbol": "04910",
+          "vol": "1",
+          "class_no": "911.05",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/094/125/09412563.jpg?type=m1&udate=20151202",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396930",
+          "loan_count": "54909"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179913",
+          "addition_symbol": "74910",
+          "vol": "24",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "https://image.aladin.co.kr/product/31196/25/cover/k362831059_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6646142",
+          "loan_count": "54539"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496147",
+          "addition_symbol": "77900",
+          "vol": "11",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/28499/4/cover/k612835620_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6362166",
+          "loan_count": "54421"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "쿠키런 어드벤처 :쿠키들의 신 나는 세계여행",
+          "authors": "글: 송도수 ;그림: 서정은",
+          "publisher": "서울문화사",
+          "publication_year": "2014",
+          "isbn13": "9788926382295",
+          "addition_symbol": "67980",
+          "vol": "31",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/17919/27/cover/892638229x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5358578",
+          "loan_count": "54233"
+        }
+      }
+    ]
+  }
+}

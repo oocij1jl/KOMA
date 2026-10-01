@@ -1,0 +1,80 @@
+{
+  "total_isbns": 500,
+  "processed": 78,
+  "status_counts": {
+    "success": 78,
+    "not_processed": 422
+  },
+  "error_code_counts": {},
+  "success_rate": 0.156,
+  "required_field_presence_rate": {
+    "020": 1.0,
+    "245": 1.0,
+    "260": 1.0
+  },
+  "field_presence_rate": {
+    "020": 1.0,
+    "245": 1.0,
+    "260": 1.0,
+    "700": 1.0,
+    "710": 0.0128,
+    "653": 0.9744,
+    "056": 1.0,
+    "082": 0.1154,
+    "041": 0.0,
+    "500": 0.0128,
+    "546": 0.0385
+  },
+  "field_skip_counts": {
+    "650": 78,
+    "041": 78,
+    "246": 75,
+    "710": 77,
+    "546": 75,
+    "500": 77,
+    "830": 78,
+    "950": 78,
+    "250": 76,
+    "490": 74,
+    "082": 69,
+    "300": 1
+  },
+  "validation": {
+    "pass": 78,
+    "fail": 0,
+    "unknown": 0,
+    "pass_rate": 1.0
+  },
+  "evidence_missing_count": 0,
+  "by_category": {
+    "번역서": {
+      "success": 30,
+      "not_processed": 75
+    },
+    "복수저자": {
+      "success": 18,
+      "not_processed": 57
+    },
+    "외국도서": {
+      "success": 1,
+      "not_processed": 9
+    },
+    "일반도서": {
+      "success": 29,
+      "not_processed": 61
+    },
+    "후보": {
+      "not_processed": 220
+    }
+  },
+  "gold_available": false,
+  "state": {
+    "day": "2026-10-01",
+    "d4l_requests": 449,
+    "paused_day": null,
+    "attempted_today": [],
+    "model": "gpt-5.4-mini",
+    "conditions": "NL+D4L detail/keywords/usage+NL detail+Kyobo+OpenAI; Aladin optional",
+    "next_run_at": "2026-10-02T00:10:00+09:00"
+  }
+}

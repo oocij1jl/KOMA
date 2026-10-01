@@ -1,0 +1,357 @@
+{
+  "isbn": "9791190980609",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791190980609"
+          },
+          {
+            "code": "g",
+            "value": "77800"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "밍꼬발랄"
+          },
+          {
+            "code": "b",
+            "value": "공소시효"
+          },
+          {
+            "code": "n",
+            "value": "5"
+          },
+          {
+            "code": "d",
+            "value": "원작: 밍꼬발랄"
+          },
+          {
+            "code": "e",
+            "value": "그림: 라임스튜디오"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 표제 구분자 기준 부제 분리 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "겜툰"
+          },
+          {
+            "code": "c",
+            "value": "2020"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "176 p."
+          },
+          {
+            "code": "c",
+            "value": "22 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '155*218mm'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "810"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "밍꼬발랄"
+          },
+          {
+            "code": "e",
+            "value": "원작"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "author에서 개인 저작 책임 요소를 분리해 700으로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "라임스튜디오"
+          },
+          {
+            "code": "e",
+            "value": "그림"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "author에서 개인 저작 책임 요소를 분리해 700으로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "친구"
+          },
+          {
+            "code": "a",
+            "value": "유형"
+          },
+          {
+            "code": "a",
+            "value": "사연"
+          },
+          {
+            "code": "a",
+            "value": "드라마"
+          },
+          {
+            "code": "a",
+            "value": "백승하"
+          },
+          {
+            "code": "a",
+            "value": "공소시효"
+          },
+          {
+            "code": "a",
+            "value": "사랑"
+          },
+          {
+            "code": "a",
+            "value": "어른"
+          },
+          {
+            "code": "a",
+            "value": "남색"
+          },
+          {
+            "code": "a",
+            "value": "만화 일반"
+          },
+          {
+            "code": "a",
+            "value": "연기"
+          },
+          {
+            "code": "a",
+            "value": "질투"
+          },
+          {
+            "code": "a",
+            "value": "심부름"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from_": [
+            "keywords",
+            "description",
+            "co_loan_books"
+          ],
+          "keywords_used": [
+            "친구",
+            "유형",
+            "사연",
+            "드라마",
+            "백승하",
+            "공소시효",
+            "사랑",
+            "어른",
+            "남색",
+            "만화 일반",
+            "연기",
+            "질투"
+          ],
+          "reasoning": "가중치 상위 키워드 중 서지값과 중복되거나 부적절한 항목을 제외하고 주제 접근어로 정제"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "한국문학"
+          },
+          {
+            "code": "a",
+            "value": "아동문학"
+          },
+          {
+            "code": "a",
+            "value": "그림책"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 810, ISBN 부가기호 77800에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "원저작 정보 미확정: 500 생성 금지"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거가 없음"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 사서 검수 필요",
+      "700은 author 분해 결과이므로 이름 경계 검수 필요"
+    ]
+  },
+  "generated_at": "2026-10-01T15:03:20.371037+09:00",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pool_size": 2545,
+  "selected_total": 500,
+  "secondary_total": 0,
+  "selected_by_category": {
+    "외국도서": 125,
+    "일반도서": 125,
+    "번역서": 123,
+    "복수저자": 127
+  },
+  "selected_by_kdc_group": {
+    "0": 50,
+    "1": 50,
+    "2": 49,
+    "3": 50,
+    "4": 50,
+    "5": 50,
+    "6": 50,
+    "7": 48,
+    "8": 53,
+    "9": 50
+  },
+  "secondary_by_category": {},
+  "secondary_by_kdc_group": {},
+  "marc_available_in_selected": 0,
+  "duplicate_title_author_group_count": 0,
+  "duplicate_title_author_row_count": 0,
+  "gold_available": false,
+  "nl_enrichment_completed": false,
+  "note": "D4L ISBN candidates are collected. NL enrichment interrupted by RemoteDisconnected; full generation queries NL afresh per book. reference_available is not a gold MARC record."
+}

@@ -1,0 +1,21 @@
+{
+  "isbn": "9791195530304",
+  "status": "error",
+  "error_code": "d4l_incomplete",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ],
+  "generated_at": "2026-10-01T14:54:31.609589+09:00",
+  "deferred": false
+}

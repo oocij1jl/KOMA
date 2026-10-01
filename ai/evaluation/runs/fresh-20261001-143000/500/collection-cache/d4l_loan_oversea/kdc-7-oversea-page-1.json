@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "7",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "Oxford Reading Tree: Level 6: Stories: in the Garden (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198482802",
+          "addition_symbol": "",
+          "vol": "61",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198482809_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379151",
+          "loan_count": "22769"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "Where Is the Green Sheep? (Paperback)",
+          "authors": "by Mem Fox",
+          "publisher": "Harcourt",
+          "publication_year": "2004",
+          "isbn13": "9780152062866",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/11202/26/cover/scm1736245328233.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396839",
+          "loan_count": "13148"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "Go Away Mr Wolf! (Paperback)",
+          "authors": "매튜 프라이스 (글), 아츠코 모로즈미 (그림)",
+          "publisher": "JYbooks(제이와이북스)",
+          "publication_year": "2003",
+          "isbn13": "9781842480526",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1419/27/cover/1842480529_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2380087",
+          "loan_count": "13030"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "Oxford Reading Tree: Level 7: More Stories B: Australian Adventure (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483250",
+          "addition_symbol": "",
+          "vol": "714",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483252_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379182",
+          "loan_count": "12343"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "Oxford Reading Tree: Decode & Develop More A Level 4 : Top Mountain (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2013",
+          "isbn13": "9780198390473",
+          "addition_symbol": "",
+          "vol": "431",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/55/cover/0198390475_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379145",
+          "loan_count": "11339"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "Oxford Reading Tree: Level 8: More Stories: the Evil Genie (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483458",
+          "addition_symbol": "",
+          "vol": "88",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483457_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379194",
+          "loan_count": "11038"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "Oxford Reading Tree: Level 9: Stories: Storm Castle (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483540",
+          "addition_symbol": "",
+          "vol": "92",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483546_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379200",
+          "loan_count": "10802"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "Oxford Reading Tree: Level 9: Stories: the Quest (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483533",
+          "addition_symbol": "",
+          "vol": "95",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483538_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379203",
+          "loan_count": "10479"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Oxford Reading Tree Biff, Chip and Kipper Stories Decode and Develop: Level 8: The Beehive Fence (Paperback)",
+          "authors": "Roderick Hunt (지은이), Mr. Alex Brychta (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2015",
+          "isbn13": "9780198300335",
+          "addition_symbol": "",
+          "vol": "816",
+          "class_no": "740.8",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/51/cover/0198300336_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3010018",
+          "loan_count": "8717"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "Oxford Reading Tree: Level 3 More a Decode and Develop Bug Hunt (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2012",
+          "isbn13": "9780198489238",
+          "addition_symbol": "",
+          "vol": "332",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/5696/33/cover/0198489234_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379104",
+          "loan_count": "8681"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "(The)rabbit's tale",
+          "authors": "Lynne Benton 지음;Fred Blunt 그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9781409555803",
+          "addition_symbol": "",
+          "vol": "110",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708991",
+          "loan_count": "8418"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "Oxford Reading Tree: Level 3 More a Decode and Develop a Walk in the Sun (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2012",
+          "isbn13": "9780198489221",
+          "addition_symbol": "",
+          "vol": "334",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/5696/33/cover/0198489226_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379106",
+          "loan_count": "8378"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119080",
+          "addition_symbol": "",
+          "vol": "101",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379211",
+          "loan_count": "8289"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "ANT & THE GRASSHOPPER (Paperback)",
+          "authors": "retold by Katie Daynes;illus. by Merel Eyckerman",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "1900-01-01",
+          "isbn13": "9781409500766",
+          "addition_symbol": "",
+          "vol": "16",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708898",
+          "loan_count": "8207"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Oxford Reading Tree Biff, Chip and Kipper Stories Decode and Develop: Level 8: The Ogre's Dinner (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이), Mr. Alex Brychta (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2015",
+          "isbn13": "9780198300359",
+          "addition_symbol": "",
+          "vol": "813",
+          "class_no": "740.8",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/51/cover/0198300352_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3010014",
+          "loan_count": "8112"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Oxford Reading Tree: Level 3 More a Decode and Develop Green Sheets (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2012",
+          "isbn13": "9780198489191",
+          "addition_symbol": "",
+          "vol": "335",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/5696/33/cover/0198489196_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379107",
+          "loan_count": "8044"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "On the Moon",
+          "authors": "by Anna Milbourne",
+          "publisher": "Usborne Publishing",
+          "publication_year": "2011",
+          "isbn13": "9781409530879",
+          "addition_symbol": "",
+          "vol": "114",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554475",
+          "loan_count": "7722"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Usborne First Reading 1-08 : Lion and the Mouse (Paperback)",
+          "authors": "Mairi Mackinnon",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2008-01-01",
+          "isbn13": "9781409500483",
+          "addition_symbol": "",
+          "vol": "18",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708891",
+          "loan_count": "7695"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "Usborne First Reading 1-07 : Greedy Dog (Paperback)",
+          "authors": "retold by Alex Frith;illustrated by Francesca di Chiara",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409555797",
+          "addition_symbol": "",
+          "vol": "17",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708990",
+          "loan_count": "7561"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "Usborne First Reading 1-11 : Three Wishes (Paperback)",
+          "authors": "레슬리 심스",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2009-01-01",
+          "isbn13": "9781409505754",
+          "addition_symbol": "",
+          "vol": "111",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708921",
+          "loan_count": "7414"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "Oxford Reading Tree: Level 1+: Decode and Develop: Catkin the Kitten (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483793",
+          "addition_symbol": "",
+          "vol": "138",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483791_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379021",
+          "loan_count": "7399"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "Anansi and the bag of wisdom",
+          "authors": "Lesley Sims 지음;Alida Massari 그림",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "9781409530916",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708973",
+          "loan_count": "7162"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "One Gorilla",
+          "authors": "written by Atsuko Morozumi",
+          "publisher": "Farrar Straus and Giroux",
+          "publication_year": "2006",
+          "isbn13": "9781842482001",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396835",
+          "loan_count": "7131"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Oxford Reading Tree Biff, Chip and Kipper Stories Decode and Develop: Level 8: The Strange Old House (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이), Mr. Nick Schon, Mr. Alex Brychta (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2015",
+          "isbn13": "9780198300373",
+          "addition_symbol": "",
+          "vol": "815",
+          "class_no": "740.8",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/51/cover/0198300379_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3010017",
+          "loan_count": "7057"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119172",
+          "addition_symbol": "",
+          "vol": "111",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379217",
+          "loan_count": "7005"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "The Bad Guys #7: in Do-You-Think-He-Saurus?! (Paperback)",
+          "authors": "Aaron Blabey (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2018",
+          "isbn13": "9789814820882",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/19519/42/cover/9814820881_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5474759",
+          "loan_count": "6954"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Usborne First Reading 1-09 : King Midas and the Gold (Paperback)",
+          "authors": "Alex Frith",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2008-01-01",
+          "isbn13": "9781409501084",
+          "addition_symbol": "",
+          "vol": "19",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708907",
+          "loan_count": "6869"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "Oxford Reading Tree Biff, Chip and Kipper Stories Decode and Develop: Level 8: A Lucky Find (Paperback)",
+          "authors": "Roderick Hunt (지은이), Mr. Alex Brychta (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2015",
+          "isbn13": "9780198300328",
+          "addition_symbol": "",
+          "vol": "814",
+          "class_no": "740.8",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/51/cover/0198300328_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3010015",
+          "loan_count": "6822"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "The Matrix Mission",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119110",
+          "addition_symbol": "",
+          "vol": "104",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/16595/53/cover/scm5572106631972.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379214",
+          "loan_count": "6750"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Oxford Reading Tree: Level 6: Stories: in the Garden (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198482802",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198482809_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379151",
+          "loan_count": "6698"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Oxford Reading Tree Biff, Chip and Kipper Stories Decode and Develop: Level 8: The Secret Pop Star (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이), Mr. Nick Schon, Mr. Alex Brychta (그림)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2015",
+          "isbn13": "9780198300366",
+          "addition_symbol": "",
+          "vol": "817",
+          "class_no": "740.8",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/51/cover/0198300360_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3010016",
+          "loan_count": "6694"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: Floppy's Bath (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481379",
+          "addition_symbol": "",
+          "vol": "213",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379050",
+          "loan_count": "6687"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "Usborne First Reading 1-12 : In the Castle (Paperback)",
+          "authors": "by Anna Milbourne;illustrated by Benji Davies",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409555780",
+          "addition_symbol": "",
+          "vol": "112",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708989",
+          "loan_count": "6616"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "Usborne First Reading 1-13 : On the Farm (Paperback)",
+          "authors": "by Susanna Davidson;illustrated by Alessandra Roberti",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409530398",
+          "addition_symbol": "",
+          "vol": "113",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708972",
+          "loan_count": "6451"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "Oxford Reading Tree: Level 1+: Decode and Develop: the Trampoline (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198483816",
+          "addition_symbol": "",
+          "vol": "140",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/73/cover/0198483813_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379023",
+          "loan_count": "6401"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: Floppy's Bath (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481379",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379050",
+          "loan_count": "6327"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Duncan and the pirates",
+          "authors": "written and illustrated by Peter Utton",
+          "publisher": "A＆C Black",
+          "publication_year": "2004",
+          "isbn13": "9780713667387",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "747.2",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2482125",
+          "loan_count": "6201"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "(The)mean team from Mars",
+          "authors": "written and illustrated by Scoular Anderson",
+          "publisher": "A＆C Black",
+          "publication_year": "2004",
+          "isbn13": "9780713664379",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "747.2",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2482127",
+          "loan_count": "5924"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(The)magic melon",
+          "authors": "Rosie Dickins 지음;Sara Rojo 그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9781409555827",
+          "addition_symbol": "",
+          "vol": "214",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708993",
+          "loan_count": "5708"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "Sleeping beauty",
+          "authors": "story written by Roderick Hunt",
+          "publisher": "Oxford university",
+          "publication_year": "2008",
+          "isbn13": "9780198465393",
+          "addition_symbol": "",
+          "vol": "519",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2597295",
+          "loan_count": "5688"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "How bear lost his tail",
+          "authors": "Lucy Bowman 지음;Ciaran Duffy 그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9781409555834",
+          "addition_symbol": "",
+          "vol": "212",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708994",
+          "loan_count": "5674"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "GENIE IN THE BOTTLE (Paperback)",
+          "authors": "로지 디킨스",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409500704",
+          "addition_symbol": "",
+          "vol": "211",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708896",
+          "loan_count": "5622"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "KING DONKEY EARS (Paperback)",
+          "authors": "레슬리 심스",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409509264",
+          "addition_symbol": "",
+          "vol": "213",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708937",
+          "loan_count": "5571"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "SCAREDY CAT (Paperback)",
+          "authors": "러셀 푼터",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409500209",
+          "addition_symbol": "",
+          "vol": "320",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708888",
+          "loan_count": "5456"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "Clever rabbit and the wolves",
+          "authors": "Susanna Davidson 지음;Emilie Vanvolsem 그림",
+          "publisher": "",
+          "publication_year": "2008",
+          "isbn13": "9781409501060",
+          "addition_symbol": "",
+          "vol": "28",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708905",
+          "loan_count": "5345"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "OLD WOMAN WHO LIVED IN A SHOE (Paperback)",
+          "authors": "러셀 푼터",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409500162",
+          "addition_symbol": "",
+          "vol": "222",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708886",
+          "loan_count": "5335"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "(A) Fright in the Night",
+          "authors": "[story written by] Roderick Hunt",
+          "publisher": "Oxford University Press",
+          "publication_year": "2008",
+          "isbn13": "9780198465522",
+          "addition_symbol": "",
+          "vol": "67",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2545946",
+          "loan_count": "5329"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: Floppy's Bath (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481379",
+          "addition_symbol": "",
+          "vol": "219",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379050",
+          "loan_count": "5326"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119103",
+          "addition_symbol": "",
+          "vol": "103",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379213",
+          "loan_count": "5266"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "OLD MACDONALD HAD A FARM (Paperback)",
+          "authors": "Ben Mantle",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409510093",
+          "addition_symbol": "",
+          "vol": "116",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708942",
+          "loan_count": "5256"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: Floppy's Bath (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481379",
+          "addition_symbol": "",
+          "vol": "225",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379050",
+          "loan_count": "5225"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119097",
+          "addition_symbol": "",
+          "vol": "102",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379212",
+          "loan_count": "5159"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "DAYDREAMER (Paperback)",
+          "authors": "Kate Davies",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409519348",
+          "addition_symbol": "",
+          "vol": "210",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708948",
+          "loan_count": "5152"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "Usborne First Reading 2-06 : Brer Rabbit and the Blackberry Bush (Paperback)",
+          "authors": "Katie Daynes",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2008-01-01",
+          "isbn13": "9781409504412",
+          "addition_symbol": "",
+          "vol": "26",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708909",
+          "loan_count": "5087"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "OLD MOTHER HUBBARD (Paperback)",
+          "authors": "러셀 푼터",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409525424",
+          "addition_symbol": "",
+          "vol": "221",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708967",
+          "loan_count": "5047"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "MOUSES WEDDING (Paperback)",
+          "authors": "retold by Mairi Mackinnon;illustrated by Frank Endersby",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "1900-01-01",
+          "isbn13": "9781409500650",
+          "addition_symbol": "",
+          "vol": "318",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708895",
+          "loan_count": "5046"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "STORY OF THE MONKEY KING (Paperback)",
+          "authors": "?Charles Dickens",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780746084830",
+          "addition_symbol": "",
+          "vol": "150",
+          "class_no": "747.2",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699382",
+          "loan_count": "5006"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Baba Yaga the Flying Witch",
+          "authors": "retold Susanna Davidson 지음;illustreated Sara Rojo 그림",
+          "publisher": "",
+          "publication_year": "2008",
+          "isbn13": "9780746093122",
+          "addition_symbol": "",
+          "vol": "410",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699399",
+          "loan_count": "4973"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "WHY IS THE SEA SALTY (Paperback)",
+          "authors": "레슬리 심스",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409504559",
+          "addition_symbol": "",
+          "vol": "413",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554708",
+          "loan_count": "4972"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: the Baby-Sitter (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481362",
+          "addition_symbol": "",
+          "vol": "214",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481365_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379051",
+          "loan_count": "4959"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "LITTLE MISS MUFFET (Paperback)",
+          "authors": "retold by Russell Punter;illustrated by Lorena Alvarez",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409555810",
+          "addition_symbol": "",
+          "vol": "220",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708992",
+          "loan_count": "4944"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "DANNY THE DRAGON (Paperback)",
+          "authors": "by Russell Punter;illustrated by Peter Cottrill",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "1900-01-01",
+          "isbn13": "9781409500186",
+          "addition_symbol": "",
+          "vol": "310",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708887",
+          "loan_count": "4876"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "ONE TWO BUCKLE MY SHOE (Paperback)",
+          "authors": "retold by Russell Punter;illustrated by David Semple",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409525912",
+          "addition_symbol": "",
+          "vol": "223",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708969",
+          "loan_count": "4866"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "MAGIC PORRIDGE POT (Paperback)",
+          "authors": "story by The Brothers Grimm;illus. by Mike Gordon;Carl Gordon",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "1900-01-01",
+          "isbn13": "9780746090305",
+          "addition_symbol": "",
+          "vol": "317",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699391",
+          "loan_count": "4783"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "(The)magic pear tree",
+          "authors": "Rosie Dickins 지음;Matt Ward 그림",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9781409504535",
+          "addition_symbol": "",
+          "vol": "316",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708911",
+          "loan_count": "4769"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "My best, best friend",
+          "authors": "characters created by Lauren Child",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9780723299929",
+          "addition_symbol": "",
+          "vol": "20",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3149173",
+          "loan_count": "4752"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "(The)Blue eye",
+          "authors": "Story written by Roderick Hunt",
+          "publisher": "Oxford University Press",
+          "publication_year": "2008",
+          "isbn13": "9780198466345",
+          "addition_symbol": "",
+          "vol": "97",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2501311",
+          "loan_count": "4724"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "THUMBELINA (Paperback)",
+          "authors": "Susanna Davidson",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409504375",
+          "addition_symbol": "",
+          "vol": "412",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554707",
+          "loan_count": "4647"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "Oxford Reading Tree: Decode & Develop More A Level 4 : Top Mountain (Paperback)",
+          "authors": "Roderick Hunt, Paul Shipton (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2013",
+          "isbn13": "9780198390473",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/5691/55/cover/0198390475_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379145",
+          "loan_count": "4630"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "king bidgood｀s in the bathtub",
+          "authors": "written by Audrey Wood;illustrated by Don Wood",
+          "publisher": "",
+          "publication_year": "0001",
+          "isbn13": "9780152053710",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/3982/24/cover/scm593102985492.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2380253",
+          "loan_count": "4607"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "Oxford Reading Tree: Level 10+: Treetops Time Chronicles: Power of the Cell (Paperback)",
+          "authors": "Hunt, Roderick",
+          "publisher": "Oxford University Press",
+          "publication_year": "2010",
+          "isbn13": "9780199119127",
+          "addition_symbol": "",
+          "vol": "105",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/4842/30/cover/0199119120_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379216",
+          "loan_count": "4604"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "(The)dinosaur who lost his roar",
+          "authors": "Russell Punter 지음;Andy Elkerton 그림",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9780746091463",
+          "addition_symbol": "",
+          "vol": "311",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699397",
+          "loan_count": "4600"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "TORTOISE & THE EAGLE (Paperback)",
+          "authors": "Rob Lioyd Jones",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780746097434",
+          "addition_symbol": "",
+          "vol": "217",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554657",
+          "loan_count": "4589"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "ANDROCLES & THE LION (Paperback)",
+          "authors": "B. Shaw",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409500889",
+          "addition_symbol": "",
+          "vol": "49",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708903",
+          "loan_count": "4578"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "(The)golden goose",
+          "authors": "The Brothers Grimm 지음;retold Conrad Mason 지음;Mike Gordon 지음;Carl Gordon 그림",
+          "publisher": "",
+          "publication_year": "2009",
+          "isbn13": "9781409500957",
+          "addition_symbol": "",
+          "vol": "313",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708904",
+          "loan_count": "4556"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119134",
+          "addition_symbol": "",
+          "vol": "106",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379215",
+          "loan_count": "4516"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Can You Cuddle Like a Koala? (Paperback)",
+          "authors": "John Butler (지은이)",
+          "publisher": "",
+          "publication_year": "2004",
+          "isbn13": "9781843623625",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "740.7",
+          "class_nm": "언어 > 영어 > 영어",
+          "bookImageURL": "https://image.aladin.co.kr/product/5330/25/cover/1843623625_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2403800",
+          "loan_count": "4466"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "Noah's ark",
+          "authors": "retold Kate Davies 지음;John Joven 그림",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "9781409555858",
+          "addition_symbol": "",
+          "vol": "319",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708995",
+          "loan_count": "4445"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(A)House for Zebra",
+          "authors": "story by Georgie Adams",
+          "publisher": "Mathew Price Limited",
+          "publication_year": "2010",
+          "isbn13": "9781842482612",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2555033",
+          "loan_count": "4422"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119189",
+          "addition_symbol": "",
+          "vol": "112",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379218",
+          "loan_count": "4351"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(The)Finest in the land",
+          "authors": "Story written by Roderick Hunt",
+          "publisher": "Oxford University Press",
+          "publication_year": "2008",
+          "isbn13": "9780198466376",
+          "addition_symbol": "",
+          "vol": "910",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2501275",
+          "loan_count": "4323"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "DICK WHITTINGTON (Paperback)",
+          "authors": "러셀 푼터",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409500148",
+          "addition_symbol": "",
+          "vol": "411",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554706",
+          "loan_count": "4317"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "FISH THAT TALKED (Paperback)",
+          "authors": "안나 레스터",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780746093160",
+          "addition_symbol": "",
+          "vol": "312",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554586",
+          "loan_count": "4288"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119196",
+          "addition_symbol": "",
+          "vol": "113",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379219",
+          "loan_count": "4259"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "(The)king's pudding",
+          "authors": "retold Mairi Mackinnon 지음;Nathalic Ragondet 그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9781409555865",
+          "addition_symbol": "",
+          "vol": "314",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708996",
+          "loan_count": "4235"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "DON'T BE HORRID, HENRY!",
+          "authors": "by Francesca Simon;illustrated by Tony Ross",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781407227870",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3442525",
+          "loan_count": "4191"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "Go away Mr. wolf!",
+          "authors": "Written by Mathew Price;illustrated by Atsuko Morozumi",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9781936396344",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3004545",
+          "loan_count": "4121"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "Time Chronicles",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford",
+          "publication_year": "2010",
+          "isbn13": "9780199119219",
+          "addition_symbol": "",
+          "vol": "115",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379221",
+          "loan_count": "4031"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "(The) adventure park",
+          "authors": "story written by Roderick Hunt",
+          "publisher": "Oxford university",
+          "publication_year": "2008",
+          "isbn13": "9780198465409",
+          "addition_symbol": "",
+          "vol": "520",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2597296",
+          "loan_count": "4010"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "Titanic",
+          "authors": "by Anna Claybourne;Katie Daynes",
+          "publisher": "",
+          "publication_year": "2006",
+          "isbn13": "9780746078068",
+          "addition_symbol": "",
+          "vol": "350",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699357",
+          "loan_count": "3945"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "FROGS (Paperback)",
+          "authors": "Sarah Courtauld",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780746091159",
+          "addition_symbol": "",
+          "vol": "322",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699396",
+          "loan_count": "3934"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "Superdog",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford University Press",
+          "publication_year": "2008",
+          "isbn13": "9780198466284",
+          "addition_symbol": "",
+          "vol": "93",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2501287",
+          "loan_count": "3915"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "KNIGHTS & CASTLES (Paperback)",
+          "authors": "Rachel Firth",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9781409520672",
+          "addition_symbol": "",
+          "vol": "416",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2554481",
+          "loan_count": "3912"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "Oxford Reading Tree: Level 2: More Stories A: the Baby-Sitter (Paperback)",
+          "authors": "Roderick Hunt (지은이)",
+          "publisher": "Oxford University Press",
+          "publication_year": "2011",
+          "isbn13": "9780198481362",
+          "addition_symbol": "",
+          "vol": "220",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/1187/71/cover/0198481365_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2379051",
+          "loan_count": "3899"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "Storm castle",
+          "authors": "by Roderick Hunt",
+          "publisher": "Oxford University Press",
+          "publication_year": "2008",
+          "isbn13": "9780198466277",
+          "addition_symbol": "",
+          "vol": "92",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2501286",
+          "loan_count": "3892"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "LEOPARD & THE SKY GOD (Paperback)",
+          "authors": "retold by Mairi Mackinnon;illustrated by Ali Lodge",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "2004-01-01",
+          "isbn13": "9780746097335",
+          "addition_symbol": "",
+          "vol": "315",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2699409",
+          "loan_count": "3891"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "DINOSAURS (Paperback)",
+          "authors": "by Conrad Mason;illustrated by Daniel Howarth",
+          "publisher": "USBORNE EXPORT",
+          "publication_year": "1900-01-01",
+          "isbn13": "9781409519188",
+          "addition_symbol": "",
+          "vol": "321",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2708947",
+          "loan_count": "3885"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "Dad's run",
+          "authors": "story written by Roderick Hunt",
+          "publisher": "Oxford university",
+          "publication_year": "2008",
+          "isbn13": "9780198465447",
+          "addition_symbol": "",
+          "vol": "523",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2597299",
+          "loan_count": "3876"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "How do you feel?",
+          "authors": "by Anthony Browne",
+          "publisher": "",
+          "publication_year": "2001",
+          "isbn13": "9781406379136",
+          "addition_symbol": "90100",
+          "vol": "",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3647816",
+          "loan_count": "3857"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "Drawing adventure",
+          "authors": "story written by Roderick Hunt",
+          "publisher": "Oxford university",
+          "publication_year": "2008",
+          "isbn13": "9780198465430",
+          "addition_symbol": "",
+          "vol": "524",
+          "class_no": "747",
+          "class_nm": "언어 > 영어 > 독본, 해석, 회화",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2597300",
+          "loan_count": "3815"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "세계문학",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 322,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "햄릿",
+          "authors": "윌리엄 셰익스피어 지음;최종철 옮김",
+          "publisher": "민음사",
+          "publication_year": "1998",
+          "isbn13": "9788937460036",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "842",
+          "class_nm": "문학 > 영미문학 > 희곡",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005149.jpg?type=m1&udate=20161004",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376336",
+          "loan_count": "34435"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "젊은 베르테르의 슬픔",
+          "authors": "요한 볼프강 폰 괴테 지음;박찬기 옮김",
+          "publisher": "민음사",
+          "publication_year": "1999",
+          "isbn13": "9788937460258",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/169/00116960.jpg?type=m1&udate=20100902",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2390470",
+          "loan_count": "33708"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "파우스트",
+          "authors": "요한 볼프강 폰 괴테 지음;정서웅 옮김",
+          "publisher": "민음사",
+          "publication_year": "1999",
+          "isbn13": "9788937460210",
+          "addition_symbol": "04850",
+          "vol": "1",
+          "class_no": "852",
+          "class_nm": "문학 > 독일문학 > 희곡",
+          "bookImageURL": "http://image.aladin.co.kr/product/18/75/cover/8937460211_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2405545",
+          "loan_count": "23347"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "파우스트",
+          "authors": "요한 볼프강 폰 괴테 지음;정서웅 옮김",
+          "publisher": "민음사",
+          "publication_year": "1999",
+          "isbn13": "9788937460227",
+          "addition_symbol": "04850",
+          "vol": "2",
+          "class_no": "852",
+          "class_nm": "문학 > 독일문학 > 희곡",
+          "bookImageURL": "http://image.aladin.co.kr/product/18/75/cover/893746022x_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2405546",
+          "loan_count": "17282"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "베니스의 상인 :살 1파운드? 피 한 방울! ",
+          "authors": "셰익스피어 원작 ;이영훈 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2008",
+          "isbn13": "9788937848674",
+          "addition_symbol": "74840",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/045/694/04569467.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375254",
+          "loan_count": "14013"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "80일간의 세계일주 ",
+          "authors": "원작: 쥘 베른 ;옮김: 성초림",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964808504",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1912/41/cover/8964808509_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2598793",
+          "loan_count": "11031"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "보물섬 ",
+          "authors": "원작: 로버트 루이스 스티븐슨 ;옮김: 성초림",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964808597",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1976/49/cover/8964808592_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803977",
+          "loan_count": "9087"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "해저 2만 리 ",
+          "authors": "원작: 쥘 베른 ;옮김: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964809020",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2214/20/cover/8964809025_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803981",
+          "loan_count": "8698"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로빈 후드 ",
+          "authors": "원작: 알렉상드르 뒤마 ;옮김: 성초림",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964808740",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2092/61/cover/8964808746_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803979",
+          "loan_count": "8601"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인간실격 ",
+          "authors": "다자이 오사무 지음 ;양윤옥 옮김",
+          "publisher": "시공사",
+          "publication_year": "2010",
+          "isbn13": "9788952759665",
+          "addition_symbol": "04830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/758/33/cover/8952759664_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2581469",
+          "loan_count": "8436"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글북 ",
+          "authors": "원작: 조셉 러디어드 키플링 ;옮김: 성초림",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964808733",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2072/10/cover/8964808738_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803978",
+          "loan_count": "8275"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "데미안 :헤르만 헤세 장편소설 ",
+          "authors": "지은이: 헤르만 헤세 ;옮긴이: 김인순",
+          "publisher": "열린책들",
+          "publication_year": "2014",
+          "isbn13": "9788932912271",
+          "addition_symbol": "03850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4616/73/cover/8932912270_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2761605",
+          "loan_count": "8247"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "금빛 종소리 :김하나의 자유롭고 쾌락적인 고전 읽기 ",
+          "authors": "지은이: 김하나",
+          "publisher": "민음사",
+          "publication_year": "2024",
+          "isbn13": "9788937456770",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "029.1",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/34129/97/cover200/893745677x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6897107",
+          "loan_count": "8097"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "파우스트",
+          "authors": "요한 볼프강 폰 괴테 원작;아이원 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2006",
+          "isbn13": "9788937841125",
+          "addition_symbol": "74850",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/68/29/cover/8937841126_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=970322",
+          "loan_count": "7876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "피터 팬 ",
+          "authors": "원작: 제임스 매슈 배리 ;옮김: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9788964805985",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2500/46/cover/8964805984_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803965",
+          "loan_count": "7722"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "삼총사 ",
+          "authors": "원작: 알렉상드르 뒤마 ;옮김: 이승수",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9788964805978",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2424/7/cover/8964805976_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803964",
+          "loan_count": "7693"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오에 겐자부로 :사육 외 22편 ",
+          "authors": "지은이: 오에 겐자부로 ;옮긴이: 박승애",
+          "publisher": "현대문학",
+          "publication_year": "2016",
+          "isbn13": "9788972757511",
+          "addition_symbol": "04830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7558/60/cover/8972757519_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3115382",
+          "loan_count": "7595"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오즈의 마법사 ",
+          "authors": "원작: 라이먼 프랭크 바움 ;옮김: 이승수",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9791155090336",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/092/07209203.jpg?type=m1&udate=20150828",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2857948",
+          "loan_count": "7522"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이상한 나라의 앨리스 ",
+          "authors": "원작: 루이스 캐럴 ;옮김: 이승수",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9788964805992",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2549/9/cover/8964805992_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2600915",
+          "loan_count": "7292"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "작은 아씨들 ",
+          "authors": "원작: 루이자 메이 올컷 ;옮김: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9791155091104",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/826/07282698.jpg?type=m1&udate=20160804",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2857952",
+          "loan_count": "7199"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "하이디 ",
+          "authors": "원작: 요하나 슈피리 ;옮김: 이승수",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9788964809822",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2337/26/cover/8964809823_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803985",
+          "loan_count": "7126"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "톰 소여의 모험 ",
+          "authors": "원작: 마크 트웨인 ;옮김: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2012",
+          "isbn13": "9788964809013",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2149/38/cover/8964809017_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2803980",
+          "loan_count": "7044"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "걸리버여행기 ",
+          "authors": "원작: 조너선 스위프트 ;옮김: 이승수",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9791155090534",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/505/07250586.jpg?type=m1&udate=20150911",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2857950",
+          "loan_count": "6946"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고래 :천명관 장편소설 ",
+          "authors": "지은이: 천명관",
+          "publisher": "문학동네",
+          "publication_year": "2014",
+          "isbn13": "9788954623223",
+          "addition_symbol": "04810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3617/36/cover/8954623220_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2003649",
+          "loan_count": "6837"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "모비 딕 :허먼 멜빌 장편소설",
+          "authors": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+          "publisher": "열린책들",
+          "publication_year": "2013",
+          "isbn13": "9788932912141",
+          "addition_symbol": "03840",
+          "vol": "상",
+          "class_no": "843.4",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3088/6/cover/8932912149_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2016764",
+          "loan_count": "6721"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "평범한 인생 :카렐 차페크 장편소설 ",
+          "authors": "지은이: 카렐 차페크 ;옮긴이: 송순섭",
+          "publisher": "열린책들",
+          "publication_year": "2021",
+          "isbn13": "9788932912752",
+          "addition_symbol": "04890",
+          "vol": "",
+          "class_no": "892.96",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28447/24/cover/8932912750_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6356773",
+          "loan_count": "6672"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 고양이로소이다 :나쓰메 소세키 장편소설 ",
+          "authors": "지은이: 나쓰메 소세키 ;옮긴이: 김난주",
+          "publisher": "열린책들",
+          "publication_year": "2009",
+          "isbn13": "9788932910017",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/592/70/cover/8932910014_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1107019",
+          "loan_count": "6654"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "비밀의 화원 ",
+          "authors": "원작: 프랜시스 호지슨 버넷 ;옮긴이: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9791155090312",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/415/07241525.jpg?type=m1&udate=20150821",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2857947",
+          "loan_count": "6571"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로빈슨 크루소 ",
+          "authors": "원작: 대니얼 디포 ;옮김: 이현경",
+          "publisher": "이퍼블릭",
+          "publication_year": "2013",
+          "isbn13": "9791155090275",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/037/07203760.jpg?type=m1&udate=20160804",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2857946",
+          "loan_count": "6459"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "모비 딕 :허먼 멜빌 장편소설",
+          "authors": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+          "publisher": "열린책들",
+          "publication_year": "2013",
+          "isbn13": "9788932912158",
+          "addition_symbol": "03840",
+          "vol": "하",
+          "class_no": "843.4",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3088/33/cover/8932912157_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2761602",
+          "loan_count": "6106"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "필경사 바틀비 ",
+          "authors": "허먼 멜빌 외 지음 ;한기욱 엮고 옮김",
+          "publisher": "창비",
+          "publication_year": "2010",
+          "isbn13": "9788936471750",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/149/06214974.jpg?type=m1&udate=20150719",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2385675",
+          "loan_count": "6062"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "젊은 베르테르의 슬픔 ",
+          "authors": "요한 볼프강 폰 괴테 지음 ;박정은 그림",
+          "publisher": "푸른숲",
+          "publication_year": "2011",
+          "isbn13": "9788971849170",
+          "addition_symbol": "44850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/042/06704207.jpg?type=m1&udate=20150721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2377879",
+          "loan_count": "5904"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "황제를 위하여",
+          "authors": "이문열 지음",
+          "publisher": "민음사",
+          "publication_year": "2001",
+          "isbn13": "9788937460517",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005192.jpg?type=m1&udate=20150721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2392763",
+          "loan_count": "5901"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "광인의 수기 ",
+          "authors": "레프 똘스또이 지음 ;정지원 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2018",
+          "isbn13": "9788932912387",
+          "addition_symbol": "04890",
+          "vol": "",
+          "class_no": "892.83",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17623/74/cover/8932912386_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5330980",
+          "loan_count": "5885"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "페스트 ",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 최윤주",
+          "publisher": "열린책들",
+          "publication_year": "2014",
+          "isbn13": "9788932912295",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4952/0/cover/8932912297_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2761607",
+          "loan_count": "5873"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "도리언 그레이의 초상 :오스카 와일드 장편소설 ",
+          "authors": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+          "publisher": "열린책들",
+          "publication_year": "2010",
+          "isbn13": "9788932911526",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.4",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/843/34/cover/8932911525_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1136686",
+          "loan_count": "5760"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "변신·단식 광대 :프란츠 카프카 단편선 ",
+          "authors": "지은이: 프란츠 카프카 ;임홍배",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936477912",
+          "addition_symbol": "03850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/23430/25/cover/8936477919_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5608972",
+          "loan_count": "5624"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사람은 무엇으로 사는가 :톨스토이 단편선 ",
+          "authors": "톨스토이 지음 ;이순영 옮김",
+          "publisher": "문예출판사",
+          "publication_year": "2015",
+          "isbn13": "9788931009521",
+          "addition_symbol": "03890",
+          "vol": "",
+          "class_no": "892.83",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6209/14/cover/8931009526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2760361",
+          "loan_count": "5536"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이반 일리치의 죽음 ",
+          "authors": "톨스토이 지음 ;이순영 옮김",
+          "publisher": "문예출판사",
+          "publication_year": "2016",
+          "isbn13": "9788931010046",
+          "addition_symbol": "03890",
+          "vol": "",
+          "class_no": "892.83",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8882/40/cover/8931010044_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3307135",
+          "loan_count": "5254"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "변신 ",
+          "authors": "지은이: 프란츠 카프카 ;옮긴이: 최성욱",
+          "publisher": "아로파",
+          "publication_year": "2016",
+          "isbn13": "9791187252016",
+          "addition_symbol": "44800",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8550/37/cover/k112535076_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3248709",
+          "loan_count": "5216"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "황제를 위하여",
+          "authors": "이문열 지음",
+          "publisher": "민음사",
+          "publication_year": "2001",
+          "isbn13": "9788937460524",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005193.jpg?type=m1&udate=20130628",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2392697",
+          "loan_count": "5194"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "노인과 바다 :어니스트 헤밍웨이 소설선집 ",
+          "authors": "지은이: 어니스트 헤밍웨이 ;옮긴이: 이종인",
+          "publisher": "열린책들",
+          "publication_year": "2012",
+          "isbn13": "9788932911984",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/229/06822925.jpg?type=m1&udate=20180322",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1238903",
+          "loan_count": "5137"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시지프 신화 ",
+          "authors": "알베르 카뮈 지음 ;박언주 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2020",
+          "isbn13": "9788932912554",
+          "addition_symbol": "04860",
+          "vol": "",
+          "class_no": "864",
+          "class_nm": "문학 > 프랑스문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/24975/42/cover/8932912556_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5745702",
+          "loan_count": "5114"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돈키호테 ",
+          "authors": "지은이: 미겔 데 세르반테스 ;옮긴이: 진형준",
+          "publisher": "살림",
+          "publication_year": "2017",
+          "isbn13": "9788952237453",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/962/12496224.jpg?type=m1&udate=20170908",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3543144",
+          "loan_count": "4955"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "위대한 유산 :찰스 디킨스 장편소설",
+          "authors": "지은이: 찰스 디킨스 ;옮긴이: 류경희",
+          "publisher": "열린책들",
+          "publication_year": "2014",
+          "isbn13": "9788932912219",
+          "addition_symbol": "03840",
+          "vol": "상",
+          "class_no": "843.4",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4028/86/cover/8932912211_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2047946",
+          "loan_count": "4906"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "하워드 필립스 러브크래프트 ",
+          "authors": "지은이: 하워드 필립스 러브크래프트 ;옮긴이: 김지현",
+          "publisher": "현대문학",
+          "publication_year": "2014",
+          "isbn13": "9788972756682",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3750/79/cover/8972756687_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604554",
+          "loan_count": "4695"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일리아스 ",
+          "authors": "지은이: 호메로스 ;옮긴이: 진형준",
+          "publisher": "살림",
+          "publication_year": "2017",
+          "isbn13": "9788952237217",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/962/12496210.jpg?type=m1&udate=20170922",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3543126",
+          "loan_count": "4692"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인간실격 ",
+          "authors": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+          "publisher": "새움",
+          "publication_year": "2018",
+          "isbn13": "9791189271121",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/16315/85/cover/k572533341_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3869875",
+          "loan_count": "4665"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "authors": "지은이: 손원평",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438753",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29462/57/cover/8936438751_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6464579",
+          "loan_count": "4589"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(큰글씨) 데미안 ",
+          "authors": "헤르만 헤세 지음 ;이순학 옮김",
+          "publisher": "미르북컴퍼니",
+          "publication_year": "2018",
+          "isbn13": "9791159038341",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/859/13285971.jpg?type=m1&udate=20180215",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3723831",
+          "loan_count": "4585"
+        }
+      }
+    ]
+  }
+}

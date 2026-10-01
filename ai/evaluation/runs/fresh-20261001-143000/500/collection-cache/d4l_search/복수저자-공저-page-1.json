@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "공저",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 2765,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "선량한 차별주의자 ",
+          "authors": "김지혜 지음",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936477196",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "334",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회문제",
+          "bookImageURL": "https://image.aladin.co.kr/product/19874/76/cover/8936477196_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5448422",
+          "loan_count": "84940"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오리 부리 이야기 ",
+          "authors": "황선애 글 ;간장 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162386",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29170/7/cover/8949162385_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6431736",
+          "loan_count": "71146"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "동물농장",
+          "authors": "조지 오웰 지음;도정일 옮김",
+          "publisher": "민음사",
+          "publication_year": "1998",
+          "isbn13": "9788937460050",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005151.jpg?type=m1&udate=20180718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2389700",
+          "loan_count": "68438"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "authors": "허진희 (지은이)",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954670302",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22884/32/cover/895467030x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5585758",
+          "loan_count": "64055"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(10대를 위한) 정의란 무엇인가 :하버드대 마이클 샌델 교수의 정의 수업 ",
+          "authors": "마이클 샌델 원저 ;조혜진 그림",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937886966",
+          "addition_symbol": "73300",
+          "vol": "",
+          "class_no": "193",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 국가 및 정치윤리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4947/78/cover/8937886960_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614721",
+          "loan_count": "62199"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시간 고양이 :박미연 장편동화 ",
+          "authors": "지은이: 박미연 ;그린이: 박냠",
+          "publisher": "이지북",
+          "publication_year": "2021",
+          "isbn13": "9788957070703",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28157/63/cover/8957070702_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6322718",
+          "loan_count": "56564"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "행운이 너에게 다가오는 중 :이꽃님 장편소설 ",
+          "authors": "지은이: 이꽃님",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954675314",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25401/73/cover/895467531x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784102",
+          "loan_count": "54972"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "가정 통신문 소동 ",
+          "authors": "송미경 글 ;황K 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9788962478143",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10295/58/cover/8962478145_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3414806",
+          "loan_count": "51042"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이유가 있어서 멸종했습니다 :세상에서 가장 재미있는 멸종 동물 도감 ",
+          "authors": "글: 마루야마 다카시 ;옮김: 곽범신",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791189938765",
+          "addition_symbol": "73490",
+          "vol": "",
+          "class_no": "491",
+          "class_nm": "자연과학 > 동물학 > 일반 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18859/66/cover/k542635987_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5393650",
+          "loan_count": "48794"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090200",
+          "addition_symbol": "74510",
+          "vol": "6",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29010/36/cover/k932836528_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6417153",
+          "loan_count": "47356"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983161",
+          "addition_symbol": "74400",
+          "vol": "10",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30295/68/cover/8950983168_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6574054",
+          "loan_count": "42616"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "한겨레엔",
+          "publication_year": "2021",
+          "isbn13": "9791160406504",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28170/22/cover/k032835560_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6322276",
+          "loan_count": "42475"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시간 고양이",
+          "authors": "박미연 글 ;이소연 그림",
+          "publisher": "이지북",
+          "publication_year": "2022",
+          "isbn13": "9788957072394",
+          "addition_symbol": "74810",
+          "vol": "2",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29674/70/cover/895707239x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6487431",
+          "loan_count": "42437"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "후덜덜 식당 ",
+          "authors": "글: 강효미 ;그림: 유영근",
+          "publisher": "지학사",
+          "publication_year": "2023",
+          "isbn13": "9791162041475",
+          "addition_symbol": "74810",
+          "vol": "1",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/30782/50/cover/k072834055_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6750808",
+          "loan_count": "41330"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수해에서 살아남기 ",
+          "authors": "글: 박송이 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168412286",
+          "addition_symbol": "77470",
+          "vol": "",
+          "class_no": "350",
+          "class_nm": "사회과학 > 행정학 > 행정학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29717/66/cover/k632838992_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6494737",
+          "loan_count": "40558"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090217",
+          "addition_symbol": "74510",
+          "vol": "7",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29523/27/cover/k522837347_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468894",
+          "loan_count": "40464"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950949778",
+          "addition_symbol": "74400",
+          "vol": "11",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31358/71/cover/8950949776_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6659927",
+          "loan_count": "39804"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090224",
+          "addition_symbol": "74510",
+          "vol": "8",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29809/38/cover/k652838211_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6520171",
+          "loan_count": "39013"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어쩌다 보니 살아남았습니다 :지구에서 사라지면 절대로 안 될 101종의 이상한 동물도감 ",
+          "authors": "글: 이마이즈미 다다아키 ;옮긴이: 이소담",
+          "publisher": "아름다운사람들",
+          "publication_year": "2020",
+          "isbn13": "9788965135807",
+          "addition_symbol": "73490",
+          "vol": "",
+          "class_no": "491",
+          "class_nm": "자연과학 > 동물학 > 일반 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23421/43/cover/896513580x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5607587",
+          "loan_count": "37522"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돌 씹어 먹는 아이 ",
+          "authors": "송미경 글 ;안경미 그림",
+          "publisher": "문학동네",
+          "publication_year": "2014",
+          "isbn13": "9788954626583",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5004/62/cover/8954626580_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614720",
+          "loan_count": "37078"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "통조림 학원",
+          "authors": "송미경 (지은이), 유준재 (그림)",
+          "publisher": "스콜라(위즈덤하우스)",
+          "publication_year": "2016",
+          "isbn13": "9788962476828",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7606/56/cover/8962476827_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3122740",
+          "loan_count": "35259"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(잠든 사이 월급 버는) 미국 배당주 투자 :안정된 수익 내는 배당투자의 나침반 ",
+          "authors": "지은이: 소수몽키,윤재홍",
+          "publisher": "베가북스",
+          "publication_year": "2019",
+          "isbn13": "9791186137864",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "327.856",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/17658/89/cover/k002534415_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5339309",
+          "loan_count": "34710"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "남한산성:김훈 장편소설",
+          "authors": "김훈",
+          "publisher": "학고재",
+          "publication_year": "2007",
+          "isbn13": "9788956250595",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/90/61/cover/8956250596_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2104357",
+          "loan_count": "34302"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나무 ",
+          "authors": "베르나르 베르베르 지음 ;이세욱 옮김",
+          "publisher": "열린책들",
+          "publication_year": "2008",
+          "isbn13": "9788932907871",
+          "addition_symbol": "03860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/195/14/cover/8932907870_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2021748",
+          "loan_count": "32853"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오늘은 용돈 받는 날 ",
+          "authors": "연유진 글 ;간장 그림",
+          "publisher": "풀빛",
+          "publication_year": "2021",
+          "isbn13": "9791161724065",
+          "addition_symbol": "73320",
+          "vol": "",
+          "class_no": "327",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/27959/41/cover/k842734212_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6293693",
+          "loan_count": "29817"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 추신수 =스페셜 /Choo shinsoo ",
+          "authors": "글: 권용찬 ;그림: 김광일",
+          "publisher": "다산어린이",
+          "publication_year": "2019",
+          "isbn13": "9791156397953",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "998.6",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://image.aladin.co.kr/product/18963/13/cover/k762635585_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5398336",
+          "loan_count": "29309"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 세종 대왕 ",
+          "authors": "글: 최재훈 ;그림: 정병훈",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2015",
+          "isbn13": "9791156393023",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/7151/7/cover/k552434097_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097780",
+          "loan_count": "29217"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "생각에 관한 생각 :우리의 행동을 지배하는 생각의 반란 ",
+          "authors": "지은이: 대니얼 카너먼 ;옮긴이: 이창신",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934981213",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/14013/55/cover/8934981210_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3735001",
+          "loan_count": "28863"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "예루살렘의 아이히만",
+          "authors": "한나 아렌트 지음;김선욱 옮김",
+          "publisher": "한길사",
+          "publication_year": "2006",
+          "isbn13": "9788935656615",
+          "addition_symbol": "94160",
+          "vol": "",
+          "class_no": "909.54",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/025/276/02527697.jpg?type=m1&udate=20161020",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2062893",
+          "loan_count": "28723"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "느티나무 늪에 용이 산다 ",
+          "authors": "우미옥 글 ;이주현 그림",
+          "publisher": "좋은책신사고 좋은책어린이",
+          "publication_year": "2016",
+          "isbn13": "9788928315697",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/9755/12/cover/8928315697_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3398912",
+          "loan_count": "27686"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 중국 ",
+          "authors": "글: 김승렬 ;그림: 그림수레",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930201001",
+          "addition_symbol": "73910",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/912/07291294.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1966955",
+          "loan_count": "27306"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(큰★별쌤과) 못말리는 한국사 수호대",
+          "authors": "글: 최태성,그림: 신동민",
+          "publisher": "메가스터디books",
+          "publication_year": "2017",
+          "isbn13": "9788962800876",
+          "addition_symbol": "74910",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/11343/19/cover/896280087x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3481177",
+          "loan_count": "27204"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음안경점 ",
+          "authors": "조시온 글 ;이소영 그림",
+          "publisher": "씨드북",
+          "publication_year": "2021",
+          "isbn13": "9791160514223",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27509/16/cover/k982734742_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6314821",
+          "loan_count": "27061"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 이성계·이방원 ",
+          "authors": "글: 김모락 ;그림: 스튜디오 청비",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2015",
+          "isbn13": "9791156393009",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/7150/99/cover/k342434097_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097778",
+          "loan_count": "26748"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "코스모스",
+          "authors": "칼 세이건 지음;홍승수 옮김",
+          "publisher": "사이언스북스",
+          "publication_year": "2004",
+          "isbn13": "9788983711540",
+          "addition_symbol": "03440",
+          "vol": "",
+          "class_no": "443.1",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/015/073/01507354.jpg?type=m1&udate=20151007",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=833505",
+          "loan_count": "26433"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "학습지 쌤통 ",
+          "authors": "김영미 글 ;정진희 그림",
+          "publisher": "비룡소",
+          "publication_year": "2016",
+          "isbn13": "9788949161884",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7737/65/cover/8949161885_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3124336",
+          "loan_count": "26361"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼 ",
+          "authors": "<어쩌다 어른> 제작팀 지음",
+          "publisher": "교보문고",
+          "publication_year": "2017",
+          "isbn13": "9791159096174",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "041",
+          "class_nm": "총류 > 일반 논문집 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3613016",
+          "loan_count": "25664"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 미래 에너지 ",
+          "authors": "글: 윤상석 ;만화: 강신영",
+          "publisher": "예림당",
+          "publication_year": "2017",
+          "isbn13": "9788930219730",
+          "addition_symbol": "74400",
+          "vol": "",
+          "class_no": "563",
+          "class_nm": "기술과학 > 전기공학, 전자공학 > 발전",
+          "bookImageURL": "https://image.aladin.co.kr/product/11882/63/cover/893021973x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3629879",
+          "loan_count": "25305"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 정조 ",
+          "authors": "글: 최재훈 ;그림: 전상훈",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2016",
+          "isbn13": "9791156393108",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/7850/16/cover/k062434526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3135839",
+          "loan_count": "25286"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "또 이유가 있어서 멸종했습니다 :고생대부터 현대까지 ",
+          "authors": "글: 마루야마 다카시 ;옮김: 허영은",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791190786713",
+          "addition_symbol": "73490",
+          "vol": "",
+          "class_no": "491",
+          "class_nm": "자연과학 > 동물학 > 일반 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24249/75/cover/k552630360_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5685761",
+          "loan_count": "25022"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "럭키 :내 안에 잠든 운을 깨우는 7가지 법칙 ",
+          "authors": "김도윤 지음",
+          "publisher": "북로망스",
+          "publication_year": "2021",
+          "isbn13": "9791191891027",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/27817/71/cover/k292734577_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6084846",
+          "loan_count": "24019"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로테와 루이제 ",
+          "authors": "에리히 캐스트너 글 ;김서정 옮김",
+          "publisher": "시공사",
+          "publication_year": "2000",
+          "isbn13": "9788952709097",
+          "addition_symbol": "73850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/747/00174794.jpg?type=m1&udate=20180114",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1568834",
+          "loan_count": "23536"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나의 진주 드레스 :송미경 창작동화 ",
+          "authors": "지은이: 송미경 ;그린이: 조에스더",
+          "publisher": "사계절",
+          "publication_year": "2016",
+          "isbn13": "9788958289630",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7960/17/cover/8958289635_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3138089",
+          "loan_count": "23446"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나비의 모험 ",
+          "authors": "김보통 만화",
+          "publisher": "보리",
+          "publication_year": "2020",
+          "isbn13": "9791163140993",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22272/7/cover/k882636921_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5568299",
+          "loan_count": "22879"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "거꾸로 읽는 세계사 - 개정판",
+          "authors": "유시민",
+          "publisher": "푸른나무",
+          "publication_year": "2008",
+          "isbn13": "9788974140472",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/045/933/04593341.jpg?type=m1&udate=20151120",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373364",
+          "loan_count": "22735"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "트렌드 코리아 2024 :청룡을 타고 비상하는 2024를 기원하며! ",
+          "authors": "지은이: 김난도,전다현",
+          "publisher": "미래의창",
+          "publication_year": "2023",
+          "isbn13": "9788959897179",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "320.911",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "https://image.aladin.co.kr/product/32443/92/cover/8959897175_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6759495",
+          "loan_count": "22650"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나비의 모험 ",
+          "authors": "김보통 만화",
+          "publisher": "보리",
+          "publication_year": "2020",
+          "isbn13": "9791163141006",
+          "addition_symbol": "77810",
+          "vol": "2",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22272/15/cover/k972636922_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5577253",
+          "loan_count": "22151"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아홉 살 독서 수업 :부모가 알아야 할 초등 저학년 독서의 모든 것 ",
+          "authors": "한미화 지음",
+          "publisher": "어크로스",
+          "publication_year": "2019",
+          "isbn13": "9791190030137",
+          "addition_symbol": "03370",
+          "vol": "",
+          "class_no": "029.5",
+          "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+          "bookImageURL": "https://image.aladin.co.kr/product/19832/23/cover/k412635045_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5455193",
+          "loan_count": "22133"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "모두의 태극기 ",
+          "authors": "박수현 글 ;진수경 그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2019",
+          "isbn13": "9791158361334",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "999",
+          "class_nm": "역사 > 전기 > 계보, 족보",
+          "bookImageURL": "https://image.aladin.co.kr/product/18457/22/cover/k582534450_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5372630",
+          "loan_count": "22029"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "트렌드 코리아 2023 :더 높은 도약을 준비하는 검은 토끼의 해 ",
+          "authors": "지은이: 김난도,추예린",
+          "publisher": "미래의창",
+          "publication_year": "2022",
+          "isbn13": "9788959897094",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "320.911",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30169/22/cover/8959897094_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6562784",
+          "loan_count": "21839"
+        }
+      }
+    ]
+  }
+}

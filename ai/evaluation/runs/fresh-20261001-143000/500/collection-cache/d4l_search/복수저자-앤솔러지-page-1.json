@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "앤솔러지",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 141,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "구원의 날 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "시공사",
+          "publication_year": "2021",
+          "isbn13": "9791165794156",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26295/41/cover/k392738791_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5856574",
+          "loan_count": "21200"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "여름은 고작 계절 :김서해 장편소설 ",
+          "authors": "지은이: 김서해",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2025",
+          "isbn13": "9791171713929",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36659/27/cover200/k712030086_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7086304",
+          "loan_count": "16178"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "음악소설집 ",
+          "authors": "지은이: 김애란,편혜영",
+          "publisher": "Franz(프란츠)",
+          "publication_year": "2024",
+          "isbn13": "9791197325892",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/34130/64/cover200/k222931917_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6896908",
+          "loan_count": "15684"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수상한 한의원 :배명은 장편소설 ",
+          "authors": "지은이: 배명은",
+          "publisher": "투유드림",
+          "publication_year": "2024",
+          "isbn13": "9791193190036",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://shopping-phinf.pstatic.net/main_4488731/44887316633.20231226201300.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6811924",
+          "loan_count": "14483"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인성에 비해 잘 풀린 사람 :월급사실주의2024 ",
+          "authors": "지은이: 남궁인,한은형",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141600143",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/33855/90/cover200/k152930309_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6869679",
+          "loan_count": "11666"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "우리는 이 별을 떠나기로 했어 ",
+          "authors": "지은이: 천선란,이루카",
+          "publisher": "허블",
+          "publication_year": "2021",
+          "isbn13": "9791190090377",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26564/99/cover/k142738031_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5930246",
+          "loan_count": "10848"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아미골 강아지 오스트랄로피테쿠스 실종사건 ",
+          "authors": "이선주 글 ;정인하 그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954683685",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28342/36/cover/8954683681_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6339849",
+          "loan_count": "9436"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "할머니 등대 ",
+          "authors": "신소담 글·그림",
+          "publisher": "노란상상",
+          "publication_year": "2020",
+          "isbn13": "9791188867622",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25170/11/cover/k892633496_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5771444",
+          "loan_count": "8859"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내게 남은 사랑을 드릴게요 ",
+          "authors": "지은이: 이유리,천선란",
+          "publisher": "자이언트북스",
+          "publication_year": "2023",
+          "isbn13": "9791191824193",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/30935/85/cover/k102831491_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6628494",
+          "loan_count": "8281"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나라는 우주 ",
+          "authors": "지은이: 길상효,그린이: 해랑",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2023",
+          "isbn13": "9791169811774",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/33083/44/cover/k752937507_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6809266",
+          "loan_count": "8184"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "놀이터는 24시 :단편소설 앤솔러지 ",
+          "authors": "지은이: 김초엽,김중혁",
+          "publisher": "Giant Books(자이언트북스)",
+          "publication_year": "2021",
+          "isbn13": "9791196866792",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27138/15/cover/k342731342_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5983996",
+          "loan_count": "8156"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(세상이 멸망하고) 소심한 사람들만 남았다 :김이환 장편소설 ",
+          "authors": "저자: 김이환",
+          "publisher": "교보문고",
+          "publication_year": "2023",
+          "isbn13": "9791170610120",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/31980/80/cover/k262834463_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6722536",
+          "loan_count": "7969"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "토막 난 우주를 안고서 ",
+          "authors": "지은이: 김초엽,조서월",
+          "publisher": "허블",
+          "publication_year": "2025",
+          "isbn13": "9791193078563",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7071673",
+          "loan_count": "7852"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "귀하의 노고에 감사드립니다 :월급사실주의2023 ",
+          "authors": "지은이: 김의경,황여정",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695176",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/32379/9/cover/8954695175_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6756184",
+          "loan_count": "7247"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내가 이런 데서 일할 사람이 아닌데 :월급사실주의2025 ",
+          "authors": "지은이: 김동식,황시운",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141601737",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/36303/47/cover200/k612038345_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=7054064",
+          "loan_count": "6899"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이웃집 소시오패스의 사정 ",
+          "authors": "지은이: 조예은,전건우",
+          "publisher": "넥서스",
+          "publication_year": "2024",
+          "isbn13": "9791166838248",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/33626/62/cover/k882939213_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6846605",
+          "loan_count": "6827"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "달콤한 사물함 ",
+          "authors": "강인영,파키나미 그림",
+          "publisher": "그린북",
+          "publication_year": "2022",
+          "isbn13": "9788955884210",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29826/77/cover/8955884214_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6525698",
+          "loan_count": "6785"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일인용 캡슐 :기후 위기 SF 앤솔러지 ",
+          "authors": "지은이: 김소연,정명섭",
+          "publisher": "라임",
+          "publication_year": "2021",
+          "isbn13": "9791189208813",
+          "addition_symbol": "44810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27518/31/cover/k222733290_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6045557",
+          "loan_count": "6473"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "뉴욕 미스터리 =New York mysteries ",
+          "authors": "리 차일드,정지현 옮김",
+          "publisher": "더난콘텐츠그룹",
+          "publication_year": "2016",
+          "isbn13": "9791158790196",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7611/34/cover/k792434415_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3117722",
+          "loan_count": "6428"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일상 감시 구역 ",
+          "authors": "김동식,ayob_project 그림",
+          "publisher": "한솔수북",
+          "publication_year": "2019",
+          "isbn13": "9791170283959",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22340/48/cover/k632636121_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5580748",
+          "loan_count": "6179"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "친구가 죽었습니다 :범유진 장편소설 ",
+          "authors": "지은이: 범유진",
+          "publisher": "푸른숲",
+          "publication_year": "2023",
+          "isbn13": "9791156753698",
+          "addition_symbol": "44810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/31266/61/cover/k112832469_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6652755",
+          "loan_count": "5998"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "100년 후 학교 ",
+          "authors": "소향,정명섭 지음",
+          "publisher": "생각학교",
+          "publication_year": "2023",
+          "isbn13": "9791191360868",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/32333/58/cover/k542935166_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6753377",
+          "loan_count": "5219"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "근방에 히어로가 너무 많사오니 ",
+          "authors": "지은이: 장강명,김보영",
+          "publisher": "황금가지",
+          "publication_year": "2018",
+          "isbn13": "9791158884314",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/140/123/14012380.jpg?type=m1&udate=20180910",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3901914",
+          "loan_count": "5101"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "초월하는 세계의 사랑 ",
+          "authors": "지은이: 우다영,박서련",
+          "publisher": "허블",
+          "publication_year": "2022",
+          "isbn13": "9791190090575",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29193/50/cover/k872837288_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6434860",
+          "loan_count": "4886"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "격리된 아이, 그 후 ",
+          "authors": "지은이: 윤혜숙,정연철",
+          "publisher": "우리학교",
+          "publication_year": "2022",
+          "isbn13": "9791167550507",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29187/6/cover/k502837084_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6434866",
+          "loan_count": "4825"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "절연 :아시아의 젊은 작가들 ",
+          "authors": "지은이: 정세랑,옮긴이: 홍은주",
+          "publisher": "문학동네",
+          "publication_year": "2022",
+          "isbn13": "9788954689496",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/30564/61/cover/8954689493_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6597779",
+          "loan_count": "4804"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "별 별 사이 :소년소녀 x SF ",
+          "authors": "김동식,홍지운",
+          "publisher": "우리학교",
+          "publication_year": "2021",
+          "isbn13": "9791190337724",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26912/93/cover/k592730601_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5959764",
+          "loan_count": "4525"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당첨되셨습니다 :SF 앤솔러지 ",
+          "authors": "지은이: 길상효,이하루",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123486",
+          "addition_symbol": "44800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/189/259/18925918.jpg?type=m1&udate=20210413",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5962179",
+          "loan_count": "4459"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "우주의 집 :한낙원과학소설상 수상 작가 작품집 ",
+          "authors": "최영희,남유하 지음",
+          "publisher": "사계절",
+          "publication_year": "2020",
+          "isbn13": "9791160946727",
+          "addition_symbol": "44080",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24579/23/cover/k532631073_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5708027",
+          "loan_count": "4422"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "들어본 이야기 :구병모 권여선 듀나 박솔뫼 한유주 소설집 ",
+          "authors": "지은이: 구병모,한유주",
+          "publisher": "M창비(미디어창비)",
+          "publication_year": "2020",
+          "isbn13": "9791190758161",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24790/60/cover/k052633010_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5783359",
+          "loan_count": "4345"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일상 탈출 구역 ",
+          "authors": "김동식,ayob_project 그림",
+          "publisher": "한솔수북",
+          "publication_year": "2022",
+          "isbn13": "9791170289371",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28763/70/cover/k762836986_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6394324",
+          "loan_count": "4063"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "귀신이 오는 밤 :귀신날 호러 단편선 ",
+          "authors": "지은이: 배명은,코코아드림",
+          "publisher": "구픽",
+          "publication_year": "2022",
+          "isbn13": "9791187886792",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28762/76/cover/k982836983_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6396962",
+          "loan_count": "3976"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자꾸만 끌려! ",
+          "authors": "김이환,조영주 지음",
+          "publisher": "생각학교",
+          "publication_year": "2022",
+          "isbn13": "9791191360431",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29769/1/cover/k762838404_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6513280",
+          "loan_count": "3876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "올해 1학년 3반은 달랐다 ",
+          "authors": "지은이: 소향,임하곤",
+          "publisher": "Bookocean(북오션)",
+          "publication_year": "2023",
+          "isbn13": "9788967997540",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/31335/6/cover/896799754x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6660360",
+          "loan_count": "3753"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "술과 농담 =Drinks and jokes ",
+          "authors": "지은이: 편혜영,이장욱",
+          "publisher": "시간의흐름",
+          "publication_year": "2021",
+          "isbn13": "9791190999069",
+          "addition_symbol": "04810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/26838/67/cover/k772730391_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5950533",
+          "loan_count": "3693"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "화이트블러드 =임태운 장편소설 /White blood ",
+          "authors": "지은이: 임태운",
+          "publisher": "시공사",
+          "publication_year": "2020",
+          "isbn13": "9791165793203",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25892/66/cover/k702737664_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5837044",
+          "loan_count": "3424"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인생독본 ",
+          "authors": "지은이: 레프 톨스토이 ;옮긴이: 박형규",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954675253",
+          "addition_symbol": "04890",
+          "vol": "1",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/25500/83/cover/8954675255_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5795301",
+          "loan_count": "3405"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "로라미용실 ",
+          "authors": "박성신 지음",
+          "publisher": "Bookocean(북오션)",
+          "publication_year": "2024",
+          "isbn13": "9788967998097",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/33731/63/cover/8967998090_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6858221",
+          "loan_count": "3330"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어위크 ",
+          "authors": "지은이: 강지영,정해연",
+          "publisher": "올댓스토리",
+          "publication_year": "2019",
+          "isbn13": "9791188660353",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/20606/34/cover/k582636863_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5470608",
+          "loan_count": "3313"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "단지 커피일 뿐이야 :이선주 장편소설 ",
+          "authors": "지은이: 이선주",
+          "publisher": "자음과모음",
+          "publication_year": "2023",
+          "isbn13": "9788954448840",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/31356/92/cover/8954448844_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6662644",
+          "loan_count": "3309"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "좀비 썰록 ",
+          "authors": "김성희,차무진 지음",
+          "publisher": "시공사",
+          "publication_year": "2019",
+          "isbn13": "9788952739865",
+          "addition_symbol": "04810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21356/14/cover/8952739868_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5514832",
+          "loan_count": "3298"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "천지신명은 여자의 말을 듣지 않지 :김이삭 소설집 ",
+          "authors": "지은이: 김이삭",
+          "publisher": "인플루엔셜",
+          "publication_year": "2024",
+          "isbn13": "9791168341968",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/34112/6/cover200/k412931384_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6890085",
+          "loan_count": "3165"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "속눈썹, 혹은 잃어버린 잠을 찾는 방법 :최상희 연작소설 ",
+          "authors": "최상희",
+          "publisher": "돌베개",
+          "publication_year": "2023",
+          "isbn13": "9791192836256",
+          "addition_symbol": "44810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/32429/80/cover/k622935198_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6759427",
+          "loan_count": "3078"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엄마가 날 죽였고, 아빠가 날 먹었네 ",
+          "authors": "조이스 캐럴 오츠,서창렬 옮김",
+          "publisher": "현대문학",
+          "publication_year": "2015",
+          "isbn13": "9788972757412",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/6026/70/cover/8972757411_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2627391",
+          "loan_count": "3077"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어떤 고독은 외롭지 않다 :우리가 사랑한 작가들의 낭만적 은둔의 기술 ",
+          "authors": "재커리 시거 엮음 ;박산호 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2022",
+          "isbn13": "9791168340664",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "809",
+          "class_nm": "문학 > 문학 > 문학사, 평론",
+          "bookImageURL": "https://image.aladin.co.kr/product/30556/64/cover/k942830403_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6597799",
+          "loan_count": "3058"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "책에 갇히다 :책과 서점에 관한 SF 앤솔러지 ",
+          "authors": "지은이: 김성일,천선란",
+          "publisher": "구픽",
+          "publication_year": "2021",
+          "isbn13": "9791187886600",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/176/641/17664109.jpg?type=m1&udate=20210129",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5856110",
+          "loan_count": "2878"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "촉법소년 ",
+          "authors": "지은이: 김선미,홍성호",
+          "publisher": "네오북스",
+          "publication_year": "2024",
+          "isbn13": "9791157404438",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/34552/92/cover200/k702933066_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6937600",
+          "loan_count": "2842"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그래서 우리는 사랑을 하지 :YA 퀴어 로맨스 단편집 ",
+          "authors": "박서련,무지개책갈피 엮음",
+          "publisher": "돌베개",
+          "publication_year": "2021",
+          "isbn13": "9788971998984",
+          "addition_symbol": "44810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26645/48/cover/8971998989_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5939547",
+          "loan_count": "2796"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "B612의 샘 ",
+          "authors": "지은이: 고비읍,허진희",
+          "publisher": "창비교육",
+          "publication_year": "2022",
+          "isbn13": "9791165701376",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29659/21/cover/k162838987_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6486284",
+          "loan_count": "2780"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너의 다정한 우주로부터 :이경희 소설 ",
+          "authors": "지은이: 이경희",
+          "publisher": "다산북스",
+          "publication_year": "2022",
+          "isbn13": "9791130679402",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/28620/50/cover/k052835052_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6384891",
+          "loan_count": "2718"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "그림책",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 22233,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "장수탕 선녀님 ",
+          "authors": "지은이: 백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2012",
+          "isbn13": "9788993242706",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/922/06992205.jpg?type=m1&udate=20180120",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372746",
+          "loan_count": "191917"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "authors": "지은이: 안녕달",
+          "publisher": "창비",
+          "publication_year": "2015",
+          "isbn13": "9788936446819",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/093/451/09345174.jpg?type=m1&udate=20180718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396971",
+          "loan_count": "190489"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "알사탕 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2017",
+          "isbn13": "9791158360375",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10586/14/cover/k422530533_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423451",
+          "loan_count": "185255"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이상한 엄마 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360214",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7918/85/cover/k352434031_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3128902",
+          "loan_count": "168109"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "슈퍼 거북 ",
+          "authors": "유설화 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2014",
+          "isbn13": "9788993242980",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3568/34/cover/8993242984_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604318",
+          "loan_count": "162882"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "바다 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2014",
+          "isbn13": "9788966350278",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4516/64/cover/8966350275_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2613557",
+          "loan_count": "140196"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이상한 손님 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2018",
+          "isbn13": "9791158360801",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/460/13446004.jpg?type=m1&udate=20180731",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3724569",
+          "loan_count": "136171"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "addition_symbol": "44800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26674/56/cover/8949123495_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5941926",
+          "loan_count": "129583"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돼지책",
+          "authors": "글·그림: 앤서니 브라운;옮긴이: 허은미",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2006",
+          "isbn13": "9788901033518",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/701/00170132.jpg?type=m1&udate=20150821",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373919",
+          "loan_count": "128861"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "강아지똥 ",
+          "authors": "글: 권정생 ;그림: 정승각",
+          "publisher": "길벗어린이",
+          "publication_year": "2003",
+          "isbn13": "9788986621136",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/824/00182451.jpg?type=m1&udate=20150126",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373856",
+          "loan_count": "128374"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "할머니의 여름휴가",
+          "authors": "안녕달",
+          "publisher": "창비",
+          "publication_year": "2016",
+          "isbn13": "9788936454951",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/500/10750051.jpg?type=m1&udate=20170712",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3174306",
+          "loan_count": "125417"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지하 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2011",
+          "isbn13": "9788989863915",
+          "addition_symbol": "73830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/063/835/06383547.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372182",
+          "loan_count": "120232"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "감기 걸린 물고기 :박정섭 그림책 ",
+          "authors": "글·그림: 박정섭",
+          "publisher": "사계절",
+          "publication_year": "2016",
+          "isbn13": "9788958284482",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/9123/41/cover/895828448x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3326033",
+          "loan_count": "118040"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2021",
+          "isbn13": "9788989863786",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/411/63/cover/8989863783_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2308045",
+          "loan_count": "117861"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이게 정말 나일까? ",
+          "authors": "요시타케 신스케 글·그림 ;김소연 옮김",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934971634",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/095/870/09587075.jpg?type=m1&udate=20180214",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2880234",
+          "loan_count": "113915"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "하늘 100층짜리 집 ",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2017",
+          "isbn13": "9788966350759",
+          "addition_symbol": "74830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12254/13/cover/8966350755_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658224",
+          "loan_count": "113079"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "틀려도 괜찮아",
+          "authors": "마키타 신지 글;유문조 옮김",
+          "publisher": "토토북",
+          "publication_year": "2006",
+          "isbn13": "9788990611260",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/62/27/cover/8990611261_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=937338",
+          "loan_count": "111986"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 개다 ",
+          "authors": "백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2019",
+          "isbn13": "9791158361365",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18827/90/cover/k262635888_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5390730",
+          "loan_count": "110359"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꽁꽁꽁 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360276",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/639/10763998.jpg?type=m1&udate=20180120",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3183913",
+          "loan_count": "109479"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오싹오싹 팬티! ",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미",
+          "publisher": "토토북",
+          "publication_year": "2018",
+          "isbn13": "9788964963678",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/138/342/13834257.jpg?type=m1&udate=20180801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3858748",
+          "loan_count": "109380"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "authors": "글·그림: 이지은",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2019",
+          "isbn13": "9788901232232",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/19541/74/cover/8901232235_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5436312",
+          "loan_count": "107292"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 나의 주인 ",
+          "authors": "채인선 글 ;안은진 그림",
+          "publisher": "토토북",
+          "publication_year": "2010",
+          "isbn13": "9788964960035",
+          "addition_symbol": "73190",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/805/06280530.jpg?type=m1&udate=20170310",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1060966",
+          "loan_count": "103356"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "authors": "유설화 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158361839",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24250/28/cover/k132630361_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5687017",
+          "loan_count": "103317"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엉덩이탐정 :뿡뿡 무지개 다이아몬드를 찾아라! ",
+          "authors": "트롤 글·그림 ;전경아 옮김",
+          "publisher": "문학수첩리틀북",
+          "publication_year": "2016",
+          "isbn13": "9788959761906",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8168/5/cover/8959761907_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3150000",
+          "loan_count": "101207"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당근 유치원 ",
+          "authors": "지은이: 안녕달",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936455484",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24011/82/cover/8936455486_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5666934",
+          "loan_count": "99937"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빵 공장이 들썩들썩 ",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김",
+          "publisher": "책읽는곰",
+          "publication_year": "2015",
+          "isbn13": "9791185564951",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/6060/82/cover/6000855326_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645822",
+          "loan_count": "99681"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엉덩이탐정 :뿡뿡 사라진 과자를 찾아라! ",
+          "authors": "트롤 글·그림 ;전경아 옮김",
+          "publisher": "문학수첩리틀북",
+          "publication_year": "2015",
+          "isbn13": "9788959761654",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5690/55/cover/8959761656_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620420",
+          "loan_count": "99607"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "집안 치우기 ",
+          "authors": "글: 고대영 ;그림: 김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2010",
+          "isbn13": "9788955821055",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/737/20/cover/8955821050_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1083944",
+          "loan_count": "99307"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "싸워도 돼요? ",
+          "authors": "글: 고대영 ;그림: 김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2013",
+          "isbn13": "9788955822823",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3367/2/cover/8955822820_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604263",
+          "loan_count": "99249"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고구마구마 ",
+          "authors": "지은이: 사이다",
+          "publisher": "반달",
+          "publication_year": "2017",
+          "isbn13": "9788956187372",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10332/65/cover/8956187371_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3416063",
+          "loan_count": "99227"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "달 샤베트 ",
+          "authors": "지은이: 백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2014",
+          "isbn13": "9791185564074",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4198/84/cover/1185564071_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2649341",
+          "loan_count": "98982"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "초밥이 빙글빙글 ",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360245",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/864/10786483.jpg?type=m1&udate=20160819",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3200250",
+          "loan_count": "98728"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "왜냐면… ",
+          "authors": "안녕달 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2017",
+          "isbn13": "9791158360382",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10676/46/cover/k082530548_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3431097",
+          "loan_count": "98374"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "짜장 짬뽕 탕수육",
+          "authors": "김영주 글;고경숙 그림",
+          "publisher": "재미마주",
+          "publication_year": "2002",
+          "isbn13": "9788986565522",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/19/96/cover/8986565528_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=352978",
+          "loan_count": "97423"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "거짓말 ",
+          "authors": "글: 고대영 ;그림: 김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2009",
+          "isbn13": "9788955820966",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/060/986/06098628.jpg?type=m1&udate=20140830",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1013717",
+          "loan_count": "95469"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "바삭바삭 갈매기 ",
+          "authors": "전민걸 글·그림",
+          "publisher": "한림출판사",
+          "publication_year": "2014",
+          "isbn13": "9788970947273",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4956/1/cover/8970947272_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2615603",
+          "loan_count": "95423"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꿈에서 맛본 똥파리 ",
+          "authors": "지은이: 백희나",
+          "publisher": "책읽는곰",
+          "publication_year": "2014",
+          "isbn13": "9791185564128",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4296/38/cover/1185564128_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645754",
+          "loan_count": "94788"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "으악, 도깨비다!",
+          "authors": "손정원 글;유애로 그림",
+          "publisher": "느림보",
+          "publication_year": "2002",
+          "isbn13": "9788987504568",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/37/97/cover/8987504565_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=186825",
+          "loan_count": "94158"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "칭찬 먹으러 가요 ",
+          "authors": "글: 고대영 ;그림: 김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2012",
+          "isbn13": "9788955821970",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/274/06827420.jpg?type=m1&udate=20170609",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372759",
+          "loan_count": "93481"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "손톱 깨물기 ",
+          "authors": "글: 고대영 ;그림: 김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2008",
+          "isbn13": "9788955820805",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/045/212/04521227.jpg?type=m1&udate=20130115",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2201485",
+          "loan_count": "92998"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아씨방 일곱 동무",
+          "authors": "이영경 글.그림",
+          "publisher": "비룡소",
+          "publication_year": "1998",
+          "isbn13": "9788949100203",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.8",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/14555/54/cover/k792532640_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=337100",
+          "loan_count": "92160"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엉덩이탐정 :뿡뿡 쪼그만 서장의 대위기!? ",
+          "authors": "트롤 글·그림 ;전경아 옮김",
+          "publisher": "문학수첩리틀북",
+          "publication_year": "2017",
+          "isbn13": "9788959762088",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10820/1/cover/8959762083_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3433852",
+          "loan_count": "92063"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아이스크림이 꽁꽁 ",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김",
+          "publisher": "책읽는곰",
+          "publication_year": "2018",
+          "isbn13": "9791158360986",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/15449/13/cover/s782533526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3805226",
+          "loan_count": "91782"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지하철을 타고서",
+          "authors": "글: 고대영;그림:김영진",
+          "publisher": "길벗어린이",
+          "publication_year": "2006",
+          "isbn13": "9788955820461",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/63/81/cover/8955820461_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=938468",
+          "loan_count": "90336"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꽁꽁꽁 피자 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158361907",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24617/17/cover/k992631274_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5708865",
+          "loan_count": "90002"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이게 정말 사과일까? ",
+          "authors": "요시타게 신스케 글·그림 ;고향옥 옮김",
+          "publisher": "김영사",
+          "publication_year": "2014",
+          "isbn13": "9788934968726",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/4766/67/cover/8934968729_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614588",
+          "loan_count": "89827"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "불만이 있어요 ",
+          "authors": "요시타케 신스케 글·그림 ;김정화 옮김",
+          "publisher": "봄나무",
+          "publication_year": "2016",
+          "isbn13": "9791156130796",
+          "addition_symbol": "77830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/7341/56/cover/k142434005_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3109760",
+          "loan_count": "89471"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아주 무서운 날 ",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김",
+          "publisher": "찰리북",
+          "publication_year": "2014",
+          "isbn13": "9788994368269",
+          "addition_symbol": "77820",
+          "vol": "",
+          "class_no": "823.7",
+          "class_nm": "문학 > 중국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/3787/12/cover/8994368264_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2031891",
+          "loan_count": "89255"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이파라파냐무냐무 :이지은 그림책 ",
+          "authors": "글·그림: 이지은",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2020",
+          "isbn13": "9791160946673",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24215/5/cover/k352630161_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5682107",
+          "loan_count": "87413"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꽁꽁꽁 좀비 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362478",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27183/8/cover/k582731354_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5985683",
+          "loan_count": "86931"
+        }
+      }
+    ]
+  }
+}

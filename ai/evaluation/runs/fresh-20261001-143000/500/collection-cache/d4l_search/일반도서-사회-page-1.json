@@ -1,0 +1,815 @@
+{
+  "response": {
+    "request": {
+      "keyword": "사회",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 15587,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "authors": "지은이: 손원평",
+          "publisher": "창비",
+          "publication_year": "2017",
+          "isbn13": "9788936434267",
+          "addition_symbol": "03810",
+          "vol": "22",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/16839/4/cover/k492534773_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423096",
+          "loan_count": "234290"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934972464",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3027835",
+          "loan_count": "189670"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 나로 살기로 했다 :냉담한 현실에서 어른살이를 위한 to do list ",
+          "authors": "글·그림: 김수현",
+          "publisher": "마음의숲",
+          "publication_year": "2016",
+          "isbn13": "9791187119845",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/16751/86/cover/k642534567_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3395679",
+          "loan_count": "137176"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2014",
+          "isbn13": "9788994120966",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396928",
+          "loan_count": "127774"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "authors": "지은이: 이희영",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936456894",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18958/95/cover/893645689x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5397461",
+          "loan_count": "127583"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "112034"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "책과 노니는 집 ",
+          "authors": "이영서 글 ;김동성 그림",
+          "publisher": "문학동네",
+          "publication_year": "2009",
+          "isbn13": "9788954607346",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/305/6/cover/8954607349_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2272922",
+          "loan_count": "106876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "총, 균, 쇠 :무기·병균·금속은 인류의 운명을 어떻게 바꿨는가 ",
+          "authors": "재레드 다이아몬드 지음 ;김진준 옮김",
+          "publisher": "문학사상사",
+          "publication_year": "2005",
+          "isbn13": "9788970127248",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "389",
+          "class_nm": "사회과학 > 풍속, 민속학 > 민족학",
+          "bookImageURL": "http://image.aladin.co.kr/product/61/50/cover/8970127240_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=954778",
+          "loan_count": "104064"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어떻게 살 것인가 ",
+          "authors": "지은이: 유시민",
+          "publisher": "아름다운사람들",
+          "publication_year": "2013",
+          "isbn13": "9788965132288",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "340.4",
+          "class_nm": "사회과학 > 정치학 > 정치학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/503/07150363.jpg?type=m1&udate=20151014",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1913291",
+          "loan_count": "97731"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 김연아 =Kim Yuna ",
+          "authors": "글: 오영석 ;그림: 라임 스튜디오",
+          "publisher": "다산어린이",
+          "publication_year": "2014",
+          "isbn13": "9791156390404",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/13090/24/cover/k422532997_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645744",
+          "loan_count": "91640"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744023",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242056.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373845",
+          "loan_count": "89808"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "기억 전달자",
+          "authors": "로이스 로리 글;장은수 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2007",
+          "isbn13": "9788949120744",
+          "addition_symbol": "43840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/029/204/02920418.jpg?type=m1&udate=20160421",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2368698",
+          "loan_count": "88962"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수상한 편의점 ",
+          "authors": "박현숙 글 ;장서영 그림",
+          "publisher": "북멘토",
+          "publication_year": "2018",
+          "isbn13": "9788963192642",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/608/13460899.jpg?type=m1&udate=20180330",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3733289",
+          "loan_count": "88106"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당신이 옳다 :정혜신의 적정심리학 ",
+          "authors": "지은이: 정혜신",
+          "publisher": "해냄",
+          "publication_year": "2018",
+          "isbn13": "9788965746669",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/16938/73/cover/8965746663_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3917073",
+          "loan_count": "86527"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "못 참는 아이 욱하는 부모 :분노조절장애의 시대를 사는 대한민국 부모에게 주는 육아 멘토 오은영 박사의 감정 조절 육아법 ",
+          "authors": "오은영 지음",
+          "publisher": "대성 Korea.com",
+          "publication_year": "2016",
+          "isbn13": "9788997396658",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "http://image.aladin.co.kr/product/8207/85/cover/899739665x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3145556",
+          "loan_count": "85673"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "피프티 피플 :정세랑 장편소설 ",
+          "authors": "지은이: 정세랑",
+          "publisher": "창비",
+          "publication_year": "2016",
+          "isbn13": "9788936434243",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/113/062/11306271.jpg?type=m1&udate=20180117",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3391014",
+          "loan_count": "85007"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "authors": "지은이: 손원평",
+          "publisher": "창비",
+          "publication_year": "2017",
+          "isbn13": "9788936456788",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10636/66/cover/8936456784_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3428065",
+          "loan_count": "83340"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2022",
+          "isbn13": "9791191114225",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29281/68/cover/k122837904_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6446085",
+          "loan_count": "82649"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "풀꽃도 꽃이다 :조정래 장편소설",
+          "authors": "지은이: 조정래",
+          "publisher": "해냄",
+          "publication_year": "2016",
+          "isbn13": "9788965745617",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/702/10770202.jpg?type=m1&udate=20160630",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3186294",
+          "loan_count": "81635"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수상한 식당 ",
+          "authors": "글쓴이: 박현숙 ;그린이: 장서영",
+          "publisher": "북멘토",
+          "publication_year": "2017",
+          "isbn13": "9788963192390",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/122/699/12269974.jpg?type=m1&udate=20170729",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3495534",
+          "loan_count": "81232"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수상한 도서관 ",
+          "authors": "박현숙 글 ;장서영 그림",
+          "publisher": "북멘토",
+          "publication_year": "2019",
+          "isbn13": "9788963192956",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18706/55/cover/8963192954_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5383781",
+          "loan_count": "81226"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "개인주의자 선언 :판사 문유석의 일상유감 ",
+          "authors": "지은이: 문유석",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954637756",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "304",
+          "class_nm": "사회과학 > 사회과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/095/957/09595780.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2869604",
+          "loan_count": "79343"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2013",
+          "isbn13": "9788957365793",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "322.01",
+          "class_nm": "사회과학 > 경제학 > 경제정책",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/148/07314866.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1975179",
+          "loan_count": "78937"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 박지성 =Park Jisung ",
+          "authors": "글: 카툰박스 ;그림: 툰쟁이",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2015",
+          "isbn13": "9791156391586",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/5505/23/cover/6000823615_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646389",
+          "loan_count": "77763"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "용선생 만화 한국사: ",
+          "authors": "글: 정상민,주성윤",
+          "publisher": "사회평론",
+          "isbn13": "9788964359167",
+          "addition_symbol": "67900",
+          "vol": "1",
+          "class_no": "911",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/9869/38/cover/896435916x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3400375",
+          "loan_count": "77110"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "authors": "법륜 지음 ;최승미 그림",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954637169",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "http://image.aladin.co.kr/product/7441/21/cover/8954637167_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3110949",
+          "loan_count": "74667"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "기린의 날개 ",
+          "authors": "히가시노 게이고 지음 ;김난주 옮김",
+          "publisher": "재인",
+          "publication_year": "2017",
+          "isbn13": "9788990982674",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10147/75/cover/8990982677_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3410926",
+          "loan_count": "73254"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "미생 :아직 살아 있지 못한 자",
+          "authors": "지은이: 윤태호",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2018",
+          "isbn13": "9788960865563",
+          "addition_symbol": "17810",
+          "vol": "1",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/865/06986522.jpg?type=m1&udate=20150916",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373836",
+          "loan_count": "72045"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어린이라는 세계 :김소영 에세이 ",
+          "authors": "지은이: 김소영",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2020",
+          "isbn13": "9791160946918",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/25509/75/cover/k132633125_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5795911",
+          "loan_count": "70999"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 문재인 =Moon Jaein ",
+          "authors": "글: 김승민 ;툰쟁이",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2017",
+          "isbn13": "9791156394747",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "998.3",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "http://image.aladin.co.kr/product/11007/91/cover/k912531973_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3419276",
+          "loan_count": "69923"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "호모 데우스 :미래의 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934977841",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "331.544",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10044/18/cover/8934977841_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435577",
+          "loan_count": "68876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Who? 류현진 =Ryu Hyunjin ",
+          "authors": "글: 최재훈 ;그림: 스튜디오 해닮",
+          "publisher": "스튜디오 다산",
+          "publication_year": "2014",
+          "isbn13": "9791156391531",
+          "addition_symbol": "14990",
+          "vol": "",
+          "class_no": "991.1",
+          "class_nm": "역사 > 전기 > 아시아",
+          "bookImageURL": "http://image.aladin.co.kr/product/5020/67/cover/1156391539_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2645780",
+          "loan_count": "68147"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "풀꽃도 꽃이다 :조정래 장편소설",
+          "authors": "지은이: 조정래",
+          "publisher": "해냄",
+          "publication_year": "2016",
+          "isbn13": "9788965745624",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/702/10770203.jpg?type=m1&udate=20160630",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3186295",
+          "loan_count": "68066"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744030",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242057.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373846",
+          "loan_count": "66329"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.27",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/31559/97/cover/k682832859_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6682845",
+          "loan_count": "65403"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "용의자 X의 헌신 ",
+          "authors": "히가시노 게이고 지음 ;양억관 옮김",
+          "publisher": "재인",
+          "publication_year": "2017",
+          "isbn13": "9788990982704",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/818/12481857.jpg?type=m1&udate=20170914",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541024",
+          "loan_count": "64425"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578410",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/27944/7/cover/k332734114_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6291224",
+          "loan_count": "64371"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정의란 무엇인가 ",
+          "authors": "저자: 마이클 샌델 ;역자: 이창신",
+          "publisher": "김영사",
+          "publication_year": "2010",
+          "isbn13": "9788934939603",
+          "addition_symbol": "03330",
+          "vol": "",
+          "class_no": "193",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 국가 및 정치윤리",
+          "bookImageURL": "http://image.aladin.co.kr/product/709/27/cover/8934939605_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1074370",
+          "loan_count": "64114"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "겁쟁이 빌리",
+          "authors": "앤터니 브라운 글·그림;김경미 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2006",
+          "isbn13": "9788949111636",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/025/160/02516009.jpg?type=m1&udate=20151012",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373864",
+          "loan_count": "64062"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고릴라",
+          "authors": "앤서니 브라운",
+          "publisher": "비룡소",
+          "publication_year": "1998",
+          "isbn13": "9788949110486",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "808.9",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/834/00183464.jpg?type=m1&udate=20131023",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373866",
+          "loan_count": "63557"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744047",
+          "addition_symbol": "04810",
+          "vol": "3",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242058.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373847",
+          "loan_count": "62870"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(10대를 위한) 정의란 무엇인가 :하버드대 마이클 샌델 교수의 정의 수업 ",
+          "authors": "마이클 샌델 원저 ;조혜진 그림",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937886966",
+          "addition_symbol": "73300",
+          "vol": "",
+          "class_no": "193",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 국가 및 정치윤리",
+          "bookImageURL": "http://image.aladin.co.kr/product/4947/78/cover/8937886960_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2614721",
+          "loan_count": "62199"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "기호 3번 안석뽕 :진형민 장편동화 ",
+          "authors": "지은이: 진형민 ;그린이: 한지선",
+          "publisher": "창비",
+          "publication_year": "2013",
+          "isbn13": "9788936442712",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/657/07165792.jpg?type=m1&udate=20170323",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1944622",
+          "loan_count": "61898"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "몬스터 차일드 :이재문 장편동화 ",
+          "authors": "지은이: 이재문 ;그린이: 김지인",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2021",
+          "isbn13": "9791160947540",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/27942/99/cover/k862734112_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6292292",
+          "loan_count": "61463"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "레버리지 :자본주의 속에 숨겨진 부의 비밀 ",
+          "authors": "롭 무어 지음 ;김유미 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2017",
+          "isbn13": "9791130612249",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/15652/85/cover/k212533034_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3437844",
+          "loan_count": "61449"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "총, 균, 쇠 ",
+          "authors": "재레드 다이아몬드 지음 ;김진준 옮김",
+          "publisher": "문학사상",
+          "publication_year": "2013",
+          "isbn13": "9788970128856",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "389",
+          "class_nm": "사회과학 > 풍속, 민속학 > 민족학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/526/07152669.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1926757",
+          "loan_count": "61129"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "미생 :아직 살아 있지 못한 자",
+          "authors": "지은이: 윤태호",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2018",
+          "isbn13": "9788960865594",
+          "addition_symbol": "17810",
+          "vol": "2",
+          "class_no": "810",
+          "class_nm": "문학 > 한국문학 > 한국문학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/868/06986852.jpg?type=m1&udate=20130129",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373837",
+          "loan_count": "60839"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "잠수네 초등 3, 4학년 공부법 :영어/수학/국어/사회/과학 ",
+          "authors": "이신애 지음",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2016",
+          "isbn13": "9788925558455",
+          "addition_symbol": "04370",
+          "vol": "",
+          "class_no": "375.34",
+          "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+          "bookImageURL": "http://image.aladin.co.kr/product/7537/38/cover/8925558459_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3114318",
+          "loan_count": "59114"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "입이 똥꼬에게 ",
+          "authors": "박경효 글·그림",
+          "publisher": "비룡소",
+          "publication_year": "2008",
+          "isbn13": "9788949101583",
+          "addition_symbol": "77810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/220/61/cover/8949101580_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2202967",
+          "loan_count": "58586"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정의란 무엇인가 ",
+          "authors": "지은이: 마이클 샌델 ;옮긴이: 김명철",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937834790",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "193",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 국가 및 정치윤리",
+          "bookImageURL": "http://image.aladin.co.kr/product/10826/23/cover/k742530554_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2763903",
+          "loan_count": "58207"
+        }
+      }
+    ]
+  }
+}

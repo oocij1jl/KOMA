@@ -442,6 +442,44 @@ class GenerateBulkTests(unittest.TestCase):
         self.assertEqual(invalid["status"], "error")
         self.assertEqual(invalid["error_code"], "invalid_isbn")
 
+    def test_bulk_success_uses_the_same_evidence_key_as_single_generation(self) -> None:
+        inferred = GenerateResult.model_validate(
+            {
+                "fields": [
+                    {
+                        "tag": "700",
+                        "source": "ai_inference",
+                        "generated_by": "llm",
+                        "indicator1": "1",
+                        "indicator2": " ",
+                        "subfields": [{"code": "a", "value": "채사장"}],
+                        "review_required": True,
+                        "confidence": "medium",
+                        "evidence": {"from": ["author"], "keywords_used": [], "reasoning": "책임표시의 지은이"},
+                    }
+                ],
+                "skipped_fields": [],
+                "warnings": [],
+            }
+        )
+
+        async def lookup_side_effect(client: object, isbn: str) -> dict[str, object]:
+            return _bulk_lookup_payload("9788936434120", found=True)
+
+        with patch(
+            "backend.routers.generate.lookup_one", new=AsyncMock(side_effect=lookup_side_effect)
+        ), patch(
+            "backend.routers.generate.generate_marc_result", new=AsyncMock(return_value=inferred)
+        ), TestClient(app) as client:
+            bulk = client.post("/api/generate/marc/bulk", json={"isbns": ["9788936434120"]})
+            single = client.post("/api/generate/marc", json={"isbn": "9788936434120"})
+
+        bulk_field = bulk.json()["results"][0]["result"]["fields"][0]
+        single_field = single.json()["fields"][0]
+        self.assertEqual(bulk_field, single_field)
+        self.assertEqual(bulk_field["evidence"]["from"], ["author"])
+        self.assertNotIn("from_", bulk_field["evidence"])
+
     def test_bulk_reports_llm_error_and_validation_error_codes(self) -> None:
         lookup_payloads = {
             "9788936434120": _bulk_lookup_payload("9788936434120", found=True),

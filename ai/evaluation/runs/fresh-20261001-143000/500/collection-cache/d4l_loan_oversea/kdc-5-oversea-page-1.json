@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "5",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "We are water protectors ",
+          "authors": "written by Carole Lindstrom ;illustrated by Michaela Goade",
+          "publisher": "Roaring Brook Press",
+          "publication_year": "2020",
+          "isbn13": "9781250203557",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18808/19/cover/1250203554_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5689202",
+          "loan_count": "4370"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "두근두근 우리 몸이 궁금해 :우리 아이 첫 인체 탐험책",
+          "authors": "이영",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "9788809295025",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511.1",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3168583",
+          "loan_count": "2816"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "Bad dog ",
+          "authors": "by Mike Boldt",
+          "publisher": "Doubleday",
+          "publication_year": "2019",
+          "isbn13": "9781984847973",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527.47",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18362/37/cover/198484797x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5548376",
+          "loan_count": "2058"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "목공(반양장)",
+          "authors": "김신채",
+          "publisher": "작은책방",
+          "publication_year": "2016",
+          "isbn13": "9788809491601",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "584.98",
+          "class_nm": "기술과학 > 제조업 > 제재업, 목공업, 목제품",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3410878",
+          "loan_count": "1473"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "근육운동가이드 프로페셔널:취약한 부위를 강화하고 특정 근육을 빠르게 향상시키는 트레이닝",
+          "authors": "프레데릭 데라비에;마이클 건딜 지음;장덕순 옮김",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "8978495184978",
+          "addition_symbol": "13510",
+          "vol": "",
+          "class_no": "593.5",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 몸치장(몸단장), 화장",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2679947",
+          "loan_count": "898"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "(백종원의) 도전 요리왕",
+          "authors": "백종원,남지은 [공]지음;이정태 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "1190908948979",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "594.5",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5822592",
+          "loan_count": "729"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "My shape book",
+          "authors": "Ann Montague-Smith",
+          "publisher": "",
+          "publication_year": "2005",
+          "isbn13": "9780871975102",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "516",
+          "class_nm": "기술과학 > 의학 > 부인과, 산과학, 소아과학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3543711",
+          "loan_count": "651"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "집 안에서 (Handmade Self Interior)",
+          "authors": "다다",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781187194072",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "595.4",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 주택관리 및 가정설비",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3200488",
+          "loan_count": "623"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Choo Choo Clickety-Clack!",
+          "authors": "Mayo, Margaret",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781408349281",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3679307",
+          "loan_count": "615"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "Three cheers for Kid McGear! ",
+          "authors": "Sherri Duskey Rinker ;[illustrated by] AG Ford",
+          "publisher": "Chronicle Books",
+          "publication_year": "2019",
+          "isbn13": "9781452155821",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17904/12/cover/1452155828_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5522406",
+          "loan_count": "522"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "문해력 유치원 : EBS 문해력 발달의 모든 것",
+          "authors": "최나야,정수지,최지수등",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9798954762854",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "598.48",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6539972",
+          "loan_count": "514"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "(열두 달)계절 밥상 여행:제철 별미를 지역별로 안내하는 맛있는 여행기",
+          "authors": "손현주 글·사진",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781155425350",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "594.019",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3386883",
+          "loan_count": "496"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "(시청자와 제작진이 직접 뽑은) 최고 중에 최고의 요리 : EBS &lt",
+          "authors": "이비에스 최고의 요리비결 출연진들",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9798997686131",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "594.5",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5439205",
+          "loan_count": "482"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "여자아이 자존감 :외모와 몸매 스트레스 벗고 당차게 성장하는 비결 ",
+          "authors": "로빈 실버만 지음 ;김은경 옮김",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "7988994197579",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2670609",
+          "loan_count": "463"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Everyone Poops (Hardcover)",
+          "authors": "Taro Gomi (지은이)",
+          "publisher": "Chronicle Books",
+          "publication_year": "2020",
+          "isbn13": "9781797202648",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23254/3/cover/1797202642_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784177",
+          "loan_count": "404"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "(3D 프린터) 창업을 출력하라:3D프린터로 성공할 수 있을까?:창업을 준비하는",
+          "authors": "이승준;진동환 지음",
+          "publisher": "",
+          "publication_year": "2015",
+          "isbn13": "1195316437979",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "555.73",
+          "class_nm": "기술과학 > 기계공학 > 정밀기계",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2669589",
+          "loan_count": "384"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "파워포인트 2007 필살기",
+          "authors": "고경희 지음",
+          "publisher": "뉴런",
+          "publication_year": "2008",
+          "isbn13": "9789788901075",
+          "addition_symbol": "74080",
+          "vol": "",
+          "class_no": "566.83",
+          "class_nm": "기술과학 > 전기공학, 전자공학 > 전산공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2459417",
+          "loan_count": "343"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Flashing fire engines",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448588",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544764",
+          "loan_count": "338"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "Amazing aeroplanes",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448540",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544760",
+          "loan_count": "333"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "(The) how and wow of the human body :from your tongue to your toes and all the guts in between ",
+          "authors": "by Mindy Thomas and Guy Raz ;illustrated by Jack Teagle",
+          "publisher": "HMH Books",
+          "publication_year": "2021",
+          "isbn13": "9780358306634",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511.4",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25458/60/cover/0358306639_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5970053",
+          "loan_count": "329"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "Roaring rockets",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448595",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544765",
+          "loan_count": "325"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "계절을 즐기는 타르트:타르트 만들기의 모든 것",
+          "authors": "구성희 지음",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9798998537579",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "594.71",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2866843",
+          "loan_count": "321"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Cool cars",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448564",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544762",
+          "loan_count": "319"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Dazzling diggers",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448571",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544763",
+          "loan_count": "305"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Super submarines",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448601",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544766",
+          "loan_count": "303"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Terrific trains",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448618",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544767",
+          "loan_count": "297"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "자연의 역습, 감염병",
+          "authors": "김양중 글;이경국 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9798983948854",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "517.6",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5688135",
+          "loan_count": "290"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "Brilliant boats",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448557",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544761",
+          "loan_count": "269"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "Me and My Amazing Body (Paperback)",
+          "authors": "조앤 스위니 (지은이), Ed Miller (그림)",
+          "publisher": "Dragonfly",
+          "publication_year": "2018",
+          "isbn13": "9781524773625",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/13194/35/cover/152477362x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5447099",
+          "loan_count": "264"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Tough trucks",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448632",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544768",
+          "loan_count": "258"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Fly Guy Presents: Dogs (Paperback)",
+          "authors": "Tedd Arnold (지은이)",
+          "publisher": "Scholastic Press",
+          "publication_year": "2022",
+          "isbn13": "9781338681796",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527.41",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28577/61/cover/1338681796_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6600571",
+          "loan_count": "250"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "(The) ultimate book of airplanes and airports ",
+          "authors": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+          "publisher": "Twirl",
+          "publication_year": "2017",
+          "isbn13": "9791027603039",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "558.3",
+          "class_nm": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+          "bookImageURL": "https://image.aladin.co.kr/product/10047/64/cover/f592536773_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5361618",
+          "loan_count": "249"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "Tremendous Tractors",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448649",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544769",
+          "loan_count": "247"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "The Hair Book (Hardcover)",
+          "authors": "Latonya Yvette (지은이), Amanda Jane Jones (그림)",
+          "publisher": "Sterling Children's Books",
+          "publication_year": "2022",
+          "isbn13": "9781454944324",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "593.235",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 몸치장(몸단장), 화장",
+          "bookImageURL": "https://image.aladin.co.kr/product/27842/17/cover/1454944323_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6488547",
+          "loan_count": "246"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "A Day at the Apple Orchard (Paperback)",
+          "authors": "Megan Faulkner (지은이)",
+          "publisher": "New York:Scholastic",
+          "publication_year": "2005",
+          "isbn13": "9780439799096",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "525",
+          "class_nm": "기술과학 > 농업, 농학 > 원예",
+          "bookImageURL": "https://image.aladin.co.kr/product/4929/54/cover/0439799090_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2509249",
+          "loan_count": "239"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Spaghetti Hunters (Hardcover)",
+          "authors": "Morag Hood (지은이)",
+          "publisher": "Pan MacMillan",
+          "publication_year": "2020",
+          "isbn13": "9781509889846",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948458",
+          "loan_count": "238"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "36",
+          "bookname": "Me and My Amazing Body (Hardcover)",
+          "authors": "조앤 스위니 (지은이), Ed Miller (그림)",
+          "publisher": "Alfred a Knopf Inc                      ",
+          "publication_year": "2018",
+          "isbn13": "9781524773595",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/13194/35/cover/152477359x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5482932",
+          "loan_count": "238"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "카스토리 - 자동차.탈것 장난감/탈것 탐험하기",
+          "authors": "예지원 편집부 (지은이)",
+          "publisher": "예지원",
+          "publication_year": "2020",
+          "isbn13": "8809990044931",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23458/89/cover/k622638798_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5651501",
+          "loan_count": "237"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(The) body :a guide for occupants ",
+          "authors": "Bill Bryson",
+          "publisher": "Doubleday",
+          "publication_year": "2019",
+          "isbn13": "9780385539302",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17926/54/cover/0385539304_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5548280",
+          "loan_count": "231"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "I'M Fast!",
+          "authors": "Kate Mcmullan (School Market)",
+          "publisher": "Scholastic",
+          "publication_year": "2012",
+          "isbn13": "9780545580199",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "550",
+          "class_nm": "기술과학 > 기계공학 > 기계공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431110",
+          "loan_count": "228"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "40",
+          "bookname": "(해피투게더3)야간 매점 ",
+          "authors": "KBS 해피투게더 제작진 지음",
+          "publisher": "",
+          "publication_year": "2013",
+          "isbn13": "9798960781597",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "594.5",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2866640",
+          "loan_count": "228"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "손뜨개 미니어처 소품 100",
+          "authors": "애플민트 (지은이), 강수현 (옮긴이)",
+          "publisher": "봄봄스쿨",
+          "publication_year": "2022",
+          "isbn13": "8809332974148",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "592.27",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 의복",
+          "bookImageURL": "https://image.aladin.co.kr/product/30171/65/cover/k372839683_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6569886",
+          "loan_count": "224"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "Go for the moon :a rocket, a boy, and the first moon landing ",
+          "authors": "Chris Gall",
+          "publisher": "Roaring Brook                           ",
+          "publication_year": "2019",
+          "isbn13": "9781250155795",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "558",
+          "class_nm": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+          "bookImageURL": "https://image.aladin.co.kr/product/15782/86/cover/1250155797_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5478646",
+          "loan_count": "223"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "(The) fire station ",
+          "authors": "story by Robert Munsch ;art by Michael Martchenko",
+          "publisher": "Annick Press",
+          "publication_year": "2018",
+          "isbn13": "9781773210803",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539.995",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/12671/64/cover/1773210807_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5465846",
+          "loan_count": "219"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "うんこ! ",
+          "authors": "サトシン 文 ;西村敏雄 絵",
+          "publisher": "文溪堂,",
+          "publication_year": "2010",
+          "isbn13": "9784894236691",
+          "addition_symbol": "8793",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/604/82/cover/4894236699_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2024608",
+          "loan_count": "216"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "Hello, World! Construction Site (Board Books)",
+          "authors": "Jill McDonald (지은이)",
+          "publisher": "Doubleday",
+          "publication_year": "2020",
+          "isbn13": "9781984896704",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19730/43/cover/1984896709_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5640343",
+          "loan_count": "210"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "평범한 아이를 공부의 신으로만든 비법 (SBS 영재 발굴단 아빠의 비밀 편)",
+          "authors": "이상화",
+          "publisher": "스노우폭스북스",
+          "publication_year": "2017",
+          "isbn13": "9781188331070",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3494953",
+          "loan_count": "208"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "앗, 실수?",
+          "authors": "베스트라이프 글",
+          "publisher": "효리원",
+          "publication_year": "2007",
+          "isbn13": "9789788983392",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "507",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2483924",
+          "loan_count": "203"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "I Want to Be... a Doctor (Board Books)",
+          "authors": "Davies, Becky (지은이), 리차드 메리트 (그림)",
+          "publisher": "Random House Books for Young Readers",
+          "publication_year": "2021",
+          "isbn13": "9780593377383",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26580/7/cover/0593377389_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6646818",
+          "loan_count": "184"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "49",
+          "bookname": "내일은 발명왕 1-22",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9798937899232",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "507",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5576890",
+          "loan_count": "184"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "리폼이 좋아:[재료비 0원-5,000원]",
+          "authors": "김문정 지음;한정수;김문정 [공]사진;김문정 일러스트",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9798993418835",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "592.25",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 의복",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2886822",
+          "loan_count": "183"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Twinkle, Twinkle, Time For Bed & Brush, Brush, Brush!",
+          "authors": "Scholastic",
+          "publisher": "Scholastic",
+          "publication_year": "2012",
+          "isbn13": "9780545405690",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "598",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431372",
+          "loan_count": "180"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "(A) Planet Full of Plastic:and how you can help",
+          "authors": "by Neal Layton",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781526363602",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539.9",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6498716",
+          "loan_count": "178"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "Seven and a Half Lessons about the Brain (이토록 뜻밖의 뇌과학)",
+          "authors": "Lisa Feldman Barrett",
+          "publisher": "MarinerBooks",
+          "publication_year": "2021",
+          "isbn13": "9780358645597",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511.1813",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/211/164/21116446.jpg?type=m1&udate=20211007",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6363304",
+          "loan_count": "175"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Rescue vehicles ",
+          "authors": "[Tony Mitton] ;[illustrated by Ant Parker]",
+          "publisher": "Kingfisher",
+          "publication_year": "2020",
+          "isbn13": "9780753475737",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556.1",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/20620/40/cover/0753475731_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5736827",
+          "loan_count": "173"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "엄마, 화내지마",
+          "authors": "세가와 후미코 글",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789878990330",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "598",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2991471",
+          "loan_count": "171"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Stir Crack Whisk Bake: A Little Book about Little Cakes (Board Books)",
+          "authors": "America's Test Kitchen Kids (지은이)",
+          "publisher": "Sourcebooks Jabberwocky",
+          "publication_year": "2019",
+          "isbn13": "9781492677734",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "594.5",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/18361/93/cover/1492677736_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5522387",
+          "loan_count": "170"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+          "authors": "Michelin Travel Partner 저",
+          "publisher": "Michelin",
+          "publication_year": "[201",
+          "isbn13": "9782067235144",
+          "addition_symbol": "03100",
+          "vol": "2019",
+          "class_no": "594.82",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/17048/36/cover/k542534786_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3921637",
+          "loan_count": "164"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "What a waste ",
+          "authors": "Jess French",
+          "publisher": "Dk Pub",
+          "publication_year": "2019",
+          "isbn13": "9781465481412",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/15627/90/cover/1465481419_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5551508",
+          "loan_count": "158"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Roaring rockets",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448595",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544765",
+          "loan_count": "156"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Make Tracks: Building Site (Board Book)",
+          "authors": "Johnny Dyrander (그림)",
+          "publisher": "Nosy Crow Ltd",
+          "publication_year": "2021",
+          "isbn13": "9781788009669",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556.754",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6499841",
+          "loan_count": "152"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Amazing aeroplanes",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448540",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544760",
+          "loan_count": "150"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "애앵 애앵 소방차 - 사회성을 길러 주는",
+          "authors": "우나연 (그림), 씽크밸리 (구성)",
+          "publisher": "효리원",
+          "publication_year": "2021",
+          "isbn13": "8809302550372",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26612/20/cover/k872739039_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5948859",
+          "loan_count": "149"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "What's on My Farm?: A Slide-And-Find Book with Flaps (Board Books)",
+          "authors": "로저 프레디 (지은이)",
+          "publisher": "Priddy Books",
+          "publication_year": "2019",
+          "isbn13": "9780312527884",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/13661/25/cover/0312527888_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784696",
+          "loan_count": "148"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "64",
+          "bookname": "Brilliant boats",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448557",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544761",
+          "loan_count": "148"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "64",
+          "bookname": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+          "authors": "Michelin Travel Partner 저",
+          "publisher": "Michelin",
+          "publication_year": "[201",
+          "isbn13": "9782067235144",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "594.82",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/17048/36/cover/k542534786_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3921637",
+          "loan_count": "148"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Cool cars",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448564",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544762",
+          "loan_count": "147"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Flashing fire engines",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448588",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544764",
+          "loan_count": "146"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "Super submarines",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448601",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544766",
+          "loan_count": "143"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "Trucks!",
+          "authors": "by Wil Mara",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9780545498982",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2941286",
+          "loan_count": "142"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "Terrific trains",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448618",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544767",
+          "loan_count": "141"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "71",
+          "bookname": "See Inside Space Stations and Other Spacecraft (Board Book)",
+          "authors": "로지 디킨스 (지은이), Kellan Stover (그림)",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2017",
+          "isbn13": "9781409599197",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "558",
+          "class_nm": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+          "bookImageURL": "https://image.aladin.co.kr/product/10276/16/cover/1409599191_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5551524",
+          "loan_count": "141"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Ice Cream: The Full Scoop (Paperback) - The Full Scoop",
+          "authors": "Gail Gibbons (지은이)",
+          "publisher": "Holiday House",
+          "publication_year": "2008",
+          "isbn13": "9780823421558",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "594.5546",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/143/87/cover/0823421554_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5479675",
+          "loan_count": "140"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "(최열 아저씨의)지구촌 환경 이야기",
+          "authors": "최열 지음;노희성 그림",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789788972785",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539.9",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2852850",
+          "loan_count": "137"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "멋진롬 0~5세 아이놀자 육아법 ",
+          "authors": "장새롬 지음",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9781186647067",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3251510",
+          "loan_count": "133"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "75",
+          "bookname": "Monkey me and the school ghost  [Monkey Me]  =",
+          "authors": "Timothy Roland",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789813372825",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "500",
+          "class_nm": "기술과학 > 기술과학 > 기술과학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6585204",
+          "loan_count": "133"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Why Am I So Tired?: A First Look at Childhood Diabetes (Paperback) - A First Look At Childhood Diabetes",
+          "authors": "팻 토마스 (지은이), Lesley Harker (그림)",
+          "publisher": "Barrons Juveniles",
+          "publication_year": "2008",
+          "isbn13": "9780764138997",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "513.4",
+          "class_nm": "기술과학 > 의학 > 내과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/520/27/cover/0764138995_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5384842",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "77",
+          "bookname": "Farming (Paperback, Reprint)",
+          "authors": "Gail Gibbons (지은이)",
+          "publisher": "Holiday House",
+          "publication_year": "1988",
+          "isbn13": "9780823407972",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/104/67/cover/0823407977_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5232916",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "내일은 발명왕:본격 대결 과학발명 만화",
+          "authors": "곰돌이 co. 글;홍종현 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781162334898",
+          "addition_symbol": "",
+          "vol": "24",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5811818",
+          "loan_count": "130"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Tough trucks",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448632",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544768",
+          "loan_count": "128"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "Outlive: The Science and Art of Longevity (Hardcover)",
+          "authors": "Peter Attia (지은이)",
+          "publisher": "Harmony",
+          "publication_year": "2023",
+          "isbn13": "9780593236598",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "511.1689",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29532/35/cover/0593236599_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6694915",
+          "loan_count": "126"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Kitten Lady's big book of little kittens ",
+          "authors": "by Hannah Shaw",
+          "publisher": "Aladdin Paperbacks",
+          "publication_year": "2019",
+          "isbn13": "9781534438941",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527.4786",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18247/87/cover/1534438947_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5581959",
+          "loan_count": "125"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Dazzling diggers",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448571",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544763",
+          "loan_count": "124"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "Look Inside How things Work (Board Book)",
+          "authors": "롭 로이드 존스 (지은이), Stefano Tognetti (그림)",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2018",
+          "isbn13": "9781474936576",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "550",
+          "class_nm": "기술과학 > 기계공학 > 기계공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/12028/29/cover/1474936571_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5463786",
+          "loan_count": "123"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "84",
+          "bookname": "Izzy the Inventor and the Curse of Doom (Paperback)",
+          "authors": "Davidson, Zanna (지은이), Elissa Elwick (그림), Marcella Del Bosco (옮긴이)",
+          "publisher": "Usborne Publishing Ltd",
+          "publication_year": "2023",
+          "isbn13": "9781474999786",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "507",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/31455/52/cover/1474999786_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6836826",
+          "loan_count": "123"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "Tremendous Tractors",
+          "authors": "text by Tony Mitton;illustrated by Ant Parker",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780753448649",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "508",
+          "class_nm": "기술과학 > 기술과학 > 전집, 총서, 강좌",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6544769",
+          "loan_count": "122"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "상처 주는 것도 습관이다:불안과 결핍을 성장과 치유로 바꾸는 엄마의 마음멘토링",
+          "authors": "이임숙 지음",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9781195012542",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2705382",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "87",
+          "bookname": "Hearing",
+          "authors": "by Grace Jones",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9781786372123",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3735877",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "87",
+          "bookname": "Journey into Space",
+          "authors": "Marnie Willow 글;Nanette Regan 그림",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9781788109970",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "558",
+          "class_nm": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5330835",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "87",
+          "bookname": "Monkey me and the pet show  [Monkey Me]  =",
+          "authors": "Timothy Roland",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789813372764",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "500",
+          "class_nm": "기술과학 > 기술과학 > 기술과학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6585203",
+          "loan_count": "119"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "Tractors &amp;amp; trucks",
+          "authors": "by Jane Horne",
+          "publisher": "Make Believe Ideas",
+          "publication_year": "2006",
+          "isbn13": "9781848797284",
+          "addition_symbol": "51195",
+          "vol": "",
+          "class_no": "556",
+          "class_nm": "기술과학 > 기계공학 > 자동차공학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2552145",
+          "loan_count": "118"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(The) great stink :how Joseph Bazalgette solved London's poop pollution problem ",
+          "authors": "Colleen Paeff ;illustrated by Nancy Carpenter",
+          "publisher": "Margaret K. McElderry Books",
+          "publication_year": "2021",
+          "isbn13": "9781534449299",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "539.2",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26580/65/cover/1534449299_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6325795",
+          "loan_count": "115"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "Ninja vs. Sky Pirates .[1]",
+          "authors": "Sipi, Claire",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9780241293010",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "589.61",
+          "class_nm": "기술과학 > 제조업 > 소형상품제조",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435157",
+          "loan_count": "114"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "Trains (Board Books)",
+          "authors": "Lonely Planet Kids (지은이)",
+          "publisher": "Lonely Planet Kids",
+          "publication_year": "2020",
+          "isbn13": "9781838690571",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "535.8",
+          "class_nm": "기술과학 > 공학, 공업일반 > 철도공학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/166/575/16657589.jpg?type=m1&udate=20200903",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5791692",
+          "loan_count": "113"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "94",
+          "bookname": "오무라이스 잼잼 :경이로운 일상음식 이야기",
+          "authors": "조경규 글·그림",
+          "publisher": "",
+          "publication_year": "2012",
+          "isbn13": "9798984315624",
+          "addition_symbol": "07810",
+          "vol": "2",
+          "class_no": "594.04",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3814691",
+          "loan_count": "113"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "In Paris : 20 Women on Life in the City of Light (Hardcover)",
+          "authors": "잔느 다마스, 로렌 바스티드 (지은이), Georgina Collins (옮긴이)",
+          "publisher": "Penguin Books Ltd",
+          "publication_year": "2018",
+          "isbn13": "9780241351680",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "592",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 의복",
+          "bookImageURL": "https://image.aladin.co.kr/product/14415/3/cover/0241351685_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5426282",
+          "loan_count": "112"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "96",
+          "bookname": "Do You Know?: Vehicles and Transportation (Hardcover)",
+          "authors": "Cristian Turdera, 쥘리 메르시에, Benjamin B?ue (그림)",
+          "publisher": "Twirl",
+          "publication_year": "2021",
+          "isbn13": "9782408029159",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "550",
+          "class_nm": "기술과학 > 기계공학 > 기계공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26580/34/cover/2408029155_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6455625",
+          "loan_count": "112"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "On the Move: On the Farm: An Interactive Sound Book! (Board Books)",
+          "authors": "로저 프레디 (지은이)",
+          "publisher": "Priddy Books Us",
+          "publication_year": "2021",
+          "isbn13": "9781684491421",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "522.65",
+          "class_nm": "기술과학 > 농업, 농학 > 농업경제",
+          "bookImageURL": "https://image.aladin.co.kr/product/24693/69/cover/1684491428_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6751177",
+          "loan_count": "111"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "Playful Pets",
+          "authors": "by Pountney Beth",
+          "publisher": "Make Believe Ideas",
+          "publication_year": "2013",
+          "isbn13": "9781846105982",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "527.4",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2426873",
+          "loan_count": "108"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "Puppies",
+          "authors": "[Igloo Books]",
+          "publisher": "",
+          "publication_year": "2011",
+          "isbn13": "9780857346308",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "527.41",
+          "class_nm": "기술과학 > 농업, 농학 > 축산학",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3636615",
+          "loan_count": "105"
+        }
+      }
+    ]
+  }
+}

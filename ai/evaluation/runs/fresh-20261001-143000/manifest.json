@@ -1,0 +1,84 @@
+{
+  "model": "gpt-5.4-mini",
+  "generation": "Fresh NL and D4L API lookup, NL public detail and Kyobo public pages, OpenAI generation, existing output validator; no prior generated fields reused",
+  "aladin_enabled": false,
+  "d4l_skip_usage": false,
+  "evaluator_version": "v2.1",
+  "run_33": {
+    "status": "completed",
+    "gold_records": 33,
+    "first_attempt_successes": 32,
+    "first_attempt_failures": 1,
+    "retried_isbn": "9788960909830",
+    "final_successes": 33,
+    "structural_validation_passes": 33,
+    "report": "33/v2/REPORT.md",
+    "first_attempt_errors": "33/first_attempt_errors.json",
+    "koma_q_percent": 89.0,
+    "value_accuracy_percent": 74.4,
+    "exact_percent": 65.0,
+    "rag_rule_compliance_percent": 99.5,
+    "decision_accuracy_percent": 93.1
+  },
+  "run_500": {
+    "status": "paused_collecting_gold_for_comparable_500",
+    "dataset": "500/dataset/testset_500_minimal.csv",
+    "source_candidate_count": 2545,
+    "unique_isbns": 500,
+    "gold_available": false,
+    "value_accuracy_available": false,
+    "daily_d4l_request_budget": 450,
+    "initial_d4l_calls_used_by_smoke_33_and_collection": 155,
+    "resume_time": "00:10 Asia/Seoul",
+    "service": "koma-daily-500-20261001-r3",
+    "service_mode": "stopped",
+    "comparison_status": "not_comparable_missing_original_500_inputs",
+    "reporting_snapshot": {
+      "attempted_isbns": 87,
+      "successful_generations": 87,
+      "structural_validation_passes": 86,
+      "structural_validation_failures": 1,
+      "remaining_unprocessed": 413,
+      "provisional": true
+    },
+    "live_summary": "500/summary.json",
+    "checkpoint": "500/state.json",
+    "note": "Stopped the gold-free service after the user explicitly required a comparable 500-book accuracy evaluation. Saved results and checkpoint are preserved. Real library gold MARC acquisition is being investigated before any further generation. The existing 33-book comparison is not a substitute for the requested 500-book deliverable. The reporting snapshot records an earlier pause, not the live count."
+  },
+  "existing_33_comparison": {
+    "evaluator_version": "v2.1",
+    "same_isbns_verified": true,
+    "gold_records": 33,
+    "previous_results": "ai/evaluation/runs/after-validator/results",
+    "fresh_results": "33/results",
+    "report": "ai/evaluation/runs/existing-33-20261001-comparison/REPORT.md",
+    "status": "completed_regressions_present",
+    "scope": "Same gold and evaluator applied to saved full-generation outputs; no new API or LLM calls for this comparison. Generation-time input/model differences are not controlled. This is not a 500-book accuracy evaluation."
+  },
+  "acceptance_baseline_500": {
+    "source": "User-supplied final-evaluation screenshot",
+    "books": 500,
+    "unit": "percent",
+    "precision_note": "Screenshot values are rounded to one decimal. Original raw metrics and evaluator conditions are unavailable.",
+    "minimum": {
+      "KOMA_Q": 87.0,
+      "A_value_accuracy": 70.6,
+      "A_exact_rate": 56.2,
+      "B_rule_compliance": 99.5,
+      "C_decision_accuracy": 90.8,
+      "v1_completeness": 91.9,
+      "v1_accuracy": 70.0
+    },
+    "maximum": {
+      "C_overgeneration_rate": 2.3,
+      "C_omission_rate": 14.6
+    },
+    "comparison_requirements": [
+      "Original 500 ISBNs and corresponding gold MARC",
+      "Original generated results or unrounded baseline metrics",
+      "Same evaluator version, denominators, weights and field policy"
+    ],
+    "acceptance_status": "unverified",
+    "policy": "All metrics must meet their directional thresholds on the comparable original 500-book sample. A higher aggregate score cannot compensate for a lower individual metric. Fresh 33-book scores and gold-free structural validation are not acceptance evidence."
+  }
+}

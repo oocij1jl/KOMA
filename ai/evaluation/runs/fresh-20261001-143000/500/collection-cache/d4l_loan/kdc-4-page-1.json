@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "4",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136032",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25055/39/cover/k002632646_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5748423",
+          "loan_count": "130212"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137121",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25812/8/cover/k352736335_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5833702",
+          "loan_count": "125307"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960869646",
+          "addition_symbol": "67400",
+          "vol": "1",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/8781/70/cover/8960869643_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3271612",
+          "loan_count": "120660"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137923",
+          "addition_symbol": "77400",
+          "vol": "3",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27025/25/cover/k542730528_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5967314",
+          "loan_count": "116879"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960869929",
+          "addition_symbol": "67400",
+          "vol": "2",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/713/11171384.jpg?type=m1&udate=20161007",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3356401",
+          "loan_count": "114670"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960863545",
+          "addition_symbol": "67400",
+          "vol": "4",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/10822/59/cover/8960863548_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435330",
+          "loan_count": "114494"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960863163",
+          "addition_symbol": "67400",
+          "vol": "3",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/10065/1/cover/8960863165_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3406786",
+          "loan_count": "110236"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960867093",
+          "addition_symbol": "67400",
+          "vol": "5",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/438/12443896.jpg?type=m1&udate=20170818",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3536738",
+          "loan_count": "110136"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "흔한남매 과학 탐험대",
+          "authors": "원작: 흔한남매 ;임혜영",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934989257",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27081/54/cover/s542731834_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5970627",
+          "loan_count": "109730"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138982",
+          "addition_symbol": "77400",
+          "vol": "4",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27892/11/cover/k652734308_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6088288",
+          "loan_count": "108699"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "흔한남매 과학 탐험대",
+          "authors": "원작: 흔한남매 ;임혜영",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934980254",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27876/47/cover/8934980257_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6086449",
+          "loan_count": "105821"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190182737",
+          "addition_symbol": "67400",
+          "vol": "11",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/19973/36/cover/k292635940_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5453374",
+          "loan_count": "104357"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791162202425",
+          "addition_symbol": "67400",
+          "vol": "6",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/130/083/13008346.jpg?type=m1&udate=20171222",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3678197",
+          "loan_count": "103671"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190305310",
+          "addition_symbol": "67400",
+          "vol": "12",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/21502/77/cover/k742636192_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5516991",
+          "loan_count": "101976"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164135738",
+          "addition_symbol": "77490",
+          "vol": "1",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24605/89/cover/k652631174_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5708913",
+          "loan_count": "101902"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "코스모스 :특별판 ",
+          "authors": "칼 세이건 지음 ;홍승수 옮김",
+          "publisher": "사이언스북스",
+          "publication_year": "2006",
+          "isbn13": "9788983711892",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "443.1",
+          "class_nm": "자연과학 > 천문학 > 기술천문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/87/9/cover/8983711892_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2083728",
+          "loan_count": "101366"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136438",
+          "addition_symbol": "77490",
+          "vol": "2",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25493/95/cover/k372633927_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5793071",
+          "loan_count": "100849"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190630184",
+          "addition_symbol": "67400",
+          "vol": "13",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/23416/73/cover/k962638285_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5601705",
+          "loan_count": "100751"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168410848",
+          "addition_symbol": "77400",
+          "vol": "5",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28736/69/cover/k332836780_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6393114",
+          "loan_count": "100275"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "authors": "룰루 밀러 지음 ;정지인 옮김",
+          "publisher": "곰출판",
+          "publication_year": "2021",
+          "isbn13": "9791189327156",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "490.99",
+          "class_nm": "자연과학 > 동물학 > 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28465/73/cover/k092835920_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6360937",
+          "loan_count": "98542"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137435",
+          "addition_symbol": "77490",
+          "vol": "3",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26236/31/cover/k012738287_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5855035",
+          "loan_count": "97173"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937839702",
+          "addition_symbol": "77400",
+          "vol": "33",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/075/09707597.jpg?type=m1&udate=20151021",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2885064",
+          "loan_count": "95887"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937839719",
+          "addition_symbol": "77400",
+          "vol": "34",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7582/76/cover/8937839717_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3116697",
+          "loan_count": "95854"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "놓지 마 과학! 7 - 정신이 모험에 정신 놓다",
+          "authors": "신태훈|나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2018",
+          "isbn13": "9791162205624",
+          "addition_symbol": "67400",
+          "vol": "7",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/135/602/13560214.jpg?type=m1&udate=20180430",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3746299",
+          "loan_count": "95842"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842184",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/025/297/02529723.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371728",
+          "loan_count": "94548"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791162207031",
+          "addition_symbol": "67400",
+          "vol": "8",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/16447/61/cover/k252533647_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3871374",
+          "loan_count": "94541"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190908184",
+          "addition_symbol": "67400",
+          "vol": "14",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/24628/1/cover/s982631798_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5709267",
+          "loan_count": "94082"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411852",
+          "addition_symbol": "77400",
+          "vol": "6",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29541/3/cover/k292837956_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6469920",
+          "loan_count": "93755"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138425",
+          "addition_symbol": "77490",
+          "vol": "4",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27643/74/cover/k052733229_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063450",
+          "loan_count": "93369"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884818",
+          "addition_symbol": "77400",
+          "vol": "28",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4416/54/cover/893788481x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2612171",
+          "loan_count": "90902"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884832",
+          "addition_symbol": "77400",
+          "vol": "30",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5200/61/cover/8937884836_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2618882",
+          "loan_count": "90523"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791189938208",
+          "addition_symbol": "67400",
+          "vol": "10",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/18641/73/cover/k882635265_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5378930",
+          "loan_count": "90475"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937839726",
+          "addition_symbol": "77400",
+          "vol": "35",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8227/43/cover/8937839725_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3146960",
+          "loan_count": "89630"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926387061",
+          "addition_symbol": "67410",
+          "vol": "47",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6317/59/cover/8926387062_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647092",
+          "loan_count": "89261"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884061",
+          "addition_symbol": "77400",
+          "vol": "23",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/776/07177692.jpg?type=m1&udate=20130401",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373795",
+          "loan_count": "88301"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842191",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/026/512/02651224.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371729",
+          "loan_count": "88210"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884801",
+          "addition_symbol": "77400",
+          "vol": "27",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3995/26/cover/8937884801_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2605559",
+          "loan_count": "87764"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791162203149",
+          "addition_symbol": "67400",
+          "vol": "9",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/17526/21/cover/k672534302_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5246583",
+          "loan_count": "87696"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926387986",
+          "addition_symbol": "67410",
+          "vol": "53",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8764/82/cover/8926387984_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3247738",
+          "loan_count": "87675"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884825",
+          "addition_symbol": "77400",
+          "vol": "29",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4841/92/cover/8937884828_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2616139",
+          "loan_count": "87537"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884054",
+          "addition_symbol": "77400",
+          "vol": "22",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/000/07100000.jpg?type=m1&udate=20121212",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373794",
+          "loan_count": "87204"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937838347",
+          "addition_symbol": "77400",
+          "vol": "38",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10335/90/cover/8937838346_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3414929",
+          "loan_count": "87189"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884795",
+          "addition_symbol": "77400",
+          "vol": "26",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3571/65/cover/8937884798_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604623",
+          "loan_count": "87072"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884078",
+          "addition_symbol": "77400",
+          "vol": "24",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/497/07249779.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373796",
+          "loan_count": "86926"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168413931",
+          "addition_symbol": "77400",
+          "vol": "7",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30224/42/cover/k502839203_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6568400",
+          "loan_count": "86668"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937839689",
+          "addition_symbol": "77400",
+          "vol": "31",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5714/29/cover/8937839687_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620383",
+          "loan_count": "86588"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937847721",
+          "addition_symbol": "77400",
+          "vol": "20",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/850/06885091.jpg?type=m1&udate=20120420",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373792",
+          "loan_count": "85947"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937838323",
+          "addition_symbol": "77400",
+          "vol": "36",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8800/43/cover/893783832x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3249024",
+          "loan_count": "85937"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937839696",
+          "addition_symbol": "77400",
+          "vol": "32",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/093/094/09309482.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2402919",
+          "loan_count": "85870"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937838330",
+          "addition_symbol": "77400",
+          "vol": "37",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/234/11223411.jpg?type=m1&udate=20161123",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3379569",
+          "loan_count": "85530"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164139750",
+          "addition_symbol": "77490",
+          "vol": "5",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28259/9/cover/k882835381_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6331219",
+          "loan_count": "85078"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884085",
+          "addition_symbol": "77400",
+          "vol": "25",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/279/07327988.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376425",
+          "loan_count": "85021"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937889981",
+          "addition_symbol": "77400",
+          "vol": "39",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10789/56/cover/8937889986_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3432899",
+          "loan_count": "84816"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "에그박사 :Egg&bugs",
+          "authors": "원작: 에그박사 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411029",
+          "addition_symbol": "77490",
+          "vol": "6",
+          "class_no": "472",
+          "class_nm": "자연과학 > 생물과학 > 생물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28974/55/cover/k902836928_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6415971",
+          "loan_count": "84066"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842214",
+          "addition_symbol": "77400",
+          "vol": "3",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/029/126/02912657.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373788",
+          "loan_count": "83943"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937884047",
+          "addition_symbol": "77400",
+          "vol": "21",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/985/06998580.jpg?type=m1&udate=20120904",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373793",
+          "loan_count": "83755"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926387757",
+          "addition_symbol": "67410",
+          "vol": "52",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8406/11/cover/8926387755_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3156805",
+          "loan_count": "83746"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "코믹 메이플 스토리 수학도둑 46 - 국내 최초 수학논술만화",
+          "authors": "송도수 (글), 서정 엔터테인먼트 (그림), 여운방 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926398395",
+          "addition_symbol": "67410",
+          "vol": "46",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5946/33/cover/8926398390_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620371",
+          "loan_count": "83107"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926385364",
+          "addition_symbol": "67410",
+          "vol": "54",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/110/693/11069348.jpg?type=m1&udate=20161004",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3349250",
+          "loan_count": "82889"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937847714",
+          "addition_symbol": "77400",
+          "vol": "19",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/804/06780485.jpg?type=m1&udate=20111129",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373791",
+          "loan_count": "82740"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926385586",
+          "addition_symbol": "67410",
+          "vol": "55",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/113/054/11305489.jpg?type=m1&udate=20161124",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3390988",
+          "loan_count": "82187"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926397633",
+          "addition_symbol": "67410",
+          "vol": "40",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4112/4/cover/8926397637_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430504",
+          "loan_count": "81989"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926397930",
+          "addition_symbol": "67410",
+          "vol": "42",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4642/22/cover/8926397939_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619024",
+          "loan_count": "81631"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926397657",
+          "addition_symbol": "67410",
+          "vol": "41",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4350/30/cover/8926397653_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430505",
+          "loan_count": "81547"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "코믹 메이플 스토리 수학도둑 48 - 국내 최초 수학논술만화",
+          "authors": "송도수 (글), 서정 엔터테인먼트 (그림), 여운방 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926387214",
+          "addition_symbol": "67410",
+          "vol": "48",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6677/15/cover/8926387216_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2650972",
+          "loan_count": "81445"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937847707",
+          "addition_symbol": "77400",
+          "vol": "18",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/048/06704822.jpg?type=m1&udate=20110810",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371828",
+          "loan_count": "81433"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "열두 발자국 ",
+          "authors": "지은이: 정재승",
+          "publisher": "어크로스",
+          "publication_year": "2018",
+          "isbn13": "9791160560510",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "404",
+          "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+          "bookImageURL": "https://image.aladin.co.kr/product/15072/28/cover/k072533160_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3767852",
+          "loan_count": "81280"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926385777",
+          "addition_symbol": "67410",
+          "vol": "56",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10103/5/cover/8926385779_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3408635",
+          "loan_count": "81096"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "코믹 메이플 스토리 수학도둑 49 - 국내 최초 수학논술만화",
+          "authors": "송도수 (글), 서정 엔터테인먼트 (그림), 여운방 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2015",
+          "isbn13": "9788926387245",
+          "addition_symbol": "67410",
+          "vol": "49",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7015/27/cover/8926387240_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3064775",
+          "loan_count": "80989"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926397985",
+          "addition_symbol": "67410",
+          "vol": "43",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4910/3/cover/892639798x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619025",
+          "loan_count": "80946"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842221",
+          "addition_symbol": "77400",
+          "vol": "5",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/042/879/04287978.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373789",
+          "loan_count": "80863"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937856648",
+          "addition_symbol": "77400",
+          "vol": "40",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/123/190/12319069.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3496677",
+          "loan_count": "80836"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9791162334669",
+          "addition_symbol": "77400",
+          "vol": "42",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/134/238/13423893.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3721460",
+          "loan_count": "80418"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842207",
+          "addition_symbol": "77400",
+          "vol": "4",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/030/811/03081152.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371730",
+          "loan_count": "80329"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "코믹 메이플 스토리 수학도둑 50 - 국내 최초 수학논술만화",
+          "authors": "송도수 (글), 서정 엔터테인먼트 (그림), 여운방 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2016",
+          "isbn13": "9788926387344",
+          "addition_symbol": "67410",
+          "vol": "50",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7516/48/cover/8926387348_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3114004",
+          "loan_count": "80172"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926398210",
+          "addition_symbol": "67410",
+          "vol": "45",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5457/88/cover/8926398218_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619026",
+          "loan_count": "80089"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395462",
+          "addition_symbol": "67410",
+          "vol": "34",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/104/07210432.jpg?type=m1&udate=20170218",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376594",
+          "loan_count": "79633"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842245",
+          "addition_symbol": "77400",
+          "vol": "7",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/046/302/04630275.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371731",
+          "loan_count": "79415"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "코믹 메이플 스토리 수학도둑 51 - 국내 최초 수학논술만화",
+          "authors": "송도수 (글), 서정 엔터테인먼트 (그림), 여운방 (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2016",
+          "isbn13": "9788926387511",
+          "addition_symbol": "67410",
+          "vol": "51",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7964/52/cover/8926387518_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3134641",
+          "loan_count": "79399"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414822",
+          "addition_symbol": "77400",
+          "vol": "8",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30881/96/cover/k672831283_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6624071",
+          "loan_count": "79206"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926398197",
+          "addition_symbol": "67410",
+          "vol": "44",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5173/18/cover/8926398196_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620927",
+          "loan_count": "79140"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "미래엔컬처그룹",
+          "publication_year": "",
+          "isbn13": "9788937847677",
+          "addition_symbol": "77400",
+          "vol": "15",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/063/852/06385203.jpg?type=m1&udate=20170110",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371739",
+          "loan_count": "78934"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791191766318",
+          "addition_symbol": "67400",
+          "vol": "15",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/27685/48/cover/k642733336_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6065677",
+          "loan_count": "78820"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842252",
+          "addition_symbol": "77400",
+          "vol": "8",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/049/359/04935987.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371732",
+          "loan_count": "78500"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395851",
+          "addition_symbol": "67410",
+          "vol": "39",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3844/86/cover/8926395855_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430503",
+          "loan_count": "78250"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937847691",
+          "addition_symbol": "77400",
+          "vol": "17",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/316/06631626.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371827",
+          "loan_count": "78222"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9788937847684",
+          "addition_symbol": "77400",
+          "vol": "16",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/064/606/06460683.jpg?type=m1&udate=20110214",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371740",
+          "loan_count": "78194"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395837",
+          "addition_symbol": "67410",
+          "vol": "38",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3570/53/cover/8926395839_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2428231",
+          "loan_count": "77902"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395219",
+          "addition_symbol": "67410",
+          "vol": "32",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/330/07133062.jpg?type=m1&udate=20170207",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376398",
+          "loan_count": "77697"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395592",
+          "addition_symbol": "67410",
+          "vol": "37",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/3315/37/cover/8926395596_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427534",
+          "loan_count": "77387"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926385999",
+          "addition_symbol": "67410",
+          "vol": "57",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10556/28/cover/892638599x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3422641",
+          "loan_count": "77270"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395486",
+          "addition_symbol": "67410",
+          "vol": "35",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/651/07265166.jpg?type=m1&udate=20170207",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376595",
+          "loan_count": "77179"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "미래엔컬처그룹",
+          "publication_year": "",
+          "isbn13": "9788937847653",
+          "addition_symbol": "77400",
+          "vol": "13",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/433/06243317.jpg?type=m1&udate=20170622",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371737",
+          "loan_count": "77112"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395578",
+          "addition_symbol": "67410",
+          "vol": "36",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/116/07311653.jpg?type=m1&udate=20150717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376596",
+          "loan_count": "77080"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :창의사고력 강화, 수리논술력을 키워 주는 스토리텔링 수학의 선구자!",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926384305",
+          "addition_symbol": "67410",
+          "vol": "58",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10951/46/cover/8926384306_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3440204",
+          "loan_count": "76910"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2011",
+          "isbn13": "9791162339909",
+          "addition_symbol": "77400",
+          "vol": "45",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17663/5/cover/k022534518_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5339011",
+          "loan_count": "76472"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395035",
+          "addition_symbol": "67410",
+          "vol": "31",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/070/602/07060239.jpg?type=m1&udate=20170207",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376397",
+          "loan_count": "76282"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :사고력과 이해력을 향상시켜 주는 국내 최초 수학논술만화",
+          "authors": "글: 송도수 ;서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "2006",
+          "isbn13": "9788926395233",
+          "addition_symbol": "67410",
+          "vol": "33",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/709/07170989.jpg?type=m1&udate=20130404",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376399",
+          "loan_count": "76278"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "대한교과서",
+          "publication_year": "",
+          "isbn13": "9788937842238",
+          "addition_symbol": "77400",
+          "vol": "6",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/044/707/04470726.jpg?type=m1&udate=20171229",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373790",
+          "loan_count": "75788"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "(코믹 메이플스토리) 수학도둑 :지식·능력·경험을 융합하여 정리하는 No.1 수학학습만화",
+          "authors": "글: 송도수 ;그림: 서정 엔터테인먼트",
+          "publisher": "서울문화사",
+          "publication_year": "",
+          "isbn13": "9788926382561",
+          "addition_symbol": "67410",
+          "vol": "62",
+          "class_no": "410",
+          "class_nm": "자연과학 > 수학 > 수학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/132/197/13219757.jpg?type=m1&udate=20180118",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3692655",
+          "loan_count": "75734"
+        }
+      }
+    ]
+  }
+}

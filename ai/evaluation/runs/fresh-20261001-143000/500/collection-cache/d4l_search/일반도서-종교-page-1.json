@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "keyword": "종교",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 1694,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934972464",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3027835",
+          "loan_count": "189670"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "112034"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "호모 데우스 :미래의 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934977841",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "331.544",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10044/18/cover/8934977841_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435577",
+          "loan_count": "68876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2019",
+          "isbn13": "9791190313131",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/21984/15/cover/k622636607_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5534696",
+          "loan_count": "65845"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "멈추면, 비로소 보이는 것들 :혜민 스님과 함께하는 내 마음 다시보기 ",
+          "authors": "혜민 지음 ;우창헌 그림",
+          "publisher": "쌤앤파커스",
+          "publication_year": "2012",
+          "isbn13": "9788965700609",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/064/06806489.jpg?type=m1&udate=20140911",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1232213",
+          "loan_count": "65485"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "왜 나는 너를 사랑하는가",
+          "authors": "알랭 드 보통 [지음];정영목 옮김",
+          "publisher": "청미래",
+          "publication_year": "2007",
+          "isbn13": "9788986836240",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/030/257/03025716.jpg?type=m1&udate=20180227",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2130072",
+          "loan_count": "65225"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(지적이고 아름다운 삶을 위한) 라틴어 수업 ",
+          "authors": "한동일 지음",
+          "publisher": "흐름출판",
+          "publication_year": "2017",
+          "isbn13": "9788965962205",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "792.2",
+          "class_nm": "언어 > 기타 제어 > 인도-유럽계어",
+          "bookImageURL": "http://image.aladin.co.kr/product/11217/32/cover/896596220x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3456002",
+          "loan_count": "60197"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "12가지 인생의 법칙 :혼돈의 해독제 ",
+          "authors": "조던 B. 피터슨 지음 ;강주헌 옮김",
+          "publisher": "메이븐",
+          "publication_year": "2018",
+          "isbn13": "9791196067694",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/17215/26/cover/k442534993_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230775",
+          "loan_count": "53851"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "불안 ",
+          "authors": "지은이: 알랭 드 보통 ;정영목 옮김",
+          "publisher": "은행나무",
+          "publication_year": "2012",
+          "isbn13": "9788956605593",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "332.6",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회조직 및 제도",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/930/06793081.jpg?type=m1&udate=20171011",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1226611",
+          "loan_count": "48673"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "21세기를 위한 21가지 제언 :더 나은 오늘은 어떻게 가능한가 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 전병근",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934982975",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909.6",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/16234/14/cover/8934982977_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3870516",
+          "loan_count": "44686"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "고려 시대 보물찾기",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937899041",
+          "addition_symbol": "77910",
+          "vol": "2",
+          "class_no": "911.04",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/4285/80/cover/8937899043_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430950",
+          "loan_count": "41990"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950934552",
+          "addition_symbol": "74900",
+          "vol": "27",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/31080/70/cover/8950934558_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6639469",
+          "loan_count": "41050"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이스라엘에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔컬처그룹",
+          "publication_year": "2009",
+          "isbn13": "9788937847943",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "919.4",
+          "class_nm": "역사 > 아시아(아세아) > 아라비아반도",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/061/131/06113150.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372823",
+          "loan_count": "40547"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인도에서 보물찾기",
+          "authors": "곰돌이 co. 글;강경효 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2004",
+          "isbn13": "9788937813597",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "915",
+          "class_nm": "역사 > 아시아(아세아) > 인도)",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/014/689/01468983.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372805",
+          "loan_count": "39814"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오리진",
+          "authors": "댄 브라운 지음 ;안종설 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2017",
+          "isbn13": "9788983926845",
+          "addition_symbol": "04840",
+          "vol": "1",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12257/17/cover/8983926848_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658230",
+          "loan_count": "39489"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "듄 ",
+          "authors": "지은이: 프랭크 허버트 ;옮긴이: 김승욱",
+          "publisher": "황금가지",
+          "publication_year": "2021",
+          "isbn13": "9791158887544",
+          "addition_symbol": "04840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/26297/22/cover/k262738793_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5857690",
+          "loan_count": "36326"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "안나 카레니나",
+          "authors": "지은이: 톨스토이 ;옮긴이: 연진희",
+          "publisher": "민음사",
+          "publication_year": "2009",
+          "isbn13": "9788937462191",
+          "addition_symbol": "04800",
+          "vol": "1",
+          "class_no": "892.8",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/461/57/cover/s852532176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2425567",
+          "loan_count": "35304"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오리진",
+          "authors": "댄 브라운 지음 ;안종설 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2017",
+          "isbn13": "9788983926852",
+          "addition_symbol": "04840",
+          "vol": "2",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12257/21/cover/8983926856_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3658231",
+          "loan_count": "35256"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "온 세상 국기가 펄럭펄럭 ",
+          "authors": "서정훈 글 ;김성희 그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2010",
+          "isbn13": "9788901109237",
+          "addition_symbol": "74300",
+          "vol": "",
+          "class_no": "300",
+          "class_nm": "사회과학 > 사회과학 > 사회과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/063/135/06313536.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2375459",
+          "loan_count": "34000"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자카르타에서 보물찾기 ",
+          "authors": "글: 팝콘스토리 ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2018",
+          "isbn13": "9791162336199",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/16413/82/cover/k222533648_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3871380",
+          "loan_count": "31726"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "공간의 미래 :코로나가 가속화시킨 공간 변화 ",
+          "authors": "유현준 지음",
+          "publisher": "을유문화사",
+          "publication_year": "2021",
+          "isbn13": "9788932474427",
+          "addition_symbol": "03540",
+          "vol": "",
+          "class_no": "540.04",
+          "class_nm": "기술과학 > 건축공학 > 건축공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26915/9/cover/8932474427_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5959280",
+          "loan_count": "30327"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9791171171941",
+          "addition_symbol": "74900",
+          "vol": "30",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/32951/17/cover/k812936148_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6797705",
+          "loan_count": "29804"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(교양으로 읽는) 용선생 세계사",
+          "authors": "글: 이희건,박기종",
+          "publisher": "사회평론",
+          "isbn13": "9788964359686",
+          "addition_symbol": "64900",
+          "vol": "6",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/122/587/12258731.jpg?type=m1&udate=20170718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3494426",
+          "loan_count": "28344"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2020",
+          "isbn13": "9791190313193",
+          "addition_symbol": "03100",
+          "vol": "2",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/22872/85/cover/k912636841_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5584763",
+          "loan_count": "27347"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세계사 보물찾기",
+          "authors": "글: 곰돌이co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937899270",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/4563/46/cover/8937899272_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2612958",
+          "loan_count": "26947"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "야단법석 :법륜 스님의 지구촌 즉문즉설 ",
+          "authors": "지은이: 법륜",
+          "publisher": "정토출판",
+          "publication_year": "2015",
+          "isbn13": "9788985961363",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "224.2",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/096/843/09684390.jpg?type=m1&udate=20170315",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2882078",
+          "loan_count": "26704"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(Britannica) 유전과 혈액 ",
+          "authors": "글: 봄봄 스토리 ;그림: 김강호",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9788937887697",
+          "addition_symbol": "77030",
+          "vol": "",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "http://image.aladin.co.kr/product/8212/93/cover/893788769x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3146276",
+          "loan_count": "25849"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "만들어진 신 :신은 과연 인간을 창조했는가? ",
+          "authors": "리처드 도킨스 [지음] ;이한음 옮김",
+          "publisher": "김영사",
+          "publication_year": "2007",
+          "isbn13": "9788934926184",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "204.21",
+          "class_nm": "종교 > 종교 > 자연종교, 자연신학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/030/088/03008836.jpg?type=m1&udate=20180619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2126974",
+          "loan_count": "25538"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세계사 보물찾기",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2015",
+          "isbn13": "9788937839658",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/5425/53/cover/8937839652_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2618913",
+          "loan_count": "25099"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "authors": "지은이: 법륜",
+          "publisher": "정토출판",
+          "publication_year": "2014",
+          "isbn13": "9788985961851",
+          "addition_symbol": "03220",
+          "vol": "",
+          "class_no": "224.8",
+          "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+          "bookImageURL": "http://image.aladin.co.kr/product/4980/86/cover/8985961853_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430612",
+          "loan_count": "24893"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(얀 마텔 장편소설)파이 이야기",
+          "authors": "얀 마텔 지음;공경희 옮김",
+          "publisher": "작가정신",
+          "publication_year": "2004",
+          "isbn13": "9788972882435",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/52/50/cover/8972882437_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=394208",
+          "loan_count": "24427"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 지리와 지도 ",
+          "authors": "글쓴이: 조영선 ;그린이: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2014",
+          "isbn13": "9788930231572",
+          "addition_symbol": "74300",
+          "vol": "",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/5137/24/cover/8930231578_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646281",
+          "loan_count": "22899"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(10대를 위한) 사피엔스 :한 번에 정리하는 인류 문명의 역사 ",
+          "authors": "벵트 에릭 엥홀름 지음 ;김아영 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2021",
+          "isbn13": "9791164135653",
+          "addition_symbol": "73900",
+          "vol": "",
+          "class_no": "900",
+          "class_nm": "역사 > 역사 > 역사",
+          "bookImageURL": "https://image.aladin.co.kr/product/24362/34/cover/k602630110_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5700453",
+          "loan_count": "21615"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(교과서 속 역사 이야기) 그림으로 보는 세계사",
+          "authors": "글: 김현숙,윤유리",
+          "publisher": "계림북스",
+          "isbn13": "9788953330399",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/212/09721210.jpg?type=m1&udate=20160311",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2996196",
+          "loan_count": "21443"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(교양있는 우리아이를 위한)세계역사이야기",
+          "authors": "수잔 와이즈 바우어 지음;정병수 그림",
+          "publisher": "꼬마이실",
+          "publication_year": "2004",
+          "isbn13": "9788931380088",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/681/00168142.jpg?type=m1&udate=20170629",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371110",
+          "loan_count": "21077"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "먼나라 이웃나라 :지역·주제편",
+          "authors": "이원복 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934981404",
+          "addition_symbol": "77900",
+          "vol": "17",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/14429/82/cover/8934981407_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3748855",
+          "loan_count": "19847"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "안나 카레니나 2",
+          "authors": "레프 니콜라예비치 톨스토이 (지은이), 연진희 (옮긴이)",
+          "publisher": "민음사",
+          "publication_year": "2009",
+          "isbn13": "9788937462207",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "808",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/461/57/cover/s892532176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2425568",
+          "loan_count": "19724"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "먼나라 이웃나라 :지역·주제편",
+          "authors": "이원복 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934981411",
+          "addition_symbol": "77900",
+          "vol": "18",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/14429/84/cover/8934981415_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3748852",
+          "loan_count": "19099"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인형의 집 ",
+          "authors": "지은이: 헨리크 입센 ;옮긴이: 안미란",
+          "publisher": "민음사",
+          "publication_year": "2010",
+          "isbn13": "9788937462481",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "859.82",
+          "class_nm": "문학 > 독일문학 > 기타 게르만 문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/733/38/cover/8937462486_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2442688",
+          "loan_count": "18934"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지구가 100명의 마을이라면 ",
+          "authors": "데이비드 스미스 지음 ;노경실 옮김",
+          "publisher": "푸른숲",
+          "publication_year": "2011",
+          "isbn13": "9788971846629",
+          "addition_symbol": "73330",
+          "vol": "",
+          "class_no": "330",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학, 사회문제",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/219/06721904.jpg?type=m1&udate=20171115",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1220309",
+          "loan_count": "18565"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "불편해도 괜찮아 :영화보다 재미있는 인권 이야기 ",
+          "authors": "김두식 지음",
+          "publisher": "창비",
+          "publication_year": "2010",
+          "isbn13": "9788936471897",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "342.1",
+          "class_nm": "사회과학 > 정치학 > 국가와 개인 및 집단",
+          "bookImageURL": "http://image.aladin.co.kr/product/735/82/cover/8936471899_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1081781",
+          "loan_count": "18348"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(1일 1페이지, 세상에서 가장 짧은) 교양 수업 365 ",
+          "authors": "데이비드 S. 키더,허성심 옮김",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190305679",
+          "addition_symbol": "03030",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/21411/69/cover/k692636898_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5515451",
+          "loan_count": "18333"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지구는 내가 지킬 거야! ",
+          "authors": "존 버닝햄 글·그림 ;이상희 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2013",
+          "isbn13": "9788949112367",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/2343/0/cover/8949112361_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2440053",
+          "loan_count": "18219"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "용선생 교과서 세계사 ",
+          "authors": "글: 사회평론역사연구소,캐릭터: 이우일",
+          "publisher": "사회평론",
+          "publication_year": "2023",
+          "isbn13": "9791162733189",
+          "addition_symbol": "73900",
+          "vol": "1",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/33029/58/cover/k682937176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6805643",
+          "loan_count": "18138"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(Britannica) 범죄 수사 ",
+          "authors": "글: 봄봄 스토리 ;그림: 최병익",
+          "publisher": "미래엔",
+          "publication_year": "2018",
+          "isbn13": "9791162338858",
+          "addition_symbol": "77030",
+          "vol": "",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/17048/17/cover/k272534786_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3921744",
+          "loan_count": "18075"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세상에서 가장 짧은 세계사 :2,000년 유럽의 모든 역사를 이해하기 위한 최소한의 지식 ",
+          "authors": "존 허스트 지음 ;김종원 옮김",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9791162201046",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://image.aladin.co.kr/product/11380/16/cover/k982531241_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3651638",
+          "loan_count": "17831"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너무 재밌어서 잠 못 드는 세계사 :일본 3대 입시학원 최고의 세계사 스타 강사 우야마 다쿠에이가 들려주는 명강의 ",
+          "authors": "우야마 다쿠에이 지음 ;오세웅 옮김",
+          "publisher": "아름다운사람들",
+          "publication_year": "2016",
+          "isbn13": "9788965133834",
+          "addition_symbol": "93900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/660/11166032.jpg?type=m1&udate=20161129",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3356410",
+          "loan_count": "17532"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세계 나라 사전 =World picture dictionary ",
+          "authors": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+          "publisher": "사계절",
+          "publication_year": "2017",
+          "isbn13": "9788958288060",
+          "addition_symbol": "73980",
+          "vol": "",
+          "class_no": "980",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "http://image.aladin.co.kr/product/10411/96/cover/895828806x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3417632",
+          "loan_count": "17074"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "안나 카레니나",
+          "authors": "지은이: 톨스토이 ;옮긴이: 연진희",
+          "publisher": "민음사",
+          "publication_year": "2009",
+          "isbn13": "9788937462214",
+          "addition_symbol": "04800",
+          "vol": "3",
+          "class_no": "892.8",
+          "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+          "bookImageURL": "http://image.aladin.co.kr/product/461/58/cover/s812532176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2425570",
+          "loan_count": "16864"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세계와 만나는 그림책 =Meet the world in pictures ",
+          "authors": "테즈카 아케미 그림 ;강인 옮김",
+          "publisher": "사계절출판사",
+          "publication_year": "2013",
+          "isbn13": "9788958286769",
+          "addition_symbol": "77380",
+          "vol": "",
+          "class_no": "031",
+          "class_nm": "총류 > 백과사전 > 한국어",
+          "bookImageURL": "http://image.aladin.co.kr/product/3041/99/cover/8958286768_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1971348",
+          "loan_count": "16782"
+        }
+      }
+    ]
+  }
+}

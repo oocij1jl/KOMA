@@ -130,7 +130,12 @@ def collect_results(
     batch_size: int = BULK_BATCH_SIZE,
 ) -> None:
     ensure_results_dir(results_dir)
-    pending = [row for row in rows if force_regenerate or not (results_dir / f"{row.isbn}.json").exists()]
+    cached = load_cached_results(results_dir)
+    pending = [
+        row
+        for row in rows
+        if force_regenerate or cached.get(row.isbn, {}).get("status") != "success"
+    ]
     if not pending:
         return
 
@@ -204,14 +209,16 @@ def compute_metrics(rows: list[IsbnRow], cached: dict[str, dict[str, Any]]) -> d
             error_code_counts[item.get("error_code", "unknown")] += 1
             continue
 
+        present_tags: set[str] = set()
         result = item.get("result", {})
         for field in result.get("fields", []):
             tag = field.get("tag")
-            field_present_counts[tag] += 1
+            present_tags.add(tag)
             if field.get("source") == "ai_inference":
                 evidence = field.get("evidence")
                 if not evidence or not evidence.get("reasoning"):
                     evidence_missing += 1
+        field_present_counts.update(present_tags)
         for skipped in result.get("skipped_fields", []):
             field_skip_counts[skipped.get("tag")] += 1
 
@@ -230,7 +237,7 @@ def compute_metrics(rows: list[IsbnRow], cached: dict[str, dict[str, Any]]) -> d
 
     return {
         "total_isbns": total,
-        "processed": sum(status_counts.values()),
+        "processed": total - status_counts.get("not_processed", 0),
         "status_counts": dict(status_counts),
         "error_code_counts": dict(error_code_counts),
         "success_rate": round(success_count / total, 4) if total else None,

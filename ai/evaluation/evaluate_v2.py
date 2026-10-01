@@ -585,12 +585,38 @@ def decision_outcomes(gold: v1.RecordData, payload: dict[str, Any]) -> dict[str,
 # ---------------------------------------------------------------------------
 
 
+def generated_record(isbn: str, payload: Any) -> dict[str, Any]:
+    """채점 대상 GenerateResult를 꺼낸다.
+
+    대량 실행기는 결과를 {"status": ..., "result": GenerateResult} 봉투로 저장한다.
+    성공 봉투만 벗기고, 실패 봉투는 성공분 분모에서 조용히 빠지지 않도록 거부한다.
+    """
+
+    if isinstance(payload, dict):
+        if isinstance(payload.get("fields"), list):
+            return payload
+        inner = payload.get("result")
+        if payload.get("status") == "success" and isinstance(inner, dict) and isinstance(inner.get("fields"), list):
+            return inner
+        status = payload.get("status")
+        if status is not None and status != "success":
+            raise ValueError(f"{isbn}: 생성 실패 결과(status={status})는 채점할 수 없습니다.")
+    raise ValueError(f"{isbn}: fields 배열이 있는 생성 결과가 아닙니다. 오류/벌크 응답을 채점할 수 없습니다.")
+
+
 def evaluate_run(gold_records: list[v1.RecordData], results: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    gold_isbns = {gold.isbn for gold in gold_records}
+    if len(gold_isbns) != len(gold_records):
+        raise ValueError("정답 MARC에 중복 ISBN이 있습니다. 도서별 정답을 하나로 확정해야 합니다.")
+    missing = sorted(gold_isbns - results.keys())
+    if missing:
+        raise ValueError(
+            f"정답 {len(gold_records)}권 중 생성 결과 {len(missing)}권 누락: {', '.join(missing)}. "
+            "일부 성공분만 전체 정확도로 채점하지 않습니다."
+        )
     books: list[dict[str, Any]] = []
     for gold in gold_records:
-        payload = results.get(gold.isbn)
-        if payload is None:
-            continue
+        payload = generated_record(gold.isbn, results[gold.isbn])
         books.append(
             {
                 "isbn": gold.isbn,
@@ -655,7 +681,10 @@ def evaluate_run(gold_records: list[v1.RecordData], results: dict[str, dict[str,
     axes = [value for value in (axis_a, axis_b, axis_c) if value is not None]
 
     v1_rows = v1.build_summary_rows(
-        [v1.compare_record(gold, results[gold.isbn], allow_partial_653=True) for gold in gold_records if gold.isbn in results]
+        [
+            v1.compare_record(gold, generated_record(gold.isbn, results[gold.isbn]), allow_partial_653=True)
+            for gold in gold_records
+        ]
     )
     v1_overall = next(row for row in v1_rows if row["field"] == "OVERALL")
 
@@ -800,8 +829,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="KOMA 생성 결과를 RAG 규칙 기반 v2 기준으로 채점하고 실행 간 비교한다.")
     parser.add_argument("--run", type=parse_run, action="append", required=True, help="label=결과디렉터리 (여러 번 지정)")
     parser.add_argument("--gold-mrc", type=Path, default=v1.DEFAULT_GOLD_MRC)
+    parser.add_argument("--expected-books", type=int, help="정답·생성 결과의 도서 수를 강제한다. 500권 평가에는 500을 지정한다.")
     parser.add_argument("--out-dir", type=Path, default=v1.ROOT_DIR / "ai" / "evaluation" / "runs" / "v2-compare")
-    return parser.parse_args()
+    args = parser.parse_args()
+    if args.expected_books is not None and args.expected_books < 1:
+        parser.error("--expected-books must be positive")
+    return args
 
 
 def main() -> None:
@@ -809,13 +842,18 @@ def main() -> None:
     gold_records = v1.parse_gold_records(args.gold_mrc)
     if not gold_records:
         raise SystemExit(f"No MARC records parsed from {args.gold_mrc}")
+    if args.expected_books is not None and len(gold_records) != args.expected_books:
+        raise SystemExit(f"정답 MARC {len(gold_records)}권: 요청한 {args.expected_books}권 평가가 아닙니다.")
 
     runs: dict[str, dict[str, Any]] = {}
     for label, results_dir in args.run:
         results = v1.load_koma_results(results_dir)
         if not results:
             raise SystemExit(f"결과가 없습니다: {results_dir}")
-        runs[label] = evaluate_run(gold_records, results)
+        try:
+            runs[label] = evaluate_run(gold_records, results)
+        except ValueError as exc:
+            raise SystemExit(f"{label}: {exc}") from exc
         runs[label]["results_dir"] = str(results_dir)
 
     out_dir: Path = args.out_dir

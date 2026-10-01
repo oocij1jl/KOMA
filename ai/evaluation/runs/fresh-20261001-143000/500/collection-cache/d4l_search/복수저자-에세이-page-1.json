@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "에세이",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 3293,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "숨결이 바람 될 때 :서른여섯 젊은 의사의 마지막 순간 ",
+          "authors": "폴 칼라니티 지음 ;이종인 옮김",
+          "publisher": "흐름출판",
+          "publication_year": "2016",
+          "isbn13": "9788965961956",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "848",
+          "class_nm": "문학 > 영미문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/8992/81/cover/8965961955_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3289350",
+          "loan_count": "76823"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "칠판 앞에 나가기 싫어!",
+          "authors": "다니엘 포세트 글;최윤정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "1997",
+          "isbn13": "9788949160368",
+          "addition_symbol": "73860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/834/00183405.jpg?type=m1&udate=20170103",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=719639",
+          "loan_count": "75008"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "보노보노처럼 살다니 다행이야 ",
+          "authors": "김신회 지음",
+          "publisher": "다산북스",
+          "publication_year": "2017",
+          "isbn13": "9791130611853",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/12565/86/cover/k132532669_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3426376",
+          "loan_count": "54619"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "H마트에서 울다 ",
+          "authors": "미셸 자우너 지음 ;정혜윤 옮김",
+          "publisher": "문학동네",
+          "publication_year": "2022",
+          "isbn13": "9788954683371",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "848",
+          "class_nm": "문학 > 영미문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/28962/10/cover/8954683371_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6412735",
+          "loan_count": "52283"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "태도에 관하여 :임경선 에세이 ",
+          "authors": "지은이: 임경선",
+          "publisher": "한겨레출판",
+          "publication_year": "2015",
+          "isbn13": "9788984318885",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/5518/23/cover/8984318884_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2619229",
+          "loan_count": "51655"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "낭만적 연애와 그 후의 일상 :알랭 드 보통 장편소설 ",
+          "authors": "지은이: 알랭 드 보통 ;옮긴이: 김한영",
+          "publisher": "은행나무",
+          "publication_year": "2016",
+          "isbn13": "9788956608846",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/9789/89/cover/k002535757_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3279229",
+          "loan_count": "50502"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "걷는 사람, 하정우 ",
+          "authors": "글·사진: 하정우",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954653817",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/17449/55/cover/8954653812_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5245134",
+          "loan_count": "49956"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "848",
+          "class_nm": "문학 > 영미문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/32892/38/cover/8901276534_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6793850",
+          "loan_count": "48507"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "선생님, 바보 의사 선생님",
+          "authors": "이상희 글;김명길 그림",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2006",
+          "isbn13": "9788901055190",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "998.5",
+          "class_nm": "역사 > 전기 > 주제별전기",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/021/196/02119619.jpg?type=m1&udate=20141122",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2386725",
+          "loan_count": "47904"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그러라 그래 :양희은 에세이 ",
+          "authors": "지은이: 양희은",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934984979",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/26913/49/cover/893498497x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5959703",
+          "loan_count": "47896"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "모래알만 한 진실이라도 :박완서 에세이 ",
+          "authors": "지은이: 박완서",
+          "publisher": "세계사 컨텐츠 그룹",
+          "publication_year": "2020",
+          "isbn13": "9788933871553",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.62",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/25964/44/cover/8933871551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5845700",
+          "loan_count": "47814"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "직업으로서의 소설가 :무라카미 하루키 자전적 에세이 ",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 양윤옥",
+          "publisher": "현대문학",
+          "publication_year": "2016",
+          "isbn13": "9788972757719",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "834",
+          "class_nm": "문학 > 일본문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/8126/75/cover/8972757713_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3139510",
+          "loan_count": "43900"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일단 오늘은 나한테 잘합시다 :어쩐지 의기양양 도대체 씨의 띄엄띄엄 인생 기술 ",
+          "authors": "도대체 글·그림",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2017",
+          "isbn13": "9788959135592",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/11842/38/cover/8959135593_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3625256",
+          "loan_count": "41825"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "우리 아빠가 최고야",
+          "authors": "앤서니 브라운 글·그림;최윤정 옮김",
+          "publisher": "킨더랜드",
+          "publication_year": "2005",
+          "isbn13": "9788956181295",
+          "addition_symbol": "74800",
+          "vol": "",
+          "class_no": "808.3",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/026/927/02692747.jpg?type=m1&udate=20170316",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374048",
+          "loan_count": "38939"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아침에는 죽음을 생각하는 것이 좋다 ",
+          "authors": "지은이: 김영민",
+          "publisher": "어크로스",
+          "publication_year": "2018",
+          "isbn13": "9791160560640",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/17552/27/cover/s622534403_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5247570",
+          "loan_count": "38021"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지금 이대로 좋다 ",
+          "authors": "법륜 지음 ;박정은 그림",
+          "publisher": "정토출판",
+          "publication_year": "2019",
+          "isbn13": "9791187297239",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/21290/5/cover/k912636388_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5507574",
+          "loan_count": "36381"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "죽고 싶지만 떡볶이는 먹고 싶어 :백세희 에세이",
+          "authors": "지은이: 백세희",
+          "publisher": "흔",
+          "publication_year": "2019",
+          "isbn13": "9791196394578",
+          "addition_symbol": "03810",
+          "vol": "2",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/19054/22/cover/k082635297_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5404491",
+          "loan_count": "35841"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엉뚱이 소피의 못 말리는 패션",
+          "authors": "수지 모건스턴 글·그림;최윤정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2006",
+          "isbn13": "9788949160245",
+          "addition_symbol": "73860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10/2/cover/8949160242_2.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=330266",
+          "loan_count": "35161"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "바이러스 X :김진명 장편소설 ",
+          "authors": "지은이: 김진명",
+          "publisher": "이타북스",
+          "publication_year": "2020",
+          "isbn13": "9791190991070",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25366/61/cover/k412633411_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5787781",
+          "loan_count": "32042"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "명랑한 은둔자 ",
+          "authors": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+          "publisher": "바다출판사",
+          "publication_year": "2020",
+          "isbn13": "9791189932671",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "844",
+          "class_nm": "문학 > 영미문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/25072/55/cover/k332632851_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5749164",
+          "loan_count": "31838"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "언제 들어도 좋은 말 :이석원 이야기 산문집 ",
+          "authors": "지은이: 이석원",
+          "publisher": "그책",
+          "publication_year": "2015",
+          "isbn13": "9788994040738",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/11829/43/cover/k922531529_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2629440",
+          "loan_count": "31489"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "버티는 삶에 관하여 :허지웅 에세이 ",
+          "authors": "허지웅 지음",
+          "publisher": "문학동네",
+          "publication_year": "2014",
+          "isbn13": "9788954625883",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/9958/15/cover/k842536162_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430734",
+          "loan_count": "31327"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아무튼, 술 ",
+          "authors": "지은이: 김혼비",
+          "publisher": "제철소",
+          "publication_year": "2019",
+          "isbn13": "9791188343225",
+          "addition_symbol": "02810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/19002/52/cover/k762635991_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5400521",
+          "loan_count": "30203"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아름다운 책",
+          "authors": "클로드 부종 글·그림;최윤정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2002",
+          "isbn13": "9788949110776",
+          "addition_symbol": "77869",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/820/00182039.jpg?type=m1&udate=20180501",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2386861",
+          "loan_count": "30095"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "살고 싶다는 농담 :허지웅 에세이 ",
+          "authors": "지은이: 허지웅",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2020",
+          "isbn13": "9788901244600",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/24839/85/cover/8901244608_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5735384",
+          "loan_count": "29322"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "너에게 들려주는 단단한 말 ",
+          "authors": "김종원 지음",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682550",
+          "addition_symbol": "43190",
+          "vol": "",
+          "class_no": "199",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/34233/47/cover200/k212931234_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6897408",
+          "loan_count": "29095"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그럼에도 불구하고 :공지영의 섬진 산책 ",
+          "authors": "지은이: 공지영",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791191119305",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.62",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/24790/61/cover/k212633712_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5781072",
+          "loan_count": "28960"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수학은 너무 어려워",
+          "authors": "베아트리스 루에 (지은이), 로지 (그림), 최윤정 (옮긴이)",
+          "publisher": "비룡소",
+          "publication_year": "1996",
+          "isbn13": "9788949160122",
+          "addition_symbol": "74860",
+          "vol": "",
+          "class_no": "808.9",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "http://image.aladin.co.kr/product/8/47/cover/8949160129_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2408752",
+          "loan_count": "28940"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아주 오랜만에 행복하다는 느낌 :백수린 에세이 ",
+          "authors": "지은이: 백수린",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438869",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/30276/23/cover/8936438867_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6571872",
+          "loan_count": "28644"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이 지랄맞음이 쌓여 축제가 되겠지 :조승리 에세이 ",
+          "authors": "글: 조승리",
+          "publisher": "달 출판사",
+          "publication_year": "2024",
+          "isbn13": "9791158161767",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/33696/25/cover/k962939047_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6854342",
+          "loan_count": "27159"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "수영장 사건",
+          "authors": "베아트리스 루에 글;최윤정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "1996",
+          "isbn13": "9788949160078",
+          "addition_symbol": "74860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/8/40/cover/8949160072_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=333395",
+          "loan_count": "26904"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어쩌다 어른 :나만의 잉여로움을 위한 1인용 에세이 ",
+          "authors": "이영희 지음",
+          "publisher": "스윙밴드",
+          "publication_year": "2015",
+          "isbn13": "9791195260959",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/5264/10/cover/1195260954_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646372",
+          "loan_count": "26342"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "하고 싶은 대로 살아도 괜찮아 :늘 남에게 애쓰기만 하느라 나를 잃어버린 당신에게 ",
+          "authors": "윤정은 지음 ;마설 그림",
+          "publisher": "비전비엔피",
+          "publication_year": "2018",
+          "isbn13": "9791186639702",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/13865/46/cover/k162532323_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3729399",
+          "loan_count": "26177"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지구인만큼 지구를 사랑할 순 없어 :정세랑 에세이 ",
+          "authors": "지은이: 정세랑",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2021",
+          "isbn13": "9791191583793",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "816.7",
+          "class_nm": "문학 > 한국문학 > 일기, 서간, 기행",
+          "bookImageURL": "https://image.aladin.co.kr/product/27318/46/cover/k272732228_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6001331",
+          "loan_count": "25866"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "블랙코미디 :유병재 농담집 ",
+          "authors": "지은이: 유병재",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934979289",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/11997/96/cover/8934979283_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3649303",
+          "loan_count": "25668"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "뼈 있는 아무 말 대잔치 ;이왕이면 뼈 있는 아무 말을 나눠야 한다 ",
+          "authors": "신영준,고영성 지음",
+          "publisher": "Rok Media(로크미디어)",
+          "publication_year": "2018",
+          "isbn13": "9791129489159",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/16832/2/cover/k372534778_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3910712",
+          "loan_count": "25614"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "자유로울 것 :임경선 에세이 ",
+          "authors": "지은이: 임경선",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9788959134717",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.7",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "http://image.aladin.co.kr/product/10129/18/cover/8959134716_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3409307",
+          "loan_count": "25600"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "박막례, 이대로 죽을 순 없다 :독보적 유튜버 박막례와 천재 PD 손녀 김유라의 말도 안 되게 뒤집힌 신나는 인생! ",
+          "authors": "박막례,김유라 지음",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190065672",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "326.7904",
+          "class_nm": "사회과학 > 경제학 > 공익사업",
+          "bookImageURL": "https://image.aladin.co.kr/product/19237/22/cover/k542635103_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5411694",
+          "loan_count": "25006"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나, 있는 그대로 참 좋다 :자신이 얼마나 아름다운지 모르는 나에게 필요한 마음 주문 ",
+          "authors": "글: 조유미 ;그림: 화가율",
+          "publisher": "백도씨",
+          "publication_year": "2017",
+          "isbn13": "9788968331503",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/12467/3/cover/s212532245_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3613027",
+          "loan_count": "24821"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "괴물이 나타났다",
+          "authors": "다니엘 포세트 글;최윤정 옮김",
+          "publisher": "비룡소",
+          "publication_year": "2007",
+          "isbn13": "9788949160900",
+          "addition_symbol": "73860",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/89/99/cover/8949160900_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2098205",
+          "loan_count": "24756"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(소아정신과 의사 서천석의) 아이와 함께 자라는 부모 ",
+          "authors": "서천석 지음",
+          "publisher": "창비",
+          "publication_year": "2013",
+          "isbn13": "9788936472269",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/933/07193392.jpg?type=m1&udate=20180609",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1945965",
+          "loan_count": "24361"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "에고라는 적 :인생의 전환점에서 버려야 할 한 가지 ",
+          "authors": "라이언 홀리데이 지음 ;이경식 옮김",
+          "publisher": "흐름출판",
+          "publication_year": "2017",
+          "isbn13": "9788965962090",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/10603/67/cover/8965962099_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3424500",
+          "loan_count": "24270"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "진작 할 걸 그랬어 :김소영 에세이 ",
+          "authors": "지은이: 김소영",
+          "publisher": "위즈덤하우스미디어그룹",
+          "publication_year": "2018",
+          "isbn13": "9791162203637",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/14224/28/cover/k602532537_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3742124",
+          "loan_count": "23945"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인생에서 너무 늦은 때란 없습니다 :모지스 할머니 이야기 ",
+          "authors": "지은이: 애나 메리 로버트슨 모지스 ;옮긴이: 류승경",
+          "publisher": "수오서재",
+          "publication_year": "2017",
+          "isbn13": "9791187498186",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "653.42",
+          "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+          "bookImageURL": "https://image.aladin.co.kr/product/12540/78/cover/k482532464_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3673894",
+          "loan_count": "23939"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "잘했고 잘하고 있고 잘 될 것이다 ",
+          "authors": "지은이: 정영욱",
+          "publisher": "부크럼",
+          "publication_year": "2021",
+          "isbn13": "9791162143605",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/27142/39/cover/k612731445_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5983032",
+          "loan_count": "23837"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "축구를 하며 생각한 것들 :손흥민 첫 에세이 ",
+          "authors": "지은이: 손흥민",
+          "publisher": "브레인스토어",
+          "publication_year": "2019",
+          "isbn13": "9791188073382",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "695.404",
+          "class_nm": "예술 > 오락, 운동 > 구기",
+          "bookImageURL": "https://image.aladin.co.kr/product/19542/8/cover/s432635229_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5435277",
+          "loan_count": "23476"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이상하고 자유로운 할머니가 되고 싶어 :무루의 어른을 위한 그림책 읽기 ",
+          "authors": "무루 지음",
+          "publisher": "어크로스",
+          "publication_year": "2020",
+          "isbn13": "9791190030472",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/23987/38/cover/k422639110_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5662355",
+          "loan_count": "23240"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "라오스에 대체 뭐가 있는데요? :무라카미 하루키 여행 에세이 ",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 이영미",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954640466",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "836",
+          "class_nm": "문학 > 일본문학 > 일기, 서간, 기행",
+          "bookImageURL": "http://image.aladin.co.kr/product/8405/24/cover/895464046x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3156077",
+          "loan_count": "23083"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "상처받지 않는 영혼 :내면의 자유를 위한 놓아보내기 연습 ",
+          "authors": "마이클 A. 싱어 지음 ;이균형 옮김",
+          "publisher": "라이팅하우스",
+          "publication_year": "2014",
+          "isbn13": "9788998075088",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/4030/24/cover/8998075083_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2036869",
+          "loan_count": "23026"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "잘될 수밖에 없는 너에게 :최서영 에세이 ",
+          "authors": "지은이: 최서영",
+          "publisher": "북로망스",
+          "publication_year": "2022",
+          "isbn13": "9791191891201",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/29965/14/cover/k532838243_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6542482",
+          "loan_count": "22838"
+        }
+      }
+    ]
+  }
+}

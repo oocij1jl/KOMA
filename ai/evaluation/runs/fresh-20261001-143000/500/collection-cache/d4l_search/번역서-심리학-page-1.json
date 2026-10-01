@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "keyword": "심리학",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 2311,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "authors": "기시미 이치로,전경아 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2014",
+          "isbn13": "9788996991342",
+          "addition_symbol": "13180",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/083/399/08339910.jpg?type=m1&udate=20180616",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396926",
+          "loan_count": "192061"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "미움받을 용기 :사랑과 진정한 자립에 대한 아들러의 가르침",
+          "authors": "기시미 이치로,전경아 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2016",
+          "isbn13": "9791186560129",
+          "addition_symbol": "03180",
+          "vol": "2",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/8123/68/cover/k782434140_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3139929",
+          "loan_count": "97023"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그릿 :IQ, 재능, 환경을 뛰어넘는 열정적 끈기의 힘 ",
+          "authors": "앤절라 더크워스 지음 ;김미정 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2016",
+          "isbn13": "9791186805398",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/660/11166008.jpg?type=m1&udate=20171115",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355591",
+          "loan_count": "89550"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/25967/85/cover/k412737326_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5846583",
+          "loan_count": "89380"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "다정한 것이 살아남는다 ",
+          "authors": "지은이: 브라이언 헤어,옮긴이: 이민아",
+          "publisher": "디플롯",
+          "publication_year": "2021",
+          "isbn13": "9791197413025",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "182.4",
+          "class_nm": "철학 > 심리학 > 차이심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27608/83/cover/k722733028_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6060921",
+          "loan_count": "55697"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "12가지 인생의 법칙 :혼돈의 해독제 ",
+          "authors": "조던 B. 피터슨 지음 ;강주헌 옮김",
+          "publisher": "메이븐",
+          "publication_year": "2018",
+          "isbn13": "9791196067694",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/17215/26/cover/k442534993_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5230775",
+          "loan_count": "53851"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "행복의 기원 :생존과 번식, 행복은 진화의 산물이다 ",
+          "authors": "서은국 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2014",
+          "isbn13": "9788950955779",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/4129/5/cover/8950955776_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2039987",
+          "loan_count": "46564"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(퀴즈!) 과학상식 :빅데이터 과학 ",
+          "authors": "도기성 지음",
+          "publisher": "글송이",
+          "publication_year": "2018",
+          "isbn13": "9791170183976",
+          "addition_symbol": "74400",
+          "vol": "",
+          "class_no": "005.7",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/131/929/13192910.jpg?type=m1&udate=20180126",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3690856",
+          "loan_count": "39718"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "엄마 심리 수업 :엄마의 무의식이 아이를 키운다 ",
+          "authors": "윤우상 지음",
+          "publisher": "심플라이프",
+          "publication_year": "2019",
+          "isbn13": "9791186757420",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "183.646",
+          "class_nm": "철학 > 심리학 > 발달심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/19191/0/cover/k952635806_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5409185",
+          "loan_count": "39318"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정리하는 뇌 :디지털 시대, 정보와 선택 과부하로 뒤엉킨 머릿속과 일상을 정리하는 기술 ",
+          "authors": "대니얼 J. 레비틴 지음 ;김성훈 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937837654",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/6176/20/cover/893783765x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646781",
+          "loan_count": "39254"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아들러 심리학을 읽는 밤 :『미움받을 용기』 기시미 이치로의 아들러 심리학 입문 ",
+          "authors": "기시미 이치로 지음 ;박재현 옮김",
+          "publisher": "살림출판사",
+          "publication_year": "2015",
+          "isbn13": "9788952230645",
+          "addition_symbol": "13180",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/5155/24/cover/8952230647_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430844",
+          "loan_count": "36621"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "말투 하나 바꿨을 뿐인데 :일,사랑,관계가 술술 풀리는 40가지 심리 기술 ",
+          "authors": "나이토 요시히토 지음 ;김한나 옮김",
+          "publisher": "유노북스",
+          "publication_year": "2017",
+          "isbn13": "9791186665503",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/16451/64/cover/k682533750_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3420296",
+          "loan_count": "35942"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 심리학 ",
+          "authors": "글: 조영선 ;그림: 그림수레",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930231428",
+          "addition_symbol": "73180",
+          "vol": "",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/1198/50/cover/893023142x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1191735",
+          "loan_count": "35004"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그릿 :IQ, 재능, 환경을 뛰어넘는 열정적 끈기의 힘 ",
+          "authors": "앤절라 더크워스 지음 ;김미정 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540633",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/18154/59/cover/k102534140_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5366668",
+          "loan_count": "33432"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+          "authors": "최인철 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2016",
+          "isbn13": "9788950966447",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/110/066/11006642.jpg?type=m1&udate=20180728",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3347321",
+          "loan_count": "30278"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "순재와 키완 :두 아이가 만난 괴물에 대한 기록 ",
+          "authors": "오하림 글 ;애슝 그림",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954653503",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17381/81/cover/8954653502_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5242260",
+          "loan_count": "30224"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나는 까칠하게 살기로 했다 :상처받지 않고 사람을 움직이는 관계의 심리학 ",
+          "authors": "양창순 지음",
+          "publisher": "센추리원",
+          "publication_year": "2012",
+          "isbn13": "9788996746416",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/172/06817228.jpg?type=m1&udate=20160218",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1234361",
+          "loan_count": "29971"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "생각에 관한 생각 :우리의 행동을 지배하는 생각의 반란 ",
+          "authors": "지은이: 대니얼 카너먼 ;옮긴이: 이진원",
+          "publisher": "김영사",
+          "publication_year": "2012",
+          "isbn13": "9788934956150",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/700/06870091.jpg?type=m1&udate=20180407",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1245925",
+          "loan_count": "29913"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "관계를 읽는 시간 :나의 관계를 재구성하는 바운더리 심리학 ",
+          "authors": "문요한 지음",
+          "publisher": "길벗",
+          "publication_year": "2018",
+          "isbn13": "9791160505801",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/17123/22/cover/k932534382_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5220802",
+          "loan_count": "29554"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "생각에 관한 생각 :우리의 행동을 지배하는 생각의 반란 ",
+          "authors": "지은이: 대니얼 카너먼 ;옮긴이: 이창신",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934981213",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "181.3",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/14013/55/cover/8934981210_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3735001",
+          "loan_count": "28863"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "클루지 :생각의 역사를 뒤집는 기막힌 발견 ",
+          "authors": "지은이: 개리 마커스 ;옮긴이: 최호영",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2008",
+          "isbn13": "9788901090184",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.38",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/285/55/cover/8890109017_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2272563",
+          "loan_count": "27552"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "굿 라이프 =내 삶을 바꾸는 심리학의 지혜 /The good life ",
+          "authors": "최인철 지음",
+          "publisher": "21세기북스",
+          "publication_year": "2018",
+          "isbn13": "9788950975913",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "191.6",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 일반윤리학 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/15149/28/cover/8950975912_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3778931",
+          "loan_count": "27513"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음의 법칙 :사람의 마음을 사로잡는 51가지 심리학 ",
+          "authors": "폴커 키츠,김희상 옮김",
+          "publisher": "포레스트",
+          "publication_year": "2022",
+          "isbn13": "9791191347685",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/28834/82/cover/k022836695_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6400482",
+          "loan_count": "27410"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682505",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "189.2",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/33562/77/cover/k882939888_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6842078",
+          "loan_count": "27267"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "피그말리온 아이들 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "창비",
+          "publication_year": "2012",
+          "isbn13": "9788936456450",
+          "addition_symbol": "43810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1767/1/cover/8936456458_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1864943",
+          "loan_count": "26859"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "스키너의 심리상자 열기:세상을 뒤바꾼 위대한 심리 실험 10장면",
+          "authors": "로렌 슬레이터 지음;조증열 옮김",
+          "publisher": "에코의서재",
+          "publication_year": "2006",
+          "isbn13": "9788995688908",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "180.733",
+          "class_nm": "철학 > 심리학 > 심리학",
+          "bookImageURL": "http://image.aladin.co.kr/product/57/14/cover/8995688904_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=961371",
+          "loan_count": "26807"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "개를 훔치는 완벽한 방법 ",
+          "authors": "바바라 오코너 지음 ;신선해 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2008",
+          "isbn13": "9788993285284",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/264/27/cover/8993285284_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2247343",
+          "loan_count": "26466"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "메타인지 학습법 :생각하는 부모가 생각하는 아이를 만든다 ",
+          "authors": "리사 손 지음",
+          "publisher": "북이십일",
+          "publication_year": "2019",
+          "isbn13": "9788950981891",
+          "addition_symbol": "03370",
+          "vol": "",
+          "class_no": "373.4",
+          "class_nm": "사회과학 > 교육학 > 학습지도, 교육방법",
+          "bookImageURL": "https://image.aladin.co.kr/product/19523/77/cover/8950981890_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5433367",
+          "loan_count": "26142"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "딸은 엄마의 감정을 먹고 자란다 :세상의 모든 딸, 엄마, 여자를 위한 자기 회복 심리학 ",
+          "authors": "박우란 지음",
+          "publisher": "유노라이프",
+          "publication_year": "2020",
+          "isbn13": "9791196997564",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "186.3",
+          "class_nm": "철학 > 심리학 > 임상심리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24518/69/cover/k372630954_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5705798",
+          "loan_count": "26125"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼 ",
+          "authors": "<어쩌다 어른> 제작팀 지음",
+          "publisher": "교보문고",
+          "publication_year": "2017",
+          "isbn13": "9791159096174",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "041",
+          "class_nm": "총류 > 일반 논문집 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3613016",
+          "loan_count": "25664"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "걱정 덜어내는 책 ",
+          "authors": "레이첼 브라이언 지음 ;노지양 옮김",
+          "publisher": "북이십일",
+          "publication_year": "2021",
+          "isbn13": "9788950995294",
+          "addition_symbol": "73330",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/27285/97/cover/8950995298_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5998893",
+          "loan_count": "25004"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "거인 부벨라와 지렁이 친구 ",
+          "authors": "조 프리드먼 글 ;지혜연 옮김",
+          "publisher": "알에이치코리아",
+          "publication_year": "2016",
+          "isbn13": "9788925559483",
+          "addition_symbol": "73840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/140/11214027.jpg?type=m1&udate=20170922",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3385997",
+          "loan_count": "24985"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "명탐정 과학 수사 파일 :과학 심리 추리 동화",
+          "authors": "황문숙 글 ;김이랑 그림",
+          "publisher": "미래엔컬처그룹",
+          "isbn13": "9788937846267",
+          "addition_symbol": "74400",
+          "vol": "1",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/296/06629663.jpg?type=m1&udate=20110829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372797",
+          "loan_count": "24757"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "프레임:나를 바꾸는 심리학의 지혜",
+          "authors": "최인철 지음",
+          "publisher": "북이십일21세기북스",
+          "publication_year": "2007",
+          "isbn13": "9788950911546",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/029/259/02925946.jpg?type=m1&udate=20130128",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2113789",
+          "loan_count": "24389"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(흔들리지 않고 끝까지 계속하게 만드는) 루틴의 힘 ",
+          "authors": "댄 애리얼리,정지호 옮김",
+          "publisher": "부키",
+          "publication_year": "2020",
+          "isbn13": "9788960517721",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/23147/73/cover/8960517720_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5591296",
+          "loan_count": "23478"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "딸아, 돈 공부 절대 미루지 마라 :돈과 인생에 대한 가장 현실적인 조언 50 ",
+          "authors": "박소연 지음",
+          "publisher": "메이븐",
+          "publication_year": "2023",
+          "isbn13": "9791190538572",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/31657/95/cover/k092833678_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6693602",
+          "loan_count": "23461"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "상처받지 않는 영혼 :내면의 자유를 위한 놓아보내기 연습 ",
+          "authors": "마이클 A. 싱어 지음 ;이균형 옮김",
+          "publisher": "라이팅하우스",
+          "publication_year": "2014",
+          "isbn13": "9788998075088",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/4030/24/cover/8998075083_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2036869",
+          "loan_count": "23026"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(학교에 간 공룡) 앨리사우루스 ",
+          "authors": "리처드 토리 글·그림 ;천미나 옮김",
+          "publisher": "책과콩나무",
+          "publication_year": "2015",
+          "isbn13": "9788994077987",
+          "addition_symbol": "77840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5369/42/cover/8994077987_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620104",
+          "loan_count": "22785"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "회복탄력성 =시련을 행운으로 바꾸는 마음 근력의 힘 /Resilience ",
+          "authors": "김주환 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2019",
+          "isbn13": "9791189938772",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/18754/45/cover/k522635176_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5385913",
+          "loan_count": "22774"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "질서 너머 :인생의 다음 단계로 나아가는 12가지 법칙 ",
+          "authors": "조던 피터슨 지음 ;김한영 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2021",
+          "isbn13": "9788901249599",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/26665/73/cover/8901249596_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5938597",
+          "loan_count": "22250"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마음의 지혜 :내 삶의 기준이 되는 8가지 심리학 ",
+          "authors": "김경일 지음",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625508",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "189.1",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/31672/72/cover/k792833671_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6693827",
+          "loan_count": "22082"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "명탐정 과학 수사 파일 :과학 심리 추리 동화",
+          "authors": "황문숙 글 ;김이랑 그림",
+          "publisher": "미래엔컬처그룹",
+          "isbn13": "9788937846274",
+          "addition_symbol": "74400",
+          "vol": "2",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/793/06679322.jpg?type=m1&udate=20110829",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372798",
+          "loan_count": "21899"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이토록 뜻밖의 뇌과학 :뇌가 당신에 관해 말할 수 있는 7과 1/2가지 진실 ",
+          "authors": "리사 펠드먼 배럿 지음 ;변지영 옮김",
+          "publisher": "길벗",
+          "publication_year": "2021",
+          "isbn13": "9791165215842",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "511.1813",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27606/41/cover/k922733927_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6060924",
+          "loan_count": "21813"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "마흔에게 :기시미 이치로의 다시 살아갈 용기에 대하여 ",
+          "authors": "기시미 이치로 지음 ;전경아 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2018",
+          "isbn13": "9791130619309",
+          "addition_symbol": "03190",
+          "vol": "",
+          "class_no": "199.7",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "http://image.aladin.co.kr/product/16933/4/cover/k972534371_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3917087",
+          "loan_count": "21700"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아무것도 하지 않으면 아무 일도 일어나지 않는다 :인생의 판을 뒤집는 아들러의 가르침 ",
+          "authors": "기시미 이치로 지음 ;전경아 옮김",
+          "publisher": "살림",
+          "publication_year": "2016",
+          "isbn13": "9788952235107",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/657/11165780.jpg?type=m1&udate=20180714",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3355594",
+          "loan_count": "21351"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "미움받아도 괜찮아 :어린이를 위한 용기의 심리학 ",
+          "authors": "황재연 지음 ;김완진 그림",
+          "publisher": "인플루엔셜",
+          "publication_year": "2017",
+          "isbn13": "9791186560396",
+          "addition_symbol": "73180",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/10823/20/cover/k422530550_4.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3434317",
+          "loan_count": "21193"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "심리학이 이렇게 쓸모 있을 줄이야 ",
+          "authors": "류쉬안 지음 ;원녕경 옮김",
+          "publisher": "다연",
+          "publication_year": "2018",
+          "isbn13": "9791187962540",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/140/077/14007772.jpg?type=m1&udate=20180911",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3901908",
+          "loan_count": "21160"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "행복해질 용기 ",
+          "authors": "기시미 이치로 지음 ;이용택 옮김",
+          "publisher": "더좋은책",
+          "publication_year": "2015",
+          "isbn13": "9788998015121",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "http://image.aladin.co.kr/product/6282/99/cover/8998015129_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2626218",
+          "loan_count": "21081"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "사이코패스는 일상의 그늘에 숨어 지낸다 :범죄심리학자 이수정과 프로파일러 김경옥의 프로파일링 노트 ",
+          "authors": "지은이: 이수정,김경옥",
+          "publisher": "제이콘텐트리 엠앤비",
+          "publication_year": "2016",
+          "isbn13": "9788964562222",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "364.45",
+          "class_nm": "사회과학 > 법학 > 형법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/967/11296737.jpg?type=m1&udate=20180619",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3389923",
+          "loan_count": "20731"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "나이듦 수업 :중년 이후, 존엄한 인생 2막을 위하여 ",
+          "authors": "지은이: 고미숙,유경",
+          "publisher": "서해문집",
+          "publication_year": "2016",
+          "isbn13": "9788974837662",
+          "addition_symbol": "03330",
+          "vol": "",
+          "class_no": "199.7",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "http://image.aladin.co.kr/product/7470/37/cover/8974837668_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3111542",
+          "loan_count": "20315"
+        }
+      }
+    ]
+  }
+}

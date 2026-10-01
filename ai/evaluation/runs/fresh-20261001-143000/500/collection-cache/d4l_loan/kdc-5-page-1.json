@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "5",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983079",
+          "addition_symbol": "74400",
+          "vol": "1",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/20460/37/cover/8950983079_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5467174",
+          "loan_count": "94277"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937883286",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/600/06760061.jpg?type=m1&udate=20120223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373766",
+          "loan_count": "90508"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937883293",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/308/06830887.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373767",
+          "loan_count": "90222"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899232",
+          "addition_symbol": "77400",
+          "vol": "13",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/5524/86/cover/893789923x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430581",
+          "loan_count": "88124"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937883309",
+          "addition_symbol": "77400",
+          "vol": "3",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/069/524/06952498.jpg?type=m1&udate=20120628",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373768",
+          "loan_count": "87338"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937883316",
+          "addition_symbol": "77400",
+          "vol": "4",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/070/429/07042981.jpg?type=m1&udate=20121101",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373769",
+          "loan_count": "87269"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937884962",
+          "addition_symbol": "77400",
+          "vol": "7",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/3070/59/cover/8937884968_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2441310",
+          "loan_count": "87027"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937884931",
+          "addition_symbol": "77400",
+          "vol": "6",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/221/07222185.jpg?type=m1&udate=20130610",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373771",
+          "loan_count": "86592"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "못 참는 아이 욱하는 부모 :분노조절장애의 시대를 사는 대한민국 부모에게 주는 육아 멘토 오은영 박사의 감정 조절 육아법 ",
+          "authors": "오은영 지음",
+          "publisher": "대성 Korea.com",
+          "publication_year": "2016",
+          "isbn13": "9788997396658",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "http://image.aladin.co.kr/product/8207/85/cover/899739665x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3145556",
+          "loan_count": "86111"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983086",
+          "addition_symbol": "74400",
+          "vol": "2",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/22179/56/cover/8950983087_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5547283",
+          "loan_count": "85809"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937883323",
+          "addition_symbol": "77400",
+          "vol": "5",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/071/396/07139648.jpg?type=m1&udate=20130205",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373770",
+          "loan_count": "85221"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899249",
+          "addition_symbol": "77400",
+          "vol": "14",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/6195/65/cover/8937899248_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647521",
+          "loan_count": "84564"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899225",
+          "addition_symbol": "77400",
+          "vol": "12",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/5046/75/cover/8937899221_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430580",
+          "loan_count": "83549"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937884993",
+          "addition_symbol": "77400",
+          "vol": "8",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/790/07379082.jpg?type=m1&udate=20131205",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2378504",
+          "loan_count": "83119"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899218",
+          "addition_symbol": "77400",
+          "vol": "11",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/4671/68/cover/8937899213_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430430",
+          "loan_count": "83042"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899010",
+          "addition_symbol": "77400",
+          "vol": "9",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/3868/52/cover/8937899019_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430425",
+          "loan_count": "82640"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899027",
+          "addition_symbol": "77400",
+          "vol": "10",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/4271/73/cover/8937899027_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430426",
+          "loan_count": "82017"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937899256",
+          "addition_symbol": "77400",
+          "vol": "15",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/095/954/09595496.jpg?type=m1&udate=20150923",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2869272",
+          "loan_count": "81673"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983093",
+          "addition_symbol": "74400",
+          "vol": "3",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/23727/62/cover/8950983095_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5649283",
+          "loan_count": "80317"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937837531",
+          "addition_symbol": "77400",
+          "vol": "17",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/8079/59/cover/8937837536_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3137814",
+          "loan_count": "80164"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937838378",
+          "addition_symbol": "77400",
+          "vol": "18",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/107/697/10769768.jpg?type=m1&udate=20160629",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3186302",
+          "loan_count": "77886"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791189938352",
+          "addition_symbol": "74900",
+          "vol": "1",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/18683/85/cover/k332635564_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5381796",
+          "loan_count": "77529"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937838385",
+          "addition_symbol": "77400",
+          "vol": "19",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/246/11124668.jpg?type=m1&udate=20160928",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3353062",
+          "loan_count": "74871"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937819209",
+          "addition_symbol": "77400",
+          "vol": "16",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/7232/21/cover/8937819201_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3105256",
+          "loan_count": "73601"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983109",
+          "addition_symbol": "74400",
+          "vol": "4",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24794/70/cover/8950983109_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5732417",
+          "loan_count": "72798"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937838392",
+          "addition_symbol": "77400",
+          "vol": "20",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/9898/95/cover/8937838397_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3404640",
+          "loan_count": "72417"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190182522",
+          "addition_symbol": "74900",
+          "vol": "2",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/20064/6/cover/k912635243_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5456009",
+          "loan_count": "71653"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "authors": "글: 오은영 ;그림: 차상미",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934986652",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://image.aladin.co.kr/product/25313/30/cover/8934986654_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5778286",
+          "loan_count": "71037"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937889783",
+          "addition_symbol": "77400",
+          "vol": "21",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "http://image.aladin.co.kr/product/10597/41/cover/8937889781_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3423925",
+          "loan_count": "70323"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190305891",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/21713/69/cover/k712636807_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5528392",
+          "loan_count": "69299"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190630016",
+          "addition_symbol": "74900",
+          "vol": "4",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/23419/61/cover/k672638381_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5602232",
+          "loan_count": "66553"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957361900",
+          "addition_symbol": "74510",
+          "vol": "1",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/180/322/18032266.jpg?type=m1&udate=20210413",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5616493",
+          "loan_count": "66292"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9788937857379",
+          "addition_symbol": "77400",
+          "vol": "22",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/11745/7/cover/8937857375_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3605310",
+          "loan_count": "65590"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983116",
+          "addition_symbol": "74400",
+          "vol": "5",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25732/69/cover/8950983117_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5824001",
+          "loan_count": "64559"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791162334041",
+          "addition_symbol": "77400",
+          "vol": "23",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/130/082/13008249.jpg?type=m1&udate=20171221",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3677411",
+          "loan_count": "64251"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791162334898",
+          "addition_symbol": "77400",
+          "vol": "24",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/135/424/13542477.jpg?type=m1&udate=20180418",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3742517",
+          "loan_count": "63133"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190786805",
+          "addition_symbol": "74900",
+          "vol": "5",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/24300/14/cover/k022630881_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5691254",
+          "loan_count": "62952"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983123",
+          "addition_symbol": "74400",
+          "vol": "6",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/26980/20/cover/8950983125_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5963674",
+          "loan_count": "59743"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791162337479",
+          "addition_symbol": "77400",
+          "vol": "25",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/139/434/13943427.jpg?type=m1&udate=20180822",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3871521",
+          "loan_count": "58210"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791190908948",
+          "addition_symbol": "74900",
+          "vol": "6",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/25364/85/cover/k632633711_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5781081",
+          "loan_count": "57283"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164130399",
+          "addition_symbol": "77400",
+          "vol": "27",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/18447/47/cover/k182534350_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5373297",
+          "loan_count": "57216"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164131662",
+          "addition_symbol": "77400",
+          "vol": "28",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/19440/75/cover/k082635514_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5429557",
+          "loan_count": "57068"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791162339176",
+          "addition_symbol": "77400",
+          "vol": "26",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/17522/79/cover/k872534308_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5246852",
+          "loan_count": "56963"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "어디서 살 것인가우리가 살고 싶은 곳의 기준을 바꾸다",
+          "authors": "유현준 지음",
+          "publisher": "부산일보사",
+          "publication_year": "2018",
+          "isbn13": "9788932473802",
+          "addition_symbol": "03540",
+          "vol": "",
+          "class_no": "540.04",
+          "class_nm": "기술과학 > 건축공학 > 건축공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/14799/66/cover/8932473803_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3760231",
+          "loan_count": "56833"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164132553",
+          "addition_symbol": "77400",
+          "vol": "29",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/20861/30/cover/k072636971_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5479973",
+          "loan_count": "55088"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983130",
+          "addition_symbol": "74400",
+          "vol": "7",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27924/83/cover/8950983133_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6287204",
+          "loan_count": "55081"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "백년 허리 :허리 보증 기간을 100년으로 늘리는 방법 ",
+          "authors": "지은이: 정선근",
+          "publisher": "사이언스북스",
+          "publication_year": "2015",
+          "isbn13": "9788983717573",
+          "addition_symbol": "03510",
+          "vol": "",
+          "class_no": "514.325",
+          "class_nm": "기술과학 > 의학 > 외과",
+          "bookImageURL": "http://image.aladin.co.kr/product/7460/54/cover/8983717572_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3111489",
+          "loan_count": "54602"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164134359",
+          "addition_symbol": "77080",
+          "vol": "30",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/22900/9/cover/k532636944_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5585204",
+          "loan_count": "54146"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "엄마의 말하기 연습 :화내지 않고 상처 주지 않고 진심을 전하는 ",
+          "authors": "박재연 지음",
+          "publisher": "한빛라이프",
+          "publication_year": "2018",
+          "isbn13": "9791188007134",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "http://image.aladin.co.kr/product/13536/68/cover/k642532819_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3702937",
+          "loan_count": "53382"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "침묵의 봄 ",
+          "authors": "지은이: 레이첼 카슨 ;옮긴이: 김은령",
+          "publisher": "에코리브르",
+          "publication_year": "2011",
+          "isbn13": "9788962630619",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "539.9",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/068/001/06800163.jpg?type=m1&udate=20180206",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1229269",
+          "loan_count": "52846"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983147",
+          "addition_symbol": "74400",
+          "vol": "8",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28540/48/cover/8950983141_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6365950",
+          "loan_count": "52666"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164135189",
+          "addition_symbol": "77400",
+          "vol": "31",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/24741/0/cover/k452631612_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5729214",
+          "loan_count": "52032"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957361993",
+          "addition_symbol": "74510",
+          "vol": "3",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/206/490/20649051.jpg?type=m1&udate=20210618",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=351971",
+          "loan_count": "51939"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "(백종원의) 도전 요리왕 :음식으로 맛보는 세계 역사 문화 체험 ",
+          "authors": "글: 백종원,그림: 이정태",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791191425758",
+          "addition_symbol": "74900",
+          "vol": "7",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://image.aladin.co.kr/product/26994/10/cover/k092730728_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5965638",
+          "loan_count": "50466"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957362020",
+          "addition_symbol": "74510",
+          "vol": "4",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27923/21/cover/8957362029_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6288690",
+          "loan_count": "49525"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090200",
+          "addition_symbol": "74510",
+          "vol": "6",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29010/36/cover/k932836528_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6417153",
+          "loan_count": "47774"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983154",
+          "addition_symbol": "74400",
+          "vol": "9",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29528/51/cover/895098315x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468028",
+          "loan_count": "47320"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "골든아워 :생과 사의 경계, 중증외상센터의 기록 ",
+          "authors": "지은이: 이국종",
+          "publisher": "흐름출판",
+          "publication_year": "2018",
+          "isbn13": "9788965962823",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "510.4",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/16891/57/cover/896596282x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3915352",
+          "loan_count": "46518"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9788957362037",
+          "addition_symbol": "74510",
+          "vol": "5",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28310/20/cover/8957362037_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6337498",
+          "loan_count": "46486"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Why? 장애와 과학 ",
+          "authors": "글: 남춘자 ;만화: 김성래",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930206761",
+          "addition_symbol": "73500",
+          "vol": "56",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/257/07325706.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1985068",
+          "loan_count": "45856"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Why? 해부학 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930206778",
+          "addition_symbol": "73490",
+          "vol": "55",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/522/07252261.jpg?type=m1&udate=20150715",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1957691",
+          "loan_count": "45698"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "내가 조금 불편하면 세상은 초록이 돼요 :지구를 지키는 어린이들의 환경 실천법 50 ",
+          "authors": "김소희 글 ;정은희 그림",
+          "publisher": "토토북",
+          "publication_year": "2009",
+          "isbn13": "9788990611734",
+          "addition_symbol": "73530",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/347/49/cover/8990611733_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2286789",
+          "loan_count": "44909"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "우울할 땐 뇌과학 ",
+          "authors": "앨릭스 코브 지음 ;정지인 옮김",
+          "publisher": "푸른숲",
+          "publication_year": "2018",
+          "isbn13": "9791156757344",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "513.8525",
+          "class_nm": "기술과학 > 의학 > 내과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/13494/71/cover/k052532504_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3701387",
+          "loan_count": "44481"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164136865",
+          "addition_symbol": "77400",
+          "vol": "32",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/25678/75/cover/k282735247_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5818575",
+          "loan_count": "44280"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "Why? 동물 의학 ",
+          "authors": "글: 주성윤 ;만화: 문정완",
+          "publisher": "예림당",
+          "publication_year": "2016",
+          "isbn13": "9788930219501",
+          "addition_symbol": "74400",
+          "vol": "66",
+          "class_no": "528",
+          "class_nm": "기술과학 > 농업, 농학 > 수의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/106/884/10688486.jpg?type=m1&udate=20160712",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3169031",
+          "loan_count": "43695"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983161",
+          "addition_symbol": "74400",
+          "vol": "10",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30295/68/cover/8950983168_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6574054",
+          "loan_count": "43393"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Why? 과학수사 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930206723",
+          "addition_symbol": "73400",
+          "vol": "51",
+          "class_no": "517",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/1112/16/cover/8930206727_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1158274",
+          "loan_count": "42983"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164137633",
+          "addition_symbol": "77400",
+          "vol": "33",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/26746/40/cover/k242730481_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5947324",
+          "loan_count": "42369"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "Why? 드론 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2016",
+          "isbn13": "9788930219679",
+          "addition_symbol": "74400",
+          "vol": "70",
+          "class_no": "559",
+          "class_nm": "기술과학 > 기계공학 > 기타 공학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/112/667/11266731.jpg?type=m1&udate=20161124",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3387522",
+          "loan_count": "42299"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "엄마 수업 :법륜 스님이 들려주는 우리 아이 지혜롭게 키우는 법 ",
+          "authors": "법륜 지음 ;이순형 그림",
+          "publisher": "한겨례출판",
+          "publication_year": "2011",
+          "isbn13": "9788984315112",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/454/06745420.jpg?type=m1&udate=20180511",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1205983",
+          "loan_count": "41986"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "식객 1 - 맛의 시작",
+          "authors": "허영만",
+          "publisher": "김영사",
+          "publication_year": "2003",
+          "isbn13": "9788934926467",
+          "addition_symbol": "07810",
+          "vol": "1",
+          "class_no": "594.51",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/032/914/03291400.jpg?type=m1&udate=20130130",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373182",
+          "loan_count": "41582"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현",
+          "publisher": "Mirae N 아이세움",
+          "publication_year": "2011",
+          "isbn13": "9791164138234",
+          "addition_symbol": "77400",
+          "vol": "34",
+          "class_no": "507.5",
+          "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+          "bookImageURL": "https://image.aladin.co.kr/product/27644/9/cover/k832733229_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6063480",
+          "loan_count": "41510"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090217",
+          "addition_symbol": "74510",
+          "vol": "7",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29523/27/cover/k522837347_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468894",
+          "loan_count": "40807"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950949778",
+          "addition_symbol": "74400",
+          "vol": "11",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31358/71/cover/8950949776_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6659927",
+          "loan_count": "40356"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "미세먼지에서 살아남기 =Survival from fine dust ",
+          "authors": "글: 달콤팩토리 ;그림: 한현동",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937899287",
+          "addition_symbol": "77470",
+          "vol": "43",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/4478/12/cover/8937899280_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431538",
+          "loan_count": "40170"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090224",
+          "addition_symbol": "74510",
+          "vol": "8",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/29809/38/cover/k652838211_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6520171",
+          "loan_count": "39580"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "식객 2 - 진수성찬을 차려라",
+          "authors": "허영만",
+          "publisher": "김영사",
+          "publication_year": "2007",
+          "isbn13": "9788934926474",
+          "addition_symbol": "07810",
+          "vol": "2",
+          "class_no": "594.51",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/031/172/03117214.jpg?type=m1&udate=20150716",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373183",
+          "loan_count": "39556"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "토깽이네 지구 구출 대작전",
+          "authors": "원작: 토깽이네 ;그림: 양선모",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2021",
+          "isbn13": "9791191583212",
+          "addition_symbol": "77470",
+          "vol": "1",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/197/161/19716117.jpg?type=m1&udate=20210423",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5967570",
+          "loan_count": "39519"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "(존 가트맨·최성애 박사의) 내 아이를 위한 감정코칭 ",
+          "authors": "지은이: 존 가트맨,조벽",
+          "publisher": "한국경제신문 한경BP",
+          "publication_year": "2011",
+          "isbn13": "9788947527897",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "http://image.aladin.co.kr/product/866/1/cover/8947527890_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1139228",
+          "loan_count": "39370"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090743",
+          "addition_symbol": "74510",
+          "vol": "11",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31064/81/cover/k092831526_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6638934",
+          "loan_count": "39137"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090231",
+          "addition_symbol": "74510",
+          "vol": "9",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30200/10/cover/k362839391_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6566535",
+          "loan_count": "39110"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Why? 똥 ",
+          "authors": "글: 허순봉 ;만화: 송회석",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930202497",
+          "addition_symbol": "74530",
+          "vol": "20",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/716/74/cover/8930202497_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1148659",
+          "loan_count": "39017"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "아이를 위한 하루 한 줄 인문학 :내면의 힘이 탄탄한 아이를 만드는 인생 문장 100 ",
+          "authors": "김종원 지음",
+          "publisher": "청림출판",
+          "publication_year": "2018",
+          "isbn13": "9791188700288",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://image.aladin.co.kr/product/17533/6/cover/k632534304_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5246875",
+          "loan_count": "38596"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "내일은 로봇왕 :본격 대결 과학로봇 만화",
+          "authors": "글: 포도알친구 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937892059",
+          "addition_symbol": "77400",
+          "vol": "1",
+          "class_no": "559",
+          "class_nm": "기술과학 > 기계공학 > 기타 공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11042/97/cover/8937892057_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3443883",
+          "loan_count": "38459"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090248",
+          "addition_symbol": "74510",
+          "vol": "10",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/30609/34/cover/k112830619_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6599908",
+          "loan_count": "38392"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "(허영만의) 커피 한잔 할까요? ",
+          "authors": "허영만 글·그림 ;이호준 글",
+          "publisher": "위즈덤하우스",
+          "publication_year": "",
+          "isbn13": "9788959139163",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "573.93",
+          "class_nm": "기술과학 > 화학공학 > 음료기술",
+          "bookImageURL": "http://image.aladin.co.kr/product/5671/86/cover/8959139165_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646508",
+          "loan_count": "38306"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "(KBS 위기탈출) 넘버원",
+          "authors": "구성: 에듀코믹 ;원 프로덕션",
+          "publisher": "밝은미래",
+          "publication_year": "2006",
+          "isbn13": "9788995690253",
+          "addition_symbol": "77810",
+          "vol": "1",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/64/61/cover/8995690259_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2090517",
+          "loan_count": "37998"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "내일은 로봇왕 :본격 대결 과학로봇 만화",
+          "authors": "글: 포도알친구 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937892073",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "559",
+          "class_nm": "기술과학 > 기계공학 > 기타 공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11246/10/cover/8937892073_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3456803",
+          "loan_count": "37737"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "Why? 수면 과학 ",
+          "authors": "글: 조영선 ;그림: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930206860",
+          "addition_symbol": "74400",
+          "vol": "60",
+          "class_no": "517",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6052/6/cover/8930206867_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2621995",
+          "loan_count": "37724"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+          "authors": "저자: 정선근",
+          "publisher": "언탱글링",
+          "publication_year": "2021",
+          "isbn13": "9791197437311",
+          "addition_symbol": "03510",
+          "vol": "2",
+          "class_no": "514.325",
+          "class_nm": "기술과학 > 의학 > 외과",
+          "bookImageURL": "https://image.aladin.co.kr/product/27124/76/cover/k272731146_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5973269",
+          "loan_count": "37585"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "식객 3 - 소고기 전쟁",
+          "authors": "허영만",
+          "publisher": "김영사",
+          "publication_year": "2003",
+          "isbn13": "9788934926481",
+          "addition_symbol": "07810",
+          "vol": "3",
+          "class_no": "594.51",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/031/172/03117215.jpg?type=m1&udate=20150603",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373184",
+          "loan_count": "37429"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "92",
+          "bookname": "토깽이네 지구 구출 대작전",
+          "authors": "원작: 토깽이네 ;그림: 양선모",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2021",
+          "isbn13": "9791168120143",
+          "addition_symbol": "77470",
+          "vol": "2",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/28091/97/cover/k182734941_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6315292",
+          "loan_count": "37367"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "라면을 먹으면 숲이 사라져 ",
+          "authors": "최원형 글 ;이시누 그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158362072",
+          "addition_symbol": "74530",
+          "vol": "",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25373/61/cover/k552633819_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5781851",
+          "loan_count": "37154"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "골든아워 :생과 사의 경계, 중증외상센터의 기록 ",
+          "authors": "지은이: 이국종",
+          "publisher": "흐름출판",
+          "publication_year": "2018",
+          "isbn13": "9788965962830",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "510.4",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/16891/58/cover/8965962838_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3915351",
+          "loan_count": "37007"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "마녀체력 :마흔, 여자가 체력을 키워야 할 때 ",
+          "authors": "이영미 지음",
+          "publisher": "남해의봄날",
+          "publication_year": "2018",
+          "isbn13": "9791185823270",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "517.3",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "http://image.aladin.co.kr/product/14646/34/cover/k192532757_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3754422",
+          "loan_count": "36433"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "요리스타 청",
+          "authors": "조재호 글 ;은하수 그림",
+          "publisher": "김영사",
+          "publication_year": "2013",
+          "isbn13": "9788934965275",
+          "addition_symbol": "17590",
+          "vol": "1",
+          "class_no": "594",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+          "bookImageURL": "http://image.aladin.co.kr/product/3342/51/cover/8934965274_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2427250",
+          "loan_count": "36234"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "Why? 위험 물질 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2016",
+          "isbn13": "9788930219532",
+          "addition_symbol": "74400",
+          "vol": "67",
+          "class_no": "539",
+          "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8693/97/cover/8930219535_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3239517",
+          "loan_count": "36174"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "백년운동 :척추·관절 아프지 않게 100세까지 운동하는 방법 ",
+          "authors": "저자: 정선근",
+          "publisher": "아티잔",
+          "publication_year": "2019",
+          "isbn13": "9791196834005",
+          "addition_symbol": "03470",
+          "vol": "",
+          "class_no": "517.32",
+          "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/21648/31/cover/k812636693_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5524225",
+          "loan_count": "36145"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "의사 어벤저스 :어린이 의학 동화",
+          "authors": "글: 고희정 ;그림: 조승연",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2021",
+          "isbn13": "9791168090750",
+          "addition_symbol": "74510",
+          "vol": "12",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/31327/46/cover/k652832791_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6657898",
+          "loan_count": "35855"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "(허영만의) 커피 한잔 할까요? ",
+          "authors": "허영만 글·그림 ;이호준 글",
+          "publisher": "위즈덤하우스",
+          "publication_year": "",
+          "isbn13": "9788959139583",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "573.93",
+          "class_nm": "기술과학 > 화학공학 > 음료기술",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/095/104/09510469.jpg?type=m1&udate=20150827",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2397016",
+          "loan_count": "35387"
+        }
+      }
+    ]
+  }
+}

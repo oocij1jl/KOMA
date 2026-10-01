@@ -1,0 +1,816 @@
+{
+  "response": {
+    "request": {
+      "keyword": "경제",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 5618,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2014",
+          "isbn13": "9788994120966",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396928",
+          "loan_count": "127774"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/24191/64/cover/k562639753_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5678862",
+          "loan_count": "122452"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "authors": "채사장 지음",
+          "publisher": "한빛비즈",
+          "publication_year": "2015",
+          "isbn13": "9788994120997",
+          "addition_symbol": "13100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/086/571/08657103.jpg?type=m1&udate=20171111",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396939",
+          "loan_count": "112034"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Go go 카카오프렌즈 :세계 역사 문화 체험 학습만화",
+          "authors": "글: 김미영 ;정보글: 최은하",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2018",
+          "isbn13": "9788950977405",
+          "addition_symbol": "74900",
+          "vol": "4",
+          "class_no": "980.2",
+          "class_nm": "역사 > 지리 > 지리",
+          "bookImageURL": "https://image.aladin.co.kr/product/16831/53/cover/8950977400_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3902011",
+          "loan_count": "105333"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부의 추월차선 :부자들이 말해 주지 않는 진정한 부를 얻는 방법 ",
+          "authors": "엠제이 드마코 지음 ;신소영 옮김",
+          "publisher": "북새통",
+          "publication_year": "2013",
+          "isbn13": "9788994702346",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/907/07290748.jpg?type=m1&udate=20130828",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1967528",
+          "loan_count": "91513"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744023",
+          "addition_symbol": "04810",
+          "vol": "1",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242056.jpg?type=m1&udate=20180717",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373845",
+          "loan_count": "89808"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2013",
+          "isbn13": "9788957365793",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "322.01",
+          "class_nm": "사회과학 > 경제학 > 경제정책",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/148/07314866.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1975179",
+          "loan_count": "78937"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지리의 힘 :지리는 어떻게 개인의 운명을, 세계사를, 세계 경제를 좌우하는가 ",
+          "authors": "지은이: 팀 마샬 ;옮긴이: 김미선",
+          "publisher": "사이",
+          "publication_year": "2016",
+          "isbn13": "9788993178692",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "340.98",
+          "class_nm": "사회과학 > 정치학 > 정치학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8864/8/cover/8993178690_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3265201",
+          "loan_count": "74177"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "호모 데우스 :미래의 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934977841",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "331.544",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/10044/18/cover/8934977841_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435577",
+          "loan_count": "68876"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744030",
+          "addition_symbol": "04810",
+          "vol": "2",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242057.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373846",
+          "loan_count": "66329"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "세금 내는 아이들 ",
+          "authors": "옥효진 글 ;김미연 그림",
+          "publisher": "한경BP",
+          "publication_year": "2021",
+          "isbn13": "9788947547260",
+          "addition_symbol": "73320",
+          "vol": "",
+          "class_no": "327",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/27324/68/cover/8947547263_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6002590",
+          "loan_count": "63298"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정글만리 :조정래 장편소설",
+          "authors": "저자: 조정래",
+          "publisher": "해냄출판사",
+          "publication_year": "2013",
+          "isbn13": "9788965744047",
+          "addition_symbol": "04810",
+          "vol": "3",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/420/07242058.jpg?type=m1&udate=20180314",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2373847",
+          "loan_count": "62870"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자언니 부자특강 :평범한 월급쟁이 부자되는 공식 ",
+          "authors": "유수진 지음",
+          "publisher": "세종서적",
+          "publication_year": "2015",
+          "isbn13": "9788984074835",
+          "addition_symbol": "13320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/5720/88/cover/8984074837_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2431964",
+          "loan_count": "55735"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578427",
+          "addition_symbol": "74900",
+          "vol": "2",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/28568/80/cover/k852835146_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6369830",
+          "loan_count": "54269"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대가족의) 응답하라 짠돌이 시대 ",
+          "authors": "글: 스토리박스 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2016",
+          "isbn13": "9788960243811",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8340/51/cover/8960243817_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3158449",
+          "loan_count": "51851"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(50대 사건으로 보는) 돈의 역사 =The history of money ",
+          "authors": "홍춘욱 지음",
+          "publisher": "Rok Media(로크미디어)",
+          "publication_year": "2019",
+          "isbn13": "9791135422225",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.209",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/18961/78/cover/k502635582_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5398899",
+          "loan_count": "51815"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 냉장고를 부탁해 :대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜 ",
+          "authors": "글: 스토리박스 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2015",
+          "isbn13": "9788960243781",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7212/81/cover/8960243787_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3118536",
+          "loan_count": "51376"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "authors": "글: 스토리 a. ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2021",
+          "isbn13": "9791164138951",
+          "addition_symbol": "77400",
+          "vol": "01",
+          "class_no": "400",
+          "class_nm": "자연과학 > 자연과학 > 자연과학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27838/90/cover/k802734783_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6085199",
+          "loan_count": "49173"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 절약 삼시세끼 ",
+          "authors": "글: 스토리박스 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2015",
+          "isbn13": "9788960243729",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6515/72/cover/8960243728_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2647560",
+          "loan_count": "48232"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오사카에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937857942",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/953/12495374.jpg?type=m1&udate=20171012",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3541428",
+          "loan_count": "47285"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부의 시나리오 :불확실성을 기회로 만드는 4가지 투자전략 ",
+          "authors": "오건영 지음",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2021",
+          "isbn13": "9791190977265",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.8",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/27216/92/cover/k342732290_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5986932",
+          "loan_count": "46598"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578434",
+          "addition_symbol": "74900",
+          "vol": "3",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/29282/23/cover/k692837906_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6446082",
+          "loan_count": "46549"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자언니 부자연습 :가난한 공주 부자되기 프로젝트 ",
+          "authors": "유수진 지음",
+          "publisher": "세종서적",
+          "publication_year": "2017",
+          "isbn13": "9788984076266",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/10951/42/cover/8984076260_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3440202",
+          "loan_count": "44237"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(빈대 가족의) 생활의 달인 ",
+          "authors": "글: 이봉기 ;그림: 류수형",
+          "publisher": "재미북스",
+          "publication_year": "2015",
+          "isbn13": "9788960243446",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5497/97/cover/8960243442_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2646413",
+          "loan_count": "43719"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "상하이에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937891731",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/10833/58/cover/8937891735_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3435746",
+          "loan_count": "42712"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 가난 탈출기 - 짠돌이들에게 배우는 경제 지혜!",
+          "authors": "이룸 (지은이), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243453",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5945/82/cover/8960243450_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2792848",
+          "loan_count": "41734"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "구해줘 카카오프렌즈 :경제",
+          "authors": "글: 한유진,스토리: 강민희",
+          "publisher": "메가스터디books",
+          "publication_year": "2020",
+          "isbn13": "9791129706683",
+          "addition_symbol": "64910",
+          "vol": "1",
+          "class_no": "320",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "https://image.aladin.co.kr/product/25659/55/cover/k412735248_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5816074",
+          "loan_count": "41546"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부의 대이동 :달러와 금의 흐름으로 읽는 미래 투자 전략 ",
+          "authors": "오건영 지음",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2020",
+          "isbn13": "9791196831080",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "327.8",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/24607/53/cover/k922631278_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5708822",
+          "loan_count": "41381"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "시민의 교양 :지금, 여기, 보통 사람들을 위한 현실 인문학 ",
+          "authors": "채사장 지음",
+          "publisher": "Whale books(웨일북)",
+          "publication_year": "2015",
+          "isbn13": "9791195677108",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/16591/67/cover/k312533955_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3103064",
+          "loan_count": "41210"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어린이 사회 형사대 CSI",
+          "authors": "글: 고희정 ;김준영",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2015",
+          "isbn13": "9788957367100",
+          "addition_symbol": "74300",
+          "vol": "2",
+          "class_no": "300",
+          "class_nm": "사회과학 > 사회과학 > 사회과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5703/33/cover/8957367101_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2620638",
+          "loan_count": "40880"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578441",
+          "addition_symbol": "74900",
+          "vol": "4",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/29958/47/cover/k132838145_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6542153",
+          "loan_count": "40666"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "authors": "채사장 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2020",
+          "isbn13": "9791190313186",
+          "addition_symbol": "03100",
+          "vol": "1",
+          "class_no": "001.3",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "https://image.aladin.co.kr/product/22872/79/cover/k992636841_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5584764",
+          "loan_count": "40559"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 일본 ",
+          "authors": "글: 전재운 ;그림: 최병국",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930200936",
+          "addition_symbol": "73910",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/506/06750672.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1207724",
+          "loan_count": "40403"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "터키에서 보물찾기",
+          "authors": "글: 곰돌이 co.;그림: 강경효",
+          "publisher": "대한교과서",
+          "publication_year": "2007",
+          "isbn13": "9788937842009",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "918.7",
+          "class_nm": "역사 > 아시아(아세아) > 서남아시아, 중동",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/029/251/02925167.jpg?type=m1&udate=20120622",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372815",
+          "loan_count": "40246"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 천원으로 살아남기 - 대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜",
+          "authors": "이봉기 (글), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243682",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6210/71/cover/896024368x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2792857",
+          "loan_count": "40164"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "인도에서 보물찾기",
+          "authors": "곰돌이 co. 글;강경효 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2004",
+          "isbn13": "9788937813597",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "915",
+          "class_nm": "역사 > 아시아(아세아) > 인도)",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/014/689/01468983.jpg?type=m1&udate=20130704",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372805",
+          "loan_count": "39814"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "부자 아빠 가난한 아빠 =부자들이 들려주는 돈 관리 7가지 방법.Rich dad poor dad ",
+          "authors": "로버트 기요사키,형선호 옮김",
+          "publisher": "황금가지",
+          "publication_year": "2000",
+          "isbn13": "9788982732508",
+          "addition_symbol": "03320",
+          "vol": "2",
+          "class_no": "327.04",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "http://image.aladin.co.kr/product/9919/37/cover/k842536968_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=304883",
+          "loan_count": "39429"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 미국 ",
+          "authors": "글: 남춘자 ;그림: 크레파스",
+          "publisher": "예림당",
+          "publication_year": "2011",
+          "isbn13": "9788930200929",
+          "addition_symbol": "73940",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/919/6/cover/8930200923_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1152384",
+          "loan_count": "38997"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 절약 1박 2일 - 대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜",
+          "authors": "이봉기 (글), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243439",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5489/7/cover/8960243434_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2792847",
+          "loan_count": "38732"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "클라우스 슈밥의 제4차 산업혁명 ",
+          "authors": "클라우스 슈밥 지음 ;송경진 옮김",
+          "publisher": "메가스터디",
+          "publication_year": "2016",
+          "isbn13": "9788962805901",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "331.5412",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/8099/96/cover/8962805901_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3138864",
+          "loan_count": "38605"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "남북한 시대 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937839924",
+          "addition_symbol": "77910",
+          "vol": "",
+          "class_no": "911.07",
+          "class_nm": "역사 > 아시아(아세아) > 한국",
+          "bookImageURL": "http://image.aladin.co.kr/product/10346/95/cover/893783992x_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3416078",
+          "loan_count": "38419"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "명견만리 :우리가 준비해야 할 미래의 기회를 말하다",
+          "authors": "KBS <명견만리> 제작팀 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2016",
+          "isbn13": "9791186560204",
+          "addition_symbol": "04320",
+          "vol": "",
+          "class_no": "331.544",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+          "bookImageURL": "http://image.aladin.co.kr/product/9028/40/cover/k292535907_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3307572",
+          "loan_count": "38366"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "남아공에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔 컬처그룹",
+          "publication_year": "2010",
+          "isbn13": "9788937848124",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "938.4",
+          "class_nm": "역사 > 아프리카 > 남아프리카",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/826/06282674.jpg?type=m1&udate=20150730",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372825",
+          "loan_count": "37669"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "존리의 경제 마스터 :전문가에게 배우는 쓸모 있는 지식 ",
+          "authors": "글: 존리,그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2021",
+          "isbn13": "9791164138401",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "327",
+          "class_nm": "사회과학 > 경제학 > 금융",
+          "bookImageURL": "https://image.aladin.co.kr/product/27572/29/cover/k592733013_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6049069",
+          "loan_count": "36789"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 못 말리는 짠돌이 학교 - 대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜",
+          "authors": "안영주 (글), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243422",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/5488/17/cover/8960243426_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2792846",
+          "loan_count": "36409"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "쿠키런 킹덤스쿨 1 - 부자 쿠키 vs 거지 쿠키",
+          "authors": "김언정 (지은이), 이태영 (그림), JA Korea(국제비영리청소년교육기관) (감수)",
+          "publisher": "서울문화사",
+          "publication_year": "2021",
+          "isbn13": "9791164384150",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "null > null > null",
+          "bookImageURL": "https://image.aladin.co.kr/product/27287/89/cover/k932732021_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6000366",
+          "loan_count": "36306"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "빈대 가족의 부자 도전기 - 대한민국 공식 짠돌이 빈대 가족에게 배우는 경제 지혜",
+          "authors": "김윤수 (지은이), 류수형 (그림)",
+          "publisher": "재미북스(과학어린이)",
+          "publication_year": "2015",
+          "isbn13": "9788960243460",
+          "addition_symbol": "77320",
+          "vol": "",
+          "class_no": "320.4",
+          "class_nm": "사회과학 > 경제학 > 경제학",
+          "bookImageURL": "http://image.aladin.co.kr/product/6784/21/cover/8960243469_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2988884",
+          "loan_count": "36027"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어린이 사회 형사대 CSI",
+          "authors": "글: 고희정 ;김준영",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2015",
+          "isbn13": "9788957367575",
+          "addition_symbol": "74300",
+          "vol": "3",
+          "class_no": "300",
+          "class_nm": "사회과학 > 사회과학 > 사회과학",
+          "bookImageURL": "http://image.aladin.co.kr/product/7425/38/cover/8957367578_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3117187",
+          "loan_count": "35908"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 화폐와 경제 ",
+          "authors": "글: 윤상석 ;그림: 김강호",
+          "publisher": "예림당",
+          "publication_year": "2010",
+          "isbn13": "9788930231374",
+          "addition_symbol": "73320",
+          "vol": "",
+          "class_no": "001",
+          "class_nm": "총류 > 총류 > 지식, 학문 일반",
+          "bookImageURL": "http://image.aladin.co.kr/product/754/98/cover/8930231373_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1100736",
+          "loan_count": "35892"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 프랑스 ",
+          "authors": "글: 남춘자 ;그림: 윤현우",
+          "publisher": "예림당",
+          "publication_year": "2012",
+          "isbn13": "9788930200974",
+          "addition_symbol": "73920",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "http://image.aladin.co.kr/product/1728/65/cover/8930200974_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1853945",
+          "loan_count": "35418"
+        }
+      }
+    ]
+  }
+}

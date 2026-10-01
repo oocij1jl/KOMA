@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "keyword": "언어",
+      "sort": "loan_count",
+      "direction": "desc",
+      "exactMatch": false,
+      "pageNo": 1,
+      "pageSize": 50,
+      "format": "json"
+    },
+    "numFound": 6538,
+    "docs": [
+      {
+        "doc": {
+          "bookname": "언어의 온도 :말과 글에는 나름의 따뜻함과 차가움이 있다 ",
+          "authors": "지은이: 이기주",
+          "publisher": "말글터",
+          "publication_year": "2016",
+          "isbn13": "9791195522125",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/14842/6/cover/k742532452_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3278940",
+          "loan_count": "153737"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "책 먹는 여우 ",
+          "authors": "프란치스카 비어만 지음 ;김경연 옮김",
+          "publisher": "김영사",
+          "publication_year": "2001",
+          "isbn13": "9788934908067",
+          "addition_symbol": "73850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/15652/86/cover/k232533034_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=130887",
+          "loan_count": "144203"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아드님, 진지 드세요 ",
+          "authors": "강민경 글 ;이영림 그림",
+          "publisher": "좋은책신사고 좋은책어린이",
+          "publication_year": "2011",
+          "isbn13": "9788928302802",
+          "addition_symbol": "74810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/066/269/06626948.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372431",
+          "loan_count": "110091"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "오직 두 사람 :김영하 소설 ",
+          "authors": "지은이: 김영하",
+          "publisher": "문학동네",
+          "publication_year": "2017",
+          "isbn13": "9788954645614",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/10949/50/cover/8954645615_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3440172",
+          "loan_count": "107630"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 1 - 초등 국어 고수 되기 프로젝트",
+          "authors": "흔한남매 (원작)|한은호",
+          "publisher": "다산어린이",
+          "publication_year": "2021",
+          "isbn13": "9791130635712",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "null > null > null",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/180/044/18004469.jpg?type=m1&udate=20210218",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5918291",
+          "loan_count": "105285"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "프린들 주세요",
+          "authors": "앤드루 클레먼츠 지음;양혜원 그림",
+          "publisher": "사계절출판사",
+          "publication_year": "2001",
+          "isbn13": "9788971968345",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/30/82/cover/8971968346_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=130919",
+          "loan_count": "103372"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190305310",
+          "addition_symbol": "67400",
+          "vol": "12",
+          "class_no": "408",
+          "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+          "bookImageURL": "https://image.aladin.co.kr/product/21502/77/cover/k742636192_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5516991",
+          "loan_count": "102917"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "데미안 ",
+          "authors": "지은이: 헤르만 헤세 ;옮긴이: 전영애",
+          "publisher": "민음사",
+          "publication_year": "2000",
+          "isbn13": "9788937460449",
+          "addition_symbol": "04850",
+          "vol": "",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/000/051/00005186.jpg?type=m1&udate=20160509",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2374415",
+          "loan_count": "101156"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130637594",
+          "addition_symbol": "77700",
+          "vol": "2",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/27144/52/cover/k372731447_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5982308",
+          "loan_count": "95877"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130640280",
+          "addition_symbol": "77700",
+          "vol": "3",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/27833/74/cover/k162734674_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6084991",
+          "loan_count": "89154"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "말의 품격 :말과 사람과 품격에 대한 생각들 ",
+          "authors": "이기주 지음",
+          "publisher": "황소북스",
+          "publication_year": "2017",
+          "isbn13": "9788997092772",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "http://image.aladin.co.kr/product/10869/79/cover/s852531536_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3436891",
+          "loan_count": "87597"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 :초등 국어 고수 되기 프로젝트",
+          "authors": "원작: 흔한남매 ;그림: 유희석",
+          "publisher": "다산북스",
+          "publication_year": "2021",
+          "isbn13": "9791130641607",
+          "addition_symbol": "77700",
+          "vol": "4",
+          "class_no": "710",
+          "class_nm": "언어 > 한국어 > 한국어",
+          "bookImageURL": "https://image.aladin.co.kr/product/28344/0/cover/k342835103_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6339841",
+          "loan_count": "79736"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "흔한남매 불꽃 튀는 우리말 5 - 초등 국어 고수 되기 프로젝트",
+          "authors": "한은호 (지은이), 흔한남매 (원작), 유희석 (그림), 흔한컴퍼니 (감수)",
+          "publisher": "다산어린이",
+          "publication_year": "2022",
+          "isbn13": "9791130679266",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "",
+          "class_nm": "",
+          "bookImageURL": "https://image.aladin.co.kr/product/29168/59/cover/k962837473_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6431746",
+          "loan_count": "72744"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "희랍어 시간 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2011",
+          "isbn13": "9788954616515",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "813.62",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/707/06770742.jpg?type=m1&udate=20170801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1207905",
+          "loan_count": "68226"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "42가지 마음의 색깔 ",
+          "authors": "지은이: 크리스티나 누녜스 페레이라,옮긴이: 남진희",
+          "publisher": "북파크",
+          "publication_year": "2015",
+          "isbn13": "9791195588602",
+          "addition_symbol": "77870",
+          "vol": "",
+          "class_no": "181",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "http://image.aladin.co.kr/product/6490/30/cover/k822433340_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2650905",
+          "loan_count": "66478"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "왜 나는 너를 사랑하는가",
+          "authors": "알랭 드 보통 [지음];정영목 옮김",
+          "publisher": "청미래",
+          "publication_year": "2007",
+          "isbn13": "9788986836240",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/030/257/03025716.jpg?type=m1&udate=20180227",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2130072",
+          "loan_count": "65225"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "우리들의 일그러진 영웅",
+          "authors": "이문열 지음",
+          "publisher": "다림",
+          "publication_year": "1999",
+          "isbn13": "9788987721095",
+          "addition_symbol": "73810",
+          "vol": "",
+          "class_no": "813.6",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/603/00160361.jpg?type=m1&udate=20130406",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1512043",
+          "loan_count": "61309"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983130",
+          "addition_symbol": "74400",
+          "vol": "7",
+          "class_no": "511",
+          "class_nm": "기술과학 > 의학 > 기초의학",
+          "bookImageURL": "https://image.aladin.co.kr/product/27924/83/cover/8950983133_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6287204",
+          "loan_count": "58699"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 소프트웨어와 코딩 ",
+          "authors": "글: 조영선 ;만화: 이영호",
+          "publisher": "예림당",
+          "publication_year": "2015",
+          "isbn13": "9788930219556",
+          "addition_symbol": "74400",
+          "vol": "",
+          "class_no": "005.1",
+          "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+          "bookImageURL": "http://image.aladin.co.kr/product/7153/70/cover/8930219551_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3097787",
+          "loan_count": "56923"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이어령의 마지막 수업 ",
+          "authors": "김지수 지음",
+          "publisher": "열림원",
+          "publication_year": "2021",
+          "isbn13": "9791170400523",
+          "addition_symbol": "03100",
+          "vol": "",
+          "class_no": "199.1",
+          "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+          "bookImageURL": "https://image.aladin.co.kr/product/28212/10/cover/k762835176_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6326227",
+          "loan_count": "56008"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "딸에 대하여 :김혜진 장편소설 ",
+          "authors": "지은이: 김혜진",
+          "publisher": "민음사",
+          "publication_year": "2017",
+          "isbn13": "9788937473173",
+          "addition_symbol": "04810",
+          "vol": "",
+          "class_no": "813.7",
+          "class_nm": "문학 > 한국문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/11832/9/cover/8937473178_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3616910",
+          "loan_count": "55280"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "노르웨이의 숲 =Noruuei no mori ",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 양억관",
+          "publisher": "민음사",
+          "publication_year": "2013",
+          "isbn13": "9788937463105",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/072/855/07285591.jpg?type=m1&udate=20130904",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2376426",
+          "loan_count": "54019"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "Why? 장애와 과학 ",
+          "authors": "글: 남춘자 ;만화: 김성래",
+          "publisher": "예림당",
+          "publication_year": "2013",
+          "isbn13": "9788930206761",
+          "addition_symbol": "73500",
+          "vol": "",
+          "class_no": "510",
+          "class_nm": "기술과학 > 의학 > 의학",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/073/257/07325706.jpg?type=m1&udate=20150718",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1985068",
+          "loan_count": "51971"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "해리포터 :마법사의 돌 ",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2019",
+          "isbn13": "9788983927620",
+          "addition_symbol": "04840",
+          "vol": "1",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21573/93/cover/8983927623_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529761",
+          "loan_count": "51133"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "꼬마 흡혈귀",
+          "authors": "글쓴이: 앙겔라 좀머-보덴부르크 ;옮긴이: 이은주",
+          "publisher": "거북이북스",
+          "publication_year": "2017",
+          "isbn13": "9788966071722",
+          "addition_symbol": "74850",
+          "vol": "1",
+          "class_no": "853",
+          "class_nm": "문학 > 독일문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/11551/10/cover/s852532788_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3523336",
+          "loan_count": "49227"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이유가 있어서 멸종했습니다 :세상에서 가장 재미있는 멸종 동물 도감 ",
+          "authors": "글: 마루야마 다카시 ;옮김: 곽범신",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2019",
+          "isbn13": "9791189938765",
+          "addition_symbol": "73490",
+          "vol": "",
+          "class_no": "491",
+          "class_nm": "자연과학 > 동물학 > 일반 동물학",
+          "bookImageURL": "https://image.aladin.co.kr/product/18859/66/cover/k542635987_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5393650",
+          "loan_count": "48794"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "불안 ",
+          "authors": "지은이: 알랭 드 보통 ;정영목 옮김",
+          "publisher": "은행나무",
+          "publication_year": "2012",
+          "isbn13": "9788956605593",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "332.6",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회조직 및 제도",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/067/930/06793081.jpg?type=m1&udate=20171011",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1226611",
+          "loan_count": "48673"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "애쓰지 않고 편안하게",
+          "authors": "김수현",
+          "publisher": "놀(다산북스)",
+          "publication_year": "2020-05-15",
+          "isbn13": "9791130629636",
+          "addition_symbol": "13740",
+          "vol": "",
+          "class_no": "189",
+          "class_nm": "철학 > 심리학 > 응용심리학 일반 ",
+          "bookImageURL": "https://image.aladin.co.kr/product/24054/10/cover/k772639730_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5668706",
+          "loan_count": "48059"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "일본에서 보물찾기",
+          "authors": "곰돌이 co. 글;강경효 그림",
+          "publisher": "대한교과서",
+          "publication_year": "2005",
+          "isbn13": "9788937840265",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "913",
+          "class_nm": "역사 > 아시아(아세아) > 일본",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/019/143/01914300.jpg?type=m1&udate=20130708",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372808",
+          "loan_count": "47683"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "(나를 숨 쉬게 하는) 보통의 언어들 ",
+          "authors": "김이나 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791190786355",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "818",
+          "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+          "bookImageURL": "https://image.aladin.co.kr/product/24088/61/cover/k182639239_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5671695",
+          "loan_count": "46746"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "이방인 ",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+          "publisher": "민음사",
+          "publication_year": "2011",
+          "isbn13": "9788937462665",
+          "addition_symbol": "04800",
+          "vol": "",
+          "class_no": "863",
+          "class_nm": "문학 > 프랑스문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1126/72/cover/8937462664_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2430245",
+          "loan_count": "46447"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "서랍에 저녁을 넣어 두었다 :한강 시집 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2013",
+          "isbn13": "9788932024639",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "811.62",
+          "class_nm": "문학 > 한국문학 > 시",
+          "bookImageURL": "http://image.aladin.co.kr/product/3335/59/cover/8932024634_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1991954",
+          "loan_count": "45873"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "떨림과 울림 :물리학자 김상욱이 바라본 우주와 세계 그리고 우리 ",
+          "authors": "김상욱 지음",
+          "publisher": "동아시아",
+          "publication_year": "2018",
+          "isbn13": "9788962622508",
+          "addition_symbol": "03400",
+          "vol": "",
+          "class_no": "420.04",
+          "class_nm": "자연과학 > 물리학 > 물리학",
+          "bookImageURL": "https://image.aladin.co.kr/product/17299/89/cover/8962622505_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5231590",
+          "loan_count": "44789"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "좋은지 나쁜지 누가 아는가 ",
+          "authors": "지은이: 류시화 ;그림: 미로코 마치코",
+          "publisher": "더숲",
+          "publication_year": "2019",
+          "isbn13": "9791186900789",
+          "addition_symbol": "03810",
+          "vol": "",
+          "class_no": "814.62",
+          "class_nm": "문학 > 한국문학 > 수필",
+          "bookImageURL": "https://image.aladin.co.kr/product/18390/11/cover/k652534159_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5369294",
+          "loan_count": "44622"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "윔피 키드",
+          "authors": "제프 키니 글·그림 ;신인수 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791164134021",
+          "addition_symbol": "74840",
+          "vol": "14",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22215/52/cover/k412636516_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5550025",
+          "loan_count": "44495"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그램그램 영문법 원정대",
+          "authors": "지은이: 장영준,김덕영",
+          "publisher": "사회평론",
+          "isbn13": "9788956026220",
+          "addition_symbol": "77740",
+          "vol": "1",
+          "class_no": "745",
+          "class_nm": "언어 > 영어 > 문법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/020/928/02092829.jpg?type=m1&udate=20150428",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371252",
+          "loan_count": "43446"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "해리포터 :마법사의 돌 ",
+          "authors": "J.K. 롤링 지음 ;김혜원 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2014",
+          "isbn13": "9788983925329",
+          "addition_symbol": "04840",
+          "vol": "2",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/5007/58/cover/8983925329_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2649575",
+          "loan_count": "43132"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "당신 인생의 이야기 :테드 창 소설 ",
+          "authors": "지은이: 테드 창 ;옮긴이: 김상훈",
+          "publisher": "북하우스 퍼블리셔스",
+          "publication_year": "2016",
+          "isbn13": "9788956057842",
+          "addition_symbol": "03840",
+          "vol": "",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/111/845/11184502.jpg?type=m1&udate=20171212",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3357620",
+          "loan_count": "42927"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "어른의 어휘력 :말에 품격을 더하고 세상을 올바르게 이해하는 힘 ",
+          "authors": "유선경 지음",
+          "publisher": "앤의서재",
+          "publication_year": "2020",
+          "isbn13": "9791190710053",
+          "addition_symbol": "03800",
+          "vol": "",
+          "class_no": "802.5",
+          "class_nm": "문학 > 문학 > 문장작법, 수사학",
+          "bookImageURL": "https://image.aladin.co.kr/product/24779/29/cover/k102631725_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5731697",
+          "loan_count": "42562"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아비투스 :인간의 품격을 결정하는 7가지 자본 ",
+          "authors": "도리스 메르틴 지음 ;배명자 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2020",
+          "isbn13": "9791130630762",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/164/403/16440333.jpg?type=m1&udate=20200801",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5733967",
+          "loan_count": "42455"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "해리포터 :마법사의 돌 ",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2019",
+          "isbn13": "9788983927637",
+          "addition_symbol": "04840",
+          "vol": "2",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21573/96/cover/8983927631_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529762",
+          "loan_count": "41469"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 로봇왕 :본격 대결 과학로봇 만화",
+          "authors": "글: 포도알친구 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937892073",
+          "addition_symbol": "77400",
+          "vol": "2",
+          "class_no": "559",
+          "class_nm": "기술과학 > 기계공학 > 기타 공학",
+          "bookImageURL": "http://image.aladin.co.kr/product/11246/10/cover/8937892073_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3456803",
+          "loan_count": "41146"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "체코에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937884740",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "925.7",
+          "class_nm": "역사 > 유럽(구라파) > 독일",
+          "bookImageURL": "http://image.aladin.co.kr/product/3728/36/cover/8937884747_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2604708",
+          "loan_count": "40164"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "윔피 키드",
+          "authors": "제프 키니 글·그림 ;신인수 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2016",
+          "isbn13": "9791164137213",
+          "addition_symbol": "74840",
+          "vol": "15",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/25841/34/cover/k392736530_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5834647",
+          "loan_count": "39755"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "노르웨이의 숲 =Norwegian wood ",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 양억관",
+          "publisher": "민음사",
+          "publication_year": "2017",
+          "isbn13": "9788937434488",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/124/287/12428742.jpg?type=m1&udate=20170930",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3535735",
+          "loan_count": "39446"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "해리포터 :비밀의 방 ",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김",
+          "publisher": "문학수첩",
+          "publication_year": "2019",
+          "isbn13": "9788983927644",
+          "addition_symbol": "04840",
+          "vol": "1",
+          "class_no": "843.5",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21574/17/cover/898392764x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529763",
+          "loan_count": "39320"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "아이를 위한 하루 한 줄 인문학 :내면의 힘이 탄탄한 아이를 만드는 인생 문장 100 ",
+          "authors": "김종원 지음",
+          "publisher": "청림출판",
+          "publication_year": "2018",
+          "isbn13": "9791188700288",
+          "addition_symbol": "13590",
+          "vol": "",
+          "class_no": "598.1",
+          "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+          "bookImageURL": "https://image.aladin.co.kr/product/17533/6/cover/k632534304_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5246875",
+          "loan_count": "38616"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "내일은 로봇왕 :본격 대결 과학로봇 만화",
+          "authors": "글: 포도알친구 ;그림: 홍종현",
+          "publisher": "미래엔",
+          "publication_year": "2017",
+          "isbn13": "9788937889165",
+          "addition_symbol": "77400",
+          "vol": "3",
+          "class_no": "559",
+          "class_nm": "기술과학 > 기계공학 > 기타 공학",
+          "bookImageURL": "https://image.aladin.co.kr/product/11879/14/cover/8937889161_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3630514",
+          "loan_count": "38269"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "남아공에서 보물찾기 ",
+          "authors": "글: 곰돌이 co. ;그림: 강경효",
+          "publisher": "미래엔 컬처그룹",
+          "publication_year": "2010",
+          "isbn13": "9788937848124",
+          "addition_symbol": "77900",
+          "vol": "",
+          "class_no": "938.4",
+          "class_nm": "역사 > 아프리카 > 남아프리카",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/826/06282674.jpg?type=m1&udate=20150730",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2372825",
+          "loan_count": "37669"
+        }
+      },
+      {
+        "doc": {
+          "bookname": "그램그램 영문법 원정대",
+          "authors": "지은이: 장영준,김덕영",
+          "publisher": "사회평론",
+          "isbn13": "9788956026237",
+          "addition_symbol": "77740",
+          "vol": "2",
+          "class_no": "745",
+          "class_nm": "언어 > 영어 > 문법",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/020/928/02092833.jpg?type=m1&udate=20150428",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2371251",
+          "loan_count": "37564"
+        }
+      }
+    ]
+  }
+}

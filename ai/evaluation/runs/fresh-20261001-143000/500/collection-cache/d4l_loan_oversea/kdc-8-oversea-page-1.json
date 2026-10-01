@@ -1,0 +1,1816 @@
+{
+  "response": {
+    "request": {
+      "startDt": "2016-01-01",
+      "kdc": "8",
+      "book_dvsn": "oversea",
+      "pageNo": 1,
+      "pageSize": 100,
+      "format": "json"
+    },
+    "resultNum": 100,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "Dinosaurs before dark",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824114",
+          "addition_symbol": "50399",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/68/cover/0679824111_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=925132",
+          "loan_count": "42669"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "(The)knight at dawn",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824121",
+          "addition_symbol": "50399",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/067982412x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=926449",
+          "loan_count": "35244"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "Mummies in the morning",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824244",
+          "addition_symbol": "50399",
+          "vol": "3",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/656/00265640.jpg?type=m1&udate=20151021",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2176333",
+          "loan_count": "31794"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "4",
+          "bookname": "Diary of a wimpy kid",
+          "authors": "by Jeff Kinney",
+          "publisher": "Amulet Books",
+          "publication_year": "",
+          "isbn13": "9780810987586",
+          "addition_symbol": "50799",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/060/570/06057045.jpg?type=m1&udate=20171118",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2378341",
+          "loan_count": "30032"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "Pirates past noon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824251",
+          "addition_symbol": "50399",
+          "vol": "4",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679824251_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=930134",
+          "loan_count": "28310"
+        }
+      },
+      {
+        "doc": {
+          "no": 6,
+          "ranking": "6",
+          "bookname": "Junie B. Jones and the stupid smelly bus ",
+          "authors": "by Barbara Park ;illustrated by Denise Brunkus",
+          "publisher": "Random House",
+          "publication_year": "1992",
+          "isbn13": "9780679826422",
+          "addition_symbol": "50499",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/23/cover/0679826424_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424727",
+          "loan_count": "26288"
+        }
+      },
+      {
+        "doc": {
+          "no": 7,
+          "ranking": "7",
+          "bookname": "Lunch Walks Among Us (Paperback)",
+          "authors": "Benton",
+          "publisher": "Aladdin",
+          "publication_year": "2005",
+          "isbn13": "9780689862953",
+          "addition_symbol": "50499",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/016/904/01690446.jpg?type=m1&udate=20170927",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2378821",
+          "loan_count": "25977"
+        }
+      },
+      {
+        "doc": {
+          "no": 8,
+          "ranking": "8",
+          "bookname": "Afternoon on the Amazon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "1995",
+          "isbn13": "9780679863724",
+          "addition_symbol": "50399",
+          "vol": "6",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679863729_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=928284",
+          "loan_count": "24428"
+        }
+      },
+      {
+        "doc": {
+          "no": 9,
+          "ranking": "9",
+          "bookname": "Zack Files 01: Great-Grandpa's in the Litter Box (Paperback)",
+          "authors": "Dan Greenburg",
+          "publisher": "GROSSET&DUNLAP",
+          "publication_year": "2011",
+          "isbn13": "9780448412603",
+          "addition_symbol": "41260",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/395/00239544.jpg?type=m1&udate=20180202",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2403826",
+          "loan_count": "24131"
+        }
+      },
+      {
+        "doc": {
+          "no": 10,
+          "ranking": "10",
+          "bookname": "Nate the Great (Paperback)",
+          "authors": "마저리 와인먼 샤매트 (글), 마르크 시몽 (그림)",
+          "publisher": "Random House",
+          "publication_year": "1977",
+          "isbn13": "9780440461265",
+          "addition_symbol": "50450",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/53/22/cover/044046126x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2481642",
+          "loan_count": "22760"
+        }
+      },
+      {
+        "doc": {
+          "no": 11,
+          "ranking": "11",
+          "bookname": "Harry Potter and the sorcerer's stone ",
+          "authors": "by J. K. Rowling ;illustrations by Mary GrandPr´e",
+          "publisher": "Scholastic",
+          "publication_year": "1999",
+          "isbn13": "9780590353427",
+          "addition_symbol": "51099",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/20/85/cover/059035342x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1119444",
+          "loan_count": "22699"
+        }
+      },
+      {
+        "doc": {
+          "no": 12,
+          "ranking": "12",
+          "bookname": "Sunset of the Sabertooth",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "1996",
+          "isbn13": "9780679863731",
+          "addition_symbol": "50399",
+          "vol": "7",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679863737_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=943183",
+          "loan_count": "21935"
+        }
+      },
+      {
+        "doc": {
+          "no": 13,
+          "ranking": "13",
+          "bookname": "Midnight on the moon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679863748",
+          "addition_symbol": "86374",
+          "vol": "8",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/656/00265646.jpg?type=m1&udate=20161123",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2403855",
+          "loan_count": "21819"
+        }
+      },
+      {
+        "doc": {
+          "no": 14,
+          "ranking": "14",
+          "bookname": "Snow",
+          "authors": "Uri Shulevitz",
+          "publisher": "Farrar Straus Giroux",
+          "publication_year": "2004",
+          "isbn13": "9780374468620",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/110/47/cover/0374468621_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=920301",
+          "loan_count": "21740"
+        }
+      },
+      {
+        "doc": {
+          "no": 15,
+          "ranking": "15",
+          "bookname": "Dolphins at daybreak",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679883388",
+          "addition_symbol": "50399",
+          "vol": "9",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/067988338x_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=925129",
+          "loan_count": "21702"
+        }
+      },
+      {
+        "doc": {
+          "no": 16,
+          "ranking": "16",
+          "bookname": "Go away, big green monster!",
+          "authors": "by Ed Emberley",
+          "publisher": "Little, Brown",
+          "publication_year": "1992",
+          "isbn13": "9780316236539",
+          "addition_symbol": "51099",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/104/8/cover/0316236535_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=926075",
+          "loan_count": "21690"
+        }
+      },
+      {
+        "doc": {
+          "no": 17,
+          "ranking": "17",
+          "bookname": "Junie B. Jones and a little monkey business ",
+          "authors": "by Barbara Park ;illustrated by Denise Brunkus",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679838869",
+          "addition_symbol": "50499",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/23/cover/0679838864_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424728",
+          "loan_count": "20792"
+        }
+      },
+      {
+        "doc": {
+          "no": 18,
+          "ranking": "18",
+          "bookname": "Willy the dreamer ",
+          "authors": "Anthony Browne",
+          "publisher": "Walker Books",
+          "publication_year": "",
+          "isbn13": "9781406313574",
+          "addition_symbol": "90100",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/275/3/cover/1406313572_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1083692",
+          "loan_count": "20620"
+        }
+      },
+      {
+        "doc": {
+          "no": 19,
+          "ranking": "19",
+          "bookname": "My Dad (Paperback) - My Little Library 1-05",
+          "authors": "앤서니 브라운 (지은이)",
+          "publisher": "Transworld Publishers",
+          "publication_year": "2001",
+          "isbn13": "9780552560061",
+          "addition_symbol": "50600",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/1348/7/cover/0552560065_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2429420",
+          "loan_count": "19734"
+        }
+      },
+      {
+        "doc": {
+          "no": 20,
+          "ranking": "20",
+          "bookname": "The Giving Tree with CD [With CD] (Hardcover, 40, Anniversary)",
+          "authors": "편집부",
+          "publisher": "HARPERCOLLINS",
+          "publication_year": "2005",
+          "isbn13": "9780060586751",
+          "addition_symbol": "51899",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/983/00298372.jpg?type=m1&udate=20161124",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2396910",
+          "loan_count": "19407"
+        }
+      },
+      {
+        "doc": {
+          "no": 21,
+          "ranking": "21",
+          "bookname": "(The)happy day",
+          "authors": "by Ruth Krauss;pictures by Marc Simont",
+          "publisher": "HarperCollinsPublishers",
+          "publication_year": "1989",
+          "isbn13": "9780064431910",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/30/41/cover/0064431916_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2429710",
+          "loan_count": "18864"
+        }
+      },
+      {
+        "doc": {
+          "no": 22,
+          "ranking": "22",
+          "bookname": "Junie B. Jones and her big fat mouth ",
+          "authors": "by Barbara Park ;illustrated by Denise Brunkus",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679844075",
+          "addition_symbol": "50499",
+          "vol": "3",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/23/cover/0679844074_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424752",
+          "loan_count": "18787"
+        }
+      },
+      {
+        "doc": {
+          "no": 23,
+          "ranking": "23",
+          "bookname": "Today is Monday ",
+          "authors": "pictures by Eric Carle",
+          "publisher": "PaperStarBook",
+          "publication_year": "1997",
+          "isbn13": "9780698115637",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/001/895/00189576.jpg?type=m1&udate=20170802",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2380283",
+          "loan_count": "17886"
+        }
+      },
+      {
+        "doc": {
+          "no": 24,
+          "ranking": "24",
+          "bookname": "Goodnight moon",
+          "authors": "by Margaret Wise Brown;pictures by Clement Hurd",
+          "publisher": "HarperTrophy",
+          "publication_year": "",
+          "isbn13": "9780064430173",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/90/35/cover/0064430170_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=923335",
+          "loan_count": "17505"
+        }
+      },
+      {
+        "doc": {
+          "no": 25,
+          "ranking": "25",
+          "bookname": "Dog Man #8 : Fetch-22 (Hardcover) - From the Creator of Captain Underpants",
+          "authors": "Dav Pilkey (지은이)",
+          "publisher": "Graphix                                 ",
+          "publication_year": "2019",
+          "isbn13": "9781338323214",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18718/42/cover/133832321d_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5477095",
+          "loan_count": "16519"
+        }
+      },
+      {
+        "doc": {
+          "no": 26,
+          "ranking": "26",
+          "bookname": "Rain",
+          "authors": "by Robert Kalan;illustrated by Donald Crews",
+          "publisher": "Mulberry Paperback Books",
+          "publication_year": "1991",
+          "isbn13": "9780688104795",
+          "addition_symbol": "50699",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/104/91/cover/0688104797_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=922896",
+          "loan_count": "16452"
+        }
+      },
+      {
+        "doc": {
+          "no": 27,
+          "ranking": "27",
+          "bookname": "Hooray for fish! ",
+          "authors": "by Lucy Cousins",
+          "publisher": "Walker",
+          "publication_year": "2008",
+          "isbn13": "9781406301564",
+          "addition_symbol": "78740",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/043/789/04378968.jpg?type=m1&udate=20100804",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2380235",
+          "loan_count": "15888"
+        }
+      },
+      {
+        "doc": {
+          "no": 28,
+          "ranking": "28",
+          "bookname": "(The) Bad guys",
+          "authors": "by Aaron Blabey",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810986988",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3648936",
+          "loan_count": "14808"
+        }
+      },
+      {
+        "doc": {
+          "no": 29,
+          "ranking": "29",
+          "bookname": "(The) Bad guys",
+          "authors": "by Aaron Blabey",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789810986995",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3648937",
+          "loan_count": "11277"
+        }
+      },
+      {
+        "doc": {
+          "no": 30,
+          "ranking": "30",
+          "bookname": "Hi! Fly Guy ",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983390",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3184472",
+          "loan_count": "10802"
+        }
+      },
+      {
+        "doc": {
+          "no": 31,
+          "ranking": "31",
+          "bookname": "Shine of the silver dragon ",
+          "authors": "by Tracey West ;[illustrated by Nina de Polonia]",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2018",
+          "isbn13": "9781338263657",
+          "addition_symbol": "",
+          "vol": "11",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12844/8/cover/133826365x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5231658",
+          "loan_count": "10657"
+        }
+      },
+      {
+        "doc": {
+          "no": 32,
+          "ranking": "32",
+          "bookname": "Super Fly Guy",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983406",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159629",
+          "loan_count": "10106"
+        }
+      },
+      {
+        "doc": {
+          "no": 33,
+          "ranking": "33",
+          "bookname": "(The) good egg ",
+          "authors": "Jory John ;[illustrations by] Pete Oswald",
+          "publisher": "Harpercollins Childrens Books",
+          "publication_year": "2019",
+          "isbn13": "9780062866004",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/14696/72/cover/0062866001_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5377458",
+          "loan_count": "9996"
+        }
+      },
+      {
+        "doc": {
+          "no": 34,
+          "ranking": "34",
+          "bookname": "(The) Bad guys",
+          "authors": "by Aaron Blabey",
+          "publisher": "",
+          "publication_year": "2017",
+          "isbn13": "9789810987008",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3648935",
+          "loan_count": "9955"
+        }
+      },
+      {
+        "doc": {
+          "no": 35,
+          "ranking": "35",
+          "bookname": "Shoo, Fly Guy!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983413",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159630",
+          "loan_count": "9487"
+        }
+      },
+      {
+        "doc": {
+          "no": 36,
+          "ranking": "36",
+          "bookname": "Owl diaries =  ",
+          "authors": "by Rebecca Elliott",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9789811148385",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755369",
+          "loan_count": "9169"
+        }
+      },
+      {
+        "doc": {
+          "no": 37,
+          "ranking": "37",
+          "bookname": "Dinosaurs before dark",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824114",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/68/cover/0679824111_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=925132",
+          "loan_count": "9026"
+        }
+      },
+      {
+        "doc": {
+          "no": 38,
+          "ranking": "38",
+          "bookname": "Fly Guy Meets Fly Girl!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983468",
+          "addition_symbol": "",
+          "vol": "8",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159635",
+          "loan_count": "8650"
+        }
+      },
+      {
+        "doc": {
+          "no": 39,
+          "ranking": "39",
+          "bookname": "There's A Fly Guy In My Soup",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983505",
+          "addition_symbol": "",
+          "vol": "12",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159639",
+          "loan_count": "8600"
+        }
+      },
+      {
+        "doc": {
+          "no": 40,
+          "ranking": "40",
+          "bookname": "Attack of the zittens",
+          "authors": "by Aaron Blabey",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789811106859",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3746141",
+          "loan_count": "8517"
+        }
+      },
+      {
+        "doc": {
+          "no": 41,
+          "ranking": "41",
+          "bookname": "Prince Fly Guy",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983536",
+          "addition_symbol": "",
+          "vol": "15",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159643",
+          "loan_count": "8511"
+        }
+      },
+      {
+        "doc": {
+          "no": 42,
+          "ranking": "42",
+          "bookname": "Fly Guy's Amazing Tricks",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983529",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159642",
+          "loan_count": "8345"
+        }
+      },
+      {
+        "doc": {
+          "no": 43,
+          "ranking": "43",
+          "bookname": "Super Rabbit Boy Blasts Off! (Paperback)",
+          "authors": "Thomas Flintham (지은이)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2018",
+          "isbn13": "9781338239621",
+          "addition_symbol": "50499",
+          "vol": "5",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/11746/20/cover/1338239627_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3872255",
+          "loan_count": "8305"
+        }
+      },
+      {
+        "doc": {
+          "no": 44,
+          "ranking": "44",
+          "bookname": "Fly High, Fly Guy!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983437",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159632",
+          "loan_count": "8299"
+        }
+      },
+      {
+        "doc": {
+          "no": 45,
+          "ranking": "45",
+          "bookname": "I'm the Biggest Thing in the Ocean",
+          "authors": "by Kevin Sherry",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9780803737464",
+          "addition_symbol": "50799",
+          "vol": "",
+          "class_no": "808.9",
+          "class_nm": "문학 > 문학 > 전집, 총서",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2702360",
+          "loan_count": "8297"
+        }
+      },
+      {
+        "doc": {
+          "no": 46,
+          "ranking": "46",
+          "bookname": "Nate the Great (Paperback)",
+          "authors": "마저리 와인먼 샤매트 (글), 마르크 시몽 (그림)",
+          "publisher": "Random House",
+          "publication_year": "1977",
+          "isbn13": "9780440461265",
+          "addition_symbol": "50450",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/53/22/cover/044046126x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2481642",
+          "loan_count": "8168"
+        }
+      },
+      {
+        "doc": {
+          "no": 47,
+          "ranking": "47",
+          "bookname": "Rid Fly Guy Ride!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983499",
+          "addition_symbol": "",
+          "vol": "11",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159638",
+          "loan_count": "8097"
+        }
+      },
+      {
+        "doc": {
+          "no": 48,
+          "ranking": "48",
+          "bookname": "Fly Guy And The Frankenfly",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983512",
+          "addition_symbol": "",
+          "vol": "13",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159641",
+          "loan_count": "8087"
+        }
+      },
+      {
+        "doc": {
+          "no": 49,
+          "ranking": "49",
+          "bookname": "Love you forever",
+          "authors": "written by Robert Munsch",
+          "publisher": "Firefly books제이와이북스[배포]",
+          "publication_year": "2009",
+          "isbn13": "9781554074723",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2540157",
+          "loan_count": "8071"
+        }
+      },
+      {
+        "doc": {
+          "no": 50,
+          "ranking": "50",
+          "bookname": "There was an Old Lady Who Swallowed Fly Guy",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2007",
+          "isbn13": "9789810983420",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159631",
+          "loan_count": "8066"
+        }
+      },
+      {
+        "doc": {
+          "no": 51,
+          "ranking": "51",
+          "bookname": "I Spy Fly Guy!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983451",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159634",
+          "loan_count": "8065"
+        }
+      },
+      {
+        "doc": {
+          "no": 52,
+          "ranking": "52",
+          "bookname": "Hooray For Fly Guy!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983444",
+          "addition_symbol": "",
+          "vol": "6",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159633",
+          "loan_count": "7857"
+        }
+      },
+      {
+        "doc": {
+          "no": 53,
+          "ranking": "53",
+          "bookname": "Owl diaries =  ",
+          "authors": "by Rebecca Elliott",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9789811148392",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755370",
+          "loan_count": "7850"
+        }
+      },
+      {
+        "doc": {
+          "no": 54,
+          "ranking": "54",
+          "bookname": "Bear came along ",
+          "authors": "by Richard T. Morris ;illustrated by LeUyen Pham",
+          "publisher": "Little Brown & Co",
+          "publication_year": "2019",
+          "isbn13": "9780316464475",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17140/23/cover/0316464473_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5440138",
+          "loan_count": "7752"
+        }
+      },
+      {
+        "doc": {
+          "no": 55,
+          "ranking": "55",
+          "bookname": "Fly Guy VS. The Flyswatter!",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983482",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159637",
+          "loan_count": "7713"
+        }
+      },
+      {
+        "doc": {
+          "no": 56,
+          "ranking": "56",
+          "bookname": "(The)knight at dawn",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824121",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/067982412x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=926449",
+          "loan_count": "7675"
+        }
+      },
+      {
+        "doc": {
+          "no": 57,
+          "ranking": "57",
+          "bookname": "Buzz Boy And Fly Guy",
+          "authors": "by Tedd Arnold",
+          "publisher": "",
+          "publication_year": "2016",
+          "isbn13": "9789810983475",
+          "addition_symbol": "",
+          "vol": "9",
+          "class_no": "847",
+          "class_nm": "문학 > 영미문학 > 풍자",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3159636",
+          "loan_count": "7560"
+        }
+      },
+      {
+        "doc": {
+          "no": 58,
+          "ranking": "58",
+          "bookname": "Press Start",
+          "authors": "by Thomas Flintham",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789814864374",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529720",
+          "loan_count": "7374"
+        }
+      },
+      {
+        "doc": {
+          "no": 59,
+          "ranking": "59",
+          "bookname": "The Bad Seed (Paperback, International Edition)",
+          "authors": "조리 존 (지은이), Pete Oswald (그림)",
+          "publisher": "HarperCollins",
+          "publication_year": "2018",
+          "isbn13": "9780062914989",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21323/82/cover/0062914987_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5517637",
+          "loan_count": "7016"
+        }
+      },
+      {
+        "doc": {
+          "no": 60,
+          "ranking": "60",
+          "bookname": "Mummies in the morning",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824244",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/656/00265640.jpg?type=m1&udate=20151021",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2176333",
+          "loan_count": "6960"
+        }
+      },
+      {
+        "doc": {
+          "no": 61,
+          "ranking": "61",
+          "bookname": "Owl diaries =  ",
+          "authors": "by Rebecca Elliott",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9789811148408",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755371",
+          "loan_count": "6882"
+        }
+      },
+      {
+        "doc": {
+          "no": 62,
+          "ranking": "62",
+          "bookname": "Tuesdays with Morrie :an old man, a young man, and life's greatest lesson ",
+          "authors": "Mitch Albom",
+          "publisher": "Doubleday",
+          "publication_year": "",
+          "isbn13": "9780385496490",
+          "addition_symbol": "50750",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/42/16/cover/0385496494_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=240505",
+          "loan_count": "6676"
+        }
+      },
+      {
+        "doc": {
+          "no": 63,
+          "ranking": "63",
+          "bookname": "Press Start",
+          "authors": "by Thomas Flintham",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789814864404",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529721",
+          "loan_count": "6524"
+        }
+      },
+      {
+        "doc": {
+          "no": 64,
+          "ranking": "64",
+          "bookname": "Owl diaries =  ",
+          "authors": "by Rebecca Elliott",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9789811148361",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755373",
+          "loan_count": "6497"
+        }
+      },
+      {
+        "doc": {
+          "no": 65,
+          "ranking": "65",
+          "bookname": "The Good Egg (Paperback)",
+          "authors": "조리 존 (지은이), Pete Oswald (그림)",
+          "publisher": "HarperCollins Publishers Inc",
+          "publication_year": "2020",
+          "isbn13": "9780063030763",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843.8",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5677586",
+          "loan_count": "6489"
+        }
+      },
+      {
+        "doc": {
+          "no": 66,
+          "ranking": "66",
+          "bookname": "Owl diaries =  ",
+          "authors": "by Rebecca Elliott",
+          "publisher": "",
+          "publication_year": "2018",
+          "isbn13": "9789811148378",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3755372",
+          "loan_count": "6488"
+        }
+      },
+      {
+        "doc": {
+          "no": 67,
+          "ranking": "67",
+          "bookname": "Dawn of the Light Dragon: A Branches Book (Dragon Masters #24) (Paperback)",
+          "authors": "트레이시 웨스트 (지은이), Matt Loveridge (그림)",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2023",
+          "isbn13": "9781338776973",
+          "addition_symbol": "",
+          "vol": "24",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/29947/29/cover/1338776975_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6679138",
+          "loan_count": "6257"
+        }
+      },
+      {
+        "doc": {
+          "no": 68,
+          "ranking": "68",
+          "bookname": "Circle ",
+          "authors": "by Mac Barnett ;[illustrations by] Jon Klassen",
+          "publisher": "Candlewick Pr",
+          "publication_year": "2019",
+          "isbn13": "9780763696085",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "840",
+          "class_nm": "문학 > 영미문학 > 영미문학",
+          "bookImageURL": "https://image.aladin.co.kr/product/15465/85/cover/0763696080_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5357515",
+          "loan_count": "6253"
+        }
+      },
+      {
+        "doc": {
+          "no": 69,
+          "ranking": "69",
+          "bookname": "Diary of a Pug #01 : Pug Blasts Off (Paperback)",
+          "authors": "Sonia Sander (지은이), Kyla May (그림)",
+          "publisher": "Scholastic",
+          "publication_year": "2019",
+          "isbn13": "9781338530032",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17817/7/cover/1338530038_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5648909",
+          "loan_count": "6171"
+        }
+      },
+      {
+        "doc": {
+          "no": 70,
+          "ranking": "70",
+          "bookname": "Junie B. Jones and the stupid smelly bus ",
+          "authors": "by Barbara Park ;illustrated by Denise Brunkus",
+          "publisher": "Random House",
+          "publication_year": "1992",
+          "isbn13": "9780679826422",
+          "addition_symbol": "50499",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/23/cover/0679826424_3.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424727",
+          "loan_count": "6165"
+        }
+      },
+      {
+        "doc": {
+          "no": 71,
+          "ranking": "71",
+          "bookname": "Pirates past noon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679824251",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679824251_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=930134",
+          "loan_count": "6160"
+        }
+      },
+      {
+        "doc": {
+          "no": 72,
+          "ranking": "72",
+          "bookname": "Square ",
+          "authors": "by Mac Barnett ;[illustrations]: Jon Klassen",
+          "publisher": "Walker Books Ltd",
+          "publication_year": "2019",
+          "isbn13": "9781406382921",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/17333/34/cover/1406382922_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5463804",
+          "loan_count": "6156"
+        }
+      },
+      {
+        "doc": {
+          "no": 73,
+          "ranking": "73",
+          "bookname": "Pug's snow day ",
+          "authors": "by Kyla May",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338530063",
+          "addition_symbol": "",
+          "vol": "2",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18744/93/cover/1338530062_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5648910",
+          "loan_count": "6129"
+        }
+      },
+      {
+        "doc": {
+          "no": 74,
+          "ranking": "74",
+          "bookname": "Bo's magical new friend ",
+          "authors": "Rebecca Elliott",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338323320",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18808/26/cover/1338323326_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5612268",
+          "loan_count": "6088"
+        }
+      },
+      {
+        "doc": {
+          "no": 75,
+          "ranking": "75",
+          "bookname": "Press Start",
+          "authors": "by Thomas Flintham",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789814864435",
+          "addition_symbol": "",
+          "vol": "3",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529722",
+          "loan_count": "5955"
+        }
+      },
+      {
+        "doc": {
+          "no": 76,
+          "ranking": "76",
+          "bookname": "(The) cool bean",
+          "authors": "written by Jory John;illustrated by Pete Oswald",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9780063030756",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843.8",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5677585",
+          "loan_count": "5684"
+        }
+      },
+      {
+        "doc": {
+          "no": 77,
+          "ranking": "77",
+          "bookname": "Press Start",
+          "authors": "by Thomas Flintham",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789814864466",
+          "addition_symbol": "",
+          "vol": "4",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529723",
+          "loan_count": "5600"
+        }
+      },
+      {
+        "doc": {
+          "no": 78,
+          "ranking": "78",
+          "bookname": "(The) cool bean ",
+          "authors": "written by Jory John ;illustrations by Pete Oswald",
+          "publisher": "HarpercollinsChildrensBooks",
+          "publication_year": "2019",
+          "isbn13": "9780062954527",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/159/127/15912713.jpg?type=m1&udate=20191206",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5593331",
+          "loan_count": "5565"
+        }
+      },
+      {
+        "doc": {
+          "no": 79,
+          "ranking": "79",
+          "bookname": "Polar Bear, Polar Bear, What Do You Hear? Intl Ed (Paperback)",
+          "authors": "에릭 칼, 빌 마틴 (지은이)",
+          "publisher": "Henry Holt & Co",
+          "publication_year": "2007",
+          "isbn13": "9780805087987",
+          "addition_symbol": "50795",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/167/79/cover/0805087982_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2419471",
+          "loan_count": "5524"
+        }
+      },
+      {
+        "doc": {
+          "no": 80,
+          "ranking": "80",
+          "bookname": "Harry Potter and the sorcerer's stone ",
+          "authors": "by J. K. Rowling ;illustrations by Mary GrandPr´e",
+          "publisher": "Scholastic",
+          "publication_year": "1999",
+          "isbn13": "9780590353427",
+          "addition_symbol": "51099",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/20/85/cover/059035342x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1119444",
+          "loan_count": "5506"
+        }
+      },
+      {
+        "doc": {
+          "no": 81,
+          "ranking": "81",
+          "bookname": "The 104-Storey Treehouse (Paperback, 영국판) - 104층 나무집",
+          "authors": "앤디 그리피스 (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2018",
+          "isbn13": "9781509833771",
+          "addition_symbol": "90100",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12461/60/cover/1509833773_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3872256",
+          "loan_count": "5478"
+        }
+      },
+      {
+        "doc": {
+          "no": 82,
+          "ranking": "82",
+          "bookname": "Dog Man #8 : Fetch-22 (Hardcover) - From the Creator of Captain Underpants",
+          "authors": "Dav Pilkey (지은이)",
+          "publisher": "Graphix                                 ",
+          "publication_year": "2019",
+          "isbn13": "9781338323214",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18718/42/cover/133832321d_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5477095",
+          "loan_count": "5395"
+        }
+      },
+      {
+        "doc": {
+          "no": 83,
+          "ranking": "83",
+          "bookname": "Press Start",
+          "authors": "by Thomas Flintham",
+          "publisher": "",
+          "publication_year": "",
+          "isbn13": "9789814864497",
+          "addition_symbol": "",
+          "vol": "5",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5529724",
+          "loan_count": "5390"
+        }
+      },
+      {
+        "doc": {
+          "no": 84,
+          "ranking": "84",
+          "bookname": "Junie B. Jones and a little monkey business ",
+          "authors": "by Barbara Park ;illustrated by Denise Brunkus",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679838869",
+          "addition_symbol": "50499",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/51/23/cover/0679838864_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2424728",
+          "loan_count": "5323"
+        }
+      },
+      {
+        "doc": {
+          "no": 85,
+          "ranking": "85",
+          "bookname": "Afternoon on the Amazon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "1995",
+          "isbn13": "9780679863724",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679863729_1.gif",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=928284",
+          "loan_count": "5309"
+        }
+      },
+      {
+        "doc": {
+          "no": 86,
+          "ranking": "86",
+          "bookname": "The 104-Storey Treehouse (Paperback, 영국판) - 104층 나무집",
+          "authors": "앤디 그리피스 (지은이)",
+          "publisher": "Pan MacMillan Childrens",
+          "publication_year": "2018",
+          "isbn13": "9781509833771",
+          "addition_symbol": "90100",
+          "vol": "8",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/12461/60/cover/1509833773_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3872256",
+          "loan_count": "5162"
+        }
+      },
+      {
+        "doc": {
+          "no": 87,
+          "ranking": "87",
+          "bookname": "Very 얼리챕터북 Jack #7 : Jack and Santa (Hardcover)",
+          "authors": "맥 바넷 (지은이), 그렉 피졸리 (그림)",
+          "publisher": "Viking Books for Young Readers",
+          "publication_year": "2020",
+          "isbn13": "9780593113981",
+          "addition_symbol": "",
+          "vol": "7",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/22871/94/cover/0593113985_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5836767",
+          "loan_count": "5018"
+        }
+      },
+      {
+        "doc": {
+          "no": 88,
+          "ranking": "88",
+          "bookname": "A Bear Grylls Adventure 1: The Blizzard Challenge : By Bestselling Author and Chief Scout Bear Grylls (Paperback)",
+          "authors": "베어 그릴스 (지은이)",
+          "publisher": "Bonnier Zaffre",
+          "publication_year": "2017",
+          "isbn13": "9781786960122",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/9778/43/cover/1786960125_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5244824",
+          "loan_count": "4951"
+        }
+      },
+      {
+        "doc": {
+          "no": 89,
+          "ranking": "89",
+          "bookname": "(The) litter queen",
+          "authors": "written by Roderick Hunt",
+          "publisher": "Oxford university",
+          "publication_year": "2008",
+          "isbn13": "9780198466253",
+          "addition_symbol": "",
+          "vol": "94",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2543571",
+          "loan_count": "4889"
+        }
+      },
+      {
+        "doc": {
+          "no": 90,
+          "ranking": "90",
+          "bookname": "The Good Egg Presents: The Great Eggscape! [With Two Sticker Sheets]",
+          "authors": "조리 존 (지은이), Pete Oswald (그림)",
+          "publisher": "HarperFestival",
+          "publication_year": "2020",
+          "isbn13": "9780062975676",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5642698",
+          "loan_count": "4846"
+        }
+      },
+      {
+        "doc": {
+          "no": 91,
+          "ranking": "91",
+          "bookname": "Ricky Ricotta's Mighty Robot",
+          "authors": "by Dav Pilkey",
+          "publisher": "",
+          "publication_year": "2014",
+          "isbn13": "9789811106897",
+          "addition_symbol": "",
+          "vol": "1",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3468970",
+          "loan_count": "4766"
+        }
+      },
+      {
+        "doc": {
+          "no": 92,
+          "ranking": "91",
+          "bookname": "The Bad Guys #10: in the Baddest Day Ever",
+          "authors": "Aaron Blabey (지은이)",
+          "publisher": "Scholastic",
+          "publication_year": "2020",
+          "isbn13": "9789814906517",
+          "addition_symbol": "",
+          "vol": "10",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/24699/81/cover/9814906514_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5777345",
+          "loan_count": "4766"
+        }
+      },
+      {
+        "doc": {
+          "no": 93,
+          "ranking": "93",
+          "bookname": "Eva's campfire adventure ",
+          "authors": "Rebecca Elliott",
+          "publisher": "Scholastic Inc.",
+          "publication_year": "2019",
+          "isbn13": "9781338298697",
+          "addition_symbol": "",
+          "vol": "12",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18744/93/cover/1338298690_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5612267",
+          "loan_count": "4762"
+        }
+      },
+      {
+        "doc": {
+          "no": 94,
+          "ranking": "94",
+          "bookname": "Trip to the pumpkin farm ",
+          "authors": "Rebecca Elliott",
+          "publisher": "Branches                                ",
+          "publication_year": "2019",
+          "isbn13": "9781338298642",
+          "addition_symbol": "",
+          "vol": "11",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/16680/69/cover/133829864x_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5465873",
+          "loan_count": "4754"
+        }
+      },
+      {
+        "doc": {
+          "no": 95,
+          "ranking": "95",
+          "bookname": "Midnight on the moon",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "",
+          "isbn13": "9780679863748",
+          "addition_symbol": "86374",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/656/00265646.jpg?type=m1&udate=20161123",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2403855",
+          "loan_count": "4691"
+        }
+      },
+      {
+        "doc": {
+          "no": 96,
+          "ranking": "96",
+          "bookname": "(반짝반짝 행복한) 우리 아기, 잘자요 :전구 달린 그림책 ",
+          "authors": "샘 태플린 글 ;제니퍼 A.벨 그림",
+          "publisher": "비룡소인터내셔널",
+          "publication_year": "2019",
+          "isbn13": "8809264181256",
+          "addition_symbol": "05389",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/21319/86/cover/k552636581_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5514177",
+          "loan_count": "4590"
+        }
+      },
+      {
+        "doc": {
+          "no": 97,
+          "ranking": "97",
+          "bookname": "See the cat :three stories about a dog ",
+          "authors": "David LaRochelle ;illustrated by Mike Wohnoutka",
+          "publisher": "Candlewick Press (MA)",
+          "publication_year": "2020",
+          "isbn13": "9781536204278",
+          "addition_symbol": "",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/23139/26/cover/1536204277_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5784218",
+          "loan_count": "4482"
+        }
+      },
+      {
+        "doc": {
+          "no": 98,
+          "ranking": "98",
+          "bookname": "Zack Files 01: Great-Grandpa's in the Litter Box (Paperback)",
+          "authors": "Dan Greenburg",
+          "publisher": "GROSSET&DUNLAP",
+          "publication_year": "2011",
+          "isbn13": "9780448412603",
+          "addition_symbol": "41260",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/002/395/00239544.jpg?type=m1&udate=20180202",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=2403826",
+          "loan_count": "4439"
+        }
+      },
+      {
+        "doc": {
+          "no": 99,
+          "ranking": "99",
+          "bookname": "Wrecking Ball (Diary of a Wimpy Kid Book 14) (Hardcover)",
+          "authors": "제프 키니 (지은이)",
+          "publisher": "Amulet Books",
+          "publication_year": "2019",
+          "isbn13": "9781419739033",
+          "addition_symbol": "",
+          "vol": "14",
+          "class_no": "843.6",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "https://image.aladin.co.kr/product/18423/16/cover/141973903d_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5484771",
+          "loan_count": "4411"
+        }
+      },
+      {
+        "doc": {
+          "no": 100,
+          "ranking": "100",
+          "bookname": "Sunset of the Sabertooth",
+          "authors": "by Mary Pope Osborne;illustrated by Sal Murdocca",
+          "publisher": "Random House",
+          "publication_year": "1996",
+          "isbn13": "9780679863731",
+          "addition_symbol": "50399",
+          "vol": "",
+          "class_no": "843",
+          "class_nm": "문학 > 영미문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/44/69/cover/0679863737_2.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=943183",
+          "loan_count": "4396"
+        }
+      }
+    ]
+  }
+}
