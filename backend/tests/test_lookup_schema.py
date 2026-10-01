@@ -75,6 +75,64 @@ class LookupSchemaTests(unittest.TestCase):
 
         self.assertEqual(BiblioSchema.model_validate(biblio).subtitle, "")
 
+    def test_subtitle_prefers_aladin_api_over_pages(self) -> None:
+        biblio = merge_biblio(
+            {"found": True, "title": "카프카의 문장들"},
+            {"found": False},
+            {"found": True, "title_statement": "카프카의 문장들 - 상세 페이지 부제"},
+            {"found": True, "subtitle": "알라딘 부제"},
+            {"found": True, "subtitle": "교보 부제"},
+        )
+
+        validated = BiblioSchema.model_validate(biblio)
+        self.assertEqual(validated.subtitle, "알라딘 부제")
+        self.assertEqual(validated.field_sources["subtitle"], "aladin")
+
+    def test_subtitle_falls_back_to_kyobo_when_api_and_page_are_empty(self) -> None:
+        biblio = merge_biblio(
+            {"found": True, "title": "카프카의 문장들"},
+            {"found": False},
+            {"found": False, "title_statement": ""},
+            {"found": False},
+            {"found": True, "subtitle": "교보 부제"},
+        )
+
+        validated = BiblioSchema.model_validate(biblio)
+        self.assertEqual(validated.subtitle, "교보 부제")
+        self.assertEqual(validated.field_sources["subtitle"], "kyobo")
+
+    def test_subtitle_drops_responsibility_statement_after_colon(self) -> None:
+        biblio = merge_biblio(
+            {"found": True, "title": "처단"},
+            {"found": False},
+            {"found": True, "title_statement": "처단 - 그날 계엄을 막지 못했더라면 :정보라 소설"},
+        )
+
+        self.assertEqual(BiblioSchema.model_validate(biblio).subtitle, "그날 계엄을 막지 못했더라면")
+
+    def test_parallel_title_separator_is_not_treated_as_subtitle(self) -> None:
+        biblio = merge_biblio(
+            {"found": True, "title": "민강"},
+            {"found": False},
+            {"found": True, "title_statement": "민강 = Min Kang"},
+        )
+
+        self.assertEqual(BiblioSchema.model_validate(biblio).subtitle, "")
+
+    def test_aladin_page_and_size_fill_only_when_nl_is_missing(self) -> None:
+        aladin = {"found": True, "item_page": "399", "size_width_mm": "120", "size_height_mm": "192"}
+        filled = BiblioSchema.model_validate(
+            merge_biblio({"found": True}, {"found": False}, None, aladin)
+        )
+        self.assertEqual((filled.page, filled.book_size), ("399 p.", "120*192mm"))
+        self.assertEqual(filled.field_sources["page"], "aladin")
+
+        kept = BiblioSchema.model_validate(
+            merge_biblio({"found": True, "page": "400 p.", "book_size": "188*257mm"}, {"found": False}, None, aladin)
+        )
+        self.assertEqual((kept.page, kept.book_size), ("400 p.", "188*257mm"))
+        self.assertEqual(kept.field_sources["page"], "nl")
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",

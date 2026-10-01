@@ -213,6 +213,29 @@ class GeneratePipelineTests(unittest.TestCase):
         self.assertNotIn("250", {field["tag"] for field in payload["fields"]})
         self.assertNotIn("082", {field["tag"] for field in payload["fields"]})
 
+    def test_rule_subject_terms_respect_generation_scope(self) -> None:
+        """653을 생성 대상에서 뺀 요청에는 규칙 주제어도 넣지 않는다."""
+
+        from backend.schemas.llm_output import GenerateResult
+        from backend.services.llm_input_builder import build_llm_input
+        from backend.schemas.lookup import LookupResponseSchema
+        from backend.services.marc_generator import merge_classification_subject_terms
+
+        lookup = deepcopy(LOOKUP_RESULT)
+        lookup["biblio"].update(kdc="813.7", isbn_add_code="03810")
+        payload = build_llm_input(LookupResponseSchema.model_validate(lookup))
+        empty = GenerateResult(fields=[], skipped_fields=[], warnings=[])
+
+        included = merge_classification_subject_terms(empty.model_copy(deep=True), payload)
+        self.assertEqual(
+            [subfield.value for field in included.fields for subfield in field.subfields],
+            ["한국문학", "한국소설"],
+        )
+
+        payload.generate_options.skipped_by_default = [*payload.generate_options.skipped_by_default, "653"]
+        excluded = merge_classification_subject_terms(empty.model_copy(deep=True), payload)
+        self.assertEqual(excluded.fields, [])
+
 
 if __name__ == "__main__":
     unittest.main()

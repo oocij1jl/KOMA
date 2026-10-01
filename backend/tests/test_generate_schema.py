@@ -98,7 +98,13 @@ class GenerateSchemaTests(unittest.TestCase):
             ) as usage_mock, patch(
                 "backend.services.lookup_service.fetch_nl_seoji_title_statement",
                 new=AsyncMock(return_value={"source": "nl.go.kr/seoji-detail", "found": False, "title_statement": ""}),
-            ) as seoji_mock:
+            ) as seoji_mock, patch(
+                "backend.services.lookup_service.fetch_aladin_item",
+                new=AsyncMock(return_value={"source": "aladin.co.kr", "found": False}),
+            ) as aladin_mock, patch(
+                "backend.services.lookup_service.fetch_kyobo_detail",
+                new=AsyncMock(return_value={"source": "kyobobook.co.kr", "found": False, "subtitle": ""}),
+            ) as kyobo_mock:
                 async with httpx.AsyncClient() as client:
                     result = await lookup_one(client, "89-364-3412-X")
 
@@ -108,6 +114,9 @@ class GenerateSchemaTests(unittest.TestCase):
                 keyword_mock.assert_awaited_once_with(client, "9788936434120")
                 usage_mock.assert_awaited_once_with(client, "9788936434120")
                 seoji_mock.assert_awaited_once_with(client, "9788936434120")
+                aladin_mock.assert_awaited_once_with(client, "9788936434120")
+                # 부제를 못 찾았을 때만 교보를 호출한다.
+                kyobo_mock.assert_awaited_once_with(client, "9788936434120")
 
         asyncio.run(run_test())
 
@@ -144,6 +153,12 @@ class GenerateSchemaTests(unittest.TestCase):
             ) as usage_mock, patch(
                 "backend.services.lookup_service.fetch_nl_seoji_title_statement",
                 new=AsyncMock(return_value={"source": "nl.go.kr/seoji-detail", "found": False, "title_statement": ""}),
+            ), patch(
+                "backend.services.lookup_service.fetch_aladin_item",
+                new=AsyncMock(return_value={"source": "aladin.co.kr", "found": False}),
+            ), patch(
+                "backend.services.lookup_service.fetch_kyobo_detail",
+                new=AsyncMock(return_value={"source": "kyobobook.co.kr", "found": False, "subtitle": ""}),
             ), patch.object(settings, "D4L_SKIP_USAGE", True):
                 async with httpx.AsyncClient() as client:
                     result = await lookup_one(client, "89-364-3412-X")

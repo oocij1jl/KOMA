@@ -26,6 +26,11 @@ class Settings(BaseSettings):
     # 근거만 빠지고 keywords/description 근거는 그대로 유지된다.
     D4L_SKIP_USAGE: bool = False
 
+    # 알라딘 상품 API(ItemLookUp) 인증키.
+    # 국중도 ISBN 서지정보 API에 없는 부제·원제·쪽수·판형을 받는다.
+    # 비어 있으면 알라딘을 호출하지 않고 국중도 상세 페이지/교보로 넘어간다.
+    ALADIN_TTB_KEY: str = ""
+
     # LLM API 키 (다음 단계)
     OPENAI_API_KEY: str = ""
     OPENAI_MODEL: str = "gpt-5.4-mini"

@@ -225,17 +225,23 @@ async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
 
     rule_fields, rule_skipped = build_deterministic_fields(payload.biblio)
     merged = merge_deterministic_fields(result, rule_fields, rule_skipped)
-    return merge_classification_subject_terms(merged, payload.biblio)
+    return merge_classification_subject_terms(merged, payload)
 
 
 def merge_classification_subject_terms(
-    result: "GenerateResultType", biblio: "BiblioSchemaType"
+    result: "GenerateResultType", payload: "LLMInputPayloadType"
 ) -> "GenerateResultType":
     """분류기호에서 유도한 653 주제어를 LLM 주제어 뒤에 덧붙인다.
 
     653은 반복 가능하므로 근거가 다른 둘을 한 필드에 섞지 않고 필드를 나눈다.
     LLM이 이미 쓴 주제어는 중복으로 넣지 않는다. 유도할 값이 없으면 그대로 둔다.
+    요청이 653을 생성 대상에서 뺐으면 규칙 주제어도 만들지 않는다.
     """
+
+    if "653" in set(payload.generate_options.skipped_by_default) or "653" not in set(
+        select_generation_tags(payload)
+    ):
+        return result
 
     existing_terms = [
         subfield.value
@@ -244,7 +250,7 @@ def merge_classification_subject_terms(
         for subfield in field.subfields
         if subfield.code == "a"
     ]
-    rule_field = build_653_classification_field(biblio, existing_terms=existing_terms)
+    rule_field = build_653_classification_field(payload.biblio, existing_terms=existing_terms)
     if rule_field is None:
         return result
 

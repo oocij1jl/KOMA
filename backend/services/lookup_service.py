@@ -1,5 +1,6 @@
 import asyncio
 import importlib
+import re
 from typing import Any
 
 import httpx
@@ -10,6 +11,8 @@ try:  # pragma: no cover - import path depends on startup context
         fetch_d4l_keywords,
         fetch_d4l_usage,
     )
+    from backend.clients.aladin_client import fetch_aladin_item
+    from backend.clients.kyobo_client import fetch_kyobo_detail
     from backend.clients.nl_client import fetch_nl_isbn, fetch_nl_seoji_title_statement
     from backend.config import settings
     from backend.services.evidence_service import merge_evidence
@@ -25,6 +28,10 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     fetch_d4l_usage = data4library_client.fetch_d4l_usage
     fetch_nl_isbn = nl_client.fetch_nl_isbn
     fetch_nl_seoji_title_statement = nl_client.fetch_nl_seoji_title_statement
+    aladin_client = importlib.import_module("clients.aladin_client")
+    kyobo_client = importlib.import_module("clients.kyobo_client")
+    fetch_aladin_item = aladin_client.fetch_aladin_item
+    fetch_kyobo_detail = kyobo_client.fetch_kyobo_detail
     settings = importlib.import_module("config").settings
     merge_evidence = evidence_service.merge_evidence
     to_isbn13 = isbn_utils.to_isbn13
@@ -47,7 +54,8 @@ def _pick(*values: str) -> str:
 
 
 # 상세 페이지가 본표제와 부제를 잇는 데 쓰는 구분자.
-_TITLE_STATEMENT_SEPARATORS = (" - ", " : ", " = ")
+# ` = `는 245 규칙에서 대등표제($x)이므로 부제 구분자로 쓰지 않는다.
+_TITLE_STATEMENT_SEPARATORS = (" - ", " : ")
 
 
 def extract_subtitle(title: str, title_statement: str) -> str:
@@ -56,6 +64,9 @@ def extract_subtitle(title: str, title_statement: str) -> str:
     표제사항이 API 본표제로 시작하고 그 뒤에 구분자가 있을 때만 나눈다.
     두 값이 같거나 본표제로 시작하지 않으면 부제가 없다고 본다. 화면 문자열을
     근거 없이 재단하지 않기 위한 조건이다.
+
+    떼어낸 뒤에 다시 `:`나 `=`가 나오면 그 뒤는 책임표시나 대등표제이므로
+    버린다. 245 $b에 ISBD 구두점이나 책임표시를 넣지 않기 위한 처리다.
     """
 
     main_title = " ".join(title.split())
@@ -66,12 +77,41 @@ def extract_subtitle(title: str, title_statement: str) -> str:
     remainder = statement[len(main_title) :]
     for separator in _TITLE_STATEMENT_SEPARATORS:
         if remainder.startswith(separator):
-            return remainder[len(separator) :].strip()
+            subtitle = remainder[len(separator) :]
+            return re.split(r"[:=]", subtitle)[0].strip()
     return ""
 
 
+def _aladin_extent(aladin: dict[str, Any] | None) -> str:
+    """알라딘 `itemPage`(숫자)를 300 규칙이 읽는 `NNN p.`로 바꾼다."""
+
+    page = str((aladin or {}).get("item_page", "")).strip()
+    return f"{page} p." if page.isdigit() and int(page) > 0 else ""
+
+
+def _aladin_dimensions(aladin: dict[str, Any] | None) -> str:
+    """알라딘 판형(mm)을 300 규칙이 읽는 `가로*세로mm`로 바꾼다.
+
+    세로 값이 없으면 크기를 만들지 않는다. 300은 세로 치수를 쓰기 때문이다.
+    """
+
+    source = aladin or {}
+    width = str(source.get("size_width_mm", "")).strip()
+    height = str(source.get("size_height_mm", "")).strip()
+    if not height.isdigit() or int(height) <= 0:
+        return ""
+    if width.isdigit() and int(width) > 0:
+        return f"{width}*{height}mm"
+    return f"{height}mm"
+
+
+
 def merge_biblio(
-    nl: dict[str, Any], d4l: dict[str, Any], seoji_detail: dict[str, Any] | None = None
+    nl: dict[str, Any],
+    d4l: dict[str, Any],
+    seoji_detail: dict[str, Any] | None = None,
+    aladin: dict[str, Any] | None = None,
+    kyobo: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """국중도 + 정보나루 상세 → biblio (스키마 v2.1)."""
     nl_found = bool(nl.get("found", False))
@@ -106,8 +146,11 @@ def merge_biblio(
         "set_expression": _pick(nl.get("set_expression", "")),
         "price": pick_src("price", (nl.get("price", ""), "nl")),
         "title": pick_src("title", (nl.get("title", ""), "nl"), (d4l.get("title", ""), "d4l")),
+        # 부제 수집 우선순위: 공식 API(알라딘) → 국중도 상세 페이지 → 교보 상세.
+        # 뒤로 갈수록 화면 구조에 의존하므로 공식 응답을 먼저 쓴다.
         "subtitle": pick_src(
             "subtitle",
+            ((aladin or {}).get("subtitle", ""), "aladin"),
             (
                 extract_subtitle(
                     _pick(nl.get("title", ""), d4l.get("title", "")),
@@ -115,6 +158,7 @@ def merge_biblio(
                 ),
                 "nl_seoji_detail",
             ),
+            ((kyobo or {}).get("subtitle", ""), "kyobo"),
         ),
         "author": pick_src(
             "author",
@@ -147,8 +191,11 @@ def merge_biblio(
         "edition_stmt": _pick(nl.get("edition_stmt", "")),
         "series_title": _pick(nl.get("series_title", "")),
         "series_no": _pick(nl.get("series_no", "")),
-        "page": _pick(nl.get("page", "")),
-        "book_size": _pick(nl.get("book_size", "")),
+        # 국중도에 형태사항이 없을 때만 알라딘 값을 쓴다. 단위를 붙여 300 규칙이 읽는 문법으로 맞춘다.
+        "page": pick_src("page", (nl.get("page", ""), "nl"), (_aladin_extent(aladin), "aladin")),
+        "book_size": pick_src(
+            "book_size", (nl.get("book_size", ""), "nl"), (_aladin_dimensions(aladin), "aladin")
+        ),
         "form": _pick(nl.get("form", "")),
         "ebook_yn": _pick(nl.get("ebook_yn", "")),
         "description": pick_src("description", (d4l.get("description", ""), "d4l")),
@@ -165,7 +212,7 @@ def merge_biblio(
 
 
 async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
-    """4개 API + 국중도 상세 페이지 병렬 호출 → biblio/evidence/raw 분리 반환.
+    """국중도·정보나루·알라딘 API와 국중도 상세 페이지 병렬 호출 → biblio/evidence/raw 분리 반환.
 
     settings.D4L_SKIP_USAGE가 켜져 있으면 정보나루 이용분석(co_loan_books)
     호출을 건너뛴다. 정보나루는 하루 500콜 한도가 있어, 책당 호출 수를
@@ -173,8 +220,9 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     하루에 처리 가능한 권수를 늘리기 위함이다. 653 필드의 공동대출 근거만
     빠지고 keywords/description 근거는 그대로 유지된다.
 
-    국중도 상세 페이지는 인증키가 없는 공개 화면이며 부제만 가져온다.
-    실패해도 나머지 조회 결과로 계속 진행한다.
+    부제는 공식 API(알라딘) → 국중도 상세 페이지 → 교보 상세 순으로 찾는다.
+    교보는 공개 API가 없어 두 번 요청해야 하므로, 앞의 두 곳에서 부제를 얻지
+    못했을 때만 호출한다. 어느 쪽이 실패해도 나머지 결과로 계속 진행한다.
     """
     isbn13 = to_isbn13(isbn)
 
@@ -183,15 +231,20 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
             return SKIPPED_USAGE_RESULT
         return await fetch_d4l_usage(client, isbn13)
 
-    nl, d4l, keywords_result, usage_result, seoji_detail = await asyncio.gather(
+    nl, d4l, keywords_result, usage_result, seoji_detail, aladin = await asyncio.gather(
         fetch_nl_isbn(client, isbn13),
         fetch_d4l_detail(client, isbn13),
         fetch_d4l_keywords(client, isbn13),
         _usage(),
         fetch_nl_seoji_title_statement(client, isbn13),
+        fetch_aladin_item(client, isbn13),
     )
 
-    biblio = merge_biblio(nl, d4l, seoji_detail)
+    biblio = merge_biblio(nl, d4l, seoji_detail, aladin)
+    kyobo: dict[str, Any] = {"source": "kyobobook.co.kr", "found": False, "error": "skipped (부제 확보됨)"}
+    if not biblio["subtitle"]:
+        kyobo = await fetch_kyobo_detail(client, isbn13)
+        biblio = merge_biblio(nl, d4l, seoji_detail, aladin, kyobo)
     evidence = merge_evidence(biblio, keywords_result, usage_result)
 
     return {
@@ -204,6 +257,8 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
             "d4l_keyword": keywords_result,
             "d4l_usage": usage_result,
             "nl_seoji_detail": seoji_detail,
+            "aladin": aladin,
+            "kyobo": kyobo,
         },
         "found": biblio["found"],
     }

@@ -655,10 +655,18 @@ def _dedupe_terms(terms: list[str]) -> list[str]:
 def build_653_classification_field(
     biblio: "BiblioSchemaType", *, existing_terms: list[str]
 ) -> "GeneratedFieldType | None":
-    """분류기호에서 유도한 주제어 중 이미 있는 것을 뺀 653 필드를 만든다."""
+    """분류기호에서 유도한 주제어 중 이미 있는 것을 뺀 653 필드를 만든다.
 
-    existing = {_comparison_key(term) for term in existing_terms}
-    terms = [term for term in classification_subject_terms(biblio) if _comparison_key(term) not in existing]
+    LLM 주제어와 같은 정책을 쓴다. 서명·부제·저자·출판사·총서명과 값이 완전히
+    같은 주제어는 주제 접근점이 아니라 서지 값의 반복이므로 제외한다.
+    """
+
+    polluted = {
+        _comparison_key(getattr(biblio, key, ""))
+        for key in ("title", "subtitle", "author", "publisher", "series_title")
+    }
+    excluded = {_comparison_key(term) for term in existing_terms} | {key for key in polluted if key}
+    terms = [term for term in classification_subject_terms(biblio) if _comparison_key(term) not in excluded]
     if not terms:
         return None
 
