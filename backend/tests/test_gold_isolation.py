@@ -15,6 +15,7 @@ from unittest.mock import AsyncMock, patch
 import httpx
 
 from backend.routers.generate import _generate_one
+from backend.tests.test_generate_schema import _bulk_lookup_payload
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 GOLD_DIR = REPO_ROOT / "ai/evaluation/gold/gold500-20261001"
@@ -85,18 +86,7 @@ class CapturedInputTests(unittest.TestCase):
             async with httpx.AsyncClient(transport=httpx.MockTransport(lambda r: httpx.Response(200, json={}))) as client:
                 return await _generate_one(client, asyncio.Semaphore(1), "9791198682550", capture=captured)
 
-        lookup = {
-            "isbn": "9791198682550",
-            "found": True,
-            "biblio": {"found": True, "isbn_ea": "9791198682550", "title": "제목"},
-            "evidence": {
-                "keywords": [], "description": "", "co_loan_books": [],
-                "translation_signals": {"detected": False, "hints": []},
-                "available": {"keywords": False, "description": False, "co_loan_books": False,
-                              "translation_signals": False},
-            },
-            "raw": {},
-        }
+        lookup = _bulk_lookup_payload("9791198682550")
         with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup)), patch(
             "backend.routers.generate.generate_marc_result", new=AsyncMock(side_effect=generate)
         ):
@@ -111,7 +101,10 @@ class CapturedInputTests(unittest.TestCase):
             async with httpx.AsyncClient(transport=httpx.MockTransport(lambda r: httpx.Response(200, json={}))) as client:
                 return await _generate_one(client, asyncio.Semaphore(1), "9791198682550")
 
-        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value={"isbn": "9791198682550", "found": False})):
+        with patch(
+            "backend.routers.generate.lookup_one",
+            new=AsyncMock(return_value=_bulk_lookup_payload("9791198682550", found=False)),
+        ):
             item = asyncio.run(exercise())
 
         self.assertEqual(set(item), {"isbn", "status", "error_code", "error_message"})
