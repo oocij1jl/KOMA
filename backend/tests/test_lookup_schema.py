@@ -179,6 +179,19 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertEqual(filled.author, "우현옥 글")
         self.assertEqual(filled.field_sources["author"], "d4l")
 
+    def test_translation_is_detected_even_when_the_other_source_wins_the_statement(self) -> None:
+        # 245에 쓸 책임표시는 국중도 쪽이 이겨도, '옮김'이 정보나루에만 있으면
+        # 번역 근거는 살아 있어야 한다. 그렇지 않으면 041이 통째로 보류된다.
+        evidence = merge_evidence(
+            {"author": "앙드레 마루아 글 파트릭 두아용 그림", "description": ""},
+            {"keywords": []},
+            {"co_loan_books": []},
+            author_statements=["앙드레 마루아 글 파트릭 두아용 그림", "글: 앙드레 마루아 ;옮김: 이정주"],
+        )
+
+        self.assertTrue(evidence["translation_signals"]["detected"])
+        self.assertTrue(evidence["available"]["translation_signals"])
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",

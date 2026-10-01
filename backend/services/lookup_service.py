@@ -282,7 +282,12 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
     )
 
     biblio = merge_biblio(nl, d4l, seoji_detail, aladin, kyobo)
-    evidence = merge_evidence(biblio, keywords_result, usage_result)
+    evidence = merge_evidence(
+        biblio,
+        keywords_result,
+        usage_result,
+        author_statements=[biblio.get("author", ""), nl.get("author", ""), d4l.get("author", "")],
+    )
 
     return {
         "isbn": isbn13,
