@@ -254,7 +254,7 @@ class OutputValidatorTests(unittest.TestCase):
             evidence=self._build_evidence(),
         )
 
-        self.assertEqual([subfield.value for subfield in result.fields[0].subfields], ["폭력"])
+        self.assertEqual([subfield.value for subfield in result.fields[0].subfields], ["채식주의", "폭력"])
         self.assertEqual(result.skipped_fields, [])
 
     def test_validate_output_filters_series_title_and_co_loan_title_contamination(self) -> None:
@@ -304,7 +304,7 @@ class OutputValidatorTests(unittest.TestCase):
                         "indicator1": " ",
                         "indicator2": " ",
                         "subfields": [
-                            {"code": "a", "value": "채식주의"},
+                            {"code": "a", "value": "채식주의자"},
                             {"code": "a", "value": "한강"},
                             {"code": "a", "value": "창비"},
                         ],
@@ -371,7 +371,7 @@ class OutputValidatorTests(unittest.TestCase):
                         "tag": "653",
                         "indicator1": " ",
                         "indicator2": " ",
-                        "subfields": [{"code": "a", "value": "채식주의"}],
+                        "subfields": [{"code": "a", "value": "채식주의자"}],
                         "source": "ai_inference",
                         "review_required": True,
                         "confidence": "medium",
@@ -803,7 +803,7 @@ class OutputValidatorTests(unittest.TestCase):
 
         result = validate_output(
             raw_output,
-            evidence=self._build_evidence(translation_signals={"detected": True, "hints": ["author에 '옮김' 포함"]}),
+            evidence=self._build_evidence(description="스페인어 원작을 한국어로 번역"),
         )
 
         self.assertEqual([field.tag for field in result.fields], ["546"])
@@ -847,7 +847,7 @@ class OutputValidatorTests(unittest.TestCase):
             ]
         )
 
-        result = validate_output(raw_output, evidence=self._build_evidence())
+        result = validate_output(raw_output, evidence=self._build_evidence(description="독일어 원작을 한국어로 번역"))
 
         self.assertEqual([field.tag for field in result.fields], ["041"])
 
@@ -945,6 +945,152 @@ class OutputValidatorTests(unittest.TestCase):
         result = validate_output(raw_output)
 
         self.assertEqual([field.tag for field in result.fields], ["500", "500", "500", "500"])
+
+    def _inferred_field(self, tag: str, subfields: list[tuple[str, str]]) -> dict[str, object]:
+        return {
+            "tag": tag,
+            "indicator1": " ",
+            "indicator2": " ",
+            "subfields": [{"code": code, "value": value} for code, value in subfields],
+            "source": "ai_inference",
+            "review_required": True,
+            "confidence": "medium",
+            "evidence": {"from": ["description"], "reasoning": "모델의 주장은 독립 근거가 아님"},
+        }
+
+    def test_language_claims_require_actual_available_evidence(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("041", [("a", "kor"), ("h", "eng")]),
+            self._inferred_field("546", [("a", "영어 원작을 한국어로 번역")]),
+        ])
+        unavailable = self._build_evidence(
+            description="영어 원작을 한국어로 번역",
+            translation_signals={"detected": True, "hints": ["옮김"]},
+            available={"keywords": False, "description": False, "co_loan_books": False, "translation_signals": False},
+        )
+        hints_only = self._build_evidence(
+            author="영국 작가 지음; 한국인 옮김",
+            translation_signals={"detected": True, "hints": ["옮김"]},
+            available={"keywords": False, "description": False, "co_loan_books": False, "translation_signals": True},
+        )
+        for evidence in (None, self._build_evidence(), unavailable, hints_only):
+            with self.subTest(evidence=evidence):
+                result = validate_output(raw_output, evidence=evidence)
+                self.assertEqual(result.fields, [])
+                self.assertEqual({item.tag for item in result.skipped_fields}, {"041", "546"})
+
+    def test_available_translation_hint_only_supports_language_free_note(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("041", [("a", "kor")]),
+            self._inferred_field("546", [("a", "번역서")]),
+        ])
+        for available in (True, False):
+            with self.subTest(available=available):
+                evidence = self._build_evidence(
+                    translation_signals={"detected": True, "hints": ["옮김"]},
+                    available={"keywords": False, "description": False, "co_loan_books": False, "translation_signals": available},
+                )
+                result = validate_output(raw_output, evidence=evidence)
+                self.assertEqual([field.tag for field in result.fields], ["546"] if available else [])
+
+    def test_language_roles_do_not_confuse_original_with_translated_language(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("041", [("a", "eng"), ("h", "kor")]),
+            self._inferred_field("546", [("a", "한국어 원작을 영어로 번역")]),
+        ])
+        result = validate_output(raw_output, evidence=self._build_evidence(description="영어 원작을 한국어로 번역"))
+        self.assertEqual(result.fields, [])
+
+    def test_language_policy_keeps_explicit_multilingual_body_without_translation(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("041", [("a", "kor"), ("a", "eng")]),
+            self._inferred_field("546", [("a", "한국어와 영어로 병기")]),
+        ])
+        result = validate_output(raw_output, evidence=self._build_evidence(description="한국어와 영어로 병기"))
+        self.assertEqual([field.tag for field in result.fields], ["041", "546"])
+        self.assertEqual([subfield.value for subfield in result.fields[0].subfields], ["kor", "eng"])
+
+    def test_language_policy_preserves_supported_roles_and_removes_fabricated_original(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("041", [("a", "kor"), ("b", "eng"), ("f", "jpn"), ("h", "ger")]),
+        ])
+        result = validate_output(
+            raw_output,
+            evidence=self._build_evidence(description="본문 언어: 한국어. 영어 요약. 일본어 목차."),
+        )
+        self.assertEqual([(sf.code, sf.value) for sf in result.fields[0].subfields], [
+            ("a", "kor"), ("b", "eng"), ("f", "jpn"),
+        ])
+
+    def test_language_policy_supports_translation_word_order_and_literal_codes(self) -> None:
+        for description in (
+            "한국어로 번역된 영어 원작",
+            "원저작 언어: eng. 본문 언어: kor. 한국어로 번역.",
+        ):
+            with self.subTest(description=description):
+                result = validate_output(
+                    self._language_output([self._inferred_field("041", [("a", "kor"), ("h", "eng")])]),
+                    evidence=self._build_evidence(description=description),
+                )
+                self.assertEqual([(sf.code, sf.value) for sf in result.fields[0].subfields], [("a", "kor"), ("h", "eng")])
+
+    def test_language_policy_defers_unmapped_languages_without_guessing(self) -> None:
+        result = validate_output(
+            self._language_output([self._inferred_field("041", [("h", "ita")])]),
+            evidence=self._build_evidence(description="이탈리아어 원작"),
+        )
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["041"])
+
+    def test_language_note_cannot_add_parenthetical_claim_or_truncate_negation(self) -> None:
+        for description, note in (
+            ("영어 원작을 한국어로 번역", "영어 원작(독일어 중역)을 한국어로 번역"),
+            ("영어 원작을 한국어로 번역한 자료가 아니다", "영어 원작을 한국어로 번역"),
+        ):
+            with self.subTest(description=description):
+                result = validate_output(
+                    self._language_output([self._inferred_field("546", [("a", note)])]),
+                    evidence=self._build_evidence(description=description),
+                )
+                self.assertEqual(result.fields, [])
+
+    def test_grounded_note_stating_absence_of_evidence_is_still_removed(self) -> None:
+        """입력에 그대로 있어도 '보이나'처럼 불확실을 적은 문장은 언어주기가 아니다."""
+
+        result = validate_output(
+            self._language_output([self._inferred_field("546", [("a", "번역서로 보이나")])]),
+            evidence=self._build_evidence(description="번역서로 보이나 원작 언어는 확인 불가"),
+        )
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["546"])
+
+    def test_independent_keyword_survives_title_overlap_but_not_full_name_pollution(self) -> None:
+        raw_output = self._language_output([
+            self._inferred_field("653", [("a", "인공지능"), ("a", "인공지능의 이해"), ("a", "출판사")]),
+        ])
+        for available in (True, False):
+            with self.subTest(available=available):
+                result = validate_output(
+                    raw_output,
+                    biblio=self._build_biblio(title="인공지능의 이해", publisher="출판사", series_title=""),
+                    evidence=self._build_evidence(
+                        keywords=[{"word": term, "weight": 1} for term in ("인공지능", "인공지능의 이해", "출판사")],
+                        available={"keywords": available, "description": False, "co_loan_books": False, "translation_signals": False},
+                    ),
+                )
+                terms = [sf.value for field in result.fields for sf in field.subfields]
+                self.assertEqual(terms, ["인공지능"] if available else [])
+
+    def test_independent_keyword_survives_co_loan_title_overlap(self) -> None:
+        result = validate_output(
+            self._language_output([self._inferred_field("653", [("a", "인공지능")])]),
+            evidence=self._build_evidence(
+                keywords=[{"word": "인공지능", "weight": 1}],
+                co_loan_books=[{"bookname": "인공지능의 이해", "isbn13": "9780000000000", "authors": "저자"}],
+            ),
+        )
+        self.assertEqual([sf.value for sf in result.fields[0].subfields], ["인공지능"])
 
 
 if __name__ == "__main__":

@@ -179,6 +179,95 @@ class Build300Tests(unittest.TestCase):
         assert field is not None
         self.assertEqual(subfield_pairs(field)[0], ("a", "152장"))
 
+    def test_compound_pagination_and_explicit_units_are_not_truncated(self) -> None:
+        for page in (
+            "xii, 250 p.",
+            "400, [98] p.",
+            "xv, 54, 54 p.",
+            "1책 (xvi, 97, 100 p.)",
+            "230 p., 25장",
+            "2 v.",
+            "149 pages",
+            "27 leaves",
+            "3권",
+            "100면",
+            "2매",
+            "[24] p.",
+            "xii p.",
+        ):
+            with self.subTest(page=page):
+                field, skipped = build_300(biblio(page=page))
+                assert field is not None
+                self.assertIsNone(skipped)
+                self.assertEqual(subfield_pairs(field), [("a", page)])
+
+    def test_simple_positive_page_inputs_are_normalized(self) -> None:
+        for page, expected in (("1", "1 p."), ("320p", "320 p."), ("320 pp.", "320 p.")):
+            with self.subTest(page=page):
+                field, _ = build_300(biblio(page=page))
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("a", expected)])
+
+    def test_zero_and_ambiguous_extents_do_not_invent_page_counts(self) -> None:
+        for page in ("0", "000", "0 p.", "0책", "xii, 0 p.", "-5", "12.5", "200 words", "총 200", "250/300"):
+            with self.subTest(page=page):
+                field, _ = build_300(biblio(page=page, book_size="22 cm"))
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("c", "22 cm")])
+
+    def test_decimal_dimensions_follow_scalar_unit_policy(self) -> None:
+        for size, expected in (
+            ("22.5 cm", "22.5 cm"),
+            ("19.8 cm", "19.8 cm"),
+            ("22.05 CM", "22.05 cm"),
+            ("224.5 mm", "23 cm"),
+            ("220 mm", "22 cm"),
+            ("220.1 mm", "23 cm"),
+        ):
+            with self.subTest(size=size):
+                field, _ = build_300(biblio(book_size=size))
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("c", expected)])
+
+    def test_dimension_pairs_keep_service_height_policy_without_losing_decimals(self) -> None:
+        for size, expected in (
+            ("30 x 20 cm", "30 cm"),
+            ("20 × 30 cm", "30 cm"),
+            ("22.5 x 19.8 cm", "22.5 cm"),
+            ("152.5*224.5mm", "23 cm"),
+            ("188*257mm", "26 cm"),
+            ("200*220.1mm", "23 cm"),
+        ):
+            with self.subTest(size=size):
+                field, _ = build_300(biblio(book_size=size))
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("c", expected)])
+
+    def test_ambiguous_or_nonpositive_dimensions_are_deferred(self) -> None:
+        for size in (
+            "0 x 20 cm",
+            "20 × 0 cm",
+            "0 cm",
+            "0.0 mm",
+            "-22 cm",
+            "22",
+            "8 in.",
+            "22 cm (케이스 30 cm)",
+            "22 cmm",
+        ):
+            with self.subTest(size=size):
+                field, _ = build_300(biblio(page="200", book_size=size))
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("a", "200 p.")])
+                self.assertIn(size, field.note)
+
+    def test_invalid_extent_and_dimension_skip_the_field(self) -> None:
+        field, skipped = build_300(biblio(page="0", book_size="0 cm"))
+
+        self.assertIsNone(field)
+        assert skipped is not None
+        self.assertEqual(skipped.tag, "300")
+
     def test_illustration_subfield_is_never_generated(self) -> None:
         """삽화(▼b)는 근거가 없으므로 만들지 않는다."""
 
@@ -187,14 +276,16 @@ class Build300Tests(unittest.TestCase):
         assert field is not None
         self.assertNotIn("b", {code for code, _ in subfield_pairs(field)})
 
-    def test_unitless_two_numbers_is_treated_as_mm(self) -> None:
+    def test_unitless_numbers_are_treated_as_mm(self) -> None:
         """단위 표기가 없는 '128*188' 형태는 국중도/정보나루 API가 실제로 주는
         정상 포맷이다(2026-09-25 실API 응답 `book_size='188*257'` 확인). 관례상
-        mm(가로*세로)로 보고 세로 188mm는 19cm로 올림한다."""
-        field, _ = build_300(biblio(page="200", book_size="128*188"))
+        mm(가로*세로)로 보고 큰 값을 cm로 올림하며, 소수부도 버리지 않는다."""
+        for size, expected in (("128*188", "19 cm"), ("200*220.1", "23 cm")):
+            with self.subTest(size=size):
+                field, _ = build_300(biblio(page="200", book_size=size))
 
-        assert field is not None
-        self.assertEqual(subfield_pairs(field), [("a", "200 p."), ("c", "19 cm")])
+                assert field is not None
+                self.assertEqual(subfield_pairs(field), [("a", "200 p."), ("c", expected)])
 
     def test_small_unitless_number_is_not_guessed(self) -> None:
         """100 미만의 단위 없는 값은 이미 cm일 가능성이 있어 mm로 추정하지 않는다."""

@@ -33,11 +33,8 @@ class GeneratedField(BaseModel):
 
     tag: str = Field(pattern=r"^\d{3}$")
     source: Literal["api", "ai_inference"]
-    # 파이프라인 어느 단계가 이 필드를 만들었는지: API에서 그대로 가져왔는지(api),
-    # KORMARC 규칙으로 결정론적 변환을 거쳤는지(rule, 현재는 규칙 레이어 미도입),
-    # LLM이 추론했는지(llm). LLM 출력에는 포함되지 않으며 output_validator가
-    # BIBLIO_API_TAGS 기준으로 서버에서 계산해 채운다(source처럼 LLM 자체 보고를
-    # 신뢰하지 않는다).
+    # 실제 생성 주체. 규칙 레이어는 rule, LLM 출력은 검증기가 llm으로 지정한다.
+    # source는 입력 근거의 종류이며 생성 주체와 구분한다.
     generated_by: Literal["api", "rule", "llm"] = "llm"
     indicator1: str = Field(min_length=1, max_length=1)
     indicator2: str = Field(min_length=1, max_length=1)

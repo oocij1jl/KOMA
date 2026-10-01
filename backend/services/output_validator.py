@@ -213,13 +213,15 @@ def _build_author_candidates(biblio: "BiblioSchemaType | None") -> list[str]:
     return [candidate for candidate in _dedupe_preserve_order(candidates) if _comparison_key(candidate)]
 
 
-def _matches_title_like_candidate(term: str, candidates: list[str]) -> bool:
+def _matches_title_like_candidate(term: str, candidates: list[str], *, independently_supported: bool = False) -> bool:
     term_key = _comparison_key(term)
     if not term_key:
         return False
     for candidate in candidates:
         candidate_key = _comparison_key(candidate)
-        if candidate_key and (term_key == candidate_key or term_key in candidate_key or candidate_key in term_key):
+        if candidate_key and (
+            candidate_key in term_key or (not independently_supported and term_key in candidate_key)
+        ):
             return True
     return False
 
@@ -271,6 +273,12 @@ def _remove_redundant_653_fields(
     if not title_like_candidates and not exact_match_candidates and not author_candidates:
         return fields
 
+    keyword_keys = (
+        {_comparison_key(item.word) for item in evidence.keywords}
+        if evidence is not None and evidence.available.keywords
+        else set()
+    )
+
     kept_fields: list["GeneratedFieldType"] = []
     had_653_fields = False
     retained_any_653 = False
@@ -287,7 +295,11 @@ def _remove_redundant_653_fields(
                 kept_subfields.append(subfield)
                 continue
 
-            if _matches_title_like_candidate(subfield.value, title_like_candidates):
+            if _matches_title_like_candidate(
+                subfield.value,
+                title_like_candidates,
+                independently_supported=_comparison_key(subfield.value) in keyword_keys,
+            ):
                 continue
             if _matches_exact_candidate(subfield.value, exact_match_candidates):
                 continue
@@ -402,20 +414,53 @@ def _cleanup_structural_field_errors(
 
 FIELD_041_SKIP_REASON = "번역·다국어 근거 없음: 041 생성 보류"
 FIELD_546_SKIP_REASON = "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
-# 546에 자주 나오는 무근거 문구. "한국어로 된 자료"처럼 자료 자체가 한국어라는
-# 추정만 담고 있으면 언어주기 근거가 되지 않는다.
-GENERIC_KOREAN_NOTE_RE = re.compile(r"^한국어(?:로)?\s*(?:된|기술된|쓰인|작성된)?\s*\S*$")
-LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "옮김", "대역", "병기", "자막", "요약", "초록", "원문")
 # "번역 정황은 확인되지 않음"처럼 근거가 없다는 사실을 적은 주기. 키워드가
 # 들어 있어도 언어 정보를 주지 않으므로 남기지 않는다.
 NEGATED_NOTE_RE = re.compile(r"확인되지\s*않|확인할\s*수\s*없|정황은\s*없|근거\s*(?:가\s*)?(?:부족|없)|보이나|아님|없음")
+# This is a bounded service vocabulary, not a language detector. Unknown names
+# are deferred; explicitly labelled three-letter source codes remain usable.
+_LANGUAGE_CODES = {
+    "한국어": "kor",
+    "영어": "eng",
+    "독일어": "ger",
+    "스페인어": "spa",
+    "일본어": "jpn",
+    "중국어": "chi",
+    "프랑스어": "fre",
+}
+_LANGUAGE_TOKEN = "|".join(_LANGUAGE_CODES) + r"|(?<![A-Za-z])[a-z]{3}(?![A-Za-z])"
+_LANGUAGE_MENTION_RE = re.compile(_LANGUAGE_TOKEN)
+_LANGUAGE_ROLES = {
+    "a": (r"(?:본문|번역문)(?:\s*언어)?", r"(?:로|으로)\s*(?:번역|옮긴|옮겨)"),
+    "b": (r"(?:요약|요약문|초록)(?:\s*언어)?", r"\s*(?:요약|초록)"),
+    "f": (r"(?:목차|내용목차)(?:\s*언어)?", r"\s*목차"),
+    "h": (r"(?:원작|원저작|원저|원문)(?:의)?(?:\s*언어)?", r"\s*(?:원작|원저|원문)"),
+    "k": (r"중역(?:\s*언어)?", r"\s*중역"),
+}
+_MULTILINGUAL_RE = re.compile(
+    rf"(?:{_LANGUAGE_TOKEN})(?:\s*(?:와|과|및|/|·|,)\s*(?:{_LANGUAGE_TOKEN}))+"
+    r"\s*(?:를|을|로|으로|가|이)?\s*(?:대역|병기|본문)"
+)
+_LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "옮김", "대역", "병기", "자막", "요약", "초록", "원문", "목차")
+_GENERIC_TRANSLATION_NOTES = {"번역서", "번역 자료", "번역된 자료"}
 
 
-def _has_translation_signal(evidence: "EvidenceSchemaType | None") -> bool:
-    if evidence is None:
-        return False
-    signals = getattr(evidence, "translation_signals", None)
-    return bool(getattr(signals, "detected", False))
+def _source_language_roles(description: str) -> dict[str, set[str]]:
+    """Read explicit language roles, never author nationality or model reasoning."""
+    roles: dict[str, set[str]] = {code: set() for code in _LANGUAGE_ROLES}
+    for clause in re.split(r"[.!?;\n]", description):
+        for mention in _LANGUAGE_MENTION_RE.finditer(clause):
+            language = _LANGUAGE_CODES.get(mention.group(), mention.group())
+            before, after = clause[:mention.start()], clause[mention.end():]
+            for code, (prefix, suffix) in _LANGUAGE_ROLES.items():
+                if re.search(rf"{prefix}\s*[:：=]?\s*$", before) or re.match(suffix, after):
+                    roles[code].add(language)
+        for multilingual in _MULTILINGUAL_RE.finditer(clause):
+            roles["a"].update(
+                _LANGUAGE_CODES.get(mention.group(), mention.group())
+                for mention in _LANGUAGE_MENTION_RE.finditer(multilingual.group())
+            )
+    return roles
 
 
 def _enforce_language_field_policy(
@@ -425,40 +470,79 @@ def _enforce_language_field_policy(
     *,
     evidence: "EvidenceSchemaType | None",
 ) -> list["GeneratedFieldType"]:
-    """041/546을 근거 없이 만든 경우 제거한다.
-
-    - 041은 008/35-37만으로 부족할 때 쓰는 필드다. 본문언어 하나만 기술한
-      041은 정보를 더하지 않으므로, 번역 정황이 없으면 남기지 않는다.
-    - 546은 문장형 언어 설명이다. "한국어로 된 자료"처럼 단일 언어 추정만
-      담긴 주기는 근거가 아니다.
-    """
-
-    translation_detected = _has_translation_signal(evidence)
+    """Keep only source-supported language claims under a conservative policy."""
+    description = evidence.description if evidence is not None and evidence.available.description else ""
+    # Negative/uncertain descriptions cannot establish a positive language fact.
+    description = ".".join(
+        clause for clause in re.split(r"[.!?;\n]", description)
+        if not re.search(r"아니|않|없|불명|미상|추정", clause)
+    )
+    translation_detected = bool(
+        evidence is not None
+        and evidence.available.translation_signals
+        and evidence.translation_signals.detected
+    )
+    roles = _source_language_roles(description)
+    # An explicit target-language translation phrase also supplies translation
+    # context when the upstream hint detector has not set its flag.
+    translation_context = translation_detected or bool(
+        roles["a"] and re.search(r"(?:로|으로)\s*(?:번역|옮긴|옮겨)", description)
+    )
+    description_key = WHITESPACE_RE.sub("", description).casefold()
     kept_fields: list["GeneratedFieldType"] = []
 
     for field in fields:
         if field.tag == "041":
-            codes = {subfield.code for subfield in field.subfields}
-            only_text_language = codes <= {"a"}
-            if only_text_language and not translation_detected:
-                warnings.append("041 본문언어만 기술되어 근거 부족으로 제거됨")
+            supported = [
+                subfield for subfield in field.subfields
+                if subfield.code in roles and subfield.value in roles[subfield.code]
+            ]
+            body_languages = {subfield.value for subfield in supported if subfield.code == "a"}
+            adds_language_information = (
+                len(body_languages) > 1
+                or any(subfield.code != "a" for subfield in supported)
+                or translation_context
+            )
+            if not supported or not adds_language_information:
+                warnings.append("041 언어별 입력 근거 부족으로 제거됨")
                 _set_skip_reason(skipped_fields, "041", FIELD_041_SKIP_REASON)
                 continue
+            retained = [
+                subfield for subfield in field.subfields
+                if subfield in supported or subfield.code in {"2", "6", "8"}
+            ]
+            if len(retained) != len(field.subfields):
+                warnings.append("041 입력에서 확인되지 않은 언어 식별기호를 제거했습니다.")
+            field.subfields = retained
+            if field.indicator1 == "1" and not translation_context:
+                field.indicator1 = " "
+            field.review_required = True
 
         if field.tag == "546":
-            values = [subfield.value for subfield in field.subfields if subfield.code == "a"]
-            informative = any(
-                keyword in value for value in values for keyword in LANGUAGE_NOTE_KEYWORDS
+            values = [subfield.value for subfield in field.subfields if subfield.code in {"a", "b"}]
+            supported_note = bool(values) and all(
+                (
+                    value in _GENERIC_TRANSLATION_NOTES and translation_detected
+                ) or (
+                    bool(value.strip())
+                    and WHITESPACE_RE.sub("", value).casefold().rstrip(".") in description_key
+                    and any(keyword in value for keyword in _LANGUAGE_NOTE_KEYWORDS)
+                    and not re.search(r"아니|않|없|불명|미상|추정", value)
+                )
+                for value in values
             )
-            generic_only = all(GENERIC_KOREAN_NOTE_RE.match(value) for value in values) if values else True
             negated = any(NEGATED_NOTE_RE.search(value) for value in values)
-            if negated or (not informative and (generic_only or not translation_detected)):
-                warnings.append("546 언어주기 근거 부족으로 제거됨")
+            if negated or not supported_note:
+                warnings.append("546 언어주기 입력 근거 부족으로 제거됨")
                 _set_skip_reason(skipped_fields, "546", FIELD_546_SKIP_REASON)
                 continue
+            field.review_required = True
 
         kept_fields.append(field)
 
+    for tag in ("041", "546"):
+        if any(field.tag == tag for field in kept_fields):
+            _remove_skip_tag(skipped_fields, tag)
     return kept_fields
 
 

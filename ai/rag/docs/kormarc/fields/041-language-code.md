@@ -26,15 +26,15 @@
 
 ## Service Generation Rule
 
-translation_signals.detected가 true이거나 description·author에서 번역 정황이 명확할 때만 041을 만든다. 번역 언어는 a, 원저작 언어는 h에 기술한다. 원저작 언어를 모르면 h를 만들지 않는다. und를 자동으로 넣지 않는다. source는 ai_inference, review_required는 true다.
+041의 각 언어와 역할은 evidence.available.description=true인 description에서 직접 확인한다. '한국어로 번역'은 a, '영어 원작'은 h, '영어 요약'은 b, '일본어 목차'는 f, 명시된 중역 언어는 k의 근거다. '한국어와 영어로 병기'처럼 명시된 다국어 본문도 허용한다. translation_signals는 available.translation_signals=true이고 detected=true일 때 번역 정황만 보조하며 언어 자체를 확정하지 않는다. 저자·역자 이름, 국적, 한국어 표제, LLM의 evidence.reasoning으로 원어를 추정하지 않는다. source는 ai_inference, review_required는 true다.
 
 ## Skip Rule
 
-번역·다국어 정황이 없으면 041을 만들지 않는다. 본문언어 a 하나만 기술한 041은 008/35-37에 이미 있는 정보라서 추가 가치가 없으므로 만들지 않는다. 검증 단계에서도 a만 있고 번역 신호가 없으면 제거하고 '번역·다국어 근거 없음: 041 생성 보류'를 남긴다. 언어명은 있으나 3자리 부호를 확정할 수 없으면 만들지 않는다.
+입력에서 확인되지 않는 언어 식별기호는 제거한다. 남은 언어가 없거나, 번역 정황 없이 단일 본문언어 a만 남으면 041을 보류한다. 서로 다른 본문언어 a가 둘 이상이거나 요약·목차·원저·중역 언어의 명시 근거가 있으면 유지한다. 원저작 언어를 모르면 h나 und를 임의로 채우지 않는다. unavailable 자료와 출력 자체의 주장으로 필드를 유지하지 않는다. 보류 사유는 '번역·다국어 근거 없음: 041 생성 보류'다.
 
 ## Risk and Validation
 
-언어부호는 소문자 3자리여야 한다. indicator2가 7이면 2 식별기호가 필수다. source가 ai_inference면 evidence가 필수다. 041과 546은 서로 일관되어야 한다.
+자동 검증의 언어명 대응은 한국어(kor), 영어(eng), 독일어(ger), 스페인어(spa), 일본어(jpn), 중국어(chi), 프랑스어(fre)와 역할이 명시된 소문자 3자리 입력 부호로 한정한다. 미지원 언어명·불명확한 역할·부정 또는 추정 표현은 추측하지 않고 보류한다. 이는 완전한 언어 판별기가 아닌 보수적인 서비스 정책이며 사서 검수가 필요하다. indicator2가 7이면 2 식별기호가 필수다. source가 ai_inference면 evidence가 필수다. 041과 546은 서로 일관되어야 한다.
 
 ## Retrieval Hints
 

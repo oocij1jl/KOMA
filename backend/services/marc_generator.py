@@ -179,6 +179,36 @@ def build_prompt(payload: "LLMInputPayloadType") -> str:
     )
 
 
+def _enforce_generation_tags(
+    result: "GenerateResultType", payload: "LLMInputPayloadType"
+) -> None:
+    """프롬프트의 생성 범위를 최종 응답에도 강제한다."""
+
+    allowed = set(select_generation_tags(payload)) | set(DETERMINISTIC_TAGS)
+    excluded = set(payload.generate_options.skipped_by_default)
+    skip_reasons = {
+        "650": "통제 주제명은 표목표 대조 필요: 653으로 대체",
+        "830": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외",
+        "950": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외",
+    }
+    skipped = {item.tag: item for item in result.skipped_fields}
+    kept = []
+    for field in result.fields:
+        if field.tag in allowed and field.tag not in excluded:
+            kept.append(field)
+            continue
+        result.warnings.append(f"{field.tag}은 생성 대상이 아니므로 LLM 출력을 제외했습니다.")
+        skipped[field.tag] = llm_output_schema.SkippedField(
+            tag=field.tag, reason=skip_reasons.get(field.tag, "요청된 생성 대상이 아닌 필드")
+        )
+    for tag in payload.generate_options.skipped_by_default:
+        skipped[tag] = llm_output_schema.SkippedField(
+            tag=tag, reason=skip_reasons.get(tag, "생성 제외 정책에 지정된 필드")
+        )
+    result.fields = kept
+    result.skipped_fields = list(skipped.values())
+
+
 async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
     """규칙 생성, 프롬프트 생성, LLM 호출, 출력 검증을 묶어 GenerateResult를 반환한다.
 
@@ -189,6 +219,7 @@ async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
     prompt = build_prompt(payload)
     raw_output = await llm_client.generate(prompt)
     result = validate_output(raw_output, biblio=payload.biblio, evidence=payload.evidence)
+    _enforce_generation_tags(result, payload)
 
     rule_fields, rule_skipped = build_deterministic_fields(payload.biblio)
     return merge_deterministic_fields(result, rule_fields, rule_skipped)

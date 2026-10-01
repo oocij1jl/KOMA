@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import importlib
 import re
+from decimal import ROUND_CEILING, Decimal
 from typing import TYPE_CHECKING, cast
 
 try:  # pragma: no cover - import path depends on startup context
@@ -33,11 +34,29 @@ SkippedField = cast(type["SkippedFieldType"], llm_output_schema.SkippedField)
 # 값이 없으면 LLM에 넘기지 않고 skip 사유를 남긴다. 추론으로 채울 필드가 아니다.
 DETERMINISTIC_TAGS: tuple[str, ...] = ("020", "245", "250", "260", "300", "490", "056", "082")
 
-# 300 ▼a 수량 단위. API 문자열에 이 단위가 있으면 그대로 따른다.
-KOREAN_EXTENT_UNITS: tuple[str, ...] = ("장", "책", "권", "면", "매")
-NUMBER_RE = re.compile(r"\d+")
-# book_size에서 숫자·구분자를 제거하고 남는 게 있으면 "알 수 없는 단위"로 본다.
-SIZE_UNIT_STRIP_RE = re.compile(r"[\d*x×\s.,]+")
+# 300은 문자열 전체가 지원하는 수량/크기 문법일 때만 변환한다.
+_EXTENT_NUMBER_PATTERN = r"(?:[0-9]+|[ivxlcdm]+)"
+_EXTENT_COUNT_PATTERN = rf"(?:{_EXTENT_NUMBER_PATTERN}|\[{_EXTENT_NUMBER_PATTERN}\])"
+_EXTENT_SEQUENCE_PATTERN = rf"{_EXTENT_COUNT_PATTERN}(?:\s*,\s*{_EXTENT_COUNT_PATTERN})*"
+_EXTENT_UNIT_PATTERN = r"(?:pp?\.?|pages?|v\.?|volumes?|leaves|leaf|[장책권면매])"
+_EXTENT_PART_PATTERN = rf"{_EXTENT_SEQUENCE_PATTERN}\s*{_EXTENT_UNIT_PATTERN}"
+_EXTENT_RE = re.compile(
+    rf"{_EXTENT_PART_PATTERN}(?:\s*\({_EXTENT_PART_PATTERN}\))?"
+    rf"(?:\s*,\s*{_EXTENT_PART_PATTERN})*",
+    re.IGNORECASE,
+)
+_SIMPLE_PAGE_RE = re.compile(r"([0-9]+)\s*pp?\.?", re.IGNORECASE)
+_DIMENSION_RE = re.compile(
+    r"([0-9]+(?:\.[0-9]+)?)(?:\s*[*x×]\s*([0-9]+(?:\.[0-9]+)?))?\s*(cm|mm)",
+    re.IGNORECASE,
+)
+# 단위를 생략한 치수(예: `188*257`)도 문자열 전체가 숫자·구분자뿐일 때만 받는다.
+_UNITLESS_DIMENSION_RE = re.compile(
+    r"([0-9]+(?:\.[0-9]+)?)(?:\s*[*x×]\s*([0-9]+(?:\.[0-9]+)?))?",
+    re.IGNORECASE,
+)
+# 단위 없는 값에 mm 관례를 적용할 최소 크기. 이보다 작으면 이미 cm일 수 있다.
+_UNITLESS_MM_MIN = Decimal(100)
 
 # 책임표시 구분에 쓰는 역할어. 긴 표현을 먼저 찾는다.
 RESPONSIBILITY_ROLE_WORDS: tuple[str, ...] = (
@@ -213,61 +232,83 @@ def build_245(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
 
 
 def _extract_extent(page: str) -> str:
-    """`biblio.page`에서 수량과 특정자료종별을 만든다.
-
-    숫자가 없으면 빈 문자열을 돌려준다. 수량을 추정하지 않는다.
-    """
+    """양의 단순 쪽수만 보완하고, 지원하는 복합 면수는 통째로 보존한다."""
 
     cleaned = _clean(page)
     if not cleaned:
         return ""
 
-    match = NUMBER_RE.search(cleaned)
-    if match is None:
+    if re.fullmatch(r"[0-9]+", cleaned):
+        return f"{cleaned} p." if cleaned.strip("0") else ""
+    if _EXTENT_RE.fullmatch(cleaned) is None:
         return ""
+    # 복합 면수 안의 0도 유효한 수량으로 내보내지 않는다.
+    if any(not count.strip("0") for count in re.findall(r"[0-9]+", cleaned)):
+        return ""
+    simple_page = _SIMPLE_PAGE_RE.fullmatch(cleaned)
+    if simple_page:
+        return f"{simple_page.group(1)} p."
+    # 앞 숫자 하나만 추출하면 로마숫자 서문, 별도 면수, 권책 단위가 사라진다.
+    return cleaned
 
-    count = match.group()
-    # API가 이미 단위를 갖고 있으면 그 단위를 따른다. 없으면 도서 기본 단위 p.를 쓴다.
-    for unit in KOREAN_EXTENT_UNITS:
-        if unit in cleaned:
-            return f"{count}{unit}"
-    return f"{count} p."
+
+def _max_positive_dimension(first: str, second: str | None) -> Decimal | None:
+    """두 치수가 모두 양수일 때만 큰 값을 세로로 본다."""
+
+    value = Decimal(first)
+    if value <= 0:
+        return None
+    if second is not None:
+        other = Decimal(second)
+        if other <= 0:
+            return None
+        value = max(value, other)
+    return value
 
 
-def _extract_height_cm(book_size: str) -> str:
-    """`biblio.book_size`에서 세로 크기(cm)를 만든다.
+def _millimeters_to_cm(millimeters: Decimal) -> str:
+    """mm는 소수부를 버리지 않고 cm로 올림한다."""
 
-    - `22 cm` 처럼 cm 단위면 그대로 쓴다.
+    centimeters = (millimeters / 10).to_integral_value(rounding=ROUND_CEILING)
+    return f"{centimeters} cm"
+
+
+def _extract_dimensions(book_size: str) -> str:
+    """소수 치수를 읽어 cm 세로값을 만드는 기존 서비스 정책을 적용한다.
+
+    - `22.5 cm` 처럼 cm 단위면 소수까지 그대로 쓴다.
     - `128*188mm` 처럼 두 값이면 큰 값을 세로로 보고 cm로 올림한다.
     - `188*257`처럼 단위 표기가 아예 없는 경우: 정보나루/국중도 API가 실제로
       이 형태(가로*세로, mm, 단위 생략)로 값을 준다(2026-09-25 실API 응답
-      `book_size='188*257'` 확인). 숫자 외 다른 문자가 전혀 없고 최댓값이
+      `book_size='188*257'` 확인). 문자열 전체가 숫자·구분자뿐이고 최댓값이
       100 이상일 때만 mm 관례를 적용한다 — "22"처럼 이미 cm로 보이는 작은
       값이나 알 수 없는 단위 문자가 섞인 값은 여전히 추정하지 않는다.
     - 그 외에는 빈 문자열을 돌려준다. 임의 환산하지 않는다.
+
+    두 치수 중 큰 값을 세로로 보고 mm는 cm로 올림하는 것은 도서 API용 서비스
+    관례이며 KORMARC의 보편 규칙이 아니다. 가로로 긴 책의 방향은 검수가 필요하다.
     """
 
-    cleaned = _clean(book_size).lower()
-    if not cleaned:
+    cleaned = _clean(book_size)
+    match = _DIMENSION_RE.fullmatch(cleaned)
+    if match is not None:
+        first, second, unit = match.groups()
+        height = _max_positive_dimension(first, second)
+        if height is None:
+            return ""
+        if unit.lower() == "mm":
+            return _millimeters_to_cm(height)
+        return f"{height} cm"
+
+    # 단위가 하나도 없을 때는 숫자·구분자뿐인 문자열 전체에만 mm 관례를 적용한다.
+    # 부분 추출을 허용하면 "22 cmm"처럼 모르는 단위가 섞인 값까지 환산하게 된다.
+    unitless = _UNITLESS_DIMENSION_RE.fullmatch(cleaned)
+    if unitless is None:
         return ""
-
-    numbers = [int(value) for value in NUMBER_RE.findall(cleaned)]
-    if not numbers:
+    height = _max_positive_dimension(*unitless.groups())
+    if height is None or height < _UNITLESS_MM_MIN:
         return ""
-
-    if "cm" in cleaned:
-        return f"{max(numbers)} cm"
-    if "mm" in cleaned:
-        millimeters = max(numbers)
-        return f"{-(-millimeters // 10)} cm"
-
-    residual = SIZE_UNIT_STRIP_RE.sub("", cleaned)
-    if not residual and max(numbers) >= 100:
-        millimeters = max(numbers)
-        return f"{-(-millimeters // 10)} cm"
-
-    # 단위 표기가 없고 위 관례도 적용할 수 없으면 값의 크기로 추정하지 않는다.
-    return ""
+    return _millimeters_to_cm(height)
 
 
 def build_300(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", "SkippedFieldType | None"]:
@@ -276,23 +317,37 @@ def build_300(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
     삽화(▼b)는 근거가 없으므로 만들지 않는다. 지시기호는 미정의라 공백이다.
     """
 
-    extent = _extract_extent(_clean(getattr(biblio, "page", "")))
-    height = _extract_height_cm(_clean(getattr(biblio, "book_size", "")))
+    page = _clean(getattr(biblio, "page", ""))
+    book_size = _clean(getattr(biblio, "book_size", ""))
+    extent = _extract_extent(page)
+    dimensions = _extract_dimensions(book_size)
 
     subfields: list[dict[str, str]] = []
     if extent:
         subfields.append({"code": "a", "value": extent})
-    if height:
-        subfields.append({"code": "c", "value": height})
+    if dimensions:
+        subfields.append({"code": "c", "value": dimensions})
 
     if not subfields:
-        return None, SkippedField(tag="300", reason="형태사항 근거 없음: page/book_size 미수집")
+        return None, SkippedField(
+            tag="300",
+            reason=(
+                "형태사항 근거 없음: page/book_size 미수집 또는 수량·단위·치수 해석 불가"
+                f" — 원문 page={page!r}, book_size={book_size!r}"
+            ),
+        )
 
     notes = ["biblio.page/book_size 변환"]
     if not extent:
-        notes.append("수량 근거 없음")
-    if not height:
-        notes.append("크기 근거 없음 또는 단위 미확인")
+        notes.append(f"수량 근거 없음 또는 0·미지원 수량 표현 — 원문 검수 필요: {page!r}")
+    if not dimensions:
+        notes.append(f"크기 근거 없음 또는 단위·가로/세로 미확인 — 원문 검수 필요: {book_size!r}")
+    elif book_size.lower().endswith("mm"):
+        notes.append("mm 크기를 cm로 올림 — 서비스 도서 변환 정책")
+    elif _UNITLESS_DIMENSION_RE.fullmatch(book_size) is not None:
+        notes.append(f"단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: {book_size!r}")
+    if dimensions and any(separator in book_size.lower() for separator in ("*", "x", "×")):
+        notes.append(f"복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: {book_size!r}")
 
     field = GeneratedField(
         tag="300",

@@ -138,7 +138,7 @@ class GeneratePipelineTests(unittest.TestCase):
         payload = self._generate()
         field = self._field(payload, "300")
 
-        # 188*257mm → 세로 257mm → 26 cm
+        # 188*257mm → 세로 257mm → 26 cm (서비스의 기존 API 치수 해석 정책).
         self.assertEqual(
             [(sub["code"], sub["value"]) for sub in field["subfields"]],
             [("a", "190 p."), ("c", "26 cm")],
@@ -158,7 +158,6 @@ class GeneratePipelineTests(unittest.TestCase):
         self.assertNotIn("546", {field["tag"] for field in payload["fields"]})
         skipped = {item["tag"]: item["reason"] for item in payload["skipped_fields"]}
         self.assertIn("546", skipped)
-        self.assertIn("단일 언어 추정", skipped["546"])
 
     def test_missing_api_values_are_skipped_not_invented(self) -> None:
         payload = self._generate()
