@@ -37,7 +37,7 @@ class DailyBulkTests(unittest.IsolatedAsyncioTestCase):
                     return httpx.Response(429, json={"response": {"error": "daily quota exceeded"}})
             return httpx.Response(200, json={"response": {}})
 
-        async def generate(client: httpx.AsyncClient, sem: asyncio.Semaphore, isbn: str) -> dict:
+        async def generate(client: httpx.AsyncClient, sem: asyncio.Semaphore, isbn: str, capture: dict | None = None) -> dict:
             await asyncio.gather(*[
                 client.get("https://data4library.kr/api/" + endpoint)
                 for endpoint in ("srchDtlList", "keywordList", "usageAnalysisList")

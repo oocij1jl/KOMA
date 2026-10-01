@@ -121,8 +121,17 @@ async def generate_marc(
     return cast("GenerateResultType", generated)
 
 
-async def _generate_one(http_client: httpx.AsyncClient, sem: asyncio.Semaphore, isbn: str) -> dict[str, Any]:
-    """단건 generate_marc와 동일한 파이프라인을 실행하되, 실패를 예외로 던지지 않고 결과로 반환한다."""
+async def _generate_one(
+    http_client: httpx.AsyncClient,
+    sem: asyncio.Semaphore,
+    isbn: str,
+    capture: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    """단건 generate_marc와 동일한 파이프라인을 실행하되, 실패를 예외로 던지지 않고 결과로 반환한다.
+
+    `capture`를 주면 LLM 호출에 쓴 조회 결과와 입력 payload를 그대로 담아 준다. 같은 책을
+    다른 생성 조건으로 다시 돌릴 때 외부 API를 또 호출하지 않고 입력을 고정하기 위한 것이다.
+    """
     async with sem:
         try:
             lookup_result = await lookup_one(http_client, isbn)
@@ -141,6 +150,9 @@ async def _generate_one(http_client: httpx.AsyncClient, sem: asyncio.Semaphore, 
 
         lookup_model = LookupResponseSchema.model_validate(lookup_result)
         llm_input = build_llm_input(lookup_model)
+        if capture is not None:
+            capture["lookup"] = lookup_result
+            capture["llm_input"] = llm_input.model_dump(mode="json", by_alias=True)
         try:
             generated = await generate_marc_result(llm_input)
         except LLMClientError as exc:

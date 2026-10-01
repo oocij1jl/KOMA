@@ -147,7 +147,8 @@ async def run(args: argparse.Namespace) -> None:
                     upstream_errors.clear()
                     quota_errors.clear()
                     d4l_responses.clear()
-                    item = await _generate_one(client, sem, row.isbn)
+                    capture: dict = {}
+                    item = await _generate_one(client, sem, row.isbn, capture=capture)
                     item["generated_at"] = datetime.now(KST).isoformat()
                     item["d4l_responses"] = list(d4l_responses)
                     incomplete = bool(upstream_errors) or len(d4l_responses) != 3
@@ -163,6 +164,11 @@ async def run(args: argparse.Namespace) -> None:
                         break
                     print(f"Transient D4L failure; retrying {row.isbn} after 2 seconds", flush=True)
                     await asyncio.sleep(2)
+                if "llm_input" in capture:
+                    # 같은 책을 다른 생성 조건으로 다시 돌릴 때 외부 API를 또 쓰지 않도록
+                    # LLM에 넣은 입력을 그대로 보관한다. 두 실행의 입력이 같아야 비교가 성립한다.
+                    save_json(root / "inputs" / f"{row.isbn}.json",
+                              {"isbn": row.isbn, "captured_at": item["generated_at"], **capture})
                 if item["status"] == "success":
                     _assert_published_evidence_key(row.isbn, item["result"]["fields"])
                     request = ValidateRequest.model_validate({"fields": item["result"]["fields"]})

@@ -70,5 +70,52 @@ class GoldIsolationTests(unittest.TestCase):
         self.assertEqual(list(RUN_DIR.glob("**/*.mrc")), [])
 
 
+class CapturedInputTests(unittest.TestCase):
+    """이전 조건 재실행이 외부 API를 다시 호출하지 않도록 입력을 보관하는지 검사한다."""
+
+    def test_capture_holds_the_exact_payload_handed_to_the_model(self) -> None:
+        captured: dict = {}
+        seen: list[object] = []
+
+        async def generate(llm_input: object) -> object:
+            seen.append(llm_input)
+            raise RuntimeError("LLM은 호출하지 않는다")
+
+        async def exercise() -> dict:
+            async with httpx.AsyncClient(transport=httpx.MockTransport(lambda r: httpx.Response(200, json={}))) as client:
+                return await _generate_one(client, asyncio.Semaphore(1), "9791198682550", capture=captured)
+
+        lookup = {
+            "isbn": "9791198682550",
+            "found": True,
+            "biblio": {"found": True, "isbn_ea": "9791198682550", "title": "제목"},
+            "evidence": {
+                "keywords": [], "description": "", "co_loan_books": [],
+                "translation_signals": {"detected": False, "hints": []},
+                "available": {"keywords": False, "description": False, "co_loan_books": False,
+                              "translation_signals": False},
+            },
+            "raw": {},
+        }
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup)), patch(
+            "backend.routers.generate.generate_marc_result", new=AsyncMock(side_effect=generate)
+        ):
+            with self.assertRaises(RuntimeError):
+                asyncio.run(exercise())
+
+        self.assertEqual(captured["lookup"], lookup)
+        self.assertEqual(captured["llm_input"], seen[0].model_dump(mode="json", by_alias=True))
+
+    def test_bulk_response_does_not_leak_the_capture_payload(self) -> None:
+        async def exercise() -> dict:
+            async with httpx.AsyncClient(transport=httpx.MockTransport(lambda r: httpx.Response(200, json={}))) as client:
+                return await _generate_one(client, asyncio.Semaphore(1), "9791198682550")
+
+        with patch("backend.routers.generate.lookup_one", new=AsyncMock(return_value={"isbn": "9791198682550", "found": False})):
+            item = asyncio.run(exercise())
+
+        self.assertEqual(set(item), {"isbn", "status", "error_code", "error_message"})
+
+
 if __name__ == "__main__":
     _ = unittest.main()

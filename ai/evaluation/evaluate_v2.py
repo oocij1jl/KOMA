@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import re
 import sys
@@ -877,8 +878,20 @@ def main() -> None:
             for book in run["books"]
         ],
     )
+    gold_sha = hashlib.sha256(args.gold_mrc.read_bytes()).hexdigest()
     (out_dir / "v2_details.json").write_text(
-        json.dumps({"evaluator_version": EVALUATOR_VERSION, "gold_mrc": args.gold_mrc.name, "runs": runs}, ensure_ascii=False, indent=2, default=list),
+        json.dumps(
+            {
+                # 파일명만 남기면 같은 이름의 다른 정답 파일과 구분되지 않아 재현이 안 된다.
+                "evaluator_version": EVALUATOR_VERSION,
+                "gold_mrc": str(args.gold_mrc),
+                "gold_mrc_sha256": gold_sha,
+                "runs": runs,
+            },
+            ensure_ascii=False,
+            indent=2,
+            default=list,
+        ),
         encoding="utf-8",
     )
     report = build_report(runs)
