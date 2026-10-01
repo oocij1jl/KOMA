@@ -1,0 +1,175 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791173578823"
+        },
+        {
+          "code": "c",
+          "value": "22000"
+        },
+        {
+          "code": "q",
+          "value": "03320"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "피터케이의 이기는 투자 불변의 법칙"
+        },
+        {
+          "code": "c",
+          "value": "피터케이 지음"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "21세기북스"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "피터케이"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "주식투자"
+        },
+        {
+          "code": "a",
+          "value": "포트폴리오"
+        },
+        {
+          "code": "a",
+          "value": "매매전략"
+        },
+        {
+          "code": "a",
+          "value": "투자원칙"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "description에서 투자와 주식 시장 개인 투자자 전략과 원칙에 관한 주제가 명확해 비통제 색인어를 제안함"
+      },
+      "note": "키워드 미수집으로 description 기반 주제어 제안"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "056",
+      "reason": "근거 부족: 056 생성에 필요한 evidence 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 없으면 생성하지 않음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "면수와 크기 정보는 서지 입력으로 처리하되 MARC 생성 근거로 별도 확정 필요"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 근거 부족"
+    },
+    {
+      "tag": "500",
+      "reason": "일반주기 근거 부족: description 단순 복사 금지"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 관리필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론 — 반드시 검수"
+  ]
+}

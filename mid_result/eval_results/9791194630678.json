@@ -1,0 +1,254 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791194630678"
+        },
+        {
+          "code": "c",
+          "value": "13000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "모두의 노션 AI"
+        },
+        {
+          "code": "c",
+          "value": "임대균 오가연 지음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "생능북스 생능출판사"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "임대균"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 개인저자 한 명을 식별할 수 있어 보조 저자 접근점으로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "오가연"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 개인저자 한 명을 식별할 수 있어 보조 저자 접근점으로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "인공지능"
+        },
+        {
+          "code": "a",
+          "value": "메모"
+        },
+        {
+          "code": "a",
+          "value": "데이터베이스"
+        },
+        {
+          "code": "a",
+          "value": "업무관리"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 노션과 AI 메모 일정 데이터베이스 활용이 확인되어 주제 접근어를 최소 정제하여 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "005"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개가 노션 AI 활용 안내서로 정보기술 응용 주제가 두드러져 KDC 후보만 보수적으로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "노션을 처음 접하는 입문자를 위한 안내서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 입문서 성격이 명확하여 일반주기로 간단히 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없고 한국어 서지 정보와 한국어 책소개가 확인되어 언어 주기를 보수적으로 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 없음: 056만 생성"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 또는 다국어 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 정보 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "형태사항은 일부 정보만 있으나 필드 구성에 필요한 검증된 기술 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "소장 또는 가격 부가필드 생성 근거 부족"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 주제 접근어 제안이므로 검수 필요",
+    "056 KDC는 추론 후보이므로 검수 필요",
+    "700 보조 저자 접근점은 저자 문자열 분해 추정이므로 검수 필요",
+    "546은 언어 정황이 강하지 않아 보수적 제안임"
+  ]
+}

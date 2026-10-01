@@ -1,0 +1,272 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791199136250"
+        },
+        {
+          "code": "c",
+          "value": "22000"
+        },
+        {
+          "code": "q",
+          "value": "03150"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "PD가 묻고 운명이 답하다"
+        },
+        {
+          "code": "c",
+          "value": "이석진"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "푸른솔"
+        },
+        {
+          "code": "c",
+          "value": "2025"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "이석진"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "책임표시에서 개인 저자명을 추출하여 700 개인명 접근점으로 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "명리학"
+        },
+        {
+          "code": "a",
+          "value": "사주"
+        },
+        {
+          "code": "a",
+          "value": "음양오행"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [
+          "명리학",
+          "운명",
+          "사주",
+          "음양오행"
+        ],
+        "reasoning": "책소개에서 드러나는 핵심 주제를 최소 정제해 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 부재로 책소개 근거만 사용"
+    },
+    {
+      "tag": "056",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "128"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "명리학과 운명 해석 주제를 바탕으로 KDC 후보를 보수적으로 제안"
+      },
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "246",
+      "source": "ai_inference",
+      "indicator1": "3",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "PD가 묻고 운명이 답하다"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제의 약칭 또는 변형 표제 가능성을 최소 수준으로 제안"
+      },
+      "note": "변형표제 근거 약함"
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "331 p"
+        },
+        {
+          "code": "c",
+          "value": "152 x 224"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "KBS PD의 명리학 탐구 기록"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개와 책임표시에서 확인되는 저술 성격을 일반주기로 간략히 제안"
+      },
+      "note": ""
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "번역 정황은 없으나 한국어 서지 정보로부터 언어 설명을 보수적으로 제안"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 부족"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 또는 다국어 정황 없음"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 근거 없음"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명 근거 없음"
+    },
+    {
+      "tag": "950",
+      "reason": "추가 식별 정보 근거 없음"
+    }
+  ],
+  "warnings": [
+    "700과 245의 책임표시 분리는 검수 필요",
+    "653 색인어는 책소개 기반 추론이므로 검수 필요",
+    "056 KDC는 추론값이므로 검수 필요",
+    "500과 546은 보수적 추론값이므로 검수 필요"
+  ]
+}

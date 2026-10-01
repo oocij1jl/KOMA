@@ -1,0 +1,219 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9791174760548"
+        },
+        {
+          "code": "c",
+          "value": "₩16800"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "판데모니움"
+        },
+        {
+          "code": "c",
+          "value": "글 유상아"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "소원나무"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "유상아"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "청소년 소설"
+        },
+        {
+          "code": "a",
+          "value": "우정"
+        },
+        {
+          "code": "a",
+          "value": "범죄"
+        },
+        {
+          "code": "a",
+          "value": "사회 비판"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 청소년 소설 우정 범죄 사회 태도에 대한 문제의식을 확인할 수 있어 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드 없음 책소개 기반 비통제 색인어 사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "제1회 소원청소년문학상 대상 수상작"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 수상작 정보가 명확하여 일반주기로 제안"
+      },
+      "note": "수상 정보 일반주기"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 책"
+        }
+      ],
+      "review_required": true,
+      "confidence": "low",
+      "evidence": {
+        "from": [
+          "title",
+          "author",
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "제목 저자 표기와 책소개를 바탕으로 한국어 자료로 판단되나 언어 정보는 명시되지 않음"
+      },
+      "note": "언어 설명 추정"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "서지기술값은 biblio에 있으나 생성 규칙상 미지정"
+    },
+    {
+      "tag": "490",
+      "reason": "총서기술은 가능하나 표기 규칙 보류"
+    },
+    {
+      "tag": "830",
+      "reason": "총서명은 있으나 표목형 총서 접근점 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 부가필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 책소개 기반 추론 — 반드시 검수",
+    "500과 546은 검수 필요",
+    "056은 KDC 값이 있으나 판차 미확인"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788960909830"
+        },
+        {
+          "code": "c",
+          "value": "₩19500"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "카프카의 문장들"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "마음산책"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "권혁준"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "저자 표기에서 옮긴이로 확인되는 인물만 700 개인명으로 추출"
+      },
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "일기"
+        },
+        {
+          "code": "a",
+          "value": "편지"
+        },
+        {
+          "code": "a",
+          "value": "대화록"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [
+          "프란츠 카프카",
+          "문장",
+          "일기",
+          "편지",
+          "대화록"
+        ],
+        "reasoning": "책소개에서 작품군과 소재를 드러내는 비통제 색인어를 최소 정제하여 추출"
+      },
+      "note": ""
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "041",
+      "source": "ai_inference",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "kor"
+        },
+        {
+          "code": "h",
+          "value": "ger"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "옮긴이 표기와 번역 정황이 확인되며 원저작은 프란츠 카프카의 독일어 저작으로 판단 가능"
+      },
+      "note": ""
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "399 p"
+        },
+        {
+          "code": "c",
+          "value": "120*192"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "번역서"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "translation_signals",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "옮긴이 표기와 번역 정황이 있어 일반주기로 번역 관련 사실을 최소한으로 기술"
+      },
+      "note": ""
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서명 근거 부족"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서 접근점 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "가격 외 로컬 비고 근거 부족"
+    }
+  ],
+  "warnings": [
+    "041과 500은 번역 정황을 공유하므로 검수 필요",
+    "653은 비통제 색인어이므로 검수 필요",
+    "056은 API 값 기반이지만 판차 근거가 없어 검수 필요"
+  ]
+}

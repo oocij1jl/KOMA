@@ -1,0 +1,168 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788936451684"
+        },
+        {
+          "code": "q",
+          "value": "73810"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": "0",
+      "indicator2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "양배추를 응원해 주세요"
+        },
+        {
+          "code": "c",
+          "value": "온선영 홍주연"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "창비"
+        },
+        {
+          "code": "c",
+          "value": "2026"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "300",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "78 p"
+        },
+        {
+          "code": "c",
+          "value": "168 x 220"
+        }
+      ],
+      "review_required": false,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "어린이책"
+        },
+        {
+          "code": "a",
+          "value": "난센스동화"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 확인되는 주제와 장르 정황을 최소 정제하여 비통제 색인어로 제안"
+      },
+      "note": "정보나루 키워드가 없어 description 기반 추론"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "056",
+      "reason": "KDC 근거 부족: 056 생성에 필요한 evidence 미수집"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황이 없어 생성하지 않음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판차 사항 근거 부족"
+    },
+    {
+      "tag": "490",
+      "reason": "총서 정보 근거 부족"
+    },
+    {
+      "tag": "500",
+      "reason": "특정 5XX 필드가 더 적합하면 500보다 특정 주기 필드 우선"
+    },
+    {
+      "tag": "546",
+      "reason": "언어주기 생성 조건 미충족"
+    },
+    {
+      "tag": "700",
+      "reason": "개인명 부출표목 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체명 부출표목 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "로컬 확장 필드 생성 근거 없음"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론 — 반드시 검수",
+    "245 300 260은 서지 요소 정규화 후처리 필요"
+  ]
+}

@@ -1,0 +1,167 @@
+import asyncio
+import importlib
+from typing import Any
+
+import httpx
+
+try:  # pragma: no cover - import path depends on startup context
+    from backend.clients.data4library_client import (
+        fetch_d4l_detail,
+        fetch_d4l_keywords,
+        fetch_d4l_usage,
+    )
+    from backend.clients.nl_client import fetch_nl_isbn
+    from backend.config import settings
+    from backend.services.evidence_service import merge_evidence
+    from backend.utils.isbn import to_isbn13
+except ModuleNotFoundError:  # pragma: no cover - backend-local execution
+    data4library_client = importlib.import_module("clients.data4library_client")
+    nl_client = importlib.import_module("clients.nl_client")
+    evidence_service = importlib.import_module("services.evidence_service")
+    isbn_utils = importlib.import_module("utils.isbn")
+
+    fetch_d4l_detail = data4library_client.fetch_d4l_detail
+    fetch_d4l_keywords = data4library_client.fetch_d4l_keywords
+    fetch_d4l_usage = data4library_client.fetch_d4l_usage
+    fetch_nl_isbn = nl_client.fetch_nl_isbn
+    settings = importlib.import_module("config").settings
+    merge_evidence = evidence_service.merge_evidence
+    to_isbn13 = isbn_utils.to_isbn13
+
+
+SKIPPED_USAGE_RESULT: dict[str, Any] = {
+    "source": "usageAnalysisList",
+    "found": False,
+    "co_loan_books": [],
+    "error": "skipped (D4L_SKIP_USAGE)",
+}
+
+
+def _pick(*values: str) -> str:
+    """비어 있지 않은 첫 번째 값."""
+    for value in values:
+        if value:
+            return value
+    return ""
+
+
+def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
+    """국중도 + 정보나루 상세 → biblio (스키마 v2.1)."""
+    nl_found = bool(nl.get("found", False))
+    d4l_found = bool(d4l.get("found", False))
+
+    field_sources: dict[str, str] = {}
+    publish_predate = nl.get("publish_predate", "")
+    publish_predate_year = publish_predate[:4] if len(publish_predate) >= 4 else ""
+
+    def pick_src(key: str, *pairs: tuple[str, str]) -> str:
+        for value, source in pairs:
+            if value:
+                field_sources[key] = source
+                return value
+        return ""
+
+    return {
+        "found": nl_found or d4l_found,
+        "isbn_ea": pick_src(
+            "isbn_ea",
+            (nl.get("isbn", ""), "nl"),
+            (d4l.get("isbn13", ""), "d4l"),
+            (d4l.get("isbn", ""), "d4l"),
+        ),
+        "isbn_add_code": pick_src(
+            "isbn_add_code",
+            (nl.get("isbn_add_code", ""), "nl"),
+            (d4l.get("isbn_add_code", ""), "d4l"),
+        ),
+        "set_isbn": _pick(nl.get("set_isbn", "")),
+        "set_add_code": _pick(nl.get("set_add_code", "")),
+        "set_expression": _pick(nl.get("set_expression", "")),
+        "price": pick_src("price", (nl.get("price", ""), "nl")),
+        "title": pick_src("title", (nl.get("title", ""), "nl"), (d4l.get("title", ""), "d4l")),
+        "author": pick_src(
+            "author",
+            (nl.get("author", ""), "nl"),
+            (d4l.get("author", ""), "d4l"),
+        ),
+        "volume": pick_src(
+            "volume",
+            (nl.get("volume", ""), "nl"),
+            (d4l.get("volume", ""), "d4l"),
+        ),
+        "pub_place": "",
+        "publisher": pick_src(
+            "publisher",
+            (nl.get("publisher", ""), "nl"),
+            (d4l.get("publisher", ""), "d4l"),
+        ),
+        "publish_year": pick_src(
+            "publish_year",
+            (d4l.get("publish_year", ""), "d4l"),
+            (publish_predate_year, "nl"),
+        ),
+        "publish_predate": _pick(publish_predate),
+        "kdc": pick_src("kdc", (nl.get("kdc", ""), "nl"), (d4l.get("class_no", ""), "d4l")),
+        "kdc_edition": "",
+        "kdc_name": _pick(d4l.get("class_nm", "")),
+        "ddc": pick_src("ddc", (nl.get("ddc", ""), "nl")),
+        "ddc_edition": "",
+        "subject": pick_src("subject", (nl.get("subject", ""), "nl")),
+        "edition_stmt": _pick(nl.get("edition_stmt", "")),
+        "series_title": _pick(nl.get("series_title", "")),
+        "series_no": _pick(nl.get("series_no", "")),
+        "page": _pick(nl.get("page", "")),
+        "book_size": _pick(nl.get("book_size", "")),
+        "form": _pick(nl.get("form", "")),
+        "ebook_yn": _pick(nl.get("ebook_yn", "")),
+        "description": pick_src("description", (d4l.get("description", ""), "d4l")),
+        "control_no": _pick(nl.get("control_no", "")),
+        "cover_url": pick_src(
+            "cover_url",
+            (nl.get("cover_url", ""), "nl"),
+            (d4l.get("cover_url", ""), "d4l"),
+        ),
+        "toc_url": _pick(nl.get("toc_url", "")),
+        "intro_url": _pick(nl.get("intro_url", "")),
+        "field_sources": field_sources,
+    }
+
+
+async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
+    """4개 API 병렬 호출 → biblio/evidence/raw 분리 반환.
+
+    settings.D4L_SKIP_USAGE가 켜져 있으면 정보나루 이용분석(co_loan_books)
+    호출을 건너뛴다. 정보나루는 하루 500콜 한도가 있어, 책당 호출 수를
+    3콜(상세+키워드+이용분석)에서 2콜(상세+키워드)로 줄여 대량 평가 시
+    하루에 처리 가능한 권수를 늘리기 위함이다. 653 필드의 공동대출 근거만
+    빠지고 keywords/description 근거는 그대로 유지된다.
+    """
+    isbn13 = to_isbn13(isbn)
+
+    async def _usage() -> dict[str, Any]:
+        if settings.D4L_SKIP_USAGE:
+            return SKIPPED_USAGE_RESULT
+        return await fetch_d4l_usage(client, isbn13)
+
+    nl, d4l, keywords_result, usage_result = await asyncio.gather(
+        fetch_nl_isbn(client, isbn13),
+        fetch_d4l_detail(client, isbn13),
+        fetch_d4l_keywords(client, isbn13),
+        _usage(),
+    )
+
+    biblio = merge_biblio(nl, d4l)
+    evidence = merge_evidence(biblio, keywords_result, usage_result)
+
+    return {
+        "isbn": isbn13,
+        "biblio": biblio,
+        "evidence": evidence,
+        "raw": {
+            "nl": nl,
+            "d4l_detail": d4l,
+            "d4l_keyword": keywords_result,
+            "d4l_usage": usage_result,
+        },
+        "found": biblio["found"],
+    }

@@ -1,0 +1,228 @@
+{
+  "fields": [
+    {
+      "tag": "020",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "9788939231900"
+        },
+        {
+          "code": "c",
+          "value": "₩16000"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "245",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "서서 자는 잠"
+        },
+        {
+          "code": "c",
+          "value": "김근하"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "260",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": ""
+        },
+        {
+          "code": "b",
+          "value": "실천문학"
+        },
+        {
+          "code": "c",
+          "value": "2025"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "700",
+      "source": "api",
+      "indicator1": "1",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "김근하"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": ""
+    },
+    {
+      "tag": "653",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국소설"
+        },
+        {
+          "code": "a",
+          "value": "단편소설"
+        },
+        {
+          "code": "a",
+          "value": "고독"
+        },
+        {
+          "code": "a",
+          "value": "삶과죽음"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 첫 소설집과 7편의 단편 관계의 비밀 실존적 고독 삶과 죽음의 경계가 확인되어 주제 색인어를 최소 정제해 제안"
+      },
+      "note": "정보나루 키워드 미수집 상태에서 description 기반 보조 추론 사서 검수 필요"
+    },
+    {
+      "tag": "056",
+      "source": "api",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "8137"
+        }
+      ],
+      "review_required": true,
+      "confidence": "high",
+      "evidence": null,
+      "note": "KDC 판차 미확인"
+    },
+    {
+      "tag": "546",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "한국어로 된 자료"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "title",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "표제와 저자명 및 책소개에서 한국문학 단행본으로 확인되어 문장형 언어주기를 최소 범위로 제안"
+      },
+      "note": "언어 설명 보조"
+    },
+    {
+      "tag": "500",
+      "source": "ai_inference",
+      "indicator1": " ",
+      "indicator2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "김근하의 첫 소설집이다"
+        }
+      ],
+      "review_required": true,
+      "confidence": "medium",
+      "evidence": {
+        "from": [
+          "description",
+          "author"
+        ],
+        "keywords_used": [],
+        "reasoning": "책소개에서 첫 소설집이라는 서지적 성격이 명확하여 일반주기로 간단히 제안"
+      },
+      "note": "일반주기 검수 필요"
+    }
+  ],
+  "skipped_fields": [
+    {
+      "tag": "650",
+      "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+    },
+    {
+      "tag": "082",
+      "reason": "DDC 근거 부족: 082 생성 보류"
+    },
+    {
+      "tag": "041",
+      "reason": "번역 정황 없음"
+    },
+    {
+      "tag": "246",
+      "reason": "대체표제 근거 부족"
+    },
+    {
+      "tag": "250",
+      "reason": "판사항 근거 부족"
+    },
+    {
+      "tag": "300",
+      "reason": "일부 물리사항은 있으나 서술형 근거만으로는 보수적으로 생성 보류"
+    },
+    {
+      "tag": "490",
+      "reason": "총서정보 근거 부족"
+    },
+    {
+      "tag": "710",
+      "reason": "단체저자 근거 부족"
+    },
+    {
+      "tag": "830",
+      "reason": "총서표목 근거 부족"
+    },
+    {
+      "tag": "950",
+      "reason": "가격 등 부가정보는 별도 근거 필드로 처리"
+    }
+  ],
+  "warnings": [
+    "653 색인어는 description 기반 추론이므로 반드시 검수",
+    "056은 KDC 숫자 정제값이므로 검수 필요",
+    "500은 일반주기이므로 더 구체적 필드와 중복 여부 검토 필요"
+  ]
+}
