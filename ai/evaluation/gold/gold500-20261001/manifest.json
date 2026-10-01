@@ -15,5 +15,46 @@
   },
   "dataset": "dataset.csv",
   "gold_mrc": "gold.mrc",
-  "note": "정답이 확인된 ISBN만 포함한다. 생성 결과에서 정답을 만들지 않는다."
+  "note": "정답이 확인된 ISBN만 포함한다. 생성 결과에서 정답을 만들지 않는다.",
+  "population": {
+    "primary_pool": {
+      "source": "D4L 후보 2,545건에서 층화 추출한 500권 평가 표본",
+      "size": 500,
+      "gold_collected": 280,
+      "rejected": {
+        "not_found": 128,
+        "isbn_mismatch": 81,
+        "ambiguous_17_records": 1,
+        "ambiguous_30_records": 3,
+        "ambiguous_2_records": 4,
+        "ambiguous_3_records": 2,
+        "ambiguous_5_records": 1
+      }
+    },
+    "extra_pool": {
+      "source": "같은 D4L 후보 캐시에서 1차 표본에 없는 ISBN",
+      "available": 829,
+      "attempted": 600,
+      "gold_collected": 335,
+      "rejected": {
+        "isbn_mismatch": 219,
+        "not_found": 24,
+        "ambiguous_4_records": 1,
+        "ambiguous_2_records": 14,
+        "ambiguous_3_records": 5,
+        "ambiguous_11_records": 1,
+        "ambiguous_30_records": 1
+      }
+    }
+  },
+  "selection_rule": "정답이 확보된 ISBN만 대상으로, 1차 표본 전량(dataset 파일 순서)을 먼저 넣고 부족분을 추가 후보 파일 순서로 채워 500권을 만든다. 무작위 추출이 아니라 결정적 순서이므로 seed가 없다. 생성 결과·점수는 선정에 전혀 쓰지 않았다.",
+  "selection_bias": "국중도에 정답 레코드가 있는 책만 들어가므로 모집단은 '국가서지에 등재된 도서'로 좁혀진다. 미등재·판본 모호 도서의 정확도는 이 수치로 설명할 수 없다.",
+  "reused_generations": {
+    "books": 78,
+    "note": "이전 실행에서 성공한 결과를 같은 ISBN에 한해 재사용"
+  },
+  "hashes": {
+    "dataset.csv": "0ab3b3d6712d636fa89f9ee716880ab24180b5748e0a6561f8fd8963fd02f725",
+    "gold.mrc": "414d27ca7dd422dbf2ebdde39d2c6e4ec9e1ada93e889f0dda886ca9c2a55157"
+  }
 }

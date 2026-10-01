@@ -34,6 +34,18 @@ def save_json(path: Path, value: dict) -> None:
     temporary.replace(path)
 
 
+def _assert_published_evidence_key(isbn: str, fields: list[dict]) -> None:
+    """근거 키가 발행 계약(`from`)과 다르면 즉시 멈춘다.
+
+    별칭 없이 직렬화하면 `from_`이 나가고, 검증·평가가 근거를 못 읽어 수백 권이
+    조용히 오염된다. 한 권이라도 어긋나면 그 자리에서 실패시킨다.
+    """
+    for field in fields:
+        evidence = field.get("evidence")
+        if isinstance(evidence, dict) and "from" not in evidence:
+            raise SystemExit(f"{isbn}: {field.get('tag')} 근거 키가 'from'이 아니다: {sorted(evidence)}")
+
+
 def summarize(rows: list[bulk.IsbnRow], root: Path, state: dict) -> dict:
     cached = bulk.load_cached_results(root / "results")
     metrics = bulk.compute_metrics(rows, cached)
@@ -152,6 +164,7 @@ async def run(args: argparse.Namespace) -> None:
                     print(f"Transient D4L failure; retrying {row.isbn} after 2 seconds", flush=True)
                     await asyncio.sleep(2)
                 if item["status"] == "success":
+                    _assert_published_evidence_key(row.isbn, item["result"]["fields"])
                     request = ValidateRequest.model_validate({"fields": item["result"]["fields"]})
                     item["validation"] = validate_marc_fields(request.fields)
                 save_json(root / "results" / f"{row.isbn}.json", item)

@@ -85,3 +85,19 @@ class DailyBulkTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(urls, [])
         self.assertEqual(cached, {})
         self.assertEqual(state["d4l_requests"], 448)
+
+
+class EvidenceContractTests(unittest.TestCase):
+    def test_alias_free_evidence_stops_the_run_instead_of_being_saved(self) -> None:
+        fields = [{"tag": "700", "evidence": {"from_": ["author"], "reasoning": "저자"}}]
+
+        with self.assertRaisesRegex(SystemExit, "근거 키가 'from'이 아니다"):
+            runner._assert_published_evidence_key("9791198682550", fields)
+
+    def test_published_evidence_and_evidence_free_fields_pass(self) -> None:
+        fields = [
+            {"tag": "700", "evidence": {"from": ["author"], "reasoning": "저자"}},
+            {"tag": "020", "evidence": None},
+        ]
+
+        self.assertIsNone(runner._assert_published_evidence_key("9791198682550", fields))
