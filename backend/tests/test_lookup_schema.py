@@ -149,6 +149,36 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertEqual(without_kyobo.page, "399 p.")
         self.assertEqual(without_kyobo.field_sources["page"], "nl")
 
+    def test_author_takes_the_statement_that_names_more_roles(self) -> None:
+        # 국중도는 저자만, 정보나루는 역자까지 주는 일이 흔하다. 역자가 빠지면
+        # 245$e가 사라지고 번역 여부도 판단할 수 없다.
+        richer = BiblioSchema.model_validate(
+            merge_biblio(
+                {"found": True, "author": "모건 하우절 지음"},
+                {"found": True, "author": "모건 하우절 지음 ;이지연 옮김"},
+            )
+        )
+        self.assertEqual(richer.author, "모건 하우절 지음 ;이지연 옮김")
+        self.assertEqual(richer.field_sources["author"], "d4l")
+
+    def test_author_keeps_national_library_when_it_names_as_many_roles(self) -> None:
+        # 구분 기호가 없다고 빈약한 쪽으로 바꾸면 그림작가 같은 역할이 사라진다.
+        kept = BiblioSchema.model_validate(
+            merge_biblio(
+                {"found": True, "author": "앙드레 마루아 글 파트릭 두아용 그림"},
+                {"found": True, "author": "글: 앙드레 마루아 ;옮김: 이정주"},
+            )
+        )
+        self.assertEqual(kept.author, "앙드레 마루아 글 파트릭 두아용 그림")
+        self.assertEqual(kept.field_sources["author"], "nl")
+
+    def test_author_falls_back_to_library_api_when_national_library_is_empty(self) -> None:
+        filled = BiblioSchema.model_validate(
+            merge_biblio({"found": True, "author": ""}, {"found": True, "author": "우현옥 글"})
+        )
+        self.assertEqual(filled.author, "우현옥 글")
+        self.assertEqual(filled.field_sources["author"], "d4l")
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",

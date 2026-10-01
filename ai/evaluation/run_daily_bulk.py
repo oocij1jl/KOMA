@@ -9,6 +9,7 @@ import argparse
 import asyncio
 import json
 import logging
+import subprocess
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -32,6 +33,19 @@ def save_json(path: Path, value: dict) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
     temporary.replace(path)
+
+
+def _code_revision() -> str:
+    """생성 규칙을 담은 코드의 git 리비전. 작업 트리가 더러우면 표시한다."""
+    root = Path(__file__).resolve().parents[2]
+    try:
+        rev = subprocess.run(["git", "rev-parse", "--short", "HEAD"], cwd=root,
+                             capture_output=True, text=True, check=True).stdout.strip()
+        dirty = subprocess.run(["git", "status", "--porcelain"], cwd=root,
+                               capture_output=True, text=True, check=True).stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        return "unknown"
+    return f"{rev}-dirty" if dirty else rev
 
 
 def _assert_published_evidence_key(isbn: str, fields: list[dict]) -> None:
@@ -80,6 +94,12 @@ async def run(args: argparse.Namespace) -> None:
     }
     if state["model"] != settings.OPENAI_MODEL:
         raise SystemExit("Model changed since this run began; use a separate output directory")
+    # 생성 규칙은 코드에 있다. 리비전을 남기지 않으면 중간에 규칙이 바뀌어도
+    # 결과만 보고는 어느 책이 어느 규칙으로 만들어졌는지 구분할 수 없다.
+    code_rev = _code_revision()
+    state.setdefault("code_revisions", [])
+    if not state["code_revisions"] or state["code_revisions"][-1]["rev"] != code_rev:
+        state["code_revisions"].append({"rev": code_rev, "since": datetime.now(KST).isoformat()})
     save_json(state_path, state)
     print("Daily bulk evaluator ready", flush=True)
     sem = asyncio.Semaphore(1)
@@ -150,11 +170,13 @@ async def run(args: argparse.Namespace) -> None:
                     capture: dict = {}
                     item = await _generate_one(client, sem, row.isbn, capture=capture)
                     item["generated_at"] = datetime.now(KST).isoformat()
+                    item["code_rev"] = code_rev
                     item["d4l_responses"] = list(d4l_responses)
                     incomplete = bool(upstream_errors) or len(d4l_responses) != 3
                     if incomplete:
                         item = {"isbn": row.isbn, "status": "error", "error_code": "d4l_incomplete",
                                 "d4l_responses": list(d4l_responses), "generated_at": item["generated_at"],
+                                "code_rev": code_rev,
                                 "deferred": bool(quota_errors) or state["d4l_requests"] + 3 > args.daily_call_budget}
                     save_json(root / "attempts" / row.isbn / f"{datetime.now(KST):%Y%m%dT%H%M%S%f}.json", item)
                     if quota_errors:

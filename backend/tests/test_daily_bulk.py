@@ -101,3 +101,9 @@ class EvidenceContractTests(unittest.TestCase):
         ]
 
         self.assertIsNone(runner._assert_published_evidence_key("9791198682550", fields))
+
+    def test_code_revision_is_recorded_so_rule_changes_are_traceable(self) -> None:
+        rev = runner._code_revision()
+
+        self.assertNotEqual(rev, "")
+        self.assertRegex(rev, r"^(unknown|[0-9a-f]{7,}(-dirty)?)$")

@@ -3,7 +3,7 @@
   "gold_mrc": "ai/evaluation/gold/gold500-20261001/interim/gold_interim.mrc",
   "gold_mrc_sha256": "2c9d39d49e5fff71223216055145d91430e4c13e55df8898ff90e144ba622d8f",
   "runs": {
-    "중간78권": {
+    "수정전78권": {
       "scorecard": {
         "books": 78,
         "A_value_accuracy": 0.6706,
@@ -9470,7 +9470,7 @@
           "mean": 0.968
         }
       },
-      "results_dir": "ai/evaluation/runs/gold500-20261001/results"
+      "results_dir": "ai/evaluation/runs/gold500-20261001/results-pre-rulefix"
     }
   }
 }

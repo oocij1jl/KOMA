@@ -10,7 +10,7 @@
 - `source_type`: `official_kormarc_summary`
 - `official_source`: https://librarian.nl.go.kr/kormarc/KSX6006-0/sub/01X_09X_041.html
 - `schema_source`: `backend/docs/KOMA_스키마_v2.1.md`
-- `last_reviewed`: `2026-09-24`
+- `last_reviewed`: `2026-10-01` (번역 정황이 확인된 본문언어 a=kor 유지 규칙 반영)
 
 ## Purpose
 

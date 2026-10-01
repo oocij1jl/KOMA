@@ -105,16 +105,28 @@ def _aladin_dimensions(aladin: dict[str, Any] | None) -> str:
     return f"{height}mm"
 
 
-_ROLE_WORDS = ("옮김", "옮긴이", "번역", "역자", "그림", "사진", "엮음", "엮은이", "감수", "지음", "글")
+# 같은 역할의 다른 표기는 한 역할로 센다. "옮김"과 "옮긴이"가 둘로 세어지면
+# 사람이 한 명인 책임표시가 더 풍부해 보인다.
+_ROLE_GROUPS = (
+    ("옮김", "옮긴이", "번역", "역자"),
+    ("그림", "사진", "삽화"),
+    ("엮음", "엮은이"),
+    ("감수",),
+    ("지음", "글", "저자"),
+)
 
 
 def _responsibility_parts(statement: str) -> int:
-    """책임표시에 몇 사람(또는 역할)이 적혀 있는지 센다."""
+    """책임표시에 몇 사람(또는 역할)이 적혀 있는지 센다.
+
+    구분 기호로 나눈 토막 수와 서로 다른 역할 수 중 큰 쪽을 쓴다. 역할어에 가산점을
+    주면 구분 기호가 없는 쪽("A 글 B 그림")이 과소평가되어 더 빈약한 쪽으로 바뀐다.
+    """
     if not statement:
         return 0
     segments = [part for part in re.split(r"[;；]", statement) if part.strip()]
-    roles = sum(1 for word in _ROLE_WORDS if word in statement)
-    return max(len(segments), 1) + (1 if roles > 1 else 0)
+    roles = sum(1 for group in _ROLE_GROUPS if any(word in statement for word in group))
+    return max(len(segments), roles, 1)
 
 
 def _pick_author(nl_author: str, d4l_author: str) -> tuple[str, str]:
