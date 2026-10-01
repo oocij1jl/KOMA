@@ -598,6 +598,14 @@ def _enforce_language_field_policy(
                 subfield for subfield in field.subfields
                 if subfield.code in roles and subfield.value in roles[subfield.code]
             ]
+            # 번역 정황이 확인되면 본문언어 kor은 근거가 있다. 한국어로 '옮긴' 자료의
+            # 본문이 한국어라는 것은 추정이 아니다. 원저작 언어(h)는 여전히 입력이
+            # 말해 줄 때만 남긴다. 이 구분이 없으면 번역서의 041이 통째로 사라진다.
+            if translation_context:
+                supported += [
+                    subfield for subfield in field.subfields
+                    if subfield.code == "a" and subfield.value == "kor" and subfield not in supported
+                ]
             body_languages = {subfield.value for subfield in supported if subfield.code == "a"}
             adds_language_information = (
                 len(body_languages) > 1

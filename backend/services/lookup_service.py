@@ -105,6 +105,29 @@ def _aladin_dimensions(aladin: dict[str, Any] | None) -> str:
     return f"{height}mm"
 
 
+_ROLE_WORDS = ("옮김", "옮긴이", "번역", "역자", "그림", "사진", "엮음", "엮은이", "감수", "지음", "글")
+
+
+def _responsibility_parts(statement: str) -> int:
+    """책임표시에 몇 사람(또는 역할)이 적혀 있는지 센다."""
+    if not statement:
+        return 0
+    segments = [part for part in re.split(r"[;；]", statement) if part.strip()]
+    roles = sum(1 for word in _ROLE_WORDS if word in statement)
+    return max(len(segments), 1) + (1 if roles > 1 else 0)
+
+
+def _pick_author(nl_author: str, d4l_author: str) -> tuple[str, str]:
+    """역자·그림작가까지 담긴 쪽을 책임표시로 쓴다.
+
+    국중도 서지정보는 저자만 주는 경우가 많아, 그대로 쓰면 245$e(두 번째 책임표시)가
+    사라지고 번역 여부도 판단할 수 없다. 정보나루 저자 문자열에 역할이 더 적혀 있으면
+    그쪽을 쓴다. 같으면 국중도를 유지한다.
+    """
+    if _responsibility_parts(d4l_author) > _responsibility_parts(nl_author):
+        return d4l_author, "d4l"
+    return (nl_author, "nl") if nl_author else (d4l_author, "d4l" if d4l_author else "nl")
+
 
 def merge_biblio(
     nl: dict[str, Any],
@@ -160,11 +183,7 @@ def merge_biblio(
             ),
             ((kyobo or {}).get("subtitle", ""), "kyobo"),
         ),
-        "author": pick_src(
-            "author",
-            (nl.get("author", ""), "nl"),
-            (d4l.get("author", ""), "d4l"),
-        ),
+        "author": pick_src("author", _pick_author(nl.get("author", ""), d4l.get("author", ""))),
         "volume": pick_src(
             "volume",
             (nl.get("volume", ""), "nl"),

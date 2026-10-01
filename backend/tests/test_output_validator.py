@@ -973,11 +973,19 @@ class OutputValidatorTests(unittest.TestCase):
             translation_signals={"detected": True, "hints": ["옮김"]},
             available={"keywords": False, "description": False, "co_loan_books": False, "translation_signals": True},
         )
-        for evidence in (None, self._build_evidence(), unavailable, hints_only):
+        for evidence in (None, self._build_evidence(), unavailable):
             with self.subTest(evidence=evidence):
                 result = validate_output(raw_output, evidence=evidence)
                 self.assertEqual(result.fields, [])
                 self.assertEqual({item.tag for item in result.skipped_fields}, {"041", "546"})
+
+        # 번역 정황이 확인되면 본문언어 kor은 남는다. 정답 MARC에서 번역서 212권이
+        # 모두 041을 갖는데, 원저작 언어를 모른다고 041 전체를 버리면 전부 누락된다.
+        kept = validate_output(raw_output, evidence=hints_only)
+        self.assertEqual([field.tag for field in kept.fields], ["041"])
+        self.assertEqual([(s.code, s.value) for s in kept.fields[0].subfields], [("a", "kor")])
+        self.assertEqual(kept.fields[0].indicator1, "1")
+        self.assertEqual({item.tag for item in kept.skipped_fields}, {"546"})
 
     def test_available_translation_hint_only_supports_language_free_note(self) -> None:
         raw_output = self._language_output([
@@ -991,7 +999,7 @@ class OutputValidatorTests(unittest.TestCase):
                     available={"keywords": False, "description": False, "co_loan_books": False, "translation_signals": available},
                 )
                 result = validate_output(raw_output, evidence=evidence)
-                self.assertEqual([field.tag for field in result.fields], ["546"] if available else [])
+                self.assertEqual([field.tag for field in result.fields], ["041", "546"] if available else [])
 
     def test_language_roles_do_not_confuse_original_with_translated_language(self) -> None:
         raw_output = self._language_output([
