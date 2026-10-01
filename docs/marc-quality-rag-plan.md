@@ -963,6 +963,7 @@ LLM 대상은 `700·653·041·246·500·546·710`이며 7개 모두 규칙이 �
 #### 검토했으나 쓰지 않은 수집원
 
 - **카카오 디벨로퍼스 Daum 책 검색**(`GET https://dapi.kakao.com/v3/search/book`, REST API 키). 응답 필드는 `title, contents, url, isbn, datetime, authors, publisher, translators, price, sale_price, thumbnail, status`다. **부제·쪽수·판형·원제가 모두 없어** 알라딘을 대체하지 못한다. 유일한 추가 정보는 구조화된 `translators`(번역자 목록)이며, 041/546 번역 근거로는 쓸 수 있으나 지금 격차와 무관해 붙이지 않았다.
+- **네이버 검색 API 책**(`GET https://openapi.naver.com/v1/search/book`, Client ID/Secret). 응답 필드는 `title, link, image, author, discount, publisher, isbn, description, pubdate`다. **쪽수·판형·원제가 없고 부제 전용 필드도 없다.** 부제는 `불곰의 주식투자 불패공식 (60개 매도종목 평균 수익률 62%)`처럼 제목 끝 괄호에 섞여 오므로, 괄호가 부제인지 판형·권차 표시인지 구분할 근거가 없다. 이미 국중도·교보에서 분리된 부제를 받고 있어 추가 이득이 없다고 보고 붙이지 않았다.
 
 ### 12.4 측정 (33권, 기존 저장 결과 기반)
 
