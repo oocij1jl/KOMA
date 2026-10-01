@@ -214,14 +214,23 @@ def _build_author_candidates(biblio: "BiblioSchemaType | None") -> list[str]:
 
 
 def _matches_title_like_candidate(term: str, candidates: list[str], *, independently_supported: bool = False) -> bool:
+    """서지 값과 겹치는 653 색인어를 거른다.
+
+    입력 키워드에 그대로 있는 주제어는 독립 근거가 있으므로, 출판사 '길'이
+    키워드 '길찾기'에 들어 있다는 식의 부분 문자열 겹침으로 지우지 않는다.
+    서명·총서명·출판사명을 그대로 복사한 값만 제외한다.
+    """
     term_key = _comparison_key(term)
     if not term_key:
         return False
     for candidate in candidates:
         candidate_key = _comparison_key(candidate)
-        if candidate_key and (
-            candidate_key in term_key or (not independently_supported and term_key in candidate_key)
-        ):
+        if not candidate_key:
+            continue
+        if independently_supported:
+            if candidate_key == term_key:
+                return True
+        elif candidate_key in term_key or term_key in candidate_key:
             return True
     return False
 
@@ -414,9 +423,6 @@ def _cleanup_structural_field_errors(
 
 FIELD_041_SKIP_REASON = "번역·다국어 근거 없음: 041 생성 보류"
 FIELD_546_SKIP_REASON = "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
-# "번역 정황은 확인되지 않음"처럼 근거가 없다는 사실을 적은 주기. 키워드가
-# 들어 있어도 언어 정보를 주지 않으므로 남기지 않는다.
-NEGATED_NOTE_RE = re.compile(r"확인되지\s*않|확인할\s*수\s*없|정황은\s*없|근거\s*(?:가\s*)?(?:부족|없)|보이나|아님|없음")
 # This is a bounded service vocabulary, not a language detector. Unknown names
 # are deferred; explicitly labelled three-letter source codes remain usable.
 _LANGUAGE_CODES = {
@@ -430,37 +436,131 @@ _LANGUAGE_CODES = {
 }
 _LANGUAGE_TOKEN = "|".join(_LANGUAGE_CODES) + r"|(?<![A-Za-z])[a-z]{3}(?![A-Za-z])"
 _LANGUAGE_MENTION_RE = re.compile(_LANGUAGE_TOKEN)
+# 역할 표지 뒤에 흔한 조사("원작은 영어", "본문은 한국어")와 "원작 언어: eng"
+# 형태를 함께 받는다. '의'는 "원작의 언어"처럼 '언어'가 뒤따를 때만 역할
+# 표지다. "원작의 한국어 번역본"의 한국어는 원작 언어가 아니라 번역어다.
+_ROLE_PREFIX_TAIL = r"(?:(?:\s*의)?\s*언어)?\s*(?:은|는|이|가)?\s*[:：=]?\s*$"
+_ROLE_SUFFIX_PARTICLE = r"(?:이|가|은|는|의|을|를)?\s*"
 _LANGUAGE_ROLES = {
-    "a": (r"(?:본문|번역문)(?:\s*언어)?", r"(?:로|으로)\s*(?:번역|옮긴|옮겨)"),
-    "b": (r"(?:요약|요약문|초록)(?:\s*언어)?", r"\s*(?:요약|초록)"),
-    "f": (r"(?:목차|내용목차)(?:\s*언어)?", r"\s*목차"),
-    "h": (r"(?:원작|원저작|원저|원문)(?:의)?(?:\s*언어)?", r"\s*(?:원작|원저|원문)"),
-    "k": (r"중역(?:\s*언어)?", r"\s*중역"),
+    "a": (
+        rf"(?:본문|번역문|번역본){_ROLE_PREFIX_TAIL}",
+        r"(?:로|으로)?\s*(?:번역|옮긴|옮겨|옮김)",
+    ),
+    "b": (rf"(?:요약|요약문|초록){_ROLE_PREFIX_TAIL}", rf"{_ROLE_SUFFIX_PARTICLE}(?:요약|초록)"),
+    "f": (rf"(?:목차|내용목차){_ROLE_PREFIX_TAIL}", rf"{_ROLE_SUFFIX_PARTICLE}목차"),
+    "h": (
+        rf"(?:원작|원저작|원저|원문|원서|원본){_ROLE_PREFIX_TAIL}",
+        rf"{_ROLE_SUFFIX_PARTICLE}(?:원작|원저|원문|원서|원본)",
+    ),
+    "k": (rf"중역{_ROLE_PREFIX_TAIL}", rf"{_ROLE_SUFFIX_PARTICLE}중역"),
 }
 _MULTILINGUAL_RE = re.compile(
     rf"(?:{_LANGUAGE_TOKEN})(?:\s*(?:와|과|및|/|·|,)\s*(?:{_LANGUAGE_TOKEN}))+"
     r"\s*(?:를|을|로|으로|가|이)?\s*(?:대역|병기|본문)"
 )
-_LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "옮김", "대역", "병기", "자막", "요약", "초록", "원문", "목차")
+_LANGUAGE_NOTE_KEYWORDS = ("번역", "원작", "원저", "원서", "옮김", "대역", "병기", "자막", "요약", "초록", "원문", "목차", "중역")
 _GENERIC_TRANSLATION_NOTES = {"번역서", "번역 자료", "번역된 자료"}
+# 의역 경로는 언어 관계와 조사·연결어로만 이루어진 주기에 한정한다.
+# 언어 쌍이 맞는다는 이유로 "점자 수록", "원문 삭제", "무료 제공" 같은
+# 별개 주장을 통과시키지 않는다. 그 밖의 주기는 원문 전사 경로로 확인한다.
+_NOTE_PARAPHRASE_RE = re.compile(
+    r"(?:원저작|원작|원저|원문|원서|원본|본문|번역문|번역본|번역서|번역|"
+    r"옮긴|옮겨|옮김|언어|대역|병기|요약문|요약|초록|내용목차|목차|중역|"
+    r"입니다|이다|이며|이고|임|으로|에서|로|의|은|는|이|가|을|를|와|과|및|"
+    r"하였|했|하여|되어|된|한|함|다|책|자료|[\s,;:.·/()\[\]])+"
+)
+_CLAUSE_SPLIT_RE = re.compile(r"[.!?;\n]")
+# 부정·불확실 판정은 언어·번역 주장에만 적용한다. '빠짐없이'처럼 긍정 서술을
+# 꾸미는 '없이'는 부정이 아니므로 제외한다.
+_LANGUAGE_CLAIM_TOKEN_RE = re.compile(
+    rf"(?:{_LANGUAGE_TOKEN})|번역|원작|원저|원문|원서|원본|옮김|옮긴|대역|병기|다국어|중역|자막|초록|요약|목차|언어"
+)
+_LANGUAGE_NEGATION_RE = re.compile(
+    r"확인되지\s*않|확인할\s*수\s*없|확인\s*불가|알\s*수\s*없|불명|미상|추정|보이나|보임|듯|아니|아님|않|없(?!이)"
+)
 
 
-def _source_language_roles(description: str) -> dict[str, set[str]]:
-    """Read explicit language roles, never author nationality or model reasoning."""
+def _split_clauses(text: str) -> list[str]:
+    return _CLAUSE_SPLIT_RE.split(text)
+
+
+def _clause_has_language_negation(clause: str) -> bool:
+    """언어·번역 주장을 부정하거나 불확실하게 만드는 서술만 센다."""
+    claim = _LANGUAGE_CLAIM_TOKEN_RE.search(clause)
+    if claim is None:
+        return False
+    return any(match.start() >= claim.start() for match in _LANGUAGE_NEGATION_RE.finditer(clause))
+
+
+def _has_language_negation(text: str) -> bool:
+    return any(_clause_has_language_negation(clause) for clause in _split_clauses(text))
+
+
+def _language_claims(text: str) -> tuple[dict[str, set[str]], bool]:
+    """Read explicit language roles, never author nationality or model reasoning.
+
+    역할을 붙일 수 없는 언어 언급이 하나라도 있으면 두 번째 값이 True다.
+    주기 문장을 검사할 때 설명되지 않은 언어 주장을 걸러내는 데 쓴다.
+    """
     roles: dict[str, set[str]] = {code: set() for code in _LANGUAGE_ROLES}
-    for clause in re.split(r"[.!?;\n]", description):
-        for mention in _LANGUAGE_MENTION_RE.finditer(clause):
-            language = _LANGUAGE_CODES.get(mention.group(), mention.group())
-            before, after = clause[:mention.start()], clause[mention.end():]
-            for code, (prefix, suffix) in _LANGUAGE_ROLES.items():
-                if re.search(rf"{prefix}\s*[:：=]?\s*$", before) or re.match(suffix, after):
-                    roles[code].add(language)
+    unexplained = False
+    for clause in _split_clauses(text):
+        multilingual_spans: list[tuple[int, int]] = []
         for multilingual in _MULTILINGUAL_RE.finditer(clause):
+            multilingual_spans.append(multilingual.span())
             roles["a"].update(
                 _LANGUAGE_CODES.get(mention.group(), mention.group())
                 for mention in _LANGUAGE_MENTION_RE.finditer(multilingual.group())
             )
-    return roles
+        for mention in _LANGUAGE_MENTION_RE.finditer(clause):
+            language = _LANGUAGE_CODES.get(mention.group(), mention.group())
+            before, after = clause[:mention.start()], clause[mention.end():]
+            matched = False
+            for code, (prefix, suffix) in _LANGUAGE_ROLES.items():
+                if re.search(prefix, before) or re.match(suffix, after):
+                    roles[code].add(language)
+                    matched = True
+            if not matched and not any(start <= mention.start() < end for start, end in multilingual_spans):
+                unexplained = True
+    return roles, unexplained
+
+
+def _note_claims_supported(value: str, roles: dict[str, set[str]], description_key: str) -> bool:
+    """표현이 달라도 입력이 뒷받침하는 언어 관계만 말하는 주기인지 본다."""
+    for bracketed in BRACKETED_TEXT_RE.findall(value):
+        inner = WHITESPACE_RE.sub("", bracketed[1:-1]).casefold()
+        if inner and inner not in description_key:
+            return False
+    if _NOTE_PARAPHRASE_RE.fullmatch(_LANGUAGE_MENTION_RE.sub("", value)) is None:
+        return False
+    note_roles, unexplained = _language_claims(value)
+    if unexplained or not any(note_roles.values()):
+        return False
+    return all(languages <= roles[code] for code, languages in note_roles.items())
+
+
+def _note_is_supported(
+    value: str,
+    *,
+    roles: dict[str, set[str]],
+    description_key: str,
+    translation_detected: bool,
+) -> bool:
+    if not value.strip():
+        return False
+    if _has_language_negation(value):
+        return False
+    if value.strip() in _GENERIC_TRANSLATION_NOTES:
+        return translation_detected
+    if not any(keyword in value for keyword in _LANGUAGE_NOTE_KEYWORDS):
+        return False
+    note_key = WHITESPACE_RE.sub("", value).casefold().rstrip(".")
+    if note_key and note_key in description_key:
+        return True
+    return _note_claims_supported(value, roles, description_key)
+
+
+TRANSLATION_PHRASE_RE = re.compile(r"(?:로|으로)\s*(?:번역|옮긴|옮겨|옮김)|번역본|번역서|번역한|번역된|번역하였|번역했")
 
 
 def _enforce_language_field_policy(
@@ -474,19 +574,20 @@ def _enforce_language_field_policy(
     description = evidence.description if evidence is not None and evidence.available.description else ""
     # Negative/uncertain descriptions cannot establish a positive language fact.
     description = ".".join(
-        clause for clause in re.split(r"[.!?;\n]", description)
-        if not re.search(r"아니|않|없|불명|미상|추정", clause)
+        clause for clause in _split_clauses(description) if not _clause_has_language_negation(clause)
     )
     translation_detected = bool(
         evidence is not None
         and evidence.available.translation_signals
         and evidence.translation_signals.detected
     )
-    roles = _source_language_roles(description)
+    roles, _ = _language_claims(description)
     # An explicit target-language translation phrase also supplies translation
     # context when the upstream hint detector has not set its flag.
-    translation_context = translation_detected or bool(
-        roles["a"] and re.search(r"(?:로|으로)\s*(?:번역|옮긴|옮겨)", description)
+    translation_context = (
+        translation_detected
+        or bool(roles["a"] and TRANSLATION_PHRASE_RE.search(description))
+        or bool(roles["a"] and roles["h"] and roles["a"] != roles["h"])
     )
     description_key = WHITESPACE_RE.sub("", description).casefold()
     kept_fields: list["GeneratedFieldType"] = []
@@ -514,25 +615,28 @@ def _enforce_language_field_policy(
             if len(retained) != len(field.subfields):
                 warnings.append("041 입력에서 확인되지 않은 언어 식별기호를 제거했습니다.")
             field.subfields = retained
-            if field.indicator1 == "1" and not translation_context:
+            # 지시기호는 입력이 뒷받침하는 번역 정황에서만 보정한다.
+            # 다국어·비번역 자료의 구분은 그대로 둔다.
+            if translation_context:
+                if field.indicator1 != "1":
+                    field.indicator1 = "1"
+                    warnings.append("041 제1지시기호를 번역물 표시(1)로 보정했습니다.")
+            elif field.indicator1 == "1":
                 field.indicator1 = " "
             field.review_required = True
 
         if field.tag == "546":
             values = [subfield.value for subfield in field.subfields if subfield.code in {"a", "b"}]
             supported_note = bool(values) and all(
-                (
-                    value in _GENERIC_TRANSLATION_NOTES and translation_detected
-                ) or (
-                    bool(value.strip())
-                    and WHITESPACE_RE.sub("", value).casefold().rstrip(".") in description_key
-                    and any(keyword in value for keyword in _LANGUAGE_NOTE_KEYWORDS)
-                    and not re.search(r"아니|않|없|불명|미상|추정", value)
+                _note_is_supported(
+                    value,
+                    roles=roles,
+                    description_key=description_key,
+                    translation_detected=translation_detected,
                 )
                 for value in values
             )
-            negated = any(NEGATED_NOTE_RE.search(value) for value in values)
-            if negated or not supported_note:
+            if not supported_note:
                 warnings.append("546 언어주기 입력 근거 부족으로 제거됨")
                 _set_skip_reason(skipped_fields, "546", FIELD_546_SKIP_REASON)
                 continue

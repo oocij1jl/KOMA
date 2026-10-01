@@ -1092,6 +1092,130 @@ class OutputValidatorTests(unittest.TestCase):
         )
         self.assertEqual([sf.value for sf in result.fields[0].subfields], ["인공지능"])
 
+    def test_language_note_paraphrase_of_supported_relationship_survives(self) -> None:
+        """표현만 다르고 입력이 뒷받침하는 관계만 말하는 언어주기는 남긴다."""
+
+        result = validate_output(
+            self._language_output([self._inferred_field("546", [("a", "영어 원작의 한국어 번역본")])]),
+            evidence=self._build_evidence(description="영어 원작을 한국어로 번역"),
+        )
+
+        self.assertEqual([sf.value for sf in result.fields[0].subfields], ["영어 원작의 한국어 번역본"])
+
+    def test_language_roles_read_common_particles_and_source_language_phrasing(self) -> None:
+        for description in (
+            "원작은 영어이며 한국어로 번역하였다",
+            "원작의 언어는 영어이고 본문은 한국어다",
+            "영어 원서를 한국어로 옮김",
+        ):
+            with self.subTest(description=description):
+                result = validate_output(
+                    self._language_output([self._inferred_field("041", [("a", "kor"), ("h", "eng")])]),
+                    evidence=self._build_evidence(description=description),
+                )
+                self.assertEqual(
+                    [(sf.code, sf.value) for sf in result.fields[0].subfields], [("a", "kor"), ("h", "eng")]
+                )
+
+    def test_positive_statement_with_negation_syllable_still_supports_language_fields(self) -> None:
+        """'빠짐없이'는 번역 사실을 부정하지 않는다. 음절만 보고 근거를 버리지 않는다."""
+
+        result = validate_output(
+            self._language_output([
+                self._inferred_field("041", [("a", "kor"), ("h", "eng")]),
+                self._inferred_field("546", [("a", "빠짐없이 영어 원작을 한국어로 번역하였다")]),
+            ]),
+            evidence=self._build_evidence(description="빠짐없이 영어 원작을 한국어로 번역하였다"),
+        )
+
+        self.assertEqual([field.tag for field in result.fields], ["041", "546"])
+        self.assertEqual(result.skipped_fields, [])
+
+    def test_negation_after_language_claim_still_removes_fields(self) -> None:
+        for description in (
+            "영어 원작이나 한국어 번역본은 아님",
+            "번역 여부는 확인할 수 없음",
+            "원작 언어는 미상",
+        ):
+            with self.subTest(description=description):
+                result = validate_output(
+                    self._language_output([
+                        self._inferred_field("041", [("a", "kor"), ("h", "eng")]),
+                        self._inferred_field("546", [("a", "영어 원작의 한국어 번역본")]),
+                    ]),
+                    evidence=self._build_evidence(description=description),
+                )
+                self.assertEqual(result.fields, [])
+
+    def test_041_translation_indicator_follows_supported_translation_context(self) -> None:
+        translated = self._inferred_field("041", [("a", "kor"), ("h", "eng")])
+        translated["indicator1"] = "0"
+        result = validate_output(
+            self._language_output([translated]),
+            evidence=self._build_evidence(description="영어 원작을 한국어로 번역"),
+        )
+        self.assertEqual(result.fields[0].indicator1, "1")
+
+        multilingual = self._inferred_field("041", [("a", "kor"), ("a", "eng")])
+        multilingual["indicator1"] = "0"
+        result = validate_output(
+            self._language_output([multilingual]),
+            evidence=self._build_evidence(description="한국어와 영어로 병기"),
+        )
+        self.assertEqual(result.fields[0].indicator1, "0")
+
+    def test_language_note_rejects_extra_language_or_unexplained_mention(self) -> None:
+        for note in (
+            "영어와 독일어 원작의 한국어 번역본",
+            "영어 원작의 한국어 번역본이며 일본어 자막 수록",
+            "영어 원작의 한국어 번역본, 1945년 초판",
+            "영어 원작의 한국어 번역본이며 점자도 수록",
+            "영어 원작의 한국어 번역본; 원문은 삭제됨",
+        ):
+            with self.subTest(note=note):
+                result = validate_output(
+                    self._language_output([self._inferred_field("546", [("a", note)])]),
+                    evidence=self._build_evidence(description="영어 원작을 한국어로 번역"),
+                )
+                self.assertEqual(result.fields, [])
+                self.assertEqual([item.tag for item in result.skipped_fields], ["546"])
+
+    def test_independent_653_term_survives_publisher_and_co_loan_substrings(self) -> None:
+        for biblio, evidence in (
+            (
+                self._build_biblio(publisher="길", title="숲", series_title=""),
+                self._build_evidence(keywords=[{"word": "길찾기", "weight": 1}]),
+            ),
+            (
+                self._build_biblio(publisher="창비", title="길", series_title=""),
+                self._build_evidence(keywords=[{"word": "길찾기", "weight": 1}]),
+            ),
+            (
+                self._build_biblio(publisher="창비", title="숲", series_title=""),
+                self._build_evidence(
+                    keywords=[{"word": "길찾기", "weight": 1}],
+                    co_loan_books=[{"bookname": "길", "isbn13": "9780000000000", "authors": "저자"}],
+                ),
+            ),
+        ):
+            with self.subTest(publisher=biblio.publisher, title=biblio.title):
+                result = validate_output(
+                    self._language_output([self._inferred_field("653", [("a", "길찾기")])]),
+                    biblio=biblio,
+                    evidence=evidence,
+                )
+                self.assertEqual([sf.value for sf in result.fields[0].subfields], ["길찾기"])
+
+    def test_653_term_matching_bibliographic_name_is_still_removed(self) -> None:
+        result = validate_output(
+            self._language_output([self._inferred_field("653", [("a", "길")])]),
+            biblio=self._build_biblio(publisher="길", title="숲", series_title=""),
+            evidence=self._build_evidence(keywords=[{"word": "길", "weight": 1}]),
+        )
+
+        self.assertEqual(result.fields, [])
+        self.assertEqual([item.tag for item in result.skipped_fields], ["653"])
+
 
 if __name__ == "__main__":
     _ = unittest.main()

@@ -7,6 +7,7 @@
 
 import json
 import unittest
+from copy import deepcopy
 from typing import Any
 from unittest.mock import AsyncMock, patch
 
@@ -158,6 +159,50 @@ class GeneratePipelineTests(unittest.TestCase):
         self.assertNotIn("546", {field["tag"] for field in payload["fields"]})
         skipped = {item["tag"]: item["reason"] for item in payload["skipped_fields"]}
         self.assertIn("546", skipped)
+
+    def test_supported_language_and_subject_survive_end_to_end(self) -> None:
+        lookup = deepcopy(LOOKUP_RESULT)
+        lookup["biblio"].update(title="공간을 탐색하는 방법", publisher="길")
+        lookup["evidence"].update(
+            title="공간을 탐색하는 방법",
+            description="원작은 영어이며 빠짐없이 한국어로 번역하였다",
+            keywords=[{"word": "길찾기", "weight": 0.9}],
+        )
+        fields = [
+            {
+                "tag": tag,
+                "source": "ai_inference",
+                "indicator1": "0" if tag == "041" else " ",
+                "indicator2": " ",
+                "subfields": [{"code": code, "value": value} for code, value in pairs],
+                "review_required": True,
+                "confidence": "medium",
+                "evidence": {
+                    "from": ["keywords"] if tag == "653" else ["description"],
+                    "keywords_used": ["길찾기"] if tag == "653" else [],
+                    "reasoning": "입력에 명시된 언어 관계와 주제어",
+                },
+            }
+            for tag, pairs in (
+                ("041", [("a", "kor"), ("h", "eng")]),
+                ("546", [("a", "영어 원작의 한국어 번역본")]),
+                ("653", [("a", "길찾기")]),
+            )
+        ]
+        raw = json.dumps({"fields": fields, "skipped_fields": [], "warnings": []})
+        with patch(
+            "backend.routers.generate.lookup_one", new=AsyncMock(return_value=lookup)
+        ), patch("backend.clients.llm_client.generate", new=AsyncMock(return_value=raw)):
+            with TestClient(app) as client:
+                response = client.post("/api/generate/marc", json={"isbn": "9791194630678"})
+
+        self.assertEqual(response.status_code, 200)
+        result = response.json()
+        for expected in fields:
+            actual = self._field(result, expected["tag"])
+            self.assertEqual(actual["subfields"], expected["subfields"])
+        self.assertEqual(self._field(result, "041")["indicator1"], "1")
+        self.assertFalse({"041", "546", "653"} & {item["tag"] for item in result["skipped_fields"]})
 
     def test_missing_api_values_are_skipped_not_invented(self) -> None:
         payload = self._generate()
