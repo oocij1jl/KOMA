@@ -48,6 +48,33 @@ class LookupSchemaTests(unittest.TestCase):
         self.assertEqual(validated.publish_year, "")
         self.assertEqual(validated.publish_predate, "202")
 
+    def test_subtitle_is_split_from_detail_page_statement_by_api_title(self) -> None:
+        biblio = merge_biblio(
+            {"found": True, "title": "카프카의 문장들"},
+            {"found": False},
+            {"found": True, "title_statement": "카프카의 문장들 - 희박한 희망을 채굴하다"},
+        )
+
+        validated = BiblioSchema.model_validate(biblio)
+        self.assertEqual(validated.subtitle, "희박한 희망을 채굴하다")
+        self.assertEqual(validated.field_sources["subtitle"], "nl_seoji_detail")
+
+    def test_subtitle_is_empty_when_statement_does_not_extend_api_title(self) -> None:
+        for statement in ("카프카의 문장들", "다른 책 - 부제", "카프카의 문장들, 부제"):
+            with self.subTest(statement=statement):
+                biblio = merge_biblio(
+                    {"found": True, "title": "카프카의 문장들"},
+                    {"found": False},
+                    {"found": True, "title_statement": statement},
+                )
+
+                self.assertEqual(BiblioSchema.model_validate(biblio).subtitle, "")
+
+    def test_missing_detail_page_leaves_subtitle_empty(self) -> None:
+        biblio = merge_biblio({"found": True, "title": "카프카의 문장들"}, {"found": False})
+
+        self.assertEqual(BiblioSchema.model_validate(biblio).subtitle, "")
+
     def test_merge_evidence_includes_translation_signals_and_available(self) -> None:
         biblio = {
             "title": "예시 제목",

@@ -35,6 +35,8 @@ class BiblioSchema(BaseModel):
     set_expression: str = ""
     price: str = ""
     title: str = ""
+    # 부제. ISBN 서지정보 API 출력에는 없고 국중도 ISBN/CIP 상세 페이지에서만 온다.
+    subtitle: str = ""
     author: str = ""
     volume: str = ""
     pub_place: str = ""

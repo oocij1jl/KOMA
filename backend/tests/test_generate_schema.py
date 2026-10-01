@@ -95,7 +95,10 @@ class GenerateSchemaTests(unittest.TestCase):
             ) as keyword_mock, patch(
                 "backend.services.lookup_service.fetch_d4l_usage",
                 new=AsyncMock(return_value={"source": "usageAnalysisList", "found": False, "co_loan_books": []}),
-            ) as usage_mock:
+            ) as usage_mock, patch(
+                "backend.services.lookup_service.fetch_nl_seoji_title_statement",
+                new=AsyncMock(return_value={"source": "nl.go.kr/seoji-detail", "found": False, "title_statement": ""}),
+            ) as seoji_mock:
                 async with httpx.AsyncClient() as client:
                     result = await lookup_one(client, "89-364-3412-X")
 
@@ -104,6 +107,7 @@ class GenerateSchemaTests(unittest.TestCase):
                 detail_mock.assert_awaited_once_with(client, "9788936434120")
                 keyword_mock.assert_awaited_once_with(client, "9788936434120")
                 usage_mock.assert_awaited_once_with(client, "9788936434120")
+                seoji_mock.assert_awaited_once_with(client, "9788936434120")
 
         asyncio.run(run_test())
 
@@ -137,7 +141,10 @@ class GenerateSchemaTests(unittest.TestCase):
                 ),
             ), patch(
                 "backend.services.lookup_service.fetch_d4l_usage", new=AsyncMock()
-            ) as usage_mock, patch.object(settings, "D4L_SKIP_USAGE", True):
+            ) as usage_mock, patch(
+                "backend.services.lookup_service.fetch_nl_seoji_title_statement",
+                new=AsyncMock(return_value={"source": "nl.go.kr/seoji-detail", "found": False, "title_statement": ""}),
+            ), patch.object(settings, "D4L_SKIP_USAGE", True):
                 async with httpx.AsyncClient() as client:
                     result = await lookup_one(client, "89-364-3412-X")
 

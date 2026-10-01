@@ -25,12 +25,14 @@ if TYPE_CHECKING:  # pragma: no cover
     from backend.schemas.llm_output import GeneratedField as GeneratedFieldType
     from backend.schemas.llm_output import GenerateResult as GenerateResultType
     from backend.schemas.llm_output import SkippedField as SkippedFieldType
+    from backend.schemas.lookup import BiblioSchema as BiblioSchemaType
 
 LLMInputPayload = cast(type["LLMInputPayloadType"], llm_schema.LLMInputPayload)
 load_rules: Callable[[list[str]], dict[str, str]] = rag_loader_service.load_rules
 GenerateResult = llm_output_schema.GenerateResult
 validate_output: Callable[..., "GenerateResultType"] = output_validator_service.validate_output
 build_deterministic_fields = deterministic_fields_service.build_deterministic_fields
+build_653_classification_field = deterministic_fields_service.build_653_classification_field
 DETERMINISTIC_TAGS: tuple[str, ...] = deterministic_fields_service.DETERMINISTIC_TAGS
 
 
@@ -222,7 +224,35 @@ async def generate_marc(payload: "LLMInputPayloadType") -> "GenerateResultType":
     _enforce_generation_tags(result, payload)
 
     rule_fields, rule_skipped = build_deterministic_fields(payload.biblio)
-    return merge_deterministic_fields(result, rule_fields, rule_skipped)
+    merged = merge_deterministic_fields(result, rule_fields, rule_skipped)
+    return merge_classification_subject_terms(merged, payload.biblio)
+
+
+def merge_classification_subject_terms(
+    result: "GenerateResultType", biblio: "BiblioSchemaType"
+) -> "GenerateResultType":
+    """분류기호에서 유도한 653 주제어를 LLM 주제어 뒤에 덧붙인다.
+
+    653은 반복 가능하므로 근거가 다른 둘을 한 필드에 섞지 않고 필드를 나눈다.
+    LLM이 이미 쓴 주제어는 중복으로 넣지 않는다. 유도할 값이 없으면 그대로 둔다.
+    """
+
+    existing_terms = [
+        subfield.value
+        for field in result.fields
+        if field.tag == "653"
+        for subfield in field.subfields
+        if subfield.code == "a"
+    ]
+    rule_field = build_653_classification_field(biblio, existing_terms=existing_terms)
+    if rule_field is None:
+        return result
+
+    return GenerateResult(
+        fields=[*result.fields, rule_field],
+        skipped_fields=[item for item in result.skipped_fields if item.tag != "653"],
+        warnings=result.warnings,
+    )
 
 
 def merge_deterministic_fields(

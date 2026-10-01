@@ -191,6 +191,13 @@ def build_245(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
 
     main_title, parallel_title = split_parallel_title(title)
     main_title, subtitle = split_subtitle(main_title)
+    # 표제에 구분자가 없을 때만 별도 수집한 부제를 쓴다. 본표제에 이미 들어 있는
+    # 값이면 중복이므로 버린다.
+    subtitle_from_source = _clean(getattr(biblio, "subtitle", ""))
+    subtitle_is_separate = False
+    if not subtitle and subtitle_from_source and subtitle_from_source != main_title:
+        subtitle = subtitle_from_source
+        subtitle_is_separate = True
     volume = _clean(getattr(biblio, "volume", ""))
     statements = split_responsibility(_clean(getattr(biblio, "author", "")))
 
@@ -209,7 +216,9 @@ def build_245(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
     indicator2 = "1" if main_title.startswith("(") and ")" in main_title else "0"
 
     notes: list[str] = ["biblio.title/author 전사"]
-    if subtitle:
+    if subtitle_is_separate:
+        notes.append("부제는 국중도 상세 페이지 수집값 — 검수 필요")
+    elif subtitle:
         notes.append("표제 구분자 기준 부제 분리 — 검수 필요")
     if len(statements) > 1:
         notes.append("역할어 기준 책임표시 분리 — 검수 필요")
@@ -572,6 +581,106 @@ def build_490(biblio: "BiblioSchemaType") -> tuple["GeneratedFieldType | None", 
         note="biblio.series_title 전사. 총서 부출(830)은 전거 확인 전까지 생성하지 않음",
     )
     return field, None
+
+
+# KDC 문학류(8XX) 앞 두 자리 → 언어권. 분류기호가 이미 말하는 사실만 옮긴다.
+_KDC_LITERATURE_LANGUAGE: dict[str, str] = {
+    "81": "한국",
+    "82": "중국",
+    "83": "일본",
+    "84": "영미",
+    "85": "독일",
+    "86": "프랑스",
+    "87": "스페인",
+    "88": "이탈리아",
+}
+# KDC 문학류 셋째 자리 → 문학 형식. 확정적으로 읽히는 형식만 쓴다.
+_KDC_LITERATURE_GENRE: dict[str, str] = {"1": "시", "3": "소설", "4": "에세이"}
+# ISBN 부가기호 첫 자리(독자대상)와 둘째 자리(발행형태) 중 주제어로 옮길 값.
+_ISBN_AUDIENCE_CHILDREN = "7"
+_ISBN_AUDIENCE_YOUTH = "4"
+_ISBN_FORM_PICTURE_BOOK = "7"
+
+
+def classification_subject_terms(biblio: "BiblioSchemaType") -> list[str]:
+    """KDC와 ISBN 부가기호가 이미 말하는 장르·독자 구분을 653 주제어로 옮긴다.
+
+    분류기호 `813`이 '한국문학-소설'이고 부가기호 앞자리 `7`이 '아동'이라는
+    사실만 쓴다. 책 내용을 읽고 판단해야 아는 '창작동화/전래동화' 같은 구분은
+    근거가 없으므로 만들지 않는다. 값이 없으면 빈 목록을 돌려준다.
+    """
+
+    kdc = _clean(getattr(biblio, "kdc", ""))
+    add_code = _clean(getattr(biblio, "isbn_add_code", ""))
+    if len(kdc) < 3 or not kdc[:3].isdigit():
+        return []
+
+    language = _KDC_LITERATURE_LANGUAGE.get(kdc[:2])
+    if language is None:
+        return []
+
+    genre = _KDC_LITERATURE_GENRE.get(kdc[2])
+    audience = add_code[0] if add_code else ""
+    form = add_code[1] if len(add_code) > 1 else ""
+
+    terms = [f"{language}문학"]
+    if audience == _ISBN_AUDIENCE_CHILDREN:
+        terms.append("아동문학")
+        if genre == "소설":
+            terms.append(f"{language}동화")
+        elif genre == "시":
+            terms.append("동시")
+        if form == _ISBN_FORM_PICTURE_BOOK:
+            terms.append("그림책")
+    elif audience == _ISBN_AUDIENCE_YOUTH:
+        terms.append("청소년문학")
+        if genre == "소설":
+            terms.append("청소년소설")
+    elif genre is not None:
+        terms.append(f"{language}{genre}")
+
+    return _dedupe_terms(terms)
+
+
+def _dedupe_terms(terms: list[str]) -> list[str]:
+    seen: set[str] = set()
+    unique: list[str] = []
+    for term in terms:
+        if term and term not in seen:
+            seen.add(term)
+            unique.append(term)
+    return unique
+
+
+def build_653_classification_field(
+    biblio: "BiblioSchemaType", *, existing_terms: list[str]
+) -> "GeneratedFieldType | None":
+    """분류기호에서 유도한 주제어 중 이미 있는 것을 뺀 653 필드를 만든다."""
+
+    existing = {_comparison_key(term) for term in existing_terms}
+    terms = [term for term in classification_subject_terms(biblio) if _comparison_key(term) not in existing]
+    if not terms:
+        return None
+
+    kdc = _clean(getattr(biblio, "kdc", ""))
+    add_code = _clean(getattr(biblio, "isbn_add_code", ""))
+    source_note = f"KDC {kdc}" + (f", ISBN 부가기호 {add_code}" if add_code else "")
+    return GeneratedField(
+        tag="653",
+        source="api",
+        generated_by="rule",
+        indicator1=" ",
+        indicator2=" ",
+        subfields=[llm_output_schema.SubfieldItem(code="a", value=term) for term in terms],
+        review_required=True,
+        confidence="medium",
+        evidence=None,
+        note=f"{source_note}에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요",
+    )
+
+
+def _comparison_key(value: str) -> str:
+    return re.sub(r"\s+", "", value).casefold()
 
 
 def _as_lists(

@@ -53,5 +53,44 @@ class NlClientTests(unittest.IsolatedAsyncioTestCase):
         self.assertIn("RequestErrorWithSecretMessage", log_text)
 
 
+class SeojiDetailPageTests(unittest.IsolatedAsyncioTestCase):
+    """부제는 ISBN 서지정보 API 출력에 없고 ISBN/CIP 상세 페이지에만 있다."""
+
+    PAGE = (
+        '<div class="resultList">'
+        '<div class="tit">\n\t<b class="themeFC">\n[종이책]<!-- 권차 주석 --></b> '
+        "카프카의 문장들 - 희박한 희망을 채굴하다</div>"
+        '<div class="thumb"><img alt="카프카의 문장들"></div>'
+    )
+
+    async def test_title_statement_keeps_subtitle_and_drops_media_label(self) -> None:
+        def handler(request: httpx.Request) -> httpx.Response:
+            self.assertEqual(request.url.params.get("isbn"), "9788960909830")
+            return httpx.Response(200, text=self.PAGE)
+
+        client = httpx.AsyncClient(transport=httpx.MockTransport(handler))
+        result = await nl_client.fetch_nl_seoji_title_statement(client, "9788960909830")
+
+        self.assertTrue(result["found"])
+        self.assertEqual(result["title_statement"], "카프카의 문장들 - 희박한 희망을 채굴하다")
+
+    async def test_missing_title_block_is_reported_as_not_found(self) -> None:
+        client = httpx.AsyncClient(
+            transport=httpx.MockTransport(lambda request: httpx.Response(200, text="<html><body>없음</body></html>"))
+        )
+
+        result = await nl_client.fetch_nl_seoji_title_statement(client, "9788960909830")
+
+        self.assertFalse(result["found"])
+        self.assertEqual(result["title_statement"], "")
+
+    async def test_http_error_does_not_raise_and_reports_status(self) -> None:
+        result = await nl_client.fetch_nl_seoji_title_statement(_mock_transport_client(503), "9788960909830")
+
+        self.assertFalse(result["found"])
+        self.assertEqual(result["error"], "HTTP 503")
+
+
+
 if __name__ == "__main__":
     unittest.main()

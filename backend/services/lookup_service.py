@@ -10,7 +10,7 @@ try:  # pragma: no cover - import path depends on startup context
         fetch_d4l_keywords,
         fetch_d4l_usage,
     )
-    from backend.clients.nl_client import fetch_nl_isbn
+    from backend.clients.nl_client import fetch_nl_isbn, fetch_nl_seoji_title_statement
     from backend.config import settings
     from backend.services.evidence_service import merge_evidence
     from backend.utils.isbn import to_isbn13
@@ -24,6 +24,7 @@ except ModuleNotFoundError:  # pragma: no cover - backend-local execution
     fetch_d4l_keywords = data4library_client.fetch_d4l_keywords
     fetch_d4l_usage = data4library_client.fetch_d4l_usage
     fetch_nl_isbn = nl_client.fetch_nl_isbn
+    fetch_nl_seoji_title_statement = nl_client.fetch_nl_seoji_title_statement
     settings = importlib.import_module("config").settings
     merge_evidence = evidence_service.merge_evidence
     to_isbn13 = isbn_utils.to_isbn13
@@ -45,7 +46,33 @@ def _pick(*values: str) -> str:
     return ""
 
 
-def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
+# 상세 페이지가 본표제와 부제를 잇는 데 쓰는 구분자.
+_TITLE_STATEMENT_SEPARATORS = (" - ", " : ", " = ")
+
+
+def extract_subtitle(title: str, title_statement: str) -> str:
+    """API 본표제를 기준으로 상세 페이지 표제사항에서 부제만 떼어낸다.
+
+    표제사항이 API 본표제로 시작하고 그 뒤에 구분자가 있을 때만 나눈다.
+    두 값이 같거나 본표제로 시작하지 않으면 부제가 없다고 본다. 화면 문자열을
+    근거 없이 재단하지 않기 위한 조건이다.
+    """
+
+    main_title = " ".join(title.split())
+    statement = " ".join(title_statement.split())
+    if not main_title or not statement or not statement.startswith(main_title):
+        return ""
+
+    remainder = statement[len(main_title) :]
+    for separator in _TITLE_STATEMENT_SEPARATORS:
+        if remainder.startswith(separator):
+            return remainder[len(separator) :].strip()
+    return ""
+
+
+def merge_biblio(
+    nl: dict[str, Any], d4l: dict[str, Any], seoji_detail: dict[str, Any] | None = None
+) -> dict[str, Any]:
     """국중도 + 정보나루 상세 → biblio (스키마 v2.1)."""
     nl_found = bool(nl.get("found", False))
     d4l_found = bool(d4l.get("found", False))
@@ -79,6 +106,16 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
         "set_expression": _pick(nl.get("set_expression", "")),
         "price": pick_src("price", (nl.get("price", ""), "nl")),
         "title": pick_src("title", (nl.get("title", ""), "nl"), (d4l.get("title", ""), "d4l")),
+        "subtitle": pick_src(
+            "subtitle",
+            (
+                extract_subtitle(
+                    _pick(nl.get("title", ""), d4l.get("title", "")),
+                    (seoji_detail or {}).get("title_statement", ""),
+                ),
+                "nl_seoji_detail",
+            ),
+        ),
         "author": pick_src(
             "author",
             (nl.get("author", ""), "nl"),
@@ -128,13 +165,16 @@ def merge_biblio(nl: dict[str, Any], d4l: dict[str, Any]) -> dict[str, Any]:
 
 
 async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
-    """4개 API 병렬 호출 → biblio/evidence/raw 분리 반환.
+    """4개 API + 국중도 상세 페이지 병렬 호출 → biblio/evidence/raw 분리 반환.
 
     settings.D4L_SKIP_USAGE가 켜져 있으면 정보나루 이용분석(co_loan_books)
     호출을 건너뛴다. 정보나루는 하루 500콜 한도가 있어, 책당 호출 수를
     3콜(상세+키워드+이용분석)에서 2콜(상세+키워드)로 줄여 대량 평가 시
     하루에 처리 가능한 권수를 늘리기 위함이다. 653 필드의 공동대출 근거만
     빠지고 keywords/description 근거는 그대로 유지된다.
+
+    국중도 상세 페이지는 인증키가 없는 공개 화면이며 부제만 가져온다.
+    실패해도 나머지 조회 결과로 계속 진행한다.
     """
     isbn13 = to_isbn13(isbn)
 
@@ -143,14 +183,15 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
             return SKIPPED_USAGE_RESULT
         return await fetch_d4l_usage(client, isbn13)
 
-    nl, d4l, keywords_result, usage_result = await asyncio.gather(
+    nl, d4l, keywords_result, usage_result, seoji_detail = await asyncio.gather(
         fetch_nl_isbn(client, isbn13),
         fetch_d4l_detail(client, isbn13),
         fetch_d4l_keywords(client, isbn13),
         _usage(),
+        fetch_nl_seoji_title_statement(client, isbn13),
     )
 
-    biblio = merge_biblio(nl, d4l)
+    biblio = merge_biblio(nl, d4l, seoji_detail)
     evidence = merge_evidence(biblio, keywords_result, usage_result)
 
     return {
@@ -162,6 +203,7 @@ async def lookup_one(client: httpx.AsyncClient, isbn: str) -> dict[str, Any]:
             "d4l_detail": d4l,
             "d4l_keyword": keywords_result,
             "d4l_usage": usage_result,
+            "nl_seoji_detail": seoji_detail,
         },
         "found": biblio["found"],
     }

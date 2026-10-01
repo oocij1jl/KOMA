@@ -11,7 +11,9 @@ from backend.services.deterministic_fields import (
     build_082,
     build_245,
     build_300,
+    build_653_classification_field,
     build_deterministic_fields,
+    classification_subject_terms,
     split_responsibility,
 )
 
@@ -338,6 +340,90 @@ class ClassificationTests(unittest.TestCase):
         self.assertIsNone(field)
         assert skipped is not None
         self.assertIn("DDC 근거 없음", skipped.reason)
+
+
+class Subtitle245Tests(unittest.TestCase):
+    def test_collected_subtitle_fills_subfield_b_when_title_has_no_separator(self) -> None:
+        field, _ = build_245(
+            biblio(title="카프카의 문장들", subtitle="희박한 희망을 채굴하다", author="프란츠 카프카 지음")
+        )
+
+        assert field is not None
+        self.assertEqual(
+            subfield_pairs(field),
+            [("a", "카프카의 문장들"), ("b", "희박한 희망을 채굴하다"), ("d", "프란츠 카프카 지음")],
+        )
+        self.assertIn("국중도 상세 페이지", field.note)
+
+    def test_title_separator_wins_over_collected_subtitle(self) -> None:
+        field, _ = build_245(biblio(title="카프카의 문장들: 표제 안 부제", subtitle="수집한 부제"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "카프카의 문장들"), ("b", "표제 안 부제")])
+        self.assertIn("표제 구분자", field.note)
+
+    def test_subtitle_equal_to_main_title_is_not_duplicated(self) -> None:
+        field, _ = build_245(biblio(title="민강", subtitle="민강"))
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "민강")])
+
+
+class ClassificationSubjectTermTests(unittest.TestCase):
+    def test_literature_terms_follow_language_and_genre_digits(self) -> None:
+        for kdc, add_code, expected in (
+            ("813.7", "03810", ["한국문학", "한국소설"]),
+            ("811.7", "04810", ["한국문학", "한국시"]),
+            ("814.7", "03810", ["한국문학", "한국에세이"]),
+            ("854", "03850", ["독일문학", "독일에세이"]),
+            ("850.99", "03850", ["독일문학"]),
+        ):
+            with self.subTest(kdc=kdc):
+                self.assertEqual(
+                    classification_subject_terms(biblio(kdc=kdc, isbn_add_code=add_code)), expected
+                )
+
+    def test_audience_digit_switches_children_and_youth_terms(self) -> None:
+        self.assertEqual(
+            classification_subject_terms(biblio(kdc="813.7", isbn_add_code="73810")),
+            ["한국문학", "아동문학", "한국동화"],
+        )
+        self.assertEqual(
+            classification_subject_terms(biblio(kdc="811.8", isbn_add_code="73810")),
+            ["한국문학", "아동문학", "동시"],
+        )
+        self.assertEqual(
+            classification_subject_terms(biblio(kdc="813.7", isbn_add_code="77810")),
+            ["한국문학", "아동문학", "한국동화", "그림책"],
+        )
+        self.assertEqual(
+            classification_subject_terms(biblio(kdc="813.7", isbn_add_code="44810")),
+            ["한국문학", "청소년문학", "청소년소설"],
+        )
+
+    def test_non_literature_and_missing_classification_produce_nothing(self) -> None:
+        for kdc, add_code in (("005.58", "13000"), ("911.05", "03910"), ("", "03810"), ("81", "03810")):
+            with self.subTest(kdc=kdc):
+                self.assertEqual(classification_subject_terms(biblio(kdc=kdc, isbn_add_code=add_code)), [])
+
+    def test_rule_field_skips_terms_the_llm_already_wrote(self) -> None:
+        field = build_653_classification_field(
+            biblio(kdc="813.7", isbn_add_code="03810"), existing_terms=["한국 소설"]
+        )
+
+        assert field is not None
+        self.assertEqual(subfield_pairs(field), [("a", "한국문학")])
+        self.assertEqual((field.source, field.generated_by), ("api", "rule"))
+        self.assertIsNone(field.evidence)
+        self.assertTrue(field.review_required)
+        self.assertIn("813.7", field.note)
+
+    def test_rule_field_is_absent_when_every_term_exists(self) -> None:
+        self.assertIsNone(
+            build_653_classification_field(
+                biblio(kdc="813.7", isbn_add_code="03810"), existing_terms=["한국문학", "한국소설"]
+            )
+        )
 
 
 if __name__ == "__main__":
