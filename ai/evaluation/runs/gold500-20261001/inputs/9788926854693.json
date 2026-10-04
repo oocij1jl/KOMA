@@ -1,0 +1,933 @@
+{
+  "isbn": "9788926854693",
+  "captured_at": "2026-10-04T00:18:51.048944+09:00",
+  "lookup": {
+    "isbn": "9788926854693",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788926854693",
+      "isbn_add_code": "03850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "슈베르트에 홀리다 ",
+      "subtitle": "악흥의 때 열둘과 소설 하나",
+      "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한국학술정보(주)",
+      "publish_year": "2014",
+      "publish_predate": "20140203",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "332 p.",
+      "book_size": "152*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "독일 작가 페터 헤르틀링의 소설. 작가 헤르틀링은 본질을 보는 확고한 시선으로 위대한 작곡가 슈베르트의 인생의 역들을 묘사하며, 음악적인 언어로써 깊은 고통의 대가로 얻어진 명랑하고 경쾌한 아름다운 음향의 세계로 독자를 유인해 들인다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/3721/20/cover/8926854698_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "악흥",
+          "weight": 18.0
+        },
+        {
+          "word": "슈베르트",
+          "weight": 12.0
+        },
+        {
+          "word": "헤르틀링",
+          "weight": 5.0
+        },
+        {
+          "word": "상당",
+          "weight": 5.0
+        },
+        {
+          "word": "초상",
+          "weight": 4.0
+        },
+        {
+          "word": "소리",
+          "weight": 4.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "니벨룽의 반지",
+          "weight": 3.0
+        },
+        {
+          "word": "전기",
+          "weight": 3.0
+        },
+        {
+          "word": "독일 음악 속의 문학",
+          "weight": 3.0
+        },
+        {
+          "word": "음악가",
+          "weight": 3.0
+        },
+        {
+          "word": "살리에리",
+          "weight": 2.0
+        },
+        {
+          "word": "방랑자",
+          "weight": 2.0
+        },
+        {
+          "word": "문하생",
+          "weight": 2.0
+        },
+        {
+          "word": "아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "포로",
+          "weight": 2.0
+        },
+        {
+          "word": "페터 헤르틀링",
+          "weight": 2.0
+        },
+        {
+          "word": "출생",
+          "weight": 2.0
+        },
+        {
+          "word": "이탈",
+          "weight": 2.0
+        },
+        {
+          "word": "이사",
+          "weight": 2.0
+        },
+        {
+          "word": "연주",
+          "weight": 2.0
+        },
+        {
+          "word": "연인",
+          "weight": 2.0
+        },
+        {
+          "word": "엄선애",
+          "weight": 2.0
+        },
+        {
+          "word": "한국학술정보",
+          "weight": 2.0
+        },
+        {
+          "word": "학교",
+          "weight": 2.0
+        },
+        {
+          "word": "피아노",
+          "weight": 2.0
+        },
+        {
+          "word": "작곡가",
+          "weight": 2.0
+        },
+        {
+          "word": "IV",
+          "weight": 2.0
+        },
+        {
+          "word": "III",
+          "weight": 2.0
+        },
+        {
+          "word": "II",
+          "weight": 2.0
+        },
+        {
+          "word": "묘사",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "독일소설",
+          "weight": 2.0
+        },
+        {
+          "word": "문과대학",
+          "weight": 2.0
+        },
+        {
+          "word": "부인",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "페터",
+          "weight": 2.0
+        },
+        {
+          "word": "이중지원",
+          "weight": 2.0
+        },
+        {
+          "word": "우리말",
+          "weight": 2.0
+        },
+        {
+          "word": "여인",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "인상",
+          "weight": 2.0
+        },
+        {
+          "word": "힘멜포르트그룬트",
+          "weight": 1.0
+        },
+        {
+          "word": "Todesvertrautheit",
+          "weight": 1.0
+        },
+        {
+          "word": "경성대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "거기",
+          "weight": 1.0
+        }
+      ],
+      "description": "독일 작가 페터 헤르틀링의 소설. 작가 헤르틀링은 본질을 보는 확고한 시선으로 위대한 작곡가 슈베르트의 인생의 역들을 묘사하며, 음악적인 언어로써 깊은 고통의 대가로 얻어진 명랑하고 경쾌한 아름다운 음향의 세계로 독자를 유인해 들인다.",
+      "co_loan_books": [],
+      "title": "슈베르트에 홀리다 ",
+      "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "슈베르트에 홀리다 ",
+        "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+        "publisher": "한국학술정보(주)",
+        "publish_predate": "20140203",
+        "isbn": "9788926854693",
+        "isbn_add_code": "03850",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "슈베르트에 홀리다 :악흥의 때 열둘과 소설 하나 ",
+        "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+        "publisher": "한국학술정보",
+        "publish_year": "2014",
+        "isbn": "8926854698",
+        "isbn13": "9788926854693",
+        "isbn_add_code": "03850",
+        "volume": "",
+        "class_no": "853",
+        "class_nm": "문학 > 독일문학 > 소설",
+        "description": "독일 작가 페터 헤르틀링의 소설. 작가 헤르틀링은 본질을 보는 확고한 시선으로 위대한 작곡가 슈베르트의 인생의 역들을 묘사하며, 음악적인 언어로써 깊은 고통의 대가로 얻어진 명랑하고 경쾌한 아름다운 음향의 세계로 독자를 유인해 들인다.",
+        "cover_url": "http://image.aladin.co.kr/product/3721/20/cover/8926854698_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "악흥",
+            "weight": 18.0
+          },
+          {
+            "word": "슈베르트",
+            "weight": 12.0
+          },
+          {
+            "word": "헤르틀링",
+            "weight": 5.0
+          },
+          {
+            "word": "상당",
+            "weight": 5.0
+          },
+          {
+            "word": "초상",
+            "weight": 4.0
+          },
+          {
+            "word": "소리",
+            "weight": 4.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 3.0
+          },
+          {
+            "word": "니벨룽의 반지",
+            "weight": 3.0
+          },
+          {
+            "word": "전기",
+            "weight": 3.0
+          },
+          {
+            "word": "독일 음악 속의 문학",
+            "weight": 3.0
+          },
+          {
+            "word": "음악가",
+            "weight": 3.0
+          },
+          {
+            "word": "살리에리",
+            "weight": 2.0
+          },
+          {
+            "word": "방랑자",
+            "weight": 2.0
+          },
+          {
+            "word": "문하생",
+            "weight": 2.0
+          },
+          {
+            "word": "아버지",
+            "weight": 2.0
+          },
+          {
+            "word": "교사",
+            "weight": 2.0
+          },
+          {
+            "word": "포로",
+            "weight": 2.0
+          },
+          {
+            "word": "페터 헤르틀링",
+            "weight": 2.0
+          },
+          {
+            "word": "출생",
+            "weight": 2.0
+          },
+          {
+            "word": "이탈",
+            "weight": 2.0
+          },
+          {
+            "word": "이사",
+            "weight": 2.0
+          },
+          {
+            "word": "연주",
+            "weight": 2.0
+          },
+          {
+            "word": "연인",
+            "weight": 2.0
+          },
+          {
+            "word": "엄선애",
+            "weight": 2.0
+          },
+          {
+            "word": "한국학술정보",
+            "weight": 2.0
+          },
+          {
+            "word": "학교",
+            "weight": 2.0
+          },
+          {
+            "word": "피아노",
+            "weight": 2.0
+          },
+          {
+            "word": "작곡가",
+            "weight": 2.0
+          },
+          {
+            "word": "IV",
+            "weight": 2.0
+          },
+          {
+            "word": "III",
+            "weight": 2.0
+          },
+          {
+            "word": "II",
+            "weight": 2.0
+          },
+          {
+            "word": "묘사",
+            "weight": 2.0
+          },
+          {
+            "word": "독일",
+            "weight": 2.0
+          },
+          {
+            "word": "인생",
+            "weight": 2.0
+          },
+          {
+            "word": "독일소설",
+            "weight": 2.0
+          },
+          {
+            "word": "문과대학",
+            "weight": 2.0
+          },
+          {
+            "word": "부인",
+            "weight": 2.0
+          },
+          {
+            "word": "서문",
+            "weight": 2.0
+          },
+          {
+            "word": "페터",
+            "weight": 2.0
+          },
+          {
+            "word": "이중지원",
+            "weight": 2.0
+          },
+          {
+            "word": "우리말",
+            "weight": 2.0
+          },
+          {
+            "word": "여인",
+            "weight": 2.0
+          },
+          {
+            "word": "아주",
+            "weight": 2.0
+          },
+          {
+            "word": "인상",
+            "weight": 2.0
+          },
+          {
+            "word": "힘멜포르트그룬트",
+            "weight": 1.0
+          },
+          {
+            "word": "Todesvertrautheit",
+            "weight": 1.0
+          },
+          {
+            "word": "경성대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "겨울",
+            "weight": 1.0
+          },
+          {
+            "word": "거기",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": false,
+        "co_loan_books": []
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "슈베르트에 홀리다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000509240",
+        "title": "슈베르트에 홀리다",
+        "subtitle": "악흥의 때 열둘과 소설 하나",
+        "page": "332 p.",
+        "book_size": "152*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788926854693",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788926854693",
+      "isbn_add_code": "03850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "슈베르트에 홀리다 ",
+      "subtitle": "악흥의 때 열둘과 소설 하나",
+      "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한국학술정보(주)",
+      "publish_year": "2014",
+      "publish_predate": "20140203",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "332 p.",
+      "book_size": "152*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "독일 작가 페터 헤르틀링의 소설. 작가 헤르틀링은 본질을 보는 확고한 시선으로 위대한 작곡가 슈베르트의 인생의 역들을 묘사하며, 음악적인 언어로써 깊은 고통의 대가로 얻어진 명랑하고 경쾌한 아름다운 음향의 세계로 독자를 유인해 들인다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/3721/20/cover/8926854698_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "악흥",
+          "weight": 18.0
+        },
+        {
+          "word": "슈베르트",
+          "weight": 12.0
+        },
+        {
+          "word": "헤르틀링",
+          "weight": 5.0
+        },
+        {
+          "word": "상당",
+          "weight": 5.0
+        },
+        {
+          "word": "초상",
+          "weight": 4.0
+        },
+        {
+          "word": "소리",
+          "weight": 4.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "니벨룽의 반지",
+          "weight": 3.0
+        },
+        {
+          "word": "전기",
+          "weight": 3.0
+        },
+        {
+          "word": "독일 음악 속의 문학",
+          "weight": 3.0
+        },
+        {
+          "word": "음악가",
+          "weight": 3.0
+        },
+        {
+          "word": "살리에리",
+          "weight": 2.0
+        },
+        {
+          "word": "방랑자",
+          "weight": 2.0
+        },
+        {
+          "word": "문하생",
+          "weight": 2.0
+        },
+        {
+          "word": "아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "포로",
+          "weight": 2.0
+        },
+        {
+          "word": "페터 헤르틀링",
+          "weight": 2.0
+        },
+        {
+          "word": "출생",
+          "weight": 2.0
+        },
+        {
+          "word": "이탈",
+          "weight": 2.0
+        },
+        {
+          "word": "이사",
+          "weight": 2.0
+        },
+        {
+          "word": "연주",
+          "weight": 2.0
+        },
+        {
+          "word": "연인",
+          "weight": 2.0
+        },
+        {
+          "word": "엄선애",
+          "weight": 2.0
+        },
+        {
+          "word": "한국학술정보",
+          "weight": 2.0
+        },
+        {
+          "word": "학교",
+          "weight": 2.0
+        },
+        {
+          "word": "피아노",
+          "weight": 2.0
+        },
+        {
+          "word": "작곡가",
+          "weight": 2.0
+        },
+        {
+          "word": "IV",
+          "weight": 2.0
+        },
+        {
+          "word": "III",
+          "weight": 2.0
+        },
+        {
+          "word": "II",
+          "weight": 2.0
+        },
+        {
+          "word": "묘사",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "독일소설",
+          "weight": 2.0
+        },
+        {
+          "word": "문과대학",
+          "weight": 2.0
+        },
+        {
+          "word": "부인",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "페터",
+          "weight": 2.0
+        },
+        {
+          "word": "이중지원",
+          "weight": 2.0
+        },
+        {
+          "word": "우리말",
+          "weight": 2.0
+        },
+        {
+          "word": "여인",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "인상",
+          "weight": 2.0
+        },
+        {
+          "word": "힘멜포르트그룬트",
+          "weight": 1.0
+        },
+        {
+          "word": "Todesvertrautheit",
+          "weight": 1.0
+        },
+        {
+          "word": "경성대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "거기",
+          "weight": 1.0
+        }
+      ],
+      "description": "독일 작가 페터 헤르틀링의 소설. 작가 헤르틀링은 본질을 보는 확고한 시선으로 위대한 작곡가 슈베르트의 인생의 역들을 묘사하며, 음악적인 언어로써 깊은 고통의 대가로 얻어진 명랑하고 경쾌한 아름다운 음향의 세계로 독자를 유인해 들인다.",
+      "co_loan_books": [],
+      "title": "슈베르트에 홀리다 ",
+      "author": "페터 헤르틀링 지음 ;엄선애 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

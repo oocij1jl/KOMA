@@ -1,0 +1,447 @@
+{
+  "isbn": "9781984847973",
+  "captured_at": "2026-10-03T00:21:50.260831+09:00",
+  "lookup": {
+    "isbn": "9781984847973",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9781984847973",
+      "isbn_add_code": "",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "Bad dog ",
+      "subtitle": "양장본 Hardcover",
+      "author": "by Mike Boldt",
+      "volume": "hc",
+      "pub_place": "",
+      "publisher": "Doubleday",
+      "publish_year": "2019",
+      "publish_predate": "",
+      "kdc": "527.47",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 농업, 농학 > 축산학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "221*282mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/18362/37/cover/198484797x_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "Find Fergus (Hardcover)",
+          "isbn13": "9781984849021",
+          "authors": "Mike Boldt (지은이)"
+        },
+        {
+          "bookname": "I want a dog ",
+          "isbn13": "9780525555469",
+          "authors": "Jon Agee"
+        },
+        {
+          "bookname": "Where's Halmoni? ",
+          "isbn13": "9781632170774",
+          "authors": "Julie Kim"
+        },
+        {
+          "bookname": "Creepy crayon! ",
+          "isbn13": "9781534465886",
+          "authors": "words: Aaron Reynolds ;pictures: Peter Brown"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "This Is Gus (Hardcover)",
+          "isbn13": "9780593097366",
+          "authors": "Chris Chatterton (지은이)"
+        },
+        {
+          "bookname": "See the cat :three stories about a dog ",
+          "isbn13": "9781536204278",
+          "authors": "David LaRochelle ;illustrated by Mike Wohnoutka"
+        },
+        {
+          "bookname": "We are growing! ",
+          "isbn13": "9781484726358",
+          "authors": "by Laurie Keller"
+        },
+        {
+          "bookname": "A Pig, a Fox, and Stinky Socks (Paperback)",
+          "isbn13": "9780593095973",
+          "authors": "Jonathan Fenske (지은이)"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        }
+      ],
+      "title": "Bad dog ",
+      "author": "by Mike Boldt",
+      "kdc_from_api": "527.47",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "Bad dog ",
+        "author": "by Mike Boldt",
+        "publisher": "Doubleday",
+        "publish_year": "2019",
+        "isbn": "198484797X",
+        "isbn13": "9781984847973",
+        "isbn_add_code": "",
+        "volume": "hc",
+        "class_no": "527.47",
+        "class_nm": "기술과학 > 농업, 농학 > 축산학",
+        "description": "",
+        "cover_url": "https://image.aladin.co.kr/product/18362/37/cover/198484797x_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": false,
+        "keywords": []
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "Find Fergus (Hardcover)",
+            "isbn13": "9781984849021",
+            "authors": "Mike Boldt (지은이)"
+          },
+          {
+            "bookname": "I want a dog ",
+            "isbn13": "9780525555469",
+            "authors": "Jon Agee"
+          },
+          {
+            "bookname": "Where's Halmoni? ",
+            "isbn13": "9781632170774",
+            "authors": "Julie Kim"
+          },
+          {
+            "bookname": "Creepy crayon! ",
+            "isbn13": "9781534465886",
+            "authors": "words: Aaron Reynolds ;pictures: Peter Brown"
+          },
+          {
+            "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+            "isbn13": "9791158362249",
+            "authors": "유설화"
+          },
+          {
+            "bookname": "This Is Gus (Hardcover)",
+            "isbn13": "9780593097366",
+            "authors": "Chris Chatterton (지은이)"
+          },
+          {
+            "bookname": "See the cat :three stories about a dog ",
+            "isbn13": "9781536204278",
+            "authors": "David LaRochelle ;illustrated by Mike Wohnoutka"
+          },
+          {
+            "bookname": "We are growing! ",
+            "isbn13": "9781484726358",
+            "authors": "by Laurie Keller"
+          },
+          {
+            "bookname": "A Pig, a Fox, and Stinky Socks (Paperback)",
+            "isbn13": "9780593095973",
+            "authors": "Jonathan Fenske (지은이)"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000037171382",
+        "title": "Bad Dog",
+        "subtitle": "양장본 Hardcover",
+        "page": "40 p.",
+        "book_size": "221*282mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9781984847973",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9781984847973",
+      "isbn_add_code": "",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "Bad dog ",
+      "subtitle": "양장본 Hardcover",
+      "author": "by Mike Boldt",
+      "volume": "hc",
+      "pub_place": "",
+      "publisher": "Doubleday",
+      "publish_year": "2019",
+      "publish_predate": "",
+      "kdc": "527.47",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 농업, 농학 > 축산학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "221*282mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/18362/37/cover/198484797x_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "Find Fergus (Hardcover)",
+          "isbn13": "9781984849021",
+          "authors": "Mike Boldt (지은이)"
+        },
+        {
+          "bookname": "I want a dog ",
+          "isbn13": "9780525555469",
+          "authors": "Jon Agee"
+        },
+        {
+          "bookname": "Where's Halmoni? ",
+          "isbn13": "9781632170774",
+          "authors": "Julie Kim"
+        },
+        {
+          "bookname": "Creepy crayon! ",
+          "isbn13": "9781534465886",
+          "authors": "words: Aaron Reynolds ;pictures: Peter Brown"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "This Is Gus (Hardcover)",
+          "isbn13": "9780593097366",
+          "authors": "Chris Chatterton (지은이)"
+        },
+        {
+          "bookname": "See the cat :three stories about a dog ",
+          "isbn13": "9781536204278",
+          "authors": "David LaRochelle ;illustrated by Mike Wohnoutka"
+        },
+        {
+          "bookname": "We are growing! ",
+          "isbn13": "9781484726358",
+          "authors": "by Laurie Keller"
+        },
+        {
+          "bookname": "A Pig, a Fox, and Stinky Socks (Paperback)",
+          "isbn13": "9780593095973",
+          "authors": "Jonathan Fenske (지은이)"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        }
+      ],
+      "title": "Bad dog ",
+      "author": "by Mike Boldt",
+      "kdc_from_api": "527.47",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

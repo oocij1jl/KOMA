@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791198013026",
+  "captured_at": "2026-10-02T00:10:34.168523+09:00",
+  "lookup": {
+    "isbn": "9791198013026",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791198013026",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+      "subtitle": "",
+      "author": "김미경 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Awakebooks :엠케이유니버스",
+      "publish_year": "2023",
+      "publish_predate": "20230215",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "300 p.",
+      "book_size": "145*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30995/11/cover/k672831500_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인생",
+          "weight": 22.0
+        },
+        {
+          "word": "사람",
+          "weight": 13.0
+        },
+        {
+          "word": "김미경",
+          "weight": 12.0
+        },
+        {
+          "word": "불안",
+          "weight": 11.0
+        },
+        {
+          "word": "40대",
+          "weight": 9.0
+        },
+        {
+          "word": "세대",
+          "weight": 9.0
+        },
+        {
+          "word": "시작",
+          "weight": 8.0
+        },
+        {
+          "word": "퇴사",
+          "weight": 6.0
+        },
+        {
+          "word": "이룬",
+          "weight": 6.0
+        },
+        {
+          "word": "국민",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "오늘",
+          "weight": 6.0
+        },
+        {
+          "word": "누구",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "시절",
+          "weight": 5.0
+        },
+        {
+          "word": "나이",
+          "weight": 5.0
+        },
+        {
+          "word": "최고",
+          "weight": 5.0
+        },
+        {
+          "word": "것들",
+          "weight": 5.0
+        },
+        {
+          "word": "도전",
+          "weight": 5.0
+        },
+        {
+          "word": "안정",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "열풍",
+          "weight": 4.0
+        },
+        {
+          "word": "미래",
+          "weight": 4.0
+        },
+        {
+          "word": "단단",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "원씽",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "열심",
+          "weight": 4.0
+        },
+        {
+          "word": "기대",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "당연",
+          "weight": 3.0
+        },
+        {
+          "word": "올해",
+          "weight": 3.0
+        },
+        {
+          "word": "언니",
+          "weight": 3.0
+        },
+        {
+          "word": "갓생",
+          "weight": 3.0
+        },
+        {
+          "word": "강사",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "불황",
+          "weight": 3.0
+        },
+        {
+          "word": "근육",
+          "weight": 3.0
+        },
+        {
+          "word": "우울",
+          "weight": 3.0
+        },
+        {
+          "word": "1세대",
+          "weight": 3.0
+        },
+        {
+          "word": "시대",
+          "weight": 3.0
+        },
+        {
+          "word": "멘토",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "남자",
+          "weight": 3.0
+        },
+        {
+          "word": "이들",
+          "weight": 3.0
+        },
+        {
+          "word": "연습",
+          "weight": 3.0
+        },
+        {
+          "word": "MKTV",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        }
+      ],
+      "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        }
+      ],
+      "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+      "author": "김미경 지음",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+        "author": "김미경 지음",
+        "publisher": "Awakebooks :엠케이유니버스",
+        "publish_predate": "20230215",
+        "isbn": "9791198013026",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "295 p.",
+        "book_size": "145*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+        "author": "김미경 지음",
+        "publisher": "엠케이유니버스",
+        "publish_year": "2023",
+        "isbn": "1198013028",
+        "isbn13": "9791198013026",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "325.211",
+        "class_nm": "사회과학 > 경제학 > 경영관리",
+        "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+        "cover_url": "https://image.aladin.co.kr/product/30995/11/cover/k672831500_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "인생",
+            "weight": 22.0
+          },
+          {
+            "word": "사람",
+            "weight": 13.0
+          },
+          {
+            "word": "김미경",
+            "weight": 12.0
+          },
+          {
+            "word": "불안",
+            "weight": 11.0
+          },
+          {
+            "word": "40대",
+            "weight": 9.0
+          },
+          {
+            "word": "세대",
+            "weight": 9.0
+          },
+          {
+            "word": "시작",
+            "weight": 8.0
+          },
+          {
+            "word": "퇴사",
+            "weight": 6.0
+          },
+          {
+            "word": "이룬",
+            "weight": 6.0
+          },
+          {
+            "word": "국민",
+            "weight": 6.0
+          },
+          {
+            "word": "성장",
+            "weight": 6.0
+          },
+          {
+            "word": "오늘",
+            "weight": 6.0
+          },
+          {
+            "word": "누구",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 5.0
+          },
+          {
+            "word": "시절",
+            "weight": 5.0
+          },
+          {
+            "word": "나이",
+            "weight": 5.0
+          },
+          {
+            "word": "최고",
+            "weight": 5.0
+          },
+          {
+            "word": "것들",
+            "weight": 5.0
+          },
+          {
+            "word": "도전",
+            "weight": 5.0
+          },
+          {
+            "word": "안정",
+            "weight": 5.0
+          },
+          {
+            "word": "가지",
+            "weight": 5.0
+          },
+          {
+            "word": "열풍",
+            "weight": 4.0
+          },
+          {
+            "word": "미래",
+            "weight": 4.0
+          },
+          {
+            "word": "단단",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "원씽",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "열심",
+            "weight": 4.0
+          },
+          {
+            "word": "기대",
+            "weight": 4.0
+          },
+          {
+            "word": "자기",
+            "weight": 4.0
+          },
+          {
+            "word": "당연",
+            "weight": 3.0
+          },
+          {
+            "word": "올해",
+            "weight": 3.0
+          },
+          {
+            "word": "언니",
+            "weight": 3.0
+          },
+          {
+            "word": "갓생",
+            "weight": 3.0
+          },
+          {
+            "word": "강사",
+            "weight": 3.0
+          },
+          {
+            "word": "10년",
+            "weight": 3.0
+          },
+          {
+            "word": "불황",
+            "weight": 3.0
+          },
+          {
+            "word": "근육",
+            "weight": 3.0
+          },
+          {
+            "word": "우울",
+            "weight": 3.0
+          },
+          {
+            "word": "1세대",
+            "weight": 3.0
+          },
+          {
+            "word": "시대",
+            "weight": 3.0
+          },
+          {
+            "word": "멘토",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "연결",
+            "weight": 3.0
+          },
+          {
+            "word": "남자",
+            "weight": 3.0
+          },
+          {
+            "word": "이들",
+            "weight": 3.0
+          },
+          {
+            "word": "연습",
+            "weight": 3.0
+          },
+          {
+            "word": "MKTV",
+            "weight": 3.0
+          },
+          {
+            "word": "생각",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+            "isbn13": "9791191891287",
+            "authors": "글: 윤정은"
+          },
+          {
+            "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+            "isbn13": "9791192300818",
+            "authors": "강용수 지음"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+            "isbn13": "9791165347161",
+            "authors": "송희구 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000200826891",
+        "title": "이미 늦었다고 생각하는 당신을 위한 김미경의 마흔 수업",
+        "subtitle": "",
+        "page": "300 p.",
+        "book_size": "146*212mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791198013026",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791198013026",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+      "subtitle": "",
+      "author": "김미경 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Awakebooks :엠케이유니버스",
+      "publish_year": "2023",
+      "publish_predate": "20230215",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "300 p.",
+      "book_size": "145*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30995/11/cover/k672831500_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인생",
+          "weight": 22.0
+        },
+        {
+          "word": "사람",
+          "weight": 13.0
+        },
+        {
+          "word": "김미경",
+          "weight": 12.0
+        },
+        {
+          "word": "불안",
+          "weight": 11.0
+        },
+        {
+          "word": "40대",
+          "weight": 9.0
+        },
+        {
+          "word": "세대",
+          "weight": 9.0
+        },
+        {
+          "word": "시작",
+          "weight": 8.0
+        },
+        {
+          "word": "퇴사",
+          "weight": 6.0
+        },
+        {
+          "word": "이룬",
+          "weight": 6.0
+        },
+        {
+          "word": "국민",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "오늘",
+          "weight": 6.0
+        },
+        {
+          "word": "누구",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "시절",
+          "weight": 5.0
+        },
+        {
+          "word": "나이",
+          "weight": 5.0
+        },
+        {
+          "word": "최고",
+          "weight": 5.0
+        },
+        {
+          "word": "것들",
+          "weight": 5.0
+        },
+        {
+          "word": "도전",
+          "weight": 5.0
+        },
+        {
+          "word": "안정",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "열풍",
+          "weight": 4.0
+        },
+        {
+          "word": "미래",
+          "weight": 4.0
+        },
+        {
+          "word": "단단",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "원씽",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "열심",
+          "weight": 4.0
+        },
+        {
+          "word": "기대",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "당연",
+          "weight": 3.0
+        },
+        {
+          "word": "올해",
+          "weight": 3.0
+        },
+        {
+          "word": "언니",
+          "weight": 3.0
+        },
+        {
+          "word": "갓생",
+          "weight": 3.0
+        },
+        {
+          "word": "강사",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "불황",
+          "weight": 3.0
+        },
+        {
+          "word": "근육",
+          "weight": 3.0
+        },
+        {
+          "word": "우울",
+          "weight": 3.0
+        },
+        {
+          "word": "1세대",
+          "weight": 3.0
+        },
+        {
+          "word": "시대",
+          "weight": 3.0
+        },
+        {
+          "word": "멘토",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "남자",
+          "weight": 3.0
+        },
+        {
+          "word": "이들",
+          "weight": 3.0
+        },
+        {
+          "word": "연습",
+          "weight": 3.0
+        },
+        {
+          "word": "MKTV",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        }
+      ],
+      "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        }
+      ],
+      "title": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+      "author": "김미경 지음",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

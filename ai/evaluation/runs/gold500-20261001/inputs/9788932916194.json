@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788932916194",
+  "captured_at": "2026-10-04T00:20:00.277233+09:00",
+  "lookup": {
+    "isbn": "9788932916194",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932916194",
+      "isbn_add_code": "03850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "창문 넘어 도망친 100세 노인 ",
+      "subtitle": "요나스 요나손 장편소설",
+      "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2013",
+      "publish_predate": "",
+      "kdc": "859.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 기타 게르만 문학",
+      "ddc": "839.738",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "508 p.",
+      "book_size": "130*190mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "스웨덴 작가 요나스 요나손의 장편소설. 기자와 PD로 오랜 세월 일해 온 작가의 늦깎이 데뷔작인 이 소설은 인구 900만의 스웨덴에서 100만 부, 전 세계적으로 500만 부 이상 팔리며 '백 세 노인 현상'을 일으켰다.",
+      "control_no": "CIP2013011417",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "스웨덴",
+          "weight": 19.0
+        },
+        {
+          "word": "트렁크",
+          "weight": 13.0
+        },
+        {
+          "word": "노인",
+          "weight": 13.0
+        },
+        {
+          "word": "인생",
+          "weight": 12.0
+        },
+        {
+          "word": "사건",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 8.0
+        },
+        {
+          "word": "모험",
+          "weight": 7.0
+        },
+        {
+          "word": "세상",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "현대사",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "자물쇠",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 6.0
+        },
+        {
+          "word": "세상에나",
+          "weight": 6.0
+        },
+        {
+          "word": "보기이",
+          "weight": 6.0
+        },
+        {
+          "word": "베리크비스트",
+          "weight": 6.0
+        },
+        {
+          "word": "행복",
+          "weight": 5.0
+        },
+        {
+          "word": "김정일",
+          "weight": 5.0
+        },
+        {
+          "word": "이름",
+          "weight": 5.0
+        },
+        {
+          "word": "주인공",
+          "weight": 5.0
+        },
+        {
+          "word": "생일",
+          "weight": 5.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "제3서기관",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "세계사",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "정치적",
+          "weight": 5.0
+        },
+        {
+          "word": "양로원",
+          "weight": 5.0
+        },
+        {
+          "word": "결정적",
+          "weight": 4.0
+        },
+        {
+          "word": "버스",
+          "weight": 4.0
+        },
+        {
+          "word": "철자",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "창문",
+          "weight": 4.0
+        },
+        {
+          "word": "탈출",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "김일성",
+          "weight": 4.0
+        },
+        {
+          "word": "미국",
+          "weight": 4.0
+        },
+        {
+          "word": "요나스",
+          "weight": 4.0
+        },
+        {
+          "word": "2013년",
+          "weight": 4.0
+        },
+        {
+          "word": "대신",
+          "weight": 4.0
+        },
+        {
+          "word": "도피",
+          "weight": 4.0
+        },
+        {
+          "word": "이데올로기",
+          "weight": 4.0
+        },
+        {
+          "word": "율리우스",
+          "weight": 4.0
+        },
+        {
+          "word": "7월",
+          "weight": 4.0
+        },
+        {
+          "word": "터미널",
+          "weight": 4.0
+        },
+        {
+          "word": "대통령",
+          "weight": 4.0
+        },
+        {
+          "word": "소읍",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "요나손",
+          "weight": 4.0
+        }
+      ],
+      "description": "스웨덴 작가 요나스 요나손의 장편소설. 기자와 PD로 오랜 세월 일해 온 작가의 늦깎이 데뷔작인 이 소설은 인구 900만의 스웨덴에서 100만 부, 전 세계적으로 500만 부 이상 팔리며 '백 세 노인 현상'을 일으켰다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "핵을 들고 도망친 101세 노인 :요나스 요나손 장편소설 ",
+          "isbn13": "9788932919874",
+          "authors": "지은이: 요나스 요나손 ;옮긴이: 임호경"
+        },
+        {
+          "bookname": "오베라는 남자 :프레드릭 배크만 장편소설 ",
+          "isbn13": "9791130605210",
+          "authors": "지은이: 프레드릭 배크만 ;옮긴이: 최민우"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "나미야 잡화점의 기적 :히가시노 게이고 장편소설 ",
+          "isbn13": "9788972756194",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "창문 넘어 도망친 100세 노인 ",
+      "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+      "kdc_from_api": "859.7",
+      "ddc_from_api": "839.738",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "창문 넘어 도망친 100세 노인 ",
+        "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+        "publisher": "열린책들",
+        "publish_predate": "",
+        "isbn": "9788932916194",
+        "isbn_add_code": "03850",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "859.7",
+        "ddc": "839.738",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2013011417",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "창문 넘어 도망친 100세 노인 :요나스 요나손 장편소설 ",
+        "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+        "publisher": "열린책들",
+        "publish_year": "2013",
+        "isbn": "8932916195",
+        "isbn13": "9788932916194",
+        "isbn_add_code": "03850",
+        "volume": "",
+        "class_no": "859.7",
+        "class_nm": "문학 > 독일문학 > 기타 게르만 문학",
+        "description": "스웨덴 작가 요나스 요나손의 장편소설. 기자와 PD로 오랜 세월 일해 온 작가의 늦깎이 데뷔작인 이 소설은 인구 900만의 스웨덴에서 100만 부, 전 세계적으로 500만 부 이상 팔리며 '백 세 노인 현상'을 일으켰다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/072/647/07264703.jpg?type=m1&udate=20180717"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "스웨덴",
+            "weight": 19.0
+          },
+          {
+            "word": "트렁크",
+            "weight": 13.0
+          },
+          {
+            "word": "노인",
+            "weight": 13.0
+          },
+          {
+            "word": "인생",
+            "weight": 12.0
+          },
+          {
+            "word": "사건",
+            "weight": 8.0
+          },
+          {
+            "word": "세계",
+            "weight": 8.0
+          },
+          {
+            "word": "모험",
+            "weight": 7.0
+          },
+          {
+            "word": "세상",
+            "weight": 7.0
+          },
+          {
+            "word": "독자",
+            "weight": 7.0
+          },
+          {
+            "word": "현대사",
+            "weight": 7.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "자물쇠",
+            "weight": 6.0
+          },
+          {
+            "word": "역사",
+            "weight": 6.0
+          },
+          {
+            "word": "세상에나",
+            "weight": 6.0
+          },
+          {
+            "word": "보기이",
+            "weight": 6.0
+          },
+          {
+            "word": "베리크비스트",
+            "weight": 6.0
+          },
+          {
+            "word": "행복",
+            "weight": 5.0
+          },
+          {
+            "word": "김정일",
+            "weight": 5.0
+          },
+          {
+            "word": "이름",
+            "weight": 5.0
+          },
+          {
+            "word": "주인공",
+            "weight": 5.0
+          },
+          {
+            "word": "생일",
+            "weight": 5.0
+          },
+          {
+            "word": "과정",
+            "weight": 5.0
+          },
+          {
+            "word": "제3서기관",
+            "weight": 5.0
+          },
+          {
+            "word": "자신",
+            "weight": 5.0
+          },
+          {
+            "word": "세계사",
+            "weight": 5.0
+          },
+          {
+            "word": "처음",
+            "weight": 5.0
+          },
+          {
+            "word": "정치적",
+            "weight": 5.0
+          },
+          {
+            "word": "양로원",
+            "weight": 5.0
+          },
+          {
+            "word": "결정적",
+            "weight": 4.0
+          },
+          {
+            "word": "버스",
+            "weight": 4.0
+          },
+          {
+            "word": "철자",
+            "weight": 4.0
+          },
+          {
+            "word": "사실",
+            "weight": 4.0
+          },
+          {
+            "word": "장면",
+            "weight": 4.0
+          },
+          {
+            "word": "창문",
+            "weight": 4.0
+          },
+          {
+            "word": "탈출",
+            "weight": 4.0
+          },
+          {
+            "word": "자기",
+            "weight": 4.0
+          },
+          {
+            "word": "김일성",
+            "weight": 4.0
+          },
+          {
+            "word": "미국",
+            "weight": 4.0
+          },
+          {
+            "word": "요나스",
+            "weight": 4.0
+          },
+          {
+            "word": "2013년",
+            "weight": 4.0
+          },
+          {
+            "word": "대신",
+            "weight": 4.0
+          },
+          {
+            "word": "도피",
+            "weight": 4.0
+          },
+          {
+            "word": "이데올로기",
+            "weight": 4.0
+          },
+          {
+            "word": "율리우스",
+            "weight": 4.0
+          },
+          {
+            "word": "7월",
+            "weight": 4.0
+          },
+          {
+            "word": "터미널",
+            "weight": 4.0
+          },
+          {
+            "word": "대통령",
+            "weight": 4.0
+          },
+          {
+            "word": "소읍",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "요나손",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "핵을 들고 도망친 101세 노인 :요나스 요나손 장편소설 ",
+            "isbn13": "9788932919874",
+            "authors": "지은이: 요나스 요나손 ;옮긴이: 임호경"
+          },
+          {
+            "bookname": "오베라는 남자 :프레드릭 배크만 장편소설 ",
+            "isbn13": "9791130605210",
+            "authors": "지은이: 프레드릭 배크만 ;옮긴이: 최민우"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "나미야 잡화점의 기적 :히가시노 게이고 장편소설 ",
+            "isbn13": "9788972756194",
+            "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "창문 넘어 도망친 100세 노인"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000581727",
+        "title": "창문 넘어 도망친 100세 노인",
+        "subtitle": "요나스 요나손 장편소설",
+        "page": "508 p.",
+        "book_size": "130*190mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932916194",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932916194",
+      "isbn_add_code": "03850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "창문 넘어 도망친 100세 노인 ",
+      "subtitle": "요나스 요나손 장편소설",
+      "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2013",
+      "publish_predate": "",
+      "kdc": "859.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 기타 게르만 문학",
+      "ddc": "839.738",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "508 p.",
+      "book_size": "130*190mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "스웨덴 작가 요나스 요나손의 장편소설. 기자와 PD로 오랜 세월 일해 온 작가의 늦깎이 데뷔작인 이 소설은 인구 900만의 스웨덴에서 100만 부, 전 세계적으로 500만 부 이상 팔리며 '백 세 노인 현상'을 일으켰다.",
+      "control_no": "CIP2013011417",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2815111_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "스웨덴",
+          "weight": 19.0
+        },
+        {
+          "word": "트렁크",
+          "weight": 13.0
+        },
+        {
+          "word": "노인",
+          "weight": 13.0
+        },
+        {
+          "word": "인생",
+          "weight": 12.0
+        },
+        {
+          "word": "사건",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 8.0
+        },
+        {
+          "word": "모험",
+          "weight": 7.0
+        },
+        {
+          "word": "세상",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "현대사",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "자물쇠",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 6.0
+        },
+        {
+          "word": "세상에나",
+          "weight": 6.0
+        },
+        {
+          "word": "보기이",
+          "weight": 6.0
+        },
+        {
+          "word": "베리크비스트",
+          "weight": 6.0
+        },
+        {
+          "word": "행복",
+          "weight": 5.0
+        },
+        {
+          "word": "김정일",
+          "weight": 5.0
+        },
+        {
+          "word": "이름",
+          "weight": 5.0
+        },
+        {
+          "word": "주인공",
+          "weight": 5.0
+        },
+        {
+          "word": "생일",
+          "weight": 5.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "제3서기관",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "세계사",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "정치적",
+          "weight": 5.0
+        },
+        {
+          "word": "양로원",
+          "weight": 5.0
+        },
+        {
+          "word": "결정적",
+          "weight": 4.0
+        },
+        {
+          "word": "버스",
+          "weight": 4.0
+        },
+        {
+          "word": "철자",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "창문",
+          "weight": 4.0
+        },
+        {
+          "word": "탈출",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "김일성",
+          "weight": 4.0
+        },
+        {
+          "word": "미국",
+          "weight": 4.0
+        },
+        {
+          "word": "요나스",
+          "weight": 4.0
+        },
+        {
+          "word": "2013년",
+          "weight": 4.0
+        },
+        {
+          "word": "대신",
+          "weight": 4.0
+        },
+        {
+          "word": "도피",
+          "weight": 4.0
+        },
+        {
+          "word": "이데올로기",
+          "weight": 4.0
+        },
+        {
+          "word": "율리우스",
+          "weight": 4.0
+        },
+        {
+          "word": "7월",
+          "weight": 4.0
+        },
+        {
+          "word": "터미널",
+          "weight": 4.0
+        },
+        {
+          "word": "대통령",
+          "weight": 4.0
+        },
+        {
+          "word": "소읍",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "요나손",
+          "weight": 4.0
+        }
+      ],
+      "description": "스웨덴 작가 요나스 요나손의 장편소설. 기자와 PD로 오랜 세월 일해 온 작가의 늦깎이 데뷔작인 이 소설은 인구 900만의 스웨덴에서 100만 부, 전 세계적으로 500만 부 이상 팔리며 '백 세 노인 현상'을 일으켰다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "핵을 들고 도망친 101세 노인 :요나스 요나손 장편소설 ",
+          "isbn13": "9788932919874",
+          "authors": "지은이: 요나스 요나손 ;옮긴이: 임호경"
+        },
+        {
+          "bookname": "오베라는 남자 :프레드릭 배크만 장편소설 ",
+          "isbn13": "9791130605210",
+          "authors": "지은이: 프레드릭 배크만 ;옮긴이: 최민우"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "나미야 잡화점의 기적 :히가시노 게이고 장편소설 ",
+          "isbn13": "9788972756194",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "창문 넘어 도망친 100세 노인 ",
+      "author": "지은이: 요나스 요나손 ;옮긴이: 임호경",
+      "kdc_from_api": "859.7",
+      "ddc_from_api": "839.738",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

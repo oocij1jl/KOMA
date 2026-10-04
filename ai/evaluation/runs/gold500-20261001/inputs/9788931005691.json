@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788931005691",
+  "captured_at": "2026-10-04T00:18:24.279846+09:00",
+  "lookup": {
+    "isbn": "9788931005691",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788931005691",
+      "isbn_add_code": "93800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "소설의 이론",
+      "subtitle": "",
+      "author": "게오르크 루카치 지음;김경식 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문예출판사",
+      "publish_year": "2007",
+      "publish_predate": "20070720",
+      "kdc": "802.3",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "808.3",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "277 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "서구의 근대적 장편소설에 대한 탐구서20세기 사상사에 큰 영향을 끼친 게오르크 루카치의 대표작 &lt;소설의 이론&gt;. 루카치의 저작들 중에서 가장 폭넓은 독자층을 가진 책으로, 소설의 형식에 관한 철학적ㆍ미학적 탐구서이다. 소설이 근대의 대표적인 문학 장르로 부상하는 현상을 근거짓는 데 성공한... ",
+      "control_no": "CIP2007001994",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "소설의 이론",
+          "weight": 18.0
+        },
+        {
+          "word": "형식",
+          "weight": 8.0
+        },
+        {
+          "word": "이론",
+          "weight": 6.0
+        },
+        {
+          "word": "루카치",
+          "weight": 6.0
+        },
+        {
+          "word": "소설",
+          "weight": 6.0
+        },
+        {
+          "word": "작업",
+          "weight": 5.0
+        },
+        {
+          "word": "서구",
+          "weight": 4.0
+        },
+        {
+          "word": "사유",
+          "weight": 4.0
+        },
+        {
+          "word": "이론적",
+          "weight": 3.0
+        },
+        {
+          "word": "집필",
+          "weight": 3.0
+        },
+        {
+          "word": "퉄톸훜 을 읽기 위하여",
+          "weight": 3.0
+        },
+        {
+          "word": "헝가리",
+          "weight": 3.0
+        },
+        {
+          "word": "미적인 것의 고유성",
+          "weight": 3.0
+        },
+        {
+          "word": "김경식",
+          "weight": 3.0
+        },
+        {
+          "word": "빌헬름 마이스터의 수업시대",
+          "weight": 3.0
+        },
+        {
+          "word": "청년 헤겔",
+          "weight": 3.0
+        },
+        {
+          "word": "이성의 파괴",
+          "weight": 3.0
+        },
+        {
+          "word": "마르크스주의",
+          "weight": 3.0
+        },
+        {
+          "word": "솔제니친",
+          "weight": 3.0
+        },
+        {
+          "word": "역사와 계급의식",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼과 형식",
+          "weight": 3.0
+        },
+        {
+          "word": "미학의 범주로서의 특수성",
+          "weight": 3.0
+        },
+        {
+          "word": "소설론",
+          "weight": 3.0
+        },
+        {
+          "word": "사회주의와 민주화",
+          "weight": 3.0
+        },
+        {
+          "word": "문예출판사",
+          "weight": 3.0
+        },
+        {
+          "word": "역사철학적",
+          "weight": 2.0
+        },
+        {
+          "word": "문화",
+          "weight": 2.0
+        },
+        {
+          "word": "본격적",
+          "weight": 2.0
+        },
+        {
+          "word": "시도",
+          "weight": 2.0
+        },
+        {
+          "word": "연구",
+          "weight": 2.0
+        },
+        {
+          "word": "완결",
+          "weight": 2.0
+        },
+        {
+          "word": "저작",
+          "weight": 2.0
+        },
+        {
+          "word": "도스토예프스키",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "정치적",
+          "weight": 2.0
+        },
+        {
+          "word": "내적",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "과정",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "근대",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "게오르크 루카치",
+          "weight": 2.0
+        },
+        {
+          "word": "미학",
+          "weight": 2.0
+        },
+        {
+          "word": "미학적",
+          "weight": 2.0
+        },
+        {
+          "word": "근거",
+          "weight": 1.0
+        },
+        {
+          "word": "귀결",
+          "weight": 1.0
+        },
+        {
+          "word": "게오르크",
+          "weight": 1.0
+        },
+        {
+          "word": "후기",
+          "weight": 1.0
+        }
+      ],
+      "description": "서구의 근대적 장편소설에 대한 탐구서20세기 사상사에 큰 영향을 끼친 게오르크 루카치의 대표작 &lt;소설의 이론&gt;. 루카치의 저작들 중에서 가장 폭넓은 독자층을 가진 책으로, 소설의 형식에 관한 철학적ㆍ미학적 탐구서이다. 소설이 근대의 대표적인 문학 장르로 부상하는 현상을 근거짓는 데 성공한... ",
+      "co_loan_books": [
+        {
+          "bookname": "인생의 역사 :신형철 시화 ",
+          "isbn13": "9791191859379",
+          "authors": "지은이: 신형철"
+        },
+        {
+          "bookname": "단편 소설 쓰기의 모든 것 :궁극의 소설 쓰기 바이블 ",
+          "isbn13": "9791156331445",
+          "authors": "데이먼 나이트 지음 ;정아영 옮김"
+        },
+        {
+          "bookname": "픽션들 ",
+          "isbn13": "9788937462757",
+          "authors": "지은이: 호르헤 루이스 보르헤스 ;옮긴이: 송병선"
+        },
+        {
+          "bookname": "희랍어 시간 :한강 장편소설 ",
+          "isbn13": "9788954616515",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아무도 아닌 :황정은 소설 ",
+          "isbn13": "9788954643306",
+          "authors": "지은이: 황정은"
+        },
+        {
+          "bookname": "현대사상 입문 ",
+          "isbn13": "9788950927400",
+          "authors": "지바 마사야 지음 ;김상운 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+          "isbn13": "9791167740892",
+          "authors": "조지 손더스 지음 ;정영목 옮김"
+        },
+        {
+          "bookname": "서사학 강의 :이야기에 대한 모든 것 ",
+          "isbn13": "9788932021683",
+          "authors": "H. 포터 애벗 지음 ;공성수 옮김"
+        },
+        {
+          "bookname": "세상은 이야기로 만들어졌다 :신화·거짓말·유토피아 ",
+          "isbn13": "9791192953151",
+          "authors": "자미라 엘 우아실,김현정 옮김"
+        }
+      ],
+      "title": "소설의 이론",
+      "author": "게오르크 루카치 지음;김경식 옮김",
+      "kdc_from_api": "802.3",
+      "ddc_from_api": "808.3",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "소설의 이론",
+        "author": "게오르크 루카치 지음;김경식 옮김",
+        "publisher": "문예출판사",
+        "publish_predate": "20070720",
+        "isbn": "9788931005691",
+        "isbn_add_code": "93800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩10000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "802.3",
+        "ddc": "808.3",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2007001994",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "소설의 이론:대(大) 서사문학의 형식들에 관한 역사철학적 시론",
+        "author": "게오르크 루카치 지음;김경식 옮김",
+        "publisher": "문예출판사",
+        "publish_year": "2007",
+        "isbn": "8931005695",
+        "isbn13": "9788931005691",
+        "isbn_add_code": "93800",
+        "volume": "",
+        "class_no": "853.09",
+        "class_nm": "문학 > 독일문학 > 소설",
+        "description": "서구의 근대적 장편소설에 대한 탐구서20세기 사상사에 큰 영향을 끼친 게오르크 루카치의 대표작 &lt;소설의 이론&gt;. 루카치의 저작들 중에서 가장 폭넓은 독자층을 가진 책으로, 소설의 형식에 관한 철학적ㆍ미학적 탐구서이다. 소설이 근대의 대표적인 문학 장르로 부상하는 현상을 근거짓는 데 성공한... ",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/029/581/02958121.jpg?type=m1&udate=20150715"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "소설의 이론",
+            "weight": 18.0
+          },
+          {
+            "word": "형식",
+            "weight": 8.0
+          },
+          {
+            "word": "이론",
+            "weight": 6.0
+          },
+          {
+            "word": "루카치",
+            "weight": 6.0
+          },
+          {
+            "word": "소설",
+            "weight": 6.0
+          },
+          {
+            "word": "작업",
+            "weight": 5.0
+          },
+          {
+            "word": "서구",
+            "weight": 4.0
+          },
+          {
+            "word": "사유",
+            "weight": 4.0
+          },
+          {
+            "word": "이론적",
+            "weight": 3.0
+          },
+          {
+            "word": "집필",
+            "weight": 3.0
+          },
+          {
+            "word": "퉄톸훜 을 읽기 위하여",
+            "weight": 3.0
+          },
+          {
+            "word": "헝가리",
+            "weight": 3.0
+          },
+          {
+            "word": "미적인 것의 고유성",
+            "weight": 3.0
+          },
+          {
+            "word": "김경식",
+            "weight": 3.0
+          },
+          {
+            "word": "빌헬름 마이스터의 수업시대",
+            "weight": 3.0
+          },
+          {
+            "word": "청년 헤겔",
+            "weight": 3.0
+          },
+          {
+            "word": "이성의 파괴",
+            "weight": 3.0
+          },
+          {
+            "word": "마르크스주의",
+            "weight": 3.0
+          },
+          {
+            "word": "솔제니친",
+            "weight": 3.0
+          },
+          {
+            "word": "역사와 계급의식",
+            "weight": 3.0
+          },
+          {
+            "word": "영혼과 형식",
+            "weight": 3.0
+          },
+          {
+            "word": "미학의 범주로서의 특수성",
+            "weight": 3.0
+          },
+          {
+            "word": "소설론",
+            "weight": 3.0
+          },
+          {
+            "word": "사회주의와 민주화",
+            "weight": 3.0
+          },
+          {
+            "word": "문예출판사",
+            "weight": 3.0
+          },
+          {
+            "word": "역사철학적",
+            "weight": 2.0
+          },
+          {
+            "word": "문화",
+            "weight": 2.0
+          },
+          {
+            "word": "본격적",
+            "weight": 2.0
+          },
+          {
+            "word": "시도",
+            "weight": 2.0
+          },
+          {
+            "word": "연구",
+            "weight": 2.0
+          },
+          {
+            "word": "완결",
+            "weight": 2.0
+          },
+          {
+            "word": "저작",
+            "weight": 2.0
+          },
+          {
+            "word": "도스토예프스키",
+            "weight": 2.0
+          },
+          {
+            "word": "소개",
+            "weight": 2.0
+          },
+          {
+            "word": "문학",
+            "weight": 2.0
+          },
+          {
+            "word": "최초",
+            "weight": 2.0
+          },
+          {
+            "word": "정치적",
+            "weight": 2.0
+          },
+          {
+            "word": "내적",
+            "weight": 2.0
+          },
+          {
+            "word": "가운데",
+            "weight": 2.0
+          },
+          {
+            "word": "과정",
+            "weight": 2.0
+          },
+          {
+            "word": "부록",
+            "weight": 2.0
+          },
+          {
+            "word": "근대",
+            "weight": 2.0
+          },
+          {
+            "word": "출판사",
+            "weight": 2.0
+          },
+          {
+            "word": "게오르크 루카치",
+            "weight": 2.0
+          },
+          {
+            "word": "미학",
+            "weight": 2.0
+          },
+          {
+            "word": "미학적",
+            "weight": 2.0
+          },
+          {
+            "word": "근거",
+            "weight": 1.0
+          },
+          {
+            "word": "귀결",
+            "weight": 1.0
+          },
+          {
+            "word": "게오르크",
+            "weight": 1.0
+          },
+          {
+            "word": "후기",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "인생의 역사 :신형철 시화 ",
+            "isbn13": "9791191859379",
+            "authors": "지은이: 신형철"
+          },
+          {
+            "bookname": "단편 소설 쓰기의 모든 것 :궁극의 소설 쓰기 바이블 ",
+            "isbn13": "9791156331445",
+            "authors": "데이먼 나이트 지음 ;정아영 옮김"
+          },
+          {
+            "bookname": "픽션들 ",
+            "isbn13": "9788937462757",
+            "authors": "지은이: 호르헤 루이스 보르헤스 ;옮긴이: 송병선"
+          },
+          {
+            "bookname": "희랍어 시간 :한강 장편소설 ",
+            "isbn13": "9788954616515",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "아무도 아닌 :황정은 소설 ",
+            "isbn13": "9788954643306",
+            "authors": "지은이: 황정은"
+          },
+          {
+            "bookname": "현대사상 입문 ",
+            "isbn13": "9788950927400",
+            "authors": "지바 마사야 지음 ;김상운 옮김"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+            "isbn13": "9791167740892",
+            "authors": "조지 손더스 지음 ;정영목 옮김"
+          },
+          {
+            "bookname": "서사학 강의 :이야기에 대한 모든 것 ",
+            "isbn13": "9788932021683",
+            "authors": "H. 포터 애벗 지음 ;공성수 옮김"
+          },
+          {
+            "bookname": "세상은 이야기로 만들어졌다 :신화·거짓말·유토피아 ",
+            "isbn13": "9791192953151",
+            "authors": "자미라 엘 우아실,김현정 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "소설의 이론"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000548940",
+        "title": "소설의 이론",
+        "subtitle": "",
+        "page": "277 p.",
+        "book_size": "153*224mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788931005691",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788931005691",
+      "isbn_add_code": "93800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "소설의 이론",
+      "subtitle": "",
+      "author": "게오르크 루카치 지음;김경식 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문예출판사",
+      "publish_year": "2007",
+      "publish_predate": "20070720",
+      "kdc": "802.3",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "808.3",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "277 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "서구의 근대적 장편소설에 대한 탐구서20세기 사상사에 큰 영향을 끼친 게오르크 루카치의 대표작 &lt;소설의 이론&gt;. 루카치의 저작들 중에서 가장 폭넓은 독자층을 가진 책으로, 소설의 형식에 관한 철학적ㆍ미학적 탐구서이다. 소설이 근대의 대표적인 문학 장르로 부상하는 현상을 근거짓는 데 성공한... ",
+      "control_no": "CIP2007001994",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2238493_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "소설의 이론",
+          "weight": 18.0
+        },
+        {
+          "word": "형식",
+          "weight": 8.0
+        },
+        {
+          "word": "이론",
+          "weight": 6.0
+        },
+        {
+          "word": "루카치",
+          "weight": 6.0
+        },
+        {
+          "word": "소설",
+          "weight": 6.0
+        },
+        {
+          "word": "작업",
+          "weight": 5.0
+        },
+        {
+          "word": "서구",
+          "weight": 4.0
+        },
+        {
+          "word": "사유",
+          "weight": 4.0
+        },
+        {
+          "word": "이론적",
+          "weight": 3.0
+        },
+        {
+          "word": "집필",
+          "weight": 3.0
+        },
+        {
+          "word": "퉄톸훜 을 읽기 위하여",
+          "weight": 3.0
+        },
+        {
+          "word": "헝가리",
+          "weight": 3.0
+        },
+        {
+          "word": "미적인 것의 고유성",
+          "weight": 3.0
+        },
+        {
+          "word": "김경식",
+          "weight": 3.0
+        },
+        {
+          "word": "빌헬름 마이스터의 수업시대",
+          "weight": 3.0
+        },
+        {
+          "word": "청년 헤겔",
+          "weight": 3.0
+        },
+        {
+          "word": "이성의 파괴",
+          "weight": 3.0
+        },
+        {
+          "word": "마르크스주의",
+          "weight": 3.0
+        },
+        {
+          "word": "솔제니친",
+          "weight": 3.0
+        },
+        {
+          "word": "역사와 계급의식",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼과 형식",
+          "weight": 3.0
+        },
+        {
+          "word": "미학의 범주로서의 특수성",
+          "weight": 3.0
+        },
+        {
+          "word": "소설론",
+          "weight": 3.0
+        },
+        {
+          "word": "사회주의와 민주화",
+          "weight": 3.0
+        },
+        {
+          "word": "문예출판사",
+          "weight": 3.0
+        },
+        {
+          "word": "역사철학적",
+          "weight": 2.0
+        },
+        {
+          "word": "문화",
+          "weight": 2.0
+        },
+        {
+          "word": "본격적",
+          "weight": 2.0
+        },
+        {
+          "word": "시도",
+          "weight": 2.0
+        },
+        {
+          "word": "연구",
+          "weight": 2.0
+        },
+        {
+          "word": "완결",
+          "weight": 2.0
+        },
+        {
+          "word": "저작",
+          "weight": 2.0
+        },
+        {
+          "word": "도스토예프스키",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "정치적",
+          "weight": 2.0
+        },
+        {
+          "word": "내적",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "과정",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "근대",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "게오르크 루카치",
+          "weight": 2.0
+        },
+        {
+          "word": "미학",
+          "weight": 2.0
+        },
+        {
+          "word": "미학적",
+          "weight": 2.0
+        },
+        {
+          "word": "근거",
+          "weight": 1.0
+        },
+        {
+          "word": "귀결",
+          "weight": 1.0
+        },
+        {
+          "word": "게오르크",
+          "weight": 1.0
+        },
+        {
+          "word": "후기",
+          "weight": 1.0
+        }
+      ],
+      "description": "서구의 근대적 장편소설에 대한 탐구서20세기 사상사에 큰 영향을 끼친 게오르크 루카치의 대표작 &lt;소설의 이론&gt;. 루카치의 저작들 중에서 가장 폭넓은 독자층을 가진 책으로, 소설의 형식에 관한 철학적ㆍ미학적 탐구서이다. 소설이 근대의 대표적인 문학 장르로 부상하는 현상을 근거짓는 데 성공한... ",
+      "co_loan_books": [
+        {
+          "bookname": "인생의 역사 :신형철 시화 ",
+          "isbn13": "9791191859379",
+          "authors": "지은이: 신형철"
+        },
+        {
+          "bookname": "단편 소설 쓰기의 모든 것 :궁극의 소설 쓰기 바이블 ",
+          "isbn13": "9791156331445",
+          "authors": "데이먼 나이트 지음 ;정아영 옮김"
+        },
+        {
+          "bookname": "픽션들 ",
+          "isbn13": "9788937462757",
+          "authors": "지은이: 호르헤 루이스 보르헤스 ;옮긴이: 송병선"
+        },
+        {
+          "bookname": "희랍어 시간 :한강 장편소설 ",
+          "isbn13": "9788954616515",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아무도 아닌 :황정은 소설 ",
+          "isbn13": "9788954643306",
+          "authors": "지은이: 황정은"
+        },
+        {
+          "bookname": "현대사상 입문 ",
+          "isbn13": "9788950927400",
+          "authors": "지바 마사야 지음 ;김상운 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+          "isbn13": "9791167740892",
+          "authors": "조지 손더스 지음 ;정영목 옮김"
+        },
+        {
+          "bookname": "서사학 강의 :이야기에 대한 모든 것 ",
+          "isbn13": "9788932021683",
+          "authors": "H. 포터 애벗 지음 ;공성수 옮김"
+        },
+        {
+          "bookname": "세상은 이야기로 만들어졌다 :신화·거짓말·유토피아 ",
+          "isbn13": "9791192953151",
+          "authors": "자미라 엘 우아실,김현정 옮김"
+        }
+      ],
+      "title": "소설의 이론",
+      "author": "게오르크 루카치 지음;김경식 옮김",
+      "kdc_from_api": "802.3",
+      "ddc_from_api": "808.3",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

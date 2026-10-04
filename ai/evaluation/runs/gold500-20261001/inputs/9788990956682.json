@@ -1,0 +1,925 @@
+{
+  "isbn": "9788990956682",
+  "captured_at": "2026-10-04T00:18:48.833362+09:00",
+  "lookup": {
+    "isbn": "9788990956682",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8990956684",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8800",
+      "title": "사랑한다면 우리도 이들처럼",
+      "subtitle": "",
+      "author": "김하인 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "이른아침",
+      "publish_year": "2006",
+      "publish_predate": "20060916",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "228 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "의 작가 김하인이 만남과 이별에 관해 쓴 에세이. 연인과의 오해 때문에 다투고, 화해 후 다시금 사랑을 다독이고, 또 사랑을 잃은 후 더 나은 사랑을 꿈꾸는 이들의 사연들을 담았다. 모두 작가가 직접 보고 들은 주변 사람들의 이야기를 바탕으로 씌어진 글들이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/68/85/cover/8990956684_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "김하인",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "박하사탕 그 눈부신",
+          "weight": 3.0
+        },
+        {
+          "word": "아침인사",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 못생겼다",
+          "weight": 3.0
+        },
+        {
+          "word": "조선일보",
+          "weight": 3.0
+        },
+        {
+          "word": "우츄프라카치아",
+          "weight": 3.0
+        },
+        {
+          "word": "눈꽃편지",
+          "weight": 3.0
+        },
+        {
+          "word": "목련꽃 그늘",
+          "weight": 3.0
+        },
+        {
+          "word": "대구매일신문",
+          "weight": 3.0
+        },
+        {
+          "word": "현대시학",
+          "weight": 3.0
+        },
+        {
+          "word": "중국",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑한다면 우리도 이들처럼",
+          "weight": 3.0
+        },
+        {
+          "word": "왕목",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "연어",
+          "weight": 3.0
+        },
+        {
+          "word": "국화꽃 향기",
+          "weight": 3.0
+        },
+        {
+          "word": "소녀처럼",
+          "weight": 3.0
+        },
+        {
+          "word": "경향신문",
+          "weight": 3.0
+        },
+        {
+          "word": "이른아침",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "외국작가",
+          "weight": 2.0
+        },
+        {
+          "word": "작은 이야기 모음",
+          "weight": 2.0
+        },
+        {
+          "word": "신춘문예",
+          "weight": 1.0
+        },
+        {
+          "word": "시집",
+          "weight": 1.0
+        },
+        {
+          "word": "활발",
+          "weight": 1.0
+        },
+        {
+          "word": "보고",
+          "weight": 1.0
+        },
+        {
+          "word": "북경국제도서전",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "상주",
+          "weight": 1.0
+        },
+        {
+          "word": "상대방",
+          "weight": 1.0
+        },
+        {
+          "word": "산문집",
+          "weight": 1.0
+        },
+        {
+          "word": "사연",
+          "weight": 1.0
+        },
+        {
+          "word": "높임말",
+          "weight": 1.0
+        },
+        {
+          "word": "가공",
+          "weight": 1.0
+        },
+        {
+          "word": "개인사",
+          "weight": 1.0
+        },
+        {
+          "word": "경북",
+          "weight": 1.0
+        },
+        {
+          "word": "관해",
+          "weight": 1.0
+        },
+        {
+          "word": "국내작가",
+          "weight": 1.0
+        },
+        {
+          "word": "그대",
+          "weight": 1.0
+        },
+        {
+          "word": "글들",
+          "weight": 1.0
+        },
+        {
+          "word": "기록",
+          "weight": 1.0
+        },
+        {
+          "word": "다독",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "당선",
+          "weight": 1.0
+        },
+        {
+          "word": "대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "러브스토리",
+          "weight": 1.0
+        },
+        {
+          "word": "마니아",
+          "weight": 1.0
+        },
+        {
+          "word": "만남",
+          "weight": 1.0
+        },
+        {
+          "word": "말미",
+          "weight": 1.0
+        }
+      ],
+      "description": "의 작가 김하인이 만남과 이별에 관해 쓴 에세이. 연인과의 오해 때문에 다투고, 화해 후 다시금 사랑을 다독이고, 또 사랑을 잃은 후 더 나은 사랑을 꿈꾸는 이들의 사연들을 담았다. 모두 작가가 직접 보고 들은 주변 사람들의 이야기를 바탕으로 씌어진 글들이다.",
+      "co_loan_books": [],
+      "title": "사랑한다면 우리도 이들처럼",
+      "author": "김하인 지음",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "사랑한다면 우리도 이들처럼",
+        "author": "김하인 지음",
+        "publisher": "이른아침",
+        "publish_predate": "20060916",
+        "isbn": "8990956684",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩8800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "사랑한다면 우리도 이들처럼:김하인이 찾아낸 우리 시대 가장 감동적인 러브스토리 14",
+        "author": "김하인 지음",
+        "publisher": "이른아침",
+        "publish_year": "2006",
+        "isbn": "8990956684",
+        "isbn13": "9788990956682",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "818",
+        "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+        "description": "의 작가 김하인이 만남과 이별에 관해 쓴 에세이. 연인과의 오해 때문에 다투고, 화해 후 다시금 사랑을 다독이고, 또 사랑을 잃은 후 더 나은 사랑을 꿈꾸는 이들의 사연들을 담았다. 모두 작가가 직접 보고 들은 주변 사람들의 이야기를 바탕으로 씌어진 글들이다.",
+        "cover_url": "http://image.aladin.co.kr/product/68/85/cover/8990956684_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "김하인",
+            "weight": 6.0
+          },
+          {
+            "word": "사랑",
+            "weight": 6.0
+          },
+          {
+            "word": "박하사탕 그 눈부신",
+            "weight": 3.0
+          },
+          {
+            "word": "아침인사",
+            "weight": 3.0
+          },
+          {
+            "word": "나는 못생겼다",
+            "weight": 3.0
+          },
+          {
+            "word": "조선일보",
+            "weight": 3.0
+          },
+          {
+            "word": "우츄프라카치아",
+            "weight": 3.0
+          },
+          {
+            "word": "눈꽃편지",
+            "weight": 3.0
+          },
+          {
+            "word": "목련꽃 그늘",
+            "weight": 3.0
+          },
+          {
+            "word": "대구매일신문",
+            "weight": 3.0
+          },
+          {
+            "word": "현대시학",
+            "weight": 3.0
+          },
+          {
+            "word": "중국",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑한다면 우리도 이들처럼",
+            "weight": 3.0
+          },
+          {
+            "word": "왕목",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "연어",
+            "weight": 3.0
+          },
+          {
+            "word": "국화꽃 향기",
+            "weight": 3.0
+          },
+          {
+            "word": "소녀처럼",
+            "weight": 3.0
+          },
+          {
+            "word": "경향신문",
+            "weight": 3.0
+          },
+          {
+            "word": "이른아침",
+            "weight": 2.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "외국작가",
+            "weight": 2.0
+          },
+          {
+            "word": "작은 이야기 모음",
+            "weight": 2.0
+          },
+          {
+            "word": "신춘문예",
+            "weight": 1.0
+          },
+          {
+            "word": "시집",
+            "weight": 1.0
+          },
+          {
+            "word": "활발",
+            "weight": 1.0
+          },
+          {
+            "word": "보고",
+            "weight": 1.0
+          },
+          {
+            "word": "북경국제도서전",
+            "weight": 1.0
+          },
+          {
+            "word": "사람",
+            "weight": 1.0
+          },
+          {
+            "word": "상주",
+            "weight": 1.0
+          },
+          {
+            "word": "상대방",
+            "weight": 1.0
+          },
+          {
+            "word": "산문집",
+            "weight": 1.0
+          },
+          {
+            "word": "사연",
+            "weight": 1.0
+          },
+          {
+            "word": "높임말",
+            "weight": 1.0
+          },
+          {
+            "word": "가공",
+            "weight": 1.0
+          },
+          {
+            "word": "개인사",
+            "weight": 1.0
+          },
+          {
+            "word": "경북",
+            "weight": 1.0
+          },
+          {
+            "word": "관해",
+            "weight": 1.0
+          },
+          {
+            "word": "국내작가",
+            "weight": 1.0
+          },
+          {
+            "word": "그대",
+            "weight": 1.0
+          },
+          {
+            "word": "글들",
+            "weight": 1.0
+          },
+          {
+            "word": "기록",
+            "weight": 1.0
+          },
+          {
+            "word": "다독",
+            "weight": 1.0
+          },
+          {
+            "word": "다수",
+            "weight": 1.0
+          },
+          {
+            "word": "당선",
+            "weight": 1.0
+          },
+          {
+            "word": "대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "러브스토리",
+            "weight": 1.0
+          },
+          {
+            "word": "마니아",
+            "weight": 1.0
+          },
+          {
+            "word": "만남",
+            "weight": 1.0
+          },
+          {
+            "word": "말미",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": false,
+        "co_loan_books": []
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "사랑한다면 우리도 이들처럼"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001460528",
+        "title": "사랑한다면 우리도 이들처럼",
+        "subtitle": "",
+        "page": "228 p.",
+        "book_size": "",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788990956682",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8990956684",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8800",
+      "title": "사랑한다면 우리도 이들처럼",
+      "subtitle": "",
+      "author": "김하인 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "이른아침",
+      "publish_year": "2006",
+      "publish_predate": "20060916",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "228 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "의 작가 김하인이 만남과 이별에 관해 쓴 에세이. 연인과의 오해 때문에 다투고, 화해 후 다시금 사랑을 다독이고, 또 사랑을 잃은 후 더 나은 사랑을 꿈꾸는 이들의 사연들을 담았다. 모두 작가가 직접 보고 들은 주변 사람들의 이야기를 바탕으로 씌어진 글들이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/68/85/cover/8990956684_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "김하인",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "박하사탕 그 눈부신",
+          "weight": 3.0
+        },
+        {
+          "word": "아침인사",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 못생겼다",
+          "weight": 3.0
+        },
+        {
+          "word": "조선일보",
+          "weight": 3.0
+        },
+        {
+          "word": "우츄프라카치아",
+          "weight": 3.0
+        },
+        {
+          "word": "눈꽃편지",
+          "weight": 3.0
+        },
+        {
+          "word": "목련꽃 그늘",
+          "weight": 3.0
+        },
+        {
+          "word": "대구매일신문",
+          "weight": 3.0
+        },
+        {
+          "word": "현대시학",
+          "weight": 3.0
+        },
+        {
+          "word": "중국",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑한다면 우리도 이들처럼",
+          "weight": 3.0
+        },
+        {
+          "word": "왕목",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "연어",
+          "weight": 3.0
+        },
+        {
+          "word": "국화꽃 향기",
+          "weight": 3.0
+        },
+        {
+          "word": "소녀처럼",
+          "weight": 3.0
+        },
+        {
+          "word": "경향신문",
+          "weight": 3.0
+        },
+        {
+          "word": "이른아침",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "외국작가",
+          "weight": 2.0
+        },
+        {
+          "word": "작은 이야기 모음",
+          "weight": 2.0
+        },
+        {
+          "word": "신춘문예",
+          "weight": 1.0
+        },
+        {
+          "word": "시집",
+          "weight": 1.0
+        },
+        {
+          "word": "활발",
+          "weight": 1.0
+        },
+        {
+          "word": "보고",
+          "weight": 1.0
+        },
+        {
+          "word": "북경국제도서전",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "상주",
+          "weight": 1.0
+        },
+        {
+          "word": "상대방",
+          "weight": 1.0
+        },
+        {
+          "word": "산문집",
+          "weight": 1.0
+        },
+        {
+          "word": "사연",
+          "weight": 1.0
+        },
+        {
+          "word": "높임말",
+          "weight": 1.0
+        },
+        {
+          "word": "가공",
+          "weight": 1.0
+        },
+        {
+          "word": "개인사",
+          "weight": 1.0
+        },
+        {
+          "word": "경북",
+          "weight": 1.0
+        },
+        {
+          "word": "관해",
+          "weight": 1.0
+        },
+        {
+          "word": "국내작가",
+          "weight": 1.0
+        },
+        {
+          "word": "그대",
+          "weight": 1.0
+        },
+        {
+          "word": "글들",
+          "weight": 1.0
+        },
+        {
+          "word": "기록",
+          "weight": 1.0
+        },
+        {
+          "word": "다독",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "당선",
+          "weight": 1.0
+        },
+        {
+          "word": "대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "러브스토리",
+          "weight": 1.0
+        },
+        {
+          "word": "마니아",
+          "weight": 1.0
+        },
+        {
+          "word": "만남",
+          "weight": 1.0
+        },
+        {
+          "word": "말미",
+          "weight": 1.0
+        }
+      ],
+      "description": "의 작가 김하인이 만남과 이별에 관해 쓴 에세이. 연인과의 오해 때문에 다투고, 화해 후 다시금 사랑을 다독이고, 또 사랑을 잃은 후 더 나은 사랑을 꿈꾸는 이들의 사연들을 담았다. 모두 작가가 직접 보고 들은 주변 사람들의 이야기를 바탕으로 씌어진 글들이다.",
+      "co_loan_books": [],
+      "title": "사랑한다면 우리도 이들처럼",
+      "author": "김하인 지음",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

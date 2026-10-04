@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788954613026",
+  "captured_at": "2026-10-03T00:20:44.284883+09:00",
+  "lookup": {
+    "isbn": "9788954613026",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954613026",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "리딩으로 리드하라 ",
+      "subtitle": "세상을 지배하는 0.1퍼센트의 인문고전 독서법",
+      "author": "이지성 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2010",
+      "publish_predate": "",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "367 p.",
+      "book_size": "160*226mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "『꿈꾸는 다락방』이지성이 ‘인문고전 읽기’를 통해 미래를 바꾸는 힘을 제시하는 책. 고대부터 현대까지 인류 역사를 움직여온 위대한 개인, 조직, 국가 뒤에는 항상 탄탄한 인문고전 독서 전통이 자리하고 있었음을 밝히고 그 중요성을 역설하며, 기존의 방식을 훌쩍 뛰어넘어 새로운 영역을 창조해온 천재들의 독서법을 공개한다.",
+      "control_no": "CIP2010004004",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인문고전",
+          "weight": 46.0
+        },
+        {
+          "word": "독서",
+          "weight": 23.0
+        },
+        {
+          "word": "논어",
+          "weight": 16.0
+        },
+        {
+          "word": "리드",
+          "weight": 15.0
+        },
+        {
+          "word": "꿈꾸는 다락방",
+          "weight": 15.0
+        },
+        {
+          "word": "천재",
+          "weight": 15.0
+        },
+        {
+          "word": "리딩",
+          "weight": 14.0
+        },
+        {
+          "word": "교육",
+          "weight": 10.0
+        },
+        {
+          "word": "리딩으로 리드하라",
+          "weight": 9.0
+        },
+        {
+          "word": "여자라면 힐러리처럼",
+          "weight": 9.0
+        },
+        {
+          "word": "이지성",
+          "weight": 8.0
+        },
+        {
+          "word": "인문학",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "역사",
+          "weight": 7.0
+        },
+        {
+          "word": "대학",
+          "weight": 6.0
+        },
+        {
+          "word": "프로타고라스",
+          "weight": 6.0
+        },
+        {
+          "word": "시작",
+          "weight": 6.0
+        },
+        {
+          "word": "스물일곱 이건희처럼",
+          "weight": 6.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 6.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 6.0
+        },
+        {
+          "word": "학교",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 5.0
+        },
+        {
+          "word": "시스템",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "스파르타",
+          "weight": 5.0
+        },
+        {
+          "word": "고대",
+          "weight": 5.0
+        },
+        {
+          "word": "국가",
+          "weight": 5.0
+        },
+        {
+          "word": "읽기",
+          "weight": 4.0
+        },
+        {
+          "word": "생활",
+          "weight": 4.0
+        },
+        {
+          "word": "성공",
+          "weight": 4.0
+        },
+        {
+          "word": "인류",
+          "weight": 4.0
+        },
+        {
+          "word": "개인",
+          "weight": 4.0
+        },
+        {
+          "word": "단계",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "위대",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        },
+        {
+          "word": "독서법",
+          "weight": 4.0
+        },
+        {
+          "word": "사색",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "나라",
+          "weight": 4.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 4.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 3.0
+        },
+        {
+          "word": "시도",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "시각",
+          "weight": 3.0
+        },
+        {
+          "word": "독서가",
+          "weight": 3.0
+        },
+        {
+          "word": "런던",
+          "weight": 3.0
+        },
+        {
+          "word": "각오",
+          "weight": 3.0
+        }
+      ],
+      "description": "『꿈꾸는 다락방』이지성이 ‘인문고전 읽기’를 통해 미래를 바꾸는 힘을 제시하는 책. 고대부터 현대까지 인류 역사를 움직여온 위대한 개인, 조직, 국가 뒤에는 항상 탄탄한 인문고전 독서 전통이 자리하고 있었음을 밝히고 그 중요성을 역설하며, 기존의 방식을 훌쩍 뛰어넘어 새로운 영역을 창조해온 천재들의 독서법을 공개한다.",
+      "co_loan_books": [
+        {
+          "bookname": "에이트 =인공지능에 대체되지 않는 나를 만드는 법 /Eight ",
+          "isbn13": "9791188388905",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "생각하는 인문학 :5000년 역사를 만든 동서양 천재들의 사색공부법 ",
+          "isbn13": "9788954635738",
+          "authors": "지은이: 이지성"
+        },
+        {
+          "bookname": "독서 천재가 된 홍대리 :운명을 바꾸는 책 읽기 프로젝트 ",
+          "isbn13": "9788963706320",
+          "authors": "이지성,정회일 지음"
+        },
+        {
+          "bookname": "미래의 부 :인공지능 시대, 돈은 어떤 모습으로 다가오는가 ",
+          "isbn13": "9791191360196",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "에이트 씽크 =인공지능의 딥러닝을 이기는 동서양 천재들의 생각법 /Eight think ",
+          "isbn13": "9791197126741",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        }
+      ],
+      "title": "리딩으로 리드하라 ",
+      "author": "이지성 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "028",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "리딩으로 리드하라 ",
+        "author": "이지성 지음",
+        "publisher": "문학동네",
+        "publish_predate": "",
+        "isbn": "9788954613026",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "029.4",
+        "ddc": "028",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2010004004",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "리딩으로 리드하라 =세상을 지배하는 0.1퍼센트의 인문고전 독서법 /Reading lead ",
+        "author": "이지성 지음",
+        "publisher": "문학동네",
+        "publish_year": "2010",
+        "isbn": "8954613020",
+        "isbn13": "9788954613026",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "029.4",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "『꿈꾸는 다락방』이지성이 ‘인문고전 읽기’를 통해 미래를 바꾸는 힘을 제시하는 책. 고대부터 현대까지 인류 역사를 움직여온 위대한 개인, 조직, 국가 뒤에는 항상 탄탄한 인문고전 독서 전통이 자리하고 있었음을 밝히고 그 중요성을 역설하며, 기존의 방식을 훌쩍 뛰어넘어 새로운 영역을 창조해온 천재들의 독서법을 공개한다.",
+        "cover_url": "http://image.aladin.co.kr/product/804/88/cover/8954613020_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "인문고전",
+            "weight": 46.0
+          },
+          {
+            "word": "독서",
+            "weight": 23.0
+          },
+          {
+            "word": "논어",
+            "weight": 16.0
+          },
+          {
+            "word": "리드",
+            "weight": 15.0
+          },
+          {
+            "word": "꿈꾸는 다락방",
+            "weight": 15.0
+          },
+          {
+            "word": "천재",
+            "weight": 15.0
+          },
+          {
+            "word": "리딩",
+            "weight": 14.0
+          },
+          {
+            "word": "교육",
+            "weight": 10.0
+          },
+          {
+            "word": "리딩으로 리드하라",
+            "weight": 9.0
+          },
+          {
+            "word": "여자라면 힐러리처럼",
+            "weight": 9.0
+          },
+          {
+            "word": "이지성",
+            "weight": 8.0
+          },
+          {
+            "word": "인문학",
+            "weight": 8.0
+          },
+          {
+            "word": "세계",
+            "weight": 8.0
+          },
+          {
+            "word": "자신",
+            "weight": 8.0
+          },
+          {
+            "word": "역사",
+            "weight": 7.0
+          },
+          {
+            "word": "대학",
+            "weight": 6.0
+          },
+          {
+            "word": "프로타고라스",
+            "weight": 6.0
+          },
+          {
+            "word": "시작",
+            "weight": 6.0
+          },
+          {
+            "word": "스물일곱 이건희처럼",
+            "weight": 6.0
+          },
+          {
+            "word": "두뇌",
+            "weight": 6.0
+          },
+          {
+            "word": "독서교육",
+            "weight": 6.0
+          },
+          {
+            "word": "학교",
+            "weight": 6.0
+          },
+          {
+            "word": "영국",
+            "weight": 5.0
+          },
+          {
+            "word": "시스템",
+            "weight": 5.0
+          },
+          {
+            "word": "처음",
+            "weight": 5.0
+          },
+          {
+            "word": "스파르타",
+            "weight": 5.0
+          },
+          {
+            "word": "고대",
+            "weight": 5.0
+          },
+          {
+            "word": "국가",
+            "weight": 5.0
+          },
+          {
+            "word": "읽기",
+            "weight": 4.0
+          },
+          {
+            "word": "생활",
+            "weight": 4.0
+          },
+          {
+            "word": "성공",
+            "weight": 4.0
+          },
+          {
+            "word": "인류",
+            "weight": 4.0
+          },
+          {
+            "word": "개인",
+            "weight": 4.0
+          },
+          {
+            "word": "단계",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "위대",
+            "weight": 4.0
+          },
+          {
+            "word": "사실",
+            "weight": 4.0
+          },
+          {
+            "word": "최고",
+            "weight": 4.0
+          },
+          {
+            "word": "독서법",
+            "weight": 4.0
+          },
+          {
+            "word": "사색",
+            "weight": 4.0
+          },
+          {
+            "word": "철학",
+            "weight": 4.0
+          },
+          {
+            "word": "나라",
+            "weight": 4.0
+          },
+          {
+            "word": "자본주의",
+            "weight": 4.0
+          },
+          {
+            "word": "대한민국",
+            "weight": 3.0
+          },
+          {
+            "word": "시도",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 3.0
+          },
+          {
+            "word": "시각",
+            "weight": 3.0
+          },
+          {
+            "word": "독서가",
+            "weight": 3.0
+          },
+          {
+            "word": "런던",
+            "weight": 3.0
+          },
+          {
+            "word": "각오",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "에이트 =인공지능에 대체되지 않는 나를 만드는 법 /Eight ",
+            "isbn13": "9791188388905",
+            "authors": "이지성 지음"
+          },
+          {
+            "bookname": "생각하는 인문학 :5000년 역사를 만든 동서양 천재들의 사색공부법 ",
+            "isbn13": "9788954635738",
+            "authors": "지은이: 이지성"
+          },
+          {
+            "bookname": "독서 천재가 된 홍대리 :운명을 바꾸는 책 읽기 프로젝트 ",
+            "isbn13": "9788963706320",
+            "authors": "이지성,정회일 지음"
+          },
+          {
+            "bookname": "미래의 부 :인공지능 시대, 돈은 어떤 모습으로 다가오는가 ",
+            "isbn13": "9791191360196",
+            "authors": "이지성 지음"
+          },
+          {
+            "bookname": "에이트 씽크 =인공지능의 딥러닝을 이기는 동서양 천재들의 생각법 /Eight think ",
+            "isbn13": "9791197126741",
+            "authors": "이지성 지음"
+          },
+          {
+            "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+            "isbn13": "9791192389325",
+            "authors": "벤저민 하디 지음 ;최은아 옮김"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "리딩으로 리드하라"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000777882",
+        "title": "리딩으로 리드하라",
+        "subtitle": "세상을 지배하는 0.1퍼센트의 인문고전 독서법",
+        "page": "367 p.",
+        "book_size": "160*226mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788954613026",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954613026",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "리딩으로 리드하라 ",
+      "subtitle": "세상을 지배하는 0.1퍼센트의 인문고전 독서법",
+      "author": "이지성 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2010",
+      "publish_predate": "",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "367 p.",
+      "book_size": "160*226mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "『꿈꾸는 다락방』이지성이 ‘인문고전 읽기’를 통해 미래를 바꾸는 힘을 제시하는 책. 고대부터 현대까지 인류 역사를 움직여온 위대한 개인, 조직, 국가 뒤에는 항상 탄탄한 인문고전 독서 전통이 자리하고 있었음을 밝히고 그 중요성을 역설하며, 기존의 방식을 훌쩍 뛰어넘어 새로운 영역을 창조해온 천재들의 독서법을 공개한다.",
+      "control_no": "CIP2010004004",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2438944_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인문고전",
+          "weight": 46.0
+        },
+        {
+          "word": "독서",
+          "weight": 23.0
+        },
+        {
+          "word": "논어",
+          "weight": 16.0
+        },
+        {
+          "word": "리드",
+          "weight": 15.0
+        },
+        {
+          "word": "꿈꾸는 다락방",
+          "weight": 15.0
+        },
+        {
+          "word": "천재",
+          "weight": 15.0
+        },
+        {
+          "word": "리딩",
+          "weight": 14.0
+        },
+        {
+          "word": "교육",
+          "weight": 10.0
+        },
+        {
+          "word": "리딩으로 리드하라",
+          "weight": 9.0
+        },
+        {
+          "word": "여자라면 힐러리처럼",
+          "weight": 9.0
+        },
+        {
+          "word": "이지성",
+          "weight": 8.0
+        },
+        {
+          "word": "인문학",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "역사",
+          "weight": 7.0
+        },
+        {
+          "word": "대학",
+          "weight": 6.0
+        },
+        {
+          "word": "프로타고라스",
+          "weight": 6.0
+        },
+        {
+          "word": "시작",
+          "weight": 6.0
+        },
+        {
+          "word": "스물일곱 이건희처럼",
+          "weight": 6.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 6.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 6.0
+        },
+        {
+          "word": "학교",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 5.0
+        },
+        {
+          "word": "시스템",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "스파르타",
+          "weight": 5.0
+        },
+        {
+          "word": "고대",
+          "weight": 5.0
+        },
+        {
+          "word": "국가",
+          "weight": 5.0
+        },
+        {
+          "word": "읽기",
+          "weight": 4.0
+        },
+        {
+          "word": "생활",
+          "weight": 4.0
+        },
+        {
+          "word": "성공",
+          "weight": 4.0
+        },
+        {
+          "word": "인류",
+          "weight": 4.0
+        },
+        {
+          "word": "개인",
+          "weight": 4.0
+        },
+        {
+          "word": "단계",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "위대",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        },
+        {
+          "word": "독서법",
+          "weight": 4.0
+        },
+        {
+          "word": "사색",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "나라",
+          "weight": 4.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 4.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 3.0
+        },
+        {
+          "word": "시도",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "시각",
+          "weight": 3.0
+        },
+        {
+          "word": "독서가",
+          "weight": 3.0
+        },
+        {
+          "word": "런던",
+          "weight": 3.0
+        },
+        {
+          "word": "각오",
+          "weight": 3.0
+        }
+      ],
+      "description": "『꿈꾸는 다락방』이지성이 ‘인문고전 읽기’를 통해 미래를 바꾸는 힘을 제시하는 책. 고대부터 현대까지 인류 역사를 움직여온 위대한 개인, 조직, 국가 뒤에는 항상 탄탄한 인문고전 독서 전통이 자리하고 있었음을 밝히고 그 중요성을 역설하며, 기존의 방식을 훌쩍 뛰어넘어 새로운 영역을 창조해온 천재들의 독서법을 공개한다.",
+      "co_loan_books": [
+        {
+          "bookname": "에이트 =인공지능에 대체되지 않는 나를 만드는 법 /Eight ",
+          "isbn13": "9791188388905",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "생각하는 인문학 :5000년 역사를 만든 동서양 천재들의 사색공부법 ",
+          "isbn13": "9788954635738",
+          "authors": "지은이: 이지성"
+        },
+        {
+          "bookname": "독서 천재가 된 홍대리 :운명을 바꾸는 책 읽기 프로젝트 ",
+          "isbn13": "9788963706320",
+          "authors": "이지성,정회일 지음"
+        },
+        {
+          "bookname": "미래의 부 :인공지능 시대, 돈은 어떤 모습으로 다가오는가 ",
+          "isbn13": "9791191360196",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "에이트 씽크 =인공지능의 딥러닝을 이기는 동서양 천재들의 생각법 /Eight think ",
+          "isbn13": "9791197126741",
+          "authors": "이지성 지음"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        }
+      ],
+      "title": "리딩으로 리드하라 ",
+      "author": "이지성 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "028",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

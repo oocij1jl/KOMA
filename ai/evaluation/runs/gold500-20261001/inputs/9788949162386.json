@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788949162386",
+  "captured_at": "2026-10-05T00:10:35.523929+09:00",
+  "lookup": {
+    "isbn": "9788949162386",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788949162386",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788949159867",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "오리 부리 이야기 ",
+      "subtitle": "제11회 비룡소 문학상 수상작",
+      "author": "황선애 글 ;간장 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "비룡소",
+      "publish_year": "2022",
+      "publish_predate": "20220325",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "난책읽기가좋아",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "148*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "제11회 비룡소 문학상을 수상한 황선애의 『오리 부리 이야기』가 출간되었다. 이 책은 잘못된 말을 옮길 때의 문제점을 담은 우화로, 뛰어난 문장력과  능청스럽게 이야기를 끌고 가는 작가의 입담과 재치가 심사위원들의 마음을 사로잡은 작품이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29170/7/cover/8949162385_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "오리 부리 이야기",
+          "weight": 15.0
+        },
+        {
+          "word": "비룡소",
+          "weight": 10.0
+        },
+        {
+          "word": "문학상",
+          "weight": 8.0
+        },
+        {
+          "word": "깊은 밤 필통 안에서",
+          "weight": 6.0
+        },
+        {
+          "word": "꽝 없는 뽑기 기계",
+          "weight": 6.0
+        },
+        {
+          "word": "한밤중 달빛 식당",
+          "weight": 6.0
+        },
+        {
+          "word": "수상작",
+          "weight": 4.0
+        },
+        {
+          "word": "황선애",
+          "weight": 4.0
+        },
+        {
+          "word": "제11회",
+          "weight": 4.0
+        },
+        {
+          "word": "저학년",
+          "weight": 4.0
+        },
+        {
+          "word": "내 친구의 집은 어디일까공저",
+          "weight": 3.0
+        },
+        {
+          "word": "입담",
+          "weight": 3.0
+        },
+        {
+          "word": "우화",
+          "weight": 3.0
+        },
+        {
+          "word": "재치",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 콩콩월드 대모험",
+          "weight": 3.0
+        },
+        {
+          "word": "빨개봇이 사라졌다",
+          "weight": 3.0
+        },
+        {
+          "word": "오리",
+          "weight": 3.0
+        },
+        {
+          "word": "자꾸자꾸 책방공저",
+          "weight": 3.0
+        },
+        {
+          "word": "문제점",
+          "weight": 3.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심사위원",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "본격적",
+          "weight": 2.0
+        },
+        {
+          "word": "부리",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "사냥꾼",
+          "weight": 2.0
+        },
+        {
+          "word": "소문",
+          "weight": 2.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "진실",
+          "weight": 2.0
+        },
+        {
+          "word": "요리사",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "문장력",
+          "weight": 2.0
+        },
+        {
+          "word": "무당벌레",
+          "weight": 2.0
+        },
+        {
+          "word": "간장",
+          "weight": 2.0
+        },
+        {
+          "word": "겁쟁이",
+          "weight": 2.0
+        },
+        {
+          "word": "공저",
+          "weight": 2.0
+        },
+        {
+          "word": "국내",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "혼자",
+          "weight": 2.0
+        },
+        {
+          "word": "신선",
+          "weight": 2.0
+        },
+        {
+          "word": "뉴스",
+          "weight": 2.0
+        },
+        {
+          "word": "능청",
+          "weight": 2.0
+        },
+        {
+          "word": "말이",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "활기",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "김지은",
+          "weight": 1.0
+        },
+        {
+          "word": "말들",
+          "weight": 1.0
+        },
+        {
+          "word": "모험",
+          "weight": 1.0
+        }
+      ],
+      "description": "제11회 비룡소 문학상을 수상한 황선애의 『오리 부리 이야기』가 출간되었다. 이 책은 잘못된 말을 옮길 때의 문제점을 담은 우화로, 뛰어난 문장력과  능청스럽게 이야기를 끌고 가는 작가의 입담과 재치가 심사위원들의 마음을 사로잡은 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "깊은 밤 필통 안에서 ",
+          "isbn13": "9788949162072",
+          "authors": "길상효 글 ;심보영 그림"
+        },
+        {
+          "bookname": "갑자기 악어 아빠 ",
+          "isbn13": "9788949162096",
+          "authors": "소연 글 ;이주희 그림"
+        },
+        {
+          "bookname": "꽝 없는 뽑기 기계 ",
+          "isbn13": "9788949162027",
+          "authors": "곽유진 글 ;차상미 그림"
+        },
+        {
+          "bookname": "오늘도 용맹이",
+          "isbn13": "9788949162409",
+          "authors": "이현 글 ;국민지 그림"
+        },
+        {
+          "bookname": "대박 쉽게 숙제하는 법 ",
+          "isbn13": "9788949162379",
+          "authors": "천효정 글 ;김무연 그림"
+        },
+        {
+          "bookname": "둥실이네 떡집 ",
+          "isbn13": "9788949162188",
+          "authors": "김리리 글 ;김이랑 그림"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "양순이네 떡집",
+          "isbn13": "9788949162102",
+          "authors": "김리리 (지은이), 김이랑 (그림)"
+        },
+        {
+          "bookname": "랑랑 형제 떡집 ",
+          "isbn13": "9788949162485",
+          "authors": "김리리 글 ;김이랑 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "오리 부리 이야기 ",
+      "author": "황선애 글 ;간장 그림",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "오리 부리 이야기 ",
+        "author": "황선애 글 ;간장 그림",
+        "publisher": "비룡소",
+        "publish_predate": "20220325",
+        "isbn": "9788949162386",
+        "isbn_add_code": "74800",
+        "set_isbn": "9788949159867",
+        "set_add_code": "74800 ",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "난책읽기가좋아",
+        "series_no": "",
+        "volume": "",
+        "page": "91 p.",
+        "book_size": "148*215",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "오리 부리 이야기 ",
+        "author": "황선애 글 ;간장 그림",
+        "publisher": "비룡소",
+        "publish_year": "2022",
+        "isbn": "8949162385",
+        "isbn13": "9788949162386",
+        "isbn_add_code": "74800",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "제11회 비룡소 문학상을 수상한 황선애의 『오리 부리 이야기』가 출간되었다. 이 책은 잘못된 말을 옮길 때의 문제점을 담은 우화로, 뛰어난 문장력과  능청스럽게 이야기를 끌고 가는 작가의 입담과 재치가 심사위원들의 마음을 사로잡은 작품이다.",
+        "cover_url": "https://image.aladin.co.kr/product/29170/7/cover/8949162385_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "오리 부리 이야기",
+            "weight": 15.0
+          },
+          {
+            "word": "비룡소",
+            "weight": 10.0
+          },
+          {
+            "word": "문학상",
+            "weight": 8.0
+          },
+          {
+            "word": "깊은 밤 필통 안에서",
+            "weight": 6.0
+          },
+          {
+            "word": "꽝 없는 뽑기 기계",
+            "weight": 6.0
+          },
+          {
+            "word": "한밤중 달빛 식당",
+            "weight": 6.0
+          },
+          {
+            "word": "수상작",
+            "weight": 4.0
+          },
+          {
+            "word": "황선애",
+            "weight": 4.0
+          },
+          {
+            "word": "제11회",
+            "weight": 4.0
+          },
+          {
+            "word": "저학년",
+            "weight": 4.0
+          },
+          {
+            "word": "내 친구의 집은 어디일까공저",
+            "weight": 3.0
+          },
+          {
+            "word": "입담",
+            "weight": 3.0
+          },
+          {
+            "word": "우화",
+            "weight": 3.0
+          },
+          {
+            "word": "재치",
+            "weight": 3.0
+          },
+          {
+            "word": "수상한 콩콩월드 대모험",
+            "weight": 3.0
+          },
+          {
+            "word": "빨개봇이 사라졌다",
+            "weight": 3.0
+          },
+          {
+            "word": "오리",
+            "weight": 3.0
+          },
+          {
+            "word": "자꾸자꾸 책방공저",
+            "weight": 3.0
+          },
+          {
+            "word": "문제점",
+            "weight": 3.0
+          },
+          {
+            "word": "문학",
+            "weight": 2.0
+          },
+          {
+            "word": "심사위원",
+            "weight": 2.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 2.0
+          },
+          {
+            "word": "본격적",
+            "weight": 2.0
+          },
+          {
+            "word": "부리",
+            "weight": 2.0
+          },
+          {
+            "word": "수상",
+            "weight": 2.0
+          },
+          {
+            "word": "사냥꾼",
+            "weight": 2.0
+          },
+          {
+            "word": "소문",
+            "weight": 2.0
+          },
+          {
+            "word": "선정",
+            "weight": 2.0
+          },
+          {
+            "word": "진실",
+            "weight": 2.0
+          },
+          {
+            "word": "요리사",
+            "weight": 2.0
+          },
+          {
+            "word": "읽기",
+            "weight": 2.0
+          },
+          {
+            "word": "문장력",
+            "weight": 2.0
+          },
+          {
+            "word": "무당벌레",
+            "weight": 2.0
+          },
+          {
+            "word": "간장",
+            "weight": 2.0
+          },
+          {
+            "word": "겁쟁이",
+            "weight": 2.0
+          },
+          {
+            "word": "공저",
+            "weight": 2.0
+          },
+          {
+            "word": "국내",
+            "weight": 2.0
+          },
+          {
+            "word": "국내창작동화",
+            "weight": 2.0
+          },
+          {
+            "word": "혼자",
+            "weight": 2.0
+          },
+          {
+            "word": "신선",
+            "weight": 2.0
+          },
+          {
+            "word": "뉴스",
+            "weight": 2.0
+          },
+          {
+            "word": "능청",
+            "weight": 2.0
+          },
+          {
+            "word": "말이",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "마음",
+            "weight": 2.0
+          },
+          {
+            "word": "활기",
+            "weight": 2.0
+          },
+          {
+            "word": "단숨",
+            "weight": 2.0
+          },
+          {
+            "word": "김지은",
+            "weight": 1.0
+          },
+          {
+            "word": "말들",
+            "weight": 1.0
+          },
+          {
+            "word": "모험",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "깊은 밤 필통 안에서 ",
+            "isbn13": "9788949162072",
+            "authors": "길상효 글 ;심보영 그림"
+          },
+          {
+            "bookname": "갑자기 악어 아빠 ",
+            "isbn13": "9788949162096",
+            "authors": "소연 글 ;이주희 그림"
+          },
+          {
+            "bookname": "꽝 없는 뽑기 기계 ",
+            "isbn13": "9788949162027",
+            "authors": "곽유진 글 ;차상미 그림"
+          },
+          {
+            "bookname": "오늘도 용맹이",
+            "isbn13": "9788949162409",
+            "authors": "이현 글 ;국민지 그림"
+          },
+          {
+            "bookname": "대박 쉽게 숙제하는 법 ",
+            "isbn13": "9788949162379",
+            "authors": "천효정 글 ;김무연 그림"
+          },
+          {
+            "bookname": "둥실이네 떡집 ",
+            "isbn13": "9788949162188",
+            "authors": "김리리 글 ;김이랑 그림"
+          },
+          {
+            "bookname": "(한밤중) 달빛 식당 ",
+            "isbn13": "9788949161969",
+            "authors": "이분희 글 ;윤태규 그림"
+          },
+          {
+            "bookname": "양순이네 떡집",
+            "isbn13": "9788949162102",
+            "authors": "김리리 (지은이), 김이랑 (그림)"
+          },
+          {
+            "bookname": "랑랑 형제 떡집 ",
+            "isbn13": "9788949162485",
+            "authors": "김리리 글 ;김이랑 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "오리 부리 이야기"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000700459",
+        "title": "오리 부리 이야기",
+        "subtitle": "제11회 비룡소 문학상 수상작",
+        "page": "96 p.",
+        "book_size": "157*227mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788949162386",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788949162386",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788949159867",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "오리 부리 이야기 ",
+      "subtitle": "제11회 비룡소 문학상 수상작",
+      "author": "황선애 글 ;간장 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "비룡소",
+      "publish_year": "2022",
+      "publish_predate": "20220325",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "난책읽기가좋아",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "148*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "제11회 비룡소 문학상을 수상한 황선애의 『오리 부리 이야기』가 출간되었다. 이 책은 잘못된 말을 옮길 때의 문제점을 담은 우화로, 뛰어난 문장력과  능청스럽게 이야기를 끌고 가는 작가의 입담과 재치가 심사위원들의 마음을 사로잡은 작품이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29170/7/cover/8949162385_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "오리 부리 이야기",
+          "weight": 15.0
+        },
+        {
+          "word": "비룡소",
+          "weight": 10.0
+        },
+        {
+          "word": "문학상",
+          "weight": 8.0
+        },
+        {
+          "word": "깊은 밤 필통 안에서",
+          "weight": 6.0
+        },
+        {
+          "word": "꽝 없는 뽑기 기계",
+          "weight": 6.0
+        },
+        {
+          "word": "한밤중 달빛 식당",
+          "weight": 6.0
+        },
+        {
+          "word": "수상작",
+          "weight": 4.0
+        },
+        {
+          "word": "황선애",
+          "weight": 4.0
+        },
+        {
+          "word": "제11회",
+          "weight": 4.0
+        },
+        {
+          "word": "저학년",
+          "weight": 4.0
+        },
+        {
+          "word": "내 친구의 집은 어디일까공저",
+          "weight": 3.0
+        },
+        {
+          "word": "입담",
+          "weight": 3.0
+        },
+        {
+          "word": "우화",
+          "weight": 3.0
+        },
+        {
+          "word": "재치",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 콩콩월드 대모험",
+          "weight": 3.0
+        },
+        {
+          "word": "빨개봇이 사라졌다",
+          "weight": 3.0
+        },
+        {
+          "word": "오리",
+          "weight": 3.0
+        },
+        {
+          "word": "자꾸자꾸 책방공저",
+          "weight": 3.0
+        },
+        {
+          "word": "문제점",
+          "weight": 3.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심사위원",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "본격적",
+          "weight": 2.0
+        },
+        {
+          "word": "부리",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "사냥꾼",
+          "weight": 2.0
+        },
+        {
+          "word": "소문",
+          "weight": 2.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "진실",
+          "weight": 2.0
+        },
+        {
+          "word": "요리사",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "문장력",
+          "weight": 2.0
+        },
+        {
+          "word": "무당벌레",
+          "weight": 2.0
+        },
+        {
+          "word": "간장",
+          "weight": 2.0
+        },
+        {
+          "word": "겁쟁이",
+          "weight": 2.0
+        },
+        {
+          "word": "공저",
+          "weight": 2.0
+        },
+        {
+          "word": "국내",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "혼자",
+          "weight": 2.0
+        },
+        {
+          "word": "신선",
+          "weight": 2.0
+        },
+        {
+          "word": "뉴스",
+          "weight": 2.0
+        },
+        {
+          "word": "능청",
+          "weight": 2.0
+        },
+        {
+          "word": "말이",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "활기",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "김지은",
+          "weight": 1.0
+        },
+        {
+          "word": "말들",
+          "weight": 1.0
+        },
+        {
+          "word": "모험",
+          "weight": 1.0
+        }
+      ],
+      "description": "제11회 비룡소 문학상을 수상한 황선애의 『오리 부리 이야기』가 출간되었다. 이 책은 잘못된 말을 옮길 때의 문제점을 담은 우화로, 뛰어난 문장력과  능청스럽게 이야기를 끌고 가는 작가의 입담과 재치가 심사위원들의 마음을 사로잡은 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "깊은 밤 필통 안에서 ",
+          "isbn13": "9788949162072",
+          "authors": "길상효 글 ;심보영 그림"
+        },
+        {
+          "bookname": "갑자기 악어 아빠 ",
+          "isbn13": "9788949162096",
+          "authors": "소연 글 ;이주희 그림"
+        },
+        {
+          "bookname": "꽝 없는 뽑기 기계 ",
+          "isbn13": "9788949162027",
+          "authors": "곽유진 글 ;차상미 그림"
+        },
+        {
+          "bookname": "오늘도 용맹이",
+          "isbn13": "9788949162409",
+          "authors": "이현 글 ;국민지 그림"
+        },
+        {
+          "bookname": "대박 쉽게 숙제하는 법 ",
+          "isbn13": "9788949162379",
+          "authors": "천효정 글 ;김무연 그림"
+        },
+        {
+          "bookname": "둥실이네 떡집 ",
+          "isbn13": "9788949162188",
+          "authors": "김리리 글 ;김이랑 그림"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "양순이네 떡집",
+          "isbn13": "9788949162102",
+          "authors": "김리리 (지은이), 김이랑 (그림)"
+        },
+        {
+          "bookname": "랑랑 형제 떡집 ",
+          "isbn13": "9788949162485",
+          "authors": "김리리 글 ;김이랑 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "오리 부리 이야기 ",
+      "author": "황선애 글 ;간장 그림",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

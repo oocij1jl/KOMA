@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791186757093",
+  "captured_at": "2026-10-02T00:21:21.554666+09:00",
+  "lookup": {
+    "isbn": "9791186757093",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186757093",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "자존감 수업",
+      "subtitle": "하루에 하나 나를 사랑하게 되는 자존감 회복 훈련",
+      "author": "윤홍균",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "심플라이프",
+      "publish_year": "2016",
+      "publish_predate": "20160901",
+      "kdc": "182.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 차이심리학",
+      "ddc": "155.2",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "304 p.",
+      "book_size": "144*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "정신과 의사 '윤답장' 선생의 자존감 셀프 코칭법. 자존감 전문가이자 정신과 의사인 윤홍균 원장이 2년 넘게 심혈을 기울여 쓴 책으로, 자존감이 우리 삶에 미치는 영향을 친절하게 알려주고, 자존감을 끌어올리는 실질적인 방법을 알려주고 있다.",
+      "control_no": "CIP2016014497",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자존감",
+          "weight": 110.0
+        },
+        {
+          "word": "사람",
+          "weight": 68.0
+        },
+        {
+          "word": "사랑",
+          "weight": 32.0
+        },
+        {
+          "word": "감정",
+          "weight": 28.0
+        },
+        {
+          "word": "자신",
+          "weight": 20.0
+        },
+        {
+          "word": "자전거",
+          "weight": 14.0
+        },
+        {
+          "word": "회복",
+          "weight": 13.0
+        },
+        {
+          "word": "의사",
+          "weight": 13.0
+        },
+        {
+          "word": "정신과",
+          "weight": 13.0
+        },
+        {
+          "word": "방법",
+          "weight": 10.0
+        },
+        {
+          "word": "상처",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 10.0
+        },
+        {
+          "word": "에너지",
+          "weight": 9.0
+        },
+        {
+          "word": "윤답장",
+          "weight": 8.0
+        },
+        {
+          "word": "생각",
+          "weight": 8.0
+        },
+        {
+          "word": "영향",
+          "weight": 7.0
+        },
+        {
+          "word": "과정",
+          "weight": 7.0
+        },
+        {
+          "word": "행동",
+          "weight": 7.0
+        },
+        {
+          "word": "이별",
+          "weight": 7.0
+        },
+        {
+          "word": "건강",
+          "weight": 7.0
+        },
+        {
+          "word": "윤홍균",
+          "weight": 6.0
+        },
+        {
+          "word": "선생",
+          "weight": 6.0
+        },
+        {
+          "word": "타인",
+          "weight": 6.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 5.0
+        },
+        {
+          "word": "극복",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "무기력",
+          "weight": 5.0
+        },
+        {
+          "word": "환경",
+          "weight": 5.0
+        },
+        {
+          "word": "이들",
+          "weight": 5.0
+        },
+        {
+          "word": "시선",
+          "weight": 5.0
+        },
+        {
+          "word": "불안",
+          "weight": 5.0
+        },
+        {
+          "word": "습관",
+          "weight": 4.0
+        },
+        {
+          "word": "원장",
+          "weight": 4.0
+        },
+        {
+          "word": "뭔가",
+          "weight": 4.0
+        },
+        {
+          "word": "실질적",
+          "weight": 4.0
+        },
+        {
+          "word": "선물",
+          "weight": 4.0
+        },
+        {
+          "word": "운명",
+          "weight": 4.0
+        },
+        {
+          "word": "불화",
+          "weight": 4.0
+        },
+        {
+          "word": "죄책감",
+          "weight": 4.0
+        },
+        {
+          "word": "만족도",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "안전",
+          "weight": 4.0
+        },
+        {
+          "word": "후회",
+          "weight": 4.0
+        },
+        {
+          "word": "친절",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "배려",
+          "weight": 4.0
+        },
+        {
+          "word": "유난",
+          "weight": 4.0
+        },
+        {
+          "word": "자기애",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        }
+      ],
+      "description": "정신과 의사 '윤답장' 선생의 자존감 셀프 코칭법. 자존감 전문가이자 정신과 의사인 윤홍균 원장이 2년 넘게 심혈을 기울여 쓴 책으로, 자존감이 우리 삶에 미치는 영향을 친절하게 알려주고, 자존감을 끌어올리는 실질적인 방법을 알려주고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "사랑 수업 :어떻게 사랑하고 사랑받을 것인가 ",
+          "isbn13": "9791186757666",
+          "authors": "윤홍균 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "나는 나로 살기로 했다 :냉담한 현실에서 어른살이를 위한 to do list ",
+          "isbn13": "9791187119845",
+          "authors": "글·그림: 김수현"
+        }
+      ],
+      "title": "자존감 수업",
+      "author": "윤홍균",
+      "kdc_from_api": "182.1",
+      "ddc_from_api": "155.2",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "자존감 수업",
+        "author": "윤홍균",
+        "publisher": "심플라이프",
+        "publish_predate": "20160901",
+        "isbn": "9791186757093",
+        "isbn_add_code": "03190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "약 310 페이지 내외",
+        "book_size": "",
+        "form": "",
+        "kdc": "182.1",
+        "ddc": "155.2",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016014497",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "자존감 수업 :하루에 하나, 나를 사랑하게 되는 자존감 회복 훈련 ",
+        "author": "윤홍균 지음",
+        "publisher": "심플라이프",
+        "publish_year": "2016",
+        "isbn": "1186757094",
+        "isbn13": "9791186757093",
+        "isbn_add_code": "03190",
+        "volume": "",
+        "class_no": "182.1",
+        "class_nm": "철학 > 심리학 > 차이심리학",
+        "description": "정신과 의사 '윤답장' 선생의 자존감 셀프 코칭법. 자존감 전문가이자 정신과 의사인 윤홍균 원장이 2년 넘게 심혈을 기울여 쓴 책으로, 자존감이 우리 삶에 미치는 영향을 친절하게 알려주고, 자존감을 끌어올리는 실질적인 방법을 알려주고 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/8679/31/cover/k372535696_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "자존감",
+            "weight": 110.0
+          },
+          {
+            "word": "사람",
+            "weight": 68.0
+          },
+          {
+            "word": "사랑",
+            "weight": 32.0
+          },
+          {
+            "word": "감정",
+            "weight": 28.0
+          },
+          {
+            "word": "자신",
+            "weight": 20.0
+          },
+          {
+            "word": "자전거",
+            "weight": 14.0
+          },
+          {
+            "word": "회복",
+            "weight": 13.0
+          },
+          {
+            "word": "의사",
+            "weight": 13.0
+          },
+          {
+            "word": "정신과",
+            "weight": 13.0
+          },
+          {
+            "word": "방법",
+            "weight": 10.0
+          },
+          {
+            "word": "상처",
+            "weight": 10.0
+          },
+          {
+            "word": "마음",
+            "weight": 10.0
+          },
+          {
+            "word": "에너지",
+            "weight": 9.0
+          },
+          {
+            "word": "윤답장",
+            "weight": 8.0
+          },
+          {
+            "word": "생각",
+            "weight": 8.0
+          },
+          {
+            "word": "영향",
+            "weight": 7.0
+          },
+          {
+            "word": "과정",
+            "weight": 7.0
+          },
+          {
+            "word": "행동",
+            "weight": 7.0
+          },
+          {
+            "word": "이별",
+            "weight": 7.0
+          },
+          {
+            "word": "건강",
+            "weight": 7.0
+          },
+          {
+            "word": "윤홍균",
+            "weight": 6.0
+          },
+          {
+            "word": "선생",
+            "weight": 6.0
+          },
+          {
+            "word": "타인",
+            "weight": 6.0
+          },
+          {
+            "word": "칭찬",
+            "weight": 5.0
+          },
+          {
+            "word": "극복",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "무기력",
+            "weight": 5.0
+          },
+          {
+            "word": "환경",
+            "weight": 5.0
+          },
+          {
+            "word": "이들",
+            "weight": 5.0
+          },
+          {
+            "word": "시선",
+            "weight": 5.0
+          },
+          {
+            "word": "불안",
+            "weight": 5.0
+          },
+          {
+            "word": "습관",
+            "weight": 4.0
+          },
+          {
+            "word": "원장",
+            "weight": 4.0
+          },
+          {
+            "word": "뭔가",
+            "weight": 4.0
+          },
+          {
+            "word": "실질적",
+            "weight": 4.0
+          },
+          {
+            "word": "선물",
+            "weight": 4.0
+          },
+          {
+            "word": "운명",
+            "weight": 4.0
+          },
+          {
+            "word": "불화",
+            "weight": 4.0
+          },
+          {
+            "word": "죄책감",
+            "weight": 4.0
+          },
+          {
+            "word": "만족도",
+            "weight": 4.0
+          },
+          {
+            "word": "고민",
+            "weight": 4.0
+          },
+          {
+            "word": "이해",
+            "weight": 4.0
+          },
+          {
+            "word": "안전",
+            "weight": 4.0
+          },
+          {
+            "word": "후회",
+            "weight": 4.0
+          },
+          {
+            "word": "친절",
+            "weight": 4.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "배려",
+            "weight": 4.0
+          },
+          {
+            "word": "유난",
+            "weight": 4.0
+          },
+          {
+            "word": "자기애",
+            "weight": 4.0
+          },
+          {
+            "word": "전문가",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+            "isbn13": "9788996991342",
+            "authors": "기시미 이치로,전경아 옮김"
+          },
+          {
+            "bookname": "사랑 수업 :어떻게 사랑하고 사랑받을 것인가 ",
+            "isbn13": "9791186757666",
+            "authors": "윤홍균 지음"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "나는 나로 살기로 했다 :냉담한 현실에서 어른살이를 위한 to do list ",
+            "isbn13": "9791187119845",
+            "authors": "글·그림: 김수현"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "자존감 수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001891815",
+        "title": "자존감 수업",
+        "subtitle": "하루에 하나 나를 사랑하게 되는 자존감 회복 훈련",
+        "page": "304 p.",
+        "book_size": "144*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791186757093",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186757093",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "자존감 수업",
+      "subtitle": "하루에 하나 나를 사랑하게 되는 자존감 회복 훈련",
+      "author": "윤홍균",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "심플라이프",
+      "publish_year": "2016",
+      "publish_predate": "20160901",
+      "kdc": "182.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 차이심리학",
+      "ddc": "155.2",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "304 p.",
+      "book_size": "144*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "정신과 의사 '윤답장' 선생의 자존감 셀프 코칭법. 자존감 전문가이자 정신과 의사인 윤홍균 원장이 2년 넘게 심혈을 기울여 쓴 책으로, 자존감이 우리 삶에 미치는 영향을 친절하게 알려주고, 자존감을 끌어올리는 실질적인 방법을 알려주고 있다.",
+      "control_no": "CIP2016014497",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5526929_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자존감",
+          "weight": 110.0
+        },
+        {
+          "word": "사람",
+          "weight": 68.0
+        },
+        {
+          "word": "사랑",
+          "weight": 32.0
+        },
+        {
+          "word": "감정",
+          "weight": 28.0
+        },
+        {
+          "word": "자신",
+          "weight": 20.0
+        },
+        {
+          "word": "자전거",
+          "weight": 14.0
+        },
+        {
+          "word": "회복",
+          "weight": 13.0
+        },
+        {
+          "word": "의사",
+          "weight": 13.0
+        },
+        {
+          "word": "정신과",
+          "weight": 13.0
+        },
+        {
+          "word": "방법",
+          "weight": 10.0
+        },
+        {
+          "word": "상처",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 10.0
+        },
+        {
+          "word": "에너지",
+          "weight": 9.0
+        },
+        {
+          "word": "윤답장",
+          "weight": 8.0
+        },
+        {
+          "word": "생각",
+          "weight": 8.0
+        },
+        {
+          "word": "영향",
+          "weight": 7.0
+        },
+        {
+          "word": "과정",
+          "weight": 7.0
+        },
+        {
+          "word": "행동",
+          "weight": 7.0
+        },
+        {
+          "word": "이별",
+          "weight": 7.0
+        },
+        {
+          "word": "건강",
+          "weight": 7.0
+        },
+        {
+          "word": "윤홍균",
+          "weight": 6.0
+        },
+        {
+          "word": "선생",
+          "weight": 6.0
+        },
+        {
+          "word": "타인",
+          "weight": 6.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 5.0
+        },
+        {
+          "word": "극복",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "무기력",
+          "weight": 5.0
+        },
+        {
+          "word": "환경",
+          "weight": 5.0
+        },
+        {
+          "word": "이들",
+          "weight": 5.0
+        },
+        {
+          "word": "시선",
+          "weight": 5.0
+        },
+        {
+          "word": "불안",
+          "weight": 5.0
+        },
+        {
+          "word": "습관",
+          "weight": 4.0
+        },
+        {
+          "word": "원장",
+          "weight": 4.0
+        },
+        {
+          "word": "뭔가",
+          "weight": 4.0
+        },
+        {
+          "word": "실질적",
+          "weight": 4.0
+        },
+        {
+          "word": "선물",
+          "weight": 4.0
+        },
+        {
+          "word": "운명",
+          "weight": 4.0
+        },
+        {
+          "word": "불화",
+          "weight": 4.0
+        },
+        {
+          "word": "죄책감",
+          "weight": 4.0
+        },
+        {
+          "word": "만족도",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "안전",
+          "weight": 4.0
+        },
+        {
+          "word": "후회",
+          "weight": 4.0
+        },
+        {
+          "word": "친절",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "배려",
+          "weight": 4.0
+        },
+        {
+          "word": "유난",
+          "weight": 4.0
+        },
+        {
+          "word": "자기애",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        }
+      ],
+      "description": "정신과 의사 '윤답장' 선생의 자존감 셀프 코칭법. 자존감 전문가이자 정신과 의사인 윤홍균 원장이 2년 넘게 심혈을 기울여 쓴 책으로, 자존감이 우리 삶에 미치는 영향을 친절하게 알려주고, 자존감을 끌어올리는 실질적인 방법을 알려주고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "사랑 수업 :어떻게 사랑하고 사랑받을 것인가 ",
+          "isbn13": "9791186757666",
+          "authors": "윤홍균 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "나는 나로 살기로 했다 :냉담한 현실에서 어른살이를 위한 to do list ",
+          "isbn13": "9791187119845",
+          "authors": "글·그림: 김수현"
+        }
+      ],
+      "title": "자존감 수업",
+      "author": "윤홍균",
+      "kdc_from_api": "182.1",
+      "ddc_from_api": "155.2",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

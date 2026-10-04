@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681630",
+  "captured_at": "2026-10-03T00:14:02.925200+09:00",
+  "lookup": {
+    "isbn": "9791158681630",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681630",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 사자소학",
+      "subtitle": "",
+      "author": "글·그림: 이수인",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190730",
+      "kdc": "152",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 동양 철학, 사상 > 중국철학, 사상",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "157*191mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "맛있는 공부 24권. 어린이들이 갖추어야 할 인성을 사자소학을 통해 알려주고자 하였다. 어린이들이 좀 더 쉽고 재미있게 사자소학을 이해하고 가까이 갈 수 있도록 귀여운 바른이와 고은이를 통해 이야기를 풀어 가고 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/19823/47/cover/k252635137_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사자소학",
+          "weight": 8.0
+        },
+        {
+          "word": "철학",
+          "weight": 5.0
+        },
+        {
+          "word": "형제",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "배우",
+          "weight": 4.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "스승",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "관계",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "마음가짐",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "부모희지",
+          "weight": 2.0
+        },
+        {
+          "word": "물립문중",
+          "weight": 2.0
+        },
+        {
+          "word": "물역물태",
+          "weight": 2.0
+        },
+        {
+          "word": "네이버",
+          "weight": 2.0
+        },
+        {
+          "word": "물좌방중",
+          "weight": 2.0
+        },
+        {
+          "word": "부모출입",
+          "weight": 2.0
+        },
+        {
+          "word": "물훼물상",
+          "weight": 2.0
+        },
+        {
+          "word": "민이사구",
+          "weight": 2.0
+        },
+        {
+          "word": "백행지본",
+          "weight": 2.0
+        },
+        {
+          "word": "맹종지효",
+          "weight": 2.0
+        },
+        {
+          "word": "매필정돈",
+          "weight": 2.0
+        },
+        {
+          "word": "막감항노",
+          "weight": 2.0
+        },
+        {
+          "word": "막비사은",
+          "weight": 2.0
+        },
+        {
+          "word": "매필기립",
+          "weight": 2.0
+        },
+        {
+          "word": "모국아신",
+          "weight": 2.0
+        },
+        {
+          "word": "비이자행",
+          "weight": 2.0
+        },
+        {
+          "word": "기죄여산",
+          "weight": 2.0
+        },
+        {
+          "word": "부생아신",
+          "weight": 2.0
+        },
+        {
+          "word": "부모의복",
+          "weight": 2.0
+        },
+        {
+          "word": "반성물원",
+          "weight": 2.0
+        },
+        {
+          "word": "개폐필공",
+          "weight": 2.0
+        },
+        {
+          "word": "물라독서",
+          "weight": 2.0
+        },
+        {
+          "word": "분무구",
+          "weight": 2.0
+        },
+        {
+          "word": "부모유명",
+          "weight": 2.0
+        },
+        {
+          "word": "3장",
+          "weight": 2.0
+        },
+        {
+          "word": "2장",
+          "weight": 2.0
+        },
+        {
+          "word": "비지어목",
+          "weight": 2.0
+        },
+        {
+          "word": "희이물망",
+          "weight": 2.0
+        },
+        {
+          "word": "부이사지",
+          "weight": 2.0
+        },
+        {
+          "word": "부수경청",
+          "weight": 2.0
+        },
+        {
+          "word": "부모호아",
+          "weight": 2.0
+        },
+        {
+          "word": "부모책지",
+          "weight": 2.0
+        },
+        {
+          "word": "근면공부",
+          "weight": 2.0
+        },
+        {
+          "word": "부모열지",
+          "weight": 2.0
+        },
+        {
+          "word": "부모사아",
+          "weight": 2.0
+        },
+        {
+          "word": "규범",
+          "weight": 2.0
+        },
+        {
+          "word": "물유물천",
+          "weight": 2.0
+        }
+      ],
+      "description": "맛있는 공부 24권. 어린이들이 갖추어야 할 인성을 사자소학을 통해 알려주고자 하였다. 어린이들이 좀 더 쉽고 재미있게 사자소학을 이해하고 가까이 갈 수 있도록 귀여운 바른이와 고은이를 통해 이야기를 풀어 가고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 사자소학",
+      "author": "글·그림: 이수인",
+      "kdc_from_api": "152",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 사자소학",
+        "author": "글·그림: 이수인",
+        "publisher": "파란정원",
+        "publish_predate": "20190730",
+        "isbn": "9791158681630",
+        "isbn_add_code": "73710",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "213 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "7",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+        "author": "글·그림: 이수인",
+        "publisher": "파란정원",
+        "publish_year": "2019",
+        "isbn": "1158681631",
+        "isbn13": "9791158681630",
+        "isbn_add_code": "73710",
+        "volume": "",
+        "class_no": "152",
+        "class_nm": "철학 > 동양 철학, 사상 > 중국철학, 사상",
+        "description": "맛있는 공부 24권. 어린이들이 갖추어야 할 인성을 사자소학을 통해 알려주고자 하였다. 어린이들이 좀 더 쉽고 재미있게 사자소학을 이해하고 가까이 갈 수 있도록 귀여운 바른이와 고은이를 통해 이야기를 풀어 가고 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/19823/47/cover/k252635137_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사자소학",
+            "weight": 8.0
+          },
+          {
+            "word": "철학",
+            "weight": 5.0
+          },
+          {
+            "word": "형제",
+            "weight": 4.0
+          },
+          {
+            "word": "어른",
+            "weight": 4.0
+          },
+          {
+            "word": "배우",
+            "weight": 4.0
+          },
+          {
+            "word": "부모",
+            "weight": 4.0
+          },
+          {
+            "word": "스승",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "관계",
+            "weight": 3.0
+          },
+          {
+            "word": "공부",
+            "weight": 3.0
+          },
+          {
+            "word": "마음가짐",
+            "weight": 3.0
+          },
+          {
+            "word": "친구",
+            "weight": 3.0
+          },
+          {
+            "word": "어린이",
+            "weight": 3.0
+          },
+          {
+            "word": "부모희지",
+            "weight": 2.0
+          },
+          {
+            "word": "물립문중",
+            "weight": 2.0
+          },
+          {
+            "word": "물역물태",
+            "weight": 2.0
+          },
+          {
+            "word": "네이버",
+            "weight": 2.0
+          },
+          {
+            "word": "물좌방중",
+            "weight": 2.0
+          },
+          {
+            "word": "부모출입",
+            "weight": 2.0
+          },
+          {
+            "word": "물훼물상",
+            "weight": 2.0
+          },
+          {
+            "word": "민이사구",
+            "weight": 2.0
+          },
+          {
+            "word": "백행지본",
+            "weight": 2.0
+          },
+          {
+            "word": "맹종지효",
+            "weight": 2.0
+          },
+          {
+            "word": "매필정돈",
+            "weight": 2.0
+          },
+          {
+            "word": "막감항노",
+            "weight": 2.0
+          },
+          {
+            "word": "막비사은",
+            "weight": 2.0
+          },
+          {
+            "word": "매필기립",
+            "weight": 2.0
+          },
+          {
+            "word": "모국아신",
+            "weight": 2.0
+          },
+          {
+            "word": "비이자행",
+            "weight": 2.0
+          },
+          {
+            "word": "기죄여산",
+            "weight": 2.0
+          },
+          {
+            "word": "부생아신",
+            "weight": 2.0
+          },
+          {
+            "word": "부모의복",
+            "weight": 2.0
+          },
+          {
+            "word": "반성물원",
+            "weight": 2.0
+          },
+          {
+            "word": "개폐필공",
+            "weight": 2.0
+          },
+          {
+            "word": "물라독서",
+            "weight": 2.0
+          },
+          {
+            "word": "분무구",
+            "weight": 2.0
+          },
+          {
+            "word": "부모유명",
+            "weight": 2.0
+          },
+          {
+            "word": "3장",
+            "weight": 2.0
+          },
+          {
+            "word": "2장",
+            "weight": 2.0
+          },
+          {
+            "word": "비지어목",
+            "weight": 2.0
+          },
+          {
+            "word": "희이물망",
+            "weight": 2.0
+          },
+          {
+            "word": "부이사지",
+            "weight": 2.0
+          },
+          {
+            "word": "부수경청",
+            "weight": 2.0
+          },
+          {
+            "word": "부모호아",
+            "weight": 2.0
+          },
+          {
+            "word": "부모책지",
+            "weight": 2.0
+          },
+          {
+            "word": "근면공부",
+            "weight": 2.0
+          },
+          {
+            "word": "부모열지",
+            "weight": 2.0
+          },
+          {
+            "word": "부모사아",
+            "weight": 2.0
+          },
+          {
+            "word": "규범",
+            "weight": 2.0
+          },
+          {
+            "word": "물유물천",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+            "isbn13": "9791158681647",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+            "isbn13": "9791158681531",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+            "isbn13": "9791158681791",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+            "isbn13": "9791158681999",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+            "isbn13": "9791158681722",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+            "isbn13": "9791158681944",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+            "isbn13": "9791158681609",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 사자소학"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770964",
+        "title": "읽으면서 바로 써먹는 어린이 사자소학",
+        "subtitle": "",
+        "page": "216 p.",
+        "book_size": "157*191mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681630",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681630",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 사자소학",
+      "subtitle": "",
+      "author": "글·그림: 이수인",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190730",
+      "kdc": "152",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 동양 철학, 사상 > 중국철학, 사상",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "157*191mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "맛있는 공부 24권. 어린이들이 갖추어야 할 인성을 사자소학을 통해 알려주고자 하였다. 어린이들이 좀 더 쉽고 재미있게 사자소학을 이해하고 가까이 갈 수 있도록 귀여운 바른이와 고은이를 통해 이야기를 풀어 가고 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/19823/47/cover/k252635137_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사자소학",
+          "weight": 8.0
+        },
+        {
+          "word": "철학",
+          "weight": 5.0
+        },
+        {
+          "word": "형제",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "배우",
+          "weight": 4.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "스승",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "관계",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "마음가짐",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "부모희지",
+          "weight": 2.0
+        },
+        {
+          "word": "물립문중",
+          "weight": 2.0
+        },
+        {
+          "word": "물역물태",
+          "weight": 2.0
+        },
+        {
+          "word": "네이버",
+          "weight": 2.0
+        },
+        {
+          "word": "물좌방중",
+          "weight": 2.0
+        },
+        {
+          "word": "부모출입",
+          "weight": 2.0
+        },
+        {
+          "word": "물훼물상",
+          "weight": 2.0
+        },
+        {
+          "word": "민이사구",
+          "weight": 2.0
+        },
+        {
+          "word": "백행지본",
+          "weight": 2.0
+        },
+        {
+          "word": "맹종지효",
+          "weight": 2.0
+        },
+        {
+          "word": "매필정돈",
+          "weight": 2.0
+        },
+        {
+          "word": "막감항노",
+          "weight": 2.0
+        },
+        {
+          "word": "막비사은",
+          "weight": 2.0
+        },
+        {
+          "word": "매필기립",
+          "weight": 2.0
+        },
+        {
+          "word": "모국아신",
+          "weight": 2.0
+        },
+        {
+          "word": "비이자행",
+          "weight": 2.0
+        },
+        {
+          "word": "기죄여산",
+          "weight": 2.0
+        },
+        {
+          "word": "부생아신",
+          "weight": 2.0
+        },
+        {
+          "word": "부모의복",
+          "weight": 2.0
+        },
+        {
+          "word": "반성물원",
+          "weight": 2.0
+        },
+        {
+          "word": "개폐필공",
+          "weight": 2.0
+        },
+        {
+          "word": "물라독서",
+          "weight": 2.0
+        },
+        {
+          "word": "분무구",
+          "weight": 2.0
+        },
+        {
+          "word": "부모유명",
+          "weight": 2.0
+        },
+        {
+          "word": "3장",
+          "weight": 2.0
+        },
+        {
+          "word": "2장",
+          "weight": 2.0
+        },
+        {
+          "word": "비지어목",
+          "weight": 2.0
+        },
+        {
+          "word": "희이물망",
+          "weight": 2.0
+        },
+        {
+          "word": "부이사지",
+          "weight": 2.0
+        },
+        {
+          "word": "부수경청",
+          "weight": 2.0
+        },
+        {
+          "word": "부모호아",
+          "weight": 2.0
+        },
+        {
+          "word": "부모책지",
+          "weight": 2.0
+        },
+        {
+          "word": "근면공부",
+          "weight": 2.0
+        },
+        {
+          "word": "부모열지",
+          "weight": 2.0
+        },
+        {
+          "word": "부모사아",
+          "weight": 2.0
+        },
+        {
+          "word": "규범",
+          "weight": 2.0
+        },
+        {
+          "word": "물유물천",
+          "weight": 2.0
+        }
+      ],
+      "description": "맛있는 공부 24권. 어린이들이 갖추어야 할 인성을 사자소학을 통해 알려주고자 하였다. 어린이들이 좀 더 쉽고 재미있게 사자소학을 이해하고 가까이 갈 수 있도록 귀여운 바른이와 고은이를 통해 이야기를 풀어 가고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 사자소학",
+      "author": "글·그림: 이수인",
+      "kdc_from_api": "152",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

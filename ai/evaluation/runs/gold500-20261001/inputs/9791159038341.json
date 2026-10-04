@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791159038341",
+  "captured_at": "2026-10-04T00:17:04.812628+09:00",
+  "lookup": {
+    "isbn": "9791159038341",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159038341",
+      "isbn_add_code": "04850",
+      "set_isbn": "9791159038310",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "(큰글씨) 데미안",
+      "subtitle": "",
+      "author": "헤르만 헤세 지음 ;이순학 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "더클래식 :미르북컴퍼니",
+      "publish_year": "2018",
+      "publish_predate": "20180130",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "276 p.",
+      "book_size": "155*227mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "헤르만 헤세가 1919년 ‘에밀 싱클레어’라는 가명으로 출판한 소설. 1차, 2차 세계 대전 이후 현대 독일 문학에서 ‘전쟁’과 ‘개인’의 관계를 치밀하게 제시한 이 작품은 개인주의적이고 철학적인 사유가 관습화되어 있는 독일에서 개인의 내면을 면밀히 탐구하는 이야기다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/132/859/13285971.jpg?type=m1&udate=20180215",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "발간",
+          "weight": 18.0
+        },
+        {
+          "word": "데미안",
+          "weight": 10.0
+        },
+        {
+          "word": "독자",
+          "weight": 8.0
+        },
+        {
+          "word": "시집",
+          "weight": 6.0
+        },
+        {
+          "word": "큰글씨",
+          "weight": 5.0
+        },
+        {
+          "word": "번역",
+          "weight": 5.0
+        },
+        {
+          "word": "헤르만",
+          "weight": 5.0
+        },
+        {
+          "word": "스위스",
+          "weight": 5.0
+        },
+        {
+          "word": "독일",
+          "weight": 5.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "시니어",
+          "weight": 4.0
+        },
+        {
+          "word": "싯다르타",
+          "weight": 4.0
+        },
+        {
+          "word": "게르트루트",
+          "weight": 4.0
+        },
+        {
+          "word": "발표",
+          "weight": 4.0
+        },
+        {
+          "word": "크눌프",
+          "weight": 4.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 3.0
+        },
+        {
+          "word": "나르치스와 골트문트",
+          "weight": 3.0
+        },
+        {
+          "word": "글씨",
+          "weight": 3.0
+        },
+        {
+          "word": "싯다르타 Siddhartha",
+          "weight": 3.0
+        },
+        {
+          "word": "더클래식",
+          "weight": 3.0
+        },
+        {
+          "word": "아내",
+          "weight": 3.0
+        },
+        {
+          "word": "페터 카멘친트",
+          "weight": 3.0
+        },
+        {
+          "word": "노벨문학상",
+          "weight": 3.0
+        },
+        {
+          "word": "시집 Die Gedichte",
+          "weight": 3.0
+        },
+        {
+          "word": "이주",
+          "weight": 3.0
+        },
+        {
+          "word": "유리알 유희",
+          "weight": 3.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 3.0
+        },
+        {
+          "word": "로스할데 Rohalde",
+          "weight": 3.0
+        },
+        {
+          "word": "도상  Unterwegs",
+          "weight": 3.0
+        },
+        {
+          "word": "1946년",
+          "weight": 3.0
+        },
+        {
+          "word": "이웃 사람 Nachbarn",
+          "weight": 3.0
+        },
+        {
+          "word": "신학교",
+          "weight": 3.0
+        },
+        {
+          "word": "수레바퀴 밑에서",
+          "weight": 3.0
+        },
+        {
+          "word": "낭만적인 노래",
+          "weight": 3.0
+        },
+        {
+          "word": "게르트루트 Gertrud",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "어머니",
+          "weight": 3.0
+        },
+        {
+          "word": "우회로  Umwege",
+          "weight": 3.0
+        },
+        {
+          "word": "만년의 산문 Spate",
+          "weight": 3.0
+        },
+        {
+          "word": "피아니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "시집 Gedichte",
+          "weight": 3.0
+        },
+        {
+          "word": "데미안 Demian",
+          "weight": 3.0
+        },
+        {
+          "word": "크눌프 Knulp",
+          "weight": 3.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        },
+        {
+          "word": "시계",
+          "weight": 2.0
+        },
+        {
+          "word": "본래",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "소설집",
+          "weight": 2.0
+        },
+        {
+          "word": "1890년",
+          "weight": 2.0
+        }
+      ],
+      "description": "헤르만 헤세가 1919년 ‘에밀 싱클레어’라는 가명으로 출판한 소설. 1차, 2차 세계 대전 이후 현대 독일 문학에서 ‘전쟁’과 ‘개인’의 관계를 치밀하게 제시한 이 작품은 개인주의적이고 철학적인 사유가 관습화되어 있는 독일에서 개인의 내면을 면밀히 탐구하는 이야기다.",
+      "co_loan_books": [
+        {
+          "bookname": "(큰글씨) 노인과 바다 ",
+          "isbn13": "9791159038327",
+          "authors": "어니스트 헤밍웨이 지음 ;베스트트랜스 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 이방인 ",
+          "isbn13": "9791159038389",
+          "authors": "알베르 카뮈 지음 ;최헵시바 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 어린 왕자 =The little prince ",
+          "isbn13": "9791159038334",
+          "authors": "앙투안 드 생택쥐페리 지음 ;베스트트랜스 옮김"
+        },
+        {
+          "bookname": "젊은 베르테르의 슬픔 ",
+          "isbn13": "9791159038372",
+          "authors": "요한 볼프강 폰 괴테 지음 ;허승진 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 사람은 무엇으로 사는가 ",
+          "isbn13": "9791159038365",
+          "authors": "레프 니콜라예비치 톨스토이 지음 ;장영재 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 위대한 개츠비 ",
+          "isbn13": "9791159038358",
+          "authors": "프랜시스 스콧 피츠제럴드 지음 ;이기선 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "1984 (큰글씨책)",
+          "isbn13": "9791159038471",
+          "authors": "조지 오웰 (지은이), 정영수 (옮긴이)"
+        },
+        {
+          "bookname": "(큰글씨) 인간 실격 =No longer human ",
+          "isbn13": "9791159038433",
+          "authors": "다자이 오사무 지음 ;김소영 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "(큰글씨) 데미안",
+      "author": "헤르만 헤세 지음 ;이순학 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(큰글씨) 데미안",
+        "author": "헤르만 헤세 지음 ;이순학 옮김",
+        "publisher": "더클래식 :미르북컴퍼니",
+        "publish_predate": "20180130",
+        "isbn": "9791159038341",
+        "isbn_add_code": "04850",
+        "set_isbn": "9791159038310",
+        "set_add_code": "04800 ",
+        "set_expression": "",
+        "price": "₩11800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "275 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(큰글씨) 데미안 ",
+        "author": "헤르만 헤세 지음 ;이순학 옮김",
+        "publisher": "미르북컴퍼니",
+        "publish_year": "2018",
+        "isbn": "1159038341",
+        "isbn13": "9791159038341",
+        "isbn_add_code": "04850",
+        "volume": "",
+        "class_no": "853",
+        "class_nm": "문학 > 독일문학 > 소설",
+        "description": "헤르만 헤세가 1919년 ‘에밀 싱클레어’라는 가명으로 출판한 소설. 1차, 2차 세계 대전 이후 현대 독일 문학에서 ‘전쟁’과 ‘개인’의 관계를 치밀하게 제시한 이 작품은 개인주의적이고 철학적인 사유가 관습화되어 있는 독일에서 개인의 내면을 면밀히 탐구하는 이야기다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/132/859/13285971.jpg?type=m1&udate=20180215"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "발간",
+            "weight": 18.0
+          },
+          {
+            "word": "데미안",
+            "weight": 10.0
+          },
+          {
+            "word": "독자",
+            "weight": 8.0
+          },
+          {
+            "word": "시집",
+            "weight": 6.0
+          },
+          {
+            "word": "큰글씨",
+            "weight": 5.0
+          },
+          {
+            "word": "번역",
+            "weight": 5.0
+          },
+          {
+            "word": "헤르만",
+            "weight": 5.0
+          },
+          {
+            "word": "스위스",
+            "weight": 5.0
+          },
+          {
+            "word": "독일",
+            "weight": 5.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "시니어",
+            "weight": 4.0
+          },
+          {
+            "word": "싯다르타",
+            "weight": 4.0
+          },
+          {
+            "word": "게르트루트",
+            "weight": 4.0
+          },
+          {
+            "word": "발표",
+            "weight": 4.0
+          },
+          {
+            "word": "크눌프",
+            "weight": 4.0
+          },
+          {
+            "word": "전쟁",
+            "weight": 3.0
+          },
+          {
+            "word": "나르치스와 골트문트",
+            "weight": 3.0
+          },
+          {
+            "word": "글씨",
+            "weight": 3.0
+          },
+          {
+            "word": "싯다르타 Siddhartha",
+            "weight": 3.0
+          },
+          {
+            "word": "더클래식",
+            "weight": 3.0
+          },
+          {
+            "word": "아내",
+            "weight": 3.0
+          },
+          {
+            "word": "페터 카멘친트",
+            "weight": 3.0
+          },
+          {
+            "word": "노벨문학상",
+            "weight": 3.0
+          },
+          {
+            "word": "시집 Die Gedichte",
+            "weight": 3.0
+          },
+          {
+            "word": "이주",
+            "weight": 3.0
+          },
+          {
+            "word": "유리알 유희",
+            "weight": 3.0
+          },
+          {
+            "word": "장편소설",
+            "weight": 3.0
+          },
+          {
+            "word": "로스할데 Rohalde",
+            "weight": 3.0
+          },
+          {
+            "word": "도상  Unterwegs",
+            "weight": 3.0
+          },
+          {
+            "word": "1946년",
+            "weight": 3.0
+          },
+          {
+            "word": "이웃 사람 Nachbarn",
+            "weight": 3.0
+          },
+          {
+            "word": "신학교",
+            "weight": 3.0
+          },
+          {
+            "word": "수레바퀴 밑에서",
+            "weight": 3.0
+          },
+          {
+            "word": "낭만적인 노래",
+            "weight": 3.0
+          },
+          {
+            "word": "게르트루트 Gertrud",
+            "weight": 3.0
+          },
+          {
+            "word": "어린이",
+            "weight": 3.0
+          },
+          {
+            "word": "어머니",
+            "weight": 3.0
+          },
+          {
+            "word": "우회로  Umwege",
+            "weight": 3.0
+          },
+          {
+            "word": "만년의 산문 Spate",
+            "weight": 3.0
+          },
+          {
+            "word": "피아니스트",
+            "weight": 3.0
+          },
+          {
+            "word": "시집 Gedichte",
+            "weight": 3.0
+          },
+          {
+            "word": "데미안 Demian",
+            "weight": 3.0
+          },
+          {
+            "word": "크눌프 Knulp",
+            "weight": 3.0
+          },
+          {
+            "word": "생활",
+            "weight": 2.0
+          },
+          {
+            "word": "시계",
+            "weight": 2.0
+          },
+          {
+            "word": "본래",
+            "weight": 2.0
+          },
+          {
+            "word": "사용",
+            "weight": 2.0
+          },
+          {
+            "word": "소설집",
+            "weight": 2.0
+          },
+          {
+            "word": "1890년",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(큰글씨) 노인과 바다 ",
+            "isbn13": "9791159038327",
+            "authors": "어니스트 헤밍웨이 지음 ;베스트트랜스 옮김"
+          },
+          {
+            "bookname": "(큰글씨) 이방인 ",
+            "isbn13": "9791159038389",
+            "authors": "알베르 카뮈 지음 ;최헵시바 옮김"
+          },
+          {
+            "bookname": "(큰글씨) 어린 왕자 =The little prince ",
+            "isbn13": "9791159038334",
+            "authors": "앙투안 드 생택쥐페리 지음 ;베스트트랜스 옮김"
+          },
+          {
+            "bookname": "젊은 베르테르의 슬픔 ",
+            "isbn13": "9791159038372",
+            "authors": "요한 볼프강 폰 괴테 지음 ;허승진 옮김"
+          },
+          {
+            "bookname": "(큰글씨) 사람은 무엇으로 사는가 ",
+            "isbn13": "9791159038365",
+            "authors": "레프 니콜라예비치 톨스토이 지음 ;장영재 옮김"
+          },
+          {
+            "bookname": "(큰글씨) 위대한 개츠비 ",
+            "isbn13": "9791159038358",
+            "authors": "프랜시스 스콧 피츠제럴드 지음 ;이기선 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "1984 (큰글씨책)",
+            "isbn13": "9791159038471",
+            "authors": "조지 오웰 (지은이), 정영수 (옮긴이)"
+          },
+          {
+            "bookname": "(큰글씨) 인간 실격 =No longer human ",
+            "isbn13": "9791159038433",
+            "authors": "다자이 오사무 지음 ;김소영 옮김"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(큰글씨) 데미안"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001774639",
+        "title": "데미안(큰글씨)",
+        "subtitle": "",
+        "page": "276 p.",
+        "book_size": "155*227mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791159038341",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159038341",
+      "isbn_add_code": "04850",
+      "set_isbn": "9791159038310",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "(큰글씨) 데미안",
+      "subtitle": "",
+      "author": "헤르만 헤세 지음 ;이순학 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "더클래식 :미르북컴퍼니",
+      "publish_year": "2018",
+      "publish_predate": "20180130",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "276 p.",
+      "book_size": "155*227mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "헤르만 헤세가 1919년 ‘에밀 싱클레어’라는 가명으로 출판한 소설. 1차, 2차 세계 대전 이후 현대 독일 문학에서 ‘전쟁’과 ‘개인’의 관계를 치밀하게 제시한 이 작품은 개인주의적이고 철학적인 사유가 관습화되어 있는 독일에서 개인의 내면을 면밀히 탐구하는 이야기다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/132/859/13285971.jpg?type=m1&udate=20180215",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "발간",
+          "weight": 18.0
+        },
+        {
+          "word": "데미안",
+          "weight": 10.0
+        },
+        {
+          "word": "독자",
+          "weight": 8.0
+        },
+        {
+          "word": "시집",
+          "weight": 6.0
+        },
+        {
+          "word": "큰글씨",
+          "weight": 5.0
+        },
+        {
+          "word": "번역",
+          "weight": 5.0
+        },
+        {
+          "word": "헤르만",
+          "weight": 5.0
+        },
+        {
+          "word": "스위스",
+          "weight": 5.0
+        },
+        {
+          "word": "독일",
+          "weight": 5.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "시니어",
+          "weight": 4.0
+        },
+        {
+          "word": "싯다르타",
+          "weight": 4.0
+        },
+        {
+          "word": "게르트루트",
+          "weight": 4.0
+        },
+        {
+          "word": "발표",
+          "weight": 4.0
+        },
+        {
+          "word": "크눌프",
+          "weight": 4.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 3.0
+        },
+        {
+          "word": "나르치스와 골트문트",
+          "weight": 3.0
+        },
+        {
+          "word": "글씨",
+          "weight": 3.0
+        },
+        {
+          "word": "싯다르타 Siddhartha",
+          "weight": 3.0
+        },
+        {
+          "word": "더클래식",
+          "weight": 3.0
+        },
+        {
+          "word": "아내",
+          "weight": 3.0
+        },
+        {
+          "word": "페터 카멘친트",
+          "weight": 3.0
+        },
+        {
+          "word": "노벨문학상",
+          "weight": 3.0
+        },
+        {
+          "word": "시집 Die Gedichte",
+          "weight": 3.0
+        },
+        {
+          "word": "이주",
+          "weight": 3.0
+        },
+        {
+          "word": "유리알 유희",
+          "weight": 3.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 3.0
+        },
+        {
+          "word": "로스할데 Rohalde",
+          "weight": 3.0
+        },
+        {
+          "word": "도상  Unterwegs",
+          "weight": 3.0
+        },
+        {
+          "word": "1946년",
+          "weight": 3.0
+        },
+        {
+          "word": "이웃 사람 Nachbarn",
+          "weight": 3.0
+        },
+        {
+          "word": "신학교",
+          "weight": 3.0
+        },
+        {
+          "word": "수레바퀴 밑에서",
+          "weight": 3.0
+        },
+        {
+          "word": "낭만적인 노래",
+          "weight": 3.0
+        },
+        {
+          "word": "게르트루트 Gertrud",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "어머니",
+          "weight": 3.0
+        },
+        {
+          "word": "우회로  Umwege",
+          "weight": 3.0
+        },
+        {
+          "word": "만년의 산문 Spate",
+          "weight": 3.0
+        },
+        {
+          "word": "피아니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "시집 Gedichte",
+          "weight": 3.0
+        },
+        {
+          "word": "데미안 Demian",
+          "weight": 3.0
+        },
+        {
+          "word": "크눌프 Knulp",
+          "weight": 3.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        },
+        {
+          "word": "시계",
+          "weight": 2.0
+        },
+        {
+          "word": "본래",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "소설집",
+          "weight": 2.0
+        },
+        {
+          "word": "1890년",
+          "weight": 2.0
+        }
+      ],
+      "description": "헤르만 헤세가 1919년 ‘에밀 싱클레어’라는 가명으로 출판한 소설. 1차, 2차 세계 대전 이후 현대 독일 문학에서 ‘전쟁’과 ‘개인’의 관계를 치밀하게 제시한 이 작품은 개인주의적이고 철학적인 사유가 관습화되어 있는 독일에서 개인의 내면을 면밀히 탐구하는 이야기다.",
+      "co_loan_books": [
+        {
+          "bookname": "(큰글씨) 노인과 바다 ",
+          "isbn13": "9791159038327",
+          "authors": "어니스트 헤밍웨이 지음 ;베스트트랜스 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 이방인 ",
+          "isbn13": "9791159038389",
+          "authors": "알베르 카뮈 지음 ;최헵시바 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 어린 왕자 =The little prince ",
+          "isbn13": "9791159038334",
+          "authors": "앙투안 드 생택쥐페리 지음 ;베스트트랜스 옮김"
+        },
+        {
+          "bookname": "젊은 베르테르의 슬픔 ",
+          "isbn13": "9791159038372",
+          "authors": "요한 볼프강 폰 괴테 지음 ;허승진 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 사람은 무엇으로 사는가 ",
+          "isbn13": "9791159038365",
+          "authors": "레프 니콜라예비치 톨스토이 지음 ;장영재 옮김"
+        },
+        {
+          "bookname": "(큰글씨) 위대한 개츠비 ",
+          "isbn13": "9791159038358",
+          "authors": "프랜시스 스콧 피츠제럴드 지음 ;이기선 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "1984 (큰글씨책)",
+          "isbn13": "9791159038471",
+          "authors": "조지 오웰 (지은이), 정영수 (옮긴이)"
+        },
+        {
+          "bookname": "(큰글씨) 인간 실격 =No longer human ",
+          "isbn13": "9791159038433",
+          "authors": "다자이 오사무 지음 ;김소영 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "(큰글씨) 데미안",
+      "author": "헤르만 헤세 지음 ;이순학 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

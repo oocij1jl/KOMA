@@ -1,0 +1,1090 @@
+{
+  "isbn": "9788932912141",
+  "captured_at": "2026-10-04T00:15:25.443004+09:00",
+  "lookup": {
+    "isbn": "9788932912141",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932912141",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "모비 딕 상",
+      "subtitle": "허먼 멜빌 장편소설",
+      "author": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+      "volume": "상",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2013",
+      "publish_predate": "20130815",
+      "kdc": "843.4",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "813.3",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "460 p.",
+      "book_size": "127*195mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'열린책들 세계문학' 214~215권. 허먼 멜빌의 대표작으로, 광범위하면서도 세밀한 자료의 토대 위에 경험에 의거한 사실적 묘사를 더하고 대양만큼이나 드넓은 상상력을 덧씌운 작품이다.",
+      "control_no": "CIP2013013334",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_3_2.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_6_2.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고래",
+          "weight": 7.0
+        },
+        {
+          "word": "타이피",
+          "weight": 6.0
+        },
+        {
+          "word": "모비 딕",
+          "weight": 6.0
+        },
+        {
+          "word": "멜빌",
+          "weight": 5.0
+        },
+        {
+          "word": "선정",
+          "weight": 4.0
+        },
+        {
+          "word": "모험",
+          "weight": 4.0
+        },
+        {
+          "word": "선장",
+          "weight": 3.0
+        },
+        {
+          "word": "선원",
+          "weight": 3.0
+        },
+        {
+          "word": "교양 명저 60선문학편",
+          "weight": 3.0
+        },
+        {
+          "word": "선원 빌리 버드",
+          "weight": 3.0
+        },
+        {
+          "word": "열린책",
+          "weight": 3.0
+        },
+        {
+          "word": "열린책들 세계문학",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 10대 소설",
+          "weight": 3.0
+        },
+        {
+          "word": "오무",
+          "weight": 3.0
+        },
+        {
+          "word": "걸작",
+          "weight": 3.0
+        },
+        {
+          "word": "모비",
+          "weight": 3.0
+        },
+        {
+          "word": "세계를 움직인 100권의 책",
+          "weight": 3.0
+        },
+        {
+          "word": "광포",
+          "weight": 2.0
+        },
+        {
+          "word": "비극",
+          "weight": 2.0
+        },
+        {
+          "word": "명성",
+          "weight": 2.0
+        },
+        {
+          "word": "통찰",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심오",
+          "weight": 2.0
+        },
+        {
+          "word": "우주",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "이듬해",
+          "weight": 2.0
+        },
+        {
+          "word": "작살",
+          "weight": 2.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 2.0
+        },
+        {
+          "word": "형식",
+          "weight": 2.0
+        },
+        {
+          "word": "고래잡이",
+          "weight": 2.0
+        },
+        {
+          "word": "작가적",
+          "weight": 2.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "맞선",
+          "weight": 2.0
+        },
+        {
+          "word": "향해",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "독보적",
+          "weight": 2.0
+        },
+        {
+          "word": "평단",
+          "weight": 2.0
+        },
+        {
+          "word": "허먼",
+          "weight": 2.0
+        },
+        {
+          "word": "포경선",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "전율적",
+          "weight": 2.0
+        },
+        {
+          "word": "거대",
+          "weight": 2.0
+        },
+        {
+          "word": "강수정",
+          "weight": 2.0
+        },
+        {
+          "word": "에이해브",
+          "weight": 2.0
+        },
+        {
+          "word": "바다",
+          "weight": 2.0
+        },
+        {
+          "word": "허먼 멜빌",
+          "weight": 2.0
+        },
+        {
+          "word": "대표작",
+          "weight": 2.0
+        }
+      ],
+      "description": "'열린책들 세계문학' 214~215권. 허먼 멜빌의 대표작으로, 광범위하면서도 세밀한 자료의 토대 위에 경험에 의거한 사실적 묘사를 더하고 대양만큼이나 드넓은 상상력을 덧씌운 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "모비 딕 :허먼 멜빌 장편소설",
+          "isbn13": "9788932912158",
+          "authors": "지은이: 허먼 멜빌 ;옮긴이: 강수정"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "죄와 벌",
+          "isbn13": "9788937462849",
+          "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        }
+      ],
+      "title": "모비 딕 상",
+      "author": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+      "kdc_from_api": "843.4",
+      "ddc_from_api": "813.3",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "모비 딕 상",
+        "author": "허먼 멜빌",
+        "publisher": "열린책들",
+        "publish_predate": "20130815",
+        "isbn": "9788932912141",
+        "isbn_add_code": "04840",
+        "set_isbn": "9788932914992",
+        "set_add_code": "04800 ",
+        "set_expression": "",
+        "price": "₩11800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "843.4",
+        "ddc": "813.3",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2013013334",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_3_2.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_6_2.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "모비 딕 :허먼 멜빌 장편소설",
+        "author": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+        "publisher": "열린책들",
+        "publish_year": "2013",
+        "isbn": "8932912149",
+        "isbn13": "9788932912141",
+        "isbn_add_code": "03840",
+        "volume": "상",
+        "class_no": "843.4",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "'열린책들 세계문학' 214~215권. 허먼 멜빌의 대표작으로, 광범위하면서도 세밀한 자료의 토대 위에 경험에 의거한 사실적 묘사를 더하고 대양만큼이나 드넓은 상상력을 덧씌운 작품이다.",
+        "cover_url": "http://image.aladin.co.kr/product/3088/6/cover/8932912149_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "고래",
+            "weight": 7.0
+          },
+          {
+            "word": "타이피",
+            "weight": 6.0
+          },
+          {
+            "word": "모비 딕",
+            "weight": 6.0
+          },
+          {
+            "word": "멜빌",
+            "weight": 5.0
+          },
+          {
+            "word": "선정",
+            "weight": 4.0
+          },
+          {
+            "word": "모험",
+            "weight": 4.0
+          },
+          {
+            "word": "선장",
+            "weight": 3.0
+          },
+          {
+            "word": "선원",
+            "weight": 3.0
+          },
+          {
+            "word": "교양 명저 60선문학편",
+            "weight": 3.0
+          },
+          {
+            "word": "선원 빌리 버드",
+            "weight": 3.0
+          },
+          {
+            "word": "열린책",
+            "weight": 3.0
+          },
+          {
+            "word": "열린책들 세계문학",
+            "weight": 3.0
+          },
+          {
+            "word": "세계 10대 소설",
+            "weight": 3.0
+          },
+          {
+            "word": "오무",
+            "weight": 3.0
+          },
+          {
+            "word": "걸작",
+            "weight": 3.0
+          },
+          {
+            "word": "모비",
+            "weight": 3.0
+          },
+          {
+            "word": "세계를 움직인 100권의 책",
+            "weight": 3.0
+          },
+          {
+            "word": "광포",
+            "weight": 2.0
+          },
+          {
+            "word": "비극",
+            "weight": 2.0
+          },
+          {
+            "word": "명성",
+            "weight": 2.0
+          },
+          {
+            "word": "통찰",
+            "weight": 2.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 2.0
+          },
+          {
+            "word": "심오",
+            "weight": 2.0
+          },
+          {
+            "word": "우주",
+            "weight": 2.0
+          },
+          {
+            "word": "유쾌",
+            "weight": 2.0
+          },
+          {
+            "word": "이듬해",
+            "weight": 2.0
+          },
+          {
+            "word": "작살",
+            "weight": 2.0
+          },
+          {
+            "word": "장편소설",
+            "weight": 2.0
+          },
+          {
+            "word": "형식",
+            "weight": 2.0
+          },
+          {
+            "word": "고래잡이",
+            "weight": 2.0
+          },
+          {
+            "word": "작가적",
+            "weight": 2.0
+          },
+          {
+            "word": "영미소설",
+            "weight": 2.0
+          },
+          {
+            "word": "문학",
+            "weight": 2.0
+          },
+          {
+            "word": "맞선",
+            "weight": 2.0
+          },
+          {
+            "word": "향해",
+            "weight": 2.0
+          },
+          {
+            "word": "자신",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "인간",
+            "weight": 2.0
+          },
+          {
+            "word": "독보적",
+            "weight": 2.0
+          },
+          {
+            "word": "평단",
+            "weight": 2.0
+          },
+          {
+            "word": "허먼",
+            "weight": 2.0
+          },
+          {
+            "word": "포경선",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "전율적",
+            "weight": 2.0
+          },
+          {
+            "word": "거대",
+            "weight": 2.0
+          },
+          {
+            "word": "강수정",
+            "weight": 2.0
+          },
+          {
+            "word": "에이해브",
+            "weight": 2.0
+          },
+          {
+            "word": "바다",
+            "weight": 2.0
+          },
+          {
+            "word": "허먼 멜빌",
+            "weight": 2.0
+          },
+          {
+            "word": "대표작",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "모비 딕 :허먼 멜빌 장편소설",
+            "isbn13": "9788932912158",
+            "authors": "지은이: 허먼 멜빌 ;옮긴이: 강수정"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "죄와 벌",
+            "isbn13": "9788937462849",
+            "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+          },
+          {
+            "bookname": "호밀밭의 파수꾼 ",
+            "isbn13": "9788937460470",
+            "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+          },
+          {
+            "bookname": "하얼빈 :김훈 장편소설 ",
+            "isbn13": "9788954699914",
+            "authors": "지은이: 김훈"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "모비 딕 상"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000581556",
+        "title": "모비딕(상)",
+        "subtitle": "허먼 멜빌 장편소설",
+        "page": "460 p.",
+        "book_size": "127*195mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932912141",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932912141",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "모비 딕 상",
+      "subtitle": "허먼 멜빌 장편소설",
+      "author": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+      "volume": "상",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2013",
+      "publish_predate": "20130815",
+      "kdc": "843.4",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "813.3",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "460 p.",
+      "book_size": "127*195mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'열린책들 세계문학' 214~215권. 허먼 멜빌의 대표작으로, 광범위하면서도 세밀한 자료의 토대 위에 경험에 의거한 사실적 묘사를 더하고 대양만큼이나 드넓은 상상력을 덧씌운 작품이다.",
+      "control_no": "CIP2013013334",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_3_2.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2874930_6_2.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고래",
+          "weight": 7.0
+        },
+        {
+          "word": "타이피",
+          "weight": 6.0
+        },
+        {
+          "word": "모비 딕",
+          "weight": 6.0
+        },
+        {
+          "word": "멜빌",
+          "weight": 5.0
+        },
+        {
+          "word": "선정",
+          "weight": 4.0
+        },
+        {
+          "word": "모험",
+          "weight": 4.0
+        },
+        {
+          "word": "선장",
+          "weight": 3.0
+        },
+        {
+          "word": "선원",
+          "weight": 3.0
+        },
+        {
+          "word": "교양 명저 60선문학편",
+          "weight": 3.0
+        },
+        {
+          "word": "선원 빌리 버드",
+          "weight": 3.0
+        },
+        {
+          "word": "열린책",
+          "weight": 3.0
+        },
+        {
+          "word": "열린책들 세계문학",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 10대 소설",
+          "weight": 3.0
+        },
+        {
+          "word": "오무",
+          "weight": 3.0
+        },
+        {
+          "word": "걸작",
+          "weight": 3.0
+        },
+        {
+          "word": "모비",
+          "weight": 3.0
+        },
+        {
+          "word": "세계를 움직인 100권의 책",
+          "weight": 3.0
+        },
+        {
+          "word": "광포",
+          "weight": 2.0
+        },
+        {
+          "word": "비극",
+          "weight": 2.0
+        },
+        {
+          "word": "명성",
+          "weight": 2.0
+        },
+        {
+          "word": "통찰",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심오",
+          "weight": 2.0
+        },
+        {
+          "word": "우주",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "이듬해",
+          "weight": 2.0
+        },
+        {
+          "word": "작살",
+          "weight": 2.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 2.0
+        },
+        {
+          "word": "형식",
+          "weight": 2.0
+        },
+        {
+          "word": "고래잡이",
+          "weight": 2.0
+        },
+        {
+          "word": "작가적",
+          "weight": 2.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "맞선",
+          "weight": 2.0
+        },
+        {
+          "word": "향해",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "독보적",
+          "weight": 2.0
+        },
+        {
+          "word": "평단",
+          "weight": 2.0
+        },
+        {
+          "word": "허먼",
+          "weight": 2.0
+        },
+        {
+          "word": "포경선",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "전율적",
+          "weight": 2.0
+        },
+        {
+          "word": "거대",
+          "weight": 2.0
+        },
+        {
+          "word": "강수정",
+          "weight": 2.0
+        },
+        {
+          "word": "에이해브",
+          "weight": 2.0
+        },
+        {
+          "word": "바다",
+          "weight": 2.0
+        },
+        {
+          "word": "허먼 멜빌",
+          "weight": 2.0
+        },
+        {
+          "word": "대표작",
+          "weight": 2.0
+        }
+      ],
+      "description": "'열린책들 세계문학' 214~215권. 허먼 멜빌의 대표작으로, 광범위하면서도 세밀한 자료의 토대 위에 경험에 의거한 사실적 묘사를 더하고 대양만큼이나 드넓은 상상력을 덧씌운 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "모비 딕 :허먼 멜빌 장편소설",
+          "isbn13": "9788932912158",
+          "authors": "지은이: 허먼 멜빌 ;옮긴이: 강수정"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "죄와 벌",
+          "isbn13": "9788937462849",
+          "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        }
+      ],
+      "title": "모비 딕 상",
+      "author": "지은이: 허먼 멜빌 ;옮긴이: 강수정",
+      "kdc_from_api": "843.4",
+      "ddc_from_api": "813.3",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

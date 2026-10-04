@@ -1,0 +1,1080 @@
+{
+  "isbn": "9788954626583",
+  "captured_at": "2026-10-05T00:10:50.476119+09:00",
+  "lookup": {
+    "isbn": "9788954626583",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954626583",
+      "isbn_add_code": "73810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "돌 씹어 먹는 아이",
+      "subtitle": "",
+      "author": "송미경 글 안경미 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)문학동네",
+      "publish_year": "2014",
+      "publish_predate": "20141219",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "169 p.",
+      "book_size": "153*220mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "보름달문고 시리즈 61권. 웅진주니어 문학상 수상 작가 송미경의 단편 동화집이다. 때론 도발적으로 사건을 던지고 때론 섬세하고 치밀하게 인물의 내면을 좇으며 직조해 낸 이야기의 모자이크에서 아이들은 자신의 고민과 맞닿아 있는 퍼즐 한 조각을 문득 발견하게 될 것이다.",
+      "control_no": "CIP2014033810",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "돌 씹어 먹는 아이",
+          "weight": 9.0
+        },
+        {
+          "word": "아이들",
+          "weight": 7.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "송미경",
+          "weight": 5.0
+        },
+        {
+          "word": "광인 수술 보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "중독의 농도",
+          "weight": 3.0
+        },
+        {
+          "word": "나를 데리러 온 고양이 부부",
+          "weight": 3.0
+        },
+        {
+          "word": "어떤 아이가",
+          "weight": 3.0
+        },
+        {
+          "word": "조각",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 집에 놀러 오세요",
+          "weight": 3.0
+        },
+        {
+          "word": "공저",
+          "weight": 3.0
+        },
+        {
+          "word": "통조림 학원",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "복수의 여신",
+          "weight": 3.0
+        },
+        {
+          "word": "가정 통신문 소동",
+          "weight": 3.0
+        },
+        {
+          "word": "봄날의 곰",
+          "weight": 3.0
+        },
+        {
+          "word": "콤플렉스의 밀도",
+          "weight": 3.0
+        },
+        {
+          "word": "나의 진주 드레스",
+          "weight": 3.0
+        },
+        {
+          "word": "불안의 주파수",
+          "weight": 3.0
+        },
+        {
+          "word": "햄릿과 나",
+          "weight": 3.0
+        },
+        {
+          "word": "혀를 사 왔지",
+          "weight": 3.0
+        },
+        {
+          "word": "동화",
+          "weight": 2.0
+        },
+        {
+          "word": "아빠",
+          "weight": 2.0
+        },
+        {
+          "word": "안경미",
+          "weight": 2.0
+        },
+        {
+          "word": "영역",
+          "weight": 2.0
+        },
+        {
+          "word": "웅진주니어",
+          "weight": 2.0
+        },
+        {
+          "word": "웅진주니어문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "한국출판문화상",
+          "weight": 2.0
+        },
+        {
+          "word": "보름달문고",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "기묘",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "종이",
+          "weight": 2.0
+        },
+        {
+          "word": "퍼즐",
+          "weight": 2.0
+        },
+        {
+          "word": "2008년",
+          "weight": 2.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "데리러",
+          "weight": 1.0
+        },
+        {
+          "word": "데생해",
+          "weight": 1.0
+        },
+        {
+          "word": "단편동화",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "단편",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        }
+      ],
+      "description": "보름달문고 시리즈 61권. 웅진주니어 문학상 수상 작가 송미경의 단편 동화집이다. 때론 도발적으로 사건을 던지고 때론 섬세하고 치밀하게 인물의 내면을 좇으며 직조해 낸 이야기의 모자이크에서 아이들은 자신의 고민과 맞닿아 있는 퍼즐 한 조각을 문득 발견하게 될 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "노잣돈 갚기 프로젝트 ",
+          "isbn13": "9788954634748",
+          "authors": "김진희 글 ;손지희 그림"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "아저씨, 진짜 변호사 맞아요? ",
+          "isbn13": "9788954639019",
+          "authors": "천효정 글 ;신지수 그림"
+        },
+        {
+          "bookname": "여름이 반짝 ",
+          "isbn13": "9788954638111",
+          "authors": "김수빈 글 ;김정은 그림"
+        },
+        {
+          "bookname": "열세 번째 아이 ",
+          "isbn13": "9788954617352",
+          "authors": "이은용 글 ;이고은 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "책과 노니는 집 ",
+          "isbn13": "9788954607346",
+          "authors": "이영서 글 ;김동성 그림"
+        }
+      ],
+      "title": "돌 씹어 먹는 아이",
+      "author": "송미경 글 안경미 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "돌 씹어 먹는 아이",
+        "author": "송미경 글 안경미 그림",
+        "publisher": "(주)문학동네",
+        "publish_predate": "20141219",
+        "isbn": "9788954626583",
+        "isbn_add_code": "73810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2014033810",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "돌 씹어 먹는 아이 ",
+        "author": "송미경 글 ;안경미 그림",
+        "publisher": "문학동네",
+        "publish_year": "2014",
+        "isbn": "8954626580",
+        "isbn13": "9788954626583",
+        "isbn_add_code": "73810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "보름달문고 시리즈 61권. 웅진주니어 문학상 수상 작가 송미경의 단편 동화집이다. 때론 도발적으로 사건을 던지고 때론 섬세하고 치밀하게 인물의 내면을 좇으며 직조해 낸 이야기의 모자이크에서 아이들은 자신의 고민과 맞닿아 있는 퍼즐 한 조각을 문득 발견하게 될 것이다.",
+        "cover_url": "http://image.aladin.co.kr/product/5004/62/cover/8954626580_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "돌 씹어 먹는 아이",
+            "weight": 9.0
+          },
+          {
+            "word": "아이들",
+            "weight": 7.0
+          },
+          {
+            "word": "아이",
+            "weight": 5.0
+          },
+          {
+            "word": "송미경",
+            "weight": 5.0
+          },
+          {
+            "word": "광인 수술 보고서",
+            "weight": 3.0
+          },
+          {
+            "word": "중독의 농도",
+            "weight": 3.0
+          },
+          {
+            "word": "나를 데리러 온 고양이 부부",
+            "weight": 3.0
+          },
+          {
+            "word": "어떤 아이가",
+            "weight": 3.0
+          },
+          {
+            "word": "조각",
+            "weight": 3.0
+          },
+          {
+            "word": "우리 집에 놀러 오세요",
+            "weight": 3.0
+          },
+          {
+            "word": "공저",
+            "weight": 3.0
+          },
+          {
+            "word": "통조림 학원",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "복수의 여신",
+            "weight": 3.0
+          },
+          {
+            "word": "가정 통신문 소동",
+            "weight": 3.0
+          },
+          {
+            "word": "봄날의 곰",
+            "weight": 3.0
+          },
+          {
+            "word": "콤플렉스의 밀도",
+            "weight": 3.0
+          },
+          {
+            "word": "나의 진주 드레스",
+            "weight": 3.0
+          },
+          {
+            "word": "불안의 주파수",
+            "weight": 3.0
+          },
+          {
+            "word": "햄릿과 나",
+            "weight": 3.0
+          },
+          {
+            "word": "혀를 사 왔지",
+            "weight": 3.0
+          },
+          {
+            "word": "동화",
+            "weight": 2.0
+          },
+          {
+            "word": "아빠",
+            "weight": 2.0
+          },
+          {
+            "word": "안경미",
+            "weight": 2.0
+          },
+          {
+            "word": "영역",
+            "weight": 2.0
+          },
+          {
+            "word": "웅진주니어",
+            "weight": 2.0
+          },
+          {
+            "word": "웅진주니어문학상",
+            "weight": 2.0
+          },
+          {
+            "word": "문학동네",
+            "weight": 2.0
+          },
+          {
+            "word": "문학상",
+            "weight": 2.0
+          },
+          {
+            "word": "발견",
+            "weight": 2.0
+          },
+          {
+            "word": "한국출판문화상",
+            "weight": 2.0
+          },
+          {
+            "word": "보름달문고",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "수상",
+            "weight": 2.0
+          },
+          {
+            "word": "고양이",
+            "weight": 2.0
+          },
+          {
+            "word": "국내창작동화",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "기묘",
+            "weight": 2.0
+          },
+          {
+            "word": "엄마",
+            "weight": 2.0
+          },
+          {
+            "word": "종이",
+            "weight": 2.0
+          },
+          {
+            "word": "퍼즐",
+            "weight": 2.0
+          },
+          {
+            "word": "2008년",
+            "weight": 2.0
+          },
+          {
+            "word": "어른",
+            "weight": 2.0
+          },
+          {
+            "word": "대신",
+            "weight": 1.0
+          },
+          {
+            "word": "데리러",
+            "weight": 1.0
+          },
+          {
+            "word": "데생해",
+            "weight": 1.0
+          },
+          {
+            "word": "단편동화",
+            "weight": 1.0
+          },
+          {
+            "word": "경험",
+            "weight": 1.0
+          },
+          {
+            "word": "단편",
+            "weight": 1.0
+          },
+          {
+            "word": "희망",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "5번 레인 ",
+            "isbn13": "9788954674638",
+            "authors": "은소홀 글 ;노인경 그림"
+          },
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "노잣돈 갚기 프로젝트 ",
+            "isbn13": "9788954634748",
+            "authors": "김진희 글 ;손지희 그림"
+          },
+          {
+            "bookname": "시간 가게 ",
+            "isbn13": "9788954620260",
+            "authors": "이나영 글 ;윤정주 그림"
+          },
+          {
+            "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+            "isbn13": "9788954690690",
+            "authors": "어윤정 글 ;해마 그림"
+          },
+          {
+            "bookname": "아저씨, 진짜 변호사 맞아요? ",
+            "isbn13": "9788954639019",
+            "authors": "천효정 글 ;신지수 그림"
+          },
+          {
+            "bookname": "여름이 반짝 ",
+            "isbn13": "9788954638111",
+            "authors": "김수빈 글 ;김정은 그림"
+          },
+          {
+            "bookname": "열세 번째 아이 ",
+            "isbn13": "9788954617352",
+            "authors": "이은용 글 ;이고은 그림"
+          },
+          {
+            "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+            "isbn13": "9788936442804",
+            "authors": "지은이: 이현 ;그린이: 오윤화"
+          },
+          {
+            "bookname": "책과 노니는 집 ",
+            "isbn13": "9788954607346",
+            "authors": "이영서 글 ;김동성 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "돌 씹어 먹는 아이"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000779157",
+        "title": "돌 씹어 먹는 아이",
+        "subtitle": "",
+        "page": "169 p.",
+        "book_size": "153*220mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788954626583",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954626583",
+      "isbn_add_code": "73810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "돌 씹어 먹는 아이",
+      "subtitle": "",
+      "author": "송미경 글 안경미 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)문학동네",
+      "publish_year": "2014",
+      "publish_predate": "20141219",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "169 p.",
+      "book_size": "153*220mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "보름달문고 시리즈 61권. 웅진주니어 문학상 수상 작가 송미경의 단편 동화집이다. 때론 도발적으로 사건을 던지고 때론 섬세하고 치밀하게 인물의 내면을 좇으며 직조해 낸 이야기의 모자이크에서 아이들은 자신의 고민과 맞닿아 있는 퍼즐 한 조각을 문득 발견하게 될 것이다.",
+      "control_no": "CIP2014033810",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137011_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "돌 씹어 먹는 아이",
+          "weight": 9.0
+        },
+        {
+          "word": "아이들",
+          "weight": 7.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "송미경",
+          "weight": 5.0
+        },
+        {
+          "word": "광인 수술 보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "중독의 농도",
+          "weight": 3.0
+        },
+        {
+          "word": "나를 데리러 온 고양이 부부",
+          "weight": 3.0
+        },
+        {
+          "word": "어떤 아이가",
+          "weight": 3.0
+        },
+        {
+          "word": "조각",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 집에 놀러 오세요",
+          "weight": 3.0
+        },
+        {
+          "word": "공저",
+          "weight": 3.0
+        },
+        {
+          "word": "통조림 학원",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "복수의 여신",
+          "weight": 3.0
+        },
+        {
+          "word": "가정 통신문 소동",
+          "weight": 3.0
+        },
+        {
+          "word": "봄날의 곰",
+          "weight": 3.0
+        },
+        {
+          "word": "콤플렉스의 밀도",
+          "weight": 3.0
+        },
+        {
+          "word": "나의 진주 드레스",
+          "weight": 3.0
+        },
+        {
+          "word": "불안의 주파수",
+          "weight": 3.0
+        },
+        {
+          "word": "햄릿과 나",
+          "weight": 3.0
+        },
+        {
+          "word": "혀를 사 왔지",
+          "weight": 3.0
+        },
+        {
+          "word": "동화",
+          "weight": 2.0
+        },
+        {
+          "word": "아빠",
+          "weight": 2.0
+        },
+        {
+          "word": "안경미",
+          "weight": 2.0
+        },
+        {
+          "word": "영역",
+          "weight": 2.0
+        },
+        {
+          "word": "웅진주니어",
+          "weight": 2.0
+        },
+        {
+          "word": "웅진주니어문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "한국출판문화상",
+          "weight": 2.0
+        },
+        {
+          "word": "보름달문고",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "기묘",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "종이",
+          "weight": 2.0
+        },
+        {
+          "word": "퍼즐",
+          "weight": 2.0
+        },
+        {
+          "word": "2008년",
+          "weight": 2.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "데리러",
+          "weight": 1.0
+        },
+        {
+          "word": "데생해",
+          "weight": 1.0
+        },
+        {
+          "word": "단편동화",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "단편",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        }
+      ],
+      "description": "보름달문고 시리즈 61권. 웅진주니어 문학상 수상 작가 송미경의 단편 동화집이다. 때론 도발적으로 사건을 던지고 때론 섬세하고 치밀하게 인물의 내면을 좇으며 직조해 낸 이야기의 모자이크에서 아이들은 자신의 고민과 맞닿아 있는 퍼즐 한 조각을 문득 발견하게 될 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "노잣돈 갚기 프로젝트 ",
+          "isbn13": "9788954634748",
+          "authors": "김진희 글 ;손지희 그림"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "아저씨, 진짜 변호사 맞아요? ",
+          "isbn13": "9788954639019",
+          "authors": "천효정 글 ;신지수 그림"
+        },
+        {
+          "bookname": "여름이 반짝 ",
+          "isbn13": "9788954638111",
+          "authors": "김수빈 글 ;김정은 그림"
+        },
+        {
+          "bookname": "열세 번째 아이 ",
+          "isbn13": "9788954617352",
+          "authors": "이은용 글 ;이고은 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "책과 노니는 집 ",
+          "isbn13": "9788954607346",
+          "authors": "이영서 글 ;김동성 그림"
+        }
+      ],
+      "title": "돌 씹어 먹는 아이",
+      "author": "송미경 글 안경미 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,915 @@
+{
+  "isbn": "9788957690246",
+  "captured_at": "2026-10-04T00:18:40.674985+09:00",
+  "lookup": {
+    "isbn": "9788957690246",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788957690246",
+      "isbn_add_code": "03900",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(실록)군인 박정희",
+      "subtitle": "",
+      "author": "정운현 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "개마고원",
+      "publish_year": "2005",
+      "publish_predate": "",
+      "kdc": "340.99",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 정치학 > 정치학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "245*175mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "친일연구가이자 인터넷 신문 「오마이뉴스」의 편집국장인 지은이는 이처럼 박정희에 대한 평가가 극단적으로 엇갈리는 것은 \"양쪽 모두 박정희를 막연한 이미지로만 알고 있을 뿐 그에 대해 제대로 알고 있지 못하기 때문이다\"라고 말한다. 이 책은 이러한 문제의식 아래, 사실에 입각해 인물 박정희를 그리는 데 중점을 두었다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/014/673/01467398.jpg?type=m1&udate=20131222",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "박정희",
+          "weight": 22.0
+        },
+        {
+          "word": "독립군 토벌설",
+          "weight": 6.0
+        },
+        {
+          "word": "시절",
+          "weight": 6.0
+        },
+        {
+          "word": "군인",
+          "weight": 4.0
+        },
+        {
+          "word": "오마이뉴스",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "미화작업",
+          "weight": 3.0
+        },
+        {
+          "word": "국사교과서 편향 진술",
+          "weight": 3.0
+        },
+        {
+          "word": "황군 소위",
+          "weight": 3.0
+        },
+        {
+          "word": "혁명",
+          "weight": 3.0
+        },
+        {
+          "word": "풀어서 본 반민특위 재판기록",
+          "weight": 3.0
+        },
+        {
+          "word": "국가보안법 개폐",
+          "weight": 3.0
+        },
+        {
+          "word": "광복군",
+          "weight": 3.0
+        },
+        {
+          "word": "친일파는 살아 있다",
+          "weight": 3.0
+        },
+        {
+          "word": "군인 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀광복군 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "숙군 수사",
+          "weight": 3.0
+        },
+        {
+          "word": "실록 군인 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "알래스카 토벌작전",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 황국신민이로소이다",
+          "weight": 3.0
+        },
+        {
+          "word": "전향자 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "친일진상규명법",
+          "weight": 3.0
+        },
+        {
+          "word": "좌익 콤플렉스",
+          "weight": 3.0
+        },
+        {
+          "word": "작전명 녹두",
+          "weight": 3.0
+        },
+        {
+          "word": "임종국 평전",
+          "weight": 3.0
+        },
+        {
+          "word": "만주",
+          "weight": 3.0
+        },
+        {
+          "word": "좌익 전력의 실체",
+          "weight": 3.0
+        },
+        {
+          "word": "폭압적 독재자",
+          "weight": 3.0
+        },
+        {
+          "word": "명동 사건",
+          "weight": 3.0
+        },
+        {
+          "word": "가난을 구제한 민족의 지도자",
+          "weight": 3.0
+        },
+        {
+          "word": "육사",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "불온교사",
+          "weight": 3.0
+        },
+        {
+          "word": "박정희 좌익 전력",
+          "weight": 3.0
+        },
+        {
+          "word": "군관학교",
+          "weight": 2.0
+        },
+        {
+          "word": "논쟁",
+          "weight": 2.0
+        },
+        {
+          "word": "정운현",
+          "weight": 2.0
+        },
+        {
+          "word": "중점",
+          "weight": 2.0
+        },
+        {
+          "word": "동기생",
+          "weight": 2.0
+        },
+        {
+          "word": "생도",
+          "weight": 2.0
+        },
+        {
+          "word": "2004년 겨울",
+          "weight": 2.0
+        },
+        {
+          "word": "일본",
+          "weight": 2.0
+        },
+        {
+          "word": "졸업",
+          "weight": 2.0
+        },
+        {
+          "word": "평가",
+          "weight": 2.0
+        },
+        {
+          "word": "극단적",
+          "weight": 2.0
+        },
+        {
+          "word": "소령",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "대구사범",
+          "weight": 2.0
+        },
+        {
+          "word": "개마고원",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        }
+      ],
+      "description": "친일연구가이자 인터넷 신문 「오마이뉴스」의 편집국장인 지은이는 이처럼 박정희에 대한 평가가 극단적으로 엇갈리는 것은 \"양쪽 모두 박정희를 막연한 이미지로만 알고 있을 뿐 그에 대해 제대로 알고 있지 못하기 때문이다\"라고 말한다. 이 책은 이러한 문제의식 아래, 사실에 입각해 인물 박정희를 그리는 데 중점을 두었다.",
+      "co_loan_books": [
+        {
+          "bookname": "박정희 평전",
+          "isbn13": "9788987350905",
+          "authors": "전인권 지음"
+        }
+      ],
+      "title": "(실록)군인 박정희",
+      "author": "정운현 지음",
+      "kdc_from_api": "340.99",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(실록)군인 박정희",
+        "author": "정운현 지음",
+        "publisher": "개마고원",
+        "publish_year": "2005",
+        "isbn": "8957690247",
+        "isbn13": "9788957690246",
+        "isbn_add_code": "03900",
+        "volume": "",
+        "class_no": "340.99",
+        "class_nm": "사회과학 > 정치학 > 정치학",
+        "description": "친일연구가이자 인터넷 신문 「오마이뉴스」의 편집국장인 지은이는 이처럼 박정희에 대한 평가가 극단적으로 엇갈리는 것은 \"양쪽 모두 박정희를 막연한 이미지로만 알고 있을 뿐 그에 대해 제대로 알고 있지 못하기 때문이다\"라고 말한다. 이 책은 이러한 문제의식 아래, 사실에 입각해 인물 박정희를 그리는 데 중점을 두었다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/014/673/01467398.jpg?type=m1&udate=20131222"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "박정희",
+            "weight": 22.0
+          },
+          {
+            "word": "독립군 토벌설",
+            "weight": 6.0
+          },
+          {
+            "word": "시절",
+            "weight": 6.0
+          },
+          {
+            "word": "군인",
+            "weight": 4.0
+          },
+          {
+            "word": "오마이뉴스",
+            "weight": 4.0
+          },
+          {
+            "word": "사실",
+            "weight": 4.0
+          },
+          {
+            "word": "미화작업",
+            "weight": 3.0
+          },
+          {
+            "word": "국사교과서 편향 진술",
+            "weight": 3.0
+          },
+          {
+            "word": "황군 소위",
+            "weight": 3.0
+          },
+          {
+            "word": "혁명",
+            "weight": 3.0
+          },
+          {
+            "word": "풀어서 본 반민특위 재판기록",
+            "weight": 3.0
+          },
+          {
+            "word": "국가보안법 개폐",
+            "weight": 3.0
+          },
+          {
+            "word": "광복군",
+            "weight": 3.0
+          },
+          {
+            "word": "친일파는 살아 있다",
+            "weight": 3.0
+          },
+          {
+            "word": "군인 박정희",
+            "weight": 3.0
+          },
+          {
+            "word": "비밀광복군 박정희",
+            "weight": 3.0
+          },
+          {
+            "word": "숙군 수사",
+            "weight": 3.0
+          },
+          {
+            "word": "실록 군인 박정희",
+            "weight": 3.0
+          },
+          {
+            "word": "알래스카 토벌작전",
+            "weight": 3.0
+          },
+          {
+            "word": "나는 황국신민이로소이다",
+            "weight": 3.0
+          },
+          {
+            "word": "전향자 박정희",
+            "weight": 3.0
+          },
+          {
+            "word": "친일진상규명법",
+            "weight": 3.0
+          },
+          {
+            "word": "좌익 콤플렉스",
+            "weight": 3.0
+          },
+          {
+            "word": "작전명 녹두",
+            "weight": 3.0
+          },
+          {
+            "word": "임종국 평전",
+            "weight": 3.0
+          },
+          {
+            "word": "만주",
+            "weight": 3.0
+          },
+          {
+            "word": "좌익 전력의 실체",
+            "weight": 3.0
+          },
+          {
+            "word": "폭압적 독재자",
+            "weight": 3.0
+          },
+          {
+            "word": "명동 사건",
+            "weight": 3.0
+          },
+          {
+            "word": "가난을 구제한 민족의 지도자",
+            "weight": 3.0
+          },
+          {
+            "word": "육사",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "불온교사",
+            "weight": 3.0
+          },
+          {
+            "word": "박정희 좌익 전력",
+            "weight": 3.0
+          },
+          {
+            "word": "군관학교",
+            "weight": 2.0
+          },
+          {
+            "word": "논쟁",
+            "weight": 2.0
+          },
+          {
+            "word": "정운현",
+            "weight": 2.0
+          },
+          {
+            "word": "중점",
+            "weight": 2.0
+          },
+          {
+            "word": "동기생",
+            "weight": 2.0
+          },
+          {
+            "word": "생도",
+            "weight": 2.0
+          },
+          {
+            "word": "2004년 겨울",
+            "weight": 2.0
+          },
+          {
+            "word": "일본",
+            "weight": 2.0
+          },
+          {
+            "word": "졸업",
+            "weight": 2.0
+          },
+          {
+            "word": "평가",
+            "weight": 2.0
+          },
+          {
+            "word": "극단적",
+            "weight": 2.0
+          },
+          {
+            "word": "소령",
+            "weight": 2.0
+          },
+          {
+            "word": "교사",
+            "weight": 2.0
+          },
+          {
+            "word": "대구사범",
+            "weight": 2.0
+          },
+          {
+            "word": "개마고원",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "박정희 평전",
+            "isbn13": "9788987350905",
+            "authors": "전인권 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000856586",
+        "title": "실록 군인 박정희",
+        "subtitle": "",
+        "page": "224 p.",
+        "book_size": "245*175mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788957690246",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788957690246",
+      "isbn_add_code": "03900",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(실록)군인 박정희",
+      "subtitle": "",
+      "author": "정운현 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "개마고원",
+      "publish_year": "2005",
+      "publish_predate": "",
+      "kdc": "340.99",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 정치학 > 정치학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "245*175mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "친일연구가이자 인터넷 신문 「오마이뉴스」의 편집국장인 지은이는 이처럼 박정희에 대한 평가가 극단적으로 엇갈리는 것은 \"양쪽 모두 박정희를 막연한 이미지로만 알고 있을 뿐 그에 대해 제대로 알고 있지 못하기 때문이다\"라고 말한다. 이 책은 이러한 문제의식 아래, 사실에 입각해 인물 박정희를 그리는 데 중점을 두었다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/014/673/01467398.jpg?type=m1&udate=20131222",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "박정희",
+          "weight": 22.0
+        },
+        {
+          "word": "독립군 토벌설",
+          "weight": 6.0
+        },
+        {
+          "word": "시절",
+          "weight": 6.0
+        },
+        {
+          "word": "군인",
+          "weight": 4.0
+        },
+        {
+          "word": "오마이뉴스",
+          "weight": 4.0
+        },
+        {
+          "word": "사실",
+          "weight": 4.0
+        },
+        {
+          "word": "미화작업",
+          "weight": 3.0
+        },
+        {
+          "word": "국사교과서 편향 진술",
+          "weight": 3.0
+        },
+        {
+          "word": "황군 소위",
+          "weight": 3.0
+        },
+        {
+          "word": "혁명",
+          "weight": 3.0
+        },
+        {
+          "word": "풀어서 본 반민특위 재판기록",
+          "weight": 3.0
+        },
+        {
+          "word": "국가보안법 개폐",
+          "weight": 3.0
+        },
+        {
+          "word": "광복군",
+          "weight": 3.0
+        },
+        {
+          "word": "친일파는 살아 있다",
+          "weight": 3.0
+        },
+        {
+          "word": "군인 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀광복군 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "숙군 수사",
+          "weight": 3.0
+        },
+        {
+          "word": "실록 군인 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "알래스카 토벌작전",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 황국신민이로소이다",
+          "weight": 3.0
+        },
+        {
+          "word": "전향자 박정희",
+          "weight": 3.0
+        },
+        {
+          "word": "친일진상규명법",
+          "weight": 3.0
+        },
+        {
+          "word": "좌익 콤플렉스",
+          "weight": 3.0
+        },
+        {
+          "word": "작전명 녹두",
+          "weight": 3.0
+        },
+        {
+          "word": "임종국 평전",
+          "weight": 3.0
+        },
+        {
+          "word": "만주",
+          "weight": 3.0
+        },
+        {
+          "word": "좌익 전력의 실체",
+          "weight": 3.0
+        },
+        {
+          "word": "폭압적 독재자",
+          "weight": 3.0
+        },
+        {
+          "word": "명동 사건",
+          "weight": 3.0
+        },
+        {
+          "word": "가난을 구제한 민족의 지도자",
+          "weight": 3.0
+        },
+        {
+          "word": "육사",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "불온교사",
+          "weight": 3.0
+        },
+        {
+          "word": "박정희 좌익 전력",
+          "weight": 3.0
+        },
+        {
+          "word": "군관학교",
+          "weight": 2.0
+        },
+        {
+          "word": "논쟁",
+          "weight": 2.0
+        },
+        {
+          "word": "정운현",
+          "weight": 2.0
+        },
+        {
+          "word": "중점",
+          "weight": 2.0
+        },
+        {
+          "word": "동기생",
+          "weight": 2.0
+        },
+        {
+          "word": "생도",
+          "weight": 2.0
+        },
+        {
+          "word": "2004년 겨울",
+          "weight": 2.0
+        },
+        {
+          "word": "일본",
+          "weight": 2.0
+        },
+        {
+          "word": "졸업",
+          "weight": 2.0
+        },
+        {
+          "word": "평가",
+          "weight": 2.0
+        },
+        {
+          "word": "극단적",
+          "weight": 2.0
+        },
+        {
+          "word": "소령",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "대구사범",
+          "weight": 2.0
+        },
+        {
+          "word": "개마고원",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        }
+      ],
+      "description": "친일연구가이자 인터넷 신문 「오마이뉴스」의 편집국장인 지은이는 이처럼 박정희에 대한 평가가 극단적으로 엇갈리는 것은 \"양쪽 모두 박정희를 막연한 이미지로만 알고 있을 뿐 그에 대해 제대로 알고 있지 못하기 때문이다\"라고 말한다. 이 책은 이러한 문제의식 아래, 사실에 입각해 인물 박정희를 그리는 데 중점을 두었다.",
+      "co_loan_books": [
+        {
+          "bookname": "박정희 평전",
+          "isbn13": "9788987350905",
+          "authors": "전인권 지음"
+        }
+      ],
+      "title": "(실록)군인 박정희",
+      "author": "정운현 지음",
+      "kdc_from_api": "340.99",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

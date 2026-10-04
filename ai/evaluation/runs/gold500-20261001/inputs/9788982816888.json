@@ -1,0 +1,1056 @@
+{
+  "isbn": "9788982816888",
+  "captured_at": "2026-10-05T00:10:07.197138+09:00",
+  "lookup": {
+    "isbn": "9788982816888",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788982816888",
+      "isbn_add_code": "77840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "점",
+      "subtitle": "양장본 Hardcover",
+      "author": "피터 레이놀즈 글·그림;김지효 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2003",
+      "publish_predate": "",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "212*200mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "그림을 그리기 싫어하는 아이 베티를 통해 그림을 잘 그리는 법이 따로 있는 것이 아니라 자신이 하고 싶은 대로 마음껏 표현하는 것이라고 말해주는 그림책이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/44/23/cover/8982816887_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "베티",
+          "weight": 19.0
+        },
+        {
+          "word": "그림",
+          "weight": 15.0
+        },
+        {
+          "word": "미술",
+          "weight": 7.0
+        },
+        {
+          "word": "예술가",
+          "weight": 7.0
+        },
+        {
+          "word": "꼬마",
+          "weight": 7.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "도화지",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "선생님",
+          "weight": 5.0
+        },
+        {
+          "word": "아이들",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "화가",
+          "weight": 4.0
+        },
+        {
+          "word": "그린",
+          "weight": 4.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "대로",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "대부분",
+          "weight": 2.0
+        },
+        {
+          "word": "소품",
+          "weight": 2.0
+        },
+        {
+          "word": "현장",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "텍스트",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "점들",
+          "weight": 2.0
+        },
+        {
+          "word": "자신감",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "배경",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "물감",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "고백",
+          "weight": 2.0
+        },
+        {
+          "word": "소질",
+          "weight": 2.0
+        },
+        {
+          "word": "표현",
+          "weight": 2.0
+        },
+        {
+          "word": "감동",
+          "weight": 2.0
+        },
+        {
+          "word": "간명",
+          "weight": 2.0
+        },
+        {
+          "word": "가슴",
+          "weight": 2.0
+        },
+        {
+          "word": "생략",
+          "weight": 2.0
+        },
+        {
+          "word": "3 7세 호기심 즐거움",
+          "weight": 2.0
+        },
+        {
+          "word": "피터 레이놀즈",
+          "weight": 2.0
+        },
+        {
+          "word": "교육",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        },
+        {
+          "word": "필요",
+          "weight": 2.0
+        },
+        {
+          "word": "김지효",
+          "weight": 2.0
+        },
+        {
+          "word": "쓱쓱",
+          "weight": 2.0
+        },
+        {
+          "word": "그리지",
+          "weight": 2.0
+        },
+        {
+          "word": "그리기",
+          "weight": 2.0
+        },
+        {
+          "word": "다름",
+          "weight": 1.0
+        },
+        {
+          "word": "눈보라",
+          "weight": 1.0
+        },
+        {
+          "word": "다음",
+          "weight": 1.0
+        }
+      ],
+      "description": "그림을 그리기 싫어하는 아이 베티를 통해 그림을 잘 그리는 법이 따로 있는 것이 아니라 자신이 하고 싶은 대로 마음껏 표현하는 것이라고 말해주는 그림책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "느끼는 대로",
+          "isbn13": "9788982818240",
+          "authors": "피터 레이놀즈 글·그림;엄혜숙 옮김"
+        },
+        {
+          "bookname": "단어수집가 ",
+          "isbn13": "9788954651721",
+          "authors": "피터 레이놀즈 글·그림 ;김경연 옮김"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "지각대장 존 ",
+          "isbn13": "9788949110073",
+          "authors": "존 버닝햄 글·그림 ;박상희 옮김"
+        },
+        {
+          "bookname": "종이 봉지 공주",
+          "isbn13": "9788949110479",
+          "authors": "로버트 먼치"
+        },
+        {
+          "bookname": "고구마구마 ",
+          "isbn13": "9788956187372",
+          "authors": "지은이: 사이다"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "점",
+      "author": "피터 레이놀즈 글·그림;김지효 옮김",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "점",
+        "author": "피터 레이놀즈 글·그림;김지효 옮김",
+        "publisher": "문학동네",
+        "publish_year": "2003",
+        "isbn": "8982816887",
+        "isbn13": "9788982816888",
+        "isbn_add_code": "77840",
+        "volume": "",
+        "class_no": "843",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "그림을 그리기 싫어하는 아이 베티를 통해 그림을 잘 그리는 법이 따로 있는 것이 아니라 자신이 하고 싶은 대로 마음껏 표현하는 것이라고 말해주는 그림책이다.",
+        "cover_url": "http://image.aladin.co.kr/product/44/23/cover/8982816887_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "베티",
+            "weight": 19.0
+          },
+          {
+            "word": "그림",
+            "weight": 15.0
+          },
+          {
+            "word": "미술",
+            "weight": 7.0
+          },
+          {
+            "word": "예술가",
+            "weight": 7.0
+          },
+          {
+            "word": "꼬마",
+            "weight": 7.0
+          },
+          {
+            "word": "시간",
+            "weight": 6.0
+          },
+          {
+            "word": "생각",
+            "weight": 5.0
+          },
+          {
+            "word": "도화지",
+            "weight": 5.0
+          },
+          {
+            "word": "아이",
+            "weight": 5.0
+          },
+          {
+            "word": "선생님",
+            "weight": 5.0
+          },
+          {
+            "word": "아이들",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 4.0
+          },
+          {
+            "word": "화가",
+            "weight": 4.0
+          },
+          {
+            "word": "그린",
+            "weight": 4.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "대로",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "대부분",
+            "weight": 2.0
+          },
+          {
+            "word": "소품",
+            "weight": 2.0
+          },
+          {
+            "word": "현장",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "텍스트",
+            "weight": 2.0
+          },
+          {
+            "word": "탄생",
+            "weight": 2.0
+          },
+          {
+            "word": "점들",
+            "weight": 2.0
+          },
+          {
+            "word": "자신감",
+            "weight": 2.0
+          },
+          {
+            "word": "문학동네",
+            "weight": 2.0
+          },
+          {
+            "word": "배경",
+            "weight": 2.0
+          },
+          {
+            "word": "인물",
+            "weight": 2.0
+          },
+          {
+            "word": "물감",
+            "weight": 2.0
+          },
+          {
+            "word": "단숨",
+            "weight": 2.0
+          },
+          {
+            "word": "자기",
+            "weight": 2.0
+          },
+          {
+            "word": "고백",
+            "weight": 2.0
+          },
+          {
+            "word": "소질",
+            "weight": 2.0
+          },
+          {
+            "word": "표현",
+            "weight": 2.0
+          },
+          {
+            "word": "감동",
+            "weight": 2.0
+          },
+          {
+            "word": "간명",
+            "weight": 2.0
+          },
+          {
+            "word": "가슴",
+            "weight": 2.0
+          },
+          {
+            "word": "생략",
+            "weight": 2.0
+          },
+          {
+            "word": "3 7세 호기심 즐거움",
+            "weight": 2.0
+          },
+          {
+            "word": "피터 레이놀즈",
+            "weight": 2.0
+          },
+          {
+            "word": "교육",
+            "weight": 2.0
+          },
+          {
+            "word": "예술",
+            "weight": 2.0
+          },
+          {
+            "word": "필요",
+            "weight": 2.0
+          },
+          {
+            "word": "김지효",
+            "weight": 2.0
+          },
+          {
+            "word": "쓱쓱",
+            "weight": 2.0
+          },
+          {
+            "word": "그리지",
+            "weight": 2.0
+          },
+          {
+            "word": "그리기",
+            "weight": 2.0
+          },
+          {
+            "word": "다름",
+            "weight": 1.0
+          },
+          {
+            "word": "눈보라",
+            "weight": 1.0
+          },
+          {
+            "word": "다음",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "느끼는 대로",
+            "isbn13": "9788982818240",
+            "authors": "피터 레이놀즈 글·그림;엄혜숙 옮김"
+          },
+          {
+            "bookname": "단어수집가 ",
+            "isbn13": "9788954651721",
+            "authors": "피터 레이놀즈 글·그림 ;김경연 옮김"
+          },
+          {
+            "bookname": "알사탕 ",
+            "isbn13": "9791158360375",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "팥빙수의 전설 :이지은 그림책 ",
+            "isbn13": "9788901232232",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "지각대장 존 ",
+            "isbn13": "9788949110073",
+            "authors": "존 버닝햄 글·그림 ;박상희 옮김"
+          },
+          {
+            "bookname": "종이 봉지 공주",
+            "isbn13": "9788949110479",
+            "authors": "로버트 먼치"
+          },
+          {
+            "bookname": "고구마구마 ",
+            "isbn13": "9788956187372",
+            "authors": "지은이: 사이다"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "점"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001280134",
+        "title": "점",
+        "subtitle": "양장본 Hardcover",
+        "page": "32 p.",
+        "book_size": "212*200mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788982816888",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788982816888",
+      "isbn_add_code": "77840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "점",
+      "subtitle": "양장본 Hardcover",
+      "author": "피터 레이놀즈 글·그림;김지효 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2003",
+      "publish_predate": "",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "212*200mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "그림을 그리기 싫어하는 아이 베티를 통해 그림을 잘 그리는 법이 따로 있는 것이 아니라 자신이 하고 싶은 대로 마음껏 표현하는 것이라고 말해주는 그림책이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/44/23/cover/8982816887_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "베티",
+          "weight": 19.0
+        },
+        {
+          "word": "그림",
+          "weight": 15.0
+        },
+        {
+          "word": "미술",
+          "weight": 7.0
+        },
+        {
+          "word": "예술가",
+          "weight": 7.0
+        },
+        {
+          "word": "꼬마",
+          "weight": 7.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "도화지",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "선생님",
+          "weight": 5.0
+        },
+        {
+          "word": "아이들",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "화가",
+          "weight": 4.0
+        },
+        {
+          "word": "그린",
+          "weight": 4.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "대로",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "대부분",
+          "weight": 2.0
+        },
+        {
+          "word": "소품",
+          "weight": 2.0
+        },
+        {
+          "word": "현장",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "텍스트",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "점들",
+          "weight": 2.0
+        },
+        {
+          "word": "자신감",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "배경",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "물감",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "고백",
+          "weight": 2.0
+        },
+        {
+          "word": "소질",
+          "weight": 2.0
+        },
+        {
+          "word": "표현",
+          "weight": 2.0
+        },
+        {
+          "word": "감동",
+          "weight": 2.0
+        },
+        {
+          "word": "간명",
+          "weight": 2.0
+        },
+        {
+          "word": "가슴",
+          "weight": 2.0
+        },
+        {
+          "word": "생략",
+          "weight": 2.0
+        },
+        {
+          "word": "3 7세 호기심 즐거움",
+          "weight": 2.0
+        },
+        {
+          "word": "피터 레이놀즈",
+          "weight": 2.0
+        },
+        {
+          "word": "교육",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        },
+        {
+          "word": "필요",
+          "weight": 2.0
+        },
+        {
+          "word": "김지효",
+          "weight": 2.0
+        },
+        {
+          "word": "쓱쓱",
+          "weight": 2.0
+        },
+        {
+          "word": "그리지",
+          "weight": 2.0
+        },
+        {
+          "word": "그리기",
+          "weight": 2.0
+        },
+        {
+          "word": "다름",
+          "weight": 1.0
+        },
+        {
+          "word": "눈보라",
+          "weight": 1.0
+        },
+        {
+          "word": "다음",
+          "weight": 1.0
+        }
+      ],
+      "description": "그림을 그리기 싫어하는 아이 베티를 통해 그림을 잘 그리는 법이 따로 있는 것이 아니라 자신이 하고 싶은 대로 마음껏 표현하는 것이라고 말해주는 그림책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "느끼는 대로",
+          "isbn13": "9788982818240",
+          "authors": "피터 레이놀즈 글·그림;엄혜숙 옮김"
+        },
+        {
+          "bookname": "단어수집가 ",
+          "isbn13": "9788954651721",
+          "authors": "피터 레이놀즈 글·그림 ;김경연 옮김"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "지각대장 존 ",
+          "isbn13": "9788949110073",
+          "authors": "존 버닝햄 글·그림 ;박상희 옮김"
+        },
+        {
+          "bookname": "종이 봉지 공주",
+          "isbn13": "9788949110479",
+          "authors": "로버트 먼치"
+        },
+        {
+          "bookname": "고구마구마 ",
+          "isbn13": "9788956187372",
+          "authors": "지은이: 사이다"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "점",
+      "author": "피터 레이놀즈 글·그림;김지효 옮김",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

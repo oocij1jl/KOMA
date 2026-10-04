@@ -1,0 +1,1090 @@
+{
+  "isbn": "9788931009521",
+  "captured_at": "2026-10-04T00:16:18.535546+09:00",
+  "lookup": {
+    "isbn": "9788931009521",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788931009521",
+      "isbn_add_code": "03890",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8000",
+      "title": "사람은 무엇으로 사는가",
+      "subtitle": "톨스토이 단편선",
+      "author": "톨스토이 지음 ;이순영 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문예출판사",
+      "publish_year": "2015",
+      "publish_predate": "20150630",
+      "kdc": "892.83",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 기타 제문학 > 인도-유럽계문학",
+      "ddc": "891.733",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "140*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "문예 세계문학선 118권. 19세기 러시아문학을 대표하는 세계적 문호이자 대사상가인 톨스토이의 중.단편 약 50편 가운데 가장 대표적인 10편을 선별해 엮은 톨스토이 단편선. 영어로 번역된 책을 재번역한 것이 아닌 러시아 원전을 직접 번역한 것으로 원작의 의미를 더욱 충실히 전달한 의미 있는 작품이다.",
+      "control_no": "CIP2015014437",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "톨스토이",
+          "weight": 15.0
+        },
+        {
+          "word": "러시아",
+          "weight": 10.0
+        },
+        {
+          "word": "사람은 무엇으로 사는가",
+          "weight": 9.0
+        },
+        {
+          "word": "세계적",
+          "weight": 6.0
+        },
+        {
+          "word": "문호",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "번역",
+          "weight": 4.0
+        },
+        {
+          "word": "인생에 대하여",
+          "weight": 3.0
+        },
+        {
+          "word": "톨스토이주의",
+          "weight": 3.0
+        },
+        {
+          "word": "단편선",
+          "weight": 3.0
+        },
+        {
+          "word": "야스",
+          "weight": 3.0
+        },
+        {
+          "word": "교육",
+          "weight": 3.0
+        },
+        {
+          "word": "사회",
+          "weight": 3.0
+        },
+        {
+          "word": "고백",
+          "weight": 3.0
+        },
+        {
+          "word": "10년간",
+          "weight": 3.0
+        },
+        {
+          "word": "안나 카레니나",
+          "weight": 3.0
+        },
+        {
+          "word": "문예출판사",
+          "weight": 3.0
+        },
+        {
+          "word": "어린 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁과 평화",
+          "weight": 3.0
+        },
+        {
+          "word": "예술론",
+          "weight": 3.0
+        },
+        {
+          "word": "문화",
+          "weight": 2.0
+        },
+        {
+          "word": "전달",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "재번역",
+          "weight": 2.0
+        },
+        {
+          "word": "대표적",
+          "weight": 2.0
+        },
+        {
+          "word": "대표",
+          "weight": 2.0
+        },
+        {
+          "word": "단편",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "대사상가",
+          "weight": 2.0
+        },
+        {
+          "word": "영어",
+          "weight": 2.0
+        },
+        {
+          "word": "농민",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "10편",
+          "weight": 2.0
+        },
+        {
+          "word": "러시아문학",
+          "weight": 2.0
+        },
+        {
+          "word": "러시아소설",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "지혜",
+          "weight": 2.0
+        },
+        {
+          "word": "문예",
+          "weight": 2.0
+        },
+        {
+          "word": "19세기",
+          "weight": 2.0
+        },
+        {
+          "word": "이순영",
+          "weight": 2.0
+        },
+        {
+          "word": "50편",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "선별",
+          "weight": 2.0
+        },
+        {
+          "word": "원작",
+          "weight": 2.0
+        },
+        {
+          "word": "위대",
+          "weight": 2.0
+        },
+        {
+          "word": "종교",
+          "weight": 2.0
+        },
+        {
+          "word": "충실",
+          "weight": 2.0
+        },
+        {
+          "word": "극복",
+          "weight": 2.0
+        },
+        {
+          "word": "노동",
+          "weight": 2.0
+        }
+      ],
+      "description": "문예 세계문학선 118권. 19세기 러시아문학을 대표하는 세계적 문호이자 대사상가인 톨스토이의 중.단편 약 50편 가운데 가장 대표적인 10편을 선별해 엮은 톨스토이 단편선. 영어로 번역된 책을 재번역한 것이 아닌 러시아 원전을 직접 번역한 것으로 원작의 의미를 더욱 충실히 전달한 의미 있는 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "이반 일리치의 죽음 ",
+          "isbn13": "9788931010046",
+          "authors": "톨스토이 지음 ;이순영 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        }
+      ],
+      "title": "사람은 무엇으로 사는가",
+      "author": "톨스토이 지음 ;이순영 옮김",
+      "kdc_from_api": "892.83",
+      "ddc_from_api": "891.733",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견",
+          "'번역' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "사람은 무엇으로 사는가",
+        "author": "레프 톨스토이/이순영 옮김",
+        "publisher": "문예출판사",
+        "publish_predate": "20150630",
+        "isbn": "9788931009521",
+        "isbn_add_code": "03890",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩8000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "892.83",
+        "ddc": "891.733",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015014437",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "사람은 무엇으로 사는가 :톨스토이 단편선 ",
+        "author": "톨스토이 지음 ;이순영 옮김",
+        "publisher": "문예출판사",
+        "publish_year": "2015",
+        "isbn": "8931009526",
+        "isbn13": "9788931009521",
+        "isbn_add_code": "03890",
+        "volume": "",
+        "class_no": "892.83",
+        "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+        "description": "문예 세계문학선 118권. 19세기 러시아문학을 대표하는 세계적 문호이자 대사상가인 톨스토이의 중.단편 약 50편 가운데 가장 대표적인 10편을 선별해 엮은 톨스토이 단편선. 영어로 번역된 책을 재번역한 것이 아닌 러시아 원전을 직접 번역한 것으로 원작의 의미를 더욱 충실히 전달한 의미 있는 작품이다.",
+        "cover_url": "http://image.aladin.co.kr/product/6209/14/cover/8931009526_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "톨스토이",
+            "weight": 15.0
+          },
+          {
+            "word": "러시아",
+            "weight": 10.0
+          },
+          {
+            "word": "사람은 무엇으로 사는가",
+            "weight": 9.0
+          },
+          {
+            "word": "세계적",
+            "weight": 6.0
+          },
+          {
+            "word": "문호",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "의미",
+            "weight": 4.0
+          },
+          {
+            "word": "번역",
+            "weight": 4.0
+          },
+          {
+            "word": "인생에 대하여",
+            "weight": 3.0
+          },
+          {
+            "word": "톨스토이주의",
+            "weight": 3.0
+          },
+          {
+            "word": "단편선",
+            "weight": 3.0
+          },
+          {
+            "word": "야스",
+            "weight": 3.0
+          },
+          {
+            "word": "교육",
+            "weight": 3.0
+          },
+          {
+            "word": "사회",
+            "weight": 3.0
+          },
+          {
+            "word": "고백",
+            "weight": 3.0
+          },
+          {
+            "word": "10년간",
+            "weight": 3.0
+          },
+          {
+            "word": "안나 카레니나",
+            "weight": 3.0
+          },
+          {
+            "word": "문예출판사",
+            "weight": 3.0
+          },
+          {
+            "word": "어린 시절",
+            "weight": 3.0
+          },
+          {
+            "word": "전쟁과 평화",
+            "weight": 3.0
+          },
+          {
+            "word": "예술론",
+            "weight": 3.0
+          },
+          {
+            "word": "문화",
+            "weight": 2.0
+          },
+          {
+            "word": "전달",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "재번역",
+            "weight": 2.0
+          },
+          {
+            "word": "대표적",
+            "weight": 2.0
+          },
+          {
+            "word": "대표",
+            "weight": 2.0
+          },
+          {
+            "word": "단편",
+            "weight": 2.0
+          },
+          {
+            "word": "다양",
+            "weight": 2.0
+          },
+          {
+            "word": "대사상가",
+            "weight": 2.0
+          },
+          {
+            "word": "영어",
+            "weight": 2.0
+          },
+          {
+            "word": "농민",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "10편",
+            "weight": 2.0
+          },
+          {
+            "word": "러시아문학",
+            "weight": 2.0
+          },
+          {
+            "word": "러시아소설",
+            "weight": 2.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 2.0
+          },
+          {
+            "word": "지혜",
+            "weight": 2.0
+          },
+          {
+            "word": "문예",
+            "weight": 2.0
+          },
+          {
+            "word": "19세기",
+            "weight": 2.0
+          },
+          {
+            "word": "이순영",
+            "weight": 2.0
+          },
+          {
+            "word": "50편",
+            "weight": 2.0
+          },
+          {
+            "word": "가운데",
+            "weight": 2.0
+          },
+          {
+            "word": "선별",
+            "weight": 2.0
+          },
+          {
+            "word": "원작",
+            "weight": 2.0
+          },
+          {
+            "word": "위대",
+            "weight": 2.0
+          },
+          {
+            "word": "종교",
+            "weight": 2.0
+          },
+          {
+            "word": "충실",
+            "weight": 2.0
+          },
+          {
+            "word": "극복",
+            "weight": 2.0
+          },
+          {
+            "word": "노동",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "채식주의자:한강 연작소설",
+            "isbn13": "9788936433598",
+            "authors": "한강"
+          },
+          {
+            "bookname": "호밀밭의 파수꾼 ",
+            "isbn13": "9788937460470",
+            "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+          },
+          {
+            "bookname": "이반 일리치의 죽음 ",
+            "isbn13": "9788931010046",
+            "authors": "톨스토이 지음 ;이순영 옮김"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "사람은 무엇으로 사는가"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000549141",
+        "title": "사람은 무엇으로 사는가",
+        "subtitle": "톨스토이 단편선",
+        "page": "256 p.",
+        "book_size": "140*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788931009521",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788931009521",
+      "isbn_add_code": "03890",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8000",
+      "title": "사람은 무엇으로 사는가",
+      "subtitle": "톨스토이 단편선",
+      "author": "톨스토이 지음 ;이순영 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문예출판사",
+      "publish_year": "2015",
+      "publish_predate": "20150630",
+      "kdc": "892.83",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 기타 제문학 > 인도-유럽계문학",
+      "ddc": "891.733",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "140*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "문예 세계문학선 118권. 19세기 러시아문학을 대표하는 세계적 문호이자 대사상가인 톨스토이의 중.단편 약 50편 가운데 가장 대표적인 10편을 선별해 엮은 톨스토이 단편선. 영어로 번역된 책을 재번역한 것이 아닌 러시아 원전을 직접 번역한 것으로 원작의 의미를 더욱 충실히 전달한 의미 있는 작품이다.",
+      "control_no": "CIP2015014437",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4604870_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "톨스토이",
+          "weight": 15.0
+        },
+        {
+          "word": "러시아",
+          "weight": 10.0
+        },
+        {
+          "word": "사람은 무엇으로 사는가",
+          "weight": 9.0
+        },
+        {
+          "word": "세계적",
+          "weight": 6.0
+        },
+        {
+          "word": "문호",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "번역",
+          "weight": 4.0
+        },
+        {
+          "word": "인생에 대하여",
+          "weight": 3.0
+        },
+        {
+          "word": "톨스토이주의",
+          "weight": 3.0
+        },
+        {
+          "word": "단편선",
+          "weight": 3.0
+        },
+        {
+          "word": "야스",
+          "weight": 3.0
+        },
+        {
+          "word": "교육",
+          "weight": 3.0
+        },
+        {
+          "word": "사회",
+          "weight": 3.0
+        },
+        {
+          "word": "고백",
+          "weight": 3.0
+        },
+        {
+          "word": "10년간",
+          "weight": 3.0
+        },
+        {
+          "word": "안나 카레니나",
+          "weight": 3.0
+        },
+        {
+          "word": "문예출판사",
+          "weight": 3.0
+        },
+        {
+          "word": "어린 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁과 평화",
+          "weight": 3.0
+        },
+        {
+          "word": "예술론",
+          "weight": 3.0
+        },
+        {
+          "word": "문화",
+          "weight": 2.0
+        },
+        {
+          "word": "전달",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "재번역",
+          "weight": 2.0
+        },
+        {
+          "word": "대표적",
+          "weight": 2.0
+        },
+        {
+          "word": "대표",
+          "weight": 2.0
+        },
+        {
+          "word": "단편",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "대사상가",
+          "weight": 2.0
+        },
+        {
+          "word": "영어",
+          "weight": 2.0
+        },
+        {
+          "word": "농민",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "10편",
+          "weight": 2.0
+        },
+        {
+          "word": "러시아문학",
+          "weight": 2.0
+        },
+        {
+          "word": "러시아소설",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "지혜",
+          "weight": 2.0
+        },
+        {
+          "word": "문예",
+          "weight": 2.0
+        },
+        {
+          "word": "19세기",
+          "weight": 2.0
+        },
+        {
+          "word": "이순영",
+          "weight": 2.0
+        },
+        {
+          "word": "50편",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "선별",
+          "weight": 2.0
+        },
+        {
+          "word": "원작",
+          "weight": 2.0
+        },
+        {
+          "word": "위대",
+          "weight": 2.0
+        },
+        {
+          "word": "종교",
+          "weight": 2.0
+        },
+        {
+          "word": "충실",
+          "weight": 2.0
+        },
+        {
+          "word": "극복",
+          "weight": 2.0
+        },
+        {
+          "word": "노동",
+          "weight": 2.0
+        }
+      ],
+      "description": "문예 세계문학선 118권. 19세기 러시아문학을 대표하는 세계적 문호이자 대사상가인 톨스토이의 중.단편 약 50편 가운데 가장 대표적인 10편을 선별해 엮은 톨스토이 단편선. 영어로 번역된 책을 재번역한 것이 아닌 러시아 원전을 직접 번역한 것으로 원작의 의미를 더욱 충실히 전달한 의미 있는 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "이반 일리치의 죽음 ",
+          "isbn13": "9788931010046",
+          "authors": "톨스토이 지음 ;이순영 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        }
+      ],
+      "title": "사람은 무엇으로 사는가",
+      "author": "톨스토이 지음 ;이순영 옮김",
+      "kdc_from_api": "892.83",
+      "ddc_from_api": "891.733",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견",
+          "'번역' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

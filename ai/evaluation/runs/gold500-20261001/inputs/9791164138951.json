@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791164138951",
+  "captured_at": "2026-10-03T00:23:05.337441+09:00",
+  "lookup": {
+    "isbn": "9791164138951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164138951",
+      "isbn_add_code": "77400",
+      "set_isbn": "9791164138944",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "내일은 실험왕",
+      "subtitle": "본격 대결 과학실험 만화",
+      "author": "글: 스토리 a. ;그림: 홍종현",
+      "volume": "01",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2021",
+      "publish_predate": "20210831",
+      "kdc": "400",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 자연과학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "[세트]내일은 실험왕(시즌2) ",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽고 재미있게 전달하는 실험 대결 만화이다. 개성 만점 주인공들이 펼치는 박진감 넘치는 실험 대결을 통해, 초등학교와 중학교 교과서에 수록된 다양한 과학 이론과 용어들을 쉽고 재미있게 설명하고 있어 과학에 대한 흥미와... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27838/90/cover/k802734783_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "과학",
+          "weight": 45.0
+        },
+        {
+          "word": "실험",
+          "weight": 15.0
+        },
+        {
+          "word": "POINT",
+          "weight": 11.0
+        },
+        {
+          "word": "개념",
+          "weight": 7.0
+        },
+        {
+          "word": "혁명",
+          "weight": 7.0
+        },
+        {
+          "word": "내일은 실험왕",
+          "weight": 6.0
+        },
+        {
+          "word": "아이들",
+          "weight": 6.0
+        },
+        {
+          "word": "분자",
+          "weight": 6.0
+        },
+        {
+          "word": "미래",
+          "weight": 6.0
+        },
+        {
+          "word": "현실",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "대결",
+          "weight": 5.0
+        },
+        {
+          "word": "4차",
+          "weight": 5.0
+        },
+        {
+          "word": "산업",
+          "weight": 5.0
+        },
+        {
+          "word": "용어",
+          "weight": 4.0
+        },
+        {
+          "word": "실험반",
+          "weight": 4.0
+        },
+        {
+          "word": "이론",
+          "weight": 4.0
+        },
+        {
+          "word": "키트",
+          "weight": 3.0
+        },
+        {
+          "word": "수록",
+          "weight": 3.0
+        },
+        {
+          "word": "어쩌다 어른",
+          "weight": 3.0
+        },
+        {
+          "word": "박진감",
+          "weight": 3.0
+        },
+        {
+          "word": "원리",
+          "weight": 3.0
+        },
+        {
+          "word": "탐구심",
+          "weight": 3.0
+        },
+        {
+          "word": "차이나는 클라스",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "시즌",
+          "weight": 3.0
+        },
+        {
+          "word": "명견만리",
+          "weight": 3.0
+        },
+        {
+          "word": "공생 멸종 진화",
+          "weight": 3.0
+        },
+        {
+          "word": "체험",
+          "weight": 3.0
+        },
+        {
+          "word": "달력과 권력",
+          "weight": 3.0
+        },
+        {
+          "word": "관장",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "증강",
+          "weight": 3.0
+        },
+        {
+          "word": "흥미",
+          "weight": 3.0
+        },
+        {
+          "word": "3D",
+          "weight": 3.0
+        },
+        {
+          "word": "科學",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "가상",
+          "weight": 2.0
+        },
+        {
+          "word": "단순",
+          "weight": 2.0
+        },
+        {
+          "word": "경제",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "밀도",
+          "weight": 2.0
+        },
+        {
+          "word": "선생님",
+          "weight": 2.0
+        },
+        {
+          "word": "극성",
+          "weight": 2.0
+        },
+        {
+          "word": "사전",
+          "weight": 2.0
+        },
+        {
+          "word": "관찰",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽고 재미있게 전달하는 실험 대결 만화이다. 개성 만점 주인공들이 펼치는 박진감 넘치는 실험 대결을 통해, 초등학교와 중학교 교과서에 수록된 다양한 과학 이론과 용어들을 쉽고 재미있게 설명하고 있어 과학에 대한 흥미와... ",
+      "co_loan_books": [
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168410794",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168411395",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168412552",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168411876",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168415317",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164135790",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168416338",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164134991",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164133673",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164132140",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        }
+      ],
+      "title": "내일은 실험왕",
+      "author": "글: 스토리 a. ;그림: 홍종현",
+      "kdc_from_api": "400",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "내일은 실험왕",
+        "author": "글: 스토리 a. ;그림: 홍종현",
+        "publisher": "Mirae N 아이세움 :미래엔",
+        "publish_predate": "20210831",
+        "isbn": "9791164138951",
+        "isbn_add_code": "77400",
+        "set_isbn": "9791164138944",
+        "set_add_code": "77400 ",
+        "set_expression": "",
+        "price": "₩14500",
+        "edition_stmt": "",
+        "series_title": "[세트]내일은 실험왕(시즌2) ",
+        "series_no": "",
+        "volume": "01",
+        "page": "162 p.",
+        "book_size": "188*257",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+        "author": "글: 스토리 a. ;그림: 홍종현",
+        "publisher": "미래엔",
+        "publish_year": "2021",
+        "isbn": "1164138952",
+        "isbn13": "9791164138951",
+        "isbn_add_code": "77400",
+        "volume": "01",
+        "class_no": "400",
+        "class_nm": "자연과학 > 자연과학 > 자연과학",
+        "description": "초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽고 재미있게 전달하는 실험 대결 만화이다. 개성 만점 주인공들이 펼치는 박진감 넘치는 실험 대결을 통해, 초등학교와 중학교 교과서에 수록된 다양한 과학 이론과 용어들을 쉽고 재미있게 설명하고 있어 과학에 대한 흥미와... ",
+        "cover_url": "https://image.aladin.co.kr/product/27838/90/cover/k802734783_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "과학",
+            "weight": 45.0
+          },
+          {
+            "word": "실험",
+            "weight": 15.0
+          },
+          {
+            "word": "POINT",
+            "weight": 11.0
+          },
+          {
+            "word": "개념",
+            "weight": 7.0
+          },
+          {
+            "word": "혁명",
+            "weight": 7.0
+          },
+          {
+            "word": "내일은 실험왕",
+            "weight": 6.0
+          },
+          {
+            "word": "아이들",
+            "weight": 6.0
+          },
+          {
+            "word": "분자",
+            "weight": 6.0
+          },
+          {
+            "word": "미래",
+            "weight": 6.0
+          },
+          {
+            "word": "현실",
+            "weight": 5.0
+          },
+          {
+            "word": "만화",
+            "weight": 5.0
+          },
+          {
+            "word": "대결",
+            "weight": 5.0
+          },
+          {
+            "word": "4차",
+            "weight": 5.0
+          },
+          {
+            "word": "산업",
+            "weight": 5.0
+          },
+          {
+            "word": "용어",
+            "weight": 4.0
+          },
+          {
+            "word": "실험반",
+            "weight": 4.0
+          },
+          {
+            "word": "이론",
+            "weight": 4.0
+          },
+          {
+            "word": "키트",
+            "weight": 3.0
+          },
+          {
+            "word": "수록",
+            "weight": 3.0
+          },
+          {
+            "word": "어쩌다 어른",
+            "weight": 3.0
+          },
+          {
+            "word": "박진감",
+            "weight": 3.0
+          },
+          {
+            "word": "원리",
+            "weight": 3.0
+          },
+          {
+            "word": "탐구심",
+            "weight": 3.0
+          },
+          {
+            "word": "차이나는 클라스",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "시즌",
+            "weight": 3.0
+          },
+          {
+            "word": "명견만리",
+            "weight": 3.0
+          },
+          {
+            "word": "공생 멸종 진화",
+            "weight": 3.0
+          },
+          {
+            "word": "체험",
+            "weight": 3.0
+          },
+          {
+            "word": "달력과 권력",
+            "weight": 3.0
+          },
+          {
+            "word": "관장",
+            "weight": 3.0
+          },
+          {
+            "word": "교과서",
+            "weight": 3.0
+          },
+          {
+            "word": "증강",
+            "weight": 3.0
+          },
+          {
+            "word": "흥미",
+            "weight": 3.0
+          },
+          {
+            "word": "3D",
+            "weight": 3.0
+          },
+          {
+            "word": "科學",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "가상",
+            "weight": 2.0
+          },
+          {
+            "word": "단순",
+            "weight": 2.0
+          },
+          {
+            "word": "경제",
+            "weight": 2.0
+          },
+          {
+            "word": "미래엔",
+            "weight": 2.0
+          },
+          {
+            "word": "밀도",
+            "weight": 2.0
+          },
+          {
+            "word": "선생님",
+            "weight": 2.0
+          },
+          {
+            "word": "극성",
+            "weight": 2.0
+          },
+          {
+            "word": "사전",
+            "weight": 2.0
+          },
+          {
+            "word": "관찰",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "공유",
+            "weight": 2.0
+          },
+          {
+            "word": "생활",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168410794",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168411395",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168412552",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168411876",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168415317",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+            "isbn13": "9791164135790",
+            "authors": "글: 곰돌이 co. ,그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+            "isbn13": "9791168416338",
+            "authors": "글: 스토리 a. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+            "isbn13": "9791164134991",
+            "authors": "글: 곰돌이 co. ,그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+            "isbn13": "9791164133673",
+            "authors": "글: 곰돌이 co. ,그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+            "isbn13": "9791164132140",
+            "authors": "글: 곰돌이 co. ,그림: 홍종현"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "내일은 실험왕 01 - 본격 대결 과학실험 만화 시즌2"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001826270",
+        "title": "내일은 실험왕 시즌 2 1: 4차 산업 혁명과 증강 현실",
+        "subtitle": "본격 대결 과학실험 만화",
+        "page": "172 p.",
+        "book_size": "185*248mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791164138951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164138951",
+      "isbn_add_code": "77400",
+      "set_isbn": "9791164138944",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "내일은 실험왕",
+      "subtitle": "본격 대결 과학실험 만화",
+      "author": "글: 스토리 a. ;그림: 홍종현",
+      "volume": "01",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2021",
+      "publish_predate": "20210831",
+      "kdc": "400",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 자연과학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "[세트]내일은 실험왕(시즌2) ",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽고 재미있게 전달하는 실험 대결 만화이다. 개성 만점 주인공들이 펼치는 박진감 넘치는 실험 대결을 통해, 초등학교와 중학교 교과서에 수록된 다양한 과학 이론과 용어들을 쉽고 재미있게 설명하고 있어 과학에 대한 흥미와... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27838/90/cover/k802734783_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "과학",
+          "weight": 45.0
+        },
+        {
+          "word": "실험",
+          "weight": 15.0
+        },
+        {
+          "word": "POINT",
+          "weight": 11.0
+        },
+        {
+          "word": "개념",
+          "weight": 7.0
+        },
+        {
+          "word": "혁명",
+          "weight": 7.0
+        },
+        {
+          "word": "내일은 실험왕",
+          "weight": 6.0
+        },
+        {
+          "word": "아이들",
+          "weight": 6.0
+        },
+        {
+          "word": "분자",
+          "weight": 6.0
+        },
+        {
+          "word": "미래",
+          "weight": 6.0
+        },
+        {
+          "word": "현실",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "대결",
+          "weight": 5.0
+        },
+        {
+          "word": "4차",
+          "weight": 5.0
+        },
+        {
+          "word": "산업",
+          "weight": 5.0
+        },
+        {
+          "word": "용어",
+          "weight": 4.0
+        },
+        {
+          "word": "실험반",
+          "weight": 4.0
+        },
+        {
+          "word": "이론",
+          "weight": 4.0
+        },
+        {
+          "word": "키트",
+          "weight": 3.0
+        },
+        {
+          "word": "수록",
+          "weight": 3.0
+        },
+        {
+          "word": "어쩌다 어른",
+          "weight": 3.0
+        },
+        {
+          "word": "박진감",
+          "weight": 3.0
+        },
+        {
+          "word": "원리",
+          "weight": 3.0
+        },
+        {
+          "word": "탐구심",
+          "weight": 3.0
+        },
+        {
+          "word": "차이나는 클라스",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "시즌",
+          "weight": 3.0
+        },
+        {
+          "word": "명견만리",
+          "weight": 3.0
+        },
+        {
+          "word": "공생 멸종 진화",
+          "weight": 3.0
+        },
+        {
+          "word": "체험",
+          "weight": 3.0
+        },
+        {
+          "word": "달력과 권력",
+          "weight": 3.0
+        },
+        {
+          "word": "관장",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "증강",
+          "weight": 3.0
+        },
+        {
+          "word": "흥미",
+          "weight": 3.0
+        },
+        {
+          "word": "3D",
+          "weight": 3.0
+        },
+        {
+          "word": "科學",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "가상",
+          "weight": 2.0
+        },
+        {
+          "word": "단순",
+          "weight": 2.0
+        },
+        {
+          "word": "경제",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "밀도",
+          "weight": 2.0
+        },
+        {
+          "word": "선생님",
+          "weight": 2.0
+        },
+        {
+          "word": "극성",
+          "weight": 2.0
+        },
+        {
+          "word": "사전",
+          "weight": 2.0
+        },
+        {
+          "word": "관찰",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽고 재미있게 전달하는 실험 대결 만화이다. 개성 만점 주인공들이 펼치는 박진감 넘치는 실험 대결을 통해, 초등학교와 중학교 교과서에 수록된 다양한 과학 이론과 용어들을 쉽고 재미있게 설명하고 있어 과학에 대한 흥미와... ",
+      "co_loan_books": [
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168410794",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168411395",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168412552",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168411876",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168415317",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164135790",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화 시즌2",
+          "isbn13": "9791168416338",
+          "authors": "글: 스토리 a. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164134991",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164133673",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 실험왕 :본격 대결 과학실험 만화",
+          "isbn13": "9791164132140",
+          "authors": "글: 곰돌이 co. ,그림: 홍종현"
+        }
+      ],
+      "title": "내일은 실험왕",
+      "author": "글: 스토리 a. ;그림: 홍종현",
+      "kdc_from_api": "400",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

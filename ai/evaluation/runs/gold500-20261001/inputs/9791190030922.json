@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791190030922",
+  "captured_at": "2026-10-02T00:18:05.749683+09:00",
+  "lookup": {
+    "isbn": "9791190030922",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190030922",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "소크라테스 익스프레스",
+      "subtitle": "철학이 우리 인생에 스며드는 순간",
+      "author": "에릭 와이너 지음 ;김하현 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "어크로스(어크로스출판그룹)",
+      "publish_year": "2021",
+      "publish_predate": "20210428",
+      "kdc": "102",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 철학 > 잡저",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "524 p.",
+      "book_size": "140*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "마르쿠스 아우렐리우스부터 몽테뉴까지 역사상 가장 위대한 철학자들을 만나러 떠나는 여행기이자, 그들의 삶과 작품 속의 지혜가 우리 인생을 개선하는 데 어떻게 도움이 되는지 답을 찾아가는 책이다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/14/9791190030922.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인생",
+          "weight": 9.0
+        },
+        {
+          "word": "철학자",
+          "weight": 6.0
+        },
+        {
+          "word": "역경",
+          "weight": 4.0
+        },
+        {
+          "word": "에픽테토스",
+          "weight": 4.0
+        },
+        {
+          "word": "분노와 애정",
+          "weight": 3.0
+        },
+        {
+          "word": "대처",
+          "weight": 3.0
+        },
+        {
+          "word": "도움",
+          "weight": 3.0
+        },
+        {
+          "word": "여성 셰프 분투기",
+          "weight": 3.0
+        },
+        {
+          "word": "이등 시민",
+          "weight": 3.0
+        },
+        {
+          "word": "루소",
+          "weight": 3.0
+        },
+        {
+          "word": "보부아르",
+          "weight": 3.0
+        },
+        {
+          "word": "마르쿠스",
+          "weight": 3.0
+        },
+        {
+          "word": "아우렐리우스",
+          "weight": 3.0
+        },
+        {
+          "word": "미루기의 천재들",
+          "weight": 3.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "에피쿠로스",
+          "weight": 3.0
+        },
+        {
+          "word": "식사에 대한 생각",
+          "weight": 3.0
+        },
+        {
+          "word": "팩트의 감각",
+          "weight": 3.0
+        },
+        {
+          "word": "간디",
+          "weight": 3.0
+        },
+        {
+          "word": "소크라테스 익스프레스",
+          "weight": 3.0
+        },
+        {
+          "word": "몽테뉴",
+          "weight": 3.0
+        },
+        {
+          "word": "화장실의 심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "결혼 시장",
+          "weight": 3.0
+        },
+        {
+          "word": "소크라테스",
+          "weight": 3.0
+        },
+        {
+          "word": "소로",
+          "weight": 3.0
+        },
+        {
+          "word": "궁금",
+          "weight": 3.0
+        },
+        {
+          "word": "쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼나곤",
+          "weight": 2.0
+        },
+        {
+          "word": "새벽",
+          "weight": 2.0
+        },
+        {
+          "word": "어떨까",
+          "weight": 2.0
+        },
+        {
+          "word": "어크로스 어크로스출판그룹",
+          "weight": 2.0
+        },
+        {
+          "word": "베푸",
+          "weight": 2.0
+        },
+        {
+          "word": "에릭 와이너",
+          "weight": 2.0
+        },
+        {
+          "word": "사상가",
+          "weight": 2.0
+        },
+        {
+          "word": "시몬",
+          "weight": 2.0
+        },
+        {
+          "word": "3부",
+          "weight": 2.0
+        },
+        {
+          "word": "감사",
+          "weight": 2.0
+        },
+        {
+          "word": "공자",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "인문 에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "김하현",
+          "weight": 2.0
+        },
+        {
+          "word": "정오",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "니체",
+          "weight": 2.0
+        },
+        {
+          "word": "에릭",
+          "weight": 2.0
+        },
+        {
+          "word": "후회",
+          "weight": 2.0
+        },
+        {
+          "word": "조언",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "모리스",
+          "weight": 2.0
+        },
+        {
+          "word": "리즐링",
+          "weight": 2.0
+        }
+      ],
+      "description": "마르쿠스 아우렐리우스부터 몽테뉴까지 역사상 가장 위대한 철학자들을 만나러 떠나는 여행기이자, 그들의 삶과 작품 속의 지혜가 우리 인생을 개선하는 데 어떻게 도움이 되는지 답을 찾아가는 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "이어령의 마지막 수업 ",
+          "isbn13": "9791170400523",
+          "authors": "김지수 지음"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        }
+      ],
+      "title": "소크라테스 익스프레스",
+      "author": "에릭 와이너 지음 ;김하현 옮김",
+      "kdc_from_api": "102",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "소크라테스 익스프레스",
+        "author": "에릭 와이너 지음 ;김하현 옮김",
+        "publisher": "어크로스(어크로스출판그룹)",
+        "publish_predate": "20210428",
+        "isbn": "9791190030922",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "522 p.",
+        "book_size": "140*220",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/14/9791190030922.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "소크라테스 익스프레스 :철학이 우리 인생에 스며드는 순간 ",
+        "author": "에릭 와이너 지음 ;김하현 옮김",
+        "publisher": "어크로스(어크로스출판그룹)",
+        "publish_year": "2021",
+        "isbn": "1190030926",
+        "isbn13": "9791190030922",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "102",
+        "class_nm": "철학 > 철학 > 잡저",
+        "description": "마르쿠스 아우렐리우스부터 몽테뉴까지 역사상 가장 위대한 철학자들을 만나러 떠나는 여행기이자, 그들의 삶과 작품 속의 지혜가 우리 인생을 개선하는 데 어떻게 도움이 되는지 답을 찾아가는 책이다.",
+        "cover_url": "https://image.aladin.co.kr/product/27025/39/cover/k822730528_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "인생",
+            "weight": 9.0
+          },
+          {
+            "word": "철학자",
+            "weight": 6.0
+          },
+          {
+            "word": "역경",
+            "weight": 4.0
+          },
+          {
+            "word": "에픽테토스",
+            "weight": 4.0
+          },
+          {
+            "word": "분노와 애정",
+            "weight": 3.0
+          },
+          {
+            "word": "대처",
+            "weight": 3.0
+          },
+          {
+            "word": "도움",
+            "weight": 3.0
+          },
+          {
+            "word": "여성 셰프 분투기",
+            "weight": 3.0
+          },
+          {
+            "word": "이등 시민",
+            "weight": 3.0
+          },
+          {
+            "word": "루소",
+            "weight": 3.0
+          },
+          {
+            "word": "보부아르",
+            "weight": 3.0
+          },
+          {
+            "word": "마르쿠스",
+            "weight": 3.0
+          },
+          {
+            "word": "아우렐리우스",
+            "weight": 3.0
+          },
+          {
+            "word": "미루기의 천재들",
+            "weight": 3.0
+          },
+          {
+            "word": "뉴욕타임스",
+            "weight": 3.0
+          },
+          {
+            "word": "에피쿠로스",
+            "weight": 3.0
+          },
+          {
+            "word": "식사에 대한 생각",
+            "weight": 3.0
+          },
+          {
+            "word": "팩트의 감각",
+            "weight": 3.0
+          },
+          {
+            "word": "간디",
+            "weight": 3.0
+          },
+          {
+            "word": "소크라테스 익스프레스",
+            "weight": 3.0
+          },
+          {
+            "word": "몽테뉴",
+            "weight": 3.0
+          },
+          {
+            "word": "화장실의 심리학",
+            "weight": 3.0
+          },
+          {
+            "word": "결혼 시장",
+            "weight": 3.0
+          },
+          {
+            "word": "소크라테스",
+            "weight": 3.0
+          },
+          {
+            "word": "소로",
+            "weight": 3.0
+          },
+          {
+            "word": "궁금",
+            "weight": 3.0
+          },
+          {
+            "word": "쇼펜하우어",
+            "weight": 2.0
+          },
+          {
+            "word": "쇼나곤",
+            "weight": 2.0
+          },
+          {
+            "word": "새벽",
+            "weight": 2.0
+          },
+          {
+            "word": "어떨까",
+            "weight": 2.0
+          },
+          {
+            "word": "어크로스 어크로스출판그룹",
+            "weight": 2.0
+          },
+          {
+            "word": "베푸",
+            "weight": 2.0
+          },
+          {
+            "word": "에릭 와이너",
+            "weight": 2.0
+          },
+          {
+            "word": "사상가",
+            "weight": 2.0
+          },
+          {
+            "word": "시몬",
+            "weight": 2.0
+          },
+          {
+            "word": "3부",
+            "weight": 2.0
+          },
+          {
+            "word": "감사",
+            "weight": 2.0
+          },
+          {
+            "word": "공자",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "인문 에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "김하현",
+            "weight": 2.0
+          },
+          {
+            "word": "정오",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "니체",
+            "weight": 2.0
+          },
+          {
+            "word": "에릭",
+            "weight": 2.0
+          },
+          {
+            "word": "후회",
+            "weight": 2.0
+          },
+          {
+            "word": "조언",
+            "weight": 2.0
+          },
+          {
+            "word": "질문",
+            "weight": 2.0
+          },
+          {
+            "word": "모리스",
+            "weight": 2.0
+          },
+          {
+            "word": "리즐링",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "작별인사 :김영하 장편소설 ",
+            "isbn13": "9791191114225",
+            "authors": "지은이: 김영하"
+          },
+          {
+            "bookname": "이어령의 마지막 수업 ",
+            "isbn13": "9791170400523",
+            "authors": "김지수 지음"
+          },
+          {
+            "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+            "isbn13": "9788901276533",
+            "authors": "패트릭 브링리 지음 ;조현주 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "소크라테스 익스프레스 - 철학이 우리 인생에 스며드는 순간"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001934510",
+        "title": "소크라테스 익스프레스",
+        "subtitle": "철학이 우리 인생에 스며드는 순간",
+        "page": "524 p.",
+        "book_size": "141*220mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190030922",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190030922",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "소크라테스 익스프레스",
+      "subtitle": "철학이 우리 인생에 스며드는 순간",
+      "author": "에릭 와이너 지음 ;김하현 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "어크로스(어크로스출판그룹)",
+      "publish_year": "2021",
+      "publish_predate": "20210428",
+      "kdc": "102",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 철학 > 잡저",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "524 p.",
+      "book_size": "140*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "마르쿠스 아우렐리우스부터 몽테뉴까지 역사상 가장 위대한 철학자들을 만나러 떠나는 여행기이자, 그들의 삶과 작품 속의 지혜가 우리 인생을 개선하는 데 어떻게 도움이 되는지 답을 찾아가는 책이다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/14/9791190030922.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인생",
+          "weight": 9.0
+        },
+        {
+          "word": "철학자",
+          "weight": 6.0
+        },
+        {
+          "word": "역경",
+          "weight": 4.0
+        },
+        {
+          "word": "에픽테토스",
+          "weight": 4.0
+        },
+        {
+          "word": "분노와 애정",
+          "weight": 3.0
+        },
+        {
+          "word": "대처",
+          "weight": 3.0
+        },
+        {
+          "word": "도움",
+          "weight": 3.0
+        },
+        {
+          "word": "여성 셰프 분투기",
+          "weight": 3.0
+        },
+        {
+          "word": "이등 시민",
+          "weight": 3.0
+        },
+        {
+          "word": "루소",
+          "weight": 3.0
+        },
+        {
+          "word": "보부아르",
+          "weight": 3.0
+        },
+        {
+          "word": "마르쿠스",
+          "weight": 3.0
+        },
+        {
+          "word": "아우렐리우스",
+          "weight": 3.0
+        },
+        {
+          "word": "미루기의 천재들",
+          "weight": 3.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "에피쿠로스",
+          "weight": 3.0
+        },
+        {
+          "word": "식사에 대한 생각",
+          "weight": 3.0
+        },
+        {
+          "word": "팩트의 감각",
+          "weight": 3.0
+        },
+        {
+          "word": "간디",
+          "weight": 3.0
+        },
+        {
+          "word": "소크라테스 익스프레스",
+          "weight": 3.0
+        },
+        {
+          "word": "몽테뉴",
+          "weight": 3.0
+        },
+        {
+          "word": "화장실의 심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "결혼 시장",
+          "weight": 3.0
+        },
+        {
+          "word": "소크라테스",
+          "weight": 3.0
+        },
+        {
+          "word": "소로",
+          "weight": 3.0
+        },
+        {
+          "word": "궁금",
+          "weight": 3.0
+        },
+        {
+          "word": "쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼나곤",
+          "weight": 2.0
+        },
+        {
+          "word": "새벽",
+          "weight": 2.0
+        },
+        {
+          "word": "어떨까",
+          "weight": 2.0
+        },
+        {
+          "word": "어크로스 어크로스출판그룹",
+          "weight": 2.0
+        },
+        {
+          "word": "베푸",
+          "weight": 2.0
+        },
+        {
+          "word": "에릭 와이너",
+          "weight": 2.0
+        },
+        {
+          "word": "사상가",
+          "weight": 2.0
+        },
+        {
+          "word": "시몬",
+          "weight": 2.0
+        },
+        {
+          "word": "3부",
+          "weight": 2.0
+        },
+        {
+          "word": "감사",
+          "weight": 2.0
+        },
+        {
+          "word": "공자",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "인문 에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "김하현",
+          "weight": 2.0
+        },
+        {
+          "word": "정오",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "니체",
+          "weight": 2.0
+        },
+        {
+          "word": "에릭",
+          "weight": 2.0
+        },
+        {
+          "word": "후회",
+          "weight": 2.0
+        },
+        {
+          "word": "조언",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "모리스",
+          "weight": 2.0
+        },
+        {
+          "word": "리즐링",
+          "weight": 2.0
+        }
+      ],
+      "description": "마르쿠스 아우렐리우스부터 몽테뉴까지 역사상 가장 위대한 철학자들을 만나러 떠나는 여행기이자, 그들의 삶과 작품 속의 지혜가 우리 인생을 개선하는 데 어떻게 도움이 되는지 답을 찾아가는 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "이어령의 마지막 수업 ",
+          "isbn13": "9791170400523",
+          "authors": "김지수 지음"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        }
+      ],
+      "title": "소크라테스 익스프레스",
+      "author": "에릭 와이너 지음 ;김하현 옮김",
+      "kdc_from_api": "102",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

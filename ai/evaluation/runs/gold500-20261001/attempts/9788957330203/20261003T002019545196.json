@@ -1,0 +1,296 @@
+{
+  "isbn": "9788957330203",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "8957330208"
+          },
+          {
+            "code": "g",
+            "value": "03210"
+          },
+          {
+            "code": "c",
+            "value": "₩18000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "그리스 신화의 이해"
+          },
+          {
+            "code": "d",
+            "value": "이진성"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "아카넷"
+          },
+          {
+            "code": "c",
+            "value": "2004"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "560 p."
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 크기 근거 없음 또는 단위·가로/세로 미확인 — 원문 검수 필요: ''"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "219.21"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "이진성"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 개인명 이진성이 확인되어 저자 부출표목으로 생성"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "신화"
+          },
+          {
+            "code": "a",
+            "value": "그리스"
+          },
+          {
+            "code": "a",
+            "value": "천지 창조"
+          },
+          {
+            "code": "a",
+            "value": "시대"
+          },
+          {
+            "code": "a",
+            "value": "영웅"
+          },
+          {
+            "code": "a",
+            "value": "신화학"
+          },
+          {
+            "code": "a",
+            "value": "특징"
+          },
+          {
+            "code": "a",
+            "value": "해석"
+          },
+          {
+            "code": "a",
+            "value": "모험"
+          },
+          {
+            "code": "a",
+            "value": "비극"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords"
+          ],
+          "keywords_used": [
+            "신화",
+            "그리스",
+            "천지 창조",
+            "시대",
+            "영웅",
+            "신화학",
+            "특징",
+            "해석",
+            "모험",
+            "비극"
+          ],
+          "reasoning": "가중치 상위 키워드 중 서지 값의 단순 반복을 제외하고 주제어로 적합한 항목을 최소 정제하여 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "246",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "3",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "그리스 신화"
+          }
+        ],
+        "review_required": true,
+        "confidence": "low",
+        "evidence": {
+          "from": [
+            "title"
+          ],
+          "keywords_used": [],
+          "reasoning": "표제에서 핵심어를 축약한 형태이지만 245 본표제와 다른 대체표제로 확정할 근거가 부족하여 보류 대상이므로 생성하지 않음"
+        },
+        "note": ""
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역·다국어 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "500과 546은 검수 필요",
+      "653은 키워드 기반 추론이므로 사서 검수 필요",
+      "246은 대체표제 근거가 약함",
+      "546 언어주기 입력 근거 부족으로 제거됨",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-03T00:20:19.545161+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

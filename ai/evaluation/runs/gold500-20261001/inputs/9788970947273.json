@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788970947273",
+  "captured_at": "2026-10-05T00:11:42.742895+09:00",
+  "lookup": {
+    "isbn": "9788970947273",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788970947273",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "바삭바삭 갈매기",
+      "subtitle": "양장본 Hardcover",
+      "author": "전민걸 글·그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)한림출판사",
+      "publish_year": "2014",
+      "publish_predate": "20141117",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "229*274mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "바위섬에서 물고기를 먹으며 살던 갈매기가 바삭바삭 맛있는 과자가 좋아 바다를 버리고 사람들 곁으로 나오는 이야기로, 갈매기 캐릭터의 다양한 행동과 표정이 무척 재미있는 그림책이다. 애니메이션 콘셉트 디자이너로 활동했던 작가의 개성이 가득 묻어나 있다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/4956/1/cover/8970947272_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "갈매기",
+          "weight": 14.0
+        },
+        {
+          "word": "바삭바삭 갈매기",
+          "weight": 9.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 6.0
+        },
+        {
+          "word": "과자",
+          "weight": 6.0
+        },
+        {
+          "word": "행동",
+          "weight": 5.0
+        },
+        {
+          "word": "바삭바삭",
+          "weight": 5.0
+        },
+        {
+          "word": "다양",
+          "weight": 5.0
+        },
+        {
+          "word": "바다",
+          "weight": 4.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "마을",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "영상",
+          "weight": 3.0
+        },
+        {
+          "word": "부둣가",
+          "weight": 3.0
+        },
+        {
+          "word": "구성",
+          "weight": 3.0
+        },
+        {
+          "word": "치타 자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "한국",
+          "weight": 3.0
+        },
+        {
+          "word": "바위섬",
+          "weight": 2.0
+        },
+        {
+          "word": "한림출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "물고기",
+          "weight": 2.0
+        },
+        {
+          "word": "표정",
+          "weight": 2.0
+        },
+        {
+          "word": "상점",
+          "weight": 2.0
+        },
+        {
+          "word": "콘셉트",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "구도",
+          "weight": 2.0
+        },
+        {
+          "word": "전민걸",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "디자이너",
+          "weight": 2.0
+        },
+        {
+          "word": "표현",
+          "weight": 2.0
+        },
+        {
+          "word": "가게",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 1.0
+        },
+        {
+          "word": "생동감",
+          "weight": 1.0
+        },
+        {
+          "word": "시선",
+          "weight": 1.0
+        },
+        {
+          "word": "스코틀랜드",
+          "weight": 1.0
+        },
+        {
+          "word": "수가",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "색채",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "매력",
+          "weight": 1.0
+        },
+        {
+          "word": "감정선",
+          "weight": 1.0
+        },
+        {
+          "word": "과장",
+          "weight": 1.0
+        },
+        {
+          "word": "관광객",
+          "weight": 1.0
+        },
+        {
+          "word": "단편",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        },
+        {
+          "word": "대한민국영상만화대상",
+          "weight": 1.0
+        },
+        {
+          "word": "도망",
+          "weight": 1.0
+        },
+        {
+          "word": "개성",
+          "weight": 1.0
+        },
+        {
+          "word": "디지아트",
+          "weight": 1.0
+        },
+        {
+          "word": "만들어지게",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        }
+      ],
+      "description": "바위섬에서 물고기를 먹으며 살던 갈매기가 바삭바삭 맛있는 과자가 좋아 바다를 버리고 사람들 곁으로 나오는 이야기로, 갈매기 캐릭터의 다양한 행동과 표정이 무척 재미있는 그림책이다. 애니메이션 콘셉트 디자이너로 활동했던 작가의 개성이 가득 묻어나 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "아드님, 진지 드세요 ",
+          "isbn13": "9788928302802",
+          "authors": "강민경 글 ;이영림 그림"
+        },
+        {
+          "bookname": "진짜 투명인간 ",
+          "isbn13": "9791185751337",
+          "authors": "지은이: 레미 쿠르종 ;옮긴이: 이정주"
+        },
+        {
+          "bookname": "아씨방 일곱 동무",
+          "isbn13": "9788949100203",
+          "authors": "이영경 글.그림"
+        },
+        {
+          "bookname": "소똥 밟은 호랑이",
+          "isbn13": "9788984016958",
+          "authors": "박민호"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "소원 떡집 ",
+          "isbn13": "9788949162058",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "바삭바삭 갈매기",
+      "author": "전민걸 글·그림",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "바삭바삭 갈매기",
+        "author": "전민걸",
+        "publisher": "(주)한림출판사",
+        "publish_predate": "20141117",
+        "isbn": "9788970947273",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "바삭바삭 갈매기 ",
+        "author": "전민걸 글·그림",
+        "publisher": "한림출판사",
+        "publish_year": "2014",
+        "isbn": "8970947272",
+        "isbn13": "9788970947273",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "바위섬에서 물고기를 먹으며 살던 갈매기가 바삭바삭 맛있는 과자가 좋아 바다를 버리고 사람들 곁으로 나오는 이야기로, 갈매기 캐릭터의 다양한 행동과 표정이 무척 재미있는 그림책이다. 애니메이션 콘셉트 디자이너로 활동했던 작가의 개성이 가득 묻어나 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/4956/1/cover/8970947272_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "갈매기",
+            "weight": 14.0
+          },
+          {
+            "word": "바삭바삭 갈매기",
+            "weight": 9.0
+          },
+          {
+            "word": "애니메이션",
+            "weight": 6.0
+          },
+          {
+            "word": "과자",
+            "weight": 6.0
+          },
+          {
+            "word": "행동",
+            "weight": 5.0
+          },
+          {
+            "word": "바삭바삭",
+            "weight": 5.0
+          },
+          {
+            "word": "다양",
+            "weight": 5.0
+          },
+          {
+            "word": "바다",
+            "weight": 4.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "마을",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "영상",
+            "weight": 3.0
+          },
+          {
+            "word": "부둣가",
+            "weight": 3.0
+          },
+          {
+            "word": "구성",
+            "weight": 3.0
+          },
+          {
+            "word": "치타 자전거",
+            "weight": 3.0
+          },
+          {
+            "word": "한국",
+            "weight": 3.0
+          },
+          {
+            "word": "바위섬",
+            "weight": 2.0
+          },
+          {
+            "word": "한림출판사",
+            "weight": 2.0
+          },
+          {
+            "word": "물고기",
+            "weight": 2.0
+          },
+          {
+            "word": "표정",
+            "weight": 2.0
+          },
+          {
+            "word": "상점",
+            "weight": 2.0
+          },
+          {
+            "word": "콘셉트",
+            "weight": 2.0
+          },
+          {
+            "word": "유쾌",
+            "weight": 2.0
+          },
+          {
+            "word": "구도",
+            "weight": 2.0
+          },
+          {
+            "word": "전민걸",
+            "weight": 2.0
+          },
+          {
+            "word": "그림",
+            "weight": 2.0
+          },
+          {
+            "word": "디자이너",
+            "weight": 2.0
+          },
+          {
+            "word": "표현",
+            "weight": 2.0
+          },
+          {
+            "word": "가게",
+            "weight": 2.0
+          },
+          {
+            "word": "스타",
+            "weight": 1.0
+          },
+          {
+            "word": "생동감",
+            "weight": 1.0
+          },
+          {
+            "word": "시선",
+            "weight": 1.0
+          },
+          {
+            "word": "스코틀랜드",
+            "weight": 1.0
+          },
+          {
+            "word": "수가",
+            "weight": 1.0
+          },
+          {
+            "word": "활동",
+            "weight": 1.0
+          },
+          {
+            "word": "색채",
+            "weight": 1.0
+          },
+          {
+            "word": "생생",
+            "weight": 1.0
+          },
+          {
+            "word": "매력",
+            "weight": 1.0
+          },
+          {
+            "word": "감정선",
+            "weight": 1.0
+          },
+          {
+            "word": "과장",
+            "weight": 1.0
+          },
+          {
+            "word": "관광객",
+            "weight": 1.0
+          },
+          {
+            "word": "단편",
+            "weight": 1.0
+          },
+          {
+            "word": "대학",
+            "weight": 1.0
+          },
+          {
+            "word": "대한민국영상만화대상",
+            "weight": 1.0
+          },
+          {
+            "word": "도망",
+            "weight": 1.0
+          },
+          {
+            "word": "개성",
+            "weight": 1.0
+          },
+          {
+            "word": "디지아트",
+            "weight": 1.0
+          },
+          {
+            "word": "만들어지게",
+            "weight": 1.0
+          },
+          {
+            "word": "만화",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "으악, 도깨비다!",
+            "isbn13": "9788987504568",
+            "authors": "손정원 글;유애로 그림"
+          },
+          {
+            "bookname": "아드님, 진지 드세요 ",
+            "isbn13": "9788928302802",
+            "authors": "강민경 글 ;이영림 그림"
+          },
+          {
+            "bookname": "진짜 투명인간 ",
+            "isbn13": "9791185751337",
+            "authors": "지은이: 레미 쿠르종 ;옮긴이: 이정주"
+          },
+          {
+            "bookname": "아씨방 일곱 동무",
+            "isbn13": "9788949100203",
+            "authors": "이영경 글.그림"
+          },
+          {
+            "bookname": "소똥 밟은 호랑이",
+            "isbn13": "9788984016958",
+            "authors": "박민호"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "소원 떡집 ",
+            "isbn13": "9788949162058",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "장군이네 떡집 ",
+            "isbn13": "9788949162041",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "바삭바삭 갈매기"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001092095",
+        "title": "바삭바삭 갈매기",
+        "subtitle": "양장본 Hardcover",
+        "page": "40 p.",
+        "book_size": "229*274mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788970947273",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788970947273",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "바삭바삭 갈매기",
+      "subtitle": "양장본 Hardcover",
+      "author": "전민걸 글·그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)한림출판사",
+      "publish_year": "2014",
+      "publish_predate": "20141117",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "229*274mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "바위섬에서 물고기를 먹으며 살던 갈매기가 바삭바삭 맛있는 과자가 좋아 바다를 버리고 사람들 곁으로 나오는 이야기로, 갈매기 캐릭터의 다양한 행동과 표정이 무척 재미있는 그림책이다. 애니메이션 콘셉트 디자이너로 활동했던 작가의 개성이 가득 묻어나 있다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/4956/1/cover/8970947272_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "갈매기",
+          "weight": 14.0
+        },
+        {
+          "word": "바삭바삭 갈매기",
+          "weight": 9.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 6.0
+        },
+        {
+          "word": "과자",
+          "weight": 6.0
+        },
+        {
+          "word": "행동",
+          "weight": 5.0
+        },
+        {
+          "word": "바삭바삭",
+          "weight": 5.0
+        },
+        {
+          "word": "다양",
+          "weight": 5.0
+        },
+        {
+          "word": "바다",
+          "weight": 4.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "마을",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "영상",
+          "weight": 3.0
+        },
+        {
+          "word": "부둣가",
+          "weight": 3.0
+        },
+        {
+          "word": "구성",
+          "weight": 3.0
+        },
+        {
+          "word": "치타 자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "한국",
+          "weight": 3.0
+        },
+        {
+          "word": "바위섬",
+          "weight": 2.0
+        },
+        {
+          "word": "한림출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "물고기",
+          "weight": 2.0
+        },
+        {
+          "word": "표정",
+          "weight": 2.0
+        },
+        {
+          "word": "상점",
+          "weight": 2.0
+        },
+        {
+          "word": "콘셉트",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "구도",
+          "weight": 2.0
+        },
+        {
+          "word": "전민걸",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "디자이너",
+          "weight": 2.0
+        },
+        {
+          "word": "표현",
+          "weight": 2.0
+        },
+        {
+          "word": "가게",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 1.0
+        },
+        {
+          "word": "생동감",
+          "weight": 1.0
+        },
+        {
+          "word": "시선",
+          "weight": 1.0
+        },
+        {
+          "word": "스코틀랜드",
+          "weight": 1.0
+        },
+        {
+          "word": "수가",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "색채",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "매력",
+          "weight": 1.0
+        },
+        {
+          "word": "감정선",
+          "weight": 1.0
+        },
+        {
+          "word": "과장",
+          "weight": 1.0
+        },
+        {
+          "word": "관광객",
+          "weight": 1.0
+        },
+        {
+          "word": "단편",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        },
+        {
+          "word": "대한민국영상만화대상",
+          "weight": 1.0
+        },
+        {
+          "word": "도망",
+          "weight": 1.0
+        },
+        {
+          "word": "개성",
+          "weight": 1.0
+        },
+        {
+          "word": "디지아트",
+          "weight": 1.0
+        },
+        {
+          "word": "만들어지게",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        }
+      ],
+      "description": "바위섬에서 물고기를 먹으며 살던 갈매기가 바삭바삭 맛있는 과자가 좋아 바다를 버리고 사람들 곁으로 나오는 이야기로, 갈매기 캐릭터의 다양한 행동과 표정이 무척 재미있는 그림책이다. 애니메이션 콘셉트 디자이너로 활동했던 작가의 개성이 가득 묻어나 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "아드님, 진지 드세요 ",
+          "isbn13": "9788928302802",
+          "authors": "강민경 글 ;이영림 그림"
+        },
+        {
+          "bookname": "진짜 투명인간 ",
+          "isbn13": "9791185751337",
+          "authors": "지은이: 레미 쿠르종 ;옮긴이: 이정주"
+        },
+        {
+          "bookname": "아씨방 일곱 동무",
+          "isbn13": "9788949100203",
+          "authors": "이영경 글.그림"
+        },
+        {
+          "bookname": "소똥 밟은 호랑이",
+          "isbn13": "9788984016958",
+          "authors": "박민호"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "소원 떡집 ",
+          "isbn13": "9788949162058",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "바삭바삭 갈매기",
+      "author": "전민걸 글·그림",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

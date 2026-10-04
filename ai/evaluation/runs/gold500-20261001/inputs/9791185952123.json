@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791185952123",
+  "captured_at": "2026-10-02T00:22:51.260302+09:00",
+  "lookup": {
+    "isbn": "9791185952123",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185952123",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘 ",
+      "subtitle": "기적 같은 변화를 불러오는 작은 말의 힘",
+      "author": "이임숙",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "카시오페아",
+      "publish_year": "2015",
+      "publish_predate": "",
+      "kdc": "378.9",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 교육학 > 사회교육",
+      "ddc": "649",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "152*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "15년간 2만 시간 동안 아이와 부모를 상담한 저자의 핵심비법을 담은 책이다. 저자는 모든 아이에게 효과적이면서도 모든 엄마가 쉽게 할 수 있는 방법을 고민하다 비용도 노력도 가장 적게 들지만 가장 효과가 큰 것이 ‘엄마의 말’이라는 점에 착안해 이 책을 집필했다.",
+      "control_no": "CIP2015009798",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 65.0
+        },
+        {
+          "word": "엄마",
+          "weight": 47.0
+        },
+        {
+          "word": "하루",
+          "weight": 19.0
+        },
+        {
+          "word": "시간",
+          "weight": 17.0
+        },
+        {
+          "word": "아침",
+          "weight": 13.0
+        },
+        {
+          "word": "전문용어",
+          "weight": 13.0
+        },
+        {
+          "word": "행복",
+          "weight": 12.0
+        },
+        {
+          "word": "행동",
+          "weight": 10.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "주말",
+          "weight": 7.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이",
+          "weight": 6.0
+        },
+        {
+          "word": "의도",
+          "weight": 6.0
+        },
+        {
+          "word": "방학",
+          "weight": 6.0
+        },
+        {
+          "word": "직장",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "대화법",
+          "weight": 5.0
+        },
+        {
+          "word": "저녁",
+          "weight": 5.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "효과적",
+          "weight": 4.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "유치원",
+          "weight": 4.0
+        },
+        {
+          "word": "5가지",
+          "weight": 4.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "준비물",
+          "weight": 3.0
+        },
+        {
+          "word": "참 쉬운 마음 글쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "상처 주는 것도 습관이다",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말 공부",
+          "weight": 3.0
+        },
+        {
+          "word": "독서 치료의 실제",
+          "weight": 3.0
+        },
+        {
+          "word": "한마디",
+          "weight": 3.0
+        },
+        {
+          "word": "학원",
+          "weight": 3.0
+        },
+        {
+          "word": "그렇구나",
+          "weight": 3.0
+        },
+        {
+          "word": "하루 10분 엄마 놀이",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말 공부2",
+          "weight": 3.0
+        },
+        {
+          "word": "우수교양도서",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말",
+          "weight": 3.0
+        },
+        {
+          "word": "말이",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마가 하는 독서치료",
+          "weight": 3.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "심리적",
+          "weight": 2.0
+        },
+        {
+          "word": "아동 청소년",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        }
+      ],
+      "description": "15년간 2만 시간 동안 아이와 부모를 상담한 저자의 핵심비법을 담은 책이다. 저자는 모든 아이에게 효과적이면서도 모든 엄마가 쉽게 할 수 있는 방법을 고민하다 비용도 노력도 가장 적게 들지만 가장 효과가 큰 것이 ‘엄마의 말’이라는 점에 착안해 이 책을 집필했다.",
+      "co_loan_books": [
+        {
+          "bookname": "엄마의 말 공부",
+          "isbn13": "9791185952222",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+          "isbn13": "9791190776820",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "isbn13": "9788934986652",
+          "authors": "글: 오은영 ;그림: 차상미"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        },
+        {
+          "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+          "isbn13": "9791168270749",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "초등 자존감 수업 :불안을 이기는 엄마가 아이의 자존감을 키운다 ",
+          "isbn13": "9791188674855",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘 ",
+      "author": "이임숙",
+      "kdc_from_api": "378.9",
+      "ddc_from_api": "649",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘 ",
+        "author": "이임숙",
+        "publisher": "카시오페아",
+        "publish_predate": "",
+        "isbn": "9791185952123",
+        "isbn_add_code": "13590",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "378.9",
+        "ddc": "649",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015009798",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "엄마의 말공부 :기적 같은 변화를 불러오는 작은 말의 힘 ",
+        "author": "이임숙 지음",
+        "publisher": "카시오페아",
+        "publish_year": "2015",
+        "isbn": "1185952128",
+        "isbn13": "9791185952123",
+        "isbn_add_code": "13590",
+        "volume": "",
+        "class_no": "378.9",
+        "class_nm": "사회과학 > 교육학 > 사회교육",
+        "description": "15년간 2만 시간 동안 아이와 부모를 상담한 저자의 핵심비법을 담은 책이다. 저자는 모든 아이에게 효과적이면서도 모든 엄마가 쉽게 할 수 있는 방법을 고민하다 비용도 노력도 가장 적게 들지만 가장 효과가 큰 것이 ‘엄마의 말’이라는 점에 착안해 이 책을 집필했다.",
+        "cover_url": "http://image.aladin.co.kr/product/5614/22/cover/6000836020_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아이",
+            "weight": 65.0
+          },
+          {
+            "word": "엄마",
+            "weight": 47.0
+          },
+          {
+            "word": "하루",
+            "weight": 19.0
+          },
+          {
+            "word": "시간",
+            "weight": 17.0
+          },
+          {
+            "word": "아침",
+            "weight": 13.0
+          },
+          {
+            "word": "전문용어",
+            "weight": 13.0
+          },
+          {
+            "word": "행복",
+            "weight": 12.0
+          },
+          {
+            "word": "행동",
+            "weight": 10.0
+          },
+          {
+            "word": "공부",
+            "weight": 9.0
+          },
+          {
+            "word": "방법",
+            "weight": 7.0
+          },
+          {
+            "word": "주말",
+            "weight": 7.0
+          },
+          {
+            "word": "긍정적",
+            "weight": 7.0
+          },
+          {
+            "word": "놀이",
+            "weight": 6.0
+          },
+          {
+            "word": "의도",
+            "weight": 6.0
+          },
+          {
+            "word": "방학",
+            "weight": 6.0
+          },
+          {
+            "word": "직장",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 6.0
+          },
+          {
+            "word": "성장",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 5.0
+          },
+          {
+            "word": "생각",
+            "weight": 5.0
+          },
+          {
+            "word": "대화법",
+            "weight": 5.0
+          },
+          {
+            "word": "저녁",
+            "weight": 5.0
+          },
+          {
+            "word": "구체적",
+            "weight": 5.0
+          },
+          {
+            "word": "학교",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "효과적",
+            "weight": 4.0
+          },
+          {
+            "word": "부모",
+            "weight": 4.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "유치원",
+            "weight": 4.0
+          },
+          {
+            "word": "5가지",
+            "weight": 4.0
+          },
+          {
+            "word": "전쟁",
+            "weight": 4.0
+          },
+          {
+            "word": "준비물",
+            "weight": 3.0
+          },
+          {
+            "word": "참 쉬운 마음 글쓰기",
+            "weight": 3.0
+          },
+          {
+            "word": "상처 주는 것도 습관이다",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마의 말 공부",
+            "weight": 3.0
+          },
+          {
+            "word": "독서 치료의 실제",
+            "weight": 3.0
+          },
+          {
+            "word": "한마디",
+            "weight": 3.0
+          },
+          {
+            "word": "학원",
+            "weight": 3.0
+          },
+          {
+            "word": "그렇구나",
+            "weight": 3.0
+          },
+          {
+            "word": "하루 10분 엄마 놀이",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마의 말 공부2",
+            "weight": 3.0
+          },
+          {
+            "word": "우수교양도서",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마의 말",
+            "weight": 3.0
+          },
+          {
+            "word": "말이",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마가 하는 독서치료",
+            "weight": 3.0
+          },
+          {
+            "word": "공감",
+            "weight": 2.0
+          },
+          {
+            "word": "심리적",
+            "weight": 2.0
+          },
+          {
+            "word": "아동 청소년",
+            "weight": 2.0
+          },
+          {
+            "word": "감정",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "엄마의 말 공부",
+            "isbn13": "9791185952222",
+            "authors": "이임숙 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+            "isbn13": "9791190776820",
+            "authors": "이임숙 지음"
+          },
+          {
+            "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+            "isbn13": "9788934986652",
+            "authors": "글: 오은영 ;그림: 차상미"
+          },
+          {
+            "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+            "isbn13": "9788950941819",
+            "authors": "지나영 지음"
+          },
+          {
+            "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+            "isbn13": "9791168270749",
+            "authors": "윤지영 지음"
+          },
+          {
+            "bookname": "초등 자존감 수업 :불안을 이기는 엄마가 아이의 자존감을 키운다 ",
+            "isbn13": "9791188674855",
+            "authors": "윤지영 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168411685",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001876386",
+        "title": "엄마의 말 공부",
+        "subtitle": "기적 같은 변화를 불러오는 작은 말의 힘",
+        "page": "280 p.",
+        "book_size": "152*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791185952123",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185952123",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘 ",
+      "subtitle": "기적 같은 변화를 불러오는 작은 말의 힘",
+      "author": "이임숙",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "카시오페아",
+      "publish_year": "2015",
+      "publish_predate": "",
+      "kdc": "378.9",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 교육학 > 사회교육",
+      "ddc": "649",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "152*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "15년간 2만 시간 동안 아이와 부모를 상담한 저자의 핵심비법을 담은 책이다. 저자는 모든 아이에게 효과적이면서도 모든 엄마가 쉽게 할 수 있는 방법을 고민하다 비용도 노력도 가장 적게 들지만 가장 효과가 큰 것이 ‘엄마의 말’이라는 점에 착안해 이 책을 집필했다.",
+      "control_no": "CIP2015009798",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4490771_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 65.0
+        },
+        {
+          "word": "엄마",
+          "weight": 47.0
+        },
+        {
+          "word": "하루",
+          "weight": 19.0
+        },
+        {
+          "word": "시간",
+          "weight": 17.0
+        },
+        {
+          "word": "아침",
+          "weight": 13.0
+        },
+        {
+          "word": "전문용어",
+          "weight": 13.0
+        },
+        {
+          "word": "행복",
+          "weight": 12.0
+        },
+        {
+          "word": "행동",
+          "weight": 10.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "주말",
+          "weight": 7.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이",
+          "weight": 6.0
+        },
+        {
+          "word": "의도",
+          "weight": 6.0
+        },
+        {
+          "word": "방학",
+          "weight": 6.0
+        },
+        {
+          "word": "직장",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "대화법",
+          "weight": 5.0
+        },
+        {
+          "word": "저녁",
+          "weight": 5.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "효과적",
+          "weight": 4.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "유치원",
+          "weight": 4.0
+        },
+        {
+          "word": "5가지",
+          "weight": 4.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "준비물",
+          "weight": 3.0
+        },
+        {
+          "word": "참 쉬운 마음 글쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "상처 주는 것도 습관이다",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말 공부",
+          "weight": 3.0
+        },
+        {
+          "word": "독서 치료의 실제",
+          "weight": 3.0
+        },
+        {
+          "word": "한마디",
+          "weight": 3.0
+        },
+        {
+          "word": "학원",
+          "weight": 3.0
+        },
+        {
+          "word": "그렇구나",
+          "weight": 3.0
+        },
+        {
+          "word": "하루 10분 엄마 놀이",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말 공부2",
+          "weight": 3.0
+        },
+        {
+          "word": "우수교양도서",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 말",
+          "weight": 3.0
+        },
+        {
+          "word": "말이",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마가 하는 독서치료",
+          "weight": 3.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "심리적",
+          "weight": 2.0
+        },
+        {
+          "word": "아동 청소년",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        }
+      ],
+      "description": "15년간 2만 시간 동안 아이와 부모를 상담한 저자의 핵심비법을 담은 책이다. 저자는 모든 아이에게 효과적이면서도 모든 엄마가 쉽게 할 수 있는 방법을 고민하다 비용도 노력도 가장 적게 들지만 가장 효과가 큰 것이 ‘엄마의 말’이라는 점에 착안해 이 책을 집필했다.",
+      "co_loan_books": [
+        {
+          "bookname": "엄마의 말 공부",
+          "isbn13": "9791185952222",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+          "isbn13": "9791190776820",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "isbn13": "9788934986652",
+          "authors": "글: 오은영 ;그림: 차상미"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        },
+        {
+          "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+          "isbn13": "9791168270749",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "초등 자존감 수업 :불안을 이기는 엄마가 아이의 자존감을 키운다 ",
+          "isbn13": "9791188674855",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "엄마의 말 공부 : 기적 같은 변화를 불러오는 작은 말의 힘 ",
+      "author": "이임숙",
+      "kdc_from_api": "378.9",
+      "ddc_from_api": "649",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

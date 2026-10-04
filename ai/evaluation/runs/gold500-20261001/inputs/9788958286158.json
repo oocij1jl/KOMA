@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788958286158",
+  "captured_at": "2026-10-03T00:20:07.207316+09:00",
+  "lookup": {
+    "isbn": "9788958286158",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958286158",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "꿈꾸는 징검돌 ",
+      "subtitle": "화가 박수근 이야기",
+      "author": "김용철 쓰고 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사계절출판사",
+      "publish_year": "2012",
+      "publish_predate": "20120427",
+      "kdc": "998.6",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "초등학생이 보는 그림책 ",
+      "series_no": "26",
+      "page": "44 p.",
+      "book_size": "280*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "초등학생이 보는 그림책 시리즈 26권. 화가 박수근의 이야기를 판타지로 풀어낸 색다른 그림책으로, 그림책 속 소년 박수근이 그의 ‘사람들’을 만나고, 훗날 ‘자신이 그리게 될 그림 속 풍경’ 속으로 들어간다. 박수근의 그림에 등장하는 평범한 ‘사람들’의 이야기와 그림에 드러나 보이는 화가의 따뜻하고 천진한 감수성이 돋보인다.",
+      "control_no": "CIP2012001754",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림",
+          "weight": 40.0
+        },
+        {
+          "word": "박수근",
+          "weight": 28.0
+        },
+        {
+          "word": "화가",
+          "weight": 19.0
+        },
+        {
+          "word": "소년",
+          "weight": 17.0
+        },
+        {
+          "word": "그림책",
+          "weight": 16.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "모습",
+          "weight": 6.0
+        },
+        {
+          "word": "순한",
+          "weight": 5.0
+        },
+        {
+          "word": "양구",
+          "weight": 5.0
+        },
+        {
+          "word": "징검돌",
+          "weight": 5.0
+        },
+        {
+          "word": "그린",
+          "weight": 4.0
+        },
+        {
+          "word": "풍경",
+          "weight": 4.0
+        },
+        {
+          "word": "사람들",
+          "weight": 4.0
+        },
+        {
+          "word": "감상자",
+          "weight": 4.0
+        },
+        {
+          "word": "복순이",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "꿈꾸는 징검돌",
+          "weight": 3.0
+        },
+        {
+          "word": "농악",
+          "weight": 3.0
+        },
+        {
+          "word": "시선",
+          "weight": 3.0
+        },
+        {
+          "word": "평범",
+          "weight": 3.0
+        },
+        {
+          "word": "절구질하는 여인",
+          "weight": 3.0
+        },
+        {
+          "word": "재현",
+          "weight": 3.0
+        },
+        {
+          "word": "노인과 소녀",
+          "weight": 3.0
+        },
+        {
+          "word": "동시",
+          "weight": 2.0
+        },
+        {
+          "word": "판타지",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "천진",
+          "weight": 2.0
+        },
+        {
+          "word": "장터",
+          "weight": 2.0
+        },
+        {
+          "word": "시장",
+          "weight": 2.0
+        },
+        {
+          "word": "마음속",
+          "weight": 2.0
+        },
+        {
+          "word": "훗날",
+          "weight": 2.0
+        },
+        {
+          "word": "유년기",
+          "weight": 2.0
+        },
+        {
+          "word": "말들",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "덧입혀",
+          "weight": 2.0
+        },
+        {
+          "word": "생전",
+          "weight": 2.0
+        },
+        {
+          "word": "감탄",
+          "weight": 2.0
+        },
+        {
+          "word": "사계절출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "스케치",
+          "weight": 2.0
+        },
+        {
+          "word": "옆집",
+          "weight": 2.0
+        },
+        {
+          "word": "고장",
+          "weight": 2.0
+        },
+        {
+          "word": "보이",
+          "weight": 2.0
+        },
+        {
+          "word": "구경",
+          "weight": 2.0
+        },
+        {
+          "word": "김용철 쓰고",
+          "weight": 2.0
+        },
+        {
+          "word": "우직",
+          "weight": 2.0
+        },
+        {
+          "word": "주지",
+          "weight": 2.0
+        },
+        {
+          "word": "감수성",
+          "weight": 2.0
+        },
+        {
+          "word": "하나하나",
+          "weight": 2.0
+        },
+        {
+          "word": "느낌",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학생이 보는 그림책 시리즈 26권. 화가 박수근의 이야기를 판타지로 풀어낸 색다른 그림책으로, 그림책 속 소년 박수근이 그의 ‘사람들’을 만나고, 훗날 ‘자신이 그리게 될 그림 속 풍경’ 속으로 들어간다. 박수근의 그림에 등장하는 평범한 ‘사람들’의 이야기와 그림에 드러나 보이는 화가의 따뜻하고 천진한 감수성이 돋보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "폭풍우 치는 밤에",
+          "isbn13": "9788937814754",
+          "authors": "키무라 유이치 글;김정화 옮김"
+        },
+        {
+          "bookname": "내 짝꿍 최영대 ",
+          "isbn13": "9788986565508",
+          "authors": "글: 채인선 ;그림: 정순희"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "투발루에게 수영을 가르칠 걸 그랬어! ",
+          "isbn13": "9788983944245",
+          "authors": "유다정 글 ;박재현 그림"
+        },
+        {
+          "bookname": "틀려도 괜찮아",
+          "isbn13": "9788990611260",
+          "authors": "마키타 신지 글;유문조 옮김"
+        },
+        {
+          "bookname": "아이스크림 걸음! ",
+          "isbn13": "9791186531778",
+          "authors": "박종진 씀 ;송선옥 그림"
+        },
+        {
+          "bookname": "배운다는 건 뭘까? ",
+          "isbn13": "9788980713530",
+          "authors": "채인선 글 ;윤봉선 그림"
+        }
+      ],
+      "title": "꿈꾸는 징검돌 ",
+      "author": "김용철 쓰고 그림",
+      "kdc_from_api": "998.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "꿈꾸는 징검돌 ",
+        "author": "김용철 쓰고 그림",
+        "publisher": "사계절출판사",
+        "publish_predate": "20120427",
+        "isbn": "9788958286158",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "초등학생이 보는 그림책 ",
+        "series_no": "26",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "998.6",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2012001754",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "꿈꾸는 징검돌 :화가 박수근 이야기 ",
+        "author": "김용철 쓰고 그림",
+        "publisher": "사계절출판사",
+        "publish_year": "2012",
+        "isbn": "8958286156",
+        "isbn13": "9788958286158",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "653",
+        "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+        "description": "초등학생이 보는 그림책 시리즈 26권. 화가 박수근의 이야기를 판타지로 풀어낸 색다른 그림책으로, 그림책 속 소년 박수근이 그의 ‘사람들’을 만나고, 훗날 ‘자신이 그리게 될 그림 속 풍경’ 속으로 들어간다. 박수근의 그림에 등장하는 평범한 ‘사람들’의 이야기와 그림에 드러나 보이는 화가의 따뜻하고 천진한 감수성이 돋보인다.",
+        "cover_url": "http://image.aladin.co.kr/product/1672/31/cover/8958286156_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "그림",
+            "weight": 40.0
+          },
+          {
+            "word": "박수근",
+            "weight": 28.0
+          },
+          {
+            "word": "화가",
+            "weight": 19.0
+          },
+          {
+            "word": "소년",
+            "weight": 17.0
+          },
+          {
+            "word": "그림책",
+            "weight": 16.0
+          },
+          {
+            "word": "사람",
+            "weight": 9.0
+          },
+          {
+            "word": "모습",
+            "weight": 6.0
+          },
+          {
+            "word": "순한",
+            "weight": 5.0
+          },
+          {
+            "word": "양구",
+            "weight": 5.0
+          },
+          {
+            "word": "징검돌",
+            "weight": 5.0
+          },
+          {
+            "word": "그린",
+            "weight": 4.0
+          },
+          {
+            "word": "풍경",
+            "weight": 4.0
+          },
+          {
+            "word": "사람들",
+            "weight": 4.0
+          },
+          {
+            "word": "감상자",
+            "weight": 4.0
+          },
+          {
+            "word": "복순이",
+            "weight": 4.0
+          },
+          {
+            "word": "인물",
+            "weight": 3.0
+          },
+          {
+            "word": "꿈꾸는 징검돌",
+            "weight": 3.0
+          },
+          {
+            "word": "농악",
+            "weight": 3.0
+          },
+          {
+            "word": "시선",
+            "weight": 3.0
+          },
+          {
+            "word": "평범",
+            "weight": 3.0
+          },
+          {
+            "word": "절구질하는 여인",
+            "weight": 3.0
+          },
+          {
+            "word": "재현",
+            "weight": 3.0
+          },
+          {
+            "word": "노인과 소녀",
+            "weight": 3.0
+          },
+          {
+            "word": "동시",
+            "weight": 2.0
+          },
+          {
+            "word": "판타지",
+            "weight": 2.0
+          },
+          {
+            "word": "등장",
+            "weight": 2.0
+          },
+          {
+            "word": "천진",
+            "weight": 2.0
+          },
+          {
+            "word": "장터",
+            "weight": 2.0
+          },
+          {
+            "word": "시장",
+            "weight": 2.0
+          },
+          {
+            "word": "마음속",
+            "weight": 2.0
+          },
+          {
+            "word": "훗날",
+            "weight": 2.0
+          },
+          {
+            "word": "유년기",
+            "weight": 2.0
+          },
+          {
+            "word": "말들",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "덧입혀",
+            "weight": 2.0
+          },
+          {
+            "word": "생전",
+            "weight": 2.0
+          },
+          {
+            "word": "감탄",
+            "weight": 2.0
+          },
+          {
+            "word": "사계절출판사",
+            "weight": 2.0
+          },
+          {
+            "word": "스케치",
+            "weight": 2.0
+          },
+          {
+            "word": "옆집",
+            "weight": 2.0
+          },
+          {
+            "word": "고장",
+            "weight": 2.0
+          },
+          {
+            "word": "보이",
+            "weight": 2.0
+          },
+          {
+            "word": "구경",
+            "weight": 2.0
+          },
+          {
+            "word": "김용철 쓰고",
+            "weight": 2.0
+          },
+          {
+            "word": "우직",
+            "weight": 2.0
+          },
+          {
+            "word": "주지",
+            "weight": 2.0
+          },
+          {
+            "word": "감수성",
+            "weight": 2.0
+          },
+          {
+            "word": "하나하나",
+            "weight": 2.0
+          },
+          {
+            "word": "느낌",
+            "weight": 2.0
+          },
+          {
+            "word": "상상",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "나는 나의 주인 ",
+            "isbn13": "9788964960035",
+            "authors": "채인선 글 ;안은진 그림"
+          },
+          {
+            "bookname": "으악, 도깨비다!",
+            "isbn13": "9788987504568",
+            "authors": "손정원 글;유애로 그림"
+          },
+          {
+            "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+            "isbn13": "9791185173030",
+            "authors": "글: 허윤 ;그림: 윤희동"
+          },
+          {
+            "bookname": "폭풍우 치는 밤에",
+            "isbn13": "9788937814754",
+            "authors": "키무라 유이치 글;김정화 옮김"
+          },
+          {
+            "bookname": "내 짝꿍 최영대 ",
+            "isbn13": "9788986565508",
+            "authors": "글: 채인선 ;그림: 정순희"
+          },
+          {
+            "bookname": "(한밤중) 달빛 식당 ",
+            "isbn13": "9788949161969",
+            "authors": "이분희 글 ;윤태규 그림"
+          },
+          {
+            "bookname": "투발루에게 수영을 가르칠 걸 그랬어! ",
+            "isbn13": "9788983944245",
+            "authors": "유다정 글 ;박재현 그림"
+          },
+          {
+            "bookname": "틀려도 괜찮아",
+            "isbn13": "9788990611260",
+            "authors": "마키타 신지 글;유문조 옮김"
+          },
+          {
+            "bookname": "아이스크림 걸음! ",
+            "isbn13": "9791186531778",
+            "authors": "박종진 씀 ;송선옥 그림"
+          },
+          {
+            "bookname": "배운다는 건 뭘까? ",
+            "isbn13": "9788980713530",
+            "authors": "채인선 글 ;윤봉선 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "꿈꾸는 징검돌"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000869817",
+        "title": "꿈꾸는 징검돌",
+        "subtitle": "화가 박수근 이야기",
+        "page": "44 p.",
+        "book_size": "280*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788958286158",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958286158",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "꿈꾸는 징검돌 ",
+      "subtitle": "화가 박수근 이야기",
+      "author": "김용철 쓰고 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사계절출판사",
+      "publish_year": "2012",
+      "publish_predate": "20120427",
+      "kdc": "998.6",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "초등학생이 보는 그림책 ",
+      "series_no": "26",
+      "page": "44 p.",
+      "book_size": "280*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "초등학생이 보는 그림책 시리즈 26권. 화가 박수근의 이야기를 판타지로 풀어낸 색다른 그림책으로, 그림책 속 소년 박수근이 그의 ‘사람들’을 만나고, 훗날 ‘자신이 그리게 될 그림 속 풍경’ 속으로 들어간다. 박수근의 그림에 등장하는 평범한 ‘사람들’의 이야기와 그림에 드러나 보이는 화가의 따뜻하고 천진한 감수성이 돋보인다.",
+      "control_no": "CIP2012001754",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2549952_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림",
+          "weight": 40.0
+        },
+        {
+          "word": "박수근",
+          "weight": 28.0
+        },
+        {
+          "word": "화가",
+          "weight": 19.0
+        },
+        {
+          "word": "소년",
+          "weight": 17.0
+        },
+        {
+          "word": "그림책",
+          "weight": 16.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "모습",
+          "weight": 6.0
+        },
+        {
+          "word": "순한",
+          "weight": 5.0
+        },
+        {
+          "word": "양구",
+          "weight": 5.0
+        },
+        {
+          "word": "징검돌",
+          "weight": 5.0
+        },
+        {
+          "word": "그린",
+          "weight": 4.0
+        },
+        {
+          "word": "풍경",
+          "weight": 4.0
+        },
+        {
+          "word": "사람들",
+          "weight": 4.0
+        },
+        {
+          "word": "감상자",
+          "weight": 4.0
+        },
+        {
+          "word": "복순이",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "꿈꾸는 징검돌",
+          "weight": 3.0
+        },
+        {
+          "word": "농악",
+          "weight": 3.0
+        },
+        {
+          "word": "시선",
+          "weight": 3.0
+        },
+        {
+          "word": "평범",
+          "weight": 3.0
+        },
+        {
+          "word": "절구질하는 여인",
+          "weight": 3.0
+        },
+        {
+          "word": "재현",
+          "weight": 3.0
+        },
+        {
+          "word": "노인과 소녀",
+          "weight": 3.0
+        },
+        {
+          "word": "동시",
+          "weight": 2.0
+        },
+        {
+          "word": "판타지",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "천진",
+          "weight": 2.0
+        },
+        {
+          "word": "장터",
+          "weight": 2.0
+        },
+        {
+          "word": "시장",
+          "weight": 2.0
+        },
+        {
+          "word": "마음속",
+          "weight": 2.0
+        },
+        {
+          "word": "훗날",
+          "weight": 2.0
+        },
+        {
+          "word": "유년기",
+          "weight": 2.0
+        },
+        {
+          "word": "말들",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "덧입혀",
+          "weight": 2.0
+        },
+        {
+          "word": "생전",
+          "weight": 2.0
+        },
+        {
+          "word": "감탄",
+          "weight": 2.0
+        },
+        {
+          "word": "사계절출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "스케치",
+          "weight": 2.0
+        },
+        {
+          "word": "옆집",
+          "weight": 2.0
+        },
+        {
+          "word": "고장",
+          "weight": 2.0
+        },
+        {
+          "word": "보이",
+          "weight": 2.0
+        },
+        {
+          "word": "구경",
+          "weight": 2.0
+        },
+        {
+          "word": "김용철 쓰고",
+          "weight": 2.0
+        },
+        {
+          "word": "우직",
+          "weight": 2.0
+        },
+        {
+          "word": "주지",
+          "weight": 2.0
+        },
+        {
+          "word": "감수성",
+          "weight": 2.0
+        },
+        {
+          "word": "하나하나",
+          "weight": 2.0
+        },
+        {
+          "word": "느낌",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학생이 보는 그림책 시리즈 26권. 화가 박수근의 이야기를 판타지로 풀어낸 색다른 그림책으로, 그림책 속 소년 박수근이 그의 ‘사람들’을 만나고, 훗날 ‘자신이 그리게 될 그림 속 풍경’ 속으로 들어간다. 박수근의 그림에 등장하는 평범한 ‘사람들’의 이야기와 그림에 드러나 보이는 화가의 따뜻하고 천진한 감수성이 돋보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "폭풍우 치는 밤에",
+          "isbn13": "9788937814754",
+          "authors": "키무라 유이치 글;김정화 옮김"
+        },
+        {
+          "bookname": "내 짝꿍 최영대 ",
+          "isbn13": "9788986565508",
+          "authors": "글: 채인선 ;그림: 정순희"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "투발루에게 수영을 가르칠 걸 그랬어! ",
+          "isbn13": "9788983944245",
+          "authors": "유다정 글 ;박재현 그림"
+        },
+        {
+          "bookname": "틀려도 괜찮아",
+          "isbn13": "9788990611260",
+          "authors": "마키타 신지 글;유문조 옮김"
+        },
+        {
+          "bookname": "아이스크림 걸음! ",
+          "isbn13": "9791186531778",
+          "authors": "박종진 씀 ;송선옥 그림"
+        },
+        {
+          "bookname": "배운다는 건 뭘까? ",
+          "isbn13": "9788980713530",
+          "authors": "채인선 글 ;윤봉선 그림"
+        }
+      ],
+      "title": "꿈꾸는 징검돌 ",
+      "author": "김용철 쓰고 그림",
+      "kdc_from_api": "998.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

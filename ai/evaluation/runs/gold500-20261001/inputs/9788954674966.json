@@ -1,0 +1,1080 @@
+{
+  "isbn": "9788954674966",
+  "captured_at": "2026-10-04T00:17:45.009876+09:00",
+  "lookup": {
+    "isbn": "9788954674966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954674966",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "(2020) 김승옥문학상 수상작품집",
+      "subtitle": "",
+      "author": "지은이: 김금희,은희경,권여선,정한아,최은미,기준영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2020",
+      "publish_predate": "20200928",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "130*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2020 김승옥문학상 수상 작가는 김금희, 은희경, 권여선, 황정은, 정한아, 최은미, 기준영이다. 누구도 의심할 수 없을 문학적 성과를 이뤄오며 한국문학의 중추가 된 이들 중 \"'소설' 장르가 아니고선 결코 도달할 수 없는 자리라고 판단\"(신수정)된 김금희 작가에게 대상의 영예가 주어졌다.",
+      "control_no": "CIP2020038395",
+      "cover_url": "https://image.aladin.co.kr/product/25233/6/cover/8954674968_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "작가노트",
+          "weight": 10.0
+        },
+        {
+          "word": "리뷰",
+          "weight": 10.0
+        },
+        {
+          "word": "김금희",
+          "weight": 8.0
+        },
+        {
+          "word": "대상",
+          "weight": 8.0
+        },
+        {
+          "word": "김승옥문학상",
+          "weight": 6.0
+        },
+        {
+          "word": "기준영",
+          "weight": 5.0
+        },
+        {
+          "word": "한국문학",
+          "weight": 5.0
+        },
+        {
+          "word": "의심",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "정한아",
+          "weight": 4.0
+        },
+        {
+          "word": "최은미",
+          "weight": 4.0
+        },
+        {
+          "word": "우수",
+          "weight": 4.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 4.0
+        },
+        {
+          "word": "은희경",
+          "weight": 4.0
+        },
+        {
+          "word": "자리",
+          "weight": 4.0
+        },
+        {
+          "word": "실버",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "하성란",
+          "weight": 3.0
+        },
+        {
+          "word": "김화영",
+          "weight": 3.0
+        },
+        {
+          "word": "류보선",
+          "weight": 3.0
+        },
+        {
+          "word": "천만사",
+          "weight": 3.0
+        },
+        {
+          "word": "낙원",
+          "weight": 3.0
+        },
+        {
+          "word": "바다",
+          "weight": 3.0
+        },
+        {
+          "word": "아름다움이 나를 멸시한다",
+          "weight": 3.0
+        },
+        {
+          "word": "단편",
+          "weight": 3.0
+        },
+        {
+          "word": "타인에게 말 걸기",
+          "weight": 3.0
+        },
+        {
+          "word": "황정은",
+          "weight": 3.0
+        },
+        {
+          "word": "페퍼로",
+          "weight": 3.0
+        },
+        {
+          "word": "그것은 꿈이었을까",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "얼마",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀과 거짓말",
+          "weight": 3.0
+        },
+        {
+          "word": "상속",
+          "weight": 3.0
+        },
+        {
+          "word": "이중주",
+          "weight": 3.0
+        },
+        {
+          "word": "마이너리그",
+          "weight": 3.0
+        },
+        {
+          "word": "빛의 과거",
+          "weight": 3.0
+        },
+        {
+          "word": "소년을 위로해줘",
+          "weight": 3.0
+        },
+        {
+          "word": "들소",
+          "weight": 3.0
+        },
+        {
+          "word": "중국식 룰렛",
+          "weight": 3.0
+        },
+        {
+          "word": "새의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "윤대녕",
+          "weight": 3.0
+        },
+        {
+          "word": "태연한 인생",
+          "weight": 3.0
+        },
+        {
+          "word": "발표",
+          "weight": 3.0
+        },
+        {
+          "word": "캥거루",
+          "weight": 3.0
+        },
+        {
+          "word": "마지막 춤은 나와 함께",
+          "weight": 3.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "후회",
+          "weight": 2.0
+        },
+        {
+          "word": "고통",
+          "weight": 2.0
+        },
+        {
+          "word": "10년",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        }
+      ],
+      "description": "2020 김승옥문학상 수상 작가는 김금희, 은희경, 권여선, 황정은, 정한아, 최은미, 기준영이다. 누구도 의심할 수 없을 문학적 성과를 이뤄오며 한국문학의 중추가 된 이들 중 \"'소설' 장르가 아니고선 결코 도달할 수 없는 자리라고 판단\"(신수정)된 김금희 작가에게 대상의 영예가 주어졌다.",
+      "co_loan_books": [
+        {
+          "bookname": "(2022) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954688697",
+          "authors": "지은이: 편혜영,백수린"
+        },
+        {
+          "bookname": "(2021) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954682527",
+          "authors": "지은이: 문진영,황현진"
+        },
+        {
+          "bookname": "2019 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954657952",
+          "authors": "지은이: 윤성희,김금희"
+        },
+        {
+          "bookname": "(2023) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954695398",
+          "authors": "지은이: 권여선,백수린"
+        },
+        {
+          "bookname": "홈 스위트 홈 외 5편 ",
+          "isbn13": "9788970125640",
+          "authors": "지은이: 최진영,최은미"
+        },
+        {
+          "bookname": "(2023 제14회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954691741",
+          "authors": "지은이: 이미상,현호정"
+        },
+        {
+          "bookname": "(2022 제13회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954685887",
+          "authors": "지은이: 임솔아,서이제"
+        },
+        {
+          "bookname": "(2024 제15회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954638746",
+          "authors": "지은이: 김멜라,전지영"
+        },
+        {
+          "bookname": "각각의 계절 :권여선 소설 ",
+          "isbn13": "9788954692526",
+          "authors": "지은이: 권여선"
+        },
+        {
+          "bookname": "2018 김유정문학상 :제12회 수상 작품집 ",
+          "isbn13": "9791188810666",
+          "authors": "지은이: 한강,정지돈"
+        }
+      ],
+      "title": "(2020) 김승옥문학상 수상작품집",
+      "author": "지은이: 김금희,은희경,권여선,정한아,최은미,기준영",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(2020) 김승옥문학상 수상작품집",
+        "author": "지은이: 김금희,은희경,권여선,정한아,최은미,기준영",
+        "publisher": "문학동네",
+        "publish_predate": "20200928",
+        "isbn": "9788954674966",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩10000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "310 p.",
+        "book_size": "130*205",
+        "form": "종이책",
+        "kdc": "813.7",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020038395",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(2020) 김승옥문학상 수상작품집 ",
+        "author": "지은이: 김금희,기준영",
+        "publisher": "문학동네",
+        "publish_year": "2020",
+        "isbn": "8954674968",
+        "isbn13": "9788954674966",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "2020 김승옥문학상 수상 작가는 김금희, 은희경, 권여선, 황정은, 정한아, 최은미, 기준영이다. 누구도 의심할 수 없을 문학적 성과를 이뤄오며 한국문학의 중추가 된 이들 중 \"'소설' 장르가 아니고선 결코 도달할 수 없는 자리라고 판단\"(신수정)된 김금희 작가에게 대상의 영예가 주어졌다.",
+        "cover_url": "https://image.aladin.co.kr/product/25233/6/cover/8954674968_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "작가노트",
+            "weight": 10.0
+          },
+          {
+            "word": "리뷰",
+            "weight": 10.0
+          },
+          {
+            "word": "김금희",
+            "weight": 8.0
+          },
+          {
+            "word": "대상",
+            "weight": 8.0
+          },
+          {
+            "word": "김승옥문학상",
+            "weight": 6.0
+          },
+          {
+            "word": "기준영",
+            "weight": 5.0
+          },
+          {
+            "word": "한국문학",
+            "weight": 5.0
+          },
+          {
+            "word": "의심",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "정한아",
+            "weight": 4.0
+          },
+          {
+            "word": "최은미",
+            "weight": 4.0
+          },
+          {
+            "word": "우수",
+            "weight": 4.0
+          },
+          {
+            "word": "문학동네",
+            "weight": 4.0
+          },
+          {
+            "word": "은희경",
+            "weight": 4.0
+          },
+          {
+            "word": "자리",
+            "weight": 4.0
+          },
+          {
+            "word": "실버",
+            "weight": 3.0
+          },
+          {
+            "word": "이름",
+            "weight": 3.0
+          },
+          {
+            "word": "하성란",
+            "weight": 3.0
+          },
+          {
+            "word": "김화영",
+            "weight": 3.0
+          },
+          {
+            "word": "류보선",
+            "weight": 3.0
+          },
+          {
+            "word": "천만사",
+            "weight": 3.0
+          },
+          {
+            "word": "낙원",
+            "weight": 3.0
+          },
+          {
+            "word": "바다",
+            "weight": 3.0
+          },
+          {
+            "word": "아름다움이 나를 멸시한다",
+            "weight": 3.0
+          },
+          {
+            "word": "단편",
+            "weight": 3.0
+          },
+          {
+            "word": "타인에게 말 걸기",
+            "weight": 3.0
+          },
+          {
+            "word": "황정은",
+            "weight": 3.0
+          },
+          {
+            "word": "페퍼로",
+            "weight": 3.0
+          },
+          {
+            "word": "그것은 꿈이었을까",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "얼마",
+            "weight": 3.0
+          },
+          {
+            "word": "비밀과 거짓말",
+            "weight": 3.0
+          },
+          {
+            "word": "상속",
+            "weight": 3.0
+          },
+          {
+            "word": "이중주",
+            "weight": 3.0
+          },
+          {
+            "word": "마이너리그",
+            "weight": 3.0
+          },
+          {
+            "word": "빛의 과거",
+            "weight": 3.0
+          },
+          {
+            "word": "소년을 위로해줘",
+            "weight": 3.0
+          },
+          {
+            "word": "들소",
+            "weight": 3.0
+          },
+          {
+            "word": "중국식 룰렛",
+            "weight": 3.0
+          },
+          {
+            "word": "새의 선물",
+            "weight": 3.0
+          },
+          {
+            "word": "윤대녕",
+            "weight": 3.0
+          },
+          {
+            "word": "태연한 인생",
+            "weight": 3.0
+          },
+          {
+            "word": "발표",
+            "weight": 3.0
+          },
+          {
+            "word": "캥거루",
+            "weight": 3.0
+          },
+          {
+            "word": "마지막 춤은 나와 함께",
+            "weight": 3.0
+          },
+          {
+            "word": "선정",
+            "weight": 2.0
+          },
+          {
+            "word": "후회",
+            "weight": 2.0
+          },
+          {
+            "word": "고통",
+            "weight": 2.0
+          },
+          {
+            "word": "10년",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(2022) 김승옥문학상 수상작품집 ",
+            "isbn13": "9788954688697",
+            "authors": "지은이: 편혜영,백수린"
+          },
+          {
+            "bookname": "(2021) 김승옥문학상 수상작품집 ",
+            "isbn13": "9788954682527",
+            "authors": "지은이: 문진영,황현진"
+          },
+          {
+            "bookname": "2019 김승옥문학상 수상작품집 ",
+            "isbn13": "9788954657952",
+            "authors": "지은이: 윤성희,김금희"
+          },
+          {
+            "bookname": "(2023) 김승옥문학상 수상작품집 ",
+            "isbn13": "9788954695398",
+            "authors": "지은이: 권여선,백수린"
+          },
+          {
+            "bookname": "홈 스위트 홈 외 5편 ",
+            "isbn13": "9788970125640",
+            "authors": "지은이: 최진영,최은미"
+          },
+          {
+            "bookname": "(2023 제14회) 젊은작가상 수상작품집 ",
+            "isbn13": "9788954691741",
+            "authors": "지은이: 이미상,현호정"
+          },
+          {
+            "bookname": "(2022 제13회) 젊은작가상 수상작품집 ",
+            "isbn13": "9788954685887",
+            "authors": "지은이: 임솔아,서이제"
+          },
+          {
+            "bookname": "(2024 제15회) 젊은작가상 수상작품집 ",
+            "isbn13": "9788954638746",
+            "authors": "지은이: 김멜라,전지영"
+          },
+          {
+            "bookname": "각각의 계절 :권여선 소설 ",
+            "isbn13": "9788954692526",
+            "authors": "지은이: 권여선"
+          },
+          {
+            "bookname": "2018 김유정문학상 :제12회 수상 작품집 ",
+            "isbn13": "9791188810666",
+            "authors": "지은이: 한강,정지돈"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(2020) 김승옥문학상 수상작품집"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000780744",
+        "title": "김승옥문학상 수상작품집(2020)",
+        "subtitle": "",
+        "page": "312 p.",
+        "book_size": "131*205mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788954674966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954674966",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "(2020) 김승옥문학상 수상작품집",
+      "subtitle": "",
+      "author": "지은이: 김금희,은희경,권여선,정한아,최은미,기준영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2020",
+      "publish_predate": "20200928",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "130*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2020 김승옥문학상 수상 작가는 김금희, 은희경, 권여선, 황정은, 정한아, 최은미, 기준영이다. 누구도 의심할 수 없을 문학적 성과를 이뤄오며 한국문학의 중추가 된 이들 중 \"'소설' 장르가 아니고선 결코 도달할 수 없는 자리라고 판단\"(신수정)된 김금희 작가에게 대상의 영예가 주어졌다.",
+      "control_no": "CIP2020038395",
+      "cover_url": "https://image.aladin.co.kr/product/25233/6/cover/8954674968_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "작가노트",
+          "weight": 10.0
+        },
+        {
+          "word": "리뷰",
+          "weight": 10.0
+        },
+        {
+          "word": "김금희",
+          "weight": 8.0
+        },
+        {
+          "word": "대상",
+          "weight": 8.0
+        },
+        {
+          "word": "김승옥문학상",
+          "weight": 6.0
+        },
+        {
+          "word": "기준영",
+          "weight": 5.0
+        },
+        {
+          "word": "한국문학",
+          "weight": 5.0
+        },
+        {
+          "word": "의심",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "정한아",
+          "weight": 4.0
+        },
+        {
+          "word": "최은미",
+          "weight": 4.0
+        },
+        {
+          "word": "우수",
+          "weight": 4.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 4.0
+        },
+        {
+          "word": "은희경",
+          "weight": 4.0
+        },
+        {
+          "word": "자리",
+          "weight": 4.0
+        },
+        {
+          "word": "실버",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "하성란",
+          "weight": 3.0
+        },
+        {
+          "word": "김화영",
+          "weight": 3.0
+        },
+        {
+          "word": "류보선",
+          "weight": 3.0
+        },
+        {
+          "word": "천만사",
+          "weight": 3.0
+        },
+        {
+          "word": "낙원",
+          "weight": 3.0
+        },
+        {
+          "word": "바다",
+          "weight": 3.0
+        },
+        {
+          "word": "아름다움이 나를 멸시한다",
+          "weight": 3.0
+        },
+        {
+          "word": "단편",
+          "weight": 3.0
+        },
+        {
+          "word": "타인에게 말 걸기",
+          "weight": 3.0
+        },
+        {
+          "word": "황정은",
+          "weight": 3.0
+        },
+        {
+          "word": "페퍼로",
+          "weight": 3.0
+        },
+        {
+          "word": "그것은 꿈이었을까",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "얼마",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀과 거짓말",
+          "weight": 3.0
+        },
+        {
+          "word": "상속",
+          "weight": 3.0
+        },
+        {
+          "word": "이중주",
+          "weight": 3.0
+        },
+        {
+          "word": "마이너리그",
+          "weight": 3.0
+        },
+        {
+          "word": "빛의 과거",
+          "weight": 3.0
+        },
+        {
+          "word": "소년을 위로해줘",
+          "weight": 3.0
+        },
+        {
+          "word": "들소",
+          "weight": 3.0
+        },
+        {
+          "word": "중국식 룰렛",
+          "weight": 3.0
+        },
+        {
+          "word": "새의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "윤대녕",
+          "weight": 3.0
+        },
+        {
+          "word": "태연한 인생",
+          "weight": 3.0
+        },
+        {
+          "word": "발표",
+          "weight": 3.0
+        },
+        {
+          "word": "캥거루",
+          "weight": 3.0
+        },
+        {
+          "word": "마지막 춤은 나와 함께",
+          "weight": 3.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "후회",
+          "weight": 2.0
+        },
+        {
+          "word": "고통",
+          "weight": 2.0
+        },
+        {
+          "word": "10년",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        }
+      ],
+      "description": "2020 김승옥문학상 수상 작가는 김금희, 은희경, 권여선, 황정은, 정한아, 최은미, 기준영이다. 누구도 의심할 수 없을 문학적 성과를 이뤄오며 한국문학의 중추가 된 이들 중 \"'소설' 장르가 아니고선 결코 도달할 수 없는 자리라고 판단\"(신수정)된 김금희 작가에게 대상의 영예가 주어졌다.",
+      "co_loan_books": [
+        {
+          "bookname": "(2022) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954688697",
+          "authors": "지은이: 편혜영,백수린"
+        },
+        {
+          "bookname": "(2021) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954682527",
+          "authors": "지은이: 문진영,황현진"
+        },
+        {
+          "bookname": "2019 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954657952",
+          "authors": "지은이: 윤성희,김금희"
+        },
+        {
+          "bookname": "(2023) 김승옥문학상 수상작품집 ",
+          "isbn13": "9788954695398",
+          "authors": "지은이: 권여선,백수린"
+        },
+        {
+          "bookname": "홈 스위트 홈 외 5편 ",
+          "isbn13": "9788970125640",
+          "authors": "지은이: 최진영,최은미"
+        },
+        {
+          "bookname": "(2023 제14회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954691741",
+          "authors": "지은이: 이미상,현호정"
+        },
+        {
+          "bookname": "(2022 제13회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954685887",
+          "authors": "지은이: 임솔아,서이제"
+        },
+        {
+          "bookname": "(2024 제15회) 젊은작가상 수상작품집 ",
+          "isbn13": "9788954638746",
+          "authors": "지은이: 김멜라,전지영"
+        },
+        {
+          "bookname": "각각의 계절 :권여선 소설 ",
+          "isbn13": "9788954692526",
+          "authors": "지은이: 권여선"
+        },
+        {
+          "bookname": "2018 김유정문학상 :제12회 수상 작품집 ",
+          "isbn13": "9791188810666",
+          "authors": "지은이: 한강,정지돈"
+        }
+      ],
+      "title": "(2020) 김승옥문학상 수상작품집",
+      "author": "지은이: 김금희,은희경,권여선,정한아,최은미,기준영",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

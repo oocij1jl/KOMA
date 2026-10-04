@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190313131",
+  "captured_at": "2026-10-02T00:17:24.209667+09:00",
+  "lookup": {
+    "isbn": "9791190313131",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190313131",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩19800",
+      "title": "지적 대화를 위한 넓고 얕은 지식 0",
+      "subtitle": "지혜를 찾아 138억 년을 달리는 시간 여행서",
+      "author": "채사장 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Whale Books(웨일북)",
+      "publish_year": "2019",
+      "publish_predate": "20191224",
+      "kdc": "001.3",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 지식, 학문 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "556 p.",
+      "book_size": "152*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "《지적 대화를 위한 넓고 얕은 지식》 시리즈 제로편. 이원론 전에 훨씬 더 오랜 시간을 지배했던 일원론을 다룬 책이다. 인류 사상사에서 가장 중요한 지식으로 꼽히는 동양의 사상과 인물들을 흥미진진하게 소개한다.",
+      "control_no": "CIP2019048800",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/27/9791190313131.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "우주",
+          "weight": 27.0
+        },
+        {
+          "word": "지식",
+          "weight": 22.0
+        },
+        {
+          "word": "세계",
+          "weight": 18.0
+        },
+        {
+          "word": "인간",
+          "weight": 15.0
+        },
+        {
+          "word": "탄생",
+          "weight": 13.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "사상",
+          "weight": 9.0
+        },
+        {
+          "word": "배경",
+          "weight": 7.0
+        },
+        {
+          "word": "문명",
+          "weight": 6.0
+        },
+        {
+          "word": "세계관",
+          "weight": 6.0
+        },
+        {
+          "word": "대화",
+          "weight": 6.0
+        },
+        {
+          "word": "가지",
+          "weight": 6.0
+        },
+        {
+          "word": "생애",
+          "weight": 6.0
+        },
+        {
+          "word": "불교",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 5.0
+        },
+        {
+          "word": "자아",
+          "weight": 5.0
+        },
+        {
+          "word": "시간",
+          "weight": 5.0
+        },
+        {
+          "word": "지적",
+          "weight": 5.0
+        },
+        {
+          "word": "인류",
+          "weight": 5.0
+        },
+        {
+          "word": "종교",
+          "weight": 5.0
+        },
+        {
+          "word": "현실",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "역사적",
+          "weight": 5.0
+        },
+        {
+          "word": "인문학",
+          "weight": 5.0
+        },
+        {
+          "word": "대하",
+          "weight": 4.0
+        },
+        {
+          "word": "공자",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "존재",
+          "weight": 4.0
+        },
+        {
+          "word": "베다",
+          "weight": 4.0
+        },
+        {
+          "word": "채사장",
+          "weight": 4.0
+        },
+        {
+          "word": "다중",
+          "weight": 4.0
+        },
+        {
+          "word": "지대넓얕",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "이원론",
+          "weight": 4.0
+        },
+        {
+          "word": "예수",
+          "weight": 4.0
+        },
+        {
+          "word": "생명",
+          "weight": 4.0
+        },
+        {
+          "word": "일원론",
+          "weight": 4.0
+        },
+        {
+          "word": "분야",
+          "weight": 4.0
+        },
+        {
+          "word": "빅뱅",
+          "weight": 4.0
+        },
+        {
+          "word": "기록",
+          "weight": 4.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "정신",
+          "weight": 3.0
+        },
+        {
+          "word": "2권은",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "의미",
+          "weight": 3.0
+        },
+        {
+          "word": "밀리언셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "열한 계단",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        }
+      ],
+      "description": "《지적 대화를 위한 넓고 얕은 지식》 시리즈 제로편. 이원론 전에 훨씬 더 오랜 시간을 지배했던 일원론을 다룬 책이다. 인류 사상사에서 가장 중요한 지식으로 꼽히는 동양의 사상과 인물들을 흥미진진하게 소개한다.",
+      "co_loan_books": [
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "isbn13": "9791190313186",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "isbn13": "9791190313193",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120997",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120966",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 ∞ :지식과 지혜를 실천으로 이끄는 마음 여행서 ",
+          "isbn13": "9791192097978",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        }
+      ],
+      "title": "지적 대화를 위한 넓고 얕은 지식 0",
+      "author": "채사장 지음",
+      "kdc_from_api": "001.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지적 대화를 위한 넓고 얕은 지식 0",
+        "author": "채사장 지음",
+        "publisher": "Whale Books(웨일북)",
+        "publish_predate": "20191224",
+        "isbn": "9791190313131",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩19800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "556 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "001.3",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019048800",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/27/9791190313131.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+        "author": "채사장 지음",
+        "publisher": "Whale Books(웨일북)",
+        "publish_year": "2019",
+        "isbn": "1190313138",
+        "isbn13": "9791190313131",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "001.3",
+        "class_nm": "총류 > 총류 > 지식, 학문 일반",
+        "description": "《지적 대화를 위한 넓고 얕은 지식》 시리즈 제로편. 이원론 전에 훨씬 더 오랜 시간을 지배했던 일원론을 다룬 책이다. 인류 사상사에서 가장 중요한 지식으로 꼽히는 동양의 사상과 인물들을 흥미진진하게 소개한다.",
+        "cover_url": "https://image.aladin.co.kr/product/21984/15/cover/k622636607_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "우주",
+            "weight": 27.0
+          },
+          {
+            "word": "지식",
+            "weight": 22.0
+          },
+          {
+            "word": "세계",
+            "weight": 18.0
+          },
+          {
+            "word": "인간",
+            "weight": 15.0
+          },
+          {
+            "word": "탄생",
+            "weight": 13.0
+          },
+          {
+            "word": "역사",
+            "weight": 9.0
+          },
+          {
+            "word": "사상",
+            "weight": 9.0
+          },
+          {
+            "word": "배경",
+            "weight": 7.0
+          },
+          {
+            "word": "문명",
+            "weight": 6.0
+          },
+          {
+            "word": "세계관",
+            "weight": 6.0
+          },
+          {
+            "word": "대화",
+            "weight": 6.0
+          },
+          {
+            "word": "가지",
+            "weight": 6.0
+          },
+          {
+            "word": "생애",
+            "weight": 6.0
+          },
+          {
+            "word": "불교",
+            "weight": 6.0
+          },
+          {
+            "word": "이해",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 5.0
+          },
+          {
+            "word": "팟캐스트",
+            "weight": 5.0
+          },
+          {
+            "word": "자아",
+            "weight": 5.0
+          },
+          {
+            "word": "시간",
+            "weight": 5.0
+          },
+          {
+            "word": "지적",
+            "weight": 5.0
+          },
+          {
+            "word": "인류",
+            "weight": 5.0
+          },
+          {
+            "word": "종교",
+            "weight": 5.0
+          },
+          {
+            "word": "현실",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 5.0
+          },
+          {
+            "word": "역사적",
+            "weight": 5.0
+          },
+          {
+            "word": "인문학",
+            "weight": 5.0
+          },
+          {
+            "word": "대하",
+            "weight": 4.0
+          },
+          {
+            "word": "공자",
+            "weight": 4.0
+          },
+          {
+            "word": "시대",
+            "weight": 4.0
+          },
+          {
+            "word": "존재",
+            "weight": 4.0
+          },
+          {
+            "word": "베다",
+            "weight": 4.0
+          },
+          {
+            "word": "채사장",
+            "weight": 4.0
+          },
+          {
+            "word": "다중",
+            "weight": 4.0
+          },
+          {
+            "word": "지대넓얕",
+            "weight": 4.0
+          },
+          {
+            "word": "철학",
+            "weight": 4.0
+          },
+          {
+            "word": "이원론",
+            "weight": 4.0
+          },
+          {
+            "word": "예수",
+            "weight": 4.0
+          },
+          {
+            "word": "생명",
+            "weight": 4.0
+          },
+          {
+            "word": "일원론",
+            "weight": 4.0
+          },
+          {
+            "word": "분야",
+            "weight": 4.0
+          },
+          {
+            "word": "빅뱅",
+            "weight": 4.0
+          },
+          {
+            "word": "기록",
+            "weight": 4.0
+          },
+          {
+            "word": "문제",
+            "weight": 3.0
+          },
+          {
+            "word": "정신",
+            "weight": 3.0
+          },
+          {
+            "word": "2권은",
+            "weight": 3.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "의미",
+            "weight": 3.0
+          },
+          {
+            "word": "밀리언셀러",
+            "weight": 3.0
+          },
+          {
+            "word": "열한 계단",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+            "isbn13": "9791190313186",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+            "isbn13": "9791190313193",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식",
+            "isbn13": "9788994120997",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식",
+            "isbn13": "9788994120966",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 ∞ :지식과 지혜를 실천으로 이끄는 마음 여행서 ",
+            "isbn13": "9791192097978",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+            "isbn13": "9788934972464",
+            "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지적 대화를 위한 넓고 얕은 지식 0 - 지혜를 찾아 138억 년을 달리는 시간 여행서"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001938772",
+        "title": "지적 대화를 위한 넓고 얕은 지식: 제로 편",
+        "subtitle": "지혜를 찾아 138억 년을 달리는 시간 여행서",
+        "page": "556 p.",
+        "book_size": "152*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190313131",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190313131",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩19800",
+      "title": "지적 대화를 위한 넓고 얕은 지식 0",
+      "subtitle": "지혜를 찾아 138억 년을 달리는 시간 여행서",
+      "author": "채사장 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Whale Books(웨일북)",
+      "publish_year": "2019",
+      "publish_predate": "20191224",
+      "kdc": "001.3",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 지식, 학문 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "556 p.",
+      "book_size": "152*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "《지적 대화를 위한 넓고 얕은 지식》 시리즈 제로편. 이원론 전에 훨씬 더 오랜 시간을 지배했던 일원론을 다룬 책이다. 인류 사상사에서 가장 중요한 지식으로 꼽히는 동양의 사상과 인물들을 흥미진진하게 소개한다.",
+      "control_no": "CIP2019048800",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/27/9791190313131.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "우주",
+          "weight": 27.0
+        },
+        {
+          "word": "지식",
+          "weight": 22.0
+        },
+        {
+          "word": "세계",
+          "weight": 18.0
+        },
+        {
+          "word": "인간",
+          "weight": 15.0
+        },
+        {
+          "word": "탄생",
+          "weight": 13.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "사상",
+          "weight": 9.0
+        },
+        {
+          "word": "배경",
+          "weight": 7.0
+        },
+        {
+          "word": "문명",
+          "weight": 6.0
+        },
+        {
+          "word": "세계관",
+          "weight": 6.0
+        },
+        {
+          "word": "대화",
+          "weight": 6.0
+        },
+        {
+          "word": "가지",
+          "weight": 6.0
+        },
+        {
+          "word": "생애",
+          "weight": 6.0
+        },
+        {
+          "word": "불교",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 5.0
+        },
+        {
+          "word": "자아",
+          "weight": 5.0
+        },
+        {
+          "word": "시간",
+          "weight": 5.0
+        },
+        {
+          "word": "지적",
+          "weight": 5.0
+        },
+        {
+          "word": "인류",
+          "weight": 5.0
+        },
+        {
+          "word": "종교",
+          "weight": 5.0
+        },
+        {
+          "word": "현실",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "역사적",
+          "weight": 5.0
+        },
+        {
+          "word": "인문학",
+          "weight": 5.0
+        },
+        {
+          "word": "대하",
+          "weight": 4.0
+        },
+        {
+          "word": "공자",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "존재",
+          "weight": 4.0
+        },
+        {
+          "word": "베다",
+          "weight": 4.0
+        },
+        {
+          "word": "채사장",
+          "weight": 4.0
+        },
+        {
+          "word": "다중",
+          "weight": 4.0
+        },
+        {
+          "word": "지대넓얕",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "이원론",
+          "weight": 4.0
+        },
+        {
+          "word": "예수",
+          "weight": 4.0
+        },
+        {
+          "word": "생명",
+          "weight": 4.0
+        },
+        {
+          "word": "일원론",
+          "weight": 4.0
+        },
+        {
+          "word": "분야",
+          "weight": 4.0
+        },
+        {
+          "word": "빅뱅",
+          "weight": 4.0
+        },
+        {
+          "word": "기록",
+          "weight": 4.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "정신",
+          "weight": 3.0
+        },
+        {
+          "word": "2권은",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "의미",
+          "weight": 3.0
+        },
+        {
+          "word": "밀리언셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "열한 계단",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        }
+      ],
+      "description": "《지적 대화를 위한 넓고 얕은 지식》 시리즈 제로편. 이원론 전에 훨씬 더 오랜 시간을 지배했던 일원론을 다룬 책이다. 인류 사상사에서 가장 중요한 지식으로 꼽히는 동양의 사상과 인물들을 흥미진진하게 소개한다.",
+      "co_loan_books": [
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "isbn13": "9791190313186",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "isbn13": "9791190313193",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120997",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120966",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 ∞ :지식과 지혜를 실천으로 이끄는 마음 여행서 ",
+          "isbn13": "9791192097978",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        }
+      ],
+      "title": "지적 대화를 위한 넓고 얕은 지식 0",
+      "author": "채사장 지음",
+      "kdc_from_api": "001.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "isbn": "9788964960035",
+  "captured_at": "2026-10-05T00:11:26.927525+09:00",
+  "lookup": {
+    "isbn": "9788964960035",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788964960035",
+      "isbn_add_code": "73190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "나는 나의 주인",
+      "subtitle": "양장본 Hardcover",
+      "author": "채인선 글; 안은진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "토토북",
+      "publish_year": "2010",
+      "publish_predate": "20100514",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "초판",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "234*255mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;아름다운 가치 사전&gt;, &lt;내 짝꿍 최영대&gt;, &lt;아름다운 감정학교&gt;을 쓴 채인선 작가의 그림책. 내 몸과 마음의 주인이 되려면 어떻게 해야 할까? 채인선 작가는 조곤한 말투로 나의 주인으로 자라는 법을 알려준다. 주인은 자기 몸과 마음이 하는 소리를 귀 담아 듣고 보살펴준다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/062/805/06280530.jpg?type=m1&udate=20170310",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "주인",
+          "weight": 5.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "채인선",
+          "weight": 4.0
+        },
+        {
+          "word": "토토북",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "이미지",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이예술",
+          "weight": 2.0
+        },
+        {
+          "word": "소리",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "별책",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "안은진",
+          "weight": 2.0
+        },
+        {
+          "word": "자라",
+          "weight": 1.0
+        },
+        {
+          "word": "자신",
+          "weight": 1.0
+        },
+        {
+          "word": "주인공",
+          "weight": 1.0
+        },
+        {
+          "word": "연극",
+          "weight": 1.0
+        },
+        {
+          "word": "짝꿍",
+          "weight": 1.0
+        },
+        {
+          "word": "최영대",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "친구",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "감정학교을",
+          "weight": 1.0
+        },
+        {
+          "word": "개구진",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "그림책",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "마련",
+          "weight": 1.0
+        },
+        {
+          "word": "말투",
+          "weight": 1.0
+        },
+        {
+          "word": "무대",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "사전",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "가치",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;아름다운 가치 사전&gt;, &lt;내 짝꿍 최영대&gt;, &lt;아름다운 감정학교&gt;을 쓴 채인선 작가의 그림책. 내 몸과 마음의 주인이 되려면 어떻게 해야 할까? 채인선 작가는 조곤한 말투로 나의 주인으로 자라는 법을 알려준다. 주인은 자기 몸과 마음이 하는 소리를 귀 담아 듣고 보살펴준다.",
+      "co_loan_books": [
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "틀려도 괜찮아",
+          "isbn13": "9788990611260",
+          "authors": "마키타 신지 글;유문조 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "돼지책",
+          "isbn13": "9788901033518",
+          "authors": "글·그림: 앤서니 브라운;옮긴이: 허은미"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "나는 나의 주인",
+      "author": "채인선 글; 안은진 그림",
+      "kdc_from_api": "189",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "나는 나의 주인",
+        "author": "채인선 글; 안은진 그림",
+        "publisher": "토토북",
+        "publish_predate": "20100514",
+        "isbn": "9788964960035",
+        "isbn_add_code": "73190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩10000",
+        "edition_stmt": "초판",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "나는 나의 주인 ",
+        "author": "채인선 글 ;안은진 그림",
+        "publisher": "토토북",
+        "publish_year": "2010",
+        "isbn": "8964960033",
+        "isbn13": "9788964960035",
+        "isbn_add_code": "73190",
+        "volume": "",
+        "class_no": "189",
+        "class_nm": "철학 > 심리학 > 응용심리학 일반",
+        "description": "&lt;아름다운 가치 사전&gt;, &lt;내 짝꿍 최영대&gt;, &lt;아름다운 감정학교&gt;을 쓴 채인선 작가의 그림책. 내 몸과 마음의 주인이 되려면 어떻게 해야 할까? 채인선 작가는 조곤한 말투로 나의 주인으로 자라는 법을 알려준다. 주인은 자기 몸과 마음이 하는 소리를 귀 담아 듣고 보살펴준다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/062/805/06280530.jpg?type=m1&udate=20170310"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "주인",
+            "weight": 5.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "채인선",
+            "weight": 4.0
+          },
+          {
+            "word": "토토북",
+            "weight": 2.0
+          },
+          {
+            "word": "부록",
+            "weight": 2.0
+          },
+          {
+            "word": "이미지",
+            "weight": 2.0
+          },
+          {
+            "word": "어린이예술",
+            "weight": 2.0
+          },
+          {
+            "word": "소리",
+            "weight": 2.0
+          },
+          {
+            "word": "아이",
+            "weight": 2.0
+          },
+          {
+            "word": "별책",
+            "weight": 2.0
+          },
+          {
+            "word": "자기",
+            "weight": 2.0
+          },
+          {
+            "word": "안은진",
+            "weight": 2.0
+          },
+          {
+            "word": "자라",
+            "weight": 1.0
+          },
+          {
+            "word": "자신",
+            "weight": 1.0
+          },
+          {
+            "word": "주인공",
+            "weight": 1.0
+          },
+          {
+            "word": "연극",
+            "weight": 1.0
+          },
+          {
+            "word": "짝꿍",
+            "weight": 1.0
+          },
+          {
+            "word": "최영대",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이",
+            "weight": 1.0
+          },
+          {
+            "word": "친구",
+            "weight": 1.0
+          },
+          {
+            "word": "아이들",
+            "weight": 1.0
+          },
+          {
+            "word": "감정학교을",
+            "weight": 1.0
+          },
+          {
+            "word": "개구진",
+            "weight": 1.0
+          },
+          {
+            "word": "공감",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "그림책",
+            "weight": 1.0
+          },
+          {
+            "word": "동화",
+            "weight": 1.0
+          },
+          {
+            "word": "마련",
+            "weight": 1.0
+          },
+          {
+            "word": "말투",
+            "weight": 1.0
+          },
+          {
+            "word": "무대",
+            "weight": 1.0
+          },
+          {
+            "word": "사람",
+            "weight": 1.0
+          },
+          {
+            "word": "사랑",
+            "weight": 1.0
+          },
+          {
+            "word": "사전",
+            "weight": 1.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "가치",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아홉 살 마음 사전 ",
+            "isbn13": "9788936447014",
+            "authors": "박성우 글 ;김효은 그림"
+          },
+          {
+            "bookname": "아주 무서운 날 ",
+            "isbn13": "9788994368269",
+            "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+            "isbn13": "9791159950179",
+            "authors": "글·그림: 김유경 ;Hannah Chung"
+          },
+          {
+            "bookname": "틀려도 괜찮아",
+            "isbn13": "9788990611260",
+            "authors": "마키타 신지 글;유문조 옮김"
+          },
+          {
+            "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+            "isbn13": "9791185173030",
+            "authors": "글: 허윤 ;그림: 윤희동"
+          },
+          {
+            "bookname": "돼지책",
+            "isbn13": "9788901033518",
+            "authors": "글·그림: 앤서니 브라운;옮긴이: 허은미"
+          },
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+            "isbn13": "9788972887683",
+            "authors": "글: 박완서 ;그림: 김세현"
+          },
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "나는 나의 주인"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001013474",
+        "title": "나는 나의 주인",
+        "subtitle": "양장본 Hardcover",
+        "page": "32 p.",
+        "book_size": "234*255mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788964960035",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788964960035",
+      "isbn_add_code": "73190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "나는 나의 주인",
+      "subtitle": "양장본 Hardcover",
+      "author": "채인선 글; 안은진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "토토북",
+      "publish_year": "2010",
+      "publish_predate": "20100514",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "초판",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "234*255mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;아름다운 가치 사전&gt;, &lt;내 짝꿍 최영대&gt;, &lt;아름다운 감정학교&gt;을 쓴 채인선 작가의 그림책. 내 몸과 마음의 주인이 되려면 어떻게 해야 할까? 채인선 작가는 조곤한 말투로 나의 주인으로 자라는 법을 알려준다. 주인은 자기 몸과 마음이 하는 소리를 귀 담아 듣고 보살펴준다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/062/805/06280530.jpg?type=m1&udate=20170310",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "주인",
+          "weight": 5.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "채인선",
+          "weight": 4.0
+        },
+        {
+          "word": "토토북",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "이미지",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이예술",
+          "weight": 2.0
+        },
+        {
+          "word": "소리",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "별책",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "안은진",
+          "weight": 2.0
+        },
+        {
+          "word": "자라",
+          "weight": 1.0
+        },
+        {
+          "word": "자신",
+          "weight": 1.0
+        },
+        {
+          "word": "주인공",
+          "weight": 1.0
+        },
+        {
+          "word": "연극",
+          "weight": 1.0
+        },
+        {
+          "word": "짝꿍",
+          "weight": 1.0
+        },
+        {
+          "word": "최영대",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "친구",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "감정학교을",
+          "weight": 1.0
+        },
+        {
+          "word": "개구진",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "그림책",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "마련",
+          "weight": 1.0
+        },
+        {
+          "word": "말투",
+          "weight": 1.0
+        },
+        {
+          "word": "무대",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "사전",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "가치",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;아름다운 가치 사전&gt;, &lt;내 짝꿍 최영대&gt;, &lt;아름다운 감정학교&gt;을 쓴 채인선 작가의 그림책. 내 몸과 마음의 주인이 되려면 어떻게 해야 할까? 채인선 작가는 조곤한 말투로 나의 주인으로 자라는 법을 알려준다. 주인은 자기 몸과 마음이 하는 소리를 귀 담아 듣고 보살펴준다.",
+      "co_loan_books": [
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "틀려도 괜찮아",
+          "isbn13": "9788990611260",
+          "authors": "마키타 신지 글;유문조 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "돼지책",
+          "isbn13": "9788901033518",
+          "authors": "글·그림: 앤서니 브라운;옮긴이: 허은미"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "나는 나의 주인",
+      "author": "채인선 글; 안은진 그림",
+      "kdc_from_api": "189",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

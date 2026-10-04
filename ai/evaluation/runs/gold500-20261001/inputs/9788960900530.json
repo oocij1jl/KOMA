@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788960900530",
+  "captured_at": "2026-10-04T00:17:52.890502+09:00",
+  "lookup": {
+    "isbn": "9788960900530",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960900530",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "옛 소설에 빠지다 ",
+      "subtitle": "반양장",
+      "author": "조혜란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)마음산책",
+      "publish_year": "2009",
+      "publish_predate": "20090401",
+      "kdc": "813.5",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "895.732",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "\"영화를 본 후 친구들과 그 내용을 곱씹으며 영화에 대한 감상을 충분히 누리는 것처럼, 고전소설을 읽고도 그렇게 한껏 수다를 떨 수 있다면 좋겠다 싶었다. 이 글들은 나올 듯 말 듯한 재채기 처럼 그냥 견디기에는 너무나 간질간질했던 나의 고전 소설 감상문이다,\"(- '책머리에'에서)",
+      "control_no": "CIP2009000952",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고전소설",
+          "weight": 15.0
+        },
+        {
+          "word": "이생규장전",
+          "weight": 15.0
+        },
+        {
+          "word": "남성",
+          "weight": 14.0
+        },
+        {
+          "word": "사랑",
+          "weight": 13.0
+        },
+        {
+          "word": "금방울전",
+          "weight": 11.0
+        },
+        {
+          "word": "김영철전",
+          "weight": 11.0
+        },
+        {
+          "word": "오유란전",
+          "weight": 11.0
+        },
+        {
+          "word": "박씨전",
+          "weight": 10.0
+        },
+        {
+          "word": "강도몽유록",
+          "weight": 10.0
+        },
+        {
+          "word": "책머리에",
+          "weight": 9.0
+        },
+        {
+          "word": "옥루몽",
+          "weight": 8.0
+        },
+        {
+          "word": "남궁선생전",
+          "weight": 8.0
+        },
+        {
+          "word": "조선",
+          "weight": 8.0
+        },
+        {
+          "word": "여성",
+          "weight": 8.0
+        },
+        {
+          "word": "윤지경전",
+          "weight": 7.0
+        },
+        {
+          "word": "호질",
+          "weight": 7.0
+        },
+        {
+          "word": "서사",
+          "weight": 7.0
+        },
+        {
+          "word": "판타지",
+          "weight": 7.0
+        },
+        {
+          "word": "욕망",
+          "weight": 7.0
+        },
+        {
+          "word": "양반",
+          "weight": 7.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 7.0
+        },
+        {
+          "word": "넓게 읽기",
+          "weight": 6.0
+        },
+        {
+          "word": "깊이 보기",
+          "weight": 6.0
+        },
+        {
+          "word": "옛 소설에 빠지다",
+          "weight": 6.0
+        },
+        {
+          "word": "소설",
+          "weight": 6.0
+        },
+        {
+          "word": "천천히 읽기",
+          "weight": 6.0
+        },
+        {
+          "word": "옛사람",
+          "weight": 5.0
+        },
+        {
+          "word": "신선",
+          "weight": 5.0
+        },
+        {
+          "word": "적성의전",
+          "weight": 4.0
+        },
+        {
+          "word": "열녀함양박씨전",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "감상",
+          "weight": 4.0
+        },
+        {
+          "word": "13편",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "영화",
+          "weight": 4.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑 사랑이로다",
+          "weight": 3.0
+        },
+        {
+          "word": "텍스트",
+          "weight": 3.0
+        },
+        {
+          "word": "조력자",
+          "weight": 3.0
+        },
+        {
+          "word": "나위",
+          "weight": 3.0
+        },
+        {
+          "word": "모습",
+          "weight": 3.0
+        },
+        {
+          "word": "흥부전",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "조혜란",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁 그 참상에 대하여",
+          "weight": 3.0
+        },
+        {
+          "word": "금방울",
+          "weight": 3.0
+        },
+        {
+          "word": "실의",
+          "weight": 3.0
+        },
+        {
+          "word": "참상",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        }
+      ],
+      "description": "\"영화를 본 후 친구들과 그 내용을 곱씹으며 영화에 대한 감상을 충분히 누리는 것처럼, 고전소설을 읽고도 그렇게 한껏 수다를 떨 수 있다면 좋겠다 싶었다. 이 글들은 나올 듯 말 듯한 재채기 처럼 그냥 견디기에는 너무나 간질간질했던 나의 고전 소설 감상문이다,\"(- '책머리에'에서)",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "옛 여인에 빠지다 :춘향에서 향랑까지 ",
+          "isbn13": "9788960901896",
+          "authors": "지은이: 조혜란"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "지구에서 한아뿐 :정세랑 장편소설 ",
+          "isbn13": "9791188862290",
+          "authors": "지은이: 정세랑"
+        },
+        {
+          "bookname": "파친코 :이민진 장편소설",
+          "isbn13": "9788970129815",
+          "authors": "이민진 지음 ;이미정 옮김"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(중고생이 꼭 읽어야 할) 한국고전소설 40 :수능·논술·내신을 위한 필독서 ",
+          "isbn13": "9788965820499",
+          "authors": "지은이: 박지원 외 ;김형주"
+        }
+      ],
+      "title": "옛 소설에 빠지다 ",
+      "author": "조혜란",
+      "kdc_from_api": "813.5",
+      "ddc_from_api": "895.732",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "옛 소설에 빠지다 ",
+        "author": "조혜란",
+        "publisher": "(도서출판)마음산책",
+        "publish_predate": "20090401",
+        "isbn": "9788960900530",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "813.5",
+        "ddc": "895.732",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2009000952",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "옛 소설에 빠지다 :금오신화에서 호질까지 맛있게 읽기 ",
+        "author": "조혜란",
+        "publisher": "마음산책",
+        "publish_year": "2009",
+        "isbn": "8960900532",
+        "isbn13": "9788960900530",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.5",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "\"영화를 본 후 친구들과 그 내용을 곱씹으며 영화에 대한 감상을 충분히 누리는 것처럼, 고전소설을 읽고도 그렇게 한껏 수다를 떨 수 있다면 좋겠다 싶었다. 이 글들은 나올 듯 말 듯한 재채기 처럼 그냥 견디기에는 너무나 간질간질했던 나의 고전 소설 감상문이다,\"(- '책머리에'에서)",
+        "cover_url": "http://image.aladin.co.kr/product/352/72/cover/8960900532_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "고전소설",
+            "weight": 15.0
+          },
+          {
+            "word": "이생규장전",
+            "weight": 15.0
+          },
+          {
+            "word": "남성",
+            "weight": 14.0
+          },
+          {
+            "word": "사랑",
+            "weight": 13.0
+          },
+          {
+            "word": "금방울전",
+            "weight": 11.0
+          },
+          {
+            "word": "김영철전",
+            "weight": 11.0
+          },
+          {
+            "word": "오유란전",
+            "weight": 11.0
+          },
+          {
+            "word": "박씨전",
+            "weight": 10.0
+          },
+          {
+            "word": "강도몽유록",
+            "weight": 10.0
+          },
+          {
+            "word": "책머리에",
+            "weight": 9.0
+          },
+          {
+            "word": "옥루몽",
+            "weight": 8.0
+          },
+          {
+            "word": "남궁선생전",
+            "weight": 8.0
+          },
+          {
+            "word": "조선",
+            "weight": 8.0
+          },
+          {
+            "word": "여성",
+            "weight": 8.0
+          },
+          {
+            "word": "윤지경전",
+            "weight": 7.0
+          },
+          {
+            "word": "호질",
+            "weight": 7.0
+          },
+          {
+            "word": "서사",
+            "weight": 7.0
+          },
+          {
+            "word": "판타지",
+            "weight": 7.0
+          },
+          {
+            "word": "욕망",
+            "weight": 7.0
+          },
+          {
+            "word": "양반",
+            "weight": 7.0
+          },
+          {
+            "word": "전쟁",
+            "weight": 7.0
+          },
+          {
+            "word": "넓게 읽기",
+            "weight": 6.0
+          },
+          {
+            "word": "깊이 보기",
+            "weight": 6.0
+          },
+          {
+            "word": "옛 소설에 빠지다",
+            "weight": 6.0
+          },
+          {
+            "word": "소설",
+            "weight": 6.0
+          },
+          {
+            "word": "천천히 읽기",
+            "weight": 6.0
+          },
+          {
+            "word": "옛사람",
+            "weight": 5.0
+          },
+          {
+            "word": "신선",
+            "weight": 5.0
+          },
+          {
+            "word": "적성의전",
+            "weight": 4.0
+          },
+          {
+            "word": "열녀함양박씨전",
+            "weight": 4.0
+          },
+          {
+            "word": "장면",
+            "weight": 4.0
+          },
+          {
+            "word": "감상",
+            "weight": 4.0
+          },
+          {
+            "word": "13편",
+            "weight": 4.0
+          },
+          {
+            "word": "독자",
+            "weight": 4.0
+          },
+          {
+            "word": "영화",
+            "weight": 4.0
+          },
+          {
+            "word": "배경",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑 사랑이로다",
+            "weight": 3.0
+          },
+          {
+            "word": "텍스트",
+            "weight": 3.0
+          },
+          {
+            "word": "조력자",
+            "weight": 3.0
+          },
+          {
+            "word": "나위",
+            "weight": 3.0
+          },
+          {
+            "word": "모습",
+            "weight": 3.0
+          },
+          {
+            "word": "흥부전",
+            "weight": 3.0
+          },
+          {
+            "word": "대하",
+            "weight": 3.0
+          },
+          {
+            "word": "공간",
+            "weight": 3.0
+          },
+          {
+            "word": "조혜란",
+            "weight": 3.0
+          },
+          {
+            "word": "전쟁 그 참상에 대하여",
+            "weight": 3.0
+          },
+          {
+            "word": "금방울",
+            "weight": 3.0
+          },
+          {
+            "word": "실의",
+            "weight": 3.0
+          },
+          {
+            "word": "참상",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "옛 여인에 빠지다 :춘향에서 향랑까지 ",
+            "isbn13": "9788960901896",
+            "authors": "지은이: 조혜란"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "지구에서 한아뿐 :정세랑 장편소설 ",
+            "isbn13": "9791188862290",
+            "authors": "지은이: 정세랑"
+          },
+          {
+            "bookname": "파친코 :이민진 장편소설",
+            "isbn13": "9788970129815",
+            "authors": "이민진 지음 ;이미정 옮김"
+          },
+          {
+            "bookname": "하얼빈 :김훈 장편소설 ",
+            "isbn13": "9788954699914",
+            "authors": "지은이: 김훈"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "(중고생이 꼭 읽어야 할) 한국고전소설 40 :수능·논술·내신을 위한 필독서 ",
+            "isbn13": "9788965820499",
+            "authors": "지은이: 박지원 외 ;김형주"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "옛 소설에 빠지다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000938768",
+        "title": "옛 소설에 빠지다",
+        "subtitle": "반양장",
+        "page": "352 p.",
+        "book_size": "148*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788960900530",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960900530",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "옛 소설에 빠지다 ",
+      "subtitle": "반양장",
+      "author": "조혜란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)마음산책",
+      "publish_year": "2009",
+      "publish_predate": "20090401",
+      "kdc": "813.5",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "895.732",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "\"영화를 본 후 친구들과 그 내용을 곱씹으며 영화에 대한 감상을 충분히 누리는 것처럼, 고전소설을 읽고도 그렇게 한껏 수다를 떨 수 있다면 좋겠다 싶었다. 이 글들은 나올 듯 말 듯한 재채기 처럼 그냥 견디기에는 너무나 간질간질했던 나의 고전 소설 감상문이다,\"(- '책머리에'에서)",
+      "control_no": "CIP2009000952",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2333928_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고전소설",
+          "weight": 15.0
+        },
+        {
+          "word": "이생규장전",
+          "weight": 15.0
+        },
+        {
+          "word": "남성",
+          "weight": 14.0
+        },
+        {
+          "word": "사랑",
+          "weight": 13.0
+        },
+        {
+          "word": "금방울전",
+          "weight": 11.0
+        },
+        {
+          "word": "김영철전",
+          "weight": 11.0
+        },
+        {
+          "word": "오유란전",
+          "weight": 11.0
+        },
+        {
+          "word": "박씨전",
+          "weight": 10.0
+        },
+        {
+          "word": "강도몽유록",
+          "weight": 10.0
+        },
+        {
+          "word": "책머리에",
+          "weight": 9.0
+        },
+        {
+          "word": "옥루몽",
+          "weight": 8.0
+        },
+        {
+          "word": "남궁선생전",
+          "weight": 8.0
+        },
+        {
+          "word": "조선",
+          "weight": 8.0
+        },
+        {
+          "word": "여성",
+          "weight": 8.0
+        },
+        {
+          "word": "윤지경전",
+          "weight": 7.0
+        },
+        {
+          "word": "호질",
+          "weight": 7.0
+        },
+        {
+          "word": "서사",
+          "weight": 7.0
+        },
+        {
+          "word": "판타지",
+          "weight": 7.0
+        },
+        {
+          "word": "욕망",
+          "weight": 7.0
+        },
+        {
+          "word": "양반",
+          "weight": 7.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 7.0
+        },
+        {
+          "word": "넓게 읽기",
+          "weight": 6.0
+        },
+        {
+          "word": "깊이 보기",
+          "weight": 6.0
+        },
+        {
+          "word": "옛 소설에 빠지다",
+          "weight": 6.0
+        },
+        {
+          "word": "소설",
+          "weight": 6.0
+        },
+        {
+          "word": "천천히 읽기",
+          "weight": 6.0
+        },
+        {
+          "word": "옛사람",
+          "weight": 5.0
+        },
+        {
+          "word": "신선",
+          "weight": 5.0
+        },
+        {
+          "word": "적성의전",
+          "weight": 4.0
+        },
+        {
+          "word": "열녀함양박씨전",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "감상",
+          "weight": 4.0
+        },
+        {
+          "word": "13편",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "영화",
+          "weight": 4.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑 사랑이로다",
+          "weight": 3.0
+        },
+        {
+          "word": "텍스트",
+          "weight": 3.0
+        },
+        {
+          "word": "조력자",
+          "weight": 3.0
+        },
+        {
+          "word": "나위",
+          "weight": 3.0
+        },
+        {
+          "word": "모습",
+          "weight": 3.0
+        },
+        {
+          "word": "흥부전",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "조혜란",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁 그 참상에 대하여",
+          "weight": 3.0
+        },
+        {
+          "word": "금방울",
+          "weight": 3.0
+        },
+        {
+          "word": "실의",
+          "weight": 3.0
+        },
+        {
+          "word": "참상",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        }
+      ],
+      "description": "\"영화를 본 후 친구들과 그 내용을 곱씹으며 영화에 대한 감상을 충분히 누리는 것처럼, 고전소설을 읽고도 그렇게 한껏 수다를 떨 수 있다면 좋겠다 싶었다. 이 글들은 나올 듯 말 듯한 재채기 처럼 그냥 견디기에는 너무나 간질간질했던 나의 고전 소설 감상문이다,\"(- '책머리에'에서)",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "옛 여인에 빠지다 :춘향에서 향랑까지 ",
+          "isbn13": "9788960901896",
+          "authors": "지은이: 조혜란"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "지구에서 한아뿐 :정세랑 장편소설 ",
+          "isbn13": "9791188862290",
+          "authors": "지은이: 정세랑"
+        },
+        {
+          "bookname": "파친코 :이민진 장편소설",
+          "isbn13": "9788970129815",
+          "authors": "이민진 지음 ;이미정 옮김"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(중고생이 꼭 읽어야 할) 한국고전소설 40 :수능·논술·내신을 위한 필독서 ",
+          "isbn13": "9788965820499",
+          "authors": "지은이: 박지원 외 ;김형주"
+        }
+      ],
+      "title": "옛 소설에 빠지다 ",
+      "author": "조혜란",
+      "kdc_from_api": "813.5",
+      "ddc_from_api": "895.732",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

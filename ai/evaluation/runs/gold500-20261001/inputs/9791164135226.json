@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791164135226",
+  "captured_at": "2026-10-04T00:10:21.220466+09:00",
+  "lookup": {
+    "isbn": "9791164135226",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164135226",
+      "isbn_add_code": "77890",
+      "set_isbn": "9791164135219",
+      "set_add_code": "77890 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(처음 읽는) 그리스 로마 신화",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 최설희,그림: 한현동",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2020",
+      "publish_predate": "20200528",
+      "kdc": "219",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 비교종교학 > 신화, 신화학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "처음 읽는 그리스 로마 신화",
+      "series_no": "1",
+      "page": "152 p.",
+      "book_size": "148*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "서양 역사와 철학은 물론 미술, 문학 등의 예술을 이해하기 위해서 꼭 읽어야 할 그리스 로마 신화. 필수 고전으로 꼽히는 그리스 로마 신화를 처음 접하는 어린이들을 위해, 흥미롭고 재미있는 만화와 풍성하고 친절한 설명으로 신들의 세계를 안내하는 인문학 시리즈이다.",
+      "control_no": "CIP2020018790",
+      "cover_url": "https://image.aladin.co.kr/product/24136/50/cover/k182639748_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "신화",
+          "weight": 18.0
+        },
+        {
+          "word": "그리스",
+          "weight": 13.0
+        },
+        {
+          "word": "로마",
+          "weight": 13.0
+        },
+        {
+          "word": "어린이",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "처음",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "만화",
+          "weight": 4.0
+        },
+        {
+          "word": "내 맘 알아주는 속담",
+          "weight": 3.0
+        },
+        {
+          "word": "처음 읽는 그리스 로마 신화",
+          "weight": 3.0
+        },
+        {
+          "word": "조선스타실록",
+          "weight": 3.0
+        },
+        {
+          "word": "독립운동 스타실록",
+          "weight": 3.0
+        },
+        {
+          "word": "미술",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 수도 지도책",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 음식 지도책",
+          "weight": 3.0
+        },
+        {
+          "word": "올림포스",
+          "weight": 3.0
+        },
+        {
+          "word": "친절",
+          "weight": 3.0
+        },
+        {
+          "word": "페이지",
+          "weight": 3.0
+        },
+        {
+          "word": "이해",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "크로노스",
+          "weight": 3.0
+        },
+        {
+          "word": "완전",
+          "weight": 2.0
+        },
+        {
+          "word": "본문",
+          "weight": 2.0
+        },
+        {
+          "word": "인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "생동감",
+          "weight": 2.0
+        },
+        {
+          "word": "설명",
+          "weight": 2.0
+        },
+        {
+          "word": "서양",
+          "weight": 2.0
+        },
+        {
+          "word": "최설희",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "신화 종교",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "카오스",
+          "weight": 2.0
+        },
+        {
+          "word": "여행",
+          "weight": 2.0
+        },
+        {
+          "word": "정복",
+          "weight": 2.0
+        },
+        {
+          "word": "고대",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "제우스",
+          "weight": 2.0
+        },
+        {
+          "word": "그리스인",
+          "weight": 2.0
+        },
+        {
+          "word": "풍부",
+          "weight": 2.0
+        },
+        {
+          "word": "기본",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "철학",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 2.0
+        },
+        {
+          "word": "풍성",
+          "weight": 2.0
+        },
+        {
+          "word": "안내",
+          "weight": 2.0
+        }
+      ],
+      "description": "서양 역사와 철학은 물론 미술, 문학 등의 예술을 이해하기 위해서 꼭 읽어야 할 그리스 로마 신화. 필수 고전으로 꼽히는 그리스 로마 신화를 처음 접하는 어린이들을 위해, 흥미롭고 재미있는 만화와 풍성하고 친절한 설명으로 신들의 세계를 안내하는 인문학 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135851",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164136667",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164137893",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164138920",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164139927",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168411333",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168412712",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168411937",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168415744",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168417823",
+          "authors": "글: 최설희 ;그림: 한현동"
+        }
+      ],
+      "title": "(처음 읽는) 그리스 로마 신화",
+      "author": "글: 최설희,그림: 한현동",
+      "kdc_from_api": "219",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(처음 읽는) 그리스 로마 신화",
+        "author": "글: 최설희,그림: 한현동",
+        "publisher": "Mirae N 아이세움 :미래엔",
+        "publish_predate": "20200528",
+        "isbn": "9791164135226",
+        "isbn_add_code": "77890",
+        "set_isbn": "9791164135219",
+        "set_add_code": "77890 ",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "처음 읽는 그리스 로마 신화",
+        "series_no": "1",
+        "volume": "1",
+        "page": "139 p.",
+        "book_size": "148*210",
+        "form": "종이책",
+        "kdc": "219",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020018790",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+        "author": "글: 최설희 ;그림: 한현동",
+        "publisher": "미래엔",
+        "publish_year": "2020",
+        "isbn": "1164135228",
+        "isbn13": "9791164135226",
+        "isbn_add_code": "77890",
+        "volume": "1",
+        "class_no": "219",
+        "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+        "description": "서양 역사와 철학은 물론 미술, 문학 등의 예술을 이해하기 위해서 꼭 읽어야 할 그리스 로마 신화. 필수 고전으로 꼽히는 그리스 로마 신화를 처음 접하는 어린이들을 위해, 흥미롭고 재미있는 만화와 풍성하고 친절한 설명으로 신들의 세계를 안내하는 인문학 시리즈이다.",
+        "cover_url": "https://image.aladin.co.kr/product/24136/50/cover/k182639748_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "신화",
+            "weight": 18.0
+          },
+          {
+            "word": "그리스",
+            "weight": 13.0
+          },
+          {
+            "word": "로마",
+            "weight": 13.0
+          },
+          {
+            "word": "어린이",
+            "weight": 6.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "처음",
+            "weight": 4.0
+          },
+          {
+            "word": "내용",
+            "weight": 4.0
+          },
+          {
+            "word": "만화",
+            "weight": 4.0
+          },
+          {
+            "word": "내 맘 알아주는 속담",
+            "weight": 3.0
+          },
+          {
+            "word": "처음 읽는 그리스 로마 신화",
+            "weight": 3.0
+          },
+          {
+            "word": "조선스타실록",
+            "weight": 3.0
+          },
+          {
+            "word": "독립운동 스타실록",
+            "weight": 3.0
+          },
+          {
+            "word": "미술",
+            "weight": 3.0
+          },
+          {
+            "word": "세계 수도 지도책",
+            "weight": 3.0
+          },
+          {
+            "word": "세계 음식 지도책",
+            "weight": 3.0
+          },
+          {
+            "word": "올림포스",
+            "weight": 3.0
+          },
+          {
+            "word": "친절",
+            "weight": 3.0
+          },
+          {
+            "word": "페이지",
+            "weight": 3.0
+          },
+          {
+            "word": "이해",
+            "weight": 3.0
+          },
+          {
+            "word": "세상",
+            "weight": 3.0
+          },
+          {
+            "word": "크로노스",
+            "weight": 3.0
+          },
+          {
+            "word": "완전",
+            "weight": 2.0
+          },
+          {
+            "word": "본문",
+            "weight": 2.0
+          },
+          {
+            "word": "인문학",
+            "weight": 2.0
+          },
+          {
+            "word": "생동감",
+            "weight": 2.0
+          },
+          {
+            "word": "설명",
+            "weight": 2.0
+          },
+          {
+            "word": "서양",
+            "weight": 2.0
+          },
+          {
+            "word": "최설희",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "신화 종교",
+            "weight": 2.0
+          },
+          {
+            "word": "미래엔",
+            "weight": 2.0
+          },
+          {
+            "word": "문학",
+            "weight": 2.0
+          },
+          {
+            "word": "카오스",
+            "weight": 2.0
+          },
+          {
+            "word": "여행",
+            "weight": 2.0
+          },
+          {
+            "word": "정복",
+            "weight": 2.0
+          },
+          {
+            "word": "고대",
+            "weight": 2.0
+          },
+          {
+            "word": "고전",
+            "weight": 2.0
+          },
+          {
+            "word": "역사",
+            "weight": 2.0
+          },
+          {
+            "word": "제우스",
+            "weight": 2.0
+          },
+          {
+            "word": "그리스인",
+            "weight": 2.0
+          },
+          {
+            "word": "풍부",
+            "weight": 2.0
+          },
+          {
+            "word": "기본",
+            "weight": 2.0
+          },
+          {
+            "word": "예술",
+            "weight": 2.0
+          },
+          {
+            "word": "깊이",
+            "weight": 2.0
+          },
+          {
+            "word": "철학",
+            "weight": 2.0
+          },
+          {
+            "word": "탄생",
+            "weight": 2.0
+          },
+          {
+            "word": "눈높이",
+            "weight": 2.0
+          },
+          {
+            "word": "풍성",
+            "weight": 2.0
+          },
+          {
+            "word": "안내",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164135851",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164136667",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164137893",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164138920",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164139927",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791168411333",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791168412712",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791168411937",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791168415744",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791168417823",
+            "authors": "글: 최설희 ;그림: 한현동"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(처음 읽는) 그리스 로마 신화 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001826031",
+        "title": "처음 읽는 그리스 로마 신화 1: 신들의 세계, 올림포스",
+        "subtitle": "양장본 Hardcover",
+        "page": "152 p.",
+        "book_size": "156*217mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791164135226",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164135226",
+      "isbn_add_code": "77890",
+      "set_isbn": "9791164135219",
+      "set_add_code": "77890 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(처음 읽는) 그리스 로마 신화",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 최설희,그림: 한현동",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2020",
+      "publish_predate": "20200528",
+      "kdc": "219",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 비교종교학 > 신화, 신화학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "처음 읽는 그리스 로마 신화",
+      "series_no": "1",
+      "page": "152 p.",
+      "book_size": "148*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "서양 역사와 철학은 물론 미술, 문학 등의 예술을 이해하기 위해서 꼭 읽어야 할 그리스 로마 신화. 필수 고전으로 꼽히는 그리스 로마 신화를 처음 접하는 어린이들을 위해, 흥미롭고 재미있는 만화와 풍성하고 친절한 설명으로 신들의 세계를 안내하는 인문학 시리즈이다.",
+      "control_no": "CIP2020018790",
+      "cover_url": "https://image.aladin.co.kr/product/24136/50/cover/k182639748_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "신화",
+          "weight": 18.0
+        },
+        {
+          "word": "그리스",
+          "weight": 13.0
+        },
+        {
+          "word": "로마",
+          "weight": 13.0
+        },
+        {
+          "word": "어린이",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "처음",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "만화",
+          "weight": 4.0
+        },
+        {
+          "word": "내 맘 알아주는 속담",
+          "weight": 3.0
+        },
+        {
+          "word": "처음 읽는 그리스 로마 신화",
+          "weight": 3.0
+        },
+        {
+          "word": "조선스타실록",
+          "weight": 3.0
+        },
+        {
+          "word": "독립운동 스타실록",
+          "weight": 3.0
+        },
+        {
+          "word": "미술",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 수도 지도책",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 음식 지도책",
+          "weight": 3.0
+        },
+        {
+          "word": "올림포스",
+          "weight": 3.0
+        },
+        {
+          "word": "친절",
+          "weight": 3.0
+        },
+        {
+          "word": "페이지",
+          "weight": 3.0
+        },
+        {
+          "word": "이해",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "크로노스",
+          "weight": 3.0
+        },
+        {
+          "word": "완전",
+          "weight": 2.0
+        },
+        {
+          "word": "본문",
+          "weight": 2.0
+        },
+        {
+          "word": "인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "생동감",
+          "weight": 2.0
+        },
+        {
+          "word": "설명",
+          "weight": 2.0
+        },
+        {
+          "word": "서양",
+          "weight": 2.0
+        },
+        {
+          "word": "최설희",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "신화 종교",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "카오스",
+          "weight": 2.0
+        },
+        {
+          "word": "여행",
+          "weight": 2.0
+        },
+        {
+          "word": "정복",
+          "weight": 2.0
+        },
+        {
+          "word": "고대",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "제우스",
+          "weight": 2.0
+        },
+        {
+          "word": "그리스인",
+          "weight": 2.0
+        },
+        {
+          "word": "풍부",
+          "weight": 2.0
+        },
+        {
+          "word": "기본",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "철학",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 2.0
+        },
+        {
+          "word": "풍성",
+          "weight": 2.0
+        },
+        {
+          "word": "안내",
+          "weight": 2.0
+        }
+      ],
+      "description": "서양 역사와 철학은 물론 미술, 문학 등의 예술을 이해하기 위해서 꼭 읽어야 할 그리스 로마 신화. 필수 고전으로 꼽히는 그리스 로마 신화를 처음 접하는 어린이들을 위해, 흥미롭고 재미있는 만화와 풍성하고 친절한 설명으로 신들의 세계를 안내하는 인문학 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135851",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164136667",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164137893",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164138920",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164139927",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168411333",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168412712",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168411937",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168415744",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791168417823",
+          "authors": "글: 최설희 ;그림: 한현동"
+        }
+      ],
+      "title": "(처음 읽는) 그리스 로마 신화",
+      "author": "글: 최설희,그림: 한현동",
+      "kdc_from_api": "219",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

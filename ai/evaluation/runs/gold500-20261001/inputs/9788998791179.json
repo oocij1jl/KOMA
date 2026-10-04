@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788998791179",
+  "captured_at": "2026-10-04T00:17:59.372617+09:00",
+  "lookup": {
+    "isbn": "9788998791179",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788998791179",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "나는 어떻게 글을 쓰게 되었나",
+      "subtitle": "",
+      "author": "레이먼드 챈들러 지음, 안현주 엮고 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)북스피어",
+      "publish_year": "2014",
+      "publish_predate": "20140411",
+      "kdc": "843.509",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 일기, 서간, 기행",
+      "ddc": "813.52",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "135*195mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'박람강기 프로젝트' 3권. 하드보일드 소설가 레이먼드 챈들러가 작가, 편집자, 독자 들에게 쓴 편지 가운데 68편을 묶었다. 그동안 폴 오스터나 무라카미 하루키의 에세이 등을 통해 일부분만 접할 수 있었던 챈들러의 통찰력 있는 견해들을 감상할 수 있다.",
+      "control_no": "CIP2014008388",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "대하",
+          "weight": 6.0
+        },
+        {
+          "word": "레이먼드",
+          "weight": 5.0
+        },
+        {
+          "word": "미국",
+          "weight": 5.0
+        },
+        {
+          "word": "추리소설",
+          "weight": 4.0
+        },
+        {
+          "word": "하드보일드",
+          "weight": 4.0
+        },
+        {
+          "word": "탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "박람강기 프로젝트",
+          "weight": 3.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕 내 사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "블랙 마스크",
+          "weight": 3.0
+        },
+        {
+          "word": "타임",
+          "weight": 3.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 3.0
+        },
+        {
+          "word": "탐정소설",
+          "weight": 3.0
+        },
+        {
+          "word": "히치콕 매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "기나긴 이별",
+          "weight": 3.0
+        },
+        {
+          "word": "협박자는 총을 쏘지 않는다",
+          "weight": 3.0
+        },
+        {
+          "word": "빅 슬립",
+          "weight": 3.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "아내",
+          "weight": 2.0
+        },
+        {
+          "word": "안현주 엮고",
+          "weight": 2.0
+        },
+        {
+          "word": "영향",
+          "weight": 2.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사 대표 30인이 뽑은 숨어있",
+          "weight": 2.0
+        },
+        {
+          "word": "하루키",
+          "weight": 2.0
+        },
+        {
+          "word": "레이먼드 챈들러",
+          "weight": 2.0
+        },
+        {
+          "word": "로스",
+          "weight": 2.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "편지",
+          "weight": 2.0
+        },
+        {
+          "word": "북스피어",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "자리",
+          "weight": 2.0
+        },
+        {
+          "word": "오스터",
+          "weight": 2.0
+        },
+        {
+          "word": "무라카미",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "맥도널드",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        },
+        {
+          "word": "1959년",
+          "weight": 1.0
+        },
+        {
+          "word": "딕슨",
+          "weight": 1.0
+        },
+        {
+          "word": "5년간",
+          "weight": 1.0
+        },
+        {
+          "word": "구사",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "과음",
+          "weight": 1.0
+        },
+        {
+          "word": "공언",
+          "weight": 1.0
+        },
+        {
+          "word": "고안",
+          "weight": 1.0
+        },
+        {
+          "word": "Chandleresque",
+          "weight": 1.0
+        },
+        {
+          "word": "70세",
+          "weight": 1.0
+        },
+        {
+          "word": "68편",
+          "weight": 1.0
+        }
+      ],
+      "description": "'박람강기 프로젝트' 3권. 하드보일드 소설가 레이먼드 챈들러가 작가, 편집자, 독자 들에게 쓴 편지 가운데 68편을 묶었다. 그동안 폴 오스터나 무라카미 하루키의 에세이 등을 통해 일부분만 접할 수 있었던 챈들러의 통찰력 있는 견해들을 감상할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "레이먼드 챈들러 :밀고자 외 8편 ",
+          "isbn13": "9788972757528",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 승영조"
+        },
+        {
+          "bookname": "빅 슬립 :레이먼드 챈들러 장편소설 ",
+          "isbn13": "9788954674973",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+        },
+        {
+          "bookname": "기나긴 이별 :레이먼드 챈들러 장편소설 ",
+          "isbn13": "9788932912523",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+        },
+        {
+          "bookname": "직업으로서의 소설가 :무라카미 하루키 자전적 에세이 ",
+          "isbn13": "9788972757719",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 양윤옥"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+          "isbn13": "9791167740892",
+          "authors": "조지 손더스 지음 ;정영목 옮김"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        },
+        {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "isbn13": "9788954697941",
+          "authors": "지은이: 김기태"
+        },
+        {
+          "bookname": "허송세월 :김훈 산문 ",
+          "isbn13": "9788930041683",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "나는 어떻게 글을 쓰게 되었나",
+      "author": "레이먼드 챈들러 지음, 안현주 엮고 옮김",
+      "kdc_from_api": "843.509",
+      "ddc_from_api": "813.52",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "나는 어떻게 글을 쓰게 되었나",
+        "author": "레이먼드 챈들러 지음, 안현주 엮고 옮김",
+        "publisher": "(도서출판)북스피어",
+        "publish_predate": "20140411",
+        "isbn": "9788998791179",
+        "isbn_add_code": "03840",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "843.509",
+        "ddc": "813.52",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2014008388",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "나는 어떻게 글을 쓰게 되었나 ",
+        "author": "레이먼드 챈들러 지음 ;안현주 엮고 옮김",
+        "publisher": "북스피어",
+        "publish_year": "2014",
+        "isbn": "899879117X",
+        "isbn13": "9788998791179",
+        "isbn_add_code": "03840",
+        "volume": "",
+        "class_no": "846",
+        "class_nm": "문학 > 영미문학 > 일기, 서간, 기행",
+        "description": "'박람강기 프로젝트' 3권. 하드보일드 소설가 레이먼드 챈들러가 작가, 편집자, 독자 들에게 쓴 편지 가운데 68편을 묶었다. 그동안 폴 오스터나 무라카미 하루키의 에세이 등을 통해 일부분만 접할 수 있었던 챈들러의 통찰력 있는 견해들을 감상할 수 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/3896/30/cover/899879117x_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "대하",
+            "weight": 6.0
+          },
+          {
+            "word": "레이먼드",
+            "weight": 5.0
+          },
+          {
+            "word": "미국",
+            "weight": 5.0
+          },
+          {
+            "word": "추리소설",
+            "weight": 4.0
+          },
+          {
+            "word": "하드보일드",
+            "weight": 4.0
+          },
+          {
+            "word": "탐정",
+            "weight": 3.0
+          },
+          {
+            "word": "박람강기 프로젝트",
+            "weight": 3.0
+          },
+          {
+            "word": "글쓰기",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "안녕 내 사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "블랙 마스크",
+            "weight": 3.0
+          },
+          {
+            "word": "타임",
+            "weight": 3.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 3.0
+          },
+          {
+            "word": "탐정소설",
+            "weight": 3.0
+          },
+          {
+            "word": "히치콕 매거진",
+            "weight": 3.0
+          },
+          {
+            "word": "기나긴 이별",
+            "weight": 3.0
+          },
+          {
+            "word": "협박자는 총을 쏘지 않는다",
+            "weight": 3.0
+          },
+          {
+            "word": "빅 슬립",
+            "weight": 3.0
+          },
+          {
+            "word": "방식",
+            "weight": 2.0
+          },
+          {
+            "word": "아내",
+            "weight": 2.0
+          },
+          {
+            "word": "안현주 엮고",
+            "weight": 2.0
+          },
+          {
+            "word": "영향",
+            "weight": 2.0
+          },
+          {
+            "word": "장편소설",
+            "weight": 2.0
+          },
+          {
+            "word": "출판사 대표 30인이 뽑은 숨어있",
+            "weight": 2.0
+          },
+          {
+            "word": "하루키",
+            "weight": 2.0
+          },
+          {
+            "word": "레이먼드 챈들러",
+            "weight": 2.0
+          },
+          {
+            "word": "로스",
+            "weight": 2.0
+          },
+          {
+            "word": "선정",
+            "weight": 2.0
+          },
+          {
+            "word": "편지",
+            "weight": 2.0
+          },
+          {
+            "word": "북스피어",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "자리",
+            "weight": 2.0
+          },
+          {
+            "word": "오스터",
+            "weight": 2.0
+          },
+          {
+            "word": "무라카미",
+            "weight": 2.0
+          },
+          {
+            "word": "나이",
+            "weight": 2.0
+          },
+          {
+            "word": "맥도널드",
+            "weight": 2.0
+          },
+          {
+            "word": "외국에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 1.0
+          },
+          {
+            "word": "1959년",
+            "weight": 1.0
+          },
+          {
+            "word": "딕슨",
+            "weight": 1.0
+          },
+          {
+            "word": "5년간",
+            "weight": 1.0
+          },
+          {
+            "word": "구사",
+            "weight": 1.0
+          },
+          {
+            "word": "관계",
+            "weight": 1.0
+          },
+          {
+            "word": "과음",
+            "weight": 1.0
+          },
+          {
+            "word": "공언",
+            "weight": 1.0
+          },
+          {
+            "word": "고안",
+            "weight": 1.0
+          },
+          {
+            "word": "Chandleresque",
+            "weight": 1.0
+          },
+          {
+            "word": "70세",
+            "weight": 1.0
+          },
+          {
+            "word": "68편",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "레이먼드 챈들러 :밀고자 외 8편 ",
+            "isbn13": "9788972757528",
+            "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 승영조"
+          },
+          {
+            "bookname": "빅 슬립 :레이먼드 챈들러 장편소설 ",
+            "isbn13": "9788954674973",
+            "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+          },
+          {
+            "bookname": "기나긴 이별 :레이먼드 챈들러 장편소설 ",
+            "isbn13": "9788932912523",
+            "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+          },
+          {
+            "bookname": "직업으로서의 소설가 :무라카미 하루키 자전적 에세이 ",
+            "isbn13": "9788972757719",
+            "authors": "지은이: 무라카미 하루키 ;옮긴이: 양윤옥"
+          },
+          {
+            "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+            "isbn13": "9791130698199",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+          },
+          {
+            "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+            "isbn13": "9791167740892",
+            "authors": "조지 손더스 지음 ;정영목 옮김"
+          },
+          {
+            "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+            "isbn13": "9788970128337",
+            "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+          },
+          {
+            "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+            "isbn13": "9788954697941",
+            "authors": "지은이: 김기태"
+          },
+          {
+            "bookname": "허송세월 :김훈 산문 ",
+            "isbn13": "9788930041683",
+            "authors": "지은이: 김훈"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "나는 어떻게 글을 쓰게 되었나"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001636582",
+        "title": "나는 어떻게 글을 쓰게 되었나",
+        "subtitle": "",
+        "page": "256 p.",
+        "book_size": "135*195mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788998791179",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788998791179",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "나는 어떻게 글을 쓰게 되었나",
+      "subtitle": "",
+      "author": "레이먼드 챈들러 지음, 안현주 엮고 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)북스피어",
+      "publish_year": "2014",
+      "publish_predate": "20140411",
+      "kdc": "843.509",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 일기, 서간, 기행",
+      "ddc": "813.52",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "135*195mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'박람강기 프로젝트' 3권. 하드보일드 소설가 레이먼드 챈들러가 작가, 편집자, 독자 들에게 쓴 편지 가운데 68편을 묶었다. 그동안 폴 오스터나 무라카미 하루키의 에세이 등을 통해 일부분만 접할 수 있었던 챈들러의 통찰력 있는 견해들을 감상할 수 있다.",
+      "control_no": "CIP2014008388",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3419055_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "대하",
+          "weight": 6.0
+        },
+        {
+          "word": "레이먼드",
+          "weight": 5.0
+        },
+        {
+          "word": "미국",
+          "weight": 5.0
+        },
+        {
+          "word": "추리소설",
+          "weight": 4.0
+        },
+        {
+          "word": "하드보일드",
+          "weight": 4.0
+        },
+        {
+          "word": "탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "박람강기 프로젝트",
+          "weight": 3.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕 내 사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "블랙 마스크",
+          "weight": 3.0
+        },
+        {
+          "word": "타임",
+          "weight": 3.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 3.0
+        },
+        {
+          "word": "탐정소설",
+          "weight": 3.0
+        },
+        {
+          "word": "히치콕 매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "기나긴 이별",
+          "weight": 3.0
+        },
+        {
+          "word": "협박자는 총을 쏘지 않는다",
+          "weight": 3.0
+        },
+        {
+          "word": "빅 슬립",
+          "weight": 3.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "아내",
+          "weight": 2.0
+        },
+        {
+          "word": "안현주 엮고",
+          "weight": 2.0
+        },
+        {
+          "word": "영향",
+          "weight": 2.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사 대표 30인이 뽑은 숨어있",
+          "weight": 2.0
+        },
+        {
+          "word": "하루키",
+          "weight": 2.0
+        },
+        {
+          "word": "레이먼드 챈들러",
+          "weight": 2.0
+        },
+        {
+          "word": "로스",
+          "weight": 2.0
+        },
+        {
+          "word": "선정",
+          "weight": 2.0
+        },
+        {
+          "word": "편지",
+          "weight": 2.0
+        },
+        {
+          "word": "북스피어",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "자리",
+          "weight": 2.0
+        },
+        {
+          "word": "오스터",
+          "weight": 2.0
+        },
+        {
+          "word": "무라카미",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "맥도널드",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        },
+        {
+          "word": "1959년",
+          "weight": 1.0
+        },
+        {
+          "word": "딕슨",
+          "weight": 1.0
+        },
+        {
+          "word": "5년간",
+          "weight": 1.0
+        },
+        {
+          "word": "구사",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "과음",
+          "weight": 1.0
+        },
+        {
+          "word": "공언",
+          "weight": 1.0
+        },
+        {
+          "word": "고안",
+          "weight": 1.0
+        },
+        {
+          "word": "Chandleresque",
+          "weight": 1.0
+        },
+        {
+          "word": "70세",
+          "weight": 1.0
+        },
+        {
+          "word": "68편",
+          "weight": 1.0
+        }
+      ],
+      "description": "'박람강기 프로젝트' 3권. 하드보일드 소설가 레이먼드 챈들러가 작가, 편집자, 독자 들에게 쓴 편지 가운데 68편을 묶었다. 그동안 폴 오스터나 무라카미 하루키의 에세이 등을 통해 일부분만 접할 수 있었던 챈들러의 통찰력 있는 견해들을 감상할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "레이먼드 챈들러 :밀고자 외 8편 ",
+          "isbn13": "9788972757528",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 승영조"
+        },
+        {
+          "bookname": "빅 슬립 :레이먼드 챈들러 장편소설 ",
+          "isbn13": "9788954674973",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+        },
+        {
+          "bookname": "기나긴 이별 :레이먼드 챈들러 장편소설 ",
+          "isbn13": "9788932912523",
+          "authors": "지은이: 레이먼드 챈들러 ;옮긴이: 김진준"
+        },
+        {
+          "bookname": "직업으로서의 소설가 :무라카미 하루키 자전적 에세이 ",
+          "isbn13": "9788972757719",
+          "authors": "지은이: 무라카미 하루키 ;옮긴이: 양윤옥"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "작가는 어떻게 읽는가 :조지 손더스의 쓰기를 위한 읽기 수업 ",
+          "isbn13": "9791167740892",
+          "authors": "조지 손더스 지음 ;정영목 옮김"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        },
+        {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "isbn13": "9788954697941",
+          "authors": "지은이: 김기태"
+        },
+        {
+          "bookname": "허송세월 :김훈 산문 ",
+          "isbn13": "9788930041683",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "나는 어떻게 글을 쓰게 되었나",
+      "author": "레이먼드 챈들러 지음, 안현주 엮고 옮김",
+      "kdc_from_api": "843.509",
+      "ddc_from_api": "813.52",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681609",
+  "captured_at": "2026-10-03T00:14:07.479302+09:00",
+  "lookup": {
+    "isbn": "9791158681609",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681609",
+      "isbn_add_code": "73030",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 퀴즈",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190415",
+      "kdc": "031",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 한국어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "152*191mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "맛있는 공부 20권. 퀴즈 대회 꼴찌 찹이와 함께 20라운드의 다양한 퀴즈를 풀어 보며 순발력과 집중력을 키우고, 끝까지 답을 찾아 이런저런 창의적인 생각을 이어가며 성취감을 갖게 한다. 또한, 잘 알지 못하는 것을 찾아보고 새로운 것을 알아가는 즐거움도 느끼게 한다.",
+      "control_no": "CIP2019012001",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/27/9791158681609.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "퀴즈",
+          "weight": 20.0
+        },
+        {
+          "word": "대회",
+          "weight": 7.0
+        },
+        {
+          "word": "꼴찌",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 4.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "상식 교양",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "난센스",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "집중력",
+          "weight": 1.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 1.0
+        },
+        {
+          "word": "재미",
+          "weight": 1.0
+        },
+        {
+          "word": "웹툰 이모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "이모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "이번",
+          "weight": 1.0
+        },
+        {
+          "word": "카카오톡",
+          "weight": 1.0
+        },
+        {
+          "word": "이어",
+          "weight": 1.0
+        },
+        {
+          "word": "조절",
+          "weight": 1.0
+        },
+        {
+          "word": "추리",
+          "weight": 1.0
+        },
+        {
+          "word": "창의적",
+          "weight": 1.0
+        },
+        {
+          "word": "지식",
+          "weight": 1.0
+        },
+        {
+          "word": "짤모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "연관",
+          "weight": 1.0
+        },
+        {
+          "word": "역사",
+          "weight": 1.0
+        },
+        {
+          "word": "단어",
+          "weight": 1.0
+        },
+        {
+          "word": "놀이",
+          "weight": 1.0
+        },
+        {
+          "word": "노하우",
+          "weight": 1.0
+        },
+        {
+          "word": "낱말",
+          "weight": 1.0
+        },
+        {
+          "word": "난이도",
+          "weight": 1.0
+        },
+        {
+          "word": "기본",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "과학",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "도출",
+          "weight": 1.0
+        },
+        {
+          "word": "얼마",
+          "weight": 1.0
+        },
+        {
+          "word": "순발력",
+          "weight": 1.0
+        },
+        {
+          "word": "성취감",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "상식",
+          "weight": 1.0
+        },
+        {
+          "word": "분명",
+          "weight": 1.0
+        },
+        {
+          "word": "보세",
+          "weight": 1.0
+        },
+        {
+          "word": "동물농장",
+          "weight": 1.0
+        }
+      ],
+      "description": "맛있는 공부 20권. 퀴즈 대회 꼴찌 찹이와 함께 20라운드의 다양한 퀴즈를 풀어 보며 순발력과 집중력을 키우고, 끝까지 답을 찾아 이런저런 창의적인 생각을 이어가며 성취감을 갖게 한다. 또한, 잘 알지 못하는 것을 찾아보고 새로운 것을 알아가는 즐거움도 느끼게 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+          "isbn13": "9791158681883",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 퀴즈",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "031",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 퀴즈",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_predate": "20190415",
+        "isbn": "9791158681609",
+        "isbn_add_code": "73030",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "231 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "031",
+        "ddc": "",
+        "subject": "0",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019012001",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/27/9791158681609.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_year": "2019",
+        "isbn": "1158681607",
+        "isbn13": "9791158681609",
+        "isbn_add_code": "73030",
+        "volume": "",
+        "class_no": "031",
+        "class_nm": "총류 > 백과사전 > 한국어",
+        "description": "맛있는 공부 20권. 퀴즈 대회 꼴찌 찹이와 함께 20라운드의 다양한 퀴즈를 풀어 보며 순발력과 집중력을 키우고, 끝까지 답을 찾아 이런저런 창의적인 생각을 이어가며 성취감을 갖게 한다. 또한, 잘 알지 못하는 것을 찾아보고 새로운 것을 알아가는 즐거움도 느끼게 한다.",
+        "cover_url": "https://image.aladin.co.kr/product/18763/25/cover/k532635371_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "퀴즈",
+            "weight": 20.0
+          },
+          {
+            "word": "대회",
+            "weight": 7.0
+          },
+          {
+            "word": "꼴찌",
+            "weight": 5.0
+          },
+          {
+            "word": "학교",
+            "weight": 4.0
+          },
+          {
+            "word": "어린이",
+            "weight": 3.0
+          },
+          {
+            "word": "공부",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "파란정원",
+            "weight": 2.0
+          },
+          {
+            "word": "한날",
+            "weight": 2.0
+          },
+          {
+            "word": "즐거움",
+            "weight": 2.0
+          },
+          {
+            "word": "인생다반사",
+            "weight": 2.0
+          },
+          {
+            "word": "상식 교양",
+            "weight": 2.0
+          },
+          {
+            "word": "질문",
+            "weight": 2.0
+          },
+          {
+            "word": "다양",
+            "weight": 2.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 2.0
+          },
+          {
+            "word": "난센스",
+            "weight": 2.0
+          },
+          {
+            "word": "친구",
+            "weight": 2.0
+          },
+          {
+            "word": "집중력",
+            "weight": 1.0
+          },
+          {
+            "word": "웹툰",
+            "weight": 1.0
+          },
+          {
+            "word": "재미",
+            "weight": 1.0
+          },
+          {
+            "word": "웹툰 이모티콘",
+            "weight": 1.0
+          },
+          {
+            "word": "이모티콘",
+            "weight": 1.0
+          },
+          {
+            "word": "이번",
+            "weight": 1.0
+          },
+          {
+            "word": "카카오톡",
+            "weight": 1.0
+          },
+          {
+            "word": "이어",
+            "weight": 1.0
+          },
+          {
+            "word": "조절",
+            "weight": 1.0
+          },
+          {
+            "word": "추리",
+            "weight": 1.0
+          },
+          {
+            "word": "창의적",
+            "weight": 1.0
+          },
+          {
+            "word": "지식",
+            "weight": 1.0
+          },
+          {
+            "word": "짤모티콘",
+            "weight": 1.0
+          },
+          {
+            "word": "연관",
+            "weight": 1.0
+          },
+          {
+            "word": "역사",
+            "weight": 1.0
+          },
+          {
+            "word": "단어",
+            "weight": 1.0
+          },
+          {
+            "word": "놀이",
+            "weight": 1.0
+          },
+          {
+            "word": "노하우",
+            "weight": 1.0
+          },
+          {
+            "word": "낱말",
+            "weight": 1.0
+          },
+          {
+            "word": "난이도",
+            "weight": 1.0
+          },
+          {
+            "word": "기본",
+            "weight": 1.0
+          },
+          {
+            "word": "그린",
+            "weight": 1.0
+          },
+          {
+            "word": "과학",
+            "weight": 1.0
+          },
+          {
+            "word": "활동",
+            "weight": 1.0
+          },
+          {
+            "word": "도출",
+            "weight": 1.0
+          },
+          {
+            "word": "얼마",
+            "weight": 1.0
+          },
+          {
+            "word": "순발력",
+            "weight": 1.0
+          },
+          {
+            "word": "성취감",
+            "weight": 1.0
+          },
+          {
+            "word": "생각",
+            "weight": 1.0
+          },
+          {
+            "word": "상식",
+            "weight": 1.0
+          },
+          {
+            "word": "분명",
+            "weight": 1.0
+          },
+          {
+            "word": "보세",
+            "weight": 1.0
+          },
+          {
+            "word": "동물농장",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+            "isbn13": "9791158681746",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+            "isbn13": "9791158681647",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+            "isbn13": "9791158681531",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+            "isbn13": "9791158681999",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+            "isbn13": "9791158681791",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+            "isbn13": "9791158681883",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+            "isbn13": "9791158681722",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 퀴즈"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770961",
+        "title": "읽으면서 바로 써먹는 어린이 퀴즈",
+        "subtitle": "",
+        "page": "224 p.",
+        "book_size": "152*191mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681609",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681609",
+      "isbn_add_code": "73030",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 퀴즈",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190415",
+      "kdc": "031",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 한국어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "152*191mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "맛있는 공부 20권. 퀴즈 대회 꼴찌 찹이와 함께 20라운드의 다양한 퀴즈를 풀어 보며 순발력과 집중력을 키우고, 끝까지 답을 찾아 이런저런 창의적인 생각을 이어가며 성취감을 갖게 한다. 또한, 잘 알지 못하는 것을 찾아보고 새로운 것을 알아가는 즐거움도 느끼게 한다.",
+      "control_no": "CIP2019012001",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/27/9791158681609.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "퀴즈",
+          "weight": 20.0
+        },
+        {
+          "word": "대회",
+          "weight": 7.0
+        },
+        {
+          "word": "꼴찌",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 4.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "상식 교양",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "난센스",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "집중력",
+          "weight": 1.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 1.0
+        },
+        {
+          "word": "재미",
+          "weight": 1.0
+        },
+        {
+          "word": "웹툰 이모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "이모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "이번",
+          "weight": 1.0
+        },
+        {
+          "word": "카카오톡",
+          "weight": 1.0
+        },
+        {
+          "word": "이어",
+          "weight": 1.0
+        },
+        {
+          "word": "조절",
+          "weight": 1.0
+        },
+        {
+          "word": "추리",
+          "weight": 1.0
+        },
+        {
+          "word": "창의적",
+          "weight": 1.0
+        },
+        {
+          "word": "지식",
+          "weight": 1.0
+        },
+        {
+          "word": "짤모티콘",
+          "weight": 1.0
+        },
+        {
+          "word": "연관",
+          "weight": 1.0
+        },
+        {
+          "word": "역사",
+          "weight": 1.0
+        },
+        {
+          "word": "단어",
+          "weight": 1.0
+        },
+        {
+          "word": "놀이",
+          "weight": 1.0
+        },
+        {
+          "word": "노하우",
+          "weight": 1.0
+        },
+        {
+          "word": "낱말",
+          "weight": 1.0
+        },
+        {
+          "word": "난이도",
+          "weight": 1.0
+        },
+        {
+          "word": "기본",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "과학",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "도출",
+          "weight": 1.0
+        },
+        {
+          "word": "얼마",
+          "weight": 1.0
+        },
+        {
+          "word": "순발력",
+          "weight": 1.0
+        },
+        {
+          "word": "성취감",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "상식",
+          "weight": 1.0
+        },
+        {
+          "word": "분명",
+          "weight": 1.0
+        },
+        {
+          "word": "보세",
+          "weight": 1.0
+        },
+        {
+          "word": "동물농장",
+          "weight": 1.0
+        }
+      ],
+      "description": "맛있는 공부 20권. 퀴즈 대회 꼴찌 찹이와 함께 20라운드의 다양한 퀴즈를 풀어 보며 순발력과 집중력을 키우고, 끝까지 답을 찾아 이런저런 창의적인 생각을 이어가며 성취감을 갖게 한다. 또한, 잘 알지 못하는 것을 찾아보고 새로운 것을 알아가는 즐거움도 느끼게 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+          "isbn13": "9791158681883",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 퀴즈",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "031",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

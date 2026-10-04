@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190337724",
+  "captured_at": "2026-10-02T00:17:09.239684+09:00",
+  "lookup": {
+    "isbn": "9791190337724",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190337724",
+      "isbn_add_code": "43810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "별 별 사이",
+      "subtitle": "소년소녀 x SF",
+      "author": "김동식,김주영,전삼혜,홍지운",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "우리학교",
+      "publish_year": "2021",
+      "publish_predate": "20210409",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "148 p.",
+      "book_size": "124*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "기발한 아이디어로 가득한 SF 장르가 톡톡 튀고 변화무쌍한 사춘기와 만나, 그야말로 폭발력 넘치는 앤솔러지가 탄생했다. 네 명의 SF 작가가 사춘기를 맞은 십 대 이야기를 그렸다. 작품 에서 그리는 미래가 실제로 다가온다면 우리는 어떻게 살아야 할지 고민하게 하고, 미래를 통해 현실을 또렷이 바라볼 수 있는 SF의 매력이 드러낸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/26912/93/cover/k592730601_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 10.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 8.0
+        },
+        {
+          "word": "미래",
+          "weight": 4.0
+        },
+        {
+          "word": "김동식",
+          "weight": 4.0
+        },
+        {
+          "word": "개성",
+          "weight": 3.0
+        },
+        {
+          "word": "세상에서 가장 약한 요괴",
+          "weight": 3.0
+        },
+        {
+          "word": "별 별 사이",
+          "weight": 3.0
+        },
+        {
+          "word": "일상 감시 구역",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "텅 빈 거품",
+          "weight": 3.0
+        },
+        {
+          "word": "활동",
+          "weight": 3.0
+        },
+        {
+          "word": "양심 고백",
+          "weight": 3.0
+        },
+        {
+          "word": "문어",
+          "weight": 3.0
+        },
+        {
+          "word": "성공한 인생",
+          "weight": 3.0
+        },
+        {
+          "word": "밸런스 게임",
+          "weight": 3.0
+        },
+        {
+          "word": "일주일 만에 사랑할 순 없다",
+          "weight": 3.0
+        },
+        {
+          "word": "하나의 인간 인류의 하나",
+          "weight": 3.0
+        },
+        {
+          "word": "13일의 김남우",
+          "weight": 3.0
+        },
+        {
+          "word": "아이디어",
+          "weight": 3.0
+        },
+        {
+          "word": "홍지운",
+          "weight": 3.0
+        },
+        {
+          "word": "몬스터 한밤의 목소리",
+          "weight": 3.0
+        },
+        {
+          "word": "회색 인간",
+          "weight": 3.0
+        },
+        {
+          "word": "살인자의 정석",
+          "weight": 3.0
+        },
+        {
+          "word": "모두가 사라질 때",
+          "weight": 3.0
+        },
+        {
+          "word": "장르",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "우리학교",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "시기",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "명의",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "체질",
+          "weight": 2.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "창작",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "김주영",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "기술",
+          "weight": 1.0
+        },
+        {
+          "word": "기상천외",
+          "weight": 1.0
+        },
+        {
+          "word": "기발",
+          "weight": 1.0
+        },
+        {
+          "word": "2006년",
+          "weight": 1.0
+        },
+        {
+          "word": "감각",
+          "weight": 1.0
+        },
+        {
+          "word": "강연",
+          "weight": 1.0
+        }
+      ],
+      "description": "기발한 아이디어로 가득한 SF 장르가 톡톡 튀고 변화무쌍한 사춘기와 만나, 그야말로 폭발력 넘치는 앤솔러지가 탄생했다. 네 명의 SF 작가가 사춘기를 맞은 십 대 이야기를 그렸다. 작품 에서 그리는 미래가 실제로 다가온다면 우리는 어떻게 살아야 할지 고민하게 하고, 미래를 통해 현실을 또렷이 바라볼 수 있는 SF의 매력이 드러낸다.",
+      "co_loan_books": [
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "열다섯, 그럴 나이 :젊은작가 X 요즘십대 ",
+          "isbn13": "9791190337496",
+          "authors": "지은이: 나윤아,탁경은"
+        },
+        {
+          "bookname": "13일의 김남우 ",
+          "isbn13": "9791196222642",
+          "authors": "지은이: 김동식"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "행운이 너에게 다가오는 중 :이꽃님 장편소설 ",
+          "isbn13": "9788954675314",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "isbn13": "9788954650212",
+          "authors": "글쓴이: 이꽃님"
+        }
+      ],
+      "title": "별 별 사이",
+      "author": "김동식,김주영,전삼혜,홍지운",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "별 별 사이",
+        "author": "김동식,김주영,전삼혜,홍지운",
+        "publisher": "우리학교",
+        "publish_predate": "20210409",
+        "isbn": "9791190337724",
+        "isbn_add_code": "43810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "146 p.",
+        "book_size": "124*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "별 별 사이 :소년소녀 x SF ",
+        "author": "김동식,홍지운",
+        "publisher": "우리학교",
+        "publish_year": "2021",
+        "isbn": "119033772X",
+        "isbn13": "9791190337724",
+        "isbn_add_code": "43810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "기발한 아이디어로 가득한 SF 장르가 톡톡 튀고 변화무쌍한 사춘기와 만나, 그야말로 폭발력 넘치는 앤솔러지가 탄생했다. 네 명의 SF 작가가 사춘기를 맞은 십 대 이야기를 그렸다. 작품 에서 그리는 미래가 실제로 다가온다면 우리는 어떻게 살아야 할지 고민하게 하고, 미래를 통해 현실을 또렷이 바라볼 수 있는 SF의 매력이 드러낸다.",
+        "cover_url": "https://image.aladin.co.kr/product/26912/93/cover/k592730601_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "SF",
+            "weight": 10.0
+          },
+          {
+            "word": "사춘기",
+            "weight": 8.0
+          },
+          {
+            "word": "미래",
+            "weight": 4.0
+          },
+          {
+            "word": "김동식",
+            "weight": 4.0
+          },
+          {
+            "word": "개성",
+            "weight": 3.0
+          },
+          {
+            "word": "세상에서 가장 약한 요괴",
+            "weight": 3.0
+          },
+          {
+            "word": "별 별 사이",
+            "weight": 3.0
+          },
+          {
+            "word": "일상 감시 구역",
+            "weight": 3.0
+          },
+          {
+            "word": "청소년",
+            "weight": 3.0
+          },
+          {
+            "word": "텅 빈 거품",
+            "weight": 3.0
+          },
+          {
+            "word": "활동",
+            "weight": 3.0
+          },
+          {
+            "word": "양심 고백",
+            "weight": 3.0
+          },
+          {
+            "word": "문어",
+            "weight": 3.0
+          },
+          {
+            "word": "성공한 인생",
+            "weight": 3.0
+          },
+          {
+            "word": "밸런스 게임",
+            "weight": 3.0
+          },
+          {
+            "word": "일주일 만에 사랑할 순 없다",
+            "weight": 3.0
+          },
+          {
+            "word": "하나의 인간 인류의 하나",
+            "weight": 3.0
+          },
+          {
+            "word": "13일의 김남우",
+            "weight": 3.0
+          },
+          {
+            "word": "아이디어",
+            "weight": 3.0
+          },
+          {
+            "word": "홍지운",
+            "weight": 3.0
+          },
+          {
+            "word": "몬스터 한밤의 목소리",
+            "weight": 3.0
+          },
+          {
+            "word": "회색 인간",
+            "weight": 3.0
+          },
+          {
+            "word": "살인자의 정석",
+            "weight": 3.0
+          },
+          {
+            "word": "모두가 사라질 때",
+            "weight": 3.0
+          },
+          {
+            "word": "장르",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "우리학교",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "시기",
+            "weight": 2.0
+          },
+          {
+            "word": "청소년 소설",
+            "weight": 2.0
+          },
+          {
+            "word": "명의",
+            "weight": 2.0
+          },
+          {
+            "word": "다양",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "바닥",
+            "weight": 2.0
+          },
+          {
+            "word": "체질",
+            "weight": 2.0
+          },
+          {
+            "word": "방식",
+            "weight": 2.0
+          },
+          {
+            "word": "창작",
+            "weight": 2.0
+          },
+          {
+            "word": "가운데",
+            "weight": 2.0
+          },
+          {
+            "word": "감정",
+            "weight": 2.0
+          },
+          {
+            "word": "상상력",
+            "weight": 2.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 1.0
+          },
+          {
+            "word": "김주영",
+            "weight": 1.0
+          },
+          {
+            "word": "희망",
+            "weight": 1.0
+          },
+          {
+            "word": "기술",
+            "weight": 1.0
+          },
+          {
+            "word": "기상천외",
+            "weight": 1.0
+          },
+          {
+            "word": "기발",
+            "weight": 1.0
+          },
+          {
+            "word": "2006년",
+            "weight": 1.0
+          },
+          {
+            "word": "감각",
+            "weight": 1.0
+          },
+          {
+            "word": "강연",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "체리새우 :황영미 장편소설 ",
+            "isbn13": "9788954654753",
+            "authors": "지은이: 황영미"
+          },
+          {
+            "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+            "isbn13": "9791167550972",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+            "isbn13": "9791168121065",
+            "authors": "글: 김혜정"
+          },
+          {
+            "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+            "isbn13": "9791190337755",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+            "isbn13": "9788954670302",
+            "authors": "허진희 (지은이)"
+          },
+          {
+            "bookname": "열다섯, 그럴 나이 :젊은작가 X 요즘십대 ",
+            "isbn13": "9791190337496",
+            "authors": "지은이: 나윤아,탁경은"
+          },
+          {
+            "bookname": "13일의 김남우 ",
+            "isbn13": "9791196222642",
+            "authors": "지은이: 김동식"
+          },
+          {
+            "bookname": "페인트 :이희영 장편소설 ",
+            "isbn13": "9788936456894",
+            "authors": "지은이: 이희영"
+          },
+          {
+            "bookname": "행운이 너에게 다가오는 중 :이꽃님 장편소설 ",
+            "isbn13": "9788954675314",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+            "isbn13": "9788954650212",
+            "authors": "글쓴이: 이꽃님"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "별 별 사이 - 소년소녀 x SF"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001938998",
+        "title": "별 별 사이",
+        "subtitle": "소년소녀 x SF",
+        "page": "148 p.",
+        "book_size": "125*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190337724",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190337724",
+      "isbn_add_code": "43810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "별 별 사이",
+      "subtitle": "소년소녀 x SF",
+      "author": "김동식,김주영,전삼혜,홍지운",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "우리학교",
+      "publish_year": "2021",
+      "publish_predate": "20210409",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "148 p.",
+      "book_size": "124*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "기발한 아이디어로 가득한 SF 장르가 톡톡 튀고 변화무쌍한 사춘기와 만나, 그야말로 폭발력 넘치는 앤솔러지가 탄생했다. 네 명의 SF 작가가 사춘기를 맞은 십 대 이야기를 그렸다. 작품 에서 그리는 미래가 실제로 다가온다면 우리는 어떻게 살아야 할지 고민하게 하고, 미래를 통해 현실을 또렷이 바라볼 수 있는 SF의 매력이 드러낸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/26912/93/cover/k592730601_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 10.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 8.0
+        },
+        {
+          "word": "미래",
+          "weight": 4.0
+        },
+        {
+          "word": "김동식",
+          "weight": 4.0
+        },
+        {
+          "word": "개성",
+          "weight": 3.0
+        },
+        {
+          "word": "세상에서 가장 약한 요괴",
+          "weight": 3.0
+        },
+        {
+          "word": "별 별 사이",
+          "weight": 3.0
+        },
+        {
+          "word": "일상 감시 구역",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "텅 빈 거품",
+          "weight": 3.0
+        },
+        {
+          "word": "활동",
+          "weight": 3.0
+        },
+        {
+          "word": "양심 고백",
+          "weight": 3.0
+        },
+        {
+          "word": "문어",
+          "weight": 3.0
+        },
+        {
+          "word": "성공한 인생",
+          "weight": 3.0
+        },
+        {
+          "word": "밸런스 게임",
+          "weight": 3.0
+        },
+        {
+          "word": "일주일 만에 사랑할 순 없다",
+          "weight": 3.0
+        },
+        {
+          "word": "하나의 인간 인류의 하나",
+          "weight": 3.0
+        },
+        {
+          "word": "13일의 김남우",
+          "weight": 3.0
+        },
+        {
+          "word": "아이디어",
+          "weight": 3.0
+        },
+        {
+          "word": "홍지운",
+          "weight": 3.0
+        },
+        {
+          "word": "몬스터 한밤의 목소리",
+          "weight": 3.0
+        },
+        {
+          "word": "회색 인간",
+          "weight": 3.0
+        },
+        {
+          "word": "살인자의 정석",
+          "weight": 3.0
+        },
+        {
+          "word": "모두가 사라질 때",
+          "weight": 3.0
+        },
+        {
+          "word": "장르",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "우리학교",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "시기",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "명의",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "체질",
+          "weight": 2.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "창작",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "김주영",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "기술",
+          "weight": 1.0
+        },
+        {
+          "word": "기상천외",
+          "weight": 1.0
+        },
+        {
+          "word": "기발",
+          "weight": 1.0
+        },
+        {
+          "word": "2006년",
+          "weight": 1.0
+        },
+        {
+          "word": "감각",
+          "weight": 1.0
+        },
+        {
+          "word": "강연",
+          "weight": 1.0
+        }
+      ],
+      "description": "기발한 아이디어로 가득한 SF 장르가 톡톡 튀고 변화무쌍한 사춘기와 만나, 그야말로 폭발력 넘치는 앤솔러지가 탄생했다. 네 명의 SF 작가가 사춘기를 맞은 십 대 이야기를 그렸다. 작품 에서 그리는 미래가 실제로 다가온다면 우리는 어떻게 살아야 할지 고민하게 하고, 미래를 통해 현실을 또렷이 바라볼 수 있는 SF의 매력이 드러낸다.",
+      "co_loan_books": [
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "열다섯, 그럴 나이 :젊은작가 X 요즘십대 ",
+          "isbn13": "9791190337496",
+          "authors": "지은이: 나윤아,탁경은"
+        },
+        {
+          "bookname": "13일의 김남우 ",
+          "isbn13": "9791196222642",
+          "authors": "지은이: 김동식"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "행운이 너에게 다가오는 중 :이꽃님 장편소설 ",
+          "isbn13": "9788954675314",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "isbn13": "9788954650212",
+          "authors": "글쓴이: 이꽃님"
+        }
+      ],
+      "title": "별 별 사이",
+      "author": "김동식,김주영,전삼혜,홍지운",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

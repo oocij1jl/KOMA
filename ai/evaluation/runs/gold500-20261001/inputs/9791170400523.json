@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791170400523",
+  "captured_at": "2026-10-02T00:23:17.477683+09:00",
+  "lookup": {
+    "isbn": "9791170400523",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791170400523",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "이어령의 마지막 수업",
+      "subtitle": "",
+      "author": "김지수 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열림원",
+      "publish_year": "2021",
+      "publish_predate": "20211028",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "135*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "시대의 지성 이어령과 ‘인터스텔라’ 김지수의 ‘라스트 인터뷰’. 삶과 죽음에 대한 마지막 인생 수업. “나는 곧 죽을 거라네. 그것도 오래지 않아. 그러니 지금 할 수 있는 모든 이야기를 쏟아놓을 참이야.”",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28212/10/cover/k762835176_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "죽음",
+          "weight": 20.0
+        },
+        {
+          "word": "인터뷰",
+          "weight": 16.0
+        },
+        {
+          "word": "인간",
+          "weight": 12.0
+        },
+        {
+          "word": "스승",
+          "weight": 11.0
+        },
+        {
+          "word": "마지막",
+          "weight": 11.0
+        },
+        {
+          "word": "이어령",
+          "weight": 10.0
+        },
+        {
+          "word": "김지수의 인터스텔라",
+          "weight": 9.0
+        },
+        {
+          "word": "손잡이",
+          "weight": 8.0
+        },
+        {
+          "word": "사람",
+          "weight": 8.0
+        },
+        {
+          "word": "라스트",
+          "weight": 8.0
+        },
+        {
+          "word": "김지수",
+          "weight": 7.0
+        },
+        {
+          "word": "바보",
+          "weight": 6.0
+        },
+        {
+          "word": "질문",
+          "weight": 6.0
+        },
+        {
+          "word": "경계",
+          "weight": 5.0
+        },
+        {
+          "word": "지혜",
+          "weight": 5.0
+        },
+        {
+          "word": "케이스",
+          "weight": 4.0
+        },
+        {
+          "word": "운명",
+          "weight": 4.0
+        },
+        {
+          "word": "전하",
+          "weight": 4.0
+        },
+        {
+          "word": "진실",
+          "weight": 4.0
+        },
+        {
+          "word": "눈물",
+          "weight": 4.0
+        },
+        {
+          "word": "파뿌리",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "거짓말",
+          "weight": 4.0
+        },
+        {
+          "word": "메시지",
+          "weight": 3.0
+        },
+        {
+          "word": "열여섯",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "유언",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "조선비즈",
+          "weight": 3.0
+        },
+        {
+          "word": "자기 인생의 철학자들",
+          "weight": 3.0
+        },
+        {
+          "word": "인터스텔라",
+          "weight": 3.0
+        },
+        {
+          "word": "도시의 사생활",
+          "weight": 3.0
+        },
+        {
+          "word": "탄생",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼",
+          "weight": 3.0
+        },
+        {
+          "word": "머리",
+          "weight": 3.0
+        },
+        {
+          "word": "마리끌레르",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "가을",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "타인",
+          "weight": 3.0
+        },
+        {
+          "word": "언어",
+          "weight": 3.0
+        },
+        {
+          "word": "이어령의 마지막 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "생의",
+          "weight": 3.0
+        },
+        {
+          "word": "보그",
+          "weight": 3.0
+        },
+        {
+          "word": "진행",
+          "weight": 3.0
+        },
+        {
+          "word": "괜찮아 내가 시 읽어줄게",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "자존가들",
+          "weight": 3.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "기자",
+          "weight": 2.0
+        }
+      ],
+      "description": "시대의 지성 이어령과 ‘인터스텔라’ 김지수의 ‘라스트 인터뷰’. 삶과 죽음에 대한 마지막 인생 수업. “나는 곧 죽을 거라네. 그것도 오래지 않아. 그러니 지금 할 수 있는 모든 이야기를 쏟아놓을 참이야.”",
+      "co_loan_books": [
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        }
+      ],
+      "title": "이어령의 마지막 수업",
+      "author": "김지수 지음",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "이어령의 마지막 수업",
+        "author": "김지수 지음",
+        "publisher": "열림원",
+        "publish_predate": "20211028",
+        "isbn": "9791170400523",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "319 p.",
+        "book_size": "135*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "이어령의 마지막 수업 ",
+        "author": "김지수 지음",
+        "publisher": "열림원",
+        "publish_year": "2021",
+        "isbn": "1170400523",
+        "isbn13": "9791170400523",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "199.1",
+        "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+        "description": "시대의 지성 이어령과 ‘인터스텔라’ 김지수의 ‘라스트 인터뷰’. 삶과 죽음에 대한 마지막 인생 수업. “나는 곧 죽을 거라네. 그것도 오래지 않아. 그러니 지금 할 수 있는 모든 이야기를 쏟아놓을 참이야.”",
+        "cover_url": "https://image.aladin.co.kr/product/28212/10/cover/k762835176_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "죽음",
+            "weight": 20.0
+          },
+          {
+            "word": "인터뷰",
+            "weight": 16.0
+          },
+          {
+            "word": "인간",
+            "weight": 12.0
+          },
+          {
+            "word": "스승",
+            "weight": 11.0
+          },
+          {
+            "word": "마지막",
+            "weight": 11.0
+          },
+          {
+            "word": "이어령",
+            "weight": 10.0
+          },
+          {
+            "word": "김지수의 인터스텔라",
+            "weight": 9.0
+          },
+          {
+            "word": "손잡이",
+            "weight": 8.0
+          },
+          {
+            "word": "사람",
+            "weight": 8.0
+          },
+          {
+            "word": "라스트",
+            "weight": 8.0
+          },
+          {
+            "word": "김지수",
+            "weight": 7.0
+          },
+          {
+            "word": "바보",
+            "weight": 6.0
+          },
+          {
+            "word": "질문",
+            "weight": 6.0
+          },
+          {
+            "word": "경계",
+            "weight": 5.0
+          },
+          {
+            "word": "지혜",
+            "weight": 5.0
+          },
+          {
+            "word": "케이스",
+            "weight": 4.0
+          },
+          {
+            "word": "운명",
+            "weight": 4.0
+          },
+          {
+            "word": "전하",
+            "weight": 4.0
+          },
+          {
+            "word": "진실",
+            "weight": 4.0
+          },
+          {
+            "word": "눈물",
+            "weight": 4.0
+          },
+          {
+            "word": "파뿌리",
+            "weight": 4.0
+          },
+          {
+            "word": "세상",
+            "weight": 4.0
+          },
+          {
+            "word": "거짓말",
+            "weight": 4.0
+          },
+          {
+            "word": "메시지",
+            "weight": 3.0
+          },
+          {
+            "word": "열여섯",
+            "weight": 3.0
+          },
+          {
+            "word": "최고",
+            "weight": 3.0
+          },
+          {
+            "word": "유언",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "조선비즈",
+            "weight": 3.0
+          },
+          {
+            "word": "자기 인생의 철학자들",
+            "weight": 3.0
+          },
+          {
+            "word": "인터스텔라",
+            "weight": 3.0
+          },
+          {
+            "word": "도시의 사생활",
+            "weight": 3.0
+          },
+          {
+            "word": "탄생",
+            "weight": 3.0
+          },
+          {
+            "word": "영혼",
+            "weight": 3.0
+          },
+          {
+            "word": "머리",
+            "weight": 3.0
+          },
+          {
+            "word": "마리끌레르",
+            "weight": 3.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "가을",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "타인",
+            "weight": 3.0
+          },
+          {
+            "word": "언어",
+            "weight": 3.0
+          },
+          {
+            "word": "이어령의 마지막 수업",
+            "weight": 3.0
+          },
+          {
+            "word": "생의",
+            "weight": 3.0
+          },
+          {
+            "word": "보그",
+            "weight": 3.0
+          },
+          {
+            "word": "진행",
+            "weight": 3.0
+          },
+          {
+            "word": "괜찮아 내가 시 읽어줄게",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "자존가들",
+            "weight": 3.0
+          },
+          {
+            "word": "상대",
+            "weight": 2.0
+          },
+          {
+            "word": "기자",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별인사 :김영하 장편소설 ",
+            "isbn13": "9791191114225",
+            "authors": "지은이: 김영하"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "이어령의 마지막 수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001860182",
+        "title": "이어령의 마지막 수업",
+        "subtitle": "",
+        "page": "320 p.",
+        "book_size": "138*209mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791170400523",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791170400523",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "이어령의 마지막 수업",
+      "subtitle": "",
+      "author": "김지수 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열림원",
+      "publish_year": "2021",
+      "publish_predate": "20211028",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "135*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "시대의 지성 이어령과 ‘인터스텔라’ 김지수의 ‘라스트 인터뷰’. 삶과 죽음에 대한 마지막 인생 수업. “나는 곧 죽을 거라네. 그것도 오래지 않아. 그러니 지금 할 수 있는 모든 이야기를 쏟아놓을 참이야.”",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28212/10/cover/k762835176_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "죽음",
+          "weight": 20.0
+        },
+        {
+          "word": "인터뷰",
+          "weight": 16.0
+        },
+        {
+          "word": "인간",
+          "weight": 12.0
+        },
+        {
+          "word": "스승",
+          "weight": 11.0
+        },
+        {
+          "word": "마지막",
+          "weight": 11.0
+        },
+        {
+          "word": "이어령",
+          "weight": 10.0
+        },
+        {
+          "word": "김지수의 인터스텔라",
+          "weight": 9.0
+        },
+        {
+          "word": "손잡이",
+          "weight": 8.0
+        },
+        {
+          "word": "사람",
+          "weight": 8.0
+        },
+        {
+          "word": "라스트",
+          "weight": 8.0
+        },
+        {
+          "word": "김지수",
+          "weight": 7.0
+        },
+        {
+          "word": "바보",
+          "weight": 6.0
+        },
+        {
+          "word": "질문",
+          "weight": 6.0
+        },
+        {
+          "word": "경계",
+          "weight": 5.0
+        },
+        {
+          "word": "지혜",
+          "weight": 5.0
+        },
+        {
+          "word": "케이스",
+          "weight": 4.0
+        },
+        {
+          "word": "운명",
+          "weight": 4.0
+        },
+        {
+          "word": "전하",
+          "weight": 4.0
+        },
+        {
+          "word": "진실",
+          "weight": 4.0
+        },
+        {
+          "word": "눈물",
+          "weight": 4.0
+        },
+        {
+          "word": "파뿌리",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "거짓말",
+          "weight": 4.0
+        },
+        {
+          "word": "메시지",
+          "weight": 3.0
+        },
+        {
+          "word": "열여섯",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "유언",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "조선비즈",
+          "weight": 3.0
+        },
+        {
+          "word": "자기 인생의 철학자들",
+          "weight": 3.0
+        },
+        {
+          "word": "인터스텔라",
+          "weight": 3.0
+        },
+        {
+          "word": "도시의 사생활",
+          "weight": 3.0
+        },
+        {
+          "word": "탄생",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼",
+          "weight": 3.0
+        },
+        {
+          "word": "머리",
+          "weight": 3.0
+        },
+        {
+          "word": "마리끌레르",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "가을",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "타인",
+          "weight": 3.0
+        },
+        {
+          "word": "언어",
+          "weight": 3.0
+        },
+        {
+          "word": "이어령의 마지막 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "생의",
+          "weight": 3.0
+        },
+        {
+          "word": "보그",
+          "weight": 3.0
+        },
+        {
+          "word": "진행",
+          "weight": 3.0
+        },
+        {
+          "word": "괜찮아 내가 시 읽어줄게",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "자존가들",
+          "weight": 3.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "기자",
+          "weight": 2.0
+        }
+      ],
+      "description": "시대의 지성 이어령과 ‘인터스텔라’ 김지수의 ‘라스트 인터뷰’. 삶과 죽음에 대한 마지막 인생 수업. “나는 곧 죽을 거라네. 그것도 오래지 않아. 그러니 지금 할 수 있는 모든 이야기를 쏟아놓을 참이야.”",
+      "co_loan_books": [
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        }
+      ],
+      "title": "이어령의 마지막 수업",
+      "author": "김지수 지음",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

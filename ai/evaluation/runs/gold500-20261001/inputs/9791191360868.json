@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791191360868",
+  "captured_at": "2026-10-02T00:14:42.189891+09:00",
+  "lookup": {
+    "isbn": "9791191360868",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191360868",
+      "isbn_add_code": "43810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "100년 후 학교",
+      "subtitle": "",
+      "author": "소향,윤자영,이지현,정명섭 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "생각학교",
+      "publish_year": "2023",
+      "publish_predate": "20230823",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "248 p.",
+      "book_size": "138*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "참신한 주제와 풍부한 내용으로 1318들이 자신을 이해하고 더 넓은 세상을 바라볼 수 있도록 돕는 생각학교의 문학 시리즈, 클클문고의 아홉 번째 작품. 《100년 후 학교》는 청소년들에게 가장 익숙한 장소인 ‘학교’를 소재로 한 네 편의 단편 SF 앤솔러지이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/32333/58/cover/k542935166_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "학교",
+          "weight": 16.0
+        },
+        {
+          "word": "100년 후 학교",
+          "weight": 6.0
+        },
+        {
+          "word": "청소년",
+          "weight": 5.0
+        },
+        {
+          "word": "정명섭",
+          "weight": 5.0
+        },
+        {
+          "word": "소향",
+          "weight": 5.0
+        },
+        {
+          "word": "생각학교",
+          "weight": 5.0
+        },
+        {
+          "word": "한국추리문학상",
+          "weight": 4.0
+        },
+        {
+          "word": "클클문고",
+          "weight": 4.0
+        },
+        {
+          "word": "특별전형",
+          "weight": 4.0
+        },
+        {
+          "word": "이종",
+          "weight": 4.0
+        },
+        {
+          "word": "단편",
+          "weight": 4.0
+        },
+        {
+          "word": "교사",
+          "weight": 3.0
+        },
+        {
+          "word": "편의",
+          "weight": 3.0
+        },
+        {
+          "word": "교통사고 전문 삼비탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 유튜버 과학 탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "미스터리",
+          "weight": 3.0
+        },
+        {
+          "word": "우린 공존할 수 있을까",
+          "weight": 3.0
+        },
+        {
+          "word": "레전드 과학 탐험대",
+          "weight": 3.0
+        },
+        {
+          "word": "윤자영",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "이지현",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 반 파스퇴르",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님",
+          "weight": 3.0
+        },
+        {
+          "word": "조선 과학 탐정 홍대용",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 졸업여행",
+          "weight": 3.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "2019년",
+          "weight": 2.0
+        },
+        {
+          "word": "인연",
+          "weight": 2.0
+        },
+        {
+          "word": "우린",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "미래",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "이해",
+          "weight": 2.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "활동",
+          "weight": 2.0
+        },
+        {
+          "word": "참신",
+          "weight": 2.0
+        },
+        {
+          "word": "과학기술정보통신부",
+          "weight": 2.0
+        },
+        {
+          "word": "공존",
+          "weight": 2.0
+        },
+        {
+          "word": "아홉",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "풍부",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        },
+        {
+          "word": "소재",
+          "weight": 2.0
+        },
+        {
+          "word": "AI",
+          "weight": 2.0
+        },
+        {
+          "word": "주제",
+          "weight": 2.0
+        }
+      ],
+      "description": "참신한 주제와 풍부한 내용으로 1318들이 자신을 이해하고 더 넓은 세상을 바라볼 수 있도록 돕는 생각학교의 문학 시리즈, 클클문고의 아홉 번째 작품. 《100년 후 학교》는 청소년들에게 가장 익숙한 장소인 ‘학교’를 소재로 한 네 편의 단편 SF 앤솔러지이다.",
+      "co_loan_books": [
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설",
+          "isbn13": "9791168125803",
+          "authors": "글: 김혜정 ;일러스트: 조현아"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "열다섯에 곰이라니 :추정경 장편소설 ",
+          "isbn13": "9791130695723",
+          "authors": "지은이: 추정경"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "가짜 모범생 :손현주 장편소설 ",
+          "isbn13": "9791167030313",
+          "authors": "지은이: 손현주"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "100년 후 학교",
+      "author": "소향,윤자영,이지현,정명섭 지음",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "100년 후 학교",
+        "author": "소향,윤자영,이지현,정명섭 지음",
+        "publisher": "생각학교",
+        "publish_predate": "20230823",
+        "isbn": "9791191360868",
+        "isbn_add_code": "43810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "246 p.",
+        "book_size": "138*190",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "100년 후 학교 ",
+        "author": "소향,정명섭 지음",
+        "publisher": "생각학교",
+        "publish_year": "2023",
+        "isbn": "1191360865",
+        "isbn13": "9791191360868",
+        "isbn_add_code": "43810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "참신한 주제와 풍부한 내용으로 1318들이 자신을 이해하고 더 넓은 세상을 바라볼 수 있도록 돕는 생각학교의 문학 시리즈, 클클문고의 아홉 번째 작품. 《100년 후 학교》는 청소년들에게 가장 익숙한 장소인 ‘학교’를 소재로 한 네 편의 단편 SF 앤솔러지이다.",
+        "cover_url": "https://image.aladin.co.kr/product/32333/58/cover/k542935166_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "학교",
+            "weight": 16.0
+          },
+          {
+            "word": "100년 후 학교",
+            "weight": 6.0
+          },
+          {
+            "word": "청소년",
+            "weight": 5.0
+          },
+          {
+            "word": "정명섭",
+            "weight": 5.0
+          },
+          {
+            "word": "소향",
+            "weight": 5.0
+          },
+          {
+            "word": "생각학교",
+            "weight": 5.0
+          },
+          {
+            "word": "한국추리문학상",
+            "weight": 4.0
+          },
+          {
+            "word": "클클문고",
+            "weight": 4.0
+          },
+          {
+            "word": "특별전형",
+            "weight": 4.0
+          },
+          {
+            "word": "이종",
+            "weight": 4.0
+          },
+          {
+            "word": "단편",
+            "weight": 4.0
+          },
+          {
+            "word": "교사",
+            "weight": 3.0
+          },
+          {
+            "word": "편의",
+            "weight": 3.0
+          },
+          {
+            "word": "교통사고 전문 삼비탐정",
+            "weight": 3.0
+          },
+          {
+            "word": "수상한 유튜버 과학 탐정",
+            "weight": 3.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "미스터리",
+            "weight": 3.0
+          },
+          {
+            "word": "우린 공존할 수 있을까",
+            "weight": 3.0
+          },
+          {
+            "word": "레전드 과학 탐험대",
+            "weight": 3.0
+          },
+          {
+            "word": "윤자영",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "이지현",
+            "weight": 3.0
+          },
+          {
+            "word": "우리 반 파스퇴르",
+            "weight": 3.0
+          },
+          {
+            "word": "선생님",
+            "weight": 3.0
+          },
+          {
+            "word": "조선 과학 탐정 홍대용",
+            "weight": 3.0
+          },
+          {
+            "word": "수상한 졸업여행",
+            "weight": 3.0
+          },
+          {
+            "word": "2021년",
+            "weight": 2.0
+          },
+          {
+            "word": "2019년",
+            "weight": 2.0
+          },
+          {
+            "word": "인연",
+            "weight": 2.0
+          },
+          {
+            "word": "우린",
+            "weight": 2.0
+          },
+          {
+            "word": "2018년",
+            "weight": 2.0
+          },
+          {
+            "word": "문학",
+            "weight": 2.0
+          },
+          {
+            "word": "상상",
+            "weight": 2.0
+          },
+          {
+            "word": "청소년 소설",
+            "weight": 2.0
+          },
+          {
+            "word": "미래",
+            "weight": 2.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 2.0
+          },
+          {
+            "word": "이해",
+            "weight": 2.0
+          },
+          {
+            "word": "수업",
+            "weight": 2.0
+          },
+          {
+            "word": "활동",
+            "weight": 2.0
+          },
+          {
+            "word": "참신",
+            "weight": 2.0
+          },
+          {
+            "word": "과학기술정보통신부",
+            "weight": 2.0
+          },
+          {
+            "word": "공존",
+            "weight": 2.0
+          },
+          {
+            "word": "아홉",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "풍부",
+            "weight": 2.0
+          },
+          {
+            "word": "글쓰기",
+            "weight": 2.0
+          },
+          {
+            "word": "내용",
+            "weight": 2.0
+          },
+          {
+            "word": "소재",
+            "weight": 2.0
+          },
+          {
+            "word": "AI",
+            "weight": 2.0
+          },
+          {
+            "word": "주제",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+            "isbn13": "9791168121065",
+            "authors": "글: 김혜정"
+          },
+          {
+            "bookname": "오백 년째 열다섯 :김혜정 장편소설",
+            "isbn13": "9791168125803",
+            "authors": "글: 김혜정 ;일러스트: 조현아"
+          },
+          {
+            "bookname": "체리새우 :황영미 장편소설 ",
+            "isbn13": "9788954654753",
+            "authors": "지은이: 황영미"
+          },
+          {
+            "bookname": "비스킷 ",
+            "isbn13": "9791168127630",
+            "authors": "글: 김선미"
+          },
+          {
+            "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+            "isbn13": "9791167550972",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+            "isbn13": "9788954670302",
+            "authors": "허진희 (지은이)"
+          },
+          {
+            "bookname": "열다섯에 곰이라니 :추정경 장편소설 ",
+            "isbn13": "9791130695723",
+            "authors": "지은이: 추정경"
+          },
+          {
+            "bookname": "페인트 :이희영 장편소설 ",
+            "isbn13": "9788936456894",
+            "authors": "지은이: 이희영"
+          },
+          {
+            "bookname": "가짜 모범생 :손현주 장편소설 ",
+            "isbn13": "9791167030313",
+            "authors": "지은이: 손현주"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "100년 후 학교"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000208702720",
+        "title": "100년 후 학교",
+        "subtitle": "",
+        "page": "248 p.",
+        "book_size": "140*190mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191360868",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191360868",
+      "isbn_add_code": "43810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "100년 후 학교",
+      "subtitle": "",
+      "author": "소향,윤자영,이지현,정명섭 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "생각학교",
+      "publish_year": "2023",
+      "publish_predate": "20230823",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "248 p.",
+      "book_size": "138*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "참신한 주제와 풍부한 내용으로 1318들이 자신을 이해하고 더 넓은 세상을 바라볼 수 있도록 돕는 생각학교의 문학 시리즈, 클클문고의 아홉 번째 작품. 《100년 후 학교》는 청소년들에게 가장 익숙한 장소인 ‘학교’를 소재로 한 네 편의 단편 SF 앤솔러지이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/32333/58/cover/k542935166_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "학교",
+          "weight": 16.0
+        },
+        {
+          "word": "100년 후 학교",
+          "weight": 6.0
+        },
+        {
+          "word": "청소년",
+          "weight": 5.0
+        },
+        {
+          "word": "정명섭",
+          "weight": 5.0
+        },
+        {
+          "word": "소향",
+          "weight": 5.0
+        },
+        {
+          "word": "생각학교",
+          "weight": 5.0
+        },
+        {
+          "word": "한국추리문학상",
+          "weight": 4.0
+        },
+        {
+          "word": "클클문고",
+          "weight": 4.0
+        },
+        {
+          "word": "특별전형",
+          "weight": 4.0
+        },
+        {
+          "word": "이종",
+          "weight": 4.0
+        },
+        {
+          "word": "단편",
+          "weight": 4.0
+        },
+        {
+          "word": "교사",
+          "weight": 3.0
+        },
+        {
+          "word": "편의",
+          "weight": 3.0
+        },
+        {
+          "word": "교통사고 전문 삼비탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 유튜버 과학 탐정",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "미스터리",
+          "weight": 3.0
+        },
+        {
+          "word": "우린 공존할 수 있을까",
+          "weight": 3.0
+        },
+        {
+          "word": "레전드 과학 탐험대",
+          "weight": 3.0
+        },
+        {
+          "word": "윤자영",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "이지현",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 반 파스퇴르",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님",
+          "weight": 3.0
+        },
+        {
+          "word": "조선 과학 탐정 홍대용",
+          "weight": 3.0
+        },
+        {
+          "word": "수상한 졸업여행",
+          "weight": 3.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "2019년",
+          "weight": 2.0
+        },
+        {
+          "word": "인연",
+          "weight": 2.0
+        },
+        {
+          "word": "우린",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "문학",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "미래",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "이해",
+          "weight": 2.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "활동",
+          "weight": 2.0
+        },
+        {
+          "word": "참신",
+          "weight": 2.0
+        },
+        {
+          "word": "과학기술정보통신부",
+          "weight": 2.0
+        },
+        {
+          "word": "공존",
+          "weight": 2.0
+        },
+        {
+          "word": "아홉",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "풍부",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        },
+        {
+          "word": "소재",
+          "weight": 2.0
+        },
+        {
+          "word": "AI",
+          "weight": 2.0
+        },
+        {
+          "word": "주제",
+          "weight": 2.0
+        }
+      ],
+      "description": "참신한 주제와 풍부한 내용으로 1318들이 자신을 이해하고 더 넓은 세상을 바라볼 수 있도록 돕는 생각학교의 문학 시리즈, 클클문고의 아홉 번째 작품. 《100년 후 학교》는 청소년들에게 가장 익숙한 장소인 ‘학교’를 소재로 한 네 편의 단편 SF 앤솔러지이다.",
+      "co_loan_books": [
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설",
+          "isbn13": "9791168125803",
+          "authors": "글: 김혜정 ;일러스트: 조현아"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "열다섯에 곰이라니 :추정경 장편소설 ",
+          "isbn13": "9791130695723",
+          "authors": "지은이: 추정경"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "가짜 모범생 :손현주 장편소설 ",
+          "isbn13": "9791167030313",
+          "authors": "지은이: 손현주"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "100년 후 학교",
+      "author": "소향,윤자영,이지현,정명섭 지음",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

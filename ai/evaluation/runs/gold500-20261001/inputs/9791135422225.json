@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791135422225",
+  "captured_at": "2026-10-03T00:15:41.580856+09:00",
+  "lookup": {
+    "isbn": "9791135422225",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791135422225",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17800",
+      "title": "(50대 사건으로 보는) 돈의 역사",
+      "subtitle": "",
+      "author": "홍춘욱 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Rok Media(로크미디어)",
+      "publish_year": "2019",
+      "publish_predate": "20190424",
+      "kdc": "327.209",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "152*225mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "역사를 통해 돈을 배우고, 돈을 통해 역사를 배울 수 있도록 경제와 역사가 결합된 책으로 세계에 큰 변화를 가져온 중요 사건들을 금융의 관점에서 역사의 흐름과 맥락을 따라 살펴볼 수 있도록 구성했다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/18961/78/cover/k502635582_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세계",
+          "weight": 12.0
+        },
+        {
+          "word": "이유",
+          "weight": 11.0
+        },
+        {
+          "word": "3장",
+          "weight": 9.0
+        },
+        {
+          "word": "5장",
+          "weight": 9.0
+        },
+        {
+          "word": "4장",
+          "weight": 9.0
+        },
+        {
+          "word": "2장",
+          "weight": 9.0
+        },
+        {
+          "word": "교훈",
+          "weight": 9.0
+        },
+        {
+          "word": "흐름",
+          "weight": 9.0
+        },
+        {
+          "word": "1장",
+          "weight": 9.0
+        },
+        {
+          "word": "경제",
+          "weight": 8.0
+        },
+        {
+          "word": "변화",
+          "weight": 7.0
+        },
+        {
+          "word": "6장",
+          "weight": 7.0
+        },
+        {
+          "word": "역사",
+          "weight": 7.0
+        },
+        {
+          "word": "홍춘욱",
+          "weight": 7.0
+        },
+        {
+          "word": "인물",
+          "weight": 6.0
+        },
+        {
+          "word": "명나라",
+          "weight": 6.0
+        },
+        {
+          "word": "일본",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 6.0
+        },
+        {
+          "word": "미국",
+          "weight": 5.0
+        },
+        {
+          "word": "7장",
+          "weight": 5.0
+        },
+        {
+          "word": "사건",
+          "weight": 5.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 5.0
+        },
+        {
+          "word": "금융",
+          "weight": 5.0
+        },
+        {
+          "word": "버블",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "개성",
+          "weight": 4.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 4.0
+        },
+        {
+          "word": "거대",
+          "weight": 4.0
+        },
+        {
+          "word": "대공황",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 3.0
+        },
+        {
+          "word": "각종",
+          "weight": 3.0
+        },
+        {
+          "word": "서양",
+          "weight": 3.0
+        },
+        {
+          "word": "금리",
+          "weight": 3.0
+        },
+        {
+          "word": "외환위기",
+          "weight": 3.0
+        },
+        {
+          "word": "돈 좀 굴려봅시다2012",
+          "weight": 3.0
+        },
+        {
+          "word": "환율의 미래 2016",
+          "weight": 3.0
+        },
+        {
+          "word": "이코노미스트",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 3.0
+        },
+        {
+          "word": "전문가",
+          "weight": 3.0
+        },
+        {
+          "word": "청나라",
+          "weight": 3.0
+        },
+        {
+          "word": "금본위제",
+          "weight": 3.0
+        },
+        {
+          "word": "은행",
+          "weight": 3.0
+        },
+        {
+          "word": "중앙은행",
+          "weight": 3.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "몰락",
+          "weight": 2.0
+        },
+        {
+          "word": "20년",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "2부로",
+          "weight": 2.0
+        },
+        {
+          "word": "물가",
+          "weight": 2.0
+        },
+        {
+          "word": "맥락",
+          "weight": 2.0
+        }
+      ],
+      "description": "역사를 통해 돈을 배우고, 돈을 통해 역사를 배울 수 있도록 경제와 역사가 결합된 책으로 세계에 큰 변화를 가져온 중요 사건들을 금융의 관점에서 역사의 흐름과 맥락을 따라 살펴볼 수 있도록 구성했다.",
+      "co_loan_books": [
+        {
+          "bookname": "(7대 이슈로 보는) 돈의 역사 2 :화폐, 전염병, 기후변화, 경쟁, 신뢰, 금융위기, 갈등 ",
+          "isbn13": "9791135489532",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 역사는 되풀이된다 :돈의 흐름을 읽는 눈 ",
+          "isbn13": "9791191393163",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "대한민국 돈의 역사 :돈을 벌기 위해서는 역사에서 교훈을 얻어야 한다 ",
+          "isbn13": "9791192389264",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "부의 시나리오 :불확실성을 기회로 만드는 4가지 투자전략 ",
+          "isbn13": "9791190977265",
+          "authors": "오건영 지음"
+        },
+        {
+          "bookname": "위기의 역사 :외환위기부터 인플레이션의 부활까지 경제위기의 생성과 소멸 ",
+          "isbn13": "9791169850360",
+          "authors": "오건영 지음 ;안병현 그림"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "부의 인문학 :슈퍼리치의 서재에서 찾아낸 부자의 길 ",
+          "isbn13": "9788995563502",
+          "authors": "브라운스톤 지음"
+        }
+      ],
+      "title": "(50대 사건으로 보는) 돈의 역사",
+      "author": "홍춘욱 지음",
+      "kdc_from_api": "327.209",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(50대 사건으로 보는) 돈의 역사",
+        "author": "홍춘욱 지음",
+        "publisher": "Rok Media(로크미디어)",
+        "publish_predate": "20190424",
+        "isbn": "9791135422225",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "352 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(50대 사건으로 보는) 돈의 역사 =The history of money ",
+        "author": "홍춘욱 지음",
+        "publisher": "Rok Media(로크미디어)",
+        "publish_year": "2019",
+        "isbn": "1135422222",
+        "isbn13": "9791135422225",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "327.209",
+        "class_nm": "사회과학 > 경제학 > 금융",
+        "description": "역사를 통해 돈을 배우고, 돈을 통해 역사를 배울 수 있도록 경제와 역사가 결합된 책으로 세계에 큰 변화를 가져온 중요 사건들을 금융의 관점에서 역사의 흐름과 맥락을 따라 살펴볼 수 있도록 구성했다.",
+        "cover_url": "https://image.aladin.co.kr/product/18961/78/cover/k502635582_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "세계",
+            "weight": 12.0
+          },
+          {
+            "word": "이유",
+            "weight": 11.0
+          },
+          {
+            "word": "3장",
+            "weight": 9.0
+          },
+          {
+            "word": "5장",
+            "weight": 9.0
+          },
+          {
+            "word": "4장",
+            "weight": 9.0
+          },
+          {
+            "word": "2장",
+            "weight": 9.0
+          },
+          {
+            "word": "교훈",
+            "weight": 9.0
+          },
+          {
+            "word": "흐름",
+            "weight": 9.0
+          },
+          {
+            "word": "1장",
+            "weight": 9.0
+          },
+          {
+            "word": "경제",
+            "weight": 8.0
+          },
+          {
+            "word": "변화",
+            "weight": 7.0
+          },
+          {
+            "word": "6장",
+            "weight": 7.0
+          },
+          {
+            "word": "역사",
+            "weight": 7.0
+          },
+          {
+            "word": "홍춘욱",
+            "weight": 7.0
+          },
+          {
+            "word": "인물",
+            "weight": 6.0
+          },
+          {
+            "word": "명나라",
+            "weight": 6.0
+          },
+          {
+            "word": "일본",
+            "weight": 6.0
+          },
+          {
+            "word": "영국",
+            "weight": 6.0
+          },
+          {
+            "word": "미국",
+            "weight": 5.0
+          },
+          {
+            "word": "7장",
+            "weight": 5.0
+          },
+          {
+            "word": "사건",
+            "weight": 5.0
+          },
+          {
+            "word": "우리나라",
+            "weight": 5.0
+          },
+          {
+            "word": "금융",
+            "weight": 5.0
+          },
+          {
+            "word": "버블",
+            "weight": 4.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "개성",
+            "weight": 4.0
+          },
+          {
+            "word": "프랑스",
+            "weight": 4.0
+          },
+          {
+            "word": "거대",
+            "weight": 4.0
+          },
+          {
+            "word": "대공황",
+            "weight": 4.0
+          },
+          {
+            "word": "이해",
+            "weight": 3.0
+          },
+          {
+            "word": "각종",
+            "weight": 3.0
+          },
+          {
+            "word": "서양",
+            "weight": 3.0
+          },
+          {
+            "word": "금리",
+            "weight": 3.0
+          },
+          {
+            "word": "외환위기",
+            "weight": 3.0
+          },
+          {
+            "word": "돈 좀 굴려봅시다2012",
+            "weight": 3.0
+          },
+          {
+            "word": "환율의 미래 2016",
+            "weight": 3.0
+          },
+          {
+            "word": "이코노미스트",
+            "weight": 3.0
+          },
+          {
+            "word": "전쟁",
+            "weight": 3.0
+          },
+          {
+            "word": "전문가",
+            "weight": 3.0
+          },
+          {
+            "word": "청나라",
+            "weight": 3.0
+          },
+          {
+            "word": "금본위제",
+            "weight": 3.0
+          },
+          {
+            "word": "은행",
+            "weight": 3.0
+          },
+          {
+            "word": "중앙은행",
+            "weight": 3.0
+          },
+          {
+            "word": "배경",
+            "weight": 3.0
+          },
+          {
+            "word": "몰락",
+            "weight": 2.0
+          },
+          {
+            "word": "20년",
+            "weight": 2.0
+          },
+          {
+            "word": "2부",
+            "weight": 2.0
+          },
+          {
+            "word": "2부로",
+            "weight": 2.0
+          },
+          {
+            "word": "물가",
+            "weight": 2.0
+          },
+          {
+            "word": "맥락",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(7대 이슈로 보는) 돈의 역사 2 :화폐, 전염병, 기후변화, 경쟁, 신뢰, 금융위기, 갈등 ",
+            "isbn13": "9791135489532",
+            "authors": "홍춘욱 지음"
+          },
+          {
+            "bookname": "돈의 역사는 되풀이된다 :돈의 흐름을 읽는 눈 ",
+            "isbn13": "9791191393163",
+            "authors": "홍춘욱 지음"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "대한민국 돈의 역사 :돈을 벌기 위해서는 역사에서 교훈을 얻어야 한다 ",
+            "isbn13": "9791192389264",
+            "authors": "홍춘욱 지음"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "부의 시나리오 :불확실성을 기회로 만드는 4가지 투자전략 ",
+            "isbn13": "9791190977265",
+            "authors": "오건영 지음"
+          },
+          {
+            "bookname": "위기의 역사 :외환위기부터 인플레이션의 부활까지 경제위기의 생성과 소멸 ",
+            "isbn13": "9791169850360",
+            "authors": "오건영 지음 ;안병현 그림"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "부의 인문학 :슈퍼리치의 서재에서 찾아낸 부자의 길 ",
+            "isbn13": "9788995563502",
+            "authors": "브라운스톤 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(50대 사건으로 보는) 돈의 역사"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001707724",
+        "title": "50대 사건으로 보는 돈의 역사",
+        "subtitle": "",
+        "page": "352 p.",
+        "book_size": "152*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791135422225",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791135422225",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17800",
+      "title": "(50대 사건으로 보는) 돈의 역사",
+      "subtitle": "",
+      "author": "홍춘욱 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Rok Media(로크미디어)",
+      "publish_year": "2019",
+      "publish_predate": "20190424",
+      "kdc": "327.209",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "152*225mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "역사를 통해 돈을 배우고, 돈을 통해 역사를 배울 수 있도록 경제와 역사가 결합된 책으로 세계에 큰 변화를 가져온 중요 사건들을 금융의 관점에서 역사의 흐름과 맥락을 따라 살펴볼 수 있도록 구성했다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/18961/78/cover/k502635582_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세계",
+          "weight": 12.0
+        },
+        {
+          "word": "이유",
+          "weight": 11.0
+        },
+        {
+          "word": "3장",
+          "weight": 9.0
+        },
+        {
+          "word": "5장",
+          "weight": 9.0
+        },
+        {
+          "word": "4장",
+          "weight": 9.0
+        },
+        {
+          "word": "2장",
+          "weight": 9.0
+        },
+        {
+          "word": "교훈",
+          "weight": 9.0
+        },
+        {
+          "word": "흐름",
+          "weight": 9.0
+        },
+        {
+          "word": "1장",
+          "weight": 9.0
+        },
+        {
+          "word": "경제",
+          "weight": 8.0
+        },
+        {
+          "word": "변화",
+          "weight": 7.0
+        },
+        {
+          "word": "6장",
+          "weight": 7.0
+        },
+        {
+          "word": "역사",
+          "weight": 7.0
+        },
+        {
+          "word": "홍춘욱",
+          "weight": 7.0
+        },
+        {
+          "word": "인물",
+          "weight": 6.0
+        },
+        {
+          "word": "명나라",
+          "weight": 6.0
+        },
+        {
+          "word": "일본",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 6.0
+        },
+        {
+          "word": "미국",
+          "weight": 5.0
+        },
+        {
+          "word": "7장",
+          "weight": 5.0
+        },
+        {
+          "word": "사건",
+          "weight": 5.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 5.0
+        },
+        {
+          "word": "금융",
+          "weight": 5.0
+        },
+        {
+          "word": "버블",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "개성",
+          "weight": 4.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 4.0
+        },
+        {
+          "word": "거대",
+          "weight": 4.0
+        },
+        {
+          "word": "대공황",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 3.0
+        },
+        {
+          "word": "각종",
+          "weight": 3.0
+        },
+        {
+          "word": "서양",
+          "weight": 3.0
+        },
+        {
+          "word": "금리",
+          "weight": 3.0
+        },
+        {
+          "word": "외환위기",
+          "weight": 3.0
+        },
+        {
+          "word": "돈 좀 굴려봅시다2012",
+          "weight": 3.0
+        },
+        {
+          "word": "환율의 미래 2016",
+          "weight": 3.0
+        },
+        {
+          "word": "이코노미스트",
+          "weight": 3.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 3.0
+        },
+        {
+          "word": "전문가",
+          "weight": 3.0
+        },
+        {
+          "word": "청나라",
+          "weight": 3.0
+        },
+        {
+          "word": "금본위제",
+          "weight": 3.0
+        },
+        {
+          "word": "은행",
+          "weight": 3.0
+        },
+        {
+          "word": "중앙은행",
+          "weight": 3.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "몰락",
+          "weight": 2.0
+        },
+        {
+          "word": "20년",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "2부로",
+          "weight": 2.0
+        },
+        {
+          "word": "물가",
+          "weight": 2.0
+        },
+        {
+          "word": "맥락",
+          "weight": 2.0
+        }
+      ],
+      "description": "역사를 통해 돈을 배우고, 돈을 통해 역사를 배울 수 있도록 경제와 역사가 결합된 책으로 세계에 큰 변화를 가져온 중요 사건들을 금융의 관점에서 역사의 흐름과 맥락을 따라 살펴볼 수 있도록 구성했다.",
+      "co_loan_books": [
+        {
+          "bookname": "(7대 이슈로 보는) 돈의 역사 2 :화폐, 전염병, 기후변화, 경쟁, 신뢰, 금융위기, 갈등 ",
+          "isbn13": "9791135489532",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 역사는 되풀이된다 :돈의 흐름을 읽는 눈 ",
+          "isbn13": "9791191393163",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "대한민국 돈의 역사 :돈을 벌기 위해서는 역사에서 교훈을 얻어야 한다 ",
+          "isbn13": "9791192389264",
+          "authors": "홍춘욱 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "부의 시나리오 :불확실성을 기회로 만드는 4가지 투자전략 ",
+          "isbn13": "9791190977265",
+          "authors": "오건영 지음"
+        },
+        {
+          "bookname": "위기의 역사 :외환위기부터 인플레이션의 부활까지 경제위기의 생성과 소멸 ",
+          "isbn13": "9791169850360",
+          "authors": "오건영 지음 ;안병현 그림"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "부의 인문학 :슈퍼리치의 서재에서 찾아낸 부자의 길 ",
+          "isbn13": "9788995563502",
+          "authors": "브라운스톤 지음"
+        }
+      ],
+      "title": "(50대 사건으로 보는) 돈의 역사",
+      "author": "홍춘욱 지음",
+      "kdc_from_api": "327.209",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

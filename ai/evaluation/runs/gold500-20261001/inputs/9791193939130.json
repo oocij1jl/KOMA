@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791193939130",
+  "captured_at": "2026-10-02T00:13:00.944475+09:00",
+  "lookup": {
+    "isbn": "9791193939130",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193939130",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16800",
+      "title": "고전이 답했다",
+      "subtitle": "마땅히 살아야 할 삶에 대하여",
+      "author": "고명환 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "라곰",
+      "publish_year": "2024",
+      "publish_predate": "20240826",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "252 p.",
+      "book_size": "142*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.1000일간 매일 외친 ‘아침 긍정 확언’은 매년 찾아오던 우울증을 떨쳐버리기 위해 괴테의 『젊은 베르테르의 슬픔』을 읽다가 발견한 해답이었다. ‘불안감’을 ‘기대감’의 말로 바꾸면 삶의 방향성이 달라진다는 고전의 답을 따라 매일 10분 긍정의 말을 외쳤고, 삶은 놀라운 방향으로 바뀌기 시작했다.저자의 삶을 한층 밝고 건강한 쪽으로 이끈 것은 다름 아닌 ‘고전’이었다. 나는 누구인가? 어떻게 살아야 하는가? 무엇을 행해야 하는가? 물음이 생길 때마다 고전을 펼쳐 들었고, 고전이 답했다. 칼 구스타프 융의 『칼 융 레드 북』, 블레즈 파스칼의 『팡세』, 사마천의 『사기열전』, 미하이 칙센트미하이의 『몰입 Flow』까지 수백 년의 경험과 지혜가 압축된 고전을 읽다보면 방향이 선명해졌다. 인간관계에 대한 고민에서부터 행복한 삶을 사는 법, 이기는 법까지 우리가 원하는 모든 분야에 대한 답이 고전에 있다. 느리지만, 오로지 ‘성장’이라는 방향으로 나아가는 고전에서 답을 찾아보자.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고전",
+          "weight": 21.0
+        },
+        {
+          "word": "매일",
+          "weight": 9.0
+        },
+        {
+          "word": "젊은 베르테르의 슬픔",
+          "weight": 9.0
+        },
+        {
+          "word": "아침",
+          "weight": 8.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "긍정",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "방향",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "발견",
+          "weight": 4.0
+        },
+        {
+          "word": "확언",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "우울증",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "기대감",
+          "weight": 4.0
+        },
+        {
+          "word": "내공",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 4.0
+        },
+        {
+          "word": "전국",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 3.0
+        },
+        {
+          "word": "시대",
+          "weight": 3.0
+        },
+        {
+          "word": "괴테",
+          "weight": 3.0
+        },
+        {
+          "word": "팡세",
+          "weight": 3.0
+        },
+        {
+          "word": "불안감",
+          "weight": 3.0
+        },
+        {
+          "word": "10분",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "강연자",
+          "weight": 3.0
+        },
+        {
+          "word": "강연장",
+          "weight": 3.0
+        },
+        {
+          "word": "강의",
+          "weight": 3.0
+        },
+        {
+          "word": "몰입  Flow",
+          "weight": 3.0
+        },
+        {
+          "word": "책 읽고 매출의 신이 되다",
+          "weight": 3.0
+        },
+        {
+          "word": "유튜브",
+          "weight": 3.0
+        },
+        {
+          "word": "사기열전",
+          "weight": 3.0
+        },
+        {
+          "word": "칼 융 레드 북",
+          "weight": 3.0
+        },
+        {
+          "word": "차례",
+          "weight": 3.0
+        },
+        {
+          "word": "떨쳐버리기",
+          "weight": 3.0
+        },
+        {
+          "word": "년간",
+          "weight": 2.0
+        },
+        {
+          "word": "곱하기",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "1부",
+          "weight": 2.0
+        },
+        {
+          "word": "불행",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "고명환이",
+          "weight": 2.0
+        },
+        {
+          "word": "그레고르",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        },
+        {
+          "word": "분야",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "강연",
+          "weight": 2.0
+        },
+        {
+          "word": "古典",
+          "weight": 2.0
+        }
+      ],
+      "description": "매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.1000일간 매일 외친 ‘아침 긍정 확언’은 매년 찾아오던 우울증을 떨쳐버리기 위해 괴테의 『젊은 베르테르의 슬픔』을 읽다가 발견한 해답이었다. ‘불안감’을 ‘기대감’의 말로 바꾸면 삶의 방향성이 달라진다는 고전의 답을 따라 매일 10분 긍정의 말을 외쳤고, 삶은 놀라운 방향으로 바뀌기 시작했다.저자의 삶을 한층 밝고 건강한 쪽으로 이끈 것은 다름 아닌 ‘고전’이었다. 나는 누구인가? 어떻게 살아야 하는가? 무엇을 행해야 하는가? 물음이 생길 때마다 고전을 펼쳐 들었고, 고전이 답했다. 칼 구스타프 융의 『칼 융 레드 북』, 블레즈 파스칼의 『팡세』, 사마천의 『사기열전』, 미하이 칙센트미하이의 『몰입 Flow』까지 수백 년의 경험과 지혜가 압축된 고전을 읽다보면 방향이 선명해졌다. 인간관계에 대한 고민에서부터 행복한 삶을 사는 법, 이기는 법까지 우리가 원하는 모든 분야에 대한 답이 고전에 있다. 느리지만, 오로지 ‘성장’이라는 방향으로 나아가는 고전에서 답을 찾아보자.",
+      "co_loan_books": [
+        {
+          "bookname": "고전이 답했다 :being better through the classics ",
+          "isbn13": "9791193939314",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+          "isbn13": "9791189686826",
+          "authors": "지은이: 고명환"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "어른의 행복은 조용하다 ",
+          "isbn13": "9791169851053",
+          "authors": "글: 태수"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        }
+      ],
+      "title": "고전이 답했다",
+      "author": "고명환 지음",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "고전이 답했다",
+        "author": "고명환 지음",
+        "publisher": "라곰",
+        "publish_predate": "20240826",
+        "isbn": "9791193939130",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "251 p.",
+        "book_size": "142*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+        "author": "고명환 지음",
+        "publisher": "라곰",
+        "publish_year": "2024",
+        "isbn": "1193939135",
+        "isbn13": "9791193939130",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "199.1",
+        "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+        "description": "매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.1000일간 매일 외친 ‘아침 긍정 확언’은 매년 찾아오던 우울증을 떨쳐버리기 위해 괴테의 『젊은 베르테르의 슬픔』을 읽다가 발견한 해답이었다. ‘불안감’을 ‘기대감’의 말로 바꾸면 삶의 방향성이 달라진다는 고전의 답을 따라 매일 10분 긍정의 말을 외쳤고, 삶은 놀라운 방향으로 바뀌기 시작했다.저자의 삶을 한층 밝고 건강한 쪽으로 이끈 것은 다름 아닌 ‘고전’이었다. 나는 누구인가? 어떻게 살아야 하는가? 무엇을 행해야 하는가? 물음이 생길 때마다 고전을 펼쳐 들었고, 고전이 답했다. 칼 구스타프 융의 『칼 융 레드 북』, 블레즈 파스칼의 『팡세』, 사마천의 『사기열전』, 미하이 칙센트미하이의 『몰입 Flow』까지 수백 년의 경험과 지혜가 압축된 고전을 읽다보면 방향이 선명해졌다. 인간관계에 대한 고민에서부터 행복한 삶을 사는 법, 이기는 법까지 우리가 원하는 모든 분야에 대한 답이 고전에 있다. 느리지만, 오로지 ‘성장’이라는 방향으로 나아가는 고전에서 답을 찾아보자.",
+        "cover_url": "https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "고전",
+            "weight": 21.0
+          },
+          {
+            "word": "매일",
+            "weight": 9.0
+          },
+          {
+            "word": "젊은 베르테르의 슬픔",
+            "weight": 9.0
+          },
+          {
+            "word": "아침",
+            "weight": 8.0
+          },
+          {
+            "word": "인생",
+            "weight": 6.0
+          },
+          {
+            "word": "긍정",
+            "weight": 6.0
+          },
+          {
+            "word": "독자",
+            "weight": 5.0
+          },
+          {
+            "word": "방향",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "발견",
+            "weight": 4.0
+          },
+          {
+            "word": "확언",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "우울증",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "기대감",
+            "weight": 4.0
+          },
+          {
+            "word": "내공",
+            "weight": 4.0
+          },
+          {
+            "word": "누구",
+            "weight": 4.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 4.0
+          },
+          {
+            "word": "전국",
+            "weight": 3.0
+          },
+          {
+            "word": "성장",
+            "weight": 3.0
+          },
+          {
+            "word": "시대",
+            "weight": 3.0
+          },
+          {
+            "word": "괴테",
+            "weight": 3.0
+          },
+          {
+            "word": "팡세",
+            "weight": 3.0
+          },
+          {
+            "word": "불안감",
+            "weight": 3.0
+          },
+          {
+            "word": "10분",
+            "weight": 3.0
+          },
+          {
+            "word": "최고",
+            "weight": 3.0
+          },
+          {
+            "word": "강연자",
+            "weight": 3.0
+          },
+          {
+            "word": "강연장",
+            "weight": 3.0
+          },
+          {
+            "word": "강의",
+            "weight": 3.0
+          },
+          {
+            "word": "몰입  Flow",
+            "weight": 3.0
+          },
+          {
+            "word": "책 읽고 매출의 신이 되다",
+            "weight": 3.0
+          },
+          {
+            "word": "유튜브",
+            "weight": 3.0
+          },
+          {
+            "word": "사기열전",
+            "weight": 3.0
+          },
+          {
+            "word": "칼 융 레드 북",
+            "weight": 3.0
+          },
+          {
+            "word": "차례",
+            "weight": 3.0
+          },
+          {
+            "word": "떨쳐버리기",
+            "weight": 3.0
+          },
+          {
+            "word": "년간",
+            "weight": 2.0
+          },
+          {
+            "word": "곱하기",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "1부",
+            "weight": 2.0
+          },
+          {
+            "word": "불행",
+            "weight": 2.0
+          },
+          {
+            "word": "성공학",
+            "weight": 2.0
+          },
+          {
+            "word": "고명환이",
+            "weight": 2.0
+          },
+          {
+            "word": "그레고르",
+            "weight": 2.0
+          },
+          {
+            "word": "그림자",
+            "weight": 2.0
+          },
+          {
+            "word": "분야",
+            "weight": 2.0
+          },
+          {
+            "word": "2부",
+            "weight": 2.0
+          },
+          {
+            "word": "강연",
+            "weight": 2.0
+          },
+          {
+            "word": "古典",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "고전이 답했다 :being better through the classics ",
+            "isbn13": "9791193939314",
+            "authors": "고명환 지음"
+          },
+          {
+            "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+            "isbn13": "9791189686826",
+            "authors": "지은이: 고명환"
+          },
+          {
+            "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+            "isbn13": "9791189686536",
+            "authors": "고명환 지음"
+          },
+          {
+            "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+            "isbn13": "9791192300818",
+            "authors": "강용수 지음"
+          },
+          {
+            "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+            "isbn13": "9791192389325",
+            "authors": "벤저민 하디 지음 ;최은아 옮김"
+          },
+          {
+            "bookname": "어른의 행복은 조용하다 ",
+            "isbn13": "9791169851053",
+            "authors": "글: 태수"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "고전이 답했다 - 마땅히 살아야 할 삶에 대하여"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000214054358",
+        "title": "고전이 답했다: 마땅히 살아야 할 삶에 대하여",
+        "subtitle": "",
+        "page": "252 p.",
+        "book_size": "142*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791193939130",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193939130",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16800",
+      "title": "고전이 답했다",
+      "subtitle": "마땅히 살아야 할 삶에 대하여",
+      "author": "고명환 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "라곰",
+      "publish_year": "2024",
+      "publish_predate": "20240826",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "252 p.",
+      "book_size": "142*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.1000일간 매일 외친 ‘아침 긍정 확언’은 매년 찾아오던 우울증을 떨쳐버리기 위해 괴테의 『젊은 베르테르의 슬픔』을 읽다가 발견한 해답이었다. ‘불안감’을 ‘기대감’의 말로 바꾸면 삶의 방향성이 달라진다는 고전의 답을 따라 매일 10분 긍정의 말을 외쳤고, 삶은 놀라운 방향으로 바뀌기 시작했다.저자의 삶을 한층 밝고 건강한 쪽으로 이끈 것은 다름 아닌 ‘고전’이었다. 나는 누구인가? 어떻게 살아야 하는가? 무엇을 행해야 하는가? 물음이 생길 때마다 고전을 펼쳐 들었고, 고전이 답했다. 칼 구스타프 융의 『칼 융 레드 북』, 블레즈 파스칼의 『팡세』, 사마천의 『사기열전』, 미하이 칙센트미하이의 『몰입 Flow』까지 수백 년의 경험과 지혜가 압축된 고전을 읽다보면 방향이 선명해졌다. 인간관계에 대한 고민에서부터 행복한 삶을 사는 법, 이기는 법까지 우리가 원하는 모든 분야에 대한 답이 고전에 있다. 느리지만, 오로지 ‘성장’이라는 방향으로 나아가는 고전에서 답을 찾아보자.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고전",
+          "weight": 21.0
+        },
+        {
+          "word": "매일",
+          "weight": 9.0
+        },
+        {
+          "word": "젊은 베르테르의 슬픔",
+          "weight": 9.0
+        },
+        {
+          "word": "아침",
+          "weight": 8.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "긍정",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "방향",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "발견",
+          "weight": 4.0
+        },
+        {
+          "word": "확언",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "우울증",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "기대감",
+          "weight": 4.0
+        },
+        {
+          "word": "내공",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 4.0
+        },
+        {
+          "word": "전국",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 3.0
+        },
+        {
+          "word": "시대",
+          "weight": 3.0
+        },
+        {
+          "word": "괴테",
+          "weight": 3.0
+        },
+        {
+          "word": "팡세",
+          "weight": 3.0
+        },
+        {
+          "word": "불안감",
+          "weight": 3.0
+        },
+        {
+          "word": "10분",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "강연자",
+          "weight": 3.0
+        },
+        {
+          "word": "강연장",
+          "weight": 3.0
+        },
+        {
+          "word": "강의",
+          "weight": 3.0
+        },
+        {
+          "word": "몰입  Flow",
+          "weight": 3.0
+        },
+        {
+          "word": "책 읽고 매출의 신이 되다",
+          "weight": 3.0
+        },
+        {
+          "word": "유튜브",
+          "weight": 3.0
+        },
+        {
+          "word": "사기열전",
+          "weight": 3.0
+        },
+        {
+          "word": "칼 융 레드 북",
+          "weight": 3.0
+        },
+        {
+          "word": "차례",
+          "weight": 3.0
+        },
+        {
+          "word": "떨쳐버리기",
+          "weight": 3.0
+        },
+        {
+          "word": "년간",
+          "weight": 2.0
+        },
+        {
+          "word": "곱하기",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "1부",
+          "weight": 2.0
+        },
+        {
+          "word": "불행",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "고명환이",
+          "weight": 2.0
+        },
+        {
+          "word": "그레고르",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        },
+        {
+          "word": "분야",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "강연",
+          "weight": 2.0
+        },
+        {
+          "word": "古典",
+          "weight": 2.0
+        }
+      ],
+      "description": "매일 아침 7만 명이 유튜브 강의를 찾아 듣고, 한 달에 20여 차례 전국의 강연장을 찾아가 독자들을 만나는 이 시대 최고의 강연자. 30만 독자가 기다린 베스트셀러 저자 고명환이 지난 10여 년간의 인생 내공이 응축된 책, 『고전이 답했다 마땅히 살아야 할 삶에 대하여』에서 고전(古典)에서 길어 올린 흔들림 없는 삶의 내공을 전한다.1000일간 매일 외친 ‘아침 긍정 확언’은 매년 찾아오던 우울증을 떨쳐버리기 위해 괴테의 『젊은 베르테르의 슬픔』을 읽다가 발견한 해답이었다. ‘불안감’을 ‘기대감’의 말로 바꾸면 삶의 방향성이 달라진다는 고전의 답을 따라 매일 10분 긍정의 말을 외쳤고, 삶은 놀라운 방향으로 바뀌기 시작했다.저자의 삶을 한층 밝고 건강한 쪽으로 이끈 것은 다름 아닌 ‘고전’이었다. 나는 누구인가? 어떻게 살아야 하는가? 무엇을 행해야 하는가? 물음이 생길 때마다 고전을 펼쳐 들었고, 고전이 답했다. 칼 구스타프 융의 『칼 융 레드 북』, 블레즈 파스칼의 『팡세』, 사마천의 『사기열전』, 미하이 칙센트미하이의 『몰입 Flow』까지 수백 년의 경험과 지혜가 압축된 고전을 읽다보면 방향이 선명해졌다. 인간관계에 대한 고민에서부터 행복한 삶을 사는 법, 이기는 법까지 우리가 원하는 모든 분야에 대한 답이 고전에 있다. 느리지만, 오로지 ‘성장’이라는 방향으로 나아가는 고전에서 답을 찾아보자.",
+      "co_loan_books": [
+        {
+          "bookname": "고전이 답했다 :being better through the classics ",
+          "isbn13": "9791193939314",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+          "isbn13": "9791189686826",
+          "authors": "지은이: 고명환"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "어른의 행복은 조용하다 ",
+          "isbn13": "9791169851053",
+          "authors": "글: 태수"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        }
+      ],
+      "title": "고전이 답했다",
+      "author": "고명환 지음",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

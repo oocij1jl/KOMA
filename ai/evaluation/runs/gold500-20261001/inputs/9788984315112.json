@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788984315112",
+  "captured_at": "2026-10-03T00:17:51.113271+09:00",
+  "lookup": {
+    "isbn": "9788984315112",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788984315112",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "엄마 수업",
+      "subtitle": "법륜 스님이 들려주는 우리 아이 지혜롭게 키우는 법",
+      "author": "법륜 지음 ;이순형 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한겨례출판",
+      "publish_year": "2011",
+      "publish_predate": "",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "242 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "행복한 결혼생활을 위해 반드시 읽어야 할 책으로 베스트셀러에 오른 &lt;스님의 주례사&gt;의 후속편. 자녀 문제로 괴로워하는 부모에게 법륜 스님이 주는 다정한 조언이자 지혜로 가득 찬 양육 지침서라 할 수 있다. 저자는 부모와 아이의 관계 특성, 상황별.시기별로 아이를 올바르게 키우는 방법, 좋은 부모의 역할과 자격 등을 소개하며 이것을 바탕으로 우리 아이를 올바르게 사랑하는 지혜를 보여 주고 있다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/454/06745420.jpg?type=m1&udate=20180511",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 56.0
+        },
+        {
+          "word": "부모",
+          "weight": 46.0
+        },
+        {
+          "word": "사랑",
+          "weight": 25.0
+        },
+        {
+          "word": "자녀",
+          "weight": 23.0
+        },
+        {
+          "word": "엄마",
+          "weight": 22.0
+        },
+        {
+          "word": "자식",
+          "weight": 21.0
+        },
+        {
+          "word": "마음",
+          "weight": 20.0
+        },
+        {
+          "word": "문제",
+          "weight": 19.0
+        },
+        {
+          "word": "행복",
+          "weight": 18.0
+        },
+        {
+          "word": "자신",
+          "weight": 10.0
+        },
+        {
+          "word": "법륜",
+          "weight": 10.0
+        },
+        {
+          "word": "스님",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 9.0
+        },
+        {
+          "word": "지혜",
+          "weight": 7.0
+        },
+        {
+          "word": "결혼",
+          "weight": 6.0
+        },
+        {
+          "word": "방법",
+          "weight": 6.0
+        },
+        {
+          "word": "부족",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "최고",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "건강",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 5.0
+        },
+        {
+          "word": "조언",
+          "weight": 5.0
+        },
+        {
+          "word": "조건",
+          "weight": 5.0
+        },
+        {
+          "word": "사이",
+          "weight": 5.0
+        },
+        {
+          "word": "존재",
+          "weight": 4.0
+        },
+        {
+          "word": "아이들",
+          "weight": 4.0
+        },
+        {
+          "word": "냉정",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "역할",
+          "weight": 4.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "말씀",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "지침서",
+          "weight": 4.0
+        },
+        {
+          "word": "여자",
+          "weight": 4.0
+        },
+        {
+          "word": "양육",
+          "weight": 4.0
+        },
+        {
+          "word": "상처",
+          "weight": 4.0
+        },
+        {
+          "word": "헌신적",
+          "weight": 4.0
+        },
+        {
+          "word": "공부",
+          "weight": 4.0
+        },
+        {
+          "word": "고통",
+          "weight": 4.0
+        },
+        {
+          "word": "노릇",
+          "weight": 3.0
+        },
+        {
+          "word": "부부",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        },
+        {
+          "word": "나의 사랑 나의 음악",
+          "weight": 3.0
+        },
+        {
+          "word": "음악 그리는 화가",
+          "weight": 3.0
+        },
+        {
+          "word": "선물",
+          "weight": 3.0
+        },
+        {
+          "word": "보지",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복한 결혼생활을 위해 반드시 읽어야 할 책으로 베스트셀러에 오른 &lt;스님의 주례사&gt;의 후속편. 자녀 문제로 괴로워하는 부모에게 법륜 스님이 주는 다정한 조언이자 지혜로 가득 찬 양육 지침서라 할 수 있다. 저자는 부모와 아이의 관계 특성, 상황별.시기별로 아이를 올바르게 키우는 방법, 좋은 부모의 역할과 자격 등을 소개하며 이것을 바탕으로 우리 아이를 올바르게 사랑하는 지혜를 보여 주고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "지금 이대로 좋다 ",
+          "isbn13": "9791187297239",
+          "authors": "법륜 지음 ;박정은 그림"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "isbn13": "9788985961851",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "스님의 주례사 :행복한 결혼생활을 위한 남녀 마음 이야기 ",
+          "isbn13": "9788984314207",
+          "authors": "법륜 지음 ;김점선 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        }
+      ],
+      "title": "엄마 수업",
+      "author": "법륜 지음 ;이순형 그림",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "엄마 수업",
+        "author": "법륜 지음 ;이순형 그림",
+        "publisher": "한겨례출판",
+        "publish_predate": "",
+        "isbn": "9788984315112",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "242 p.",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "엄마 수업 :법륜 스님이 들려주는 우리 아이 지혜롭게 키우는 법 ",
+        "author": "법륜 지음 ;이순형 그림",
+        "publisher": "한겨례출판",
+        "publish_year": "2011",
+        "isbn": "8984315117",
+        "isbn13": "9788984315112",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "598.1",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+        "description": "행복한 결혼생활을 위해 반드시 읽어야 할 책으로 베스트셀러에 오른 &lt;스님의 주례사&gt;의 후속편. 자녀 문제로 괴로워하는 부모에게 법륜 스님이 주는 다정한 조언이자 지혜로 가득 찬 양육 지침서라 할 수 있다. 저자는 부모와 아이의 관계 특성, 상황별.시기별로 아이를 올바르게 키우는 방법, 좋은 부모의 역할과 자격 등을 소개하며 이것을 바탕으로 우리 아이를 올바르게 사랑하는 지혜를 보여 주고 있다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/454/06745420.jpg?type=m1&udate=20180511"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아이",
+            "weight": 56.0
+          },
+          {
+            "word": "부모",
+            "weight": 46.0
+          },
+          {
+            "word": "사랑",
+            "weight": 25.0
+          },
+          {
+            "word": "자녀",
+            "weight": 23.0
+          },
+          {
+            "word": "엄마",
+            "weight": 22.0
+          },
+          {
+            "word": "자식",
+            "weight": 21.0
+          },
+          {
+            "word": "마음",
+            "weight": 20.0
+          },
+          {
+            "word": "문제",
+            "weight": 19.0
+          },
+          {
+            "word": "행복",
+            "weight": 18.0
+          },
+          {
+            "word": "자신",
+            "weight": 10.0
+          },
+          {
+            "word": "법륜",
+            "weight": 10.0
+          },
+          {
+            "word": "스님",
+            "weight": 9.0
+          },
+          {
+            "word": "자기",
+            "weight": 9.0
+          },
+          {
+            "word": "지혜",
+            "weight": 7.0
+          },
+          {
+            "word": "결혼",
+            "weight": 6.0
+          },
+          {
+            "word": "방법",
+            "weight": 6.0
+          },
+          {
+            "word": "부족",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 6.0
+          },
+          {
+            "word": "최고",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "건강",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "사춘기",
+            "weight": 5.0
+          },
+          {
+            "word": "조언",
+            "weight": 5.0
+          },
+          {
+            "word": "조건",
+            "weight": 5.0
+          },
+          {
+            "word": "사이",
+            "weight": 5.0
+          },
+          {
+            "word": "존재",
+            "weight": 4.0
+          },
+          {
+            "word": "아이들",
+            "weight": 4.0
+          },
+          {
+            "word": "냉정",
+            "weight": 4.0
+          },
+          {
+            "word": "이해",
+            "weight": 4.0
+          },
+          {
+            "word": "역할",
+            "weight": 4.0
+          },
+          {
+            "word": "소개",
+            "weight": 4.0
+          },
+          {
+            "word": "말씀",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "지침서",
+            "weight": 4.0
+          },
+          {
+            "word": "여자",
+            "weight": 4.0
+          },
+          {
+            "word": "양육",
+            "weight": 4.0
+          },
+          {
+            "word": "상처",
+            "weight": 4.0
+          },
+          {
+            "word": "헌신적",
+            "weight": 4.0
+          },
+          {
+            "word": "공부",
+            "weight": 4.0
+          },
+          {
+            "word": "고통",
+            "weight": 4.0
+          },
+          {
+            "word": "노릇",
+            "weight": 3.0
+          },
+          {
+            "word": "부부",
+            "weight": 3.0
+          },
+          {
+            "word": "가지",
+            "weight": 3.0
+          },
+          {
+            "word": "나의 사랑 나의 음악",
+            "weight": 3.0
+          },
+          {
+            "word": "음악 그리는 화가",
+            "weight": 3.0
+          },
+          {
+            "word": "선물",
+            "weight": 3.0
+          },
+          {
+            "word": "보지",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마 수업",
+            "weight": 3.0
+          },
+          {
+            "word": "인생",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+            "isbn13": "9788954637169",
+            "authors": "법륜 지음 ;최승미 그림"
+          },
+          {
+            "bookname": "지금 이대로 좋다 ",
+            "isbn13": "9791187297239",
+            "authors": "법륜 지음 ;박정은 그림"
+          },
+          {
+            "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+            "isbn13": "9788984317413",
+            "authors": "법륜 지음 ;유근택 그림"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+            "isbn13": "9791187297260",
+            "authors": "지은이: 법륜 ;그림: 드로잉메리"
+          },
+          {
+            "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+            "isbn13": "9788985961851",
+            "authors": "지은이: 법륜"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          },
+          {
+            "bookname": "스님의 주례사 :행복한 결혼생활을 위한 남녀 마음 이야기 ",
+            "isbn13": "9788984314207",
+            "authors": "법륜 지음 ;김점선 그림"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+            "isbn13": "9788950941819",
+            "authors": "지나영 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "엄마 수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001306889",
+        "title": "엄마 수업",
+        "subtitle": "법륜 스님이 들려주는 우리 아이 지혜롭게 키우는 법",
+        "page": "242 p.",
+        "book_size": "148*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788984315112",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788984315112",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "엄마 수업",
+      "subtitle": "법륜 스님이 들려주는 우리 아이 지혜롭게 키우는 법",
+      "author": "법륜 지음 ;이순형 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한겨례출판",
+      "publish_year": "2011",
+      "publish_predate": "",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "242 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "행복한 결혼생활을 위해 반드시 읽어야 할 책으로 베스트셀러에 오른 &lt;스님의 주례사&gt;의 후속편. 자녀 문제로 괴로워하는 부모에게 법륜 스님이 주는 다정한 조언이자 지혜로 가득 찬 양육 지침서라 할 수 있다. 저자는 부모와 아이의 관계 특성, 상황별.시기별로 아이를 올바르게 키우는 방법, 좋은 부모의 역할과 자격 등을 소개하며 이것을 바탕으로 우리 아이를 올바르게 사랑하는 지혜를 보여 주고 있다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/454/06745420.jpg?type=m1&udate=20180511",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 56.0
+        },
+        {
+          "word": "부모",
+          "weight": 46.0
+        },
+        {
+          "word": "사랑",
+          "weight": 25.0
+        },
+        {
+          "word": "자녀",
+          "weight": 23.0
+        },
+        {
+          "word": "엄마",
+          "weight": 22.0
+        },
+        {
+          "word": "자식",
+          "weight": 21.0
+        },
+        {
+          "word": "마음",
+          "weight": 20.0
+        },
+        {
+          "word": "문제",
+          "weight": 19.0
+        },
+        {
+          "word": "행복",
+          "weight": 18.0
+        },
+        {
+          "word": "자신",
+          "weight": 10.0
+        },
+        {
+          "word": "법륜",
+          "weight": 10.0
+        },
+        {
+          "word": "스님",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 9.0
+        },
+        {
+          "word": "지혜",
+          "weight": 7.0
+        },
+        {
+          "word": "결혼",
+          "weight": 6.0
+        },
+        {
+          "word": "방법",
+          "weight": 6.0
+        },
+        {
+          "word": "부족",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "최고",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "건강",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 5.0
+        },
+        {
+          "word": "조언",
+          "weight": 5.0
+        },
+        {
+          "word": "조건",
+          "weight": 5.0
+        },
+        {
+          "word": "사이",
+          "weight": 5.0
+        },
+        {
+          "word": "존재",
+          "weight": 4.0
+        },
+        {
+          "word": "아이들",
+          "weight": 4.0
+        },
+        {
+          "word": "냉정",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "역할",
+          "weight": 4.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "말씀",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "지침서",
+          "weight": 4.0
+        },
+        {
+          "word": "여자",
+          "weight": 4.0
+        },
+        {
+          "word": "양육",
+          "weight": 4.0
+        },
+        {
+          "word": "상처",
+          "weight": 4.0
+        },
+        {
+          "word": "헌신적",
+          "weight": 4.0
+        },
+        {
+          "word": "공부",
+          "weight": 4.0
+        },
+        {
+          "word": "고통",
+          "weight": 4.0
+        },
+        {
+          "word": "노릇",
+          "weight": 3.0
+        },
+        {
+          "word": "부부",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        },
+        {
+          "word": "나의 사랑 나의 음악",
+          "weight": 3.0
+        },
+        {
+          "word": "음악 그리는 화가",
+          "weight": 3.0
+        },
+        {
+          "word": "선물",
+          "weight": 3.0
+        },
+        {
+          "word": "보지",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복한 결혼생활을 위해 반드시 읽어야 할 책으로 베스트셀러에 오른 &lt;스님의 주례사&gt;의 후속편. 자녀 문제로 괴로워하는 부모에게 법륜 스님이 주는 다정한 조언이자 지혜로 가득 찬 양육 지침서라 할 수 있다. 저자는 부모와 아이의 관계 특성, 상황별.시기별로 아이를 올바르게 키우는 방법, 좋은 부모의 역할과 자격 등을 소개하며 이것을 바탕으로 우리 아이를 올바르게 사랑하는 지혜를 보여 주고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "지금 이대로 좋다 ",
+          "isbn13": "9791187297239",
+          "authors": "법륜 지음 ;박정은 그림"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "isbn13": "9788985961851",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "스님의 주례사 :행복한 결혼생활을 위한 남녀 마음 이야기 ",
+          "isbn13": "9788984314207",
+          "authors": "법륜 지음 ;김점선 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        }
+      ],
+      "title": "엄마 수업",
+      "author": "법륜 지음 ;이순형 그림",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

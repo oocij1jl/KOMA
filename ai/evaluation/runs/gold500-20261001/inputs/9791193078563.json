@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791193078563",
+  "captured_at": "2026-10-02T00:13:29.379757+09:00",
+  "lookup": {
+    "isbn": "9791193078563",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193078563",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "토막 난 우주를 안고서",
+      "subtitle": "",
+      "author": "지은이: 김초엽,천선란,김혜윤,청예,조서월",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2025",
+      "publish_predate": "20250618",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "324 p.",
+      "book_size": "130*198",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "SF 전문 출판사 허블에서 한국과학문학상 10주년을 기념하여 수상 작가 다섯 명과 함께 SF 앤솔러지 『토막 난 우주를 안고서』를 선보인다. 서로 의견을 나누지 않았음에도, 작가들이 죽음을 공통된 주제로 쓰게 된 이유는 작가노트에서 엿볼 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "죽음",
+          "weight": 8.0
+        },
+        {
+          "word": "작가노트",
+          "weight": 7.0
+        },
+        {
+          "word": "한국과학문학상",
+          "weight": 6.0
+        },
+        {
+          "word": "천선란",
+          "weight": 6.0
+        },
+        {
+          "word": "조서월",
+          "weight": 6.0
+        },
+        {
+          "word": "김초엽",
+          "weight": 6.0
+        },
+        {
+          "word": "청예",
+          "weight": 6.0
+        },
+        {
+          "word": "김혜윤",
+          "weight": 6.0
+        },
+        {
+          "word": "허블",
+          "weight": 6.0
+        },
+        {
+          "word": "토막 난 우주를 안고서",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "공통",
+          "weight": 5.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 4.0
+        },
+        {
+          "word": "SF",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "너머",
+          "weight": 4.0
+        },
+        {
+          "word": "우리를 아십니까",
+          "weight": 3.0
+        },
+        {
+          "word": "비구름을 따라서",
+          "weight": 3.0
+        },
+        {
+          "word": "응답",
+          "weight": 3.0
+        },
+        {
+          "word": "오름의 말들",
+          "weight": 3.0
+        },
+        {
+          "word": "오렌지와 빵칼",
+          "weight": 3.0
+        },
+        {
+          "word": "라스트 젤리 샷",
+          "weight": 3.0
+        },
+        {
+          "word": "10주년",
+          "weight": 3.0
+        },
+        {
+          "word": "낭만 사랑니",
+          "weight": 3.0
+        },
+        {
+          "word": "Im Not a Robot",
+          "weight": 3.0
+        },
+        {
+          "word": "대표작가",
+          "weight": 2.0
+        },
+        {
+          "word": "써달라",
+          "weight": 2.0
+        },
+        {
+          "word": "공모전",
+          "weight": 2.0
+        },
+        {
+          "word": "편집부",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "전문",
+          "weight": 2.0
+        },
+        {
+          "word": "의견",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "기념",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "존재",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "솔직",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "주제",
+          "weight": 2.0
+        },
+        {
+          "word": "마음에",
+          "weight": 1.0
+        },
+        {
+          "word": "방식",
+          "weight": 1.0
+        },
+        {
+          "word": "현실",
+          "weight": 1.0
+        },
+        {
+          "word": "Not",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "멸망",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "교보문고",
+          "weight": 1.0
+        }
+      ],
+      "description": "SF 전문 출판사 허블에서 한국과학문학상 10주년을 기념하여 수상 작가 다섯 명과 함께 SF 앤솔러지 『토막 난 우주를 안고서』를 선보인다. 서로 의견을 나누지 않았음에도, 작가들이 죽음을 공통된 주제로 쓰게 된 이유는 작가노트에서 엿볼 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "양면의 조개껍데기 :김초엽 소설집 ",
+          "isbn13": "9791168343108",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "모우어 :천선란 소설 ",
+          "isbn13": "9791141601447",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "파견자들 :김초엽 장편소설 ",
+          "isbn13": "9791191587524",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "아무도 오지 않는 곳에서",
+          "isbn13": "9791193078709",
+          "authors": "천선란 (지은이)"
+        },
+        {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "isbn13": "9788936439651",
+          "authors": "지은이: 김금희"
+        },
+        {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "isbn13": "9788936439743",
+          "authors": "지은이: 성해나"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "치즈 이야기 :조예은 소설 ",
+          "isbn13": "9791141602567",
+          "authors": "지은이: 조예은"
+        }
+      ],
+      "title": "토막 난 우주를 안고서",
+      "author": "지은이: 김초엽,천선란,김혜윤,청예,조서월",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "토막 난 우주를 안고서",
+        "author": "지은이: 김초엽,천선란,김혜윤,청예,조서월",
+        "publisher": "허블",
+        "publish_predate": "20250618",
+        "isbn": "9791193078563",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "0",
+        "volume": "",
+        "page": "324 p.",
+        "book_size": "130*198",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "토막 난 우주를 안고서 ",
+        "author": "지은이: 김초엽,조서월",
+        "publisher": "허블",
+        "publish_year": "2025",
+        "isbn": "1193078563",
+        "isbn13": "9791193078563",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "SF 전문 출판사 허블에서 한국과학문학상 10주년을 기념하여 수상 작가 다섯 명과 함께 SF 앤솔러지 『토막 난 우주를 안고서』를 선보인다. 서로 의견을 나누지 않았음에도, 작가들이 죽음을 공통된 주제로 쓰게 된 이유는 작가노트에서 엿볼 수 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "죽음",
+            "weight": 8.0
+          },
+          {
+            "word": "작가노트",
+            "weight": 7.0
+          },
+          {
+            "word": "한국과학문학상",
+            "weight": 6.0
+          },
+          {
+            "word": "천선란",
+            "weight": 6.0
+          },
+          {
+            "word": "조서월",
+            "weight": 6.0
+          },
+          {
+            "word": "김초엽",
+            "weight": 6.0
+          },
+          {
+            "word": "청예",
+            "weight": 6.0
+          },
+          {
+            "word": "김혜윤",
+            "weight": 6.0
+          },
+          {
+            "word": "허블",
+            "weight": 6.0
+          },
+          {
+            "word": "토막 난 우주를 안고서",
+            "weight": 6.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "공통",
+            "weight": 5.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 4.0
+          },
+          {
+            "word": "SF",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "너머",
+            "weight": 4.0
+          },
+          {
+            "word": "우리를 아십니까",
+            "weight": 3.0
+          },
+          {
+            "word": "비구름을 따라서",
+            "weight": 3.0
+          },
+          {
+            "word": "응답",
+            "weight": 3.0
+          },
+          {
+            "word": "오름의 말들",
+            "weight": 3.0
+          },
+          {
+            "word": "오렌지와 빵칼",
+            "weight": 3.0
+          },
+          {
+            "word": "라스트 젤리 샷",
+            "weight": 3.0
+          },
+          {
+            "word": "10주년",
+            "weight": 3.0
+          },
+          {
+            "word": "낭만 사랑니",
+            "weight": 3.0
+          },
+          {
+            "word": "Im Not a Robot",
+            "weight": 3.0
+          },
+          {
+            "word": "대표작가",
+            "weight": 2.0
+          },
+          {
+            "word": "써달라",
+            "weight": 2.0
+          },
+          {
+            "word": "공모전",
+            "weight": 2.0
+          },
+          {
+            "word": "편집부",
+            "weight": 2.0
+          },
+          {
+            "word": "출판사",
+            "weight": 2.0
+          },
+          {
+            "word": "전문",
+            "weight": 2.0
+          },
+          {
+            "word": "의견",
+            "weight": 2.0
+          },
+          {
+            "word": "이유",
+            "weight": 2.0
+          },
+          {
+            "word": "일상",
+            "weight": 2.0
+          },
+          {
+            "word": "기념",
+            "weight": 2.0
+          },
+          {
+            "word": "수상",
+            "weight": 2.0
+          },
+          {
+            "word": "존재",
+            "weight": 2.0
+          },
+          {
+            "word": "마음",
+            "weight": 2.0
+          },
+          {
+            "word": "솔직",
+            "weight": 2.0
+          },
+          {
+            "word": "한국 과학소설",
+            "weight": 2.0
+          },
+          {
+            "word": "주제",
+            "weight": 2.0
+          },
+          {
+            "word": "마음에",
+            "weight": 1.0
+          },
+          {
+            "word": "방식",
+            "weight": 1.0
+          },
+          {
+            "word": "현실",
+            "weight": 1.0
+          },
+          {
+            "word": "Not",
+            "weight": 1.0
+          },
+          {
+            "word": "사람",
+            "weight": 1.0
+          },
+          {
+            "word": "사이",
+            "weight": 1.0
+          },
+          {
+            "word": "멸망",
+            "weight": 1.0
+          },
+          {
+            "word": "관계",
+            "weight": 1.0
+          },
+          {
+            "word": "교보문고",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "양면의 조개껍데기 :김초엽 소설집 ",
+            "isbn13": "9791168343108",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "모우어 :천선란 소설 ",
+            "isbn13": "9791141601447",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "파견자들 :김초엽 장편소설 ",
+            "isbn13": "9791191587524",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "이끼숲 :천선란 연작소설 ",
+            "isbn13": "9791191824216",
+            "authors": "지은이: 천선란 ;일러스트: 점선면"
+          },
+          {
+            "bookname": "아무도 오지 않는 곳에서",
+            "isbn13": "9791193078709",
+            "authors": "천선란 (지은이)"
+          },
+          {
+            "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+            "isbn13": "9788936439651",
+            "authors": "지은이: 김금희"
+          },
+          {
+            "bookname": "혼모노 :성해나 소설집 ",
+            "isbn13": "9788936439743",
+            "authors": "지은이: 성해나"
+          },
+          {
+            "bookname": "천 개의 파랑 :천선란 장편소설 ",
+            "isbn13": "9791190090261",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+            "isbn13": "9791191824001",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "치즈 이야기 :조예은 소설 ",
+            "isbn13": "9791141602567",
+            "authors": "지은이: 조예은"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "토막 난 우주를 안고서"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000216717476",
+        "title": "토막 난 우주를 안고서",
+        "subtitle": "",
+        "page": "324 p.",
+        "book_size": "132*198mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791193078563",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193078563",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "토막 난 우주를 안고서",
+      "subtitle": "",
+      "author": "지은이: 김초엽,천선란,김혜윤,청예,조서월",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2025",
+      "publish_predate": "20250618",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "324 p.",
+      "book_size": "130*198",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "SF 전문 출판사 허블에서 한국과학문학상 10주년을 기념하여 수상 작가 다섯 명과 함께 SF 앤솔러지 『토막 난 우주를 안고서』를 선보인다. 서로 의견을 나누지 않았음에도, 작가들이 죽음을 공통된 주제로 쓰게 된 이유는 작가노트에서 엿볼 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "죽음",
+          "weight": 8.0
+        },
+        {
+          "word": "작가노트",
+          "weight": 7.0
+        },
+        {
+          "word": "한국과학문학상",
+          "weight": 6.0
+        },
+        {
+          "word": "천선란",
+          "weight": 6.0
+        },
+        {
+          "word": "조서월",
+          "weight": 6.0
+        },
+        {
+          "word": "김초엽",
+          "weight": 6.0
+        },
+        {
+          "word": "청예",
+          "weight": 6.0
+        },
+        {
+          "word": "김혜윤",
+          "weight": 6.0
+        },
+        {
+          "word": "허블",
+          "weight": 6.0
+        },
+        {
+          "word": "토막 난 우주를 안고서",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "공통",
+          "weight": 5.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 4.0
+        },
+        {
+          "word": "SF",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "너머",
+          "weight": 4.0
+        },
+        {
+          "word": "우리를 아십니까",
+          "weight": 3.0
+        },
+        {
+          "word": "비구름을 따라서",
+          "weight": 3.0
+        },
+        {
+          "word": "응답",
+          "weight": 3.0
+        },
+        {
+          "word": "오름의 말들",
+          "weight": 3.0
+        },
+        {
+          "word": "오렌지와 빵칼",
+          "weight": 3.0
+        },
+        {
+          "word": "라스트 젤리 샷",
+          "weight": 3.0
+        },
+        {
+          "word": "10주년",
+          "weight": 3.0
+        },
+        {
+          "word": "낭만 사랑니",
+          "weight": 3.0
+        },
+        {
+          "word": "Im Not a Robot",
+          "weight": 3.0
+        },
+        {
+          "word": "대표작가",
+          "weight": 2.0
+        },
+        {
+          "word": "써달라",
+          "weight": 2.0
+        },
+        {
+          "word": "공모전",
+          "weight": 2.0
+        },
+        {
+          "word": "편집부",
+          "weight": 2.0
+        },
+        {
+          "word": "출판사",
+          "weight": 2.0
+        },
+        {
+          "word": "전문",
+          "weight": 2.0
+        },
+        {
+          "word": "의견",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "기념",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "존재",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "솔직",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "주제",
+          "weight": 2.0
+        },
+        {
+          "word": "마음에",
+          "weight": 1.0
+        },
+        {
+          "word": "방식",
+          "weight": 1.0
+        },
+        {
+          "word": "현실",
+          "weight": 1.0
+        },
+        {
+          "word": "Not",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "멸망",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "교보문고",
+          "weight": 1.0
+        }
+      ],
+      "description": "SF 전문 출판사 허블에서 한국과학문학상 10주년을 기념하여 수상 작가 다섯 명과 함께 SF 앤솔러지 『토막 난 우주를 안고서』를 선보인다. 서로 의견을 나누지 않았음에도, 작가들이 죽음을 공통된 주제로 쓰게 된 이유는 작가노트에서 엿볼 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "양면의 조개껍데기 :김초엽 소설집 ",
+          "isbn13": "9791168343108",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "모우어 :천선란 소설 ",
+          "isbn13": "9791141601447",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "파견자들 :김초엽 장편소설 ",
+          "isbn13": "9791191587524",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "아무도 오지 않는 곳에서",
+          "isbn13": "9791193078709",
+          "authors": "천선란 (지은이)"
+        },
+        {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "isbn13": "9788936439651",
+          "authors": "지은이: 김금희"
+        },
+        {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "isbn13": "9788936439743",
+          "authors": "지은이: 성해나"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "치즈 이야기 :조예은 소설 ",
+          "isbn13": "9791141602567",
+          "authors": "지은이: 조예은"
+        }
+      ],
+      "title": "토막 난 우주를 안고서",
+      "author": "지은이: 김초엽,천선란,김혜윤,청예,조서월",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

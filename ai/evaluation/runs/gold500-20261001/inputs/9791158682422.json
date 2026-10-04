@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158682422",
+  "captured_at": "2026-10-03T00:13:21.736484+09:00",
+  "lookup": {
+    "isbn": "9791158682422",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158682422",
+      "isbn_add_code": "74800",
+      "set_isbn": "9791158682408",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "냥 작가의 독서록 상담소",
+      "subtitle": "",
+      "author": "글: 즐비 ;그림: 류수형",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2022",
+      "publish_predate": "20220625",
+      "kdc": "029",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "냥 작가의 상담소",
+      "series_no": "",
+      "page": "144 p.",
+      "book_size": "153*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "냥 작가의 집을 사 주기 위해 상을 받아야 하는 나영이와 한우, 더는 학원을 추가할 수 없다는 천재 쌍둥이. 냥 작가는 독서록은커녕 읽을 책도 제대로 고르지 못하는 아이들에게 수준에 맞는 책을 고르는 비법을 알려 주는데….",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29646/15/cover/k062838679_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "독서록",
+          "weight": 6.0
+        },
+        {
+          "word": "감상문",
+          "weight": 6.0
+        },
+        {
+          "word": "문장",
+          "weight": 5.0
+        },
+        {
+          "word": "쌍둥이",
+          "weight": 4.0
+        },
+        {
+          "word": "천재",
+          "weight": 4.0
+        },
+        {
+          "word": "질문",
+          "weight": 4.0
+        },
+        {
+          "word": "멘델 아저씨네 완두콩 텃밭",
+          "weight": 3.0
+        },
+        {
+          "word": "우리는 고사성어 탐정단",
+          "weight": 3.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 3.0
+        },
+        {
+          "word": "놀이",
+          "weight": 3.0
+        },
+        {
+          "word": "냥 작가의 상담소",
+          "weight": 3.0
+        },
+        {
+          "word": "나영이",
+          "weight": 3.0
+        },
+        {
+          "word": "한우",
+          "weight": 3.0
+        },
+        {
+          "word": "쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "정재승의 인간탐구보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님",
+          "weight": 3.0
+        },
+        {
+          "word": "수학 유령의 미스터리 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "류수형",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "즐비",
+          "weight": 2.0
+        },
+        {
+          "word": "정재은",
+          "weight": 2.0
+        },
+        {
+          "word": "해결",
+          "weight": 2.0
+        },
+        {
+          "word": "제목",
+          "weight": 2.0
+        },
+        {
+          "word": "비법",
+          "weight": 2.0
+        },
+        {
+          "word": "독후감",
+          "weight": 2.0
+        },
+        {
+          "word": "꼬리",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "길고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "독서감상문대회",
+          "weight": 2.0
+        },
+        {
+          "word": "된다냥",
+          "weight": 1.0
+        },
+        {
+          "word": "성우",
+          "weight": 1.0
+        },
+        {
+          "word": "세트",
+          "weight": 1.0
+        },
+        {
+          "word": "수준",
+          "weight": 1.0
+        },
+        {
+          "word": "고군분투",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "거다냥",
+          "weight": 1.0
+        },
+        {
+          "word": "실수",
+          "weight": 1.0
+        },
+        {
+          "word": "독서감상문",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "근사",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "고르",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        },
+        {
+          "word": "대본",
+          "weight": 1.0
+        },
+        {
+          "word": "도서관",
+          "weight": 1.0
+        },
+        {
+          "word": "독서",
+          "weight": 1.0
+        }
+      ],
+      "description": "냥 작가의 집을 사 주기 위해 상을 받아야 하는 나영이와 한우, 더는 학원을 추가할 수 없다는 천재 쌍둥이. 냥 작가는 독서록은커녕 읽을 책도 제대로 고르지 못하는 아이들에게 수준에 맞는 책을 고르는 비법을 알려 주는데….",
+      "co_loan_books": [
+        {
+          "bookname": "냥 작가의 일기 상담소 ",
+          "isbn13": "9791158682415",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 맞춤법 상담소 ",
+          "isbn13": "9791158682507",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 글쓰기 상담소",
+          "isbn13": "9791158682231",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 논술 상담소 ",
+          "isbn13": "9791158682828",
+          "authors": "글: 즐비 ;그림: 김준식"
+        },
+        {
+          "bookname": "냥 작가의 동시 상담소 ",
+          "isbn13": "9791158682743",
+          "authors": "글: 즐비 ;그림: 김준식"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448370",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448011",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448134",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "냥 작가의 독서록 상담소",
+      "author": "글: 즐비 ;그림: 류수형",
+      "kdc_from_api": "029",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "냥 작가의 독서록 상담소",
+        "author": "글: 즐비 ;그림: 류수형",
+        "publisher": "파란정원",
+        "publish_predate": "20220625",
+        "isbn": "9791158682422",
+        "isbn_add_code": "74800",
+        "set_isbn": "9791158682408",
+        "set_add_code": "74800 ",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "냥 작가의 상담소",
+        "series_no": "",
+        "volume": "",
+        "page": "137 p.",
+        "book_size": "153*200",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "냥 작가의 독서록 상담소 ",
+        "author": "글: 즐비 ;그림: 류수형",
+        "publisher": "파란정원",
+        "publish_year": "2022",
+        "isbn": "1158682425",
+        "isbn13": "9791158682422",
+        "isbn_add_code": "74800",
+        "volume": "",
+        "class_no": "029",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "냥 작가의 집을 사 주기 위해 상을 받아야 하는 나영이와 한우, 더는 학원을 추가할 수 없다는 천재 쌍둥이. 냥 작가는 독서록은커녕 읽을 책도 제대로 고르지 못하는 아이들에게 수준에 맞는 책을 고르는 비법을 알려 주는데….",
+        "cover_url": "https://image.aladin.co.kr/product/29646/15/cover/k062838679_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "독서록",
+            "weight": 6.0
+          },
+          {
+            "word": "감상문",
+            "weight": 6.0
+          },
+          {
+            "word": "문장",
+            "weight": 5.0
+          },
+          {
+            "word": "쌍둥이",
+            "weight": 4.0
+          },
+          {
+            "word": "천재",
+            "weight": 4.0
+          },
+          {
+            "word": "질문",
+            "weight": 4.0
+          },
+          {
+            "word": "멘델 아저씨네 완두콩 텃밭",
+            "weight": 3.0
+          },
+          {
+            "word": "우리는 고사성어 탐정단",
+            "weight": 3.0
+          },
+          {
+            "word": "즐거움",
+            "weight": 3.0
+          },
+          {
+            "word": "놀이",
+            "weight": 3.0
+          },
+          {
+            "word": "냥 작가의 상담소",
+            "weight": 3.0
+          },
+          {
+            "word": "나영이",
+            "weight": 3.0
+          },
+          {
+            "word": "한우",
+            "weight": 3.0
+          },
+          {
+            "word": "쓰기",
+            "weight": 3.0
+          },
+          {
+            "word": "정재승의 인간탐구보고서",
+            "weight": 3.0
+          },
+          {
+            "word": "선생님",
+            "weight": 3.0
+          },
+          {
+            "word": "수학 유령의 미스터리 수학",
+            "weight": 3.0
+          },
+          {
+            "word": "류수형",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "읽기",
+            "weight": 2.0
+          },
+          {
+            "word": "즐비",
+            "weight": 2.0
+          },
+          {
+            "word": "정재은",
+            "weight": 2.0
+          },
+          {
+            "word": "해결",
+            "weight": 2.0
+          },
+          {
+            "word": "제목",
+            "weight": 2.0
+          },
+          {
+            "word": "비법",
+            "weight": 2.0
+          },
+          {
+            "word": "독후감",
+            "weight": 2.0
+          },
+          {
+            "word": "꼬리",
+            "weight": 2.0
+          },
+          {
+            "word": "어린이",
+            "weight": 2.0
+          },
+          {
+            "word": "파란정원",
+            "weight": 2.0
+          },
+          {
+            "word": "길고양이",
+            "weight": 2.0
+          },
+          {
+            "word": "누구",
+            "weight": 2.0
+          },
+          {
+            "word": "독서감상문대회",
+            "weight": 2.0
+          },
+          {
+            "word": "된다냥",
+            "weight": 1.0
+          },
+          {
+            "word": "성우",
+            "weight": 1.0
+          },
+          {
+            "word": "세트",
+            "weight": 1.0
+          },
+          {
+            "word": "수준",
+            "weight": 1.0
+          },
+          {
+            "word": "고군분투",
+            "weight": 1.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 1.0
+          },
+          {
+            "word": "거다냥",
+            "weight": 1.0
+          },
+          {
+            "word": "실수",
+            "weight": 1.0
+          },
+          {
+            "word": "독서감상문",
+            "weight": 1.0
+          },
+          {
+            "word": "생각",
+            "weight": 1.0
+          },
+          {
+            "word": "근사",
+            "weight": 1.0
+          },
+          {
+            "word": "마음",
+            "weight": 1.0
+          },
+          {
+            "word": "고르",
+            "weight": 1.0
+          },
+          {
+            "word": "내용",
+            "weight": 1.0
+          },
+          {
+            "word": "만화",
+            "weight": 1.0
+          },
+          {
+            "word": "대본",
+            "weight": 1.0
+          },
+          {
+            "word": "도서관",
+            "weight": 1.0
+          },
+          {
+            "word": "독서",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "냥 작가의 일기 상담소 ",
+            "isbn13": "9791158682415",
+            "authors": "글: 즐비 ;그림: 류수형"
+          },
+          {
+            "bookname": "냥 작가의 맞춤법 상담소 ",
+            "isbn13": "9791158682507",
+            "authors": "글: 즐비 ;그림: 류수형"
+          },
+          {
+            "bookname": "냥 작가의 글쓰기 상담소",
+            "isbn13": "9791158682231",
+            "authors": "글: 즐비 ;그림: 류수형"
+          },
+          {
+            "bookname": "냥 작가의 논술 상담소 ",
+            "isbn13": "9791158682828",
+            "authors": "글: 즐비 ;그림: 김준식"
+          },
+          {
+            "bookname": "냥 작가의 동시 상담소 ",
+            "isbn13": "9791158682743",
+            "authors": "글: 즐비 ;그림: 김준식"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936448370",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447861",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936448011",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936448134",
+            "authors": "홍민정 동화 ;김재희 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "냥 작가의 독서록 상담소"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000060624958",
+        "title": "냥 작가의 독서록 상담소",
+        "subtitle": "",
+        "page": "144 p.",
+        "book_size": "158*207mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158682422",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158682422",
+      "isbn_add_code": "74800",
+      "set_isbn": "9791158682408",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "냥 작가의 독서록 상담소",
+      "subtitle": "",
+      "author": "글: 즐비 ;그림: 류수형",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2022",
+      "publish_predate": "20220625",
+      "kdc": "029",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "냥 작가의 상담소",
+      "series_no": "",
+      "page": "144 p.",
+      "book_size": "153*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "냥 작가의 집을 사 주기 위해 상을 받아야 하는 나영이와 한우, 더는 학원을 추가할 수 없다는 천재 쌍둥이. 냥 작가는 독서록은커녕 읽을 책도 제대로 고르지 못하는 아이들에게 수준에 맞는 책을 고르는 비법을 알려 주는데….",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29646/15/cover/k062838679_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "독서록",
+          "weight": 6.0
+        },
+        {
+          "word": "감상문",
+          "weight": 6.0
+        },
+        {
+          "word": "문장",
+          "weight": 5.0
+        },
+        {
+          "word": "쌍둥이",
+          "weight": 4.0
+        },
+        {
+          "word": "천재",
+          "weight": 4.0
+        },
+        {
+          "word": "질문",
+          "weight": 4.0
+        },
+        {
+          "word": "멘델 아저씨네 완두콩 텃밭",
+          "weight": 3.0
+        },
+        {
+          "word": "우리는 고사성어 탐정단",
+          "weight": 3.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 3.0
+        },
+        {
+          "word": "놀이",
+          "weight": 3.0
+        },
+        {
+          "word": "냥 작가의 상담소",
+          "weight": 3.0
+        },
+        {
+          "word": "나영이",
+          "weight": 3.0
+        },
+        {
+          "word": "한우",
+          "weight": 3.0
+        },
+        {
+          "word": "쓰기",
+          "weight": 3.0
+        },
+        {
+          "word": "정재승의 인간탐구보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님",
+          "weight": 3.0
+        },
+        {
+          "word": "수학 유령의 미스터리 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "류수형",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "즐비",
+          "weight": 2.0
+        },
+        {
+          "word": "정재은",
+          "weight": 2.0
+        },
+        {
+          "word": "해결",
+          "weight": 2.0
+        },
+        {
+          "word": "제목",
+          "weight": 2.0
+        },
+        {
+          "word": "비법",
+          "weight": 2.0
+        },
+        {
+          "word": "독후감",
+          "weight": 2.0
+        },
+        {
+          "word": "꼬리",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "길고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "독서감상문대회",
+          "weight": 2.0
+        },
+        {
+          "word": "된다냥",
+          "weight": 1.0
+        },
+        {
+          "word": "성우",
+          "weight": 1.0
+        },
+        {
+          "word": "세트",
+          "weight": 1.0
+        },
+        {
+          "word": "수준",
+          "weight": 1.0
+        },
+        {
+          "word": "고군분투",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "거다냥",
+          "weight": 1.0
+        },
+        {
+          "word": "실수",
+          "weight": 1.0
+        },
+        {
+          "word": "독서감상문",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "근사",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "고르",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        },
+        {
+          "word": "대본",
+          "weight": 1.0
+        },
+        {
+          "word": "도서관",
+          "weight": 1.0
+        },
+        {
+          "word": "독서",
+          "weight": 1.0
+        }
+      ],
+      "description": "냥 작가의 집을 사 주기 위해 상을 받아야 하는 나영이와 한우, 더는 학원을 추가할 수 없다는 천재 쌍둥이. 냥 작가는 독서록은커녕 읽을 책도 제대로 고르지 못하는 아이들에게 수준에 맞는 책을 고르는 비법을 알려 주는데….",
+      "co_loan_books": [
+        {
+          "bookname": "냥 작가의 일기 상담소 ",
+          "isbn13": "9791158682415",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 맞춤법 상담소 ",
+          "isbn13": "9791158682507",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 글쓰기 상담소",
+          "isbn13": "9791158682231",
+          "authors": "글: 즐비 ;그림: 류수형"
+        },
+        {
+          "bookname": "냥 작가의 논술 상담소 ",
+          "isbn13": "9791158682828",
+          "authors": "글: 즐비 ;그림: 김준식"
+        },
+        {
+          "bookname": "냥 작가의 동시 상담소 ",
+          "isbn13": "9791158682743",
+          "authors": "글: 즐비 ;그림: 김준식"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448370",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448011",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936448134",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "냥 작가의 독서록 상담소",
+      "author": "글: 즐비 ;그림: 류수형",
+      "kdc_from_api": "029",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

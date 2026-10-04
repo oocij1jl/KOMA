@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791169850445",
+  "captured_at": "2026-10-02T00:23:22.491632+09:00",
+  "lookup": {
+    "isbn": "9791169850445",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791169850445",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17500",
+      "title": "남에게 보여주려고 인생을 낭비하지 마라",
+      "subtitle": "쇼펜하우어 소품집",
+      "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Page2(페이지2북스)",
+      "publish_year": "2023",
+      "publish_predate": "20231030",
+      "kdc": "165.47",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 서양철학 > 독일, 오스트리아철학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "125*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/32648/45/cover/k072935654_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "쇼펜하우어",
+          "weight": 10.0
+        },
+        {
+          "word": "행복",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 6.0
+        },
+        {
+          "word": "영향",
+          "weight": 5.0
+        },
+        {
+          "word": "철학자",
+          "weight": 5.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "추구",
+          "weight": 4.0
+        },
+        {
+          "word": "니체",
+          "weight": 4.0
+        },
+        {
+          "word": "톨스토이",
+          "weight": 3.0
+        },
+        {
+          "word": "소품과 부록",
+          "weight": 3.0
+        },
+        {
+          "word": "사상가",
+          "weight": 3.0
+        },
+        {
+          "word": "개인",
+          "weight": 3.0
+        },
+        {
+          "word": "의지와 표상으로서의 세계",
+          "weight": 3.0
+        },
+        {
+          "word": "불행",
+          "weight": 3.0
+        },
+        {
+          "word": "태도",
+          "weight": 3.0
+        },
+        {
+          "word": "자연에서의 의지에 관하여",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 2.0
+        },
+        {
+          "word": "서양",
+          "weight": 2.0
+        },
+        {
+          "word": "페이지2 page2",
+          "weight": 2.0
+        },
+        {
+          "word": "진리",
+          "weight": 2.0
+        },
+        {
+          "word": "소유물",
+          "weight": 2.0
+        },
+        {
+          "word": "지혜",
+          "weight": 2.0
+        },
+        {
+          "word": "아르투어 쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "외면",
+          "weight": 2.0
+        },
+        {
+          "word": "평가",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "사상",
+          "weight": 2.0
+        },
+        {
+          "word": "아인슈타인",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "격언",
+          "weight": 2.0
+        },
+        {
+          "word": "의미",
+          "weight": 2.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "지대",
+          "weight": 2.0
+        },
+        {
+          "word": "박제헌  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "명제",
+          "weight": 1.0
+        },
+        {
+          "word": "19세기",
+          "weight": 1.0
+        },
+        {
+          "word": "무신론자",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "냉소적",
+          "weight": 1.0
+        },
+        {
+          "word": "가지",
+          "weight": 1.0
+        },
+        {
+          "word": "강력",
+          "weight": 1.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 1.0
+        },
+        {
+          "word": "꼬리표",
+          "weight": 1.0
+        },
+        {
+          "word": "논쟁",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        }
+      ],
+      "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "isbn13": "9791192625553",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "isbn13": "9791198682505",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "남에게 보여주려고 인생을 낭비하지 마라",
+      "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+      "kdc_from_api": "165.47",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "남에게 보여주려고 인생을 낭비하지 마라",
+        "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+        "publisher": "Page2(페이지2북스)",
+        "publish_predate": "20231030",
+        "isbn": "9791169850445",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "349 p.",
+        "book_size": "125*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집 ",
+        "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+        "publisher": "Page2(페이지2북스)",
+        "publish_year": "2023",
+        "isbn": "1169850448",
+        "isbn13": "9791169850445",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "165.47",
+        "class_nm": "철학 > 서양철학 > 독일, 오스트리아철학",
+        "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+        "cover_url": "https://image.aladin.co.kr/product/32648/45/cover/k072935654_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "쇼펜하우어",
+            "weight": 10.0
+          },
+          {
+            "word": "행복",
+            "weight": 9.0
+          },
+          {
+            "word": "철학",
+            "weight": 6.0
+          },
+          {
+            "word": "영향",
+            "weight": 5.0
+          },
+          {
+            "word": "철학자",
+            "weight": 5.0
+          },
+          {
+            "word": "누구",
+            "weight": 4.0
+          },
+          {
+            "word": "추구",
+            "weight": 4.0
+          },
+          {
+            "word": "니체",
+            "weight": 4.0
+          },
+          {
+            "word": "톨스토이",
+            "weight": 3.0
+          },
+          {
+            "word": "소품과 부록",
+            "weight": 3.0
+          },
+          {
+            "word": "사상가",
+            "weight": 3.0
+          },
+          {
+            "word": "개인",
+            "weight": 3.0
+          },
+          {
+            "word": "의지와 표상으로서의 세계",
+            "weight": 3.0
+          },
+          {
+            "word": "불행",
+            "weight": 3.0
+          },
+          {
+            "word": "태도",
+            "weight": 3.0
+          },
+          {
+            "word": "자연에서의 의지에 관하여",
+            "weight": 3.0
+          },
+          {
+            "word": "대하",
+            "weight": 2.0
+          },
+          {
+            "word": "서양",
+            "weight": 2.0
+          },
+          {
+            "word": "페이지2 page2",
+            "weight": 2.0
+          },
+          {
+            "word": "진리",
+            "weight": 2.0
+          },
+          {
+            "word": "소유물",
+            "weight": 2.0
+          },
+          {
+            "word": "지혜",
+            "weight": 2.0
+          },
+          {
+            "word": "아르투어 쇼펜하우어",
+            "weight": 2.0
+          },
+          {
+            "word": "자신",
+            "weight": 2.0
+          },
+          {
+            "word": "외면",
+            "weight": 2.0
+          },
+          {
+            "word": "평가",
+            "weight": 2.0
+          },
+          {
+            "word": "인물",
+            "weight": 2.0
+          },
+          {
+            "word": "사상",
+            "weight": 2.0
+          },
+          {
+            "word": "아인슈타인",
+            "weight": 2.0
+          },
+          {
+            "word": "인간",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "격언",
+            "weight": 2.0
+          },
+          {
+            "word": "의미",
+            "weight": 2.0
+          },
+          {
+            "word": "교양 인문학",
+            "weight": 2.0
+          },
+          {
+            "word": "지대",
+            "weight": 2.0
+          },
+          {
+            "word": "박제헌  옮긴이",
+            "weight": 2.0
+          },
+          {
+            "word": "나이",
+            "weight": 2.0
+          },
+          {
+            "word": "독일",
+            "weight": 2.0
+          },
+          {
+            "word": "명제",
+            "weight": 1.0
+          },
+          {
+            "word": "19세기",
+            "weight": 1.0
+          },
+          {
+            "word": "무신론자",
+            "weight": 1.0
+          },
+          {
+            "word": "문체",
+            "weight": 1.0
+          },
+          {
+            "word": "희망",
+            "weight": 1.0
+          },
+          {
+            "word": "냉소적",
+            "weight": 1.0
+          },
+          {
+            "word": "가지",
+            "weight": 1.0
+          },
+          {
+            "word": "강력",
+            "weight": 1.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 1.0
+          },
+          {
+            "word": "꼬리표",
+            "weight": 1.0
+          },
+          {
+            "word": "논쟁",
+            "weight": 1.0
+          },
+          {
+            "word": "논문",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+            "isbn13": "9791192300818",
+            "authors": "강용수 지음"
+          },
+          {
+            "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+            "isbn13": "9791192625553",
+            "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+            "isbn13": "9791198682505",
+            "authors": "마티아스 뇔케 지음 ;이미옥 옮김"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+            "isbn13": "9791192389325",
+            "authors": "벤저민 하디 지음 ;최은아 옮김"
+          },
+          {
+            "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+            "isbn13": "9791192300245",
+            "authors": "장재형 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "남에게 보여주려고 인생을 낭비하지 마라 - 쇼펜하우어 소품집"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000210410749",
+        "title": "남에게 보여주려고 인생을 낭비하지 마라",
+        "subtitle": "쇼펜하우어 소품집",
+        "page": "352 p.",
+        "book_size": "127*187mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791169850445",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791169850445",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17500",
+      "title": "남에게 보여주려고 인생을 낭비하지 마라",
+      "subtitle": "쇼펜하우어 소품집",
+      "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Page2(페이지2북스)",
+      "publish_year": "2023",
+      "publish_predate": "20231030",
+      "kdc": "165.47",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 서양철학 > 독일, 오스트리아철학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "125*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/32648/45/cover/k072935654_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "쇼펜하우어",
+          "weight": 10.0
+        },
+        {
+          "word": "행복",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 6.0
+        },
+        {
+          "word": "영향",
+          "weight": 5.0
+        },
+        {
+          "word": "철학자",
+          "weight": 5.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "추구",
+          "weight": 4.0
+        },
+        {
+          "word": "니체",
+          "weight": 4.0
+        },
+        {
+          "word": "톨스토이",
+          "weight": 3.0
+        },
+        {
+          "word": "소품과 부록",
+          "weight": 3.0
+        },
+        {
+          "word": "사상가",
+          "weight": 3.0
+        },
+        {
+          "word": "개인",
+          "weight": 3.0
+        },
+        {
+          "word": "의지와 표상으로서의 세계",
+          "weight": 3.0
+        },
+        {
+          "word": "불행",
+          "weight": 3.0
+        },
+        {
+          "word": "태도",
+          "weight": 3.0
+        },
+        {
+          "word": "자연에서의 의지에 관하여",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 2.0
+        },
+        {
+          "word": "서양",
+          "weight": 2.0
+        },
+        {
+          "word": "페이지2 page2",
+          "weight": 2.0
+        },
+        {
+          "word": "진리",
+          "weight": 2.0
+        },
+        {
+          "word": "소유물",
+          "weight": 2.0
+        },
+        {
+          "word": "지혜",
+          "weight": 2.0
+        },
+        {
+          "word": "아르투어 쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "외면",
+          "weight": 2.0
+        },
+        {
+          "word": "평가",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "사상",
+          "weight": 2.0
+        },
+        {
+          "word": "아인슈타인",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "격언",
+          "weight": 2.0
+        },
+        {
+          "word": "의미",
+          "weight": 2.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "지대",
+          "weight": 2.0
+        },
+        {
+          "word": "박제헌  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "명제",
+          "weight": 1.0
+        },
+        {
+          "word": "19세기",
+          "weight": 1.0
+        },
+        {
+          "word": "무신론자",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "냉소적",
+          "weight": 1.0
+        },
+        {
+          "word": "가지",
+          "weight": 1.0
+        },
+        {
+          "word": "강력",
+          "weight": 1.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 1.0
+        },
+        {
+          "word": "꼬리표",
+          "weight": 1.0
+        },
+        {
+          "word": "논쟁",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        }
+      ],
+      "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "isbn13": "9791192625553",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "isbn13": "9791198682505",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "남에게 보여주려고 인생을 낭비하지 마라",
+      "author": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+      "kdc_from_api": "165.47",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

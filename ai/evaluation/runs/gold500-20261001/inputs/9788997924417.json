@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788997924417",
+  "captured_at": "2026-10-03T00:16:57.467229+09:00",
+  "lookup": {
+    "isbn": "9788997924417",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788997924417",
+      "isbn_add_code": "93000",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "성공하는 프로그래밍 공부법",
+      "subtitle": "프로그래머의 길을 생각한다",
+      "author": "박재성,고종범,남재창,박지현 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "로드북",
+      "publish_year": "2018",
+      "publish_predate": "20180910",
+      "kdc": "005.104",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "400 p.",
+      "book_size": "150*213",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험을 담았다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/139/936/13993648.jpg?type=m1&udate=20180904",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "프로그래밍",
+          "weight": 24.0
+        },
+        {
+          "word": "공부",
+          "weight": 16.0
+        },
+        {
+          "word": "INTERVIEW",
+          "weight": 13.0
+        },
+        {
+          "word": "코딩",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "프로그래머",
+          "weight": 8.0
+        },
+        {
+          "word": "공부법",
+          "weight": 8.0
+        },
+        {
+          "word": "연습",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "행복",
+          "weight": 7.0
+        },
+        {
+          "word": "소통",
+          "weight": 6.0
+        },
+        {
+          "word": "권위",
+          "weight": 6.0
+        },
+        {
+          "word": "실패",
+          "weight": 6.0
+        },
+        {
+          "word": "의식적",
+          "weight": 6.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "지식",
+          "weight": 5.0
+        },
+        {
+          "word": "컴퓨터",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "극복",
+          "weight": 5.0
+        },
+        {
+          "word": "로드북",
+          "weight": 4.0
+        },
+        {
+          "word": "의도적",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "교양",
+          "weight": 4.0
+        },
+        {
+          "word": "성장",
+          "weight": 4.0
+        },
+        {
+          "word": "수련",
+          "weight": 4.0
+        },
+        {
+          "word": "포기",
+          "weight": 4.0
+        },
+        {
+          "word": "과정",
+          "weight": 4.0
+        },
+        {
+          "word": "문제",
+          "weight": 4.0
+        },
+        {
+          "word": "학습",
+          "weight": 4.0
+        },
+        {
+          "word": "변화",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "목표",
+          "weight": 3.0
+        },
+        {
+          "word": "인출",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "Y 식당",
+          "weight": 3.0
+        },
+        {
+          "word": "편지",
+          "weight": 3.0
+        },
+        {
+          "word": "막상",
+          "weight": 3.0
+        },
+        {
+          "word": "자바",
+          "weight": 3.0
+        },
+        {
+          "word": "코드",
+          "weight": 3.0
+        },
+        {
+          "word": "개발자",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "김수민",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "관점",
+          "weight": 2.0
+        },
+        {
+          "word": "효과적",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "소소",
+          "weight": 2.0
+        }
+      ],
+      "description": "왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험을 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "프로그래머의 뇌 :훌륭한 프로그래머가 알아야 할 인지과학의 모든 것 ",
+          "isbn13": "9791191600650",
+          "authors": "펠리너 헤르만스 지음 ;차건회 옮김"
+        },
+        {
+          "bookname": "혼자 공부하는 얄팍한 코딩지식 :비전공자도 1:1 과외하듯 배우는 IT 지식 입문서 ",
+          "isbn13": "9791162245552",
+          "authors": "고현민 지음"
+        },
+        {
+          "bookname": "(면접을 위한) CS 전공지식 노트 =Computer science note ",
+          "isbn13": "9791165219529",
+          "authors": "주홍철 지음"
+        },
+        {
+          "bookname": "개발자로 살아남기 :한글과컴퓨터, 블리자드, 넥슨, 삼성전자, 몰로코 출신 개발자의 30년 커리어패스 인사이트 ",
+          "isbn13": "9791191905113",
+          "authors": "박종천 지음"
+        },
+        {
+          "bookname": "나는 주니어 개발자다 :청년 개발자 다섯의 성장 이야기 ",
+          "isbn13": "9788997924882",
+          "authors": "지은이: 김설화,정종윤"
+        },
+        {
+          "bookname": "개발자의 글쓰기 :변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝! ",
+          "isbn13": "9791158391744",
+          "authors": "지은이: 김철수 ;엮은이: 이대엽"
+        },
+        {
+          "bookname": "(비전공자를 위한 이해할 수 있는) IT 지식 ",
+          "isbn13": "9791196918033",
+          "authors": "최원영 지음"
+        },
+        {
+          "bookname": "죽을 때까지 코딩하며 사는 법 :프로그래머의 길을 생각한다 ",
+          "isbn13": "9788997924820",
+          "authors": "지은이: 홍전일"
+        },
+        {
+          "bookname": "육각형 개발자 :시니어 개발자로 성장하기 위한 10가지 핵심 역량 ",
+          "isbn13": "9791169211239",
+          "authors": "최범균 지음"
+        },
+        {
+          "bookname": "(한 권으로 읽는) 컴퓨터 구조와 프로그래밍 :더 나은 소프트웨어 개발을 위한 하드웨어, 자료구조, 필수 알고리즘 등 프로그래머의 비밀 노트 ",
+          "isbn13": "9791189909284",
+          "authors": "조너선 스타인하트 지음 ;오현석 옮김"
+        }
+      ],
+      "title": "성공하는 프로그래밍 공부법",
+      "author": "박재성,고종범,남재창,박지현 지음",
+      "kdc_from_api": "005.104",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "성공하는 프로그래밍 공부법",
+        "author": "박재성,고종범,남재창,박지현 지음",
+        "publisher": "로드북",
+        "publish_predate": "20180910",
+        "isbn": "9788997924417",
+        "isbn_add_code": "93000",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "395 p.",
+        "book_size": "150*213",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "0",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "성공하는 프로그래밍 공부법 :프로그래머의 길을 생각한다 ",
+        "author": "박재성,박지현 지음",
+        "publisher": "로드북",
+        "publish_year": "2018",
+        "isbn": "8997924419",
+        "isbn13": "9788997924417",
+        "isbn_add_code": "93000",
+        "volume": "",
+        "class_no": "005.104",
+        "class_nm": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+        "description": "왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험을 담았다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/139/936/13993648.jpg?type=m1&udate=20180904"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "프로그래밍",
+            "weight": 24.0
+          },
+          {
+            "word": "공부",
+            "weight": 16.0
+          },
+          {
+            "word": "INTERVIEW",
+            "weight": 13.0
+          },
+          {
+            "word": "코딩",
+            "weight": 12.0
+          },
+          {
+            "word": "사람",
+            "weight": 9.0
+          },
+          {
+            "word": "프로그래머",
+            "weight": 8.0
+          },
+          {
+            "word": "공부법",
+            "weight": 8.0
+          },
+          {
+            "word": "연습",
+            "weight": 8.0
+          },
+          {
+            "word": "방법",
+            "weight": 7.0
+          },
+          {
+            "word": "행복",
+            "weight": 7.0
+          },
+          {
+            "word": "소통",
+            "weight": 6.0
+          },
+          {
+            "word": "권위",
+            "weight": 6.0
+          },
+          {
+            "word": "실패",
+            "weight": 6.0
+          },
+          {
+            "word": "의식적",
+            "weight": 6.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "지식",
+            "weight": 5.0
+          },
+          {
+            "word": "컴퓨터",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 5.0
+          },
+          {
+            "word": "극복",
+            "weight": 5.0
+          },
+          {
+            "word": "로드북",
+            "weight": 4.0
+          },
+          {
+            "word": "의도적",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "교양",
+            "weight": 4.0
+          },
+          {
+            "word": "성장",
+            "weight": 4.0
+          },
+          {
+            "word": "수련",
+            "weight": 4.0
+          },
+          {
+            "word": "포기",
+            "weight": 4.0
+          },
+          {
+            "word": "과정",
+            "weight": 4.0
+          },
+          {
+            "word": "문제",
+            "weight": 4.0
+          },
+          {
+            "word": "학습",
+            "weight": 4.0
+          },
+          {
+            "word": "변화",
+            "weight": 4.0
+          },
+          {
+            "word": "경험",
+            "weight": 4.0
+          },
+          {
+            "word": "전문가",
+            "weight": 4.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "목표",
+            "weight": 3.0
+          },
+          {
+            "word": "인출",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "Y 식당",
+            "weight": 3.0
+          },
+          {
+            "word": "편지",
+            "weight": 3.0
+          },
+          {
+            "word": "막상",
+            "weight": 3.0
+          },
+          {
+            "word": "자바",
+            "weight": 3.0
+          },
+          {
+            "word": "코드",
+            "weight": 3.0
+          },
+          {
+            "word": "개발자",
+            "weight": 3.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "김수민",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "관점",
+            "weight": 2.0
+          },
+          {
+            "word": "효과적",
+            "weight": 2.0
+          },
+          {
+            "word": "가능",
+            "weight": 2.0
+          },
+          {
+            "word": "소소",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "프로그래머의 뇌 :훌륭한 프로그래머가 알아야 할 인지과학의 모든 것 ",
+            "isbn13": "9791191600650",
+            "authors": "펠리너 헤르만스 지음 ;차건회 옮김"
+          },
+          {
+            "bookname": "혼자 공부하는 얄팍한 코딩지식 :비전공자도 1:1 과외하듯 배우는 IT 지식 입문서 ",
+            "isbn13": "9791162245552",
+            "authors": "고현민 지음"
+          },
+          {
+            "bookname": "(면접을 위한) CS 전공지식 노트 =Computer science note ",
+            "isbn13": "9791165219529",
+            "authors": "주홍철 지음"
+          },
+          {
+            "bookname": "개발자로 살아남기 :한글과컴퓨터, 블리자드, 넥슨, 삼성전자, 몰로코 출신 개발자의 30년 커리어패스 인사이트 ",
+            "isbn13": "9791191905113",
+            "authors": "박종천 지음"
+          },
+          {
+            "bookname": "나는 주니어 개발자다 :청년 개발자 다섯의 성장 이야기 ",
+            "isbn13": "9788997924882",
+            "authors": "지은이: 김설화,정종윤"
+          },
+          {
+            "bookname": "개발자의 글쓰기 :변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝! ",
+            "isbn13": "9791158391744",
+            "authors": "지은이: 김철수 ;엮은이: 이대엽"
+          },
+          {
+            "bookname": "(비전공자를 위한 이해할 수 있는) IT 지식 ",
+            "isbn13": "9791196918033",
+            "authors": "최원영 지음"
+          },
+          {
+            "bookname": "죽을 때까지 코딩하며 사는 법 :프로그래머의 길을 생각한다 ",
+            "isbn13": "9788997924820",
+            "authors": "지은이: 홍전일"
+          },
+          {
+            "bookname": "육각형 개발자 :시니어 개발자로 성장하기 위한 10가지 핵심 역량 ",
+            "isbn13": "9791169211239",
+            "authors": "최범균 지음"
+          },
+          {
+            "bookname": "(한 권으로 읽는) 컴퓨터 구조와 프로그래밍 :더 나은 소프트웨어 개발을 위한 하드웨어, 자료구조, 필수 알고리즘 등 프로그래머의 비밀 노트 ",
+            "isbn13": "9791189909284",
+            "authors": "조너선 스타인하트 지음 ;오현석 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "성공하는 프로그래밍 공부법"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001624697",
+        "title": "성공하는 프로그래밍 공부법",
+        "subtitle": "프로그래머의 길을 생각한다",
+        "page": "400 p.",
+        "book_size": "153*214mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788997924417",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788997924417",
+      "isbn_add_code": "93000",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "성공하는 프로그래밍 공부법",
+      "subtitle": "프로그래머의 길을 생각한다",
+      "author": "박재성,고종범,남재창,박지현 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "로드북",
+      "publish_year": "2018",
+      "publish_predate": "20180910",
+      "kdc": "005.104",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 프로그래밍, 프로그램, 데이터",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "400 p.",
+      "book_size": "150*213",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험을 담았다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/139/936/13993648.jpg?type=m1&udate=20180904",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "프로그래밍",
+          "weight": 24.0
+        },
+        {
+          "word": "공부",
+          "weight": 16.0
+        },
+        {
+          "word": "INTERVIEW",
+          "weight": 13.0
+        },
+        {
+          "word": "코딩",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "프로그래머",
+          "weight": 8.0
+        },
+        {
+          "word": "공부법",
+          "weight": 8.0
+        },
+        {
+          "word": "연습",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "행복",
+          "weight": 7.0
+        },
+        {
+          "word": "소통",
+          "weight": 6.0
+        },
+        {
+          "word": "권위",
+          "weight": 6.0
+        },
+        {
+          "word": "실패",
+          "weight": 6.0
+        },
+        {
+          "word": "의식적",
+          "weight": 6.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "지식",
+          "weight": 5.0
+        },
+        {
+          "word": "컴퓨터",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "극복",
+          "weight": 5.0
+        },
+        {
+          "word": "로드북",
+          "weight": 4.0
+        },
+        {
+          "word": "의도적",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "교양",
+          "weight": 4.0
+        },
+        {
+          "word": "성장",
+          "weight": 4.0
+        },
+        {
+          "word": "수련",
+          "weight": 4.0
+        },
+        {
+          "word": "포기",
+          "weight": 4.0
+        },
+        {
+          "word": "과정",
+          "weight": 4.0
+        },
+        {
+          "word": "문제",
+          "weight": 4.0
+        },
+        {
+          "word": "학습",
+          "weight": 4.0
+        },
+        {
+          "word": "변화",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "목표",
+          "weight": 3.0
+        },
+        {
+          "word": "인출",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "Y 식당",
+          "weight": 3.0
+        },
+        {
+          "word": "편지",
+          "weight": 3.0
+        },
+        {
+          "word": "막상",
+          "weight": 3.0
+        },
+        {
+          "word": "자바",
+          "weight": 3.0
+        },
+        {
+          "word": "코드",
+          "weight": 3.0
+        },
+        {
+          "word": "개발자",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "김수민",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "관점",
+          "weight": 2.0
+        },
+        {
+          "word": "효과적",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "소소",
+          "weight": 2.0
+        }
+      ],
+      "description": "왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험을 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "프로그래머의 뇌 :훌륭한 프로그래머가 알아야 할 인지과학의 모든 것 ",
+          "isbn13": "9791191600650",
+          "authors": "펠리너 헤르만스 지음 ;차건회 옮김"
+        },
+        {
+          "bookname": "혼자 공부하는 얄팍한 코딩지식 :비전공자도 1:1 과외하듯 배우는 IT 지식 입문서 ",
+          "isbn13": "9791162245552",
+          "authors": "고현민 지음"
+        },
+        {
+          "bookname": "(면접을 위한) CS 전공지식 노트 =Computer science note ",
+          "isbn13": "9791165219529",
+          "authors": "주홍철 지음"
+        },
+        {
+          "bookname": "개발자로 살아남기 :한글과컴퓨터, 블리자드, 넥슨, 삼성전자, 몰로코 출신 개발자의 30년 커리어패스 인사이트 ",
+          "isbn13": "9791191905113",
+          "authors": "박종천 지음"
+        },
+        {
+          "bookname": "나는 주니어 개발자다 :청년 개발자 다섯의 성장 이야기 ",
+          "isbn13": "9788997924882",
+          "authors": "지은이: 김설화,정종윤"
+        },
+        {
+          "bookname": "개발자의 글쓰기 :변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝! ",
+          "isbn13": "9791158391744",
+          "authors": "지은이: 김철수 ;엮은이: 이대엽"
+        },
+        {
+          "bookname": "(비전공자를 위한 이해할 수 있는) IT 지식 ",
+          "isbn13": "9791196918033",
+          "authors": "최원영 지음"
+        },
+        {
+          "bookname": "죽을 때까지 코딩하며 사는 법 :프로그래머의 길을 생각한다 ",
+          "isbn13": "9788997924820",
+          "authors": "지은이: 홍전일"
+        },
+        {
+          "bookname": "육각형 개발자 :시니어 개발자로 성장하기 위한 10가지 핵심 역량 ",
+          "isbn13": "9791169211239",
+          "authors": "최범균 지음"
+        },
+        {
+          "bookname": "(한 권으로 읽는) 컴퓨터 구조와 프로그래밍 :더 나은 소프트웨어 개발을 위한 하드웨어, 자료구조, 필수 알고리즘 등 프로그래머의 비밀 노트 ",
+          "isbn13": "9791189909284",
+          "authors": "조너선 스타인하트 지음 ;오현석 옮김"
+        }
+      ],
+      "title": "성공하는 프로그래밍 공부법",
+      "author": "박재성,고종범,남재창,박지현 지음",
+      "kdc_from_api": "005.104",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

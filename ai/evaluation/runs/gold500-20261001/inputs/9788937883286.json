@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788937883286",
+  "captured_at": "2026-10-04T00:11:13.554269+09:00",
+  "lookup": {
+    "isbn": "9788937883286",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937883286",
+      "isbn_add_code": "77400",
+      "set_isbn": "9788937883279",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "내일은 발명왕 ",
+      "subtitle": "별책부록1권포함",
+      "author": "글: 곰돌이co. ;그림: 홍종현",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "미래엔컬처그룹,",
+      "publish_year": "2011",
+      "publish_predate": "20111101",
+      "kdc": "507.5",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "192 p.",
+      "book_size": "190*258mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;내일은 실험왕&gt; 집필진이 새롭게 펴낸 본격 대결 과학발명 만화 시리즈. 생활 속 발명품을 통해 과학 원리를 배우고, 창의적 사고를 키워 주는 발명 만화이다. 1권에서는 철사를 자석으로 문질러 '자화'된 나침반을 직접 만들어 보는 발명 키트가 함께 들어있어 자석의 성질을 이용한 나침반의 원리를 배우게 된다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/600/06760061.jpg?type=m1&udate=20120223",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "발명",
+          "weight": 26.0
+        },
+        {
+          "word": "자석",
+          "weight": 21.0
+        },
+        {
+          "word": "과학",
+          "weight": 10.0
+        },
+        {
+          "word": "원리",
+          "weight": 8.0
+        },
+        {
+          "word": "과정",
+          "weight": 7.0
+        },
+        {
+          "word": "발명품",
+          "weight": 6.0
+        },
+        {
+          "word": "성질",
+          "weight": 6.0
+        },
+        {
+          "word": "POINT",
+          "weight": 6.0
+        },
+        {
+          "word": "한대범",
+          "weight": 5.0
+        },
+        {
+          "word": "이용한",
+          "weight": 5.0
+        },
+        {
+          "word": "아이디어",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "정의",
+          "weight": 4.0
+        },
+        {
+          "word": "나침반",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "대결",
+          "weight": 4.0
+        },
+        {
+          "word": "옷걸이",
+          "weight": 4.0
+        },
+        {
+          "word": "핵심",
+          "weight": 4.0
+        },
+        {
+          "word": "발명반",
+          "weight": 4.0
+        },
+        {
+          "word": "보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "자화",
+          "weight": 3.0
+        },
+        {
+          "word": "실험",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀",
+          "weight": 3.0
+        },
+        {
+          "word": "기능",
+          "weight": 3.0
+        },
+        {
+          "word": "유리창",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "생활",
+          "weight": 3.0
+        },
+        {
+          "word": "이론",
+          "weight": 3.0
+        },
+        {
+          "word": "사고",
+          "weight": 3.0
+        },
+        {
+          "word": "발명왕",
+          "weight": 3.0
+        },
+        {
+          "word": "건조",
+          "weight": 3.0
+        },
+        {
+          "word": "창의적",
+          "weight": 3.0
+        },
+        {
+          "word": "실험왕",
+          "weight": 3.0
+        },
+        {
+          "word": "유리",
+          "weight": 2.0
+        },
+        {
+          "word": "선언",
+          "weight": 2.0
+        },
+        {
+          "word": "1학기",
+          "weight": 2.0
+        },
+        {
+          "word": "수록",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "단원",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "고수초등학교",
+          "weight": 2.0
+        },
+        {
+          "word": "자기력",
+          "weight": 2.0
+        },
+        {
+          "word": "양면",
+          "weight": 2.0
+        },
+        {
+          "word": "자기장",
+          "weight": 2.0
+        },
+        {
+          "word": "Mirae N 아이세움",
+          "weight": 2.0
+        },
+        {
+          "word": "곰돌이 co",
+          "weight": 2.0
+        },
+        {
+          "word": "보통",
+          "weight": 2.0
+        },
+        {
+          "word": "사이클로이드",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;내일은 실험왕&gt; 집필진이 새롭게 펴낸 본격 대결 과학발명 만화 시리즈. 생활 속 발명품을 통해 과학 원리를 배우고, 창의적 사고를 키워 주는 발명 만화이다. 1권에서는 철사를 자석으로 문질러 '자화'된 나침반을 직접 만들어 보는 발명 키트가 함께 들어있어 자석의 성질을 이용한 나침반의 원리를 배우게 된다.",
+      "co_loan_books": [
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883293",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883309",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883316",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883323",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884931",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884962",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884993",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899010",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899027",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899218",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        }
+      ],
+      "title": "내일은 발명왕 ",
+      "author": "글: 곰돌이co. ;그림: 홍종현",
+      "kdc_from_api": "507.5",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "내일은 발명왕 ",
+        "author": "글: 곰돌이co. ;그림: 홍종현",
+        "publisher": "미래엔컬처그룹,",
+        "publish_predate": "20111101",
+        "isbn": "9788937883286",
+        "isbn_add_code": "77400",
+        "set_isbn": "9788937883279",
+        "set_add_code": "77400 ",
+        "set_expression": "",
+        "price": "₩11800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "내일은 발명왕 :본격 대결 과학발명 만화",
+        "author": "글: 곰돌이 co. ;그림: 홍종현",
+        "publisher": "Mirae N 아이세움",
+        "publish_year": "2011",
+        "isbn": "8937883287",
+        "isbn13": "9788937883286",
+        "isbn_add_code": "77400",
+        "volume": "1",
+        "class_no": "507.5",
+        "class_nm": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+        "description": "&lt;내일은 실험왕&gt; 집필진이 새롭게 펴낸 본격 대결 과학발명 만화 시리즈. 생활 속 발명품을 통해 과학 원리를 배우고, 창의적 사고를 키워 주는 발명 만화이다. 1권에서는 철사를 자석으로 문질러 '자화'된 나침반을 직접 만들어 보는 발명 키트가 함께 들어있어 자석의 성질을 이용한 나침반의 원리를 배우게 된다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/600/06760061.jpg?type=m1&udate=20120223"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "발명",
+            "weight": 26.0
+          },
+          {
+            "word": "자석",
+            "weight": 21.0
+          },
+          {
+            "word": "과학",
+            "weight": 10.0
+          },
+          {
+            "word": "원리",
+            "weight": 8.0
+          },
+          {
+            "word": "과정",
+            "weight": 7.0
+          },
+          {
+            "word": "발명품",
+            "weight": 6.0
+          },
+          {
+            "word": "성질",
+            "weight": 6.0
+          },
+          {
+            "word": "POINT",
+            "weight": 6.0
+          },
+          {
+            "word": "한대범",
+            "weight": 5.0
+          },
+          {
+            "word": "이용한",
+            "weight": 5.0
+          },
+          {
+            "word": "아이디어",
+            "weight": 5.0
+          },
+          {
+            "word": "만화",
+            "weight": 5.0
+          },
+          {
+            "word": "정의",
+            "weight": 4.0
+          },
+          {
+            "word": "나침반",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "대결",
+            "weight": 4.0
+          },
+          {
+            "word": "옷걸이",
+            "weight": 4.0
+          },
+          {
+            "word": "핵심",
+            "weight": 4.0
+          },
+          {
+            "word": "발명반",
+            "weight": 4.0
+          },
+          {
+            "word": "보고서",
+            "weight": 3.0
+          },
+          {
+            "word": "자화",
+            "weight": 3.0
+          },
+          {
+            "word": "실험",
+            "weight": 3.0
+          },
+          {
+            "word": "교과서",
+            "weight": 3.0
+          },
+          {
+            "word": "비밀",
+            "weight": 3.0
+          },
+          {
+            "word": "기능",
+            "weight": 3.0
+          },
+          {
+            "word": "유리창",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "생활",
+            "weight": 3.0
+          },
+          {
+            "word": "이론",
+            "weight": 3.0
+          },
+          {
+            "word": "사고",
+            "weight": 3.0
+          },
+          {
+            "word": "발명왕",
+            "weight": 3.0
+          },
+          {
+            "word": "건조",
+            "weight": 3.0
+          },
+          {
+            "word": "창의적",
+            "weight": 3.0
+          },
+          {
+            "word": "실험왕",
+            "weight": 3.0
+          },
+          {
+            "word": "유리",
+            "weight": 2.0
+          },
+          {
+            "word": "선언",
+            "weight": 2.0
+          },
+          {
+            "word": "1학기",
+            "weight": 2.0
+          },
+          {
+            "word": "수록",
+            "weight": 2.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "단원",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "고수초등학교",
+            "weight": 2.0
+          },
+          {
+            "word": "자기력",
+            "weight": 2.0
+          },
+          {
+            "word": "양면",
+            "weight": 2.0
+          },
+          {
+            "word": "자기장",
+            "weight": 2.0
+          },
+          {
+            "word": "Mirae N 아이세움",
+            "weight": 2.0
+          },
+          {
+            "word": "곰돌이 co",
+            "weight": 2.0
+          },
+          {
+            "word": "보통",
+            "weight": 2.0
+          },
+          {
+            "word": "사이클로이드",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937883293",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937883309",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937883316",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937883323",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937884931",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937884962",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937884993",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937899010",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937899027",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          },
+          {
+            "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+            "isbn13": "9788937899218",
+            "authors": "글: 곰돌이 co. ;그림: 홍종현"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "내일은 발명왕 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000629217",
+        "title": "내일은 발명왕 1: 극과 극의 자석처럼",
+        "subtitle": "별책부록1권포함",
+        "page": "192 p.",
+        "book_size": "190*258mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788937883286",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937883286",
+      "isbn_add_code": "77400",
+      "set_isbn": "9788937883279",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "내일은 발명왕 ",
+      "subtitle": "별책부록1권포함",
+      "author": "글: 곰돌이co. ;그림: 홍종현",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "미래엔컬처그룹,",
+      "publish_year": "2011",
+      "publish_predate": "20111101",
+      "kdc": "507.5",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 기술과학 > 연구법 및 교육지도법",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "192 p.",
+      "book_size": "190*258mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;내일은 실험왕&gt; 집필진이 새롭게 펴낸 본격 대결 과학발명 만화 시리즈. 생활 속 발명품을 통해 과학 원리를 배우고, 창의적 사고를 키워 주는 발명 만화이다. 1권에서는 철사를 자석으로 문질러 '자화'된 나침반을 직접 만들어 보는 발명 키트가 함께 들어있어 자석의 성질을 이용한 나침반의 원리를 배우게 된다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/600/06760061.jpg?type=m1&udate=20120223",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "발명",
+          "weight": 26.0
+        },
+        {
+          "word": "자석",
+          "weight": 21.0
+        },
+        {
+          "word": "과학",
+          "weight": 10.0
+        },
+        {
+          "word": "원리",
+          "weight": 8.0
+        },
+        {
+          "word": "과정",
+          "weight": 7.0
+        },
+        {
+          "word": "발명품",
+          "weight": 6.0
+        },
+        {
+          "word": "성질",
+          "weight": 6.0
+        },
+        {
+          "word": "POINT",
+          "weight": 6.0
+        },
+        {
+          "word": "한대범",
+          "weight": 5.0
+        },
+        {
+          "word": "이용한",
+          "weight": 5.0
+        },
+        {
+          "word": "아이디어",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "정의",
+          "weight": 4.0
+        },
+        {
+          "word": "나침반",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "대결",
+          "weight": 4.0
+        },
+        {
+          "word": "옷걸이",
+          "weight": 4.0
+        },
+        {
+          "word": "핵심",
+          "weight": 4.0
+        },
+        {
+          "word": "발명반",
+          "weight": 4.0
+        },
+        {
+          "word": "보고서",
+          "weight": 3.0
+        },
+        {
+          "word": "자화",
+          "weight": 3.0
+        },
+        {
+          "word": "실험",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "비밀",
+          "weight": 3.0
+        },
+        {
+          "word": "기능",
+          "weight": 3.0
+        },
+        {
+          "word": "유리창",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "생활",
+          "weight": 3.0
+        },
+        {
+          "word": "이론",
+          "weight": 3.0
+        },
+        {
+          "word": "사고",
+          "weight": 3.0
+        },
+        {
+          "word": "발명왕",
+          "weight": 3.0
+        },
+        {
+          "word": "건조",
+          "weight": 3.0
+        },
+        {
+          "word": "창의적",
+          "weight": 3.0
+        },
+        {
+          "word": "실험왕",
+          "weight": 3.0
+        },
+        {
+          "word": "유리",
+          "weight": 2.0
+        },
+        {
+          "word": "선언",
+          "weight": 2.0
+        },
+        {
+          "word": "1학기",
+          "weight": 2.0
+        },
+        {
+          "word": "수록",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "단원",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "고수초등학교",
+          "weight": 2.0
+        },
+        {
+          "word": "자기력",
+          "weight": 2.0
+        },
+        {
+          "word": "양면",
+          "weight": 2.0
+        },
+        {
+          "word": "자기장",
+          "weight": 2.0
+        },
+        {
+          "word": "Mirae N 아이세움",
+          "weight": 2.0
+        },
+        {
+          "word": "곰돌이 co",
+          "weight": 2.0
+        },
+        {
+          "word": "보통",
+          "weight": 2.0
+        },
+        {
+          "word": "사이클로이드",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;내일은 실험왕&gt; 집필진이 새롭게 펴낸 본격 대결 과학발명 만화 시리즈. 생활 속 발명품을 통해 과학 원리를 배우고, 창의적 사고를 키워 주는 발명 만화이다. 1권에서는 철사를 자석으로 문질러 '자화'된 나침반을 직접 만들어 보는 발명 키트가 함께 들어있어 자석의 성질을 이용한 나침반의 원리를 배우게 된다.",
+      "co_loan_books": [
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883293",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883309",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883316",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937883323",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884931",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884962",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937884993",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899010",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899027",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        },
+        {
+          "bookname": "내일은 발명왕 :본격 대결 과학발명 만화",
+          "isbn13": "9788937899218",
+          "authors": "글: 곰돌이 co. ;그림: 홍종현"
+        }
+      ],
+      "title": "내일은 발명왕 ",
+      "author": "글: 곰돌이co. ;그림: 홍종현",
+      "kdc_from_api": "507.5",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

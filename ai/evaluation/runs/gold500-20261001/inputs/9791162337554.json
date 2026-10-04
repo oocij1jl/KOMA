@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791162337554",
+  "captured_at": "2026-10-03T00:11:52.653093+09:00",
+  "lookup": {
+    "isbn": "9791162337554",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162337554",
+      "isbn_add_code": "73490",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "(충격주의) 왠지 이상한 동물도감",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2018",
+      "publish_predate": "20180920",
+      "kdc": "490",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 동물학 > 동물학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "148*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 도감이 넘쳐 나는 일본에서 초판 발행 직후 4만 부 이상 판매된 동물도감으로, 우리가 몰랐던 ‘진짜 리얼한’ 동물들의 모습을 담았다. 어딘가 이상하고, 특별한 습성을 가진 총 40종의 동물에 대해 가장 흥미로운 정보들을 모은 책이다.",
+      "control_no": "CIP2018026503",
+      "cover_url": "http://image.aladin.co.kr/product/16874/95/cover/k642534976_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "동물",
+          "weight": 58.0
+        },
+        {
+          "word": "왠지 이상한 동물도감",
+          "weight": 15.0
+        },
+        {
+          "word": "인간",
+          "weight": 13.0
+        },
+        {
+          "word": "모습",
+          "weight": 9.0
+        },
+        {
+          "word": "정보",
+          "weight": 9.0
+        },
+        {
+          "word": "생태",
+          "weight": 7.0
+        },
+        {
+          "word": "동물도감",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "그림",
+          "weight": 6.0
+        },
+        {
+          "word": "습성",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "도감",
+          "weight": 4.0
+        },
+        {
+          "word": "영향",
+          "weight": 4.0
+        },
+        {
+          "word": "역사",
+          "weight": 4.0
+        },
+        {
+          "word": "칼럼",
+          "weight": 4.0
+        },
+        {
+          "word": "도마뱀붙이",
+          "weight": 3.0
+        },
+        {
+          "word": "독특",
+          "weight": 3.0
+        },
+        {
+          "word": "사실",
+          "weight": 3.0
+        },
+        {
+          "word": "생물",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "등각류",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "붉은개복치",
+          "weight": 2.0
+        },
+        {
+          "word": "상태",
+          "weight": 2.0
+        },
+        {
+          "word": "딱새",
+          "weight": 2.0
+        },
+        {
+          "word": "때까치",
+          "weight": 2.0
+        },
+        {
+          "word": "발행",
+          "weight": 2.0
+        },
+        {
+          "word": "리얼",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "극도",
+          "weight": 2.0
+        },
+        {
+          "word": "생명체",
+          "weight": 2.0
+        },
+        {
+          "word": "40종",
+          "weight": 2.0
+        },
+        {
+          "word": "가면올빼미",
+          "weight": 2.0
+        },
+        {
+          "word": "비밀",
+          "weight": 2.0
+        },
+        {
+          "word": "새끼",
+          "weight": 2.0
+        },
+        {
+          "word": "결정",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "물질",
+          "weight": 2.0
+        },
+        {
+          "word": "기괴",
+          "weight": 2.0
+        },
+        {
+          "word": "뱀장어",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "넓적부리황새",
+          "weight": 2.0
+        },
+        {
+          "word": "누마가사 와타리",
+          "weight": 2.0
+        },
+        {
+          "word": "생명",
+          "weight": 2.0
+        }
+      ],
+      "description": "독특한 도감이 넘쳐 나는 일본에서 초판 발행 직후 4만 부 이상 판매된 동물도감으로, 우리가 몰랐던 ‘진짜 리얼한’ 동물들의 모습을 담았다. 어딘가 이상하고, 특별한 습성을 가진 총 40종의 동물에 대해 가장 흥미로운 정보들을 모은 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(이럴수가!) 왠지 이상한 멸종 동물도감 :우리는 멸종했습니다. ",
+          "isbn13": "9791164131471",
+          "authors": "지은이: 누마가사 와타리 ;옮긴이: 신은주"
+        },
+        {
+          "bookname": "(의외로 유쾌한) 생물도감 ",
+          "isbn13": "9788934995302",
+          "authors": "누마가사 와타리 글·그림 ;타카모리 마쓰미 옮김"
+        },
+        {
+          "bookname": "이유가 있어서 멸종했습니다 :세상에서 가장 재미있는 멸종 동물 도감 ",
+          "isbn13": "9791189938765",
+          "authors": "글: 마루야마 다카시 ;옮김: 곽범신"
+        },
+        {
+          "bookname": "어쩌다 보니 살아남았습니다 :지구에서 사라지면 절대로 안 될 101종의 이상한 동물도감 ",
+          "isbn13": "9788965135807",
+          "authors": "글: 이마이즈미 다다아키 ;옮긴이: 이소담"
+        },
+        {
+          "bookname": "또 이유가 있어서 멸종했습니다 :고생대부터 현대까지 ",
+          "isbn13": "9791190786713",
+          "authors": "글: 마루야마 다카시 ;옮김: 허영은"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168411029",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164138425",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164137435",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164136438",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168412279",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        }
+      ],
+      "title": "(충격주의) 왠지 이상한 동물도감",
+      "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+      "kdc_from_api": "490",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(충격주의) 왠지 이상한 동물도감",
+        "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+        "publisher": "Mirae N 아이세움 :미래엔",
+        "publish_predate": "20180920",
+        "isbn": "9791162337554",
+        "isbn_add_code": "73490",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "93 p.",
+        "book_size": "148*210",
+        "form": "종이책",
+        "kdc": "490",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018026503",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(충격주의) 왠지 이상한 동물도감 :동물들의 괴이한 습성에 대한 모든 것 ",
+        "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+        "publisher": "미래엔",
+        "publish_year": "2018",
+        "isbn": "1162337559",
+        "isbn13": "9791162337554",
+        "isbn_add_code": "73490",
+        "volume": "",
+        "class_no": "490",
+        "class_nm": "자연과학 > 동물학 > 동물학",
+        "description": "독특한 도감이 넘쳐 나는 일본에서 초판 발행 직후 4만 부 이상 판매된 동물도감으로, 우리가 몰랐던 ‘진짜 리얼한’ 동물들의 모습을 담았다. 어딘가 이상하고, 특별한 습성을 가진 총 40종의 동물에 대해 가장 흥미로운 정보들을 모은 책이다.",
+        "cover_url": "http://image.aladin.co.kr/product/16874/95/cover/k642534976_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "동물",
+            "weight": 58.0
+          },
+          {
+            "word": "왠지 이상한 동물도감",
+            "weight": 15.0
+          },
+          {
+            "word": "인간",
+            "weight": 13.0
+          },
+          {
+            "word": "모습",
+            "weight": 9.0
+          },
+          {
+            "word": "정보",
+            "weight": 9.0
+          },
+          {
+            "word": "생태",
+            "weight": 7.0
+          },
+          {
+            "word": "동물도감",
+            "weight": 6.0
+          },
+          {
+            "word": "사랑",
+            "weight": 6.0
+          },
+          {
+            "word": "그림",
+            "weight": 6.0
+          },
+          {
+            "word": "습성",
+            "weight": 6.0
+          },
+          {
+            "word": "세계",
+            "weight": 5.0
+          },
+          {
+            "word": "도감",
+            "weight": 4.0
+          },
+          {
+            "word": "영향",
+            "weight": 4.0
+          },
+          {
+            "word": "역사",
+            "weight": 4.0
+          },
+          {
+            "word": "칼럼",
+            "weight": 4.0
+          },
+          {
+            "word": "도마뱀붙이",
+            "weight": 3.0
+          },
+          {
+            "word": "독특",
+            "weight": 3.0
+          },
+          {
+            "word": "사실",
+            "weight": 3.0
+          },
+          {
+            "word": "생물",
+            "weight": 3.0
+          },
+          {
+            "word": "연구",
+            "weight": 3.0
+          },
+          {
+            "word": "특별",
+            "weight": 3.0
+          },
+          {
+            "word": "이름",
+            "weight": 3.0
+          },
+          {
+            "word": "등각류",
+            "weight": 2.0
+          },
+          {
+            "word": "등장",
+            "weight": 2.0
+          },
+          {
+            "word": "붉은개복치",
+            "weight": 2.0
+          },
+          {
+            "word": "상태",
+            "weight": 2.0
+          },
+          {
+            "word": "딱새",
+            "weight": 2.0
+          },
+          {
+            "word": "때까치",
+            "weight": 2.0
+          },
+          {
+            "word": "발행",
+            "weight": 2.0
+          },
+          {
+            "word": "리얼",
+            "weight": 2.0
+          },
+          {
+            "word": "미래엔",
+            "weight": 2.0
+          },
+          {
+            "word": "극도",
+            "weight": 2.0
+          },
+          {
+            "word": "생명체",
+            "weight": 2.0
+          },
+          {
+            "word": "40종",
+            "weight": 2.0
+          },
+          {
+            "word": "가면올빼미",
+            "weight": 2.0
+          },
+          {
+            "word": "비밀",
+            "weight": 2.0
+          },
+          {
+            "word": "새끼",
+            "weight": 2.0
+          },
+          {
+            "word": "결정",
+            "weight": 2.0
+          },
+          {
+            "word": "발견",
+            "weight": 2.0
+          },
+          {
+            "word": "상황",
+            "weight": 2.0
+          },
+          {
+            "word": "과학 수학 사회",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "물질",
+            "weight": 2.0
+          },
+          {
+            "word": "기괴",
+            "weight": 2.0
+          },
+          {
+            "word": "뱀장어",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "사용",
+            "weight": 2.0
+          },
+          {
+            "word": "넓적부리황새",
+            "weight": 2.0
+          },
+          {
+            "word": "누마가사 와타리",
+            "weight": 2.0
+          },
+          {
+            "word": "생명",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(이럴수가!) 왠지 이상한 멸종 동물도감 :우리는 멸종했습니다. ",
+            "isbn13": "9791164131471",
+            "authors": "지은이: 누마가사 와타리 ;옮긴이: 신은주"
+          },
+          {
+            "bookname": "(의외로 유쾌한) 생물도감 ",
+            "isbn13": "9788934995302",
+            "authors": "누마가사 와타리 글·그림 ;타카모리 마쓰미 옮김"
+          },
+          {
+            "bookname": "이유가 있어서 멸종했습니다 :세상에서 가장 재미있는 멸종 동물 도감 ",
+            "isbn13": "9791189938765",
+            "authors": "글: 마루야마 다카시 ;옮김: 곽범신"
+          },
+          {
+            "bookname": "어쩌다 보니 살아남았습니다 :지구에서 사라지면 절대로 안 될 101종의 이상한 동물도감 ",
+            "isbn13": "9788965135807",
+            "authors": "글: 이마이즈미 다다아키 ;옮긴이: 이소담"
+          },
+          {
+            "bookname": "또 이유가 있어서 멸종했습니다 :고생대부터 현대까지 ",
+            "isbn13": "9791190786713",
+            "authors": "글: 마루야마 다카시 ;옮김: 허영은"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791168411029",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791164138425",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791164137435",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791164136438",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791168412279",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(충격주의) 왠지 이상한 동물도감"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001811927",
+        "title": "왠지 이상한 동물도감",
+        "subtitle": "양장본 Hardcover",
+        "page": "96 p.",
+        "book_size": "156*219mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791162337554",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162337554",
+      "isbn_add_code": "73490",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "(충격주의) 왠지 이상한 동물도감",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2018",
+      "publish_predate": "20180920",
+      "kdc": "490",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 동물학 > 동물학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "148*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 도감이 넘쳐 나는 일본에서 초판 발행 직후 4만 부 이상 판매된 동물도감으로, 우리가 몰랐던 ‘진짜 리얼한’ 동물들의 모습을 담았다. 어딘가 이상하고, 특별한 습성을 가진 총 40종의 동물에 대해 가장 흥미로운 정보들을 모은 책이다.",
+      "control_no": "CIP2018026503",
+      "cover_url": "http://image.aladin.co.kr/product/16874/95/cover/k642534976_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6869675_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "동물",
+          "weight": 58.0
+        },
+        {
+          "word": "왠지 이상한 동물도감",
+          "weight": 15.0
+        },
+        {
+          "word": "인간",
+          "weight": 13.0
+        },
+        {
+          "word": "모습",
+          "weight": 9.0
+        },
+        {
+          "word": "정보",
+          "weight": 9.0
+        },
+        {
+          "word": "생태",
+          "weight": 7.0
+        },
+        {
+          "word": "동물도감",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "그림",
+          "weight": 6.0
+        },
+        {
+          "word": "습성",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "도감",
+          "weight": 4.0
+        },
+        {
+          "word": "영향",
+          "weight": 4.0
+        },
+        {
+          "word": "역사",
+          "weight": 4.0
+        },
+        {
+          "word": "칼럼",
+          "weight": 4.0
+        },
+        {
+          "word": "도마뱀붙이",
+          "weight": 3.0
+        },
+        {
+          "word": "독특",
+          "weight": 3.0
+        },
+        {
+          "word": "사실",
+          "weight": 3.0
+        },
+        {
+          "word": "생물",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "등각류",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "붉은개복치",
+          "weight": 2.0
+        },
+        {
+          "word": "상태",
+          "weight": 2.0
+        },
+        {
+          "word": "딱새",
+          "weight": 2.0
+        },
+        {
+          "word": "때까치",
+          "weight": 2.0
+        },
+        {
+          "word": "발행",
+          "weight": 2.0
+        },
+        {
+          "word": "리얼",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "극도",
+          "weight": 2.0
+        },
+        {
+          "word": "생명체",
+          "weight": 2.0
+        },
+        {
+          "word": "40종",
+          "weight": 2.0
+        },
+        {
+          "word": "가면올빼미",
+          "weight": 2.0
+        },
+        {
+          "word": "비밀",
+          "weight": 2.0
+        },
+        {
+          "word": "새끼",
+          "weight": 2.0
+        },
+        {
+          "word": "결정",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "물질",
+          "weight": 2.0
+        },
+        {
+          "word": "기괴",
+          "weight": 2.0
+        },
+        {
+          "word": "뱀장어",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "넓적부리황새",
+          "weight": 2.0
+        },
+        {
+          "word": "누마가사 와타리",
+          "weight": 2.0
+        },
+        {
+          "word": "생명",
+          "weight": 2.0
+        }
+      ],
+      "description": "독특한 도감이 넘쳐 나는 일본에서 초판 발행 직후 4만 부 이상 판매된 동물도감으로, 우리가 몰랐던 ‘진짜 리얼한’ 동물들의 모습을 담았다. 어딘가 이상하고, 특별한 습성을 가진 총 40종의 동물에 대해 가장 흥미로운 정보들을 모은 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(이럴수가!) 왠지 이상한 멸종 동물도감 :우리는 멸종했습니다. ",
+          "isbn13": "9791164131471",
+          "authors": "지은이: 누마가사 와타리 ;옮긴이: 신은주"
+        },
+        {
+          "bookname": "(의외로 유쾌한) 생물도감 ",
+          "isbn13": "9788934995302",
+          "authors": "누마가사 와타리 글·그림 ;타카모리 마쓰미 옮김"
+        },
+        {
+          "bookname": "이유가 있어서 멸종했습니다 :세상에서 가장 재미있는 멸종 동물 도감 ",
+          "isbn13": "9791189938765",
+          "authors": "글: 마루야마 다카시 ;옮김: 곽범신"
+        },
+        {
+          "bookname": "어쩌다 보니 살아남았습니다 :지구에서 사라지면 절대로 안 될 101종의 이상한 동물도감 ",
+          "isbn13": "9788965135807",
+          "authors": "글: 이마이즈미 다다아키 ;옮긴이: 이소담"
+        },
+        {
+          "bookname": "또 이유가 있어서 멸종했습니다 :고생대부터 현대까지 ",
+          "isbn13": "9791190786713",
+          "authors": "글: 마루야마 다카시 ;옮김: 허영은"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168411029",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164138425",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164137435",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791164136438",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168412279",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        }
+      ],
+      "title": "(충격주의) 왠지 이상한 동물도감",
+      "author": "글·그림: 누마가사 와타리 ;번역: 신은주",
+      "kdc_from_api": "490",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

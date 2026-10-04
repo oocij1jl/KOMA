@@ -1,0 +1,490 @@
+{
+  "isbn": "9788925550633",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9788925550633"
+          },
+          {
+            "code": "g",
+            "value": "73840"
+          },
+          {
+            "code": "c",
+            "value": "₩10000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "오싹오싹 당근"
+          },
+          {
+            "code": "b",
+            "value": "양장본 Hardcover"
+          },
+          {
+            "code": "d",
+            "value": "애런 레이놀즈 글"
+          },
+          {
+            "code": "e",
+            "value": "홍연미 옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "(주)알에이치코리아"
+          },
+          {
+            "code": "c",
+            "value": "2013"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "30 p."
+          },
+          {
+            "code": "c",
+            "value": "31 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '235*310mm'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "843"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "애런 레이놀즈"
+          },
+          {
+            "code": "e",
+            "value": "글"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인 저자를 식별하여 700에 분리 기재"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "홍연미"
+          },
+          {
+            "code": "e",
+            "value": "옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author",
+            "translation_signals"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author의 책임표시와 번역 정황을 근거로 역자를 700에 분리 기재"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "당근"
+          },
+          {
+            "code": "a",
+            "value": "토끼"
+          },
+          {
+            "code": "a",
+            "value": "영화"
+          },
+          {
+            "code": "a",
+            "value": "브라운"
+          },
+          {
+            "code": "a",
+            "value": "재스퍼"
+          },
+          {
+            "code": "a",
+            "value": "스릴러"
+          },
+          {
+            "code": "a",
+            "value": "피터"
+          },
+          {
+            "code": "a",
+            "value": "고전"
+          },
+          {
+            "code": "a",
+            "value": "그림책"
+          },
+          {
+            "code": "a",
+            "value": "유쾌"
+          },
+          {
+            "code": "a",
+            "value": "분위기"
+          },
+          {
+            "code": "a",
+            "value": "마지막"
+          },
+          {
+            "code": "a",
+            "value": "아너"
+          },
+          {
+            "code": "a",
+            "value": "그림"
+          },
+          {
+            "code": "a",
+            "value": "장면"
+          },
+          {
+            "code": "a",
+            "value": "칼데콧"
+          },
+          {
+            "code": "a",
+            "value": "느낌"
+          },
+          {
+            "code": "a",
+            "value": "반전"
+          },
+          {
+            "code": "a",
+            "value": "구성"
+          },
+          {
+            "code": "a",
+            "value": "독자"
+          },
+          {
+            "code": "a",
+            "value": "주인공"
+          },
+          {
+            "code": "a",
+            "value": "캐릭터"
+          },
+          {
+            "code": "a",
+            "value": "그린"
+          },
+          {
+            "code": "a",
+            "value": "베스트셀러"
+          },
+          {
+            "code": "a",
+            "value": "뉴욕타임스"
+          },
+          {
+            "code": "a",
+            "value": "TV"
+          },
+          {
+            "code": "a",
+            "value": "열정"
+          },
+          {
+            "code": "a",
+            "value": "흑백영화"
+          },
+          {
+            "code": "a",
+            "value": "쇼프"
+          },
+          {
+            "code": "a",
+            "value": "그대"
+          },
+          {
+            "code": "a",
+            "value": "노력"
+          },
+          {
+            "code": "a",
+            "value": "채색"
+          },
+          {
+            "code": "a",
+            "value": "웃음"
+          },
+          {
+            "code": "a",
+            "value": "예전"
+          },
+          {
+            "code": "a",
+            "value": "아주"
+          },
+          {
+            "code": "a",
+            "value": "애런"
+          },
+          {
+            "code": "a",
+            "value": "영감"
+          },
+          {
+            "code": "a",
+            "value": "연상"
+          },
+          {
+            "code": "a",
+            "value": "연필"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description"
+          ],
+          "keywords_used": [
+            "당근",
+            "오싹오싹 당근",
+            "토끼",
+            "영화",
+            "브라운",
+            "재스퍼",
+            "스릴러",
+            "피터",
+            "고전",
+            "그림책",
+            "유쾌",
+            "분위기",
+            "마지막",
+            "아너",
+            "그림",
+            "장면",
+            "칼데콧",
+            "느낌",
+            "반전",
+            "구성",
+            "독자",
+            "주인공",
+            "캐릭터",
+            "그린",
+            "베스트셀러",
+            "뉴욕타임스",
+            "TV",
+            "열정",
+            "흑백영화",
+            "쇼프",
+            "그대",
+            "노력",
+            "채색",
+            "웃음",
+            "예전",
+            "아주",
+            "애런",
+            "영감",
+            "연상",
+            "연필"
+          ],
+          "reasoning": "가중치 상위 키워드를 의미 변경 없이 최소 정제하여 653 비통제 색인어로 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "영미문학"
+          },
+          {
+            "code": "a",
+            "value": "아동문학"
+          },
+          {
+            "code": "a",
+            "value": "영미동화"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 843, ISBN 부가기호 73840에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역 정황은 있으나 원저작 언어 h 근거 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "원저자명 원표제 등 일반주기 근거 부족"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론 — 반드시 검수",
+      "700 역자와 저자 분리는 사서 검수 필요"
+    ]
+  },
+  "generated_at": "2026-10-04T00:10:16.264268+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791159096174",
+  "captured_at": "2026-10-03T00:12:54.276792+09:00",
+  "lookup": {
+    "isbn": "9791159096174",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159096174",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "어쩌다 어른",
+      "subtitle": "",
+      "author": "어쩌다 어른 제작팀 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "교보문고",
+      "publish_year": "2017",
+      "publish_predate": "20170910",
+      "kdc": "041",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 일반 논문집 > 한국어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "260 p.",
+      "book_size": "140*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "어쩌다 보니 어른이 된 청춘들을 위한 인생 특강쇼인 《OtvN 프리미엄 특강쇼 어쩌다 어른》속 강연 중 특별히 화제가 되었던 강연을 선별해 정리했다. 다양한 지식을 각 분야의 전문가들이 쉽고 재미있게 풀어내어 사람들의 회환과 고민을 주고받으며 위로한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "어른",
+          "weight": 48.0
+        },
+        {
+          "word": "지식",
+          "weight": 23.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 9.0
+        },
+        {
+          "word": "세상",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 8.0
+        },
+        {
+          "word": "특강쇼",
+          "weight": 8.0
+        },
+        {
+          "word": "김경",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "김대식",
+          "weight": 7.0
+        },
+        {
+          "word": "필요",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "강연",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 6.0
+        },
+        {
+          "word": "김대수",
+          "weight": 6.0
+        },
+        {
+          "word": "프리미엄",
+          "weight": 5.0
+        },
+        {
+          "word": "서민",
+          "weight": 5.0
+        },
+        {
+          "word": "기대",
+          "weight": 5.0
+        },
+        {
+          "word": "중이",
+          "weight": 5.0
+        },
+        {
+          "word": "양재진",
+          "weight": 5.0
+        },
+        {
+          "word": "김미경",
+          "weight": 5.0
+        },
+        {
+          "word": "심리학",
+          "weight": 5.0
+        },
+        {
+          "word": "김범준",
+          "weight": 5.0
+        },
+        {
+          "word": "심용환",
+          "weight": 5.0
+        },
+        {
+          "word": "지식인",
+          "weight": 5.0
+        },
+        {
+          "word": "문성욱",
+          "weight": 5.0
+        },
+        {
+          "word": "전달",
+          "weight": 5.0
+        },
+        {
+          "word": "의미",
+          "weight": 5.0
+        },
+        {
+          "word": "과학",
+          "weight": 5.0
+        },
+        {
+          "word": "청춘",
+          "weight": 4.0
+        },
+        {
+          "word": "커뮤니케이터",
+          "weight": 4.0
+        },
+        {
+          "word": "충족",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "교수",
+          "weight": 4.0
+        },
+        {
+          "word": "OtvN",
+          "weight": 4.0
+        },
+        {
+          "word": "현실",
+          "weight": 4.0
+        },
+        {
+          "word": "의학",
+          "weight": 4.0
+        },
+        {
+          "word": "계획",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "분야",
+          "weight": 4.0
+        },
+        {
+          "word": "일상",
+          "weight": 4.0
+        },
+        {
+          "word": "저서",
+          "weight": 4.0
+        },
+        {
+          "word": "정보",
+          "weight": 4.0
+        },
+        {
+          "word": "80세인",
+          "weight": 3.0
+        },
+        {
+          "word": "반절",
+          "weight": 3.0
+        },
+        {
+          "word": "공저",
+          "weight": 3.0
+        },
+        {
+          "word": "보고",
+          "weight": 3.0
+        }
+      ],
+      "description": "어쩌다 보니 어른이 된 청춘들을 위한 인생 특강쇼인 《OtvN 프리미엄 특강쇼 어쩌다 어른》속 강연 중 특별히 화제가 되었던 강연을 선별해 정리했다. 다양한 지식을 각 분야의 전문가들이 쉽고 재미있게 풀어내어 사람들의 회환과 고민을 주고받으며 위로한다.",
+      "co_loan_books": [
+        {
+          "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼",
+          "isbn13": "9791159096396",
+          "authors": "<어쩌다 어른> 제작팀 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤흔든 역사",
+          "isbn13": "9791159095887",
+          "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,최태성"
+        },
+        {
+          "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤바꾼 인물",
+          "isbn13": "9791159095894",
+          "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,조한욱"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "어쩌다 어른",
+      "author": "어쩌다 어른 제작팀 지음",
+      "kdc_from_api": "041",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "어쩌다 어른",
+        "author": "어쩌다 어른 제작팀 지음",
+        "publisher": "교보문고",
+        "publish_predate": "20170910",
+        "isbn": "9791159096174",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "257 p.",
+        "book_size": "140*215",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "어쩌다 어른 :OtvN 프리미엄 특강쇼 ",
+        "author": "<어쩌다 어른> 제작팀 지음",
+        "publisher": "교보문고",
+        "publish_year": "2017",
+        "isbn": "1159096171",
+        "isbn13": "9791159096174",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "041",
+        "class_nm": "총류 > 일반 논문집 > 한국어",
+        "description": "어쩌다 보니 어른이 된 청춘들을 위한 인생 특강쇼인 《OtvN 프리미엄 특강쇼 어쩌다 어른》속 강연 중 특별히 화제가 되었던 강연을 선별해 정리했다. 다양한 지식을 각 분야의 전문가들이 쉽고 재미있게 풀어내어 사람들의 회환과 고민을 주고받으며 위로한다.",
+        "cover_url": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "어른",
+            "weight": 48.0
+          },
+          {
+            "word": "지식",
+            "weight": 23.0
+          },
+          {
+            "word": "사람",
+            "weight": 15.0
+          },
+          {
+            "word": "대한민국",
+            "weight": 9.0
+          },
+          {
+            "word": "세상",
+            "weight": 9.0
+          },
+          {
+            "word": "철학",
+            "weight": 8.0
+          },
+          {
+            "word": "특강쇼",
+            "weight": 8.0
+          },
+          {
+            "word": "김경",
+            "weight": 7.0
+          },
+          {
+            "word": "인생",
+            "weight": 7.0
+          },
+          {
+            "word": "김대식",
+            "weight": 7.0
+          },
+          {
+            "word": "필요",
+            "weight": 7.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "강연",
+            "weight": 6.0
+          },
+          {
+            "word": "역사",
+            "weight": 6.0
+          },
+          {
+            "word": "김대수",
+            "weight": 6.0
+          },
+          {
+            "word": "프리미엄",
+            "weight": 5.0
+          },
+          {
+            "word": "서민",
+            "weight": 5.0
+          },
+          {
+            "word": "기대",
+            "weight": 5.0
+          },
+          {
+            "word": "중이",
+            "weight": 5.0
+          },
+          {
+            "word": "양재진",
+            "weight": 5.0
+          },
+          {
+            "word": "김미경",
+            "weight": 5.0
+          },
+          {
+            "word": "심리학",
+            "weight": 5.0
+          },
+          {
+            "word": "김범준",
+            "weight": 5.0
+          },
+          {
+            "word": "심용환",
+            "weight": 5.0
+          },
+          {
+            "word": "지식인",
+            "weight": 5.0
+          },
+          {
+            "word": "문성욱",
+            "weight": 5.0
+          },
+          {
+            "word": "전달",
+            "weight": 5.0
+          },
+          {
+            "word": "의미",
+            "weight": 5.0
+          },
+          {
+            "word": "과학",
+            "weight": 5.0
+          },
+          {
+            "word": "청춘",
+            "weight": 4.0
+          },
+          {
+            "word": "커뮤니케이터",
+            "weight": 4.0
+          },
+          {
+            "word": "충족",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "교수",
+            "weight": 4.0
+          },
+          {
+            "word": "OtvN",
+            "weight": 4.0
+          },
+          {
+            "word": "현실",
+            "weight": 4.0
+          },
+          {
+            "word": "의학",
+            "weight": 4.0
+          },
+          {
+            "word": "계획",
+            "weight": 4.0
+          },
+          {
+            "word": "고민",
+            "weight": 4.0
+          },
+          {
+            "word": "교양 인문학",
+            "weight": 4.0
+          },
+          {
+            "word": "사랑",
+            "weight": 4.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "분야",
+            "weight": 4.0
+          },
+          {
+            "word": "일상",
+            "weight": 4.0
+          },
+          {
+            "word": "저서",
+            "weight": 4.0
+          },
+          {
+            "word": "정보",
+            "weight": 4.0
+          },
+          {
+            "word": "80세인",
+            "weight": 3.0
+          },
+          {
+            "word": "반절",
+            "weight": 3.0
+          },
+          {
+            "word": "공저",
+            "weight": 3.0
+          },
+          {
+            "word": "보고",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼",
+            "isbn13": "9791159096396",
+            "authors": "<어쩌다 어른> 제작팀 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤흔든 역사",
+            "isbn13": "9791159095887",
+            "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,최태성"
+          },
+          {
+            "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤바꾼 인물",
+            "isbn13": "9791159095894",
+            "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,조한욱"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "어쩌다 어른"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001775740",
+        "title": "OtvN 프리미엄 특강쇼 어쩌다 어른",
+        "subtitle": "",
+        "page": "260 p.",
+        "book_size": "144*216mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791159096174",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159096174",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "어쩌다 어른",
+      "subtitle": "",
+      "author": "어쩌다 어른 제작팀 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "교보문고",
+      "publish_year": "2017",
+      "publish_predate": "20170910",
+      "kdc": "041",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 일반 논문집 > 한국어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "260 p.",
+      "book_size": "140*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "어쩌다 보니 어른이 된 청춘들을 위한 인생 특강쇼인 《OtvN 프리미엄 특강쇼 어쩌다 어른》속 강연 중 특별히 화제가 되었던 강연을 선별해 정리했다. 다양한 지식을 각 분야의 전문가들이 쉽고 재미있게 풀어내어 사람들의 회환과 고민을 주고받으며 위로한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/11783/11/cover/k742531124_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "어른",
+          "weight": 48.0
+        },
+        {
+          "word": "지식",
+          "weight": 23.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 9.0
+        },
+        {
+          "word": "세상",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 8.0
+        },
+        {
+          "word": "특강쇼",
+          "weight": 8.0
+        },
+        {
+          "word": "김경",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "김대식",
+          "weight": 7.0
+        },
+        {
+          "word": "필요",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "강연",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 6.0
+        },
+        {
+          "word": "김대수",
+          "weight": 6.0
+        },
+        {
+          "word": "프리미엄",
+          "weight": 5.0
+        },
+        {
+          "word": "서민",
+          "weight": 5.0
+        },
+        {
+          "word": "기대",
+          "weight": 5.0
+        },
+        {
+          "word": "중이",
+          "weight": 5.0
+        },
+        {
+          "word": "양재진",
+          "weight": 5.0
+        },
+        {
+          "word": "김미경",
+          "weight": 5.0
+        },
+        {
+          "word": "심리학",
+          "weight": 5.0
+        },
+        {
+          "word": "김범준",
+          "weight": 5.0
+        },
+        {
+          "word": "심용환",
+          "weight": 5.0
+        },
+        {
+          "word": "지식인",
+          "weight": 5.0
+        },
+        {
+          "word": "문성욱",
+          "weight": 5.0
+        },
+        {
+          "word": "전달",
+          "weight": 5.0
+        },
+        {
+          "word": "의미",
+          "weight": 5.0
+        },
+        {
+          "word": "과학",
+          "weight": 5.0
+        },
+        {
+          "word": "청춘",
+          "weight": 4.0
+        },
+        {
+          "word": "커뮤니케이터",
+          "weight": 4.0
+        },
+        {
+          "word": "충족",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "교수",
+          "weight": 4.0
+        },
+        {
+          "word": "OtvN",
+          "weight": 4.0
+        },
+        {
+          "word": "현실",
+          "weight": 4.0
+        },
+        {
+          "word": "의학",
+          "weight": 4.0
+        },
+        {
+          "word": "계획",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "분야",
+          "weight": 4.0
+        },
+        {
+          "word": "일상",
+          "weight": 4.0
+        },
+        {
+          "word": "저서",
+          "weight": 4.0
+        },
+        {
+          "word": "정보",
+          "weight": 4.0
+        },
+        {
+          "word": "80세인",
+          "weight": 3.0
+        },
+        {
+          "word": "반절",
+          "weight": 3.0
+        },
+        {
+          "word": "공저",
+          "weight": 3.0
+        },
+        {
+          "word": "보고",
+          "weight": 3.0
+        }
+      ],
+      "description": "어쩌다 보니 어른이 된 청춘들을 위한 인생 특강쇼인 《OtvN 프리미엄 특강쇼 어쩌다 어른》속 강연 중 특별히 화제가 되었던 강연을 선별해 정리했다. 다양한 지식을 각 분야의 전문가들이 쉽고 재미있게 풀어내어 사람들의 회환과 고민을 주고받으며 위로한다.",
+      "co_loan_books": [
+        {
+          "bookname": "어쩌다 어른 :OtvN 프리미엄 특강쇼",
+          "isbn13": "9791159096396",
+          "authors": "<어쩌다 어른> 제작팀 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤흔든 역사",
+          "isbn13": "9791159095887",
+          "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,최태성"
+        },
+        {
+          "bookname": "벌거벗은 세계사 :벗겼다, 세상을 뒤바꾼 인물",
+          "isbn13": "9791159095894",
+          "authors": "지은이: tvN <벌거벗은 세계사> 제작팀,조한욱"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "어쩌다 어른",
+      "author": "어쩌다 어른 제작팀 지음",
+      "kdc_from_api": "041",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

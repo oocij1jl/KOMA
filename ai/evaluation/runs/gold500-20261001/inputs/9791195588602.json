@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791195588602",
+  "captured_at": "2026-10-02T00:12:23.022793+09:00",
+  "lookup": {
+    "isbn": "9791195588602",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195588602",
+      "isbn_add_code": "77870",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "42가지 마음의 색깔",
+      "subtitle": "감정을 표현하는 법을 배워요",
+      "author": "크리스티나 누녜스 페레이라, 라파엘 R. 발카르셀",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "레드스톤[(주)북파크]",
+      "publish_year": "2015",
+      "publish_predate": "20150805",
+      "kdc": "181",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "92 p.",
+      "book_size": "232*248mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "42가지 감정의 이름과 각 감정에 대한 설명글, 감정을 표현한 42점의 그림 작품으로 구성되어 있다. 순서는 아이들에게 친숙한 '포근함'으로 시작해서 따뜻한 '사랑'으로, 사랑의 반대 감정인 '미움'으로, 미움이 커진 '화'로 이어지고, 다양한 감정의 여행 마지막에선 '감사'를 이야기한다.",
+      "control_no": "CIP2015020677",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "감정",
+          "weight": 16.0
+        },
+        {
+          "word": "표현",
+          "weight": 9.0
+        },
+        {
+          "word": "아이들",
+          "weight": 8.0
+        },
+        {
+          "word": "미움",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "여행",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "감사",
+          "weight": 4.0
+        },
+        {
+          "word": "엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "언어",
+          "weight": 3.0
+        },
+        {
+          "word": "포근함",
+          "weight": 3.0
+        },
+        {
+          "word": "스페인",
+          "weight": 3.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "남진희",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스티나 누녜스 페레이라",
+          "weight": 2.0
+        },
+        {
+          "word": "당황",
+          "weight": 2.0
+        },
+        {
+          "word": "정도",
+          "weight": 2.0
+        },
+        {
+          "word": "창작그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "감정교과서가",
+          "weight": 2.0
+        },
+        {
+          "word": "42가지",
+          "weight": 2.0
+        },
+        {
+          "word": "북파크",
+          "weight": 2.0
+        },
+        {
+          "word": "반대",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "출판",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 1.0
+        },
+        {
+          "word": "문헌정보학",
+          "weight": 1.0
+        },
+        {
+          "word": "3세",
+          "weight": 1.0
+        },
+        {
+          "word": "몰이해",
+          "weight": 1.0
+        },
+        {
+          "word": "따분",
+          "weight": 1.0
+        },
+        {
+          "word": "라파엘",
+          "weight": 1.0
+        },
+        {
+          "word": "만족",
+          "weight": 1.0
+        },
+        {
+          "word": "5세",
+          "weight": 1.0
+        },
+        {
+          "word": "만일",
+          "weight": 1.0
+        },
+        {
+          "word": "5가지",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "그럴까",
+          "weight": 1.0
+        },
+        {
+          "word": "그리움",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "긴장",
+          "weight": 1.0
+        },
+        {
+          "word": "깨달음",
+          "weight": 1.0
+        },
+        {
+          "word": "갖가지",
+          "weight": 1.0
+        },
+        {
+          "word": "남편",
+          "weight": 1.0
+        },
+        {
+          "word": "기회",
+          "weight": 1.0
+        },
+        {
+          "word": "감탄",
+          "weight": 1.0
+        },
+        {
+          "word": "감정인",
+          "weight": 1.0
+        }
+      ],
+      "description": "42가지 감정의 이름과 각 감정에 대한 설명글, 감정을 표현한 42점의 그림 작품으로 구성되어 있다. 순서는 아이들에게 친숙한 '포근함'으로 시작해서 따뜻한 '사랑'으로, 사랑의 반대 감정인 '미움'으로, 미움이 커진 '화'로 이어지고, 다양한 감정의 여행 마지막에선 '감사'를 이야기한다.",
+      "co_loan_books": [
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "42가지 마음의 색깔",
+          "isbn13": "9791195196685",
+          "authors": "지은이: 크리스티나 누녜스 페레이라 ;옮긴이: 김유경"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "오늘 내 기분은… ",
+          "isbn13": "9788967493349",
+          "authors": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+          "isbn13": "9788962477290",
+          "authors": "글·그림: 고상미"
+        },
+        {
+          "bookname": "선생님, 바보 의사 선생님",
+          "isbn13": "9788901055190",
+          "authors": "이상희 글;김명길 그림"
+        }
+      ],
+      "title": "42가지 마음의 색깔",
+      "author": "크리스티나 누녜스 페레이라, 라파엘 R. 발카르셀",
+      "kdc_from_api": "181",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "42가지 마음의 색깔",
+        "author": "크리스티나 누녜스 페레이라, 라파엘 R. 발카르셀",
+        "publisher": "레드스톤[(주)북파크]",
+        "publish_predate": "20150805",
+        "isbn": "9791195588602",
+        "isbn_add_code": "77870",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "181",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015020677",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "42가지 마음의 색깔 ",
+        "author": "지은이: 크리스티나 누녜스 페레이라,옮긴이: 남진희",
+        "publisher": "북파크",
+        "publish_year": "2015",
+        "isbn": "1195588607",
+        "isbn13": "9791195588602",
+        "isbn_add_code": "77870",
+        "volume": "",
+        "class_no": "181",
+        "class_nm": "철학 > 심리학 > 각론",
+        "description": "42가지 감정의 이름과 각 감정에 대한 설명글, 감정을 표현한 42점의 그림 작품으로 구성되어 있다. 순서는 아이들에게 친숙한 '포근함'으로 시작해서 따뜻한 '사랑'으로, 사랑의 반대 감정인 '미움'으로, 미움이 커진 '화'로 이어지고, 다양한 감정의 여행 마지막에선 '감사'를 이야기한다.",
+        "cover_url": "http://image.aladin.co.kr/product/6490/30/cover/k822433340_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "감정",
+            "weight": 16.0
+          },
+          {
+            "word": "표현",
+            "weight": 9.0
+          },
+          {
+            "word": "아이들",
+            "weight": 8.0
+          },
+          {
+            "word": "미움",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "여행",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 4.0
+          },
+          {
+            "word": "감사",
+            "weight": 4.0
+          },
+          {
+            "word": "엄마",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "언어",
+            "weight": 3.0
+          },
+          {
+            "word": "포근함",
+            "weight": 3.0
+          },
+          {
+            "word": "스페인",
+            "weight": 3.0
+          },
+          {
+            "word": "어른",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "남진희",
+            "weight": 2.0
+          },
+          {
+            "word": "크리스티나 누녜스 페레이라",
+            "weight": 2.0
+          },
+          {
+            "word": "당황",
+            "weight": 2.0
+          },
+          {
+            "word": "정도",
+            "weight": 2.0
+          },
+          {
+            "word": "창작그림책",
+            "weight": 2.0
+          },
+          {
+            "word": "감정교과서가",
+            "weight": 2.0
+          },
+          {
+            "word": "42가지",
+            "weight": 2.0
+          },
+          {
+            "word": "북파크",
+            "weight": 2.0
+          },
+          {
+            "word": "반대",
+            "weight": 2.0
+          },
+          {
+            "word": "사용",
+            "weight": 2.0
+          },
+          {
+            "word": "출판",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 1.0
+          },
+          {
+            "word": "문헌정보학",
+            "weight": 1.0
+          },
+          {
+            "word": "3세",
+            "weight": 1.0
+          },
+          {
+            "word": "몰이해",
+            "weight": 1.0
+          },
+          {
+            "word": "따분",
+            "weight": 1.0
+          },
+          {
+            "word": "라파엘",
+            "weight": 1.0
+          },
+          {
+            "word": "만족",
+            "weight": 1.0
+          },
+          {
+            "word": "5세",
+            "weight": 1.0
+          },
+          {
+            "word": "만일",
+            "weight": 1.0
+          },
+          {
+            "word": "5가지",
+            "weight": 1.0
+          },
+          {
+            "word": "희망",
+            "weight": 1.0
+          },
+          {
+            "word": "그럴까",
+            "weight": 1.0
+          },
+          {
+            "word": "그리움",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 1.0
+          },
+          {
+            "word": "기획",
+            "weight": 1.0
+          },
+          {
+            "word": "긴장",
+            "weight": 1.0
+          },
+          {
+            "word": "깨달음",
+            "weight": 1.0
+          },
+          {
+            "word": "갖가지",
+            "weight": 1.0
+          },
+          {
+            "word": "남편",
+            "weight": 1.0
+          },
+          {
+            "word": "기회",
+            "weight": 1.0
+          },
+          {
+            "word": "감탄",
+            "weight": 1.0
+          },
+          {
+            "word": "감정인",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아홉 살 마음 사전 ",
+            "isbn13": "9788936447014",
+            "authors": "박성우 글 ;김효은 그림"
+          },
+          {
+            "bookname": "42가지 마음의 색깔",
+            "isbn13": "9791195196685",
+            "authors": "지은이: 크리스티나 누녜스 페레이라 ;옮긴이: 김유경"
+          },
+          {
+            "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+            "isbn13": "9788972887683",
+            "authors": "글: 박완서 ;그림: 김세현"
+          },
+          {
+            "bookname": "아주 무서운 날 ",
+            "isbn13": "9788994368269",
+            "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+          },
+          {
+            "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+            "isbn13": "9791185173030",
+            "authors": "글: 허윤 ;그림: 윤희동"
+          },
+          {
+            "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+            "isbn13": "9791159950179",
+            "authors": "글·그림: 김유경 ;Hannah Chung"
+          },
+          {
+            "bookname": "오늘 내 기분은… ",
+            "isbn13": "9788967493349",
+            "authors": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미"
+          },
+          {
+            "bookname": "나는 나의 주인 ",
+            "isbn13": "9788964960035",
+            "authors": "채인선 글 ;안은진 그림"
+          },
+          {
+            "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+            "isbn13": "9788962477290",
+            "authors": "글·그림: 고상미"
+          },
+          {
+            "bookname": "선생님, 바보 의사 선생님",
+            "isbn13": "9788901055190",
+            "authors": "이상희 글;김명길 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "42가지 마음의 색깔"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001964631",
+        "title": "42가지 마음의 색깔",
+        "subtitle": "감정을 표현하는 법을 배워요",
+        "page": "92 p.",
+        "book_size": "232*248mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791195588602",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195588602",
+      "isbn_add_code": "77870",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "42가지 마음의 색깔",
+      "subtitle": "감정을 표현하는 법을 배워요",
+      "author": "크리스티나 누녜스 페레이라, 라파엘 R. 발카르셀",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "레드스톤[(주)북파크]",
+      "publish_year": "2015",
+      "publish_predate": "20150805",
+      "kdc": "181",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "92 p.",
+      "book_size": "232*248mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "42가지 감정의 이름과 각 감정에 대한 설명글, 감정을 표현한 42점의 그림 작품으로 구성되어 있다. 순서는 아이들에게 친숙한 '포근함'으로 시작해서 따뜻한 '사랑'으로, 사랑의 반대 감정인 '미움'으로, 미움이 커진 '화'로 이어지고, 다양한 감정의 여행 마지막에선 '감사'를 이야기한다.",
+      "control_no": "CIP2015020677",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4768596_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "감정",
+          "weight": 16.0
+        },
+        {
+          "word": "표현",
+          "weight": 9.0
+        },
+        {
+          "word": "아이들",
+          "weight": 8.0
+        },
+        {
+          "word": "미움",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "여행",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "감사",
+          "weight": 4.0
+        },
+        {
+          "word": "엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "언어",
+          "weight": 3.0
+        },
+        {
+          "word": "포근함",
+          "weight": 3.0
+        },
+        {
+          "word": "스페인",
+          "weight": 3.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "남진희",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스티나 누녜스 페레이라",
+          "weight": 2.0
+        },
+        {
+          "word": "당황",
+          "weight": 2.0
+        },
+        {
+          "word": "정도",
+          "weight": 2.0
+        },
+        {
+          "word": "창작그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "감정교과서가",
+          "weight": 2.0
+        },
+        {
+          "word": "42가지",
+          "weight": 2.0
+        },
+        {
+          "word": "북파크",
+          "weight": 2.0
+        },
+        {
+          "word": "반대",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "출판",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 1.0
+        },
+        {
+          "word": "문헌정보학",
+          "weight": 1.0
+        },
+        {
+          "word": "3세",
+          "weight": 1.0
+        },
+        {
+          "word": "몰이해",
+          "weight": 1.0
+        },
+        {
+          "word": "따분",
+          "weight": 1.0
+        },
+        {
+          "word": "라파엘",
+          "weight": 1.0
+        },
+        {
+          "word": "만족",
+          "weight": 1.0
+        },
+        {
+          "word": "5세",
+          "weight": 1.0
+        },
+        {
+          "word": "만일",
+          "weight": 1.0
+        },
+        {
+          "word": "5가지",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "그럴까",
+          "weight": 1.0
+        },
+        {
+          "word": "그리움",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "긴장",
+          "weight": 1.0
+        },
+        {
+          "word": "깨달음",
+          "weight": 1.0
+        },
+        {
+          "word": "갖가지",
+          "weight": 1.0
+        },
+        {
+          "word": "남편",
+          "weight": 1.0
+        },
+        {
+          "word": "기회",
+          "weight": 1.0
+        },
+        {
+          "word": "감탄",
+          "weight": 1.0
+        },
+        {
+          "word": "감정인",
+          "weight": 1.0
+        }
+      ],
+      "description": "42가지 감정의 이름과 각 감정에 대한 설명글, 감정을 표현한 42점의 그림 작품으로 구성되어 있다. 순서는 아이들에게 친숙한 '포근함'으로 시작해서 따뜻한 '사랑'으로, 사랑의 반대 감정인 '미움'으로, 미움이 커진 '화'로 이어지고, 다양한 감정의 여행 마지막에선 '감사'를 이야기한다.",
+      "co_loan_books": [
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "42가지 마음의 색깔",
+          "isbn13": "9791195196685",
+          "authors": "지은이: 크리스티나 누녜스 페레이라 ;옮긴이: 김유경"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "오늘 내 기분은… ",
+          "isbn13": "9788967493349",
+          "authors": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+          "isbn13": "9788962477290",
+          "authors": "글·그림: 고상미"
+        },
+        {
+          "bookname": "선생님, 바보 의사 선생님",
+          "isbn13": "9788901055190",
+          "authors": "이상희 글;김명길 그림"
+        }
+      ],
+      "title": "42가지 마음의 색깔",
+      "author": "크리스티나 누녜스 페레이라, 라파엘 R. 발카르셀",
+      "kdc_from_api": "181",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

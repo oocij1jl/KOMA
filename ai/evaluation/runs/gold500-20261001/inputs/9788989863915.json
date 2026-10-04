@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788989863915",
+  "captured_at": "2026-10-04T00:11:18.470565+09:00",
+  "lookup": {
+    "isbn": "9788989863915",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788989863915",
+      "isbn_add_code": "74830",
+      "set_isbn": "9788989863922",
+      "set_add_code": "74830 ",
+      "set_expression": "(세트)",
+      "price": "₩9500",
+      "title": "지하 100층짜리 집",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북뱅크",
+      "publish_year": "2011",
+      "publish_predate": "20110125",
+      "kdc": "833.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "216*301mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "기발한 상상력이 돋보이는 색다른 감각의 숫자 그림책. 각기 다른 동물들이 살고 있는 지하 10층, 20층, 30층… 이렇게 10층씩을 내려가는 사이 저절로 1에서 100까지 쉽게 익힐 수 있는 그림책이다. 등장하는 동물들의 특징을 기발한 상상력으로 그려내 읽는 재미를 한층 더 느끼게 해 준다. 또한, 그림을 통해 각 동물들의 생태까지 상세하게 알 수 있다.",
+      "control_no": "CIP2010003538",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_3_1.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "냉장고의 여름방학",
+          "weight": 3.0
+        },
+        {
+          "word": "노도새",
+          "weight": 3.0
+        },
+        {
+          "word": "동물",
+          "weight": 3.0
+        },
+        {
+          "word": "똥 똥 개똥 밥",
+          "weight": 3.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 3.0
+        },
+        {
+          "word": "그 여자의 가위",
+          "weight": 3.0
+        },
+        {
+          "word": "날지 못하는 반딧불이",
+          "weight": 3.0
+        },
+        {
+          "word": "봄이 준 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "100층짜리 집",
+          "weight": 3.0
+        },
+        {
+          "word": "이야기보따리를 훔친 호랑이",
+          "weight": 3.0
+        },
+        {
+          "word": "언제까지나 너를 사랑해",
+          "weight": 3.0
+        },
+        {
+          "word": "한국 아이태국 아이 한태",
+          "weight": 3.0
+        },
+        {
+          "word": "학교 처음 가는 날",
+          "weight": 3.0
+        },
+        {
+          "word": "북뱅크",
+          "weight": 2.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "이와이 도시오",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "김숙",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "2011년 1월",
+          "weight": 2.0
+        },
+        {
+          "word": "김하루",
+          "weight": 1.0
+        },
+        {
+          "word": "신인",
+          "weight": 1.0
+        },
+        {
+          "word": "20층",
+          "weight": 1.0
+        },
+        {
+          "word": "아이 태국",
+          "weight": 1.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "우리말",
+          "weight": 1.0
+        },
+        {
+          "word": "아이",
+          "weight": 1.0
+        },
+        {
+          "word": "10층씩",
+          "weight": 1.0
+        },
+        {
+          "word": "일본",
+          "weight": 1.0
+        },
+        {
+          "word": "읽기",
+          "weight": 1.0
+        },
+        {
+          "word": "재미",
+          "weight": 1.0
+        },
+        {
+          "word": "전문서점",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "숫자",
+          "weight": 1.0
+        },
+        {
+          "word": "소설집",
+          "weight": 1.0
+        },
+        {
+          "word": "동국대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "30층",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "교육학",
+          "weight": 1.0
+        },
+        {
+          "word": "감각",
+          "weight": 1.0
+        },
+        {
+          "word": "한태",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "모임",
+          "weight": 1.0
+        },
+        {
+          "word": "상세",
+          "weight": 1.0
+        },
+        {
+          "word": "생태",
+          "weight": 1.0
+        }
+      ],
+      "description": "기발한 상상력이 돋보이는 색다른 감각의 숫자 그림책. 각기 다른 동물들이 살고 있는 지하 10층, 20층, 30층… 이렇게 10층씩을 내려가는 사이 저절로 1에서 100까지 쉽게 익힐 수 있는 그림책이다. 등장하는 동물들의 특징을 기발한 상상력으로 그려내 읽는 재미를 한층 더 느끼게 해 준다. 또한, 그림을 통해 각 동물들의 생태까지 상세하게 알 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "바다 100층짜리 집 ",
+          "isbn13": "9788966350278",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "하늘 100층짜리 집 ",
+          "isbn13": "9788966350759",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "숲속 100층짜리 집 ",
+          "isbn13": "9788966351411",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "100층짜리 집 ",
+          "isbn13": "9788989863786",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "늪 100층짜리 집 ",
+          "isbn13": "9788966351985",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "오싹오싹 크레용! ",
+          "isbn13": "9788964964767",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        },
+        {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "isbn13": "9791158363499",
+          "authors": "윤정주"
+        },
+        {
+          "bookname": "꽁꽁꽁 캠핑 :윤정주 그림책 ",
+          "isbn13": "9791158364120",
+          "authors": "윤정주"
+        },
+        {
+          "bookname": "오싹오싹 팬티! ",
+          "isbn13": "9788964963678",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        }
+      ],
+      "title": "지하 100층짜리 집",
+      "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+      "kdc_from_api": "833.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지하 100층짜리 집",
+        "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+        "publisher": "북뱅크",
+        "publish_predate": "20110125",
+        "isbn": "9788989863915",
+        "isbn_add_code": "74830",
+        "set_isbn": "9788989863922",
+        "set_add_code": "74830 ",
+        "set_expression": "(세트)",
+        "price": "₩9500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "833.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2010003538",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_3_1.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지하 100층짜리 집 ",
+        "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+        "publisher": "북뱅크",
+        "publish_year": "2011",
+        "isbn": "8989863910",
+        "isbn13": "9788989863915",
+        "isbn_add_code": "73830",
+        "volume": "",
+        "class_no": "833.6",
+        "class_nm": "문학 > 일본문학 > 소설",
+        "description": "기발한 상상력이 돋보이는 색다른 감각의 숫자 그림책. 각기 다른 동물들이 살고 있는 지하 10층, 20층, 30층… 이렇게 10층씩을 내려가는 사이 저절로 1에서 100까지 쉽게 익힐 수 있는 그림책이다. 등장하는 동물들의 특징을 기발한 상상력으로 그려내 읽는 재미를 한층 더 느끼게 해 준다. 또한, 그림을 통해 각 동물들의 생태까지 상세하게 알 수 있다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/063/835/06383547.jpg?type=m1&udate=20150715"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "그림책",
+            "weight": 5.0
+          },
+          {
+            "word": "냉장고의 여름방학",
+            "weight": 3.0
+          },
+          {
+            "word": "노도새",
+            "weight": 3.0
+          },
+          {
+            "word": "동물",
+            "weight": 3.0
+          },
+          {
+            "word": "똥 똥 개똥 밥",
+            "weight": 3.0
+          },
+          {
+            "word": "문학동네",
+            "weight": 3.0
+          },
+          {
+            "word": "그 여자의 가위",
+            "weight": 3.0
+          },
+          {
+            "word": "날지 못하는 반딧불이",
+            "weight": 3.0
+          },
+          {
+            "word": "봄이 준 선물",
+            "weight": 3.0
+          },
+          {
+            "word": "100층짜리 집",
+            "weight": 3.0
+          },
+          {
+            "word": "이야기보따리를 훔친 호랑이",
+            "weight": 3.0
+          },
+          {
+            "word": "언제까지나 너를 사랑해",
+            "weight": 3.0
+          },
+          {
+            "word": "한국 아이태국 아이 한태",
+            "weight": 3.0
+          },
+          {
+            "word": "학교 처음 가는 날",
+            "weight": 3.0
+          },
+          {
+            "word": "북뱅크",
+            "weight": 2.0
+          },
+          {
+            "word": "상상력",
+            "weight": 2.0
+          },
+          {
+            "word": "이와이 도시오",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "김숙",
+            "weight": 2.0
+          },
+          {
+            "word": "기발",
+            "weight": 2.0
+          },
+          {
+            "word": "2011년 1월",
+            "weight": 2.0
+          },
+          {
+            "word": "김하루",
+            "weight": 1.0
+          },
+          {
+            "word": "신인",
+            "weight": 1.0
+          },
+          {
+            "word": "20층",
+            "weight": 1.0
+          },
+          {
+            "word": "아이 태국",
+            "weight": 1.0
+          },
+          {
+            "word": "애니메이션",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이",
+            "weight": 1.0
+          },
+          {
+            "word": "우리말",
+            "weight": 1.0
+          },
+          {
+            "word": "아이",
+            "weight": 1.0
+          },
+          {
+            "word": "10층씩",
+            "weight": 1.0
+          },
+          {
+            "word": "일본",
+            "weight": 1.0
+          },
+          {
+            "word": "읽기",
+            "weight": 1.0
+          },
+          {
+            "word": "재미",
+            "weight": 1.0
+          },
+          {
+            "word": "전문서점",
+            "weight": 1.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 1.0
+          },
+          {
+            "word": "숫자",
+            "weight": 1.0
+          },
+          {
+            "word": "소설집",
+            "weight": 1.0
+          },
+          {
+            "word": "동국대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "기획",
+            "weight": 1.0
+          },
+          {
+            "word": "동화책",
+            "weight": 1.0
+          },
+          {
+            "word": "등장",
+            "weight": 1.0
+          },
+          {
+            "word": "30층",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "교육학",
+            "weight": 1.0
+          },
+          {
+            "word": "감각",
+            "weight": 1.0
+          },
+          {
+            "word": "한태",
+            "weight": 1.0
+          },
+          {
+            "word": "사이",
+            "weight": 1.0
+          },
+          {
+            "word": "모임",
+            "weight": 1.0
+          },
+          {
+            "word": "상세",
+            "weight": 1.0
+          },
+          {
+            "word": "생태",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "바다 100층짜리 집 ",
+            "isbn13": "9788966350278",
+            "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+          },
+          {
+            "bookname": "하늘 100층짜리 집 ",
+            "isbn13": "9788966350759",
+            "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+          },
+          {
+            "bookname": "숲속 100층짜리 집 ",
+            "isbn13": "9788966351411",
+            "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+          },
+          {
+            "bookname": "100층짜리 집 ",
+            "isbn13": "9788989863786",
+            "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+          },
+          {
+            "bookname": "늪 100층짜리 집 ",
+            "isbn13": "9788966351985",
+            "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+          },
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "오싹오싹 크레용! ",
+            "isbn13": "9788964964767",
+            "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+          },
+          {
+            "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+            "isbn13": "9791158363499",
+            "authors": "윤정주"
+          },
+          {
+            "bookname": "꽁꽁꽁 캠핑 :윤정주 그림책 ",
+            "isbn13": "9791158364120",
+            "authors": "윤정주"
+          },
+          {
+            "bookname": "오싹오싹 팬티! ",
+            "isbn13": "9788964963678",
+            "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지하 100층짜리 집"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001434439",
+        "title": "지하 100층짜리 집",
+        "subtitle": "양장본 Hardcover",
+        "page": "32 p.",
+        "book_size": "216*301mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788989863915",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788989863915",
+      "isbn_add_code": "74830",
+      "set_isbn": "9788989863922",
+      "set_add_code": "74830 ",
+      "set_expression": "(세트)",
+      "price": "₩9500",
+      "title": "지하 100층짜리 집",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북뱅크",
+      "publish_year": "2011",
+      "publish_predate": "20110125",
+      "kdc": "833.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "32 p.",
+      "book_size": "216*301mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "기발한 상상력이 돋보이는 색다른 감각의 숫자 그림책. 각기 다른 동물들이 살고 있는 지하 10층, 20층, 30층… 이렇게 10층씩을 내려가는 사이 저절로 1에서 100까지 쉽게 익힐 수 있는 그림책이다. 등장하는 동물들의 특징을 기발한 상상력으로 그려내 읽는 재미를 한층 더 느끼게 해 준다. 또한, 그림을 통해 각 동물들의 생태까지 상세하게 알 수 있다.",
+      "control_no": "CIP2010003538",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_3_1.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2431667_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "냉장고의 여름방학",
+          "weight": 3.0
+        },
+        {
+          "word": "노도새",
+          "weight": 3.0
+        },
+        {
+          "word": "동물",
+          "weight": 3.0
+        },
+        {
+          "word": "똥 똥 개똥 밥",
+          "weight": 3.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 3.0
+        },
+        {
+          "word": "그 여자의 가위",
+          "weight": 3.0
+        },
+        {
+          "word": "날지 못하는 반딧불이",
+          "weight": 3.0
+        },
+        {
+          "word": "봄이 준 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "100층짜리 집",
+          "weight": 3.0
+        },
+        {
+          "word": "이야기보따리를 훔친 호랑이",
+          "weight": 3.0
+        },
+        {
+          "word": "언제까지나 너를 사랑해",
+          "weight": 3.0
+        },
+        {
+          "word": "한국 아이태국 아이 한태",
+          "weight": 3.0
+        },
+        {
+          "word": "학교 처음 가는 날",
+          "weight": 3.0
+        },
+        {
+          "word": "북뱅크",
+          "weight": 2.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "이와이 도시오",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "김숙",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "2011년 1월",
+          "weight": 2.0
+        },
+        {
+          "word": "김하루",
+          "weight": 1.0
+        },
+        {
+          "word": "신인",
+          "weight": 1.0
+        },
+        {
+          "word": "20층",
+          "weight": 1.0
+        },
+        {
+          "word": "아이 태국",
+          "weight": 1.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "우리말",
+          "weight": 1.0
+        },
+        {
+          "word": "아이",
+          "weight": 1.0
+        },
+        {
+          "word": "10층씩",
+          "weight": 1.0
+        },
+        {
+          "word": "일본",
+          "weight": 1.0
+        },
+        {
+          "word": "읽기",
+          "weight": 1.0
+        },
+        {
+          "word": "재미",
+          "weight": 1.0
+        },
+        {
+          "word": "전문서점",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "숫자",
+          "weight": 1.0
+        },
+        {
+          "word": "소설집",
+          "weight": 1.0
+        },
+        {
+          "word": "동국대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "30층",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "교육학",
+          "weight": 1.0
+        },
+        {
+          "word": "감각",
+          "weight": 1.0
+        },
+        {
+          "word": "한태",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "모임",
+          "weight": 1.0
+        },
+        {
+          "word": "상세",
+          "weight": 1.0
+        },
+        {
+          "word": "생태",
+          "weight": 1.0
+        }
+      ],
+      "description": "기발한 상상력이 돋보이는 색다른 감각의 숫자 그림책. 각기 다른 동물들이 살고 있는 지하 10층, 20층, 30층… 이렇게 10층씩을 내려가는 사이 저절로 1에서 100까지 쉽게 익힐 수 있는 그림책이다. 등장하는 동물들의 특징을 기발한 상상력으로 그려내 읽는 재미를 한층 더 느끼게 해 준다. 또한, 그림을 통해 각 동물들의 생태까지 상세하게 알 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "바다 100층짜리 집 ",
+          "isbn13": "9788966350278",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "하늘 100층짜리 집 ",
+          "isbn13": "9788966350759",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "숲속 100층짜리 집 ",
+          "isbn13": "9788966351411",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "100층짜리 집 ",
+          "isbn13": "9788989863786",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "늪 100층짜리 집 ",
+          "isbn13": "9788966351985",
+          "authors": "글·그림: 이와이 도시오 ;옮김: 김숙"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "오싹오싹 크레용! ",
+          "isbn13": "9788964964767",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        },
+        {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "isbn13": "9791158363499",
+          "authors": "윤정주"
+        },
+        {
+          "bookname": "꽁꽁꽁 캠핑 :윤정주 그림책 ",
+          "isbn13": "9791158364120",
+          "authors": "윤정주"
+        },
+        {
+          "bookname": "오싹오싹 팬티! ",
+          "isbn13": "9788964963678",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        }
+      ],
+      "title": "지하 100층짜리 집",
+      "author": "글·그림: 이와이 도시오 ;옮긴이: 김숙",
+      "kdc_from_api": "833.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

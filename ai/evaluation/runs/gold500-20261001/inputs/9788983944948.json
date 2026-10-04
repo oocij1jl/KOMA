@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788983944948",
+  "captured_at": "2026-10-04T00:17:50.739429+09:00",
+  "lookup": {
+    "isbn": "9788983944948",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983944948",
+      "isbn_add_code": "73860",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9000",
+      "title": "난 가끔 엄마 아빠를 버리고 싶어",
+      "subtitle": "",
+      "author": "발레리 다이르 글 ;김이정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)미래엠앤비",
+      "publish_year": "2008",
+      "publish_predate": "20081101",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "154 p.",
+      "book_size": "152*223",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "프랑스 '소르시에르 상' 및 독일 '아동 문학상' 수상작. 자신을 짐처럼 여기는 부모 곁을 떠나 고속도로 휴게소에 지내게 된 릴리의 이야기가 한편의 로드 무비처럼 속도감 있게 펼쳐진다. 반전을 거듭하는 이야기 구조로, 십대 아이들의 세상을 향한 시선과 불안, 외로움, 이율배반적인 감정들을 섬세하게 그려냈다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/275/97/cover/8983944943_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "릴리",
+          "weight": 21.0
+        },
+        {
+          "word": "부모",
+          "weight": 12.0
+        },
+        {
+          "word": "세상",
+          "weight": 10.0
+        },
+        {
+          "word": "일기",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 8.0
+        },
+        {
+          "word": "아빠",
+          "weight": 7.0
+        },
+        {
+          "word": "휴게소",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "엄마",
+          "weight": 7.0
+        },
+        {
+          "word": "소녀",
+          "weight": 7.0
+        },
+        {
+          "word": "반전",
+          "weight": 5.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 5.0
+        },
+        {
+          "word": "부모님",
+          "weight": 5.0
+        },
+        {
+          "word": "어른",
+          "weight": 5.0
+        },
+        {
+          "word": "독일",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "구조",
+          "weight": 4.0
+        },
+        {
+          "word": "혼자",
+          "weight": 4.0
+        },
+        {
+          "word": "허구",
+          "weight": 4.0
+        },
+        {
+          "word": "외로움",
+          "weight": 4.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 3.0
+        },
+        {
+          "word": "소르시에르 상",
+          "weight": 3.0
+        },
+        {
+          "word": "속도감",
+          "weight": 3.0
+        },
+        {
+          "word": "아동 문학상",
+          "weight": 3.0
+        },
+        {
+          "word": "십대",
+          "weight": 3.0
+        },
+        {
+          "word": "거짓",
+          "weight": 3.0
+        },
+        {
+          "word": "실종",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "이율배반적",
+          "weight": 3.0
+        },
+        {
+          "word": "전개",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "시선",
+          "weight": 3.0
+        },
+        {
+          "word": "솔랑쥬",
+          "weight": 2.0
+        },
+        {
+          "word": "무비",
+          "weight": 2.0
+        },
+        {
+          "word": "문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "미래M B",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "슬픔",
+          "weight": 2.0
+        },
+        {
+          "word": "당돌",
+          "weight": 2.0
+        },
+        {
+          "word": "대변",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "노트",
+          "weight": 2.0
+        },
+        {
+          "word": "소르시에르",
+          "weight": 2.0
+        },
+        {
+          "word": "괴물",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "고속도로",
+          "weight": 2.0
+        }
+      ],
+      "description": "프랑스 '소르시에르 상' 및 독일 '아동 문학상' 수상작. 자신을 짐처럼 여기는 부모 곁을 떠나 고속도로 휴게소에 지내게 된 릴리의 이야기가 한편의 로드 무비처럼 속도감 있게 펼쳐진다. 반전을 거듭하는 이야기 구조로, 십대 아이들의 세상을 향한 시선과 불안, 외로움, 이율배반적인 감정들을 섬세하게 그려냈다.",
+      "co_loan_books": [
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "기소영의 친구들 :정은주 창작동화 ",
+          "isbn13": "9791160949797",
+          "authors": "지은이: 정은주 ;그린이: 해랑"
+        },
+        {
+          "bookname": "사춘기 대 갱년기 ",
+          "isbn13": "9788968305726",
+          "authors": "제성은 글 ;이승연 그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "바꿔! ",
+          "isbn13": "9788949121819",
+          "authors": "박상기 글 ;오영은 그림"
+        },
+        {
+          "bookname": "수일이와 수일이",
+          "isbn13": "9788980408337",
+          "authors": "김우경 지음;권사우 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "열세 살의 걷기 클럽 :김혜정 창작동화 ",
+          "isbn13": "9791169811361",
+          "authors": "지은이: 김혜정 ;그린이: 김연제"
+        }
+      ],
+      "title": "난 가끔 엄마 아빠를 버리고 싶어",
+      "author": "발레리 다이르 글 ;김이정 옮김",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "난 가끔 엄마 아빠를 버리고 싶어",
+        "author": "저자 : 발레리 다이르",
+        "publisher": "(도서출판)미래엠앤비",
+        "publish_predate": "20081101",
+        "isbn": "9788983944948",
+        "isbn_add_code": "73860",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩9000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "156",
+        "book_size": "152*223",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "난 가끔 엄마 아빠를 버리고 싶어 ",
+        "author": "발레리 다이르 글 ;김이정 옮김",
+        "publisher": "미래M&B",
+        "publish_year": "2008",
+        "isbn": "8983944943",
+        "isbn13": "9788983944948",
+        "isbn_add_code": "73860",
+        "volume": "",
+        "class_no": "863",
+        "class_nm": "문학 > 프랑스문학 > 소설",
+        "description": "프랑스 '소르시에르 상' 및 독일 '아동 문학상' 수상작. 자신을 짐처럼 여기는 부모 곁을 떠나 고속도로 휴게소에 지내게 된 릴리의 이야기가 한편의 로드 무비처럼 속도감 있게 펼쳐진다. 반전을 거듭하는 이야기 구조로, 십대 아이들의 세상을 향한 시선과 불안, 외로움, 이율배반적인 감정들을 섬세하게 그려냈다.",
+        "cover_url": "http://image.aladin.co.kr/product/275/97/cover/8983944943_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "릴리",
+            "weight": 21.0
+          },
+          {
+            "word": "부모",
+            "weight": 12.0
+          },
+          {
+            "word": "세상",
+            "weight": 10.0
+          },
+          {
+            "word": "일기",
+            "weight": 9.0
+          },
+          {
+            "word": "자기",
+            "weight": 8.0
+          },
+          {
+            "word": "아빠",
+            "weight": 7.0
+          },
+          {
+            "word": "휴게소",
+            "weight": 7.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "엄마",
+            "weight": 7.0
+          },
+          {
+            "word": "소녀",
+            "weight": 7.0
+          },
+          {
+            "word": "반전",
+            "weight": 5.0
+          },
+          {
+            "word": "프랑스",
+            "weight": 5.0
+          },
+          {
+            "word": "부모님",
+            "weight": 5.0
+          },
+          {
+            "word": "어른",
+            "weight": 5.0
+          },
+          {
+            "word": "독일",
+            "weight": 4.0
+          },
+          {
+            "word": "사랑",
+            "weight": 4.0
+          },
+          {
+            "word": "구조",
+            "weight": 4.0
+          },
+          {
+            "word": "혼자",
+            "weight": 4.0
+          },
+          {
+            "word": "허구",
+            "weight": 4.0
+          },
+          {
+            "word": "외로움",
+            "weight": 4.0
+          },
+          {
+            "word": "주인",
+            "weight": 3.0
+          },
+          {
+            "word": "불안",
+            "weight": 3.0
+          },
+          {
+            "word": "사춘기",
+            "weight": 3.0
+          },
+          {
+            "word": "소르시에르 상",
+            "weight": 3.0
+          },
+          {
+            "word": "속도감",
+            "weight": 3.0
+          },
+          {
+            "word": "아동 문학상",
+            "weight": 3.0
+          },
+          {
+            "word": "십대",
+            "weight": 3.0
+          },
+          {
+            "word": "거짓",
+            "weight": 3.0
+          },
+          {
+            "word": "실종",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 3.0
+          },
+          {
+            "word": "이율배반적",
+            "weight": 3.0
+          },
+          {
+            "word": "전개",
+            "weight": 3.0
+          },
+          {
+            "word": "상상",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "시선",
+            "weight": 3.0
+          },
+          {
+            "word": "솔랑쥬",
+            "weight": 2.0
+          },
+          {
+            "word": "무비",
+            "weight": 2.0
+          },
+          {
+            "word": "문학상",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "미래M B",
+            "weight": 2.0
+          },
+          {
+            "word": "수상",
+            "weight": 2.0
+          },
+          {
+            "word": "슬픔",
+            "weight": 2.0
+          },
+          {
+            "word": "당돌",
+            "weight": 2.0
+          },
+          {
+            "word": "대변",
+            "weight": 2.0
+          },
+          {
+            "word": "누구",
+            "weight": 2.0
+          },
+          {
+            "word": "노트",
+            "weight": 2.0
+          },
+          {
+            "word": "소르시에르",
+            "weight": 2.0
+          },
+          {
+            "word": "괴물",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "고속도로",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+            "isbn13": "9788936442804",
+            "authors": "지은이: 이현 ;그린이: 오윤화"
+          },
+          {
+            "bookname": "시간 가게 ",
+            "isbn13": "9788954620260",
+            "authors": "이나영 글 ;윤정주 그림"
+          },
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "기소영의 친구들 :정은주 창작동화 ",
+            "isbn13": "9791160949797",
+            "authors": "지은이: 정은주 ;그린이: 해랑"
+          },
+          {
+            "bookname": "사춘기 대 갱년기 ",
+            "isbn13": "9788968305726",
+            "authors": "제성은 글 ;이승연 그림"
+          },
+          {
+            "bookname": "5번 레인 ",
+            "isbn13": "9788954674638",
+            "authors": "은소홀 글 ;노인경 그림"
+          },
+          {
+            "bookname": "바꿔! ",
+            "isbn13": "9788949121819",
+            "authors": "박상기 글 ;오영은 그림"
+          },
+          {
+            "bookname": "수일이와 수일이",
+            "isbn13": "9788980408337",
+            "authors": "김우경 지음;권사우 그림"
+          },
+          {
+            "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+            "isbn13": "9788954690690",
+            "authors": "어윤정 글 ;해마 그림"
+          },
+          {
+            "bookname": "열세 살의 걷기 클럽 :김혜정 창작동화 ",
+            "isbn13": "9791169811361",
+            "authors": "지은이: 김혜정 ;그린이: 김연제"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "난 가끔 엄마 아빠를 버리고 싶어"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001297613",
+        "title": "난 가끔 엄마 아빠를 버리고 싶어",
+        "subtitle": "",
+        "page": "154 p.",
+        "book_size": "152*220mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788983944948",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983944948",
+      "isbn_add_code": "73860",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9000",
+      "title": "난 가끔 엄마 아빠를 버리고 싶어",
+      "subtitle": "",
+      "author": "발레리 다이르 글 ;김이정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)미래엠앤비",
+      "publish_year": "2008",
+      "publish_predate": "20081101",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "154 p.",
+      "book_size": "152*223",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "프랑스 '소르시에르 상' 및 독일 '아동 문학상' 수상작. 자신을 짐처럼 여기는 부모 곁을 떠나 고속도로 휴게소에 지내게 된 릴리의 이야기가 한편의 로드 무비처럼 속도감 있게 펼쳐진다. 반전을 거듭하는 이야기 구조로, 십대 아이들의 세상을 향한 시선과 불안, 외로움, 이율배반적인 감정들을 섬세하게 그려냈다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/275/97/cover/8983944943_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "릴리",
+          "weight": 21.0
+        },
+        {
+          "word": "부모",
+          "weight": 12.0
+        },
+        {
+          "word": "세상",
+          "weight": 10.0
+        },
+        {
+          "word": "일기",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 8.0
+        },
+        {
+          "word": "아빠",
+          "weight": 7.0
+        },
+        {
+          "word": "휴게소",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "엄마",
+          "weight": 7.0
+        },
+        {
+          "word": "소녀",
+          "weight": 7.0
+        },
+        {
+          "word": "반전",
+          "weight": 5.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 5.0
+        },
+        {
+          "word": "부모님",
+          "weight": 5.0
+        },
+        {
+          "word": "어른",
+          "weight": 5.0
+        },
+        {
+          "word": "독일",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "구조",
+          "weight": 4.0
+        },
+        {
+          "word": "혼자",
+          "weight": 4.0
+        },
+        {
+          "word": "허구",
+          "weight": 4.0
+        },
+        {
+          "word": "외로움",
+          "weight": 4.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "사춘기",
+          "weight": 3.0
+        },
+        {
+          "word": "소르시에르 상",
+          "weight": 3.0
+        },
+        {
+          "word": "속도감",
+          "weight": 3.0
+        },
+        {
+          "word": "아동 문학상",
+          "weight": 3.0
+        },
+        {
+          "word": "십대",
+          "weight": 3.0
+        },
+        {
+          "word": "거짓",
+          "weight": 3.0
+        },
+        {
+          "word": "실종",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "이율배반적",
+          "weight": 3.0
+        },
+        {
+          "word": "전개",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "시선",
+          "weight": 3.0
+        },
+        {
+          "word": "솔랑쥬",
+          "weight": 2.0
+        },
+        {
+          "word": "무비",
+          "weight": 2.0
+        },
+        {
+          "word": "문학상",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "미래M B",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "슬픔",
+          "weight": 2.0
+        },
+        {
+          "word": "당돌",
+          "weight": 2.0
+        },
+        {
+          "word": "대변",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "노트",
+          "weight": 2.0
+        },
+        {
+          "word": "소르시에르",
+          "weight": 2.0
+        },
+        {
+          "word": "괴물",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "고속도로",
+          "weight": 2.0
+        }
+      ],
+      "description": "프랑스 '소르시에르 상' 및 독일 '아동 문학상' 수상작. 자신을 짐처럼 여기는 부모 곁을 떠나 고속도로 휴게소에 지내게 된 릴리의 이야기가 한편의 로드 무비처럼 속도감 있게 펼쳐진다. 반전을 거듭하는 이야기 구조로, 십대 아이들의 세상을 향한 시선과 불안, 외로움, 이율배반적인 감정들을 섬세하게 그려냈다.",
+      "co_loan_books": [
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "기소영의 친구들 :정은주 창작동화 ",
+          "isbn13": "9791160949797",
+          "authors": "지은이: 정은주 ;그린이: 해랑"
+        },
+        {
+          "bookname": "사춘기 대 갱년기 ",
+          "isbn13": "9788968305726",
+          "authors": "제성은 글 ;이승연 그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "바꿔! ",
+          "isbn13": "9788949121819",
+          "authors": "박상기 글 ;오영은 그림"
+        },
+        {
+          "bookname": "수일이와 수일이",
+          "isbn13": "9788980408337",
+          "authors": "김우경 지음;권사우 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "열세 살의 걷기 클럽 :김혜정 창작동화 ",
+          "isbn13": "9791169811361",
+          "authors": "지은이: 김혜정 ;그린이: 김연제"
+        }
+      ],
+      "title": "난 가끔 엄마 아빠를 버리고 싶어",
+      "author": "발레리 다이르 글 ;김이정 옮김",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

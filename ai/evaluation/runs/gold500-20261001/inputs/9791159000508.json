@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791159000508",
+  "captured_at": "2026-10-03T00:13:00.157290+09:00",
+  "lookup": {
+    "isbn": "9791159000508",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159000508",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "1일 1정리",
+      "subtitle": "100일 동안 하루 한 가지씩",
+      "author": "심지은 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "For book",
+      "publish_year": "2018",
+      "publish_predate": "20181120",
+      "kdc": "595.4",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 주택관리 및 가정설비",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "148*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "정리에도 공식이 있고 효율이 있다는 것을, 정리는 삶을 변화시킨다는 것을 10년 가까이 보고 듣고 경험한 저자의 노하우를 오롯이 담았다. 삶이 좀 가지런하게 다듬어지도록 하루에 한 가지, 불필요한 것들을 치우고 공간을 재정비하는 식으로 정리를 하다보면 내가 진짜로 무엇을 원하는지, 어떤 삶을 추구하는지 자신의 취향을 알게된다고 말한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17399/89/cover/k052534704_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "정리",
+          "weight": 30.0
+        },
+        {
+          "word": "물건",
+          "weight": 8.0
+        },
+        {
+          "word": "case",
+          "weight": 8.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "지출",
+          "weight": 6.0
+        },
+        {
+          "word": "정리력 카페",
+          "weight": 6.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 6.0
+        },
+        {
+          "word": "것들",
+          "weight": 5.0
+        },
+        {
+          "word": "고정",
+          "weight": 5.0
+        },
+        {
+          "word": "카드",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "1일1정리",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "현관",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "정리 페스티벌",
+          "weight": 3.0
+        },
+        {
+          "word": "주방",
+          "weight": 3.0
+        },
+        {
+          "word": "추억",
+          "weight": 3.0
+        },
+        {
+          "word": "포인트",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "1정리",
+          "weight": 3.0
+        },
+        {
+          "word": "하루",
+          "weight": 3.0
+        },
+        {
+          "word": "리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "우산",
+          "weight": 2.0
+        },
+        {
+          "word": "일기",
+          "weight": 2.0
+        },
+        {
+          "word": "59일간",
+          "weight": 2.0
+        },
+        {
+          "word": "장난감",
+          "weight": 2.0
+        },
+        {
+          "word": "권태기",
+          "weight": 2.0
+        },
+        {
+          "word": "그릇",
+          "weight": 2.0
+        },
+        {
+          "word": "정리법",
+          "weight": 2.0
+        },
+        {
+          "word": "신발장",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼핑백",
+          "weight": 2.0
+        },
+        {
+          "word": "연습",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "가계부",
+          "weight": 2.0
+        },
+        {
+          "word": "정리력",
+          "weight": 2.0
+        },
+        {
+          "word": "준비",
+          "weight": 2.0
+        },
+        {
+          "word": "거실",
+          "weight": 2.0
+        },
+        {
+          "word": "For Book",
+          "weight": 2.0
+        },
+        {
+          "word": "책상",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "실전",
+          "weight": 2.0
+        },
+        {
+          "word": "심지은",
+          "weight": 2.0
+        },
+        {
+          "word": "비닐봉투",
+          "weight": 2.0
+        },
+        {
+          "word": "제1부",
+          "weight": 2.0
+        }
+      ],
+      "description": "정리에도 공식이 있고 효율이 있다는 것을, 정리는 삶을 변화시킨다는 것을 10년 가까이 보고 듣고 경험한 저자의 노하우를 오롯이 담았다. 삶이 좀 가지런하게 다듬어지도록 하루에 한 가지, 불필요한 것들을 치우고 공간을 재정비하는 식으로 정리를 하다보면 내가 진짜로 무엇을 원하는지, 어떤 삶을 추구하는지 자신의 취향을 알게된다고 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "물건을 절대 바닥에 두지 않는다 :'하기'보다 '하지 않는' 심플한 정리 규칙 46 ",
+          "isbn13": "9791160321159",
+          "authors": "스도 마사코 지음 ;백운숙 옮김"
+        },
+        {
+          "bookname": "슬기로운 미니멀 라이프 :나에게 필요한 것은 남기고, 똑똑하게 채우는 시간 ",
+          "isbn13": "9791197333712",
+          "authors": "홍은실 지음"
+        },
+        {
+          "bookname": "최고의 인테리어는 정리입니다 :2000개의 집을 바꾼 정희숙의 정리 노하우북 ",
+          "isbn13": "9788957361030",
+          "authors": "정희숙 지음"
+        },
+        {
+          "bookname": "나에게 맞는 미니멀 라이프 :비움에 서툰 당신을 위한, 생활의 기술 ",
+          "isbn13": "9788901220765",
+          "authors": "아키 지음 ;허영은 옮김"
+        },
+        {
+          "bookname": "좋아하는 물건과 가볍게 살고 싶어 :비울수록 아름다운 밀리카의 집 ",
+          "isbn13": "9791160321197",
+          "authors": "밀리카 지음"
+        },
+        {
+          "bookname": "(돈과 시간이 쌓이는) 1일 1분 정리법 ",
+          "isbn13": "9791155361283",
+          "authors": "지은이: 고마츠 야스시 ;옮긴이: 박승희"
+        },
+        {
+          "bookname": "(싹 홀가분하게) 정리 못하는 사람을 위한 정리책 ",
+          "isbn13": "9791155361627",
+          "authors": "지은이: 와타나베 아야 ;옮긴이: 김수정"
+        },
+        {
+          "bookname": "당신의 인생을 정리해드립니다 :삶이 바뀌는 신박한 정리 ",
+          "isbn13": "9791165342333",
+          "authors": "이지영 지음"
+        },
+        {
+          "bookname": "(비교로부터 자유로운) 미니멀 라이프 =미니멀 라이프를 만난 뒤 찾아온 자유 /Minimal life ",
+          "isbn13": "9791197838460",
+          "authors": "지은이: 차지선"
+        },
+        {
+          "bookname": "1일 1개 버리기 :오늘도 버릴까 말까 망설이는 당신을 위한 특별처방전 ",
+          "isbn13": "9791155361269",
+          "authors": "지은이: 미쉘 ;옮긴이: 김수정"
+        }
+      ],
+      "title": "1일 1정리",
+      "author": "심지은 지음",
+      "kdc_from_api": "595.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "1일 1정리",
+        "author": "심지은 지음",
+        "publisher": "For book",
+        "publish_predate": "20181120",
+        "isbn": "9791159000508",
+        "isbn_add_code": "13590",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "331 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "1일 1정리 :1/1 ",
+        "author": "심지은 지음",
+        "publisher": "For Book",
+        "publish_year": "2018",
+        "isbn": "1159000506",
+        "isbn13": "9791159000508",
+        "isbn_add_code": "13590",
+        "volume": "",
+        "class_no": "595.4",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 주택관리 및 가정설비",
+        "description": "정리에도 공식이 있고 효율이 있다는 것을, 정리는 삶을 변화시킨다는 것을 10년 가까이 보고 듣고 경험한 저자의 노하우를 오롯이 담았다. 삶이 좀 가지런하게 다듬어지도록 하루에 한 가지, 불필요한 것들을 치우고 공간을 재정비하는 식으로 정리를 하다보면 내가 진짜로 무엇을 원하는지, 어떤 삶을 추구하는지 자신의 취향을 알게된다고 말한다.",
+        "cover_url": "https://image.aladin.co.kr/product/17399/89/cover/k052534704_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "정리",
+            "weight": 30.0
+          },
+          {
+            "word": "물건",
+            "weight": 8.0
+          },
+          {
+            "word": "case",
+            "weight": 8.0
+          },
+          {
+            "word": "시간",
+            "weight": 6.0
+          },
+          {
+            "word": "지출",
+            "weight": 6.0
+          },
+          {
+            "word": "정리력 카페",
+            "weight": 6.0
+          },
+          {
+            "word": "프로젝트",
+            "weight": 6.0
+          },
+          {
+            "word": "것들",
+            "weight": 5.0
+          },
+          {
+            "word": "고정",
+            "weight": 5.0
+          },
+          {
+            "word": "카드",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "1일1정리",
+            "weight": 4.0
+          },
+          {
+            "word": "가지",
+            "weight": 4.0
+          },
+          {
+            "word": "현관",
+            "weight": 4.0
+          },
+          {
+            "word": "인생",
+            "weight": 3.0
+          },
+          {
+            "word": "정리 페스티벌",
+            "weight": 3.0
+          },
+          {
+            "word": "주방",
+            "weight": 3.0
+          },
+          {
+            "word": "추억",
+            "weight": 3.0
+          },
+          {
+            "word": "포인트",
+            "weight": 3.0
+          },
+          {
+            "word": "변화",
+            "weight": 3.0
+          },
+          {
+            "word": "공간",
+            "weight": 3.0
+          },
+          {
+            "word": "1정리",
+            "weight": 3.0
+          },
+          {
+            "word": "하루",
+            "weight": 3.0
+          },
+          {
+            "word": "리스트",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 2.0
+          },
+          {
+            "word": "아주",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "우산",
+            "weight": 2.0
+          },
+          {
+            "word": "일기",
+            "weight": 2.0
+          },
+          {
+            "word": "59일간",
+            "weight": 2.0
+          },
+          {
+            "word": "장난감",
+            "weight": 2.0
+          },
+          {
+            "word": "권태기",
+            "weight": 2.0
+          },
+          {
+            "word": "그릇",
+            "weight": 2.0
+          },
+          {
+            "word": "정리법",
+            "weight": 2.0
+          },
+          {
+            "word": "신발장",
+            "weight": 2.0
+          },
+          {
+            "word": "쇼핑백",
+            "weight": 2.0
+          },
+          {
+            "word": "연습",
+            "weight": 2.0
+          },
+          {
+            "word": "방법",
+            "weight": 2.0
+          },
+          {
+            "word": "가계부",
+            "weight": 2.0
+          },
+          {
+            "word": "정리력",
+            "weight": 2.0
+          },
+          {
+            "word": "준비",
+            "weight": 2.0
+          },
+          {
+            "word": "거실",
+            "weight": 2.0
+          },
+          {
+            "word": "For Book",
+            "weight": 2.0
+          },
+          {
+            "word": "책상",
+            "weight": 2.0
+          },
+          {
+            "word": "인간관계",
+            "weight": 2.0
+          },
+          {
+            "word": "실전",
+            "weight": 2.0
+          },
+          {
+            "word": "심지은",
+            "weight": 2.0
+          },
+          {
+            "word": "비닐봉투",
+            "weight": 2.0
+          },
+          {
+            "word": "제1부",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "물건을 절대 바닥에 두지 않는다 :'하기'보다 '하지 않는' 심플한 정리 규칙 46 ",
+            "isbn13": "9791160321159",
+            "authors": "스도 마사코 지음 ;백운숙 옮김"
+          },
+          {
+            "bookname": "슬기로운 미니멀 라이프 :나에게 필요한 것은 남기고, 똑똑하게 채우는 시간 ",
+            "isbn13": "9791197333712",
+            "authors": "홍은실 지음"
+          },
+          {
+            "bookname": "최고의 인테리어는 정리입니다 :2000개의 집을 바꾼 정희숙의 정리 노하우북 ",
+            "isbn13": "9788957361030",
+            "authors": "정희숙 지음"
+          },
+          {
+            "bookname": "나에게 맞는 미니멀 라이프 :비움에 서툰 당신을 위한, 생활의 기술 ",
+            "isbn13": "9788901220765",
+            "authors": "아키 지음 ;허영은 옮김"
+          },
+          {
+            "bookname": "좋아하는 물건과 가볍게 살고 싶어 :비울수록 아름다운 밀리카의 집 ",
+            "isbn13": "9791160321197",
+            "authors": "밀리카 지음"
+          },
+          {
+            "bookname": "(돈과 시간이 쌓이는) 1일 1분 정리법 ",
+            "isbn13": "9791155361283",
+            "authors": "지은이: 고마츠 야스시 ;옮긴이: 박승희"
+          },
+          {
+            "bookname": "(싹 홀가분하게) 정리 못하는 사람을 위한 정리책 ",
+            "isbn13": "9791155361627",
+            "authors": "지은이: 와타나베 아야 ;옮긴이: 김수정"
+          },
+          {
+            "bookname": "당신의 인생을 정리해드립니다 :삶이 바뀌는 신박한 정리 ",
+            "isbn13": "9791165342333",
+            "authors": "이지영 지음"
+          },
+          {
+            "bookname": "(비교로부터 자유로운) 미니멀 라이프 =미니멀 라이프를 만난 뒤 찾아온 자유 /Minimal life ",
+            "isbn13": "9791197838460",
+            "authors": "지은이: 차지선"
+          },
+          {
+            "bookname": "1일 1개 버리기 :오늘도 버릴까 말까 망설이는 당신을 위한 특별처방전 ",
+            "isbn13": "9791155361269",
+            "authors": "지은이: 미쉘 ;옮긴이: 김수정"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "1일 1정리"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001773579",
+        "title": "1일 1정리",
+        "subtitle": "100일 동안 하루 한 가지씩",
+        "page": "336 p.",
+        "book_size": "148*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791159000508",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791159000508",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "1일 1정리",
+      "subtitle": "100일 동안 하루 한 가지씩",
+      "author": "심지은 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "For book",
+      "publish_year": "2018",
+      "publish_predate": "20181120",
+      "kdc": "595.4",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 주택관리 및 가정설비",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "148*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "정리에도 공식이 있고 효율이 있다는 것을, 정리는 삶을 변화시킨다는 것을 10년 가까이 보고 듣고 경험한 저자의 노하우를 오롯이 담았다. 삶이 좀 가지런하게 다듬어지도록 하루에 한 가지, 불필요한 것들을 치우고 공간을 재정비하는 식으로 정리를 하다보면 내가 진짜로 무엇을 원하는지, 어떤 삶을 추구하는지 자신의 취향을 알게된다고 말한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17399/89/cover/k052534704_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "정리",
+          "weight": 30.0
+        },
+        {
+          "word": "물건",
+          "weight": 8.0
+        },
+        {
+          "word": "case",
+          "weight": 8.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "지출",
+          "weight": 6.0
+        },
+        {
+          "word": "정리력 카페",
+          "weight": 6.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 6.0
+        },
+        {
+          "word": "것들",
+          "weight": 5.0
+        },
+        {
+          "word": "고정",
+          "weight": 5.0
+        },
+        {
+          "word": "카드",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "1일1정리",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "현관",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "정리 페스티벌",
+          "weight": 3.0
+        },
+        {
+          "word": "주방",
+          "weight": 3.0
+        },
+        {
+          "word": "추억",
+          "weight": 3.0
+        },
+        {
+          "word": "포인트",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "1정리",
+          "weight": 3.0
+        },
+        {
+          "word": "하루",
+          "weight": 3.0
+        },
+        {
+          "word": "리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "우산",
+          "weight": 2.0
+        },
+        {
+          "word": "일기",
+          "weight": 2.0
+        },
+        {
+          "word": "59일간",
+          "weight": 2.0
+        },
+        {
+          "word": "장난감",
+          "weight": 2.0
+        },
+        {
+          "word": "권태기",
+          "weight": 2.0
+        },
+        {
+          "word": "그릇",
+          "weight": 2.0
+        },
+        {
+          "word": "정리법",
+          "weight": 2.0
+        },
+        {
+          "word": "신발장",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼핑백",
+          "weight": 2.0
+        },
+        {
+          "word": "연습",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "가계부",
+          "weight": 2.0
+        },
+        {
+          "word": "정리력",
+          "weight": 2.0
+        },
+        {
+          "word": "준비",
+          "weight": 2.0
+        },
+        {
+          "word": "거실",
+          "weight": 2.0
+        },
+        {
+          "word": "For Book",
+          "weight": 2.0
+        },
+        {
+          "word": "책상",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "실전",
+          "weight": 2.0
+        },
+        {
+          "word": "심지은",
+          "weight": 2.0
+        },
+        {
+          "word": "비닐봉투",
+          "weight": 2.0
+        },
+        {
+          "word": "제1부",
+          "weight": 2.0
+        }
+      ],
+      "description": "정리에도 공식이 있고 효율이 있다는 것을, 정리는 삶을 변화시킨다는 것을 10년 가까이 보고 듣고 경험한 저자의 노하우를 오롯이 담았다. 삶이 좀 가지런하게 다듬어지도록 하루에 한 가지, 불필요한 것들을 치우고 공간을 재정비하는 식으로 정리를 하다보면 내가 진짜로 무엇을 원하는지, 어떤 삶을 추구하는지 자신의 취향을 알게된다고 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "물건을 절대 바닥에 두지 않는다 :'하기'보다 '하지 않는' 심플한 정리 규칙 46 ",
+          "isbn13": "9791160321159",
+          "authors": "스도 마사코 지음 ;백운숙 옮김"
+        },
+        {
+          "bookname": "슬기로운 미니멀 라이프 :나에게 필요한 것은 남기고, 똑똑하게 채우는 시간 ",
+          "isbn13": "9791197333712",
+          "authors": "홍은실 지음"
+        },
+        {
+          "bookname": "최고의 인테리어는 정리입니다 :2000개의 집을 바꾼 정희숙의 정리 노하우북 ",
+          "isbn13": "9788957361030",
+          "authors": "정희숙 지음"
+        },
+        {
+          "bookname": "나에게 맞는 미니멀 라이프 :비움에 서툰 당신을 위한, 생활의 기술 ",
+          "isbn13": "9788901220765",
+          "authors": "아키 지음 ;허영은 옮김"
+        },
+        {
+          "bookname": "좋아하는 물건과 가볍게 살고 싶어 :비울수록 아름다운 밀리카의 집 ",
+          "isbn13": "9791160321197",
+          "authors": "밀리카 지음"
+        },
+        {
+          "bookname": "(돈과 시간이 쌓이는) 1일 1분 정리법 ",
+          "isbn13": "9791155361283",
+          "authors": "지은이: 고마츠 야스시 ;옮긴이: 박승희"
+        },
+        {
+          "bookname": "(싹 홀가분하게) 정리 못하는 사람을 위한 정리책 ",
+          "isbn13": "9791155361627",
+          "authors": "지은이: 와타나베 아야 ;옮긴이: 김수정"
+        },
+        {
+          "bookname": "당신의 인생을 정리해드립니다 :삶이 바뀌는 신박한 정리 ",
+          "isbn13": "9791165342333",
+          "authors": "이지영 지음"
+        },
+        {
+          "bookname": "(비교로부터 자유로운) 미니멀 라이프 =미니멀 라이프를 만난 뒤 찾아온 자유 /Minimal life ",
+          "isbn13": "9791197838460",
+          "authors": "지은이: 차지선"
+        },
+        {
+          "bookname": "1일 1개 버리기 :오늘도 버릴까 말까 망설이는 당신을 위한 특별처방전 ",
+          "isbn13": "9791155361269",
+          "authors": "지은이: 미쉘 ;옮긴이: 김수정"
+        }
+      ],
+      "title": "1일 1정리",
+      "author": "심지은 지음",
+      "kdc_from_api": "595.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

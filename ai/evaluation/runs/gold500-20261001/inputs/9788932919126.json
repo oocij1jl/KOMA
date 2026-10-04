@@ -1,0 +1,1090 @@
+{
+  "isbn": "9788932919126",
+  "captured_at": "2026-10-04T00:12:17.653446+09:00",
+  "lookup": {
+    "isbn": "9788932919126",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932919126",
+      "isbn_add_code": "04860",
+      "set_isbn": "9788932919119",
+      "set_add_code": "04860 ",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "고양이",
+      "subtitle": "베르나르 베르베르 장편소설",
+      "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2018",
+      "publish_predate": "20180530",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "843.914",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "128*196mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "베르나르 베르베르 장편소설. 제목 그대로 주인공인 고양이의 시각에서 인간의 문명을 바라보는 작품으로, 프랑스에서는 작년 한국에서도 베스트셀러가 되었던 &lt;잠&gt;보다 높은 인기를 누렸다.",
+      "control_no": "CIP2018013778",
+      "cover_url": "https://image.aladin.co.kr/product/16597/75/cover/k312533051_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6652349_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인간",
+          "weight": 7.0
+        },
+        {
+          "word": "베르베르",
+          "weight": 5.0
+        },
+        {
+          "word": "통번역대학원",
+          "weight": 4.0
+        },
+        {
+          "word": "고양이",
+          "weight": 3.0
+        },
+        {
+          "word": "집사",
+          "weight": 3.0
+        },
+        {
+          "word": "너무 많이 아는",
+          "weight": 3.0
+        },
+        {
+          "word": "작은 철학자 시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "공역",
+          "weight": 2.0
+        },
+        {
+          "word": "과정",
+          "weight": 2.0
+        },
+        {
+          "word": "파리",
+          "weight": 2.0
+        },
+        {
+          "word": "베르나르",
+          "weight": 2.0
+        },
+        {
+          "word": "프랑스소설",
+          "weight": 2.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 2.0
+        },
+        {
+          "word": "바스테트",
+          "weight": 2.0
+        },
+        {
+          "word": "뮈소",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "전미연",
+          "weight": 2.0
+        },
+        {
+          "word": "시각",
+          "weight": 2.0
+        },
+        {
+          "word": "열린책",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스마스",
+          "weight": 2.0
+        },
+        {
+          "word": "외국",
+          "weight": 2.0
+        },
+        {
+          "word": "한국외국어대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "베르나르 베르베르",
+          "weight": 2.0
+        },
+        {
+          "word": "사르두",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "배고픔",
+          "weight": 1.0
+        },
+        {
+          "word": "번역",
+          "weight": 1.0
+        },
+        {
+          "word": "번역가",
+          "weight": 1.0
+        },
+        {
+          "word": "번역학",
+          "weight": 1.0
+        },
+        {
+          "word": "불어불문학",
+          "weight": 1.0
+        },
+        {
+          "word": "부름",
+          "weight": 1.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 1.0
+        },
+        {
+          "word": "감지",
+          "weight": 1.0
+        },
+        {
+          "word": "그대",
+          "weight": 1.0
+        },
+        {
+          "word": "TV",
+          "weight": 1.0
+        },
+        {
+          "word": "흥밋거리",
+          "weight": 1.0
+        },
+        {
+          "word": "겸임교수",
+          "weight": 1.0
+        },
+        {
+          "word": "경로",
+          "weight": 1.0
+        },
+        {
+          "word": "계획",
+          "weight": 1.0
+        },
+        {
+          "word": "고민",
+          "weight": 1.0
+        },
+        {
+          "word": "기욤",
+          "weight": 1.0
+        },
+        {
+          "word": "노통브",
+          "weight": 1.0
+        },
+        {
+          "word": "다비드",
+          "weight": 1.0
+        },
+        {
+          "word": "단지",
+          "weight": 1.0
+        },
+        {
+          "word": "당연시",
+          "weight": 1.0
+        },
+        {
+          "word": "대화",
+          "weight": 1.0
+        },
+        {
+          "word": "도입",
+          "weight": 1.0
+        },
+        {
+          "word": "두려움",
+          "weight": 1.0
+        },
+        {
+          "word": "로맹",
+          "weight": 1.0
+        },
+        {
+          "word": "리모노프",
+          "weight": 1.0
+        }
+      ],
+      "description": "베르나르 베르베르 장편소설. 제목 그대로 주인공인 고양이의 시각에서 인간의 문명을 바라보는 작품으로, 프랑스에서는 작년 한국에서도 베스트셀러가 되었던 &lt;잠&gt;보다 높은 인기를 누렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "고양이 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932919133",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "문명 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932921037",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "문명 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932921044",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "행성 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932922362",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932923413",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "행성 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932922379",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "기억 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932920337",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "죽음 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932919676",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "잠 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932918372",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932923420",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        }
+      ],
+      "title": "고양이",
+      "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+      "kdc_from_api": "863",
+      "ddc_from_api": "843.914",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "고양이",
+        "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+        "publisher": "열린책들",
+        "publish_predate": "20180530",
+        "isbn": "9788932919126",
+        "isbn_add_code": "04860",
+        "set_isbn": "9788932919119",
+        "set_add_code": "04860 ",
+        "set_expression": "",
+        "price": "₩12800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1",
+        "page": "238 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "863",
+        "ddc": "843.914",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018013778",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6652349_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "고양이 :베르나르 베르베르 장편소설 ",
+        "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+        "publisher": "열린책들",
+        "publish_year": "2018",
+        "isbn": "8932919127",
+        "isbn13": "9788932919126",
+        "isbn_add_code": "04860",
+        "volume": "1",
+        "class_no": "863",
+        "class_nm": "문학 > 프랑스문학 > 소설",
+        "description": "베르나르 베르베르 장편소설. 제목 그대로 주인공인 고양이의 시각에서 인간의 문명을 바라보는 작품으로, 프랑스에서는 작년 한국에서도 베스트셀러가 되었던 &lt;잠&gt;보다 높은 인기를 누렸다.",
+        "cover_url": "https://image.aladin.co.kr/product/16597/75/cover/k312533051_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "인간",
+            "weight": 7.0
+          },
+          {
+            "word": "베르베르",
+            "weight": 5.0
+          },
+          {
+            "word": "통번역대학원",
+            "weight": 4.0
+          },
+          {
+            "word": "고양이",
+            "weight": 3.0
+          },
+          {
+            "word": "집사",
+            "weight": 3.0
+          },
+          {
+            "word": "너무 많이 아는",
+            "weight": 3.0
+          },
+          {
+            "word": "작은 철학자 시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "공역",
+            "weight": 2.0
+          },
+          {
+            "word": "과정",
+            "weight": 2.0
+          },
+          {
+            "word": "파리",
+            "weight": 2.0
+          },
+          {
+            "word": "베르나르",
+            "weight": 2.0
+          },
+          {
+            "word": "프랑스소설",
+            "weight": 2.0
+          },
+          {
+            "word": "프랑스",
+            "weight": 2.0
+          },
+          {
+            "word": "바스테트",
+            "weight": 2.0
+          },
+          {
+            "word": "뮈소",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "전미연",
+            "weight": 2.0
+          },
+          {
+            "word": "시각",
+            "weight": 2.0
+          },
+          {
+            "word": "열린책",
+            "weight": 2.0
+          },
+          {
+            "word": "크리스마스",
+            "weight": 2.0
+          },
+          {
+            "word": "외국",
+            "weight": 2.0
+          },
+          {
+            "word": "한국외국어대학교",
+            "weight": 2.0
+          },
+          {
+            "word": "베르나르 베르베르",
+            "weight": 2.0
+          },
+          {
+            "word": "사르두",
+            "weight": 1.0
+          },
+          {
+            "word": "사랑",
+            "weight": 1.0
+          },
+          {
+            "word": "배고픔",
+            "weight": 1.0
+          },
+          {
+            "word": "번역",
+            "weight": 1.0
+          },
+          {
+            "word": "번역가",
+            "weight": 1.0
+          },
+          {
+            "word": "번역학",
+            "weight": 1.0
+          },
+          {
+            "word": "불어불문학",
+            "weight": 1.0
+          },
+          {
+            "word": "부름",
+            "weight": 1.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 1.0
+          },
+          {
+            "word": "감지",
+            "weight": 1.0
+          },
+          {
+            "word": "그대",
+            "weight": 1.0
+          },
+          {
+            "word": "TV",
+            "weight": 1.0
+          },
+          {
+            "word": "흥밋거리",
+            "weight": 1.0
+          },
+          {
+            "word": "겸임교수",
+            "weight": 1.0
+          },
+          {
+            "word": "경로",
+            "weight": 1.0
+          },
+          {
+            "word": "계획",
+            "weight": 1.0
+          },
+          {
+            "word": "고민",
+            "weight": 1.0
+          },
+          {
+            "word": "기욤",
+            "weight": 1.0
+          },
+          {
+            "word": "노통브",
+            "weight": 1.0
+          },
+          {
+            "word": "다비드",
+            "weight": 1.0
+          },
+          {
+            "word": "단지",
+            "weight": 1.0
+          },
+          {
+            "word": "당연시",
+            "weight": 1.0
+          },
+          {
+            "word": "대화",
+            "weight": 1.0
+          },
+          {
+            "word": "도입",
+            "weight": 1.0
+          },
+          {
+            "word": "두려움",
+            "weight": 1.0
+          },
+          {
+            "word": "로맹",
+            "weight": 1.0
+          },
+          {
+            "word": "리모노프",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "고양이 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932919133",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "문명 :베르나르 베르베르 장편소설",
+            "isbn13": "9788932921037",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "문명 :베르나르 베르베르 장편소설",
+            "isbn13": "9788932921044",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "행성 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932922362",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932923413",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "행성 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932922379",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "기억 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932920337",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "죽음 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932919676",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "잠 :베르나르 베르베르 장편소설",
+            "isbn13": "9788932918372",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          },
+          {
+            "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+            "isbn13": "9788932923420",
+            "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "고양이 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000581979",
+        "title": "고양이 1",
+        "subtitle": "베르나르 베르베르 장편소설",
+        "page": "240 p.",
+        "book_size": "128*196mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932919126",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932919126",
+      "isbn_add_code": "04860",
+      "set_isbn": "9788932919119",
+      "set_add_code": "04860 ",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "고양이",
+      "subtitle": "베르나르 베르베르 장편소설",
+      "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2018",
+      "publish_predate": "20180530",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "843.914",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "128*196mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "베르나르 베르베르 장편소설. 제목 그대로 주인공인 고양이의 시각에서 인간의 문명을 바라보는 작품으로, 프랑스에서는 작년 한국에서도 베스트셀러가 되었던 &lt;잠&gt;보다 높은 인기를 누렸다.",
+      "control_no": "CIP2018013778",
+      "cover_url": "https://image.aladin.co.kr/product/16597/75/cover/k312533051_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6652349_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인간",
+          "weight": 7.0
+        },
+        {
+          "word": "베르베르",
+          "weight": 5.0
+        },
+        {
+          "word": "통번역대학원",
+          "weight": 4.0
+        },
+        {
+          "word": "고양이",
+          "weight": 3.0
+        },
+        {
+          "word": "집사",
+          "weight": 3.0
+        },
+        {
+          "word": "너무 많이 아는",
+          "weight": 3.0
+        },
+        {
+          "word": "작은 철학자 시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "공역",
+          "weight": 2.0
+        },
+        {
+          "word": "과정",
+          "weight": 2.0
+        },
+        {
+          "word": "파리",
+          "weight": 2.0
+        },
+        {
+          "word": "베르나르",
+          "weight": 2.0
+        },
+        {
+          "word": "프랑스소설",
+          "weight": 2.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 2.0
+        },
+        {
+          "word": "바스테트",
+          "weight": 2.0
+        },
+        {
+          "word": "뮈소",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "전미연",
+          "weight": 2.0
+        },
+        {
+          "word": "시각",
+          "weight": 2.0
+        },
+        {
+          "word": "열린책",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스마스",
+          "weight": 2.0
+        },
+        {
+          "word": "외국",
+          "weight": 2.0
+        },
+        {
+          "word": "한국외국어대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "베르나르 베르베르",
+          "weight": 2.0
+        },
+        {
+          "word": "사르두",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "배고픔",
+          "weight": 1.0
+        },
+        {
+          "word": "번역",
+          "weight": 1.0
+        },
+        {
+          "word": "번역가",
+          "weight": 1.0
+        },
+        {
+          "word": "번역학",
+          "weight": 1.0
+        },
+        {
+          "word": "불어불문학",
+          "weight": 1.0
+        },
+        {
+          "word": "부름",
+          "weight": 1.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 1.0
+        },
+        {
+          "word": "감지",
+          "weight": 1.0
+        },
+        {
+          "word": "그대",
+          "weight": 1.0
+        },
+        {
+          "word": "TV",
+          "weight": 1.0
+        },
+        {
+          "word": "흥밋거리",
+          "weight": 1.0
+        },
+        {
+          "word": "겸임교수",
+          "weight": 1.0
+        },
+        {
+          "word": "경로",
+          "weight": 1.0
+        },
+        {
+          "word": "계획",
+          "weight": 1.0
+        },
+        {
+          "word": "고민",
+          "weight": 1.0
+        },
+        {
+          "word": "기욤",
+          "weight": 1.0
+        },
+        {
+          "word": "노통브",
+          "weight": 1.0
+        },
+        {
+          "word": "다비드",
+          "weight": 1.0
+        },
+        {
+          "word": "단지",
+          "weight": 1.0
+        },
+        {
+          "word": "당연시",
+          "weight": 1.0
+        },
+        {
+          "word": "대화",
+          "weight": 1.0
+        },
+        {
+          "word": "도입",
+          "weight": 1.0
+        },
+        {
+          "word": "두려움",
+          "weight": 1.0
+        },
+        {
+          "word": "로맹",
+          "weight": 1.0
+        },
+        {
+          "word": "리모노프",
+          "weight": 1.0
+        }
+      ],
+      "description": "베르나르 베르베르 장편소설. 제목 그대로 주인공인 고양이의 시각에서 인간의 문명을 바라보는 작품으로, 프랑스에서는 작년 한국에서도 베스트셀러가 되었던 &lt;잠&gt;보다 높은 인기를 누렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "고양이 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932919133",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "문명 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932921037",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "문명 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932921044",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "행성 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932922362",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932923413",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "행성 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932922379",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "기억 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932920337",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "죽음 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932919676",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "잠 :베르나르 베르베르 장편소설",
+          "isbn13": "9788932918372",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        },
+        {
+          "bookname": "꿀벌의 예언 :베르나르 베르베르 장편소설 ",
+          "isbn13": "9788932923420",
+          "authors": "지은이: 베르나르 베르베르 ;옮긴이: 전미연"
+        }
+      ],
+      "title": "고양이",
+      "author": "지은이: 베르나르 베르베르 ;옮긴이: 전미연",
+      "kdc_from_api": "863",
+      "ddc_from_api": "843.914",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

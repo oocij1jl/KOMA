@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791188007134",
+  "captured_at": "2026-10-02T00:20:05.059134+09:00",
+  "lookup": {
+    "isbn": "9791188007134",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188007134",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "엄마의 말하기 연습",
+      "subtitle": "화 내지 않고 상처 주지 않고 진심을 전하는",
+      "author": "박재연 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한빛라이프",
+      "publish_year": "2018",
+      "publish_predate": "20180226",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "150*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "육아에 지쳐 자신을 잃어버린 엄마들에게 자신을 이해하고 공감하는 법을 먼저 소개한다. 그런 다음 아이를 키우면서 만나게 되는 여러 가지 문제에 대해 실천 가능한 최소한의 행동 방침, 대화 방법을 일러준다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/13536/68/cover/k642532819_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 26.0
+        },
+        {
+          "word": "대신",
+          "weight": 19.0
+        },
+        {
+          "word": "엄마",
+          "weight": 15.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "대화",
+          "weight": 7.0
+        },
+        {
+          "word": "부모",
+          "weight": 7.0
+        },
+        {
+          "word": "박재연",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "공감",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "속대화",
+          "weight": 5.0
+        },
+        {
+          "word": "도움",
+          "weight": 4.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "교사",
+          "weight": 3.0
+        },
+        {
+          "word": "말이 통해야 일이 통한다",
+          "weight": 3.0
+        },
+        {
+          "word": "공감톡",
+          "weight": 3.0
+        },
+        {
+          "word": "훈련",
+          "weight": 3.0
+        },
+        {
+          "word": "com",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "진행",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑하면 통한다",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "방법",
+          "weight": 3.0
+        },
+        {
+          "word": "대상",
+          "weight": 3.0
+        },
+        {
+          "word": "맘스라디오",
+          "weight": 3.0
+        },
+        {
+          "word": "예뻐",
+          "weight": 2.0
+        },
+        {
+          "word": "부모교육",
+          "weight": 2.0
+        },
+        {
+          "word": "인정",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        },
+        {
+          "word": "육아",
+          "weight": 2.0
+        },
+        {
+          "word": "육아 교육",
+          "weight": 2.0
+        },
+        {
+          "word": "중심",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "자녀",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "문제",
+          "weight": 2.0
+        },
+        {
+          "word": "한빛라이프",
+          "weight": 2.0
+        },
+        {
+          "word": "동생",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "replushumanlab",
+          "weight": 2.0
+        },
+        {
+          "word": "replus",
+          "weight": 2.0
+        },
+        {
+          "word": "거야",
+          "weight": 1.0
+        },
+        {
+          "word": "강의",
+          "weight": 1.0
+        },
+        {
+          "word": "강연",
+          "weight": 1.0
+        },
+        {
+          "word": "NVC",
+          "weight": 1.0
+        }
+      ],
+      "description": "육아에 지쳐 자신을 잃어버린 엄마들에게 자신을 이해하고 공감하는 법을 먼저 소개한다. 그런 다음 아이를 키우면서 만나게 되는 여러 가지 문제에 대해 실천 가능한 최소한의 행동 방침, 대화 방법을 일러준다.",
+      "co_loan_books": [
+        {
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "isbn13": "9788934986652",
+          "authors": "글: 오은영 ;그림: 차상미"
+        },
+        {
+          "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+          "isbn13": "9791168270749",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "나는 왜 네 말이 힘들까 :상대의 말이 듣기 힘들 때 후회되는 말을 했을 때, 꼬인 관계를 풀어주는 연결의 대화 수업 ",
+          "isbn13": "9791190846011",
+          "authors": "박재연 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        },
+        {
+          "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+          "isbn13": "9791190776820",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "isbn13": "9791168127531",
+          "authors": "최민준 글 ;신예원 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "사실은 사랑받고 싶었어 :진심을 전하는, 그 어려운 일을 가능하게 하는 연결의 대화 ",
+          "isbn13": "9791190846110",
+          "authors": "박재연 지음 ;박성혜 그림"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "엄마의 말하기 연습",
+      "author": "박재연 지음",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "엄마의 말하기 연습",
+        "author": "박재연 지음",
+        "publisher": "한빛라이프",
+        "publish_predate": "20180226",
+        "isbn": "9791188007134",
+        "isbn_add_code": "13590",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "279 p.",
+        "book_size": "150*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "엄마의 말하기 연습 :화내지 않고 상처 주지 않고 진심을 전하는 ",
+        "author": "박재연 지음",
+        "publisher": "한빛라이프",
+        "publish_year": "2018",
+        "isbn": "1188007130",
+        "isbn13": "9791188007134",
+        "isbn_add_code": "13590",
+        "volume": "",
+        "class_no": "598.1",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+        "description": "육아에 지쳐 자신을 잃어버린 엄마들에게 자신을 이해하고 공감하는 법을 먼저 소개한다. 그런 다음 아이를 키우면서 만나게 되는 여러 가지 문제에 대해 실천 가능한 최소한의 행동 방침, 대화 방법을 일러준다.",
+        "cover_url": "http://image.aladin.co.kr/product/13536/68/cover/k642532819_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아이",
+            "weight": 26.0
+          },
+          {
+            "word": "대신",
+            "weight": 19.0
+          },
+          {
+            "word": "엄마",
+            "weight": 15.0
+          },
+          {
+            "word": "자신",
+            "weight": 8.0
+          },
+          {
+            "word": "마음",
+            "weight": 7.0
+          },
+          {
+            "word": "대화",
+            "weight": 7.0
+          },
+          {
+            "word": "부모",
+            "weight": 7.0
+          },
+          {
+            "word": "박재연",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "공감",
+            "weight": 5.0
+          },
+          {
+            "word": "이해",
+            "weight": 5.0
+          },
+          {
+            "word": "속대화",
+            "weight": 5.0
+          },
+          {
+            "word": "도움",
+            "weight": 4.0
+          },
+          {
+            "word": "감정",
+            "weight": 4.0
+          },
+          {
+            "word": "교사",
+            "weight": 3.0
+          },
+          {
+            "word": "말이 통해야 일이 통한다",
+            "weight": 3.0
+          },
+          {
+            "word": "공감톡",
+            "weight": 3.0
+          },
+          {
+            "word": "훈련",
+            "weight": 3.0
+          },
+          {
+            "word": "com",
+            "weight": 3.0
+          },
+          {
+            "word": "생각",
+            "weight": 3.0
+          },
+          {
+            "word": "진행",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑하면 통한다",
+            "weight": 3.0
+          },
+          {
+            "word": "자기",
+            "weight": 3.0
+          },
+          {
+            "word": "방법",
+            "weight": 3.0
+          },
+          {
+            "word": "대상",
+            "weight": 3.0
+          },
+          {
+            "word": "맘스라디오",
+            "weight": 3.0
+          },
+          {
+            "word": "예뻐",
+            "weight": 2.0
+          },
+          {
+            "word": "부모교육",
+            "weight": 2.0
+          },
+          {
+            "word": "인정",
+            "weight": 2.0
+          },
+          {
+            "word": "소개",
+            "weight": 2.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "방송",
+            "weight": 2.0
+          },
+          {
+            "word": "육아",
+            "weight": 2.0
+          },
+          {
+            "word": "육아 교육",
+            "weight": 2.0
+          },
+          {
+            "word": "중심",
+            "weight": 2.0
+          },
+          {
+            "word": "친구",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "행동",
+            "weight": 2.0
+          },
+          {
+            "word": "자녀",
+            "weight": 2.0
+          },
+          {
+            "word": "상처",
+            "weight": 2.0
+          },
+          {
+            "word": "문제",
+            "weight": 2.0
+          },
+          {
+            "word": "한빛라이프",
+            "weight": 2.0
+          },
+          {
+            "word": "동생",
+            "weight": 2.0
+          },
+          {
+            "word": "건강",
+            "weight": 2.0
+          },
+          {
+            "word": "replushumanlab",
+            "weight": 2.0
+          },
+          {
+            "word": "replus",
+            "weight": 2.0
+          },
+          {
+            "word": "거야",
+            "weight": 1.0
+          },
+          {
+            "word": "강의",
+            "weight": 1.0
+          },
+          {
+            "word": "강연",
+            "weight": 1.0
+          },
+          {
+            "word": "NVC",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+            "isbn13": "9788934986652",
+            "authors": "글: 오은영 ;그림: 차상미"
+          },
+          {
+            "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+            "isbn13": "9791168270749",
+            "authors": "윤지영 지음"
+          },
+          {
+            "bookname": "나는 왜 네 말이 힘들까 :상대의 말이 듣기 힘들 때 후회되는 말을 했을 때, 꼬인 관계를 풀어주는 연결의 대화 수업 ",
+            "isbn13": "9791190846011",
+            "authors": "박재연 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+            "isbn13": "9788950941819",
+            "authors": "지나영 지음"
+          },
+          {
+            "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+            "isbn13": "9791190776820",
+            "authors": "이임숙 지음"
+          },
+          {
+            "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+            "isbn13": "9791168127531",
+            "authors": "최민준 글 ;신예원 그림"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "사실은 사랑받고 싶었어 :진심을 전하는, 그 어려운 일을 가능하게 하는 연결의 대화 ",
+            "isbn13": "9791190846110",
+            "authors": "박재연 지음 ;박성혜 그림"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "엄마의 말하기 연습 - 화 내지 않고 상처 주지 않고 진심을 전하는"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001908907",
+        "title": "엄마의 말하기 연습",
+        "subtitle": "화내지 않고 상처 주지 않고 진심을 전하는",
+        "page": "280 p.",
+        "book_size": "150*211mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791188007134",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188007134",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "엄마의 말하기 연습",
+      "subtitle": "화 내지 않고 상처 주지 않고 진심을 전하는",
+      "author": "박재연 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한빛라이프",
+      "publish_year": "2018",
+      "publish_predate": "20180226",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "150*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "육아에 지쳐 자신을 잃어버린 엄마들에게 자신을 이해하고 공감하는 법을 먼저 소개한다. 그런 다음 아이를 키우면서 만나게 되는 여러 가지 문제에 대해 실천 가능한 최소한의 행동 방침, 대화 방법을 일러준다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/13536/68/cover/k642532819_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 26.0
+        },
+        {
+          "word": "대신",
+          "weight": 19.0
+        },
+        {
+          "word": "엄마",
+          "weight": 15.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "대화",
+          "weight": 7.0
+        },
+        {
+          "word": "부모",
+          "weight": 7.0
+        },
+        {
+          "word": "박재연",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "공감",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "속대화",
+          "weight": 5.0
+        },
+        {
+          "word": "도움",
+          "weight": 4.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "교사",
+          "weight": 3.0
+        },
+        {
+          "word": "말이 통해야 일이 통한다",
+          "weight": 3.0
+        },
+        {
+          "word": "공감톡",
+          "weight": 3.0
+        },
+        {
+          "word": "훈련",
+          "weight": 3.0
+        },
+        {
+          "word": "com",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "진행",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑하면 통한다",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "방법",
+          "weight": 3.0
+        },
+        {
+          "word": "대상",
+          "weight": 3.0
+        },
+        {
+          "word": "맘스라디오",
+          "weight": 3.0
+        },
+        {
+          "word": "예뻐",
+          "weight": 2.0
+        },
+        {
+          "word": "부모교육",
+          "weight": 2.0
+        },
+        {
+          "word": "인정",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        },
+        {
+          "word": "육아",
+          "weight": 2.0
+        },
+        {
+          "word": "육아 교육",
+          "weight": 2.0
+        },
+        {
+          "word": "중심",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "자녀",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "문제",
+          "weight": 2.0
+        },
+        {
+          "word": "한빛라이프",
+          "weight": 2.0
+        },
+        {
+          "word": "동생",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "replushumanlab",
+          "weight": 2.0
+        },
+        {
+          "word": "replus",
+          "weight": 2.0
+        },
+        {
+          "word": "거야",
+          "weight": 1.0
+        },
+        {
+          "word": "강의",
+          "weight": 1.0
+        },
+        {
+          "word": "강연",
+          "weight": 1.0
+        },
+        {
+          "word": "NVC",
+          "weight": 1.0
+        }
+      ],
+      "description": "육아에 지쳐 자신을 잃어버린 엄마들에게 자신을 이해하고 공감하는 법을 먼저 소개한다. 그런 다음 아이를 키우면서 만나게 되는 여러 가지 문제에 대해 실천 가능한 최소한의 행동 방침, 대화 방법을 일러준다.",
+      "co_loan_books": [
+        {
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "isbn13": "9788934986652",
+          "authors": "글: 오은영 ;그림: 차상미"
+        },
+        {
+          "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+          "isbn13": "9791168270749",
+          "authors": "윤지영 지음"
+        },
+        {
+          "bookname": "나는 왜 네 말이 힘들까 :상대의 말이 듣기 힘들 때 후회되는 말을 했을 때, 꼬인 관계를 풀어주는 연결의 대화 수업 ",
+          "isbn13": "9791190846011",
+          "authors": "박재연 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "isbn13": "9788950941819",
+          "authors": "지나영 지음"
+        },
+        {
+          "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+          "isbn13": "9791190776820",
+          "authors": "이임숙 지음"
+        },
+        {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "isbn13": "9791168127531",
+          "authors": "최민준 글 ;신예원 그림"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "사실은 사랑받고 싶었어 :진심을 전하는, 그 어려운 일을 가능하게 하는 연결의 대화 ",
+          "isbn13": "9791190846110",
+          "authors": "박재연 지음 ;박성혜 그림"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "엄마의 말하기 연습",
+      "author": "박재연 지음",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

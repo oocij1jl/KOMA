@@ -1,0 +1,1092 @@
+{
+  "isbn": "9788967356149",
+  "captured_at": "2026-10-04T00:17:55.057681+09:00",
+  "lookup": {
+    "isbn": "9788967356149",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788967356149",
+      "isbn_add_code": "04910",
+      "set_isbn": "9788967356132",
+      "set_add_code": "04910 ",
+      "set_expression": "",
+      "price": "₩23000",
+      "title": "삼국지",
+      "subtitle": "정사 비교 고증 완역판",
+      "author": "나관중 지음 ;모종강 정리 ;송도진 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "글항아리",
+      "publish_year": "2019",
+      "publish_predate": "20190510",
+      "kdc": "823.5",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 중국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "640 p.",
+      "book_size": "151*217mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;삼국지&gt;가 글항아리 동양고전 시리즈로 완역되었다. 이미 여러 번역자가 여러 버전으로 책을 내놓은 바 있는 &lt;삼국지&gt;는 중국은 물론 우리나라에서도 만화, 드라마, 게임 등으로 계속해서 재생산되고 있는 불변의 고전이다.",
+      "control_no": "CIP2019012306",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/28/9788967356149.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "삼국지",
+          "weight": 37.0
+        },
+        {
+          "word": "삼국연의",
+          "weight": 12.0
+        },
+        {
+          "word": "잔당오대사연의",
+          "weight": 9.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "여포",
+          "weight": 8.0
+        },
+        {
+          "word": "삼수평요전",
+          "weight": 7.0
+        },
+        {
+          "word": "수호전",
+          "weight": 7.0
+        },
+        {
+          "word": "조태조용호풍운회",
+          "weight": 7.0
+        },
+        {
+          "word": "기록",
+          "weight": 7.0
+        },
+        {
+          "word": "동탁",
+          "weight": 6.0
+        },
+        {
+          "word": "수당양조지전",
+          "weight": 6.0
+        },
+        {
+          "word": "손견",
+          "weight": 4.0
+        },
+        {
+          "word": "수당지전",
+          "weight": 4.0
+        },
+        {
+          "word": "주석",
+          "weight": 4.0
+        },
+        {
+          "word": "녹귀부속편",
+          "weight": 4.0
+        },
+        {
+          "word": "장비",
+          "weight": 4.0
+        },
+        {
+          "word": "글항아리",
+          "weight": 4.0
+        },
+        {
+          "word": "조조",
+          "weight": 4.0
+        },
+        {
+          "word": "후한서",
+          "weight": 3.0
+        },
+        {
+          "word": "십칠사통속연의",
+          "weight": 3.0
+        },
+        {
+          "word": "실제 역사에서는",
+          "weight": 3.0
+        },
+        {
+          "word": "정사",
+          "weight": 3.0
+        },
+        {
+          "word": "창작",
+          "weight": 3.0
+        },
+        {
+          "word": "소진왕사화",
+          "weight": 3.0
+        },
+        {
+          "word": "비교",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "중국",
+          "weight": 3.0
+        },
+        {
+          "word": "진서",
+          "weight": 3.0
+        },
+        {
+          "word": "삼국지통속연의",
+          "weight": 3.0
+        },
+        {
+          "word": "모종강본",
+          "weight": 3.0
+        },
+        {
+          "word": "자치통감",
+          "weight": 3.0
+        },
+        {
+          "word": "120회본",
+          "weight": 3.0
+        },
+        {
+          "word": "모종강",
+          "weight": 2.0
+        },
+        {
+          "word": "손책",
+          "weight": 2.0
+        },
+        {
+          "word": "삼국",
+          "weight": 2.0
+        },
+        {
+          "word": "소패왕",
+          "weight": 2.0
+        },
+        {
+          "word": "군대",
+          "weight": 2.0
+        },
+        {
+          "word": "보편적",
+          "weight": 2.0
+        },
+        {
+          "word": "산시성",
+          "weight": 2.0
+        },
+        {
+          "word": "배송지裵松之",
+          "weight": 2.0
+        },
+        {
+          "word": "곽사",
+          "weight": 2.0
+        },
+        {
+          "word": "곽가",
+          "weight": 2.0
+        },
+        {
+          "word": "모종강본毛宗崗本",
+          "weight": 2.0
+        },
+        {
+          "word": "송도진",
+          "weight": 2.0
+        },
+        {
+          "word": "십승십패",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "1400년",
+          "weight": 2.0
+        },
+        {
+          "word": "가중명",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;삼국지&gt;가 글항아리 동양고전 시리즈로 완역되었다. 이미 여러 번역자가 여러 버전으로 책을 내놓은 바 있는 &lt;삼국지&gt;는 중국은 물론 우리나라에서도 만화, 드라마, 게임 등으로 계속해서 재생산되고 있는 불변의 고전이다.",
+      "co_loan_books": [
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356156",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356163",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356170",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356187",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356194",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+          "isbn13": "9788933870792",
+          "authors": "지은이: 설민석"
+        },
+        {
+          "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+          "isbn13": "9788933870839",
+          "authors": "지은이: 설민석"
+        },
+        {
+          "bookname": "토지 :박경리 대하소설",
+          "isbn13": "9788960532410",
+          "authors": "지은이: 박경리"
+        },
+        {
+          "bookname": "원본 초한지 =西漢演義 ",
+          "isbn13": "9788954654920",
+          "authors": "견위 지음 ;김영문 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "삼국지",
+      "author": "나관중 지음 ;모종강 정리 ;송도진 옮김",
+      "kdc_from_api": "823.5",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견",
+          "'번역' 표현 발견",
+          "'역자' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "삼국지",
+        "author": "나관중 지음 ;모종강 정리 ;송도진 옮김",
+        "publisher": "글항아리",
+        "publish_predate": "20190510",
+        "isbn": "9788967356149",
+        "isbn_add_code": "04910",
+        "set_isbn": "9788967356132",
+        "set_add_code": "04910 ",
+        "set_expression": "",
+        "price": "₩23000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1",
+        "page": "638 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "823.5",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019012306",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/28/9788967356149.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "삼국지 :정사 비교 고증 완역판 ",
+        "author": "나관중 지음 ;송도진 옮김",
+        "publisher": "글항아리",
+        "publish_year": "2019",
+        "isbn": "8967356145",
+        "isbn13": "9788967356149",
+        "isbn_add_code": "04910",
+        "volume": "1",
+        "class_no": "823.5",
+        "class_nm": "문학 > 중국문학 > 소설",
+        "description": "&lt;삼국지&gt;가 글항아리 동양고전 시리즈로 완역되었다. 이미 여러 번역자가 여러 버전으로 책을 내놓은 바 있는 &lt;삼국지&gt;는 중국은 물론 우리나라에서도 만화, 드라마, 게임 등으로 계속해서 재생산되고 있는 불변의 고전이다.",
+        "cover_url": "https://image.aladin.co.kr/product/19002/39/cover/8967356145_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "삼국지",
+            "weight": 37.0
+          },
+          {
+            "word": "삼국연의",
+            "weight": 12.0
+          },
+          {
+            "word": "잔당오대사연의",
+            "weight": 9.0
+          },
+          {
+            "word": "역사",
+            "weight": 9.0
+          },
+          {
+            "word": "여포",
+            "weight": 8.0
+          },
+          {
+            "word": "삼수평요전",
+            "weight": 7.0
+          },
+          {
+            "word": "수호전",
+            "weight": 7.0
+          },
+          {
+            "word": "조태조용호풍운회",
+            "weight": 7.0
+          },
+          {
+            "word": "기록",
+            "weight": 7.0
+          },
+          {
+            "word": "동탁",
+            "weight": 6.0
+          },
+          {
+            "word": "수당양조지전",
+            "weight": 6.0
+          },
+          {
+            "word": "손견",
+            "weight": 4.0
+          },
+          {
+            "word": "수당지전",
+            "weight": 4.0
+          },
+          {
+            "word": "주석",
+            "weight": 4.0
+          },
+          {
+            "word": "녹귀부속편",
+            "weight": 4.0
+          },
+          {
+            "word": "장비",
+            "weight": 4.0
+          },
+          {
+            "word": "글항아리",
+            "weight": 4.0
+          },
+          {
+            "word": "조조",
+            "weight": 4.0
+          },
+          {
+            "word": "후한서",
+            "weight": 3.0
+          },
+          {
+            "word": "십칠사통속연의",
+            "weight": 3.0
+          },
+          {
+            "word": "실제 역사에서는",
+            "weight": 3.0
+          },
+          {
+            "word": "정사",
+            "weight": 3.0
+          },
+          {
+            "word": "창작",
+            "weight": 3.0
+          },
+          {
+            "word": "소진왕사화",
+            "weight": 3.0
+          },
+          {
+            "word": "비교",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "중국",
+            "weight": 3.0
+          },
+          {
+            "word": "진서",
+            "weight": 3.0
+          },
+          {
+            "word": "삼국지통속연의",
+            "weight": 3.0
+          },
+          {
+            "word": "모종강본",
+            "weight": 3.0
+          },
+          {
+            "word": "자치통감",
+            "weight": 3.0
+          },
+          {
+            "word": "120회본",
+            "weight": 3.0
+          },
+          {
+            "word": "모종강",
+            "weight": 2.0
+          },
+          {
+            "word": "손책",
+            "weight": 2.0
+          },
+          {
+            "word": "삼국",
+            "weight": 2.0
+          },
+          {
+            "word": "소패왕",
+            "weight": 2.0
+          },
+          {
+            "word": "군대",
+            "weight": 2.0
+          },
+          {
+            "word": "보편적",
+            "weight": 2.0
+          },
+          {
+            "word": "산시성",
+            "weight": 2.0
+          },
+          {
+            "word": "배송지裵松之",
+            "weight": 2.0
+          },
+          {
+            "word": "곽사",
+            "weight": 2.0
+          },
+          {
+            "word": "곽가",
+            "weight": 2.0
+          },
+          {
+            "word": "모종강본毛宗崗本",
+            "weight": 2.0
+          },
+          {
+            "word": "송도진",
+            "weight": 2.0
+          },
+          {
+            "word": "십승십패",
+            "weight": 2.0
+          },
+          {
+            "word": "서문",
+            "weight": 2.0
+          },
+          {
+            "word": "바탕",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "1400년",
+            "weight": 2.0
+          },
+          {
+            "word": "가중명",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "삼국지 :정사 비교 고증 완역판 ",
+            "isbn13": "9788967356156",
+            "authors": "나관중 지음 ;송도진 옮김"
+          },
+          {
+            "bookname": "삼국지 :정사 비교 고증 완역판 ",
+            "isbn13": "9788967356163",
+            "authors": "나관중 지음 ;송도진 옮김"
+          },
+          {
+            "bookname": "삼국지 :정사 비교 고증 완역판 ",
+            "isbn13": "9788967356170",
+            "authors": "나관중 지음 ;송도진 옮김"
+          },
+          {
+            "bookname": "삼국지 :정사 비교 고증 완역판 ",
+            "isbn13": "9788967356187",
+            "authors": "나관중 지음 ;송도진 옮김"
+          },
+          {
+            "bookname": "삼국지 :정사 비교 고증 완역판 ",
+            "isbn13": "9788967356194",
+            "authors": "나관중 지음 ;송도진 옮김"
+          },
+          {
+            "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+            "isbn13": "9788933870792",
+            "authors": "지은이: 설민석"
+          },
+          {
+            "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+            "isbn13": "9788933870839",
+            "authors": "지은이: 설민석"
+          },
+          {
+            "bookname": "토지 :박경리 대하소설",
+            "isbn13": "9788960532410",
+            "authors": "지은이: 박경리"
+          },
+          {
+            "bookname": "원본 초한지 =西漢演義 ",
+            "isbn13": "9788954654920",
+            "authors": "견위 지음 ;김영문 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "삼국지 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001046770",
+        "title": "삼국지 1",
+        "subtitle": "정사 비교 고증 완역판",
+        "page": "640 p.",
+        "book_size": "151*217mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788967356149",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788967356149",
+      "isbn_add_code": "04910",
+      "set_isbn": "9788967356132",
+      "set_add_code": "04910 ",
+      "set_expression": "",
+      "price": "₩23000",
+      "title": "삼국지",
+      "subtitle": "정사 비교 고증 완역판",
+      "author": "나관중 지음 ;모종강 정리 ;송도진 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "글항아리",
+      "publish_year": "2019",
+      "publish_predate": "20190510",
+      "kdc": "823.5",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 중국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "640 p.",
+      "book_size": "151*217mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;삼국지&gt;가 글항아리 동양고전 시리즈로 완역되었다. 이미 여러 번역자가 여러 버전으로 책을 내놓은 바 있는 &lt;삼국지&gt;는 중국은 물론 우리나라에서도 만화, 드라마, 게임 등으로 계속해서 재생산되고 있는 불변의 고전이다.",
+      "control_no": "CIP2019012306",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/28/9788967356149.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "삼국지",
+          "weight": 37.0
+        },
+        {
+          "word": "삼국연의",
+          "weight": 12.0
+        },
+        {
+          "word": "잔당오대사연의",
+          "weight": 9.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "여포",
+          "weight": 8.0
+        },
+        {
+          "word": "삼수평요전",
+          "weight": 7.0
+        },
+        {
+          "word": "수호전",
+          "weight": 7.0
+        },
+        {
+          "word": "조태조용호풍운회",
+          "weight": 7.0
+        },
+        {
+          "word": "기록",
+          "weight": 7.0
+        },
+        {
+          "word": "동탁",
+          "weight": 6.0
+        },
+        {
+          "word": "수당양조지전",
+          "weight": 6.0
+        },
+        {
+          "word": "손견",
+          "weight": 4.0
+        },
+        {
+          "word": "수당지전",
+          "weight": 4.0
+        },
+        {
+          "word": "주석",
+          "weight": 4.0
+        },
+        {
+          "word": "녹귀부속편",
+          "weight": 4.0
+        },
+        {
+          "word": "장비",
+          "weight": 4.0
+        },
+        {
+          "word": "글항아리",
+          "weight": 4.0
+        },
+        {
+          "word": "조조",
+          "weight": 4.0
+        },
+        {
+          "word": "후한서",
+          "weight": 3.0
+        },
+        {
+          "word": "십칠사통속연의",
+          "weight": 3.0
+        },
+        {
+          "word": "실제 역사에서는",
+          "weight": 3.0
+        },
+        {
+          "word": "정사",
+          "weight": 3.0
+        },
+        {
+          "word": "창작",
+          "weight": 3.0
+        },
+        {
+          "word": "소진왕사화",
+          "weight": 3.0
+        },
+        {
+          "word": "비교",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "중국",
+          "weight": 3.0
+        },
+        {
+          "word": "진서",
+          "weight": 3.0
+        },
+        {
+          "word": "삼국지통속연의",
+          "weight": 3.0
+        },
+        {
+          "word": "모종강본",
+          "weight": 3.0
+        },
+        {
+          "word": "자치통감",
+          "weight": 3.0
+        },
+        {
+          "word": "120회본",
+          "weight": 3.0
+        },
+        {
+          "word": "모종강",
+          "weight": 2.0
+        },
+        {
+          "word": "손책",
+          "weight": 2.0
+        },
+        {
+          "word": "삼국",
+          "weight": 2.0
+        },
+        {
+          "word": "소패왕",
+          "weight": 2.0
+        },
+        {
+          "word": "군대",
+          "weight": 2.0
+        },
+        {
+          "word": "보편적",
+          "weight": 2.0
+        },
+        {
+          "word": "산시성",
+          "weight": 2.0
+        },
+        {
+          "word": "배송지裵松之",
+          "weight": 2.0
+        },
+        {
+          "word": "곽사",
+          "weight": 2.0
+        },
+        {
+          "word": "곽가",
+          "weight": 2.0
+        },
+        {
+          "word": "모종강본毛宗崗本",
+          "weight": 2.0
+        },
+        {
+          "word": "송도진",
+          "weight": 2.0
+        },
+        {
+          "word": "십승십패",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "1400년",
+          "weight": 2.0
+        },
+        {
+          "word": "가중명",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;삼국지&gt;가 글항아리 동양고전 시리즈로 완역되었다. 이미 여러 번역자가 여러 버전으로 책을 내놓은 바 있는 &lt;삼국지&gt;는 중국은 물론 우리나라에서도 만화, 드라마, 게임 등으로 계속해서 재생산되고 있는 불변의 고전이다.",
+      "co_loan_books": [
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356156",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356163",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356170",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356187",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "삼국지 :정사 비교 고증 완역판 ",
+          "isbn13": "9788967356194",
+          "authors": "나관중 지음 ;송도진 옮김"
+        },
+        {
+          "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+          "isbn13": "9788933870792",
+          "authors": "지은이: 설민석"
+        },
+        {
+          "bookname": "(설민석의) 삼국지 :누구나 쉽게 시작하고 모두가 빠져드는 이야기 ",
+          "isbn13": "9788933870839",
+          "authors": "지은이: 설민석"
+        },
+        {
+          "bookname": "토지 :박경리 대하소설",
+          "isbn13": "9788960532410",
+          "authors": "지은이: 박경리"
+        },
+        {
+          "bookname": "원본 초한지 =西漢演義 ",
+          "isbn13": "9788954654920",
+          "authors": "견위 지음 ;김영문 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "삼국지",
+      "author": "나관중 지음 ;모종강 정리 ;송도진 옮김",
+      "kdc_from_api": "823.5",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견",
+          "'번역' 표현 발견",
+          "'역자' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

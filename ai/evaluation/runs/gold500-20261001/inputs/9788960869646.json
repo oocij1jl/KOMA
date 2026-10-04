@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788960869646",
+  "captured_at": "2026-10-04T00:11:03.417109+09:00",
+  "lookup": {
+    "isbn": "9788960869646",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960869646",
+      "isbn_add_code": "77400",
+      "set_isbn": "9788960869639",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "놓지 마 과학! 1",
+      "subtitle": "놓지 마 정신줄 학습 만화",
+      "author": "글·그림: 신태훈,나승훈",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "주식회사 위즈덤하우스",
+      "publish_year": "2016",
+      "publish_predate": "20160801",
+      "kdc": "408",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 전집, 총서",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "192 p.",
+      "book_size": "181*244mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "조회 수 18억 뷰에 빛나는 아이들이 가장 사랑하는 웹툰 [놓지 마 정신줄!]을 재미있고 유익한 학습 만화로 펴냈다. [놓지 마 정신줄!]의 캐릭터들이 모두 등장해, 초등 과학 교과과정을 알기 쉽고 재미나게 풀어준다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8781/70/cover/8960869643_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "놓지 마 정신줄",
+          "weight": 15.0
+        },
+        {
+          "word": "과학",
+          "weight": 10.0
+        },
+        {
+          "word": "정신",
+          "weight": 10.0
+        },
+        {
+          "word": "이유",
+          "weight": 7.0
+        },
+        {
+          "word": "원리",
+          "weight": 7.0
+        },
+        {
+          "word": "오줌",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "동전",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 4.0
+        },
+        {
+          "word": "겨울잠",
+          "weight": 4.0
+        },
+        {
+          "word": "모양",
+          "weight": 4.0
+        },
+        {
+          "word": "학습",
+          "weight": 4.0
+        },
+        {
+          "word": "냄새",
+          "weight": 3.0
+        },
+        {
+          "word": "조회",
+          "weight": 3.0
+        },
+        {
+          "word": "18억",
+          "weight": 3.0
+        },
+        {
+          "word": "우주",
+          "weight": 3.0
+        },
+        {
+          "word": "놓지 마 과학",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "연애편지",
+          "weight": 2.0
+        },
+        {
+          "word": "쓴맛",
+          "weight": 2.0
+        },
+        {
+          "word": "시즌",
+          "weight": 2.0
+        },
+        {
+          "word": "변하는",
+          "weight": 2.0
+        },
+        {
+          "word": "습한",
+          "weight": 2.0
+        },
+        {
+          "word": "영역",
+          "weight": 2.0
+        },
+        {
+          "word": "뽀송뽀송",
+          "weight": 2.0
+        },
+        {
+          "word": "여기저기",
+          "weight": 2.0
+        },
+        {
+          "word": "연계표",
+          "weight": 2.0
+        },
+        {
+          "word": "뿌웅",
+          "weight": 2.0
+        },
+        {
+          "word": "성형",
+          "weight": 2.0
+        },
+        {
+          "word": "사막",
+          "weight": 2.0
+        },
+        {
+          "word": "노폐물",
+          "weight": 2.0
+        },
+        {
+          "word": "방귀",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "번개",
+          "weight": 2.0
+        },
+        {
+          "word": "강해",
+          "weight": 2.0
+        },
+        {
+          "word": "개가",
+          "weight": 2.0
+        },
+        {
+          "word": "개구리",
+          "weight": 2.0
+        },
+        {
+          "word": "건조",
+          "weight": 2.0
+        },
+        {
+          "word": "온천",
+          "weight": 2.0
+        },
+        {
+          "word": "외계인",
+          "weight": 2.0
+        },
+        {
+          "word": "교과",
+          "weight": 2.0
+        },
+        {
+          "word": "슈퍼맨",
+          "weight": 2.0
+        },
+        {
+          "word": "신태훈",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "까닭",
+          "weight": 2.0
+        },
+        {
+          "word": "나승훈",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        }
+      ],
+      "description": "조회 수 18억 뷰에 빛나는 아이들이 가장 사랑하는 웹툰 [놓지 마 정신줄!]을 재미있고 유익한 학습 만화로 펴냈다. [놓지 마 정신줄!]의 캐릭터들이 모두 등장해, 초등 과학 교과과정을 알기 쉽고 재미나게 풀어준다.",
+      "co_loan_books": [
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960869929",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960863163",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960863545",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960867093",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791162202425",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190630184",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190182737",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190305310",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학! 7 - 정신이 모험에 정신 놓다",
+          "isbn13": "9791162205624",
+          "authors": "신태훈|나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791162207031",
+          "authors": "글·그림: 신태훈,나승훈"
+        }
+      ],
+      "title": "놓지 마 과학! 1",
+      "author": "글·그림: 신태훈,나승훈",
+      "kdc_from_api": "408",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "놓지 마 과학! 1",
+        "author": "저자 : 신태훈, 나승훈;",
+        "publisher": "주식회사 위즈덤하우스",
+        "publish_predate": "20160801",
+        "isbn": "9788960869646",
+        "isbn_add_code": "77400",
+        "set_isbn": "9788960869639",
+        "set_add_code": "77400 ",
+        "set_expression": "",
+        "price": "₩9800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "0",
+        "volume": "",
+        "page": "192",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "놓지 마 과학!",
+        "author": "글·그림: 신태훈,나승훈",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2016",
+        "isbn": "8960869643",
+        "isbn13": "9788960869646",
+        "isbn_add_code": "67400",
+        "volume": "1",
+        "class_no": "408",
+        "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+        "description": "조회 수 18억 뷰에 빛나는 아이들이 가장 사랑하는 웹툰 [놓지 마 정신줄!]을 재미있고 유익한 학습 만화로 펴냈다. [놓지 마 정신줄!]의 캐릭터들이 모두 등장해, 초등 과학 교과과정을 알기 쉽고 재미나게 풀어준다.",
+        "cover_url": "http://image.aladin.co.kr/product/8781/70/cover/8960869643_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "놓지 마 정신줄",
+            "weight": 15.0
+          },
+          {
+            "word": "과학",
+            "weight": 10.0
+          },
+          {
+            "word": "정신",
+            "weight": 10.0
+          },
+          {
+            "word": "이유",
+            "weight": 7.0
+          },
+          {
+            "word": "원리",
+            "weight": 7.0
+          },
+          {
+            "word": "오줌",
+            "weight": 6.0
+          },
+          {
+            "word": "세계",
+            "weight": 5.0
+          },
+          {
+            "word": "만화",
+            "weight": 5.0
+          },
+          {
+            "word": "웹툰",
+            "weight": 4.0
+          },
+          {
+            "word": "동전",
+            "weight": 4.0
+          },
+          {
+            "word": "아빠",
+            "weight": 4.0
+          },
+          {
+            "word": "겨울잠",
+            "weight": 4.0
+          },
+          {
+            "word": "모양",
+            "weight": 4.0
+          },
+          {
+            "word": "학습",
+            "weight": 4.0
+          },
+          {
+            "word": "냄새",
+            "weight": 3.0
+          },
+          {
+            "word": "조회",
+            "weight": 3.0
+          },
+          {
+            "word": "18억",
+            "weight": 3.0
+          },
+          {
+            "word": "우주",
+            "weight": 3.0
+          },
+          {
+            "word": "놓지 마 과학",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 3.0
+          },
+          {
+            "word": "연애편지",
+            "weight": 2.0
+          },
+          {
+            "word": "쓴맛",
+            "weight": 2.0
+          },
+          {
+            "word": "시즌",
+            "weight": 2.0
+          },
+          {
+            "word": "변하는",
+            "weight": 2.0
+          },
+          {
+            "word": "습한",
+            "weight": 2.0
+          },
+          {
+            "word": "영역",
+            "weight": 2.0
+          },
+          {
+            "word": "뽀송뽀송",
+            "weight": 2.0
+          },
+          {
+            "word": "여기저기",
+            "weight": 2.0
+          },
+          {
+            "word": "연계표",
+            "weight": 2.0
+          },
+          {
+            "word": "뿌웅",
+            "weight": 2.0
+          },
+          {
+            "word": "성형",
+            "weight": 2.0
+          },
+          {
+            "word": "사막",
+            "weight": 2.0
+          },
+          {
+            "word": "노폐물",
+            "weight": 2.0
+          },
+          {
+            "word": "방귀",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "엄마",
+            "weight": 2.0
+          },
+          {
+            "word": "번개",
+            "weight": 2.0
+          },
+          {
+            "word": "강해",
+            "weight": 2.0
+          },
+          {
+            "word": "개가",
+            "weight": 2.0
+          },
+          {
+            "word": "개구리",
+            "weight": 2.0
+          },
+          {
+            "word": "건조",
+            "weight": 2.0
+          },
+          {
+            "word": "온천",
+            "weight": 2.0
+          },
+          {
+            "word": "외계인",
+            "weight": 2.0
+          },
+          {
+            "word": "교과",
+            "weight": 2.0
+          },
+          {
+            "word": "슈퍼맨",
+            "weight": 2.0
+          },
+          {
+            "word": "신태훈",
+            "weight": 2.0
+          },
+          {
+            "word": "기발",
+            "weight": 2.0
+          },
+          {
+            "word": "까닭",
+            "weight": 2.0
+          },
+          {
+            "word": "나승훈",
+            "weight": 2.0
+          },
+          {
+            "word": "내용",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9788960869929",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9788960863163",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9788960863545",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9788960867093",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9791162202425",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9791190630184",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9791190182737",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9791190305310",
+            "authors": "글·그림: 신태훈,나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학! 7 - 정신이 모험에 정신 놓다",
+            "isbn13": "9791162205624",
+            "authors": "신태훈|나승훈"
+          },
+          {
+            "bookname": "놓지 마 과학!",
+            "isbn13": "9791162207031",
+            "authors": "글·그림: 신태훈,나승훈"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "놓지 마 과학! 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000938166",
+        "title": "놓지 마 과학! 1: 정신이 달에 정신 놓다",
+        "subtitle": "놓지 마 정신줄 학습 만화",
+        "page": "192 p.",
+        "book_size": "181*244mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788960869646",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960869646",
+      "isbn_add_code": "77400",
+      "set_isbn": "9788960869639",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "놓지 마 과학! 1",
+      "subtitle": "놓지 마 정신줄 학습 만화",
+      "author": "글·그림: 신태훈,나승훈",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "주식회사 위즈덤하우스",
+      "publish_year": "2016",
+      "publish_predate": "20160801",
+      "kdc": "408",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 전집, 총서",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "192 p.",
+      "book_size": "181*244mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "조회 수 18억 뷰에 빛나는 아이들이 가장 사랑하는 웹툰 [놓지 마 정신줄!]을 재미있고 유익한 학습 만화로 펴냈다. [놓지 마 정신줄!]의 캐릭터들이 모두 등장해, 초등 과학 교과과정을 알기 쉽고 재미나게 풀어준다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8781/70/cover/8960869643_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "놓지 마 정신줄",
+          "weight": 15.0
+        },
+        {
+          "word": "과학",
+          "weight": 10.0
+        },
+        {
+          "word": "정신",
+          "weight": 10.0
+        },
+        {
+          "word": "이유",
+          "weight": 7.0
+        },
+        {
+          "word": "원리",
+          "weight": 7.0
+        },
+        {
+          "word": "오줌",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "동전",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 4.0
+        },
+        {
+          "word": "겨울잠",
+          "weight": 4.0
+        },
+        {
+          "word": "모양",
+          "weight": 4.0
+        },
+        {
+          "word": "학습",
+          "weight": 4.0
+        },
+        {
+          "word": "냄새",
+          "weight": 3.0
+        },
+        {
+          "word": "조회",
+          "weight": 3.0
+        },
+        {
+          "word": "18억",
+          "weight": 3.0
+        },
+        {
+          "word": "우주",
+          "weight": 3.0
+        },
+        {
+          "word": "놓지 마 과학",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "연애편지",
+          "weight": 2.0
+        },
+        {
+          "word": "쓴맛",
+          "weight": 2.0
+        },
+        {
+          "word": "시즌",
+          "weight": 2.0
+        },
+        {
+          "word": "변하는",
+          "weight": 2.0
+        },
+        {
+          "word": "습한",
+          "weight": 2.0
+        },
+        {
+          "word": "영역",
+          "weight": 2.0
+        },
+        {
+          "word": "뽀송뽀송",
+          "weight": 2.0
+        },
+        {
+          "word": "여기저기",
+          "weight": 2.0
+        },
+        {
+          "word": "연계표",
+          "weight": 2.0
+        },
+        {
+          "word": "뿌웅",
+          "weight": 2.0
+        },
+        {
+          "word": "성형",
+          "weight": 2.0
+        },
+        {
+          "word": "사막",
+          "weight": 2.0
+        },
+        {
+          "word": "노폐물",
+          "weight": 2.0
+        },
+        {
+          "word": "방귀",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "번개",
+          "weight": 2.0
+        },
+        {
+          "word": "강해",
+          "weight": 2.0
+        },
+        {
+          "word": "개가",
+          "weight": 2.0
+        },
+        {
+          "word": "개구리",
+          "weight": 2.0
+        },
+        {
+          "word": "건조",
+          "weight": 2.0
+        },
+        {
+          "word": "온천",
+          "weight": 2.0
+        },
+        {
+          "word": "외계인",
+          "weight": 2.0
+        },
+        {
+          "word": "교과",
+          "weight": 2.0
+        },
+        {
+          "word": "슈퍼맨",
+          "weight": 2.0
+        },
+        {
+          "word": "신태훈",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "까닭",
+          "weight": 2.0
+        },
+        {
+          "word": "나승훈",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        }
+      ],
+      "description": "조회 수 18억 뷰에 빛나는 아이들이 가장 사랑하는 웹툰 [놓지 마 정신줄!]을 재미있고 유익한 학습 만화로 펴냈다. [놓지 마 정신줄!]의 캐릭터들이 모두 등장해, 초등 과학 교과과정을 알기 쉽고 재미나게 풀어준다.",
+      "co_loan_books": [
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960869929",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960863163",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960863545",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9788960867093",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791162202425",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190630184",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190182737",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791190305310",
+          "authors": "글·그림: 신태훈,나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학! 7 - 정신이 모험에 정신 놓다",
+          "isbn13": "9791162205624",
+          "authors": "신태훈|나승훈"
+        },
+        {
+          "bookname": "놓지 마 과학!",
+          "isbn13": "9791162207031",
+          "authors": "글·그림: 신태훈,나승훈"
+        }
+      ],
+      "title": "놓지 마 과학! 1",
+      "author": "글·그림: 신태훈,나승훈",
+      "kdc_from_api": "408",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

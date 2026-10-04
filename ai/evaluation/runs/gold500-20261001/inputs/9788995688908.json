@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788995688908",
+  "captured_at": "2026-10-04T00:19:16.970741+09:00",
+  "lookup": {
+    "isbn": "9788995688908",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788995688908",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "스키너의 심리상자 열기",
+      "subtitle": "세상을 뒤바꾼 위대한 심리 실험 10장면",
+      "author": "로렌 슬레이터 지음;조증열 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "에코의 서재",
+      "publish_year": "2006",
+      "publish_predate": "20060420",
+      "kdc": "180.733",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 심리학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "341 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "인간 본성에 대한 기존의 개념을 완전히 뒤엎었던 20세기의 놀라운 심리실험들과 그 연구 결과를 정리하는 책이다. 20세기 심리학 발전에 지대한 공헌을 한 천재적인 심리학자, 정신의학자 열사람의 이야기를 통해 인간 심리와 본성에 관한 대담한 가설과 이론을 소개하면서 흥미진진한 심리학의 세계로 안내한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/57/14/cover/8995688904_3.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "실험",
+          "weight": 10.0
+        },
+        {
+          "word": "기억",
+          "weight": 6.0
+        },
+        {
+          "word": "인간",
+          "weight": 6.0
+        },
+        {
+          "word": "정신",
+          "weight": 6.0
+        },
+        {
+          "word": "심리학",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 심리학",
+          "weight": 4.0
+        },
+        {
+          "word": "20세기",
+          "weight": 4.0
+        },
+        {
+          "word": "미주리 리뷰",
+          "weight": 3.0
+        },
+        {
+          "word": "엔터테인먼트 위클리",
+          "weight": 3.0
+        },
+        {
+          "word": "복종",
+          "weight": 3.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "심리",
+          "weight": 3.0
+        },
+        {
+          "word": "인간이란 도대체 무엇인가",
+          "weight": 3.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "이론",
+          "weight": 3.0
+        },
+        {
+          "word": "엘르",
+          "weight": 3.0
+        },
+        {
+          "word": "방관자",
+          "weight": 2.0
+        },
+        {
+          "word": "권위",
+          "weight": 2.0
+        },
+        {
+          "word": "갈등",
+          "weight": 2.0
+        },
+        {
+          "word": "진단",
+          "weight": 2.0
+        },
+        {
+          "word": "본질",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "중독",
+          "weight": 2.0
+        },
+        {
+          "word": "약물",
+          "weight": 2.0
+        },
+        {
+          "word": "살인",
+          "weight": 2.0
+        },
+        {
+          "word": "데이비드",
+          "weight": 2.0
+        },
+        {
+          "word": "충격",
+          "weight": 2.0
+        },
+        {
+          "word": "로렌 슬레이터",
+          "weight": 2.0
+        },
+        {
+          "word": "메커니즘",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "본성",
+          "weight": 2.0
+        },
+        {
+          "word": "스키너",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "밀그램",
+          "weight": 2.0
+        },
+        {
+          "word": "가짜",
+          "weight": 2.0
+        },
+        {
+          "word": "심리실험",
+          "weight": 2.0
+        },
+        {
+          "word": "효과",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "조증열",
+          "weight": 2.0
+        },
+        {
+          "word": "에코의서재",
+          "weight": 2.0
+        },
+        {
+          "word": "Prozac",
+          "weight": 1.0
+        },
+        {
+          "word": "My",
+          "weight": 1.0
+        },
+        {
+          "word": "20달러",
+          "weight": 1.0
+        },
+        {
+          "word": "히틀러",
+          "weight": 1.0
+        },
+        {
+          "word": "과격",
+          "weight": 1.0
+        },
+        {
+          "word": "관찰",
+          "weight": 1.0
+        }
+      ],
+      "description": "인간 본성에 대한 기존의 개념을 완전히 뒤엎었던 20세기의 놀라운 심리실험들과 그 연구 결과를 정리하는 책이다. 20세기 심리학 발전에 지대한 공헌을 한 천재적인 심리학자, 정신의학자 열사람의 이야기를 통해 인간 심리와 본성에 관한 대담한 가설과 이론을 소개하면서 흥미진진한 심리학의 세계로 안내한다.",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+          "isbn13": "9788950966447",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "공정하다는 착각 :능력주의는 모두에게 같은 기회를 제공하는가 ",
+          "isbn13": "9791164136452",
+          "authors": "마이클 샌델 지음 ;함규진 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "isbn13": "9791190090018",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "스키너의 심리상자 열기",
+      "author": "로렌 슬레이터 지음;조증열 옮김",
+      "kdc_from_api": "180.733",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "스키너의 심리상자 열기",
+        "author": "로렌 슬레이터 지음;조증열 옮김",
+        "publisher": "에코의 서재",
+        "publish_predate": "20060420",
+        "isbn": "9788995688908",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "스키너의 심리상자 열기:세상을 뒤바꾼 위대한 심리 실험 10장면",
+        "author": "로렌 슬레이터 지음;조증열 옮김",
+        "publisher": "에코의서재",
+        "publish_year": "2006",
+        "isbn": "8995688904",
+        "isbn13": "9788995688908",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "180.733",
+        "class_nm": "철학 > 심리학 > 심리학",
+        "description": "인간 본성에 대한 기존의 개념을 완전히 뒤엎었던 20세기의 놀라운 심리실험들과 그 연구 결과를 정리하는 책이다. 20세기 심리학 발전에 지대한 공헌을 한 천재적인 심리학자, 정신의학자 열사람의 이야기를 통해 인간 심리와 본성에 관한 대담한 가설과 이론을 소개하면서 흥미진진한 심리학의 세계로 안내한다.",
+        "cover_url": "http://image.aladin.co.kr/product/57/14/cover/8995688904_3.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "실험",
+            "weight": 10.0
+          },
+          {
+            "word": "기억",
+            "weight": 6.0
+          },
+          {
+            "word": "인간",
+            "weight": 6.0
+          },
+          {
+            "word": "정신",
+            "weight": 6.0
+          },
+          {
+            "word": "심리학",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "교양 심리학",
+            "weight": 4.0
+          },
+          {
+            "word": "20세기",
+            "weight": 4.0
+          },
+          {
+            "word": "미주리 리뷰",
+            "weight": 3.0
+          },
+          {
+            "word": "엔터테인먼트 위클리",
+            "weight": 3.0
+          },
+          {
+            "word": "복종",
+            "weight": 3.0
+          },
+          {
+            "word": "문제",
+            "weight": 3.0
+          },
+          {
+            "word": "소개",
+            "weight": 3.0
+          },
+          {
+            "word": "심리",
+            "weight": 3.0
+          },
+          {
+            "word": "인간이란 도대체 무엇인가",
+            "weight": 3.0
+          },
+          {
+            "word": "뉴욕타임스",
+            "weight": 3.0
+          },
+          {
+            "word": "연구",
+            "weight": 3.0
+          },
+          {
+            "word": "이론",
+            "weight": 3.0
+          },
+          {
+            "word": "엘르",
+            "weight": 3.0
+          },
+          {
+            "word": "방관자",
+            "weight": 2.0
+          },
+          {
+            "word": "권위",
+            "weight": 2.0
+          },
+          {
+            "word": "갈등",
+            "weight": 2.0
+          },
+          {
+            "word": "진단",
+            "weight": 2.0
+          },
+          {
+            "word": "본질",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "중독",
+            "weight": 2.0
+          },
+          {
+            "word": "약물",
+            "weight": 2.0
+          },
+          {
+            "word": "살인",
+            "weight": 2.0
+          },
+          {
+            "word": "데이비드",
+            "weight": 2.0
+          },
+          {
+            "word": "충격",
+            "weight": 2.0
+          },
+          {
+            "word": "로렌 슬레이터",
+            "weight": 2.0
+          },
+          {
+            "word": "메커니즘",
+            "weight": 2.0
+          },
+          {
+            "word": "행동",
+            "weight": 2.0
+          },
+          {
+            "word": "본성",
+            "weight": 2.0
+          },
+          {
+            "word": "스키너",
+            "weight": 2.0
+          },
+          {
+            "word": "얼마",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          },
+          {
+            "word": "밀그램",
+            "weight": 2.0
+          },
+          {
+            "word": "가짜",
+            "weight": 2.0
+          },
+          {
+            "word": "심리실험",
+            "weight": 2.0
+          },
+          {
+            "word": "효과",
+            "weight": 2.0
+          },
+          {
+            "word": "건강",
+            "weight": 2.0
+          },
+          {
+            "word": "조증열",
+            "weight": 2.0
+          },
+          {
+            "word": "에코의서재",
+            "weight": 2.0
+          },
+          {
+            "word": "Prozac",
+            "weight": 1.0
+          },
+          {
+            "word": "My",
+            "weight": 1.0
+          },
+          {
+            "word": "20달러",
+            "weight": 1.0
+          },
+          {
+            "word": "히틀러",
+            "weight": 1.0
+          },
+          {
+            "word": "과격",
+            "weight": 1.0
+          },
+          {
+            "word": "관찰",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+            "isbn13": "9788950966447",
+            "authors": "최인철 지음"
+          },
+          {
+            "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+            "isbn13": "9788996991342",
+            "authors": "기시미 이치로,전경아 옮김"
+          },
+          {
+            "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+            "isbn13": "9788934972464",
+            "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+          },
+          {
+            "bookname": "채식주의자:한강 연작소설",
+            "isbn13": "9788936433598",
+            "authors": "한강"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "공정하다는 착각 :능력주의는 모두에게 같은 기회를 제공하는가 ",
+            "isbn13": "9791164136452",
+            "authors": "마이클 샌델 지음 ;함규진 옮김"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+            "isbn13": "9791190090018",
+            "authors": "지은이: 김초엽"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "스키너의 심리상자 열기"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001578803",
+        "title": "스키너의 심리상자 열기",
+        "subtitle": "세상을 뒤바꾼 위대한 심리 실험 10장면",
+        "page": "341 p.",
+        "book_size": "153*224mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788995688908",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788995688908",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "스키너의 심리상자 열기",
+      "subtitle": "세상을 뒤바꾼 위대한 심리 실험 10장면",
+      "author": "로렌 슬레이터 지음;조증열 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "에코의 서재",
+      "publish_year": "2006",
+      "publish_predate": "20060420",
+      "kdc": "180.733",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 심리학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "341 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "인간 본성에 대한 기존의 개념을 완전히 뒤엎었던 20세기의 놀라운 심리실험들과 그 연구 결과를 정리하는 책이다. 20세기 심리학 발전에 지대한 공헌을 한 천재적인 심리학자, 정신의학자 열사람의 이야기를 통해 인간 심리와 본성에 관한 대담한 가설과 이론을 소개하면서 흥미진진한 심리학의 세계로 안내한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/57/14/cover/8995688904_3.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "실험",
+          "weight": 10.0
+        },
+        {
+          "word": "기억",
+          "weight": 6.0
+        },
+        {
+          "word": "인간",
+          "weight": 6.0
+        },
+        {
+          "word": "정신",
+          "weight": 6.0
+        },
+        {
+          "word": "심리학",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 심리학",
+          "weight": 4.0
+        },
+        {
+          "word": "20세기",
+          "weight": 4.0
+        },
+        {
+          "word": "미주리 리뷰",
+          "weight": 3.0
+        },
+        {
+          "word": "엔터테인먼트 위클리",
+          "weight": 3.0
+        },
+        {
+          "word": "복종",
+          "weight": 3.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "심리",
+          "weight": 3.0
+        },
+        {
+          "word": "인간이란 도대체 무엇인가",
+          "weight": 3.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "이론",
+          "weight": 3.0
+        },
+        {
+          "word": "엘르",
+          "weight": 3.0
+        },
+        {
+          "word": "방관자",
+          "weight": 2.0
+        },
+        {
+          "word": "권위",
+          "weight": 2.0
+        },
+        {
+          "word": "갈등",
+          "weight": 2.0
+        },
+        {
+          "word": "진단",
+          "weight": 2.0
+        },
+        {
+          "word": "본질",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "중독",
+          "weight": 2.0
+        },
+        {
+          "word": "약물",
+          "weight": 2.0
+        },
+        {
+          "word": "살인",
+          "weight": 2.0
+        },
+        {
+          "word": "데이비드",
+          "weight": 2.0
+        },
+        {
+          "word": "충격",
+          "weight": 2.0
+        },
+        {
+          "word": "로렌 슬레이터",
+          "weight": 2.0
+        },
+        {
+          "word": "메커니즘",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "본성",
+          "weight": 2.0
+        },
+        {
+          "word": "스키너",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "밀그램",
+          "weight": 2.0
+        },
+        {
+          "word": "가짜",
+          "weight": 2.0
+        },
+        {
+          "word": "심리실험",
+          "weight": 2.0
+        },
+        {
+          "word": "효과",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "조증열",
+          "weight": 2.0
+        },
+        {
+          "word": "에코의서재",
+          "weight": 2.0
+        },
+        {
+          "word": "Prozac",
+          "weight": 1.0
+        },
+        {
+          "word": "My",
+          "weight": 1.0
+        },
+        {
+          "word": "20달러",
+          "weight": 1.0
+        },
+        {
+          "word": "히틀러",
+          "weight": 1.0
+        },
+        {
+          "word": "과격",
+          "weight": 1.0
+        },
+        {
+          "word": "관찰",
+          "weight": 1.0
+        }
+      ],
+      "description": "인간 본성에 대한 기존의 개념을 완전히 뒤엎었던 20세기의 놀라운 심리실험들과 그 연구 결과를 정리하는 책이다. 20세기 심리학 발전에 지대한 공헌을 한 천재적인 심리학자, 정신의학자 열사람의 이야기를 통해 인간 심리와 본성에 관한 대담한 가설과 이론을 소개하면서 흥미진진한 심리학의 세계로 안내한다.",
+      "co_loan_books": [
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+          "isbn13": "9788950966447",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "공정하다는 착각 :능력주의는 모두에게 같은 기회를 제공하는가 ",
+          "isbn13": "9791164136452",
+          "authors": "마이클 샌델 지음 ;함규진 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "isbn13": "9791190090018",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "스키너의 심리상자 열기",
+      "author": "로렌 슬레이터 지음;조증열 옮김",
+      "kdc_from_api": "180.733",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

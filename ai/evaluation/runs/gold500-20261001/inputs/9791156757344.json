@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791156757344",
+  "captured_at": "2026-10-03T00:14:56.874538+09:00",
+  "lookup": {
+    "isbn": "9791156757344",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791156757344",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "우울할 땐 뇌과학",
+      "subtitle": "",
+      "author": "앨릭스 코브 지음 ;정지인 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "심심 :푸른숲",
+      "publish_year": "2018",
+      "publish_predate": "20180320",
+      "kdc": "511.1813",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 내과학",
+      "ddc": "612.82",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "145*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "아마존 심리 분야 장기 베스트셀러. UCLA에서 뇌 과학으로 박사학위를 받고, 15년간 뇌 과학을 도구 삼아 ‘우울증’만 연구해온 우울증 덕후, 앨릭스 코브 박사가 그동안의 연구 성과를 집대성한 책이다.",
+      "control_no": "CIP2018006696",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "우울증",
+          "weight": 86.0
+        },
+        {
+          "word": "습관",
+          "weight": 27.0
+        },
+        {
+          "word": "사람",
+          "weight": 24.0
+        },
+        {
+          "word": "생각",
+          "weight": 21.0
+        },
+        {
+          "word": "불안",
+          "weight": 20.0
+        },
+        {
+          "word": "변화",
+          "weight": 19.0
+        },
+        {
+          "word": "걱정",
+          "weight": 18.0
+        },
+        {
+          "word": "과학",
+          "weight": 18.0
+        },
+        {
+          "word": "결정",
+          "weight": 18.0
+        },
+        {
+          "word": "상태",
+          "weight": 17.0
+        },
+        {
+          "word": "회로",
+          "weight": 16.0
+        },
+        {
+          "word": "도움",
+          "weight": 15.0
+        },
+        {
+          "word": "기분",
+          "weight": 14.0
+        },
+        {
+          "word": "이유",
+          "weight": 13.0
+        },
+        {
+          "word": "운동",
+          "weight": 13.0
+        },
+        {
+          "word": "문제",
+          "weight": 12.0
+        },
+        {
+          "word": "가지",
+          "weight": 12.0
+        },
+        {
+          "word": "우울",
+          "weight": 11.0
+        },
+        {
+          "word": "감사",
+          "weight": 11.0
+        },
+        {
+          "word": "사실",
+          "weight": 10.0
+        },
+        {
+          "word": "신경과학",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 10.0
+        },
+        {
+          "word": "전전두피질",
+          "weight": 9.0
+        },
+        {
+          "word": "통증",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 9.0
+        },
+        {
+          "word": "수면",
+          "weight": 9.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 9.0
+        },
+        {
+          "word": "하강나선",
+          "weight": 8.0
+        },
+        {
+          "word": "바이오피드백",
+          "weight": 8.0
+        },
+        {
+          "word": "효과",
+          "weight": 8.0
+        },
+        {
+          "word": "근거",
+          "weight": 8.0
+        },
+        {
+          "word": "연구",
+          "weight": 8.0
+        },
+        {
+          "word": "선조체",
+          "weight": 7.0
+        },
+        {
+          "word": "과학적",
+          "weight": 7.0
+        },
+        {
+          "word": "설명",
+          "weight": 7.0
+        },
+        {
+          "word": "BDNF",
+          "weight": 6.0
+        },
+        {
+          "word": "의미",
+          "weight": 6.0
+        },
+        {
+          "word": "부정적",
+          "weight": 6.0
+        },
+        {
+          "word": "친구",
+          "weight": 6.0
+        },
+        {
+          "word": "자신",
+          "weight": 6.0
+        },
+        {
+          "word": "방향",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 6.0
+        },
+        {
+          "word": "상호작용",
+          "weight": 6.0
+        },
+        {
+          "word": "그중",
+          "weight": 6.0
+        },
+        {
+          "word": "활용",
+          "weight": 6.0
+        },
+        {
+          "word": "우울할 땐 뇌 과학",
+          "weight": 6.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "방식",
+          "weight": 5.0
+        },
+        {
+          "word": "원리",
+          "weight": 5.0
+        },
+        {
+          "word": "작동",
+          "weight": 5.0
+        }
+      ],
+      "description": "아마존 심리 분야 장기 베스트셀러. UCLA에서 뇌 과학으로 박사학위를 받고, 15년간 뇌 과학을 도구 삼아 ‘우울증’만 연구해온 우울증 덕후, 앨릭스 코브 박사가 그동안의 연구 성과를 집대성한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "도파민네이션 :쾌락 과잉 시대에서 균형 찾기 ",
+          "isbn13": "9788965965046",
+          "authors": "애나 렘키 지음 ;김두완 옮김"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "우울할 땐 뇌 과학, 실천할 땐 워크북 :우울에 빠진 뇌를 재배선하는 10가지 실천 도구 ",
+          "isbn13": "9791156758082",
+          "authors": "앨릭스 코브 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "다정한 것이 살아남는다 ",
+          "isbn13": "9791197413025",
+          "authors": "지은이: 브라이언 헤어,옮긴이: 이민아"
+        }
+      ],
+      "title": "우울할 땐 뇌과학",
+      "author": "앨릭스 코브 지음 ;정지인 옮김",
+      "kdc_from_api": "511.1813",
+      "ddc_from_api": "612.82",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "우울할 땐 뇌과학",
+        "author": "앨릭스 코브 지음 ;정지인 옮김",
+        "publisher": "심심 :푸른숲",
+        "publish_predate": "20180320",
+        "isbn": "9791156757344",
+        "isbn_add_code": "03180",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "335 p.",
+        "book_size": "145*215",
+        "form": "종이책",
+        "kdc": "511.1813",
+        "ddc": "612.82",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018006696",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "우울할 땐 뇌과학 ",
+        "author": "앨릭스 코브 지음 ;정지인 옮김",
+        "publisher": "푸른숲",
+        "publish_year": "2018",
+        "isbn": "1156757347",
+        "isbn13": "9791156757344",
+        "isbn_add_code": "03180",
+        "volume": "",
+        "class_no": "513.8525",
+        "class_nm": "기술과학 > 의학 > 내과학",
+        "description": "아마존 심리 분야 장기 베스트셀러. UCLA에서 뇌 과학으로 박사학위를 받고, 15년간 뇌 과학을 도구 삼아 ‘우울증’만 연구해온 우울증 덕후, 앨릭스 코브 박사가 그동안의 연구 성과를 집대성한 책이다.",
+        "cover_url": "http://image.aladin.co.kr/product/13494/71/cover/k052532504_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "우울증",
+            "weight": 86.0
+          },
+          {
+            "word": "습관",
+            "weight": 27.0
+          },
+          {
+            "word": "사람",
+            "weight": 24.0
+          },
+          {
+            "word": "생각",
+            "weight": 21.0
+          },
+          {
+            "word": "불안",
+            "weight": 20.0
+          },
+          {
+            "word": "변화",
+            "weight": 19.0
+          },
+          {
+            "word": "걱정",
+            "weight": 18.0
+          },
+          {
+            "word": "과학",
+            "weight": 18.0
+          },
+          {
+            "word": "결정",
+            "weight": 18.0
+          },
+          {
+            "word": "상태",
+            "weight": 17.0
+          },
+          {
+            "word": "회로",
+            "weight": 16.0
+          },
+          {
+            "word": "도움",
+            "weight": 15.0
+          },
+          {
+            "word": "기분",
+            "weight": 14.0
+          },
+          {
+            "word": "이유",
+            "weight": 13.0
+          },
+          {
+            "word": "운동",
+            "weight": 13.0
+          },
+          {
+            "word": "문제",
+            "weight": 12.0
+          },
+          {
+            "word": "가지",
+            "weight": 12.0
+          },
+          {
+            "word": "우울",
+            "weight": 11.0
+          },
+          {
+            "word": "감사",
+            "weight": 11.0
+          },
+          {
+            "word": "사실",
+            "weight": 10.0
+          },
+          {
+            "word": "신경과학",
+            "weight": 10.0
+          },
+          {
+            "word": "마음",
+            "weight": 10.0
+          },
+          {
+            "word": "전전두피질",
+            "weight": 9.0
+          },
+          {
+            "word": "통증",
+            "weight": 9.0
+          },
+          {
+            "word": "방법",
+            "weight": 9.0
+          },
+          {
+            "word": "수면",
+            "weight": 9.0
+          },
+          {
+            "word": "긍정적",
+            "weight": 9.0
+          },
+          {
+            "word": "하강나선",
+            "weight": 8.0
+          },
+          {
+            "word": "바이오피드백",
+            "weight": 8.0
+          },
+          {
+            "word": "효과",
+            "weight": 8.0
+          },
+          {
+            "word": "근거",
+            "weight": 8.0
+          },
+          {
+            "word": "연구",
+            "weight": 8.0
+          },
+          {
+            "word": "선조체",
+            "weight": 7.0
+          },
+          {
+            "word": "과학적",
+            "weight": 7.0
+          },
+          {
+            "word": "설명",
+            "weight": 7.0
+          },
+          {
+            "word": "BDNF",
+            "weight": 6.0
+          },
+          {
+            "word": "의미",
+            "weight": 6.0
+          },
+          {
+            "word": "부정적",
+            "weight": 6.0
+          },
+          {
+            "word": "친구",
+            "weight": 6.0
+          },
+          {
+            "word": "자신",
+            "weight": 6.0
+          },
+          {
+            "word": "방향",
+            "weight": 6.0
+          },
+          {
+            "word": "독자",
+            "weight": 6.0
+          },
+          {
+            "word": "상호작용",
+            "weight": 6.0
+          },
+          {
+            "word": "그중",
+            "weight": 6.0
+          },
+          {
+            "word": "활용",
+            "weight": 6.0
+          },
+          {
+            "word": "우울할 땐 뇌 과학",
+            "weight": 6.0
+          },
+          {
+            "word": "구체적",
+            "weight": 5.0
+          },
+          {
+            "word": "방식",
+            "weight": 5.0
+          },
+          {
+            "word": "원리",
+            "weight": 5.0
+          },
+          {
+            "word": "작동",
+            "weight": 5.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "도파민네이션 :쾌락 과잉 시대에서 균형 찾기 ",
+            "isbn13": "9788965965046",
+            "authors": "애나 렘키 지음 ;김두완 옮김"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "우울할 땐 뇌 과학, 실천할 땐 워크북 :우울에 빠진 뇌를 재배선하는 10가지 실천 도구 ",
+            "isbn13": "9791156758082",
+            "authors": "앨릭스 코브 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "다정한 것이 살아남는다 ",
+            "isbn13": "9791197413025",
+            "authors": "지은이: 브라이언 헤어,옮긴이: 이민아"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "우울할 땐 뇌과학"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001744837",
+        "title": "우울할 땐 뇌 과학",
+        "subtitle": "",
+        "page": "336 p.",
+        "book_size": "146*215mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791156757344",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791156757344",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "우울할 땐 뇌과학",
+      "subtitle": "",
+      "author": "앨릭스 코브 지음 ;정지인 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "심심 :푸른숲",
+      "publish_year": "2018",
+      "publish_predate": "20180320",
+      "kdc": "511.1813",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 내과학",
+      "ddc": "612.82",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "145*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "아마존 심리 분야 장기 베스트셀러. UCLA에서 뇌 과학으로 박사학위를 받고, 15년간 뇌 과학을 도구 삼아 ‘우울증’만 연구해온 우울증 덕후, 앨릭스 코브 박사가 그동안의 연구 성과를 집대성한 책이다.",
+      "control_no": "CIP2018006696",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6571587_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "우울증",
+          "weight": 86.0
+        },
+        {
+          "word": "습관",
+          "weight": 27.0
+        },
+        {
+          "word": "사람",
+          "weight": 24.0
+        },
+        {
+          "word": "생각",
+          "weight": 21.0
+        },
+        {
+          "word": "불안",
+          "weight": 20.0
+        },
+        {
+          "word": "변화",
+          "weight": 19.0
+        },
+        {
+          "word": "걱정",
+          "weight": 18.0
+        },
+        {
+          "word": "과학",
+          "weight": 18.0
+        },
+        {
+          "word": "결정",
+          "weight": 18.0
+        },
+        {
+          "word": "상태",
+          "weight": 17.0
+        },
+        {
+          "word": "회로",
+          "weight": 16.0
+        },
+        {
+          "word": "도움",
+          "weight": 15.0
+        },
+        {
+          "word": "기분",
+          "weight": 14.0
+        },
+        {
+          "word": "이유",
+          "weight": 13.0
+        },
+        {
+          "word": "운동",
+          "weight": 13.0
+        },
+        {
+          "word": "문제",
+          "weight": 12.0
+        },
+        {
+          "word": "가지",
+          "weight": 12.0
+        },
+        {
+          "word": "우울",
+          "weight": 11.0
+        },
+        {
+          "word": "감사",
+          "weight": 11.0
+        },
+        {
+          "word": "사실",
+          "weight": 10.0
+        },
+        {
+          "word": "신경과학",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 10.0
+        },
+        {
+          "word": "전전두피질",
+          "weight": 9.0
+        },
+        {
+          "word": "통증",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 9.0
+        },
+        {
+          "word": "수면",
+          "weight": 9.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 9.0
+        },
+        {
+          "word": "하강나선",
+          "weight": 8.0
+        },
+        {
+          "word": "바이오피드백",
+          "weight": 8.0
+        },
+        {
+          "word": "효과",
+          "weight": 8.0
+        },
+        {
+          "word": "근거",
+          "weight": 8.0
+        },
+        {
+          "word": "연구",
+          "weight": 8.0
+        },
+        {
+          "word": "선조체",
+          "weight": 7.0
+        },
+        {
+          "word": "과학적",
+          "weight": 7.0
+        },
+        {
+          "word": "설명",
+          "weight": 7.0
+        },
+        {
+          "word": "BDNF",
+          "weight": 6.0
+        },
+        {
+          "word": "의미",
+          "weight": 6.0
+        },
+        {
+          "word": "부정적",
+          "weight": 6.0
+        },
+        {
+          "word": "친구",
+          "weight": 6.0
+        },
+        {
+          "word": "자신",
+          "weight": 6.0
+        },
+        {
+          "word": "방향",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 6.0
+        },
+        {
+          "word": "상호작용",
+          "weight": 6.0
+        },
+        {
+          "word": "그중",
+          "weight": 6.0
+        },
+        {
+          "word": "활용",
+          "weight": 6.0
+        },
+        {
+          "word": "우울할 땐 뇌 과학",
+          "weight": 6.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "방식",
+          "weight": 5.0
+        },
+        {
+          "word": "원리",
+          "weight": 5.0
+        },
+        {
+          "word": "작동",
+          "weight": 5.0
+        }
+      ],
+      "description": "아마존 심리 분야 장기 베스트셀러. UCLA에서 뇌 과학으로 박사학위를 받고, 15년간 뇌 과학을 도구 삼아 ‘우울증’만 연구해온 우울증 덕후, 앨릭스 코브 박사가 그동안의 연구 성과를 집대성한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "도파민네이션 :쾌락 과잉 시대에서 균형 찾기 ",
+          "isbn13": "9788965965046",
+          "authors": "애나 렘키 지음 ;김두완 옮김"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "우울할 땐 뇌 과학, 실천할 땐 워크북 :우울에 빠진 뇌를 재배선하는 10가지 실천 도구 ",
+          "isbn13": "9791156758082",
+          "authors": "앨릭스 코브 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "다정한 것이 살아남는다 ",
+          "isbn13": "9791197413025",
+          "authors": "지은이: 브라이언 헤어,옮긴이: 이민아"
+        }
+      ],
+      "title": "우울할 땐 뇌과학",
+      "author": "앨릭스 코브 지음 ;정지인 옮김",
+      "kdc_from_api": "511.1813",
+      "ddc_from_api": "612.82",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

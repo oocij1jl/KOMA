@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791197413025",
+  "captured_at": "2026-10-02T00:10:45.329304+09:00",
+  "lookup": {
+    "isbn": "9791197413025",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197413025",
+      "isbn_add_code": "03400",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩22000",
+      "title": "다정한 것이 살아남는다",
+      "subtitle": "친화력으로 세상을 바꾸는 인류의 진화에 관하여",
+      "author": "지은이: 브라이언 헤어,버네사 우즈 ;옮긴이: 이민아",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "디플롯",
+      "publish_year": "2021",
+      "publish_predate": "20210726",
+      "kdc": "182.4",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 차이심리학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "396 p.",
+      "book_size": "135*195",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "늑대는 멸종 위기에 처했는데, 같은 조상에서 갈라져 나온 개는 어떻게 개체 수를 늘려나갈 수 있었을까? 사나운 침팬지보다 다정한 보노보가 더 성공적으로 번식할 수 있던 이유는? 브라이언 헤어와 버네사 우즈는 이에 대해 ‘다정한 것이 살아남는다’라는 답을 내놓는다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27608/83/cover/k722733028_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "다정",
+          "weight": 10.0
+        },
+        {
+          "word": "친화력",
+          "weight": 6.0
+        },
+        {
+          "word": "네이처",
+          "weight": 6.0
+        },
+        {
+          "word": "진화",
+          "weight": 5.0
+        },
+        {
+          "word": "헤어",
+          "weight": 4.0
+        },
+        {
+          "word": "이들",
+          "weight": 4.0
+        },
+        {
+          "word": "적자생존",
+          "weight": 4.0
+        },
+        {
+          "word": "최적자가",
+          "weight": 4.0
+        },
+        {
+          "word": "살아남는다",
+          "weight": 4.0
+        },
+        {
+          "word": "신체적",
+          "weight": 4.0
+        },
+        {
+          "word": "버네사",
+          "weight": 3.0
+        },
+        {
+          "word": "사이언스",
+          "weight": 3.0
+        },
+        {
+          "word": "우즈",
+          "weight": 3.0
+        },
+        {
+          "word": "미국국립과학원회보",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사피엔스",
+          "weight": 3.0
+        },
+        {
+          "word": "보노보",
+          "weight": 3.0
+        },
+        {
+          "word": "침팬지",
+          "weight": 3.0
+        },
+        {
+          "word": "60분",
+          "weight": 3.0
+        },
+        {
+          "word": "혐오",
+          "weight": 3.0
+        },
+        {
+          "word": "스미소니언매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "늑대",
+          "weight": 3.0
+        },
+        {
+          "word": "호모",
+          "weight": 3.0
+        },
+        {
+          "word": "노바 NOVA",
+          "weight": 3.0
+        },
+        {
+          "word": "생존",
+          "weight": 2.0
+        },
+        {
+          "word": "계승자",
+          "weight": 2.0
+        },
+        {
+          "word": "브라이언",
+          "weight": 2.0
+        },
+        {
+          "word": "비인간화",
+          "weight": 2.0
+        },
+        {
+          "word": "네안데르탈인",
+          "weight": 2.0
+        },
+        {
+          "word": "연구",
+          "weight": 2.0
+        },
+        {
+          "word": "까닭",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "기초과학 교양과학",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "경향",
+          "weight": 2.0
+        },
+        {
+          "word": "개체",
+          "weight": 2.0
+        },
+        {
+          "word": "승자",
+          "weight": 2.0
+        },
+        {
+          "word": "번식",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "우월",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "Center",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "외집단",
+          "weight": 2.0
+        },
+        {
+          "word": "위기",
+          "weight": 2.0
+        },
+        {
+          "word": "이면",
+          "weight": 2.0
+        },
+        {
+          "word": "이민아",
+          "weight": 2.0
+        },
+        {
+          "word": "브라이언 헤어",
+          "weight": 2.0
+        },
+        {
+          "word": "멸종",
+          "weight": 2.0
+        },
+        {
+          "word": "생존자",
+          "weight": 2.0
+        }
+      ],
+      "description": "늑대는 멸종 위기에 처했는데, 같은 조상에서 갈라져 나온 개는 어떻게 개체 수를 늘려나갈 수 있었을까? 사나운 침팬지보다 다정한 보노보가 더 성공적으로 번식할 수 있던 이유는? 브라이언 헤어와 버네사 우즈는 이에 대해 ‘다정한 것이 살아남는다’라는 답을 내놓는다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        }
+      ],
+      "title": "다정한 것이 살아남는다",
+      "author": "지은이: 브라이언 헤어,버네사 우즈 ;옮긴이: 이민아",
+      "kdc_from_api": "182.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "다정한 것이 살아남는다",
+        "author": "지은이: 브라이언 헤어,버네사 우즈 ;옮긴이: 이민아",
+        "publisher": "디플롯",
+        "publish_predate": "20210726",
+        "isbn": "9791197413025",
+        "isbn_add_code": "03400",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩22000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "395 p.",
+        "book_size": "135*195",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "다정한 것이 살아남는다 ",
+        "author": "지은이: 브라이언 헤어,옮긴이: 이민아",
+        "publisher": "디플롯",
+        "publish_year": "2021",
+        "isbn": "1197413022",
+        "isbn13": "9791197413025",
+        "isbn_add_code": "03400",
+        "volume": "",
+        "class_no": "182.4",
+        "class_nm": "철학 > 심리학 > 차이심리학",
+        "description": "늑대는 멸종 위기에 처했는데, 같은 조상에서 갈라져 나온 개는 어떻게 개체 수를 늘려나갈 수 있었을까? 사나운 침팬지보다 다정한 보노보가 더 성공적으로 번식할 수 있던 이유는? 브라이언 헤어와 버네사 우즈는 이에 대해 ‘다정한 것이 살아남는다’라는 답을 내놓는다.",
+        "cover_url": "https://image.aladin.co.kr/product/27608/83/cover/k722733028_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "다정",
+            "weight": 10.0
+          },
+          {
+            "word": "친화력",
+            "weight": 6.0
+          },
+          {
+            "word": "네이처",
+            "weight": 6.0
+          },
+          {
+            "word": "진화",
+            "weight": 5.0
+          },
+          {
+            "word": "헤어",
+            "weight": 4.0
+          },
+          {
+            "word": "이들",
+            "weight": 4.0
+          },
+          {
+            "word": "적자생존",
+            "weight": 4.0
+          },
+          {
+            "word": "최적자가",
+            "weight": 4.0
+          },
+          {
+            "word": "살아남는다",
+            "weight": 4.0
+          },
+          {
+            "word": "신체적",
+            "weight": 4.0
+          },
+          {
+            "word": "버네사",
+            "weight": 3.0
+          },
+          {
+            "word": "사이언스",
+            "weight": 3.0
+          },
+          {
+            "word": "우즈",
+            "weight": 3.0
+          },
+          {
+            "word": "미국국립과학원회보",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "사피엔스",
+            "weight": 3.0
+          },
+          {
+            "word": "보노보",
+            "weight": 3.0
+          },
+          {
+            "word": "침팬지",
+            "weight": 3.0
+          },
+          {
+            "word": "60분",
+            "weight": 3.0
+          },
+          {
+            "word": "혐오",
+            "weight": 3.0
+          },
+          {
+            "word": "스미소니언매거진",
+            "weight": 3.0
+          },
+          {
+            "word": "늑대",
+            "weight": 3.0
+          },
+          {
+            "word": "호모",
+            "weight": 3.0
+          },
+          {
+            "word": "노바 NOVA",
+            "weight": 3.0
+          },
+          {
+            "word": "생존",
+            "weight": 2.0
+          },
+          {
+            "word": "계승자",
+            "weight": 2.0
+          },
+          {
+            "word": "브라이언",
+            "weight": 2.0
+          },
+          {
+            "word": "비인간화",
+            "weight": 2.0
+          },
+          {
+            "word": "네안데르탈인",
+            "weight": 2.0
+          },
+          {
+            "word": "연구",
+            "weight": 2.0
+          },
+          {
+            "word": "까닭",
+            "weight": 2.0
+          },
+          {
+            "word": "과학",
+            "weight": 2.0
+          },
+          {
+            "word": "기초과학 교양과학",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "경향",
+            "weight": 2.0
+          },
+          {
+            "word": "개체",
+            "weight": 2.0
+          },
+          {
+            "word": "승자",
+            "weight": 2.0
+          },
+          {
+            "word": "번식",
+            "weight": 2.0
+          },
+          {
+            "word": "이유",
+            "weight": 2.0
+          },
+          {
+            "word": "우월",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "Center",
+            "weight": 2.0
+          },
+          {
+            "word": "심리학",
+            "weight": 2.0
+          },
+          {
+            "word": "외집단",
+            "weight": 2.0
+          },
+          {
+            "word": "위기",
+            "weight": 2.0
+          },
+          {
+            "word": "이면",
+            "weight": 2.0
+          },
+          {
+            "word": "이민아",
+            "weight": 2.0
+          },
+          {
+            "word": "브라이언 헤어",
+            "weight": 2.0
+          },
+          {
+            "word": "멸종",
+            "weight": 2.0
+          },
+          {
+            "word": "생존자",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "천 개의 파랑 :천선란 장편소설 ",
+            "isbn13": "9791190090261",
+            "authors": "지은이: 천선란"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "다정한 것이 살아남는다 - 친화력으로 세상을 바꾸는 인류의 진화에 관하여"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001986381",
+        "title": "다정한 것이 살아남는다",
+        "subtitle": "양장본 Hardcover",
+        "page": "396 p.",
+        "book_size": "142*202mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791197413025",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197413025",
+      "isbn_add_code": "03400",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩22000",
+      "title": "다정한 것이 살아남는다",
+      "subtitle": "친화력으로 세상을 바꾸는 인류의 진화에 관하여",
+      "author": "지은이: 브라이언 헤어,버네사 우즈 ;옮긴이: 이민아",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "디플롯",
+      "publish_year": "2021",
+      "publish_predate": "20210726",
+      "kdc": "182.4",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 차이심리학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "396 p.",
+      "book_size": "135*195",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "늑대는 멸종 위기에 처했는데, 같은 조상에서 갈라져 나온 개는 어떻게 개체 수를 늘려나갈 수 있었을까? 사나운 침팬지보다 다정한 보노보가 더 성공적으로 번식할 수 있던 이유는? 브라이언 헤어와 버네사 우즈는 이에 대해 ‘다정한 것이 살아남는다’라는 답을 내놓는다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27608/83/cover/k722733028_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "다정",
+          "weight": 10.0
+        },
+        {
+          "word": "친화력",
+          "weight": 6.0
+        },
+        {
+          "word": "네이처",
+          "weight": 6.0
+        },
+        {
+          "word": "진화",
+          "weight": 5.0
+        },
+        {
+          "word": "헤어",
+          "weight": 4.0
+        },
+        {
+          "word": "이들",
+          "weight": 4.0
+        },
+        {
+          "word": "적자생존",
+          "weight": 4.0
+        },
+        {
+          "word": "최적자가",
+          "weight": 4.0
+        },
+        {
+          "word": "살아남는다",
+          "weight": 4.0
+        },
+        {
+          "word": "신체적",
+          "weight": 4.0
+        },
+        {
+          "word": "버네사",
+          "weight": 3.0
+        },
+        {
+          "word": "사이언스",
+          "weight": 3.0
+        },
+        {
+          "word": "우즈",
+          "weight": 3.0
+        },
+        {
+          "word": "미국국립과학원회보",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사피엔스",
+          "weight": 3.0
+        },
+        {
+          "word": "보노보",
+          "weight": 3.0
+        },
+        {
+          "word": "침팬지",
+          "weight": 3.0
+        },
+        {
+          "word": "60분",
+          "weight": 3.0
+        },
+        {
+          "word": "혐오",
+          "weight": 3.0
+        },
+        {
+          "word": "스미소니언매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "늑대",
+          "weight": 3.0
+        },
+        {
+          "word": "호모",
+          "weight": 3.0
+        },
+        {
+          "word": "노바 NOVA",
+          "weight": 3.0
+        },
+        {
+          "word": "생존",
+          "weight": 2.0
+        },
+        {
+          "word": "계승자",
+          "weight": 2.0
+        },
+        {
+          "word": "브라이언",
+          "weight": 2.0
+        },
+        {
+          "word": "비인간화",
+          "weight": 2.0
+        },
+        {
+          "word": "네안데르탈인",
+          "weight": 2.0
+        },
+        {
+          "word": "연구",
+          "weight": 2.0
+        },
+        {
+          "word": "까닭",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "기초과학 교양과학",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "경향",
+          "weight": 2.0
+        },
+        {
+          "word": "개체",
+          "weight": 2.0
+        },
+        {
+          "word": "승자",
+          "weight": 2.0
+        },
+        {
+          "word": "번식",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "우월",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "Center",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "외집단",
+          "weight": 2.0
+        },
+        {
+          "word": "위기",
+          "weight": 2.0
+        },
+        {
+          "word": "이면",
+          "weight": 2.0
+        },
+        {
+          "word": "이민아",
+          "weight": 2.0
+        },
+        {
+          "word": "브라이언 헤어",
+          "weight": 2.0
+        },
+        {
+          "word": "멸종",
+          "weight": 2.0
+        },
+        {
+          "word": "생존자",
+          "weight": 2.0
+        }
+      ],
+      "description": "늑대는 멸종 위기에 처했는데, 같은 조상에서 갈라져 나온 개는 어떻게 개체 수를 늘려나갈 수 있었을까? 사나운 침팬지보다 다정한 보노보가 더 성공적으로 번식할 수 있던 이유는? 브라이언 헤어와 버네사 우즈는 이에 대해 ‘다정한 것이 살아남는다’라는 답을 내놓는다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        }
+      ],
+      "title": "다정한 것이 살아남는다",
+      "author": "지은이: 브라이언 헤어,버네사 우즈 ;옮긴이: 이민아",
+      "kdc_from_api": "182.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

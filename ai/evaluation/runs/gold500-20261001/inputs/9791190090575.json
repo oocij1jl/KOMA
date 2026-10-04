@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190090575",
+  "captured_at": "2026-10-02T00:17:38.238871+09:00",
+  "lookup": {
+    "isbn": "9791190090575",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190090575",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "초월하는 세계의 사랑",
+      "subtitle": "양장본 Hardcover",
+      "author": "지은이: 우다영,조예은,문보영,심너울,박서련",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2022",
+      "publish_predate": "20220405",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "288 p.",
+      "book_size": "130*212",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 상상력과 발랄한 문체로 자신만의 스타일과 세계를 구축해왔던 5명의 젊은 작가들. 젊은 세대의 세계관과 감수성을 보여주면서, 동시에 기존 문학이 가지고 있던 장르 질서와 경계를 초월하는 새로운 SF가 펼쳐진다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/11/9791190090575.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 11.0
+        },
+        {
+          "word": "문학",
+          "weight": 10.0
+        },
+        {
+          "word": "한국",
+          "weight": 6.0
+        },
+        {
+          "word": "초월",
+          "weight": 6.0
+        },
+        {
+          "word": "세대",
+          "weight": 5.0
+        },
+        {
+          "word": "작가노트",
+          "weight": 5.0
+        },
+        {
+          "word": "기존",
+          "weight": 4.0
+        },
+        {
+          "word": "질서",
+          "weight": 4.0
+        },
+        {
+          "word": "흐름",
+          "weight": 4.0
+        },
+        {
+          "word": "긴 예지",
+          "weight": 3.0
+        },
+        {
+          "word": "돌아오는 호수에서",
+          "weight": 3.0
+        },
+        {
+          "word": "우다영",
+          "weight": 3.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "이다음에 지구에서 태어나면",
+          "weight": 3.0
+        },
+        {
+          "word": "슬프지 않은 기억칩",
+          "weight": 3.0
+        },
+        {
+          "word": "박서련",
+          "weight": 3.0
+        },
+        {
+          "word": "커뮤니케이션의 이해",
+          "weight": 3.0
+        },
+        {
+          "word": "경계",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "말로",
+          "weight": 2.0
+        },
+        {
+          "word": "앙팡",
+          "weight": 2.0
+        },
+        {
+          "word": "테리블",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "허블",
+          "weight": 2.0
+        },
+        {
+          "word": "장르",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "대변",
+          "weight": 2.0
+        },
+        {
+          "word": "스타일",
+          "weight": 1.0
+        },
+        {
+          "word": "시대",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "감지",
+          "weight": 1.0
+        },
+        {
+          "word": "신인",
+          "weight": 1.0
+        },
+        {
+          "word": "심너울",
+          "weight": 1.0
+        },
+        {
+          "word": "2022년",
+          "weight": 1.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 1.0
+        },
+        {
+          "word": "예민",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "감수성",
+          "weight": 1.0
+        },
+        {
+          "word": "관념",
+          "weight": 1.0
+        },
+        {
+          "word": "동시",
+          "weight": 1.0
+        },
+        {
+          "word": "명실상부",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "문보영",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "기성세대",
+          "weight": 1.0
+        },
+        {
+          "word": "권위",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        }
+      ],
+      "description": "독특한 상상력과 발랄한 문체로 자신만의 스타일과 세계를 구축해왔던 5명의 젊은 작가들. 젊은 세대의 세계관과 감수성을 보여주면서, 동시에 기존 문학이 가지고 있던 장르 질서와 경계를 초월하는 새로운 SF가 펼쳐진다.",
+      "co_loan_books": [
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "스노볼 드라이브 :조예은 장편소설 ",
+          "isbn13": "9788937473319",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "테디베어는 죽지 않아 :조예은 장편소설 ",
+          "isbn13": "9791193024225",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "만조를 기다리며 :우리 숨바꼭질 기억해? ",
+          "isbn13": "9791168127128",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "입속 지느러미 :조예은 장편소설 ",
+          "isbn13": "9791172130633",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "뉴서울파크 젤리장수 대학살 :조예은 장편소설 ",
+          "isbn13": "9791196347048",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "칵테일, 러브, 좀비 ",
+          "isbn13": "9791190174756",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "초월하는 세계의 사랑",
+      "author": "지은이: 우다영,조예은,문보영,심너울,박서련",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "초월하는 세계의 사랑",
+        "author": "지은이: 우다영,조예은,문보영,심너울,박서련",
+        "publisher": "허블",
+        "publish_predate": "20220405",
+        "isbn": "9791190090575",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "287 p.",
+        "book_size": "130*212",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/11/9791190090575.JPG",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "초월하는 세계의 사랑 ",
+        "author": "지은이: 우다영,박서련",
+        "publisher": "허블",
+        "publish_year": "2022",
+        "isbn": "1190090570",
+        "isbn13": "9791190090575",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "독특한 상상력과 발랄한 문체로 자신만의 스타일과 세계를 구축해왔던 5명의 젊은 작가들. 젊은 세대의 세계관과 감수성을 보여주면서, 동시에 기존 문학이 가지고 있던 장르 질서와 경계를 초월하는 새로운 SF가 펼쳐진다.",
+        "cover_url": "https://image.aladin.co.kr/product/29193/50/cover/k872837288_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "SF",
+            "weight": 11.0
+          },
+          {
+            "word": "문학",
+            "weight": 10.0
+          },
+          {
+            "word": "한국",
+            "weight": 6.0
+          },
+          {
+            "word": "초월",
+            "weight": 6.0
+          },
+          {
+            "word": "세대",
+            "weight": 5.0
+          },
+          {
+            "word": "작가노트",
+            "weight": 5.0
+          },
+          {
+            "word": "기존",
+            "weight": 4.0
+          },
+          {
+            "word": "질서",
+            "weight": 4.0
+          },
+          {
+            "word": "흐름",
+            "weight": 4.0
+          },
+          {
+            "word": "긴 예지",
+            "weight": 3.0
+          },
+          {
+            "word": "돌아오는 호수에서",
+            "weight": 3.0
+          },
+          {
+            "word": "우다영",
+            "weight": 3.0
+          },
+          {
+            "word": "세계",
+            "weight": 3.0
+          },
+          {
+            "word": "이다음에 지구에서 태어나면",
+            "weight": 3.0
+          },
+          {
+            "word": "슬프지 않은 기억칩",
+            "weight": 3.0
+          },
+          {
+            "word": "박서련",
+            "weight": 3.0
+          },
+          {
+            "word": "커뮤니케이션의 이해",
+            "weight": 3.0
+          },
+          {
+            "word": "경계",
+            "weight": 3.0
+          },
+          {
+            "word": "변화",
+            "weight": 2.0
+          },
+          {
+            "word": "한국 과학소설",
+            "weight": 2.0
+          },
+          {
+            "word": "말로",
+            "weight": 2.0
+          },
+          {
+            "word": "앙팡",
+            "weight": 2.0
+          },
+          {
+            "word": "테리블",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "허블",
+            "weight": 2.0
+          },
+          {
+            "word": "장르",
+            "weight": 2.0
+          },
+          {
+            "word": "탄생",
+            "weight": 2.0
+          },
+          {
+            "word": "대변",
+            "weight": 2.0
+          },
+          {
+            "word": "스타일",
+            "weight": 1.0
+          },
+          {
+            "word": "시대",
+            "weight": 1.0
+          },
+          {
+            "word": "등장",
+            "weight": 1.0
+          },
+          {
+            "word": "감지",
+            "weight": 1.0
+          },
+          {
+            "word": "신인",
+            "weight": 1.0
+          },
+          {
+            "word": "심너울",
+            "weight": 1.0
+          },
+          {
+            "word": "2022년",
+            "weight": 1.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 1.0
+          },
+          {
+            "word": "예민",
+            "weight": 1.0
+          },
+          {
+            "word": "희망",
+            "weight": 1.0
+          },
+          {
+            "word": "감수성",
+            "weight": 1.0
+          },
+          {
+            "word": "관념",
+            "weight": 1.0
+          },
+          {
+            "word": "동시",
+            "weight": 1.0
+          },
+          {
+            "word": "명실상부",
+            "weight": 1.0
+          },
+          {
+            "word": "목소리",
+            "weight": 1.0
+          },
+          {
+            "word": "문보영",
+            "weight": 1.0
+          },
+          {
+            "word": "문체",
+            "weight": 1.0
+          },
+          {
+            "word": "독특",
+            "weight": 1.0
+          },
+          {
+            "word": "기성세대",
+            "weight": 1.0
+          },
+          {
+            "word": "권위",
+            "weight": 1.0
+          },
+          {
+            "word": "관심",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+            "isbn13": "9791160408331",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "스노볼 드라이브 :조예은 장편소설 ",
+            "isbn13": "9788937473319",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "이끼숲 :천선란 연작소설 ",
+            "isbn13": "9791191824216",
+            "authors": "지은이: 천선란 ;일러스트: 점선면"
+          },
+          {
+            "bookname": "테디베어는 죽지 않아 :조예은 장편소설 ",
+            "isbn13": "9791193024225",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "랑과 나의 사막 :천선란 소설 ",
+            "isbn13": "9791167901354",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "만조를 기다리며 :우리 숨바꼭질 기억해? ",
+            "isbn13": "9791168127128",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "입속 지느러미 :조예은 장편소설 ",
+            "isbn13": "9791172130633",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "뉴서울파크 젤리장수 대학살 :조예은 장편소설 ",
+            "isbn13": "9791196347048",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "칵테일, 러브, 좀비 ",
+            "isbn13": "9791190174756",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+            "isbn13": "9791160406504",
+            "authors": "지은이: 김초엽"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "초월하는 세계의 사랑"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001935269",
+        "title": "초월하는 세계의 사랑",
+        "subtitle": "양장본 Hardcover",
+        "page": "288 p.",
+        "book_size": "129*213mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190090575",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190090575",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "초월하는 세계의 사랑",
+      "subtitle": "양장본 Hardcover",
+      "author": "지은이: 우다영,조예은,문보영,심너울,박서련",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2022",
+      "publish_predate": "20220405",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "288 p.",
+      "book_size": "130*212",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 상상력과 발랄한 문체로 자신만의 스타일과 세계를 구축해왔던 5명의 젊은 작가들. 젊은 세대의 세계관과 감수성을 보여주면서, 동시에 기존 문학이 가지고 있던 장르 질서와 경계를 초월하는 새로운 SF가 펼쳐진다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/11/9791190090575.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 11.0
+        },
+        {
+          "word": "문학",
+          "weight": 10.0
+        },
+        {
+          "word": "한국",
+          "weight": 6.0
+        },
+        {
+          "word": "초월",
+          "weight": 6.0
+        },
+        {
+          "word": "세대",
+          "weight": 5.0
+        },
+        {
+          "word": "작가노트",
+          "weight": 5.0
+        },
+        {
+          "word": "기존",
+          "weight": 4.0
+        },
+        {
+          "word": "질서",
+          "weight": 4.0
+        },
+        {
+          "word": "흐름",
+          "weight": 4.0
+        },
+        {
+          "word": "긴 예지",
+          "weight": 3.0
+        },
+        {
+          "word": "돌아오는 호수에서",
+          "weight": 3.0
+        },
+        {
+          "word": "우다영",
+          "weight": 3.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "이다음에 지구에서 태어나면",
+          "weight": 3.0
+        },
+        {
+          "word": "슬프지 않은 기억칩",
+          "weight": 3.0
+        },
+        {
+          "word": "박서련",
+          "weight": 3.0
+        },
+        {
+          "word": "커뮤니케이션의 이해",
+          "weight": 3.0
+        },
+        {
+          "word": "경계",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "말로",
+          "weight": 2.0
+        },
+        {
+          "word": "앙팡",
+          "weight": 2.0
+        },
+        {
+          "word": "테리블",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "허블",
+          "weight": 2.0
+        },
+        {
+          "word": "장르",
+          "weight": 2.0
+        },
+        {
+          "word": "탄생",
+          "weight": 2.0
+        },
+        {
+          "word": "대변",
+          "weight": 2.0
+        },
+        {
+          "word": "스타일",
+          "weight": 1.0
+        },
+        {
+          "word": "시대",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "감지",
+          "weight": 1.0
+        },
+        {
+          "word": "신인",
+          "weight": 1.0
+        },
+        {
+          "word": "심너울",
+          "weight": 1.0
+        },
+        {
+          "word": "2022년",
+          "weight": 1.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 1.0
+        },
+        {
+          "word": "예민",
+          "weight": 1.0
+        },
+        {
+          "word": "희망",
+          "weight": 1.0
+        },
+        {
+          "word": "감수성",
+          "weight": 1.0
+        },
+        {
+          "word": "관념",
+          "weight": 1.0
+        },
+        {
+          "word": "동시",
+          "weight": 1.0
+        },
+        {
+          "word": "명실상부",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "문보영",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "기성세대",
+          "weight": 1.0
+        },
+        {
+          "word": "권위",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        }
+      ],
+      "description": "독특한 상상력과 발랄한 문체로 자신만의 스타일과 세계를 구축해왔던 5명의 젊은 작가들. 젊은 세대의 세계관과 감수성을 보여주면서, 동시에 기존 문학이 가지고 있던 장르 질서와 경계를 초월하는 새로운 SF가 펼쳐진다.",
+      "co_loan_books": [
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "스노볼 드라이브 :조예은 장편소설 ",
+          "isbn13": "9788937473319",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "테디베어는 죽지 않아 :조예은 장편소설 ",
+          "isbn13": "9791193024225",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "만조를 기다리며 :우리 숨바꼭질 기억해? ",
+          "isbn13": "9791168127128",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "입속 지느러미 :조예은 장편소설 ",
+          "isbn13": "9791172130633",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "뉴서울파크 젤리장수 대학살 :조예은 장편소설 ",
+          "isbn13": "9791196347048",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "칵테일, 러브, 좀비 ",
+          "isbn13": "9791190174756",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "초월하는 세계의 사랑",
+      "author": "지은이: 우다영,조예은,문보영,심너울,박서련",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

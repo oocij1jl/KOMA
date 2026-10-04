@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788950955779",
+  "captured_at": "2026-10-04T00:18:53.095480+09:00",
+  "lookup": {
+    "isbn": "9788950955779",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950955779",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "행복의 기원",
+      "subtitle": "인간의 행복은 어디서 오는가 / 생존과 번식, 행복은 진화의 산물이다",
+      "author": "서은국",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주식회사)북21",
+      "publish_year": "2014",
+      "publish_predate": "20140526",
+      "kdc": "181.71",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "208 p.",
+      "book_size": "140*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "행복은 ‘생존과 번식’을 위한 진화의 산물이다. 행복 분야의 권위자 에드 디너 교수의 지도 아래 심리학 박사 학위를 받은 저자는 세계에서 가장 활발하게 인용되는 행복 심리학자 중 한 명이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/4129/5/cover/8950955776_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "행복",
+          "weight": 49.0
+        },
+        {
+          "word": "인간",
+          "weight": 27.0
+        },
+        {
+          "word": "생존",
+          "weight": 12.0
+        },
+        {
+          "word": "서핑",
+          "weight": 9.0
+        },
+        {
+          "word": "새우깡",
+          "weight": 8.0
+        },
+        {
+          "word": "동물",
+          "weight": 7.0
+        },
+        {
+          "word": "교수",
+          "weight": 7.0
+        },
+        {
+          "word": "쾌감",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "존재",
+          "weight": 5.0
+        },
+        {
+          "word": "고통",
+          "weight": 5.0
+        },
+        {
+          "word": "고민",
+          "weight": 5.0
+        },
+        {
+          "word": "심리학자",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "지도",
+          "weight": 4.0
+        },
+        {
+          "word": "개가",
+          "weight": 4.0
+        },
+        {
+          "word": "목적",
+          "weight": 4.0
+        },
+        {
+          "word": "심리학",
+          "weight": 4.0
+        },
+        {
+          "word": "결국",
+          "weight": 4.0
+        },
+        {
+          "word": "결론",
+          "weight": 4.0
+        },
+        {
+          "word": "학위",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 3.0
+        },
+        {
+          "word": "논문",
+          "weight": 3.0
+        },
+        {
+          "word": "인용",
+          "weight": 3.0
+        },
+        {
+          "word": "디너",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "박사",
+          "weight": 3.0
+        },
+        {
+          "word": "결과",
+          "weight": 3.0
+        },
+        {
+          "word": "그룹",
+          "weight": 3.0
+        },
+        {
+          "word": "권위자",
+          "weight": 3.0
+        },
+        {
+          "word": "타이레놀",
+          "weight": 3.0
+        },
+        {
+          "word": "관점",
+          "weight": 3.0
+        },
+        {
+          "word": "아픔",
+          "weight": 3.0
+        },
+        {
+          "word": "에드",
+          "weight": 3.0
+        },
+        {
+          "word": "다윈",
+          "weight": 3.0
+        },
+        {
+          "word": "최근",
+          "weight": 3.0
+        },
+        {
+          "word": "진화론",
+          "weight": 3.0
+        },
+        {
+          "word": "추구",
+          "weight": 3.0
+        },
+        {
+          "word": "대학",
+          "weight": 3.0
+        },
+        {
+          "word": "연세대학교",
+          "weight": 3.0
+        },
+        {
+          "word": "행복의 기원",
+          "weight": 3.0
+        },
+        {
+          "word": "수단",
+          "weight": 3.0
+        },
+        {
+          "word": "번식",
+          "weight": 3.0
+        },
+        {
+          "word": "행복감",
+          "weight": 3.0
+        },
+        {
+          "word": "활발",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복은 ‘생존과 번식’을 위한 진화의 산물이다. 행복 분야의 권위자 에드 디너 교수의 지도 아래 심리학 박사 학위를 받은 저자는 세계에서 가장 활발하게 인용되는 행복 심리학자 중 한 명이다.",
+      "co_loan_books": [
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        }
+      ],
+      "title": "행복의 기원",
+      "author": "서은국",
+      "kdc_from_api": "181.71",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "행복의 기원",
+        "author": "서은국",
+        "publisher": "(주식회사)북21",
+        "publish_predate": "20140526",
+        "isbn": "9788950955779",
+        "isbn_add_code": "03180",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "행복의 기원 :생존과 번식, 행복은 진화의 산물이다 ",
+        "author": "서은국 지음",
+        "publisher": "21세기북스(북이십일 21세기북스)",
+        "publish_year": "2014",
+        "isbn": "8950955776",
+        "isbn13": "9788950955779",
+        "isbn_add_code": "03180",
+        "volume": "",
+        "class_no": "181.71",
+        "class_nm": "철학 > 심리학 > 각론",
+        "description": "행복은 ‘생존과 번식’을 위한 진화의 산물이다. 행복 분야의 권위자 에드 디너 교수의 지도 아래 심리학 박사 학위를 받은 저자는 세계에서 가장 활발하게 인용되는 행복 심리학자 중 한 명이다.",
+        "cover_url": "http://image.aladin.co.kr/product/4129/5/cover/8950955776_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "행복",
+            "weight": 49.0
+          },
+          {
+            "word": "인간",
+            "weight": 27.0
+          },
+          {
+            "word": "생존",
+            "weight": 12.0
+          },
+          {
+            "word": "서핑",
+            "weight": 9.0
+          },
+          {
+            "word": "새우깡",
+            "weight": 8.0
+          },
+          {
+            "word": "동물",
+            "weight": 7.0
+          },
+          {
+            "word": "교수",
+            "weight": 7.0
+          },
+          {
+            "word": "쾌감",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 6.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "분야",
+            "weight": 5.0
+          },
+          {
+            "word": "생각",
+            "weight": 5.0
+          },
+          {
+            "word": "존재",
+            "weight": 5.0
+          },
+          {
+            "word": "고통",
+            "weight": 5.0
+          },
+          {
+            "word": "고민",
+            "weight": 5.0
+          },
+          {
+            "word": "심리학자",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "지도",
+            "weight": 4.0
+          },
+          {
+            "word": "개가",
+            "weight": 4.0
+          },
+          {
+            "word": "목적",
+            "weight": 4.0
+          },
+          {
+            "word": "심리학",
+            "weight": 4.0
+          },
+          {
+            "word": "결국",
+            "weight": 4.0
+          },
+          {
+            "word": "결론",
+            "weight": 4.0
+          },
+          {
+            "word": "학위",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 3.0
+          },
+          {
+            "word": "논문",
+            "weight": 3.0
+          },
+          {
+            "word": "인용",
+            "weight": 3.0
+          },
+          {
+            "word": "디너",
+            "weight": 3.0
+          },
+          {
+            "word": "주인",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "박사",
+            "weight": 3.0
+          },
+          {
+            "word": "결과",
+            "weight": 3.0
+          },
+          {
+            "word": "그룹",
+            "weight": 3.0
+          },
+          {
+            "word": "권위자",
+            "weight": 3.0
+          },
+          {
+            "word": "타이레놀",
+            "weight": 3.0
+          },
+          {
+            "word": "관점",
+            "weight": 3.0
+          },
+          {
+            "word": "아픔",
+            "weight": 3.0
+          },
+          {
+            "word": "에드",
+            "weight": 3.0
+          },
+          {
+            "word": "다윈",
+            "weight": 3.0
+          },
+          {
+            "word": "최근",
+            "weight": 3.0
+          },
+          {
+            "word": "진화론",
+            "weight": 3.0
+          },
+          {
+            "word": "추구",
+            "weight": 3.0
+          },
+          {
+            "word": "대학",
+            "weight": 3.0
+          },
+          {
+            "word": "연세대학교",
+            "weight": 3.0
+          },
+          {
+            "word": "행복의 기원",
+            "weight": 3.0
+          },
+          {
+            "word": "수단",
+            "weight": 3.0
+          },
+          {
+            "word": "번식",
+            "weight": 3.0
+          },
+          {
+            "word": "행복감",
+            "weight": 3.0
+          },
+          {
+            "word": "활발",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "행복의 기원"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000709433",
+        "title": "행복의 기원",
+        "subtitle": "인간의 행복은 어디서 오는가 / 생존과 번식, 행복은 진화의 산물이다",
+        "page": "208 p.",
+        "book_size": "140*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788950955779",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950955779",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "행복의 기원",
+      "subtitle": "인간의 행복은 어디서 오는가 / 생존과 번식, 행복은 진화의 산물이다",
+      "author": "서은국",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주식회사)북21",
+      "publish_year": "2014",
+      "publish_predate": "20140526",
+      "kdc": "181.71",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "208 p.",
+      "book_size": "140*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "행복은 ‘생존과 번식’을 위한 진화의 산물이다. 행복 분야의 권위자 에드 디너 교수의 지도 아래 심리학 박사 학위를 받은 저자는 세계에서 가장 활발하게 인용되는 행복 심리학자 중 한 명이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/4129/5/cover/8950955776_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "행복",
+          "weight": 49.0
+        },
+        {
+          "word": "인간",
+          "weight": 27.0
+        },
+        {
+          "word": "생존",
+          "weight": 12.0
+        },
+        {
+          "word": "서핑",
+          "weight": 9.0
+        },
+        {
+          "word": "새우깡",
+          "weight": 8.0
+        },
+        {
+          "word": "동물",
+          "weight": 7.0
+        },
+        {
+          "word": "교수",
+          "weight": 7.0
+        },
+        {
+          "word": "쾌감",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "존재",
+          "weight": 5.0
+        },
+        {
+          "word": "고통",
+          "weight": 5.0
+        },
+        {
+          "word": "고민",
+          "weight": 5.0
+        },
+        {
+          "word": "심리학자",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "지도",
+          "weight": 4.0
+        },
+        {
+          "word": "개가",
+          "weight": 4.0
+        },
+        {
+          "word": "목적",
+          "weight": 4.0
+        },
+        {
+          "word": "심리학",
+          "weight": 4.0
+        },
+        {
+          "word": "결국",
+          "weight": 4.0
+        },
+        {
+          "word": "결론",
+          "weight": 4.0
+        },
+        {
+          "word": "학위",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 3.0
+        },
+        {
+          "word": "논문",
+          "weight": 3.0
+        },
+        {
+          "word": "인용",
+          "weight": 3.0
+        },
+        {
+          "word": "디너",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "박사",
+          "weight": 3.0
+        },
+        {
+          "word": "결과",
+          "weight": 3.0
+        },
+        {
+          "word": "그룹",
+          "weight": 3.0
+        },
+        {
+          "word": "권위자",
+          "weight": 3.0
+        },
+        {
+          "word": "타이레놀",
+          "weight": 3.0
+        },
+        {
+          "word": "관점",
+          "weight": 3.0
+        },
+        {
+          "word": "아픔",
+          "weight": 3.0
+        },
+        {
+          "word": "에드",
+          "weight": 3.0
+        },
+        {
+          "word": "다윈",
+          "weight": 3.0
+        },
+        {
+          "word": "최근",
+          "weight": 3.0
+        },
+        {
+          "word": "진화론",
+          "weight": 3.0
+        },
+        {
+          "word": "추구",
+          "weight": 3.0
+        },
+        {
+          "word": "대학",
+          "weight": 3.0
+        },
+        {
+          "word": "연세대학교",
+          "weight": 3.0
+        },
+        {
+          "word": "행복의 기원",
+          "weight": 3.0
+        },
+        {
+          "word": "수단",
+          "weight": 3.0
+        },
+        {
+          "word": "번식",
+          "weight": 3.0
+        },
+        {
+          "word": "행복감",
+          "weight": 3.0
+        },
+        {
+          "word": "활발",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복은 ‘생존과 번식’을 위한 진화의 산물이다. 행복 분야의 권위자 에드 디너 교수의 지도 아래 심리학 박사 학위를 받은 저자는 세계에서 가장 활발하게 인용되는 행복 심리학자 중 한 명이다.",
+      "co_loan_books": [
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        }
+      ],
+      "title": "행복의 기원",
+      "author": "서은국",
+      "kdc_from_api": "181.71",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

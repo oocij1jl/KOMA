@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788934951278",
+  "captured_at": "2026-10-03T00:21:06.433093+09:00",
+  "lookup": {
+    "isbn": "9788934951278",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788934951278",
+      "isbn_add_code": "73300",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+      "subtitle": "아이들도 잘 모르고 어른들은 더 모르는",
+      "author": "코코로사 글 ;요시타케 신스케 그림 ;이소담 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "주니어김영사 :김영사",
+      "publish_year": "2022",
+      "publish_predate": "20220217",
+      "kdc": "033",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 일본어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "128 p.",
+      "book_size": "130*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28883/18/cover/8934951273_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "현상",
+          "weight": 18.0
+        },
+        {
+          "word": "공부",
+          "weight": 17.0
+        },
+        {
+          "word": "친구",
+          "weight": 15.0
+        },
+        {
+          "word": "신기",
+          "weight": 11.0
+        },
+        {
+          "word": "순간",
+          "weight": 7.0
+        },
+        {
+          "word": "생기",
+          "weight": 7.0
+        },
+        {
+          "word": "이름",
+          "weight": 7.0
+        },
+        {
+          "word": "이유가 있어요",
+          "weight": 6.0
+        },
+        {
+          "word": "소리",
+          "weight": 6.0
+        },
+        {
+          "word": "이게 정말 사과일까",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "보고",
+          "weight": 5.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 5.0
+        },
+        {
+          "word": "부모님",
+          "weight": 5.0
+        },
+        {
+          "word": "보너스",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "선생님",
+          "weight": 4.0
+        },
+        {
+          "word": "글자",
+          "weight": 4.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "연필",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "원래",
+          "weight": 4.0
+        },
+        {
+          "word": "청소",
+          "weight": 3.0
+        },
+        {
+          "word": "그것만 있을 리가 없잖아",
+          "weight": 3.0
+        },
+        {
+          "word": "만약의 세계",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 천국일까",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 마음일까",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 나일까",
+          "weight": 3.0
+        },
+        {
+          "word": "벗지 말걸 그랬어",
+          "weight": 3.0
+        },
+        {
+          "word": "문구",
+          "weight": 3.0
+        },
+        {
+          "word": "보이",
+          "weight": 3.0
+        },
+        {
+          "word": "심심해 심심해",
+          "weight": 3.0
+        },
+        {
+          "word": "보지",
+          "weight": 3.0
+        },
+        {
+          "word": "평소",
+          "weight": 3.0
+        },
+        {
+          "word": "원인",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 3.0
+        },
+        {
+          "word": "요시타케",
+          "weight": 3.0
+        },
+        {
+          "word": "불만이 있어요",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "신스케",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "더우면 벗으면 되지",
+          "weight": 3.0
+        },
+        {
+          "word": "도망치고 찾고",
+          "weight": 3.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        }
+      ],
+      "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+      "co_loan_books": [
+        {
+          "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+          "isbn13": "9791191426090",
+          "authors": "이케가야 유지 글 ;엄혜숙 옮김"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168414471",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168415034",
+          "authors": "최재훈 글 ;정주연 그림"
+        }
+      ],
+      "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+      "author": "코코로사 글 ;요시타케 신스케 그림 ;이소담 옮김",
+      "kdc_from_api": "033",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+        "author": "코코로사 글 ;요시타케 신스케 그림 ;이소담 옮김",
+        "publisher": "주니어김영사 :김영사",
+        "publish_predate": "20220217",
+        "isbn": "9788934951278",
+        "isbn_add_code": "73300",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "127 p.",
+        "book_size": "130*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전 ",
+        "author": "코코로사 글 ;이소담 옮김",
+        "publisher": "김영사",
+        "publish_year": "2022",
+        "isbn": "8934951273",
+        "isbn13": "9788934951278",
+        "isbn_add_code": "73300",
+        "volume": "",
+        "class_no": "033",
+        "class_nm": "총류 > 백과사전 > 일본어",
+        "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+        "cover_url": "https://image.aladin.co.kr/product/28883/18/cover/8934951273_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "현상",
+            "weight": 18.0
+          },
+          {
+            "word": "공부",
+            "weight": 17.0
+          },
+          {
+            "word": "친구",
+            "weight": 15.0
+          },
+          {
+            "word": "신기",
+            "weight": 11.0
+          },
+          {
+            "word": "순간",
+            "weight": 7.0
+          },
+          {
+            "word": "생기",
+            "weight": 7.0
+          },
+          {
+            "word": "이름",
+            "weight": 7.0
+          },
+          {
+            "word": "이유가 있어요",
+            "weight": 6.0
+          },
+          {
+            "word": "소리",
+            "weight": 6.0
+          },
+          {
+            "word": "이게 정말 사과일까",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 5.0
+          },
+          {
+            "word": "보고",
+            "weight": 5.0
+          },
+          {
+            "word": "퀴즈",
+            "weight": 5.0
+          },
+          {
+            "word": "부모님",
+            "weight": 5.0
+          },
+          {
+            "word": "보너스",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "선생님",
+            "weight": 4.0
+          },
+          {
+            "word": "글자",
+            "weight": 4.0
+          },
+          {
+            "word": "그림",
+            "weight": 4.0
+          },
+          {
+            "word": "연필",
+            "weight": 4.0
+          },
+          {
+            "word": "어른",
+            "weight": 4.0
+          },
+          {
+            "word": "다양",
+            "weight": 4.0
+          },
+          {
+            "word": "원래",
+            "weight": 4.0
+          },
+          {
+            "word": "청소",
+            "weight": 3.0
+          },
+          {
+            "word": "그것만 있을 리가 없잖아",
+            "weight": 3.0
+          },
+          {
+            "word": "만약의 세계",
+            "weight": 3.0
+          },
+          {
+            "word": "이게 정말 천국일까",
+            "weight": 3.0
+          },
+          {
+            "word": "이게 정말 마음일까",
+            "weight": 3.0
+          },
+          {
+            "word": "이게 정말 나일까",
+            "weight": 3.0
+          },
+          {
+            "word": "벗지 말걸 그랬어",
+            "weight": 3.0
+          },
+          {
+            "word": "문구",
+            "weight": 3.0
+          },
+          {
+            "word": "보이",
+            "weight": 3.0
+          },
+          {
+            "word": "심심해 심심해",
+            "weight": 3.0
+          },
+          {
+            "word": "보지",
+            "weight": 3.0
+          },
+          {
+            "word": "평소",
+            "weight": 3.0
+          },
+          {
+            "word": "원인",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "일상",
+            "weight": 3.0
+          },
+          {
+            "word": "요시타케",
+            "weight": 3.0
+          },
+          {
+            "word": "불만이 있어요",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "누구",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "신스케",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 3.0
+          },
+          {
+            "word": "더우면 벗으면 되지",
+            "weight": 3.0
+          },
+          {
+            "word": "도망치고 찾고",
+            "weight": 3.0
+          },
+          {
+            "word": "수업",
+            "weight": 2.0
+          },
+          {
+            "word": "소개",
+            "weight": 2.0
+          },
+          {
+            "word": "소중",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+            "isbn13": "9791191426090",
+            "authors": "이케가야 유지 글 ;엄혜숙 옮김"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164139897",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164136261",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164137527",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168414471",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168411685",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168412477",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164135592",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매 이상한 나라의 고전 읽기",
+            "isbn13": "9791168415034",
+            "authors": "최재훈 글 ;정주연 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000596047",
+        "title": "신기한 현상 사전",
+        "subtitle": "아이들도 잘 모르고 어른들은 더 모르는",
+        "page": "128 p.",
+        "book_size": "138*195mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788934951278",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788934951278",
+      "isbn_add_code": "73300",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+      "subtitle": "아이들도 잘 모르고 어른들은 더 모르는",
+      "author": "코코로사 글 ;요시타케 신스케 그림 ;이소담 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "주니어김영사 :김영사",
+      "publish_year": "2022",
+      "publish_predate": "20220217",
+      "kdc": "033",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 일본어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "128 p.",
+      "book_size": "130*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28883/18/cover/8934951273_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "현상",
+          "weight": 18.0
+        },
+        {
+          "word": "공부",
+          "weight": 17.0
+        },
+        {
+          "word": "친구",
+          "weight": 15.0
+        },
+        {
+          "word": "신기",
+          "weight": 11.0
+        },
+        {
+          "word": "순간",
+          "weight": 7.0
+        },
+        {
+          "word": "생기",
+          "weight": 7.0
+        },
+        {
+          "word": "이름",
+          "weight": 7.0
+        },
+        {
+          "word": "이유가 있어요",
+          "weight": 6.0
+        },
+        {
+          "word": "소리",
+          "weight": 6.0
+        },
+        {
+          "word": "이게 정말 사과일까",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "보고",
+          "weight": 5.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 5.0
+        },
+        {
+          "word": "부모님",
+          "weight": 5.0
+        },
+        {
+          "word": "보너스",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "선생님",
+          "weight": 4.0
+        },
+        {
+          "word": "글자",
+          "weight": 4.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "연필",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "원래",
+          "weight": 4.0
+        },
+        {
+          "word": "청소",
+          "weight": 3.0
+        },
+        {
+          "word": "그것만 있을 리가 없잖아",
+          "weight": 3.0
+        },
+        {
+          "word": "만약의 세계",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 천국일까",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 마음일까",
+          "weight": 3.0
+        },
+        {
+          "word": "이게 정말 나일까",
+          "weight": 3.0
+        },
+        {
+          "word": "벗지 말걸 그랬어",
+          "weight": 3.0
+        },
+        {
+          "word": "문구",
+          "weight": 3.0
+        },
+        {
+          "word": "보이",
+          "weight": 3.0
+        },
+        {
+          "word": "심심해 심심해",
+          "weight": 3.0
+        },
+        {
+          "word": "보지",
+          "weight": 3.0
+        },
+        {
+          "word": "평소",
+          "weight": 3.0
+        },
+        {
+          "word": "원인",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 3.0
+        },
+        {
+          "word": "요시타케",
+          "weight": 3.0
+        },
+        {
+          "word": "불만이 있어요",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "신스케",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "더우면 벗으면 되지",
+          "weight": 3.0
+        },
+        {
+          "word": "도망치고 찾고",
+          "weight": 3.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        }
+      ],
+      "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+      "co_loan_books": [
+        {
+          "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+          "isbn13": "9791191426090",
+          "authors": "이케가야 유지 글 ;엄혜숙 옮김"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168414471",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168415034",
+          "authors": "최재훈 글 ;정주연 그림"
+        }
+      ],
+      "title": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+      "author": "코코로사 글 ;요시타케 신스케 그림 ;이소담 옮김",
+      "kdc_from_api": "033",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

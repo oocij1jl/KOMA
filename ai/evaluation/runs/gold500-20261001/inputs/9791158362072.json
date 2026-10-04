@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791158362072",
+  "captured_at": "2026-10-03T00:14:44.784870+09:00",
+  "lookup": {
+    "isbn": "9791158362072",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158362072",
+      "isbn_add_code": "74530",
+      "set_isbn": "9791158362065",
+      "set_add_code": "74080 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "라면을 먹으면 숲이 사라져",
+      "subtitle": "반양장",
+      "author": "최원형 글 ;이시누 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2020",
+      "publish_predate": "20201023",
+      "kdc": "539",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "똑똑교양",
+      "series_no": "1",
+      "page": "216 p.",
+      "book_size": "165*255",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "오늘 내가 입은 옷, 오늘 내가 먹은 라면, 오늘 내가 즐긴 돌고래 쇼가 다른 생물과 환경에 어떤 영향을 끼치는지 보여 주는 책이다. 겨울부터 이듬해 가을까지 한 해 동안 고래똥 생태 연구소를 찾아온 동물 손님들이 가져온 환경 이야기가 담겨 있다. 소장님과 동물들이 나누는 이야기에 귀 기울이다 보면 지금껏... ",
+      "control_no": "CIP2020041234",
+      "cover_url": "https://image.aladin.co.kr/product/25373/61/cover/k552633819_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "환경",
+          "weight": 6.0
+        },
+        {
+          "word": "라면",
+          "weight": 5.0
+        },
+        {
+          "word": "생태",
+          "weight": 5.0
+        },
+        {
+          "word": "오늘",
+          "weight": 5.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "생명",
+          "weight": 4.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "착한 소비는 없다",
+          "weight": 3.0
+        },
+        {
+          "word": "거위",
+          "weight": 3.0
+        },
+        {
+          "word": "먹이",
+          "weight": 3.0
+        },
+        {
+          "word": "토마토",
+          "weight": 3.0
+        },
+        {
+          "word": "플라스틱",
+          "weight": 3.0
+        },
+        {
+          "word": "햄버거",
+          "weight": 3.0
+        },
+        {
+          "word": "환경과 생태 쫌 아는 10대",
+          "weight": 3.0
+        },
+        {
+          "word": "도시에서 생태 감수성 키우기",
+          "weight": 3.0
+        },
+        {
+          "word": "오리",
+          "weight": 3.0
+        },
+        {
+          "word": "여름",
+          "weight": 3.0
+        },
+        {
+          "word": "아기",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님 기후 위기가 뭐예요",
+          "weight": 3.0
+        },
+        {
+          "word": "최원형의 청소년 소비 특강",
+          "weight": 3.0
+        },
+        {
+          "word": "지구",
+          "weight": 3.0
+        },
+        {
+          "word": "참새",
+          "weight": 3.0
+        },
+        {
+          "word": "겨울",
+          "weight": 3.0
+        },
+        {
+          "word": "영향",
+          "weight": 2.0
+        },
+        {
+          "word": "이시누",
+          "weight": 2.0
+        },
+        {
+          "word": "하소연",
+          "weight": 2.0
+        },
+        {
+          "word": "절약",
+          "weight": 2.0
+        },
+        {
+          "word": "제돌",
+          "weight": 2.0
+        },
+        {
+          "word": "벌이",
+          "weight": 2.0
+        },
+        {
+          "word": "통로",
+          "weight": 2.0
+        },
+        {
+          "word": "최원형",
+          "weight": 2.0
+        },
+        {
+          "word": "제비",
+          "weight": 2.0
+        },
+        {
+          "word": "북극곰",
+          "weight": 2.0
+        },
+        {
+          "word": "모이대",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "동식물",
+          "weight": 2.0
+        },
+        {
+          "word": "장마",
+          "weight": 2.0
+        },
+        {
+          "word": "전기",
+          "weight": 2.0
+        },
+        {
+          "word": "태풍",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "환경 이야기",
+          "weight": 2.0
+        },
+        {
+          "word": "흰수마자",
+          "weight": 2.0
+        },
+        {
+          "word": "식물",
+          "weight": 2.0
+        },
+        {
+          "word": "나비",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "기후",
+          "weight": 2.0
+        },
+        {
+          "word": "눈사람",
+          "weight": 2.0
+        },
+        {
+          "word": "니모네",
+          "weight": 2.0
+        },
+        {
+          "word": "동물",
+          "weight": 2.0
+        },
+        {
+          "word": "가을",
+          "weight": 2.0
+        }
+      ],
+      "description": "오늘 내가 입은 옷, 오늘 내가 먹은 라면, 오늘 내가 즐긴 돌고래 쇼가 다른 생물과 환경에 어떤 영향을 끼치는지 보여 주는 책이다. 겨울부터 이듬해 가을까지 한 해 동안 고래똥 생태 연구소를 찾아온 동물 손님들이 가져온 환경 이야기가 담겨 있다. 소장님과 동물들이 나누는 이야기에 귀 기울이다 보면 지금껏... ",
+      "co_loan_books": [
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "몬스터 차일드 :이재문 장편동화 ",
+          "isbn13": "9791160947540",
+          "authors": "지은이: 이재문 ;그린이: 김지인"
+        },
+        {
+          "bookname": "세금 내는 아이들 ",
+          "isbn13": "9788947547260",
+          "authors": "옥효진 글 ;김미연 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "강남 사장님 :이지음 장편동화 ",
+          "isbn13": "9788949121925",
+          "authors": "글쓴이: 이지음 ;그린이: 국민지"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "천하제일 치킨 쇼 ",
+          "isbn13": "9788949121994",
+          "authors": "이희정 글 ;김무연 그림"
+        },
+        {
+          "bookname": "오리 부리 이야기 ",
+          "isbn13": "9788949162386",
+          "authors": "황선애 글 ;간장 그림"
+        }
+      ],
+      "title": "라면을 먹으면 숲이 사라져",
+      "author": "최원형 글 ;이시누 그림",
+      "kdc_from_api": "539",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "라면을 먹으면 숲이 사라져",
+        "author": "최원형 글 ;이시누 그림",
+        "publisher": "책읽는곰",
+        "publish_predate": "20201023",
+        "isbn": "9791158362072",
+        "isbn_add_code": "74530",
+        "set_isbn": "9791158362065",
+        "set_add_code": "74080 ",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "똑똑교양",
+        "series_no": "1",
+        "volume": "",
+        "page": "215 p.",
+        "book_size": "165*255",
+        "form": "종이책",
+        "kdc": "539",
+        "ddc": "",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020041234",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "라면을 먹으면 숲이 사라져 ",
+        "author": "최원형 글 ;이시누 그림",
+        "publisher": "책읽는곰",
+        "publish_year": "2020",
+        "isbn": "1158362072",
+        "isbn13": "9791158362072",
+        "isbn_add_code": "74530",
+        "volume": "",
+        "class_no": "539",
+        "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+        "description": "오늘 내가 입은 옷, 오늘 내가 먹은 라면, 오늘 내가 즐긴 돌고래 쇼가 다른 생물과 환경에 어떤 영향을 끼치는지 보여 주는 책이다. 겨울부터 이듬해 가을까지 한 해 동안 고래똥 생태 연구소를 찾아온 동물 손님들이 가져온 환경 이야기가 담겨 있다. 소장님과 동물들이 나누는 이야기에 귀 기울이다 보면 지금껏... ",
+        "cover_url": "https://image.aladin.co.kr/product/25373/61/cover/k552633819_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "환경",
+            "weight": 6.0
+          },
+          {
+            "word": "라면",
+            "weight": 5.0
+          },
+          {
+            "word": "생태",
+            "weight": 5.0
+          },
+          {
+            "word": "오늘",
+            "weight": 5.0
+          },
+          {
+            "word": "문제",
+            "weight": 5.0
+          },
+          {
+            "word": "생명",
+            "weight": 4.0
+          },
+          {
+            "word": "건강",
+            "weight": 4.0
+          },
+          {
+            "word": "착한 소비는 없다",
+            "weight": 3.0
+          },
+          {
+            "word": "거위",
+            "weight": 3.0
+          },
+          {
+            "word": "먹이",
+            "weight": 3.0
+          },
+          {
+            "word": "토마토",
+            "weight": 3.0
+          },
+          {
+            "word": "플라스틱",
+            "weight": 3.0
+          },
+          {
+            "word": "햄버거",
+            "weight": 3.0
+          },
+          {
+            "word": "환경과 생태 쫌 아는 10대",
+            "weight": 3.0
+          },
+          {
+            "word": "도시에서 생태 감수성 키우기",
+            "weight": 3.0
+          },
+          {
+            "word": "오리",
+            "weight": 3.0
+          },
+          {
+            "word": "여름",
+            "weight": 3.0
+          },
+          {
+            "word": "아기",
+            "weight": 3.0
+          },
+          {
+            "word": "선생님 기후 위기가 뭐예요",
+            "weight": 3.0
+          },
+          {
+            "word": "최원형의 청소년 소비 특강",
+            "weight": 3.0
+          },
+          {
+            "word": "지구",
+            "weight": 3.0
+          },
+          {
+            "word": "참새",
+            "weight": 3.0
+          },
+          {
+            "word": "겨울",
+            "weight": 3.0
+          },
+          {
+            "word": "영향",
+            "weight": 2.0
+          },
+          {
+            "word": "이시누",
+            "weight": 2.0
+          },
+          {
+            "word": "하소연",
+            "weight": 2.0
+          },
+          {
+            "word": "절약",
+            "weight": 2.0
+          },
+          {
+            "word": "제돌",
+            "weight": 2.0
+          },
+          {
+            "word": "벌이",
+            "weight": 2.0
+          },
+          {
+            "word": "통로",
+            "weight": 2.0
+          },
+          {
+            "word": "최원형",
+            "weight": 2.0
+          },
+          {
+            "word": "제비",
+            "weight": 2.0
+          },
+          {
+            "word": "북극곰",
+            "weight": 2.0
+          },
+          {
+            "word": "모이대",
+            "weight": 2.0
+          },
+          {
+            "word": "어린이",
+            "weight": 2.0
+          },
+          {
+            "word": "동식물",
+            "weight": 2.0
+          },
+          {
+            "word": "장마",
+            "weight": 2.0
+          },
+          {
+            "word": "전기",
+            "weight": 2.0
+          },
+          {
+            "word": "태풍",
+            "weight": 2.0
+          },
+          {
+            "word": "행동",
+            "weight": 2.0
+          },
+          {
+            "word": "환경 이야기",
+            "weight": 2.0
+          },
+          {
+            "word": "흰수마자",
+            "weight": 2.0
+          },
+          {
+            "word": "식물",
+            "weight": 2.0
+          },
+          {
+            "word": "나비",
+            "weight": 2.0
+          },
+          {
+            "word": "책읽는곰",
+            "weight": 2.0
+          },
+          {
+            "word": "기후",
+            "weight": 2.0
+          },
+          {
+            "word": "눈사람",
+            "weight": 2.0
+          },
+          {
+            "word": "니모네",
+            "weight": 2.0
+          },
+          {
+            "word": "동물",
+            "weight": 2.0
+          },
+          {
+            "word": "가을",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "5번 레인 ",
+            "isbn13": "9788954674638",
+            "authors": "은소홀 글 ;노인경 그림"
+          },
+          {
+            "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+            "isbn13": "9788936442804",
+            "authors": "지은이: 이현 ;그린이: 오윤화"
+          },
+          {
+            "bookname": "몬스터 차일드 :이재문 장편동화 ",
+            "isbn13": "9791160947540",
+            "authors": "지은이: 이재문 ;그린이: 김지인"
+          },
+          {
+            "bookname": "세금 내는 아이들 ",
+            "isbn13": "9788947547260",
+            "authors": "옥효진 글 ;김미연 그림"
+          },
+          {
+            "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+            "isbn13": "9788954690690",
+            "authors": "어윤정 글 ;해마 그림"
+          },
+          {
+            "bookname": "강남 사장님 :이지음 장편동화 ",
+            "isbn13": "9788949121925",
+            "authors": "글쓴이: 이지음 ;그린이: 국민지"
+          },
+          {
+            "bookname": "체리새우 :황영미 장편소설 ",
+            "isbn13": "9788954654753",
+            "authors": "지은이: 황영미"
+          },
+          {
+            "bookname": "천하제일 치킨 쇼 ",
+            "isbn13": "9788949121994",
+            "authors": "이희정 글 ;김무연 그림"
+          },
+          {
+            "bookname": "오리 부리 이야기 ",
+            "isbn13": "9788949162386",
+            "authors": "황선애 글 ;간장 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "라면을 먹으면 숲이 사라져"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001766157",
+        "title": "라면을 먹으면 숲이 사라져",
+        "subtitle": "반양장",
+        "page": "216 p.",
+        "book_size": "164*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158362072",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158362072",
+      "isbn_add_code": "74530",
+      "set_isbn": "9791158362065",
+      "set_add_code": "74080 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "라면을 먹으면 숲이 사라져",
+      "subtitle": "반양장",
+      "author": "최원형 글 ;이시누 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2020",
+      "publish_predate": "20201023",
+      "kdc": "539",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "똑똑교양",
+      "series_no": "1",
+      "page": "216 p.",
+      "book_size": "165*255",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "오늘 내가 입은 옷, 오늘 내가 먹은 라면, 오늘 내가 즐긴 돌고래 쇼가 다른 생물과 환경에 어떤 영향을 끼치는지 보여 주는 책이다. 겨울부터 이듬해 가을까지 한 해 동안 고래똥 생태 연구소를 찾아온 동물 손님들이 가져온 환경 이야기가 담겨 있다. 소장님과 동물들이 나누는 이야기에 귀 기울이다 보면 지금껏... ",
+      "control_no": "CIP2020041234",
+      "cover_url": "https://image.aladin.co.kr/product/25373/61/cover/k552633819_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "환경",
+          "weight": 6.0
+        },
+        {
+          "word": "라면",
+          "weight": 5.0
+        },
+        {
+          "word": "생태",
+          "weight": 5.0
+        },
+        {
+          "word": "오늘",
+          "weight": 5.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "생명",
+          "weight": 4.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "착한 소비는 없다",
+          "weight": 3.0
+        },
+        {
+          "word": "거위",
+          "weight": 3.0
+        },
+        {
+          "word": "먹이",
+          "weight": 3.0
+        },
+        {
+          "word": "토마토",
+          "weight": 3.0
+        },
+        {
+          "word": "플라스틱",
+          "weight": 3.0
+        },
+        {
+          "word": "햄버거",
+          "weight": 3.0
+        },
+        {
+          "word": "환경과 생태 쫌 아는 10대",
+          "weight": 3.0
+        },
+        {
+          "word": "도시에서 생태 감수성 키우기",
+          "weight": 3.0
+        },
+        {
+          "word": "오리",
+          "weight": 3.0
+        },
+        {
+          "word": "여름",
+          "weight": 3.0
+        },
+        {
+          "word": "아기",
+          "weight": 3.0
+        },
+        {
+          "word": "선생님 기후 위기가 뭐예요",
+          "weight": 3.0
+        },
+        {
+          "word": "최원형의 청소년 소비 특강",
+          "weight": 3.0
+        },
+        {
+          "word": "지구",
+          "weight": 3.0
+        },
+        {
+          "word": "참새",
+          "weight": 3.0
+        },
+        {
+          "word": "겨울",
+          "weight": 3.0
+        },
+        {
+          "word": "영향",
+          "weight": 2.0
+        },
+        {
+          "word": "이시누",
+          "weight": 2.0
+        },
+        {
+          "word": "하소연",
+          "weight": 2.0
+        },
+        {
+          "word": "절약",
+          "weight": 2.0
+        },
+        {
+          "word": "제돌",
+          "weight": 2.0
+        },
+        {
+          "word": "벌이",
+          "weight": 2.0
+        },
+        {
+          "word": "통로",
+          "weight": 2.0
+        },
+        {
+          "word": "최원형",
+          "weight": 2.0
+        },
+        {
+          "word": "제비",
+          "weight": 2.0
+        },
+        {
+          "word": "북극곰",
+          "weight": 2.0
+        },
+        {
+          "word": "모이대",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "동식물",
+          "weight": 2.0
+        },
+        {
+          "word": "장마",
+          "weight": 2.0
+        },
+        {
+          "word": "전기",
+          "weight": 2.0
+        },
+        {
+          "word": "태풍",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "환경 이야기",
+          "weight": 2.0
+        },
+        {
+          "word": "흰수마자",
+          "weight": 2.0
+        },
+        {
+          "word": "식물",
+          "weight": 2.0
+        },
+        {
+          "word": "나비",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "기후",
+          "weight": 2.0
+        },
+        {
+          "word": "눈사람",
+          "weight": 2.0
+        },
+        {
+          "word": "니모네",
+          "weight": 2.0
+        },
+        {
+          "word": "동물",
+          "weight": 2.0
+        },
+        {
+          "word": "가을",
+          "weight": 2.0
+        }
+      ],
+      "description": "오늘 내가 입은 옷, 오늘 내가 먹은 라면, 오늘 내가 즐긴 돌고래 쇼가 다른 생물과 환경에 어떤 영향을 끼치는지 보여 주는 책이다. 겨울부터 이듬해 가을까지 한 해 동안 고래똥 생태 연구소를 찾아온 동물 손님들이 가져온 환경 이야기가 담겨 있다. 소장님과 동물들이 나누는 이야기에 귀 기울이다 보면 지금껏... ",
+      "co_loan_books": [
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "몬스터 차일드 :이재문 장편동화 ",
+          "isbn13": "9791160947540",
+          "authors": "지은이: 이재문 ;그린이: 김지인"
+        },
+        {
+          "bookname": "세금 내는 아이들 ",
+          "isbn13": "9788947547260",
+          "authors": "옥효진 글 ;김미연 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "강남 사장님 :이지음 장편동화 ",
+          "isbn13": "9788949121925",
+          "authors": "글쓴이: 이지음 ;그린이: 국민지"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "천하제일 치킨 쇼 ",
+          "isbn13": "9788949121994",
+          "authors": "이희정 글 ;김무연 그림"
+        },
+        {
+          "bookname": "오리 부리 이야기 ",
+          "isbn13": "9788949162386",
+          "authors": "황선애 글 ;간장 그림"
+        }
+      ],
+      "title": "라면을 먹으면 숲이 사라져",
+      "author": "최원형 글 ;이시누 그림",
+      "kdc_from_api": "539",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

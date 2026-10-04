@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791196621957",
+  "captured_at": "2026-10-02T00:11:29.363757+09:00",
+  "lookup": {
+    "isbn": "9791196621957",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196621957",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "사업을 한다는것",
+      "subtitle": "소프트뱅크 손정의 유니클로 야나이 다다시가 인생바이블로 선언한 책",
+      "author": "레이 크록 지음 ;이영래 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "센시오",
+      "publish_year": "2019",
+      "publish_predate": "20190531",
+      "kdc": "325.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "149*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "CEO의 서재 시리즈 16권. 손정의와 야나이 다다시를 비롯해 수많은 경영자들에게 영감을 준 레이 크록의 자서전이다. 사업가로서, 진정한 벤처 창업가로서 맥도널드 제국을 일으킨 과정을 손에 잡힐 듯 생생히 보여준다.",
+      "control_no": "CIP2019017366",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/01/9791196621957.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사업",
+          "weight": 12.0
+        },
+        {
+          "word": "손정의",
+          "weight": 8.0
+        },
+        {
+          "word": "맥도널드",
+          "weight": 7.0
+        },
+        {
+          "word": "레이",
+          "weight": 6.0
+        },
+        {
+          "word": "크록",
+          "weight": 6.0
+        },
+        {
+          "word": "명의",
+          "weight": 5.0
+        },
+        {
+          "word": "사업가",
+          "weight": 5.0
+        },
+        {
+          "word": "회장",
+          "weight": 4.0
+        },
+        {
+          "word": "권한",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "로켓",
+          "weight": 4.0
+        },
+        {
+          "word": "자유",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "벤처",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "햄버거",
+          "weight": 3.0
+        },
+        {
+          "word": "사업을 한다는 것",
+          "weight": 3.0
+        },
+        {
+          "word": "20세기",
+          "weight": 3.0
+        },
+        {
+          "word": "소프트뱅크",
+          "weight": 3.0
+        },
+        {
+          "word": "선정",
+          "weight": 3.0
+        },
+        {
+          "word": "영감",
+          "weight": 3.0
+        },
+        {
+          "word": "매장",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "그림",
+          "weight": 3.0
+        },
+        {
+          "word": "에스콰이어",
+          "weight": 3.0
+        },
+        {
+          "word": "정도",
+          "weight": 3.0
+        },
+        {
+          "word": "매일",
+          "weight": 2.0
+        },
+        {
+          "word": "레이 크록",
+          "weight": 2.0
+        },
+        {
+          "word": "물가",
+          "weight": 2.0
+        },
+        {
+          "word": "미국인",
+          "weight": 2.0
+        },
+        {
+          "word": "물건",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "불황",
+          "weight": 2.0
+        },
+        {
+          "word": "부분",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "걸어놓",
+          "weight": 2.0
+        },
+        {
+          "word": "결정적",
+          "weight": 2.0
+        },
+        {
+          "word": "경영자",
+          "weight": 2.0
+        },
+        {
+          "word": "경제적",
+          "weight": 2.0
+        },
+        {
+          "word": "고용",
+          "weight": 2.0
+        },
+        {
+          "word": "기업",
+          "weight": 2.0
+        },
+        {
+          "word": "기업가",
+          "weight": 2.0
+        },
+        {
+          "word": "센시오",
+          "weight": 2.0
+        },
+        {
+          "word": "나라",
+          "weight": 2.0
+        },
+        {
+          "word": "다다시",
+          "weight": 2.0
+        },
+        {
+          "word": "당연",
+          "weight": 2.0
+        },
+        {
+          "word": "대가",
+          "weight": 2.0
+        },
+        {
+          "word": "대담",
+          "weight": 2.0
+        },
+        {
+          "word": "상징",
+          "weight": 2.0
+        }
+      ],
+      "description": "CEO의 서재 시리즈 16권. 손정의와 야나이 다다시를 비롯해 수많은 경영자들에게 영감을 준 레이 크록의 자서전이다. 사업가로서, 진정한 벤처 창업가로서 맥도널드 제국을 일으킨 과정을 손에 잡힐 듯 생생히 보여준다.",
+      "co_loan_books": [
+        {
+          "bookname": "사장학개론 ",
+          "isbn13": "9791188331888",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "제로 투 원 :스탠퍼드대학교 스타트업 최고 명강의 ",
+          "isbn13": "9788947529877",
+          "authors": "피터 틸,이지연 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "천 원을 경영하라 :국민가게 다이소 창업주 박정부 회장의 본질경영 ",
+          "isbn13": "9791165346485",
+          "authors": "박정부 지음"
+        },
+        {
+          "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+          "isbn13": "9791189686826",
+          "authors": "지은이: 고명환"
+        },
+        {
+          "bookname": "비상식적 성공 법칙 :부의 추월차선에 올라타는 가장 강력한 8가지 습관 ",
+          "isbn13": "9791187875239",
+          "authors": "간다 마사노리 지음 ;서승범 옮김"
+        }
+      ],
+      "title": "사업을 한다는것",
+      "author": "레이 크록 지음 ;이영래 옮김",
+      "kdc_from_api": "325.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "사업을 한다는것",
+        "author": "레이 크록 지음 ;이영래 옮김",
+        "publisher": "센시오",
+        "publish_predate": "20190531",
+        "isbn": "9791196621957",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "351 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "325.1",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019017366",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/01/9791196621957.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "사업을 한다는것 :소프트뱅크 손정의 유니클로 야나이 다다시가 인생바이블로 선언한 책 ",
+        "author": "레이 크록 지음 ;이영래 옮김",
+        "publisher": "센시오",
+        "publish_year": "2019",
+        "isbn": "1196621950",
+        "isbn13": "9791196621957",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "594.82",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+        "description": "CEO의 서재 시리즈 16권. 손정의와 야나이 다다시를 비롯해 수많은 경영자들에게 영감을 준 레이 크록의 자서전이다. 사업가로서, 진정한 벤처 창업가로서 맥도널드 제국을 일으킨 과정을 손에 잡힐 듯 생생히 보여준다.",
+        "cover_url": "https://image.aladin.co.kr/product/19313/92/cover/k312635306_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사업",
+            "weight": 12.0
+          },
+          {
+            "word": "손정의",
+            "weight": 8.0
+          },
+          {
+            "word": "맥도널드",
+            "weight": 7.0
+          },
+          {
+            "word": "레이",
+            "weight": 6.0
+          },
+          {
+            "word": "크록",
+            "weight": 6.0
+          },
+          {
+            "word": "명의",
+            "weight": 5.0
+          },
+          {
+            "word": "사업가",
+            "weight": 5.0
+          },
+          {
+            "word": "회장",
+            "weight": 4.0
+          },
+          {
+            "word": "권한",
+            "weight": 4.0
+          },
+          {
+            "word": "인물",
+            "weight": 4.0
+          },
+          {
+            "word": "로켓",
+            "weight": 4.0
+          },
+          {
+            "word": "자유",
+            "weight": 4.0
+          },
+          {
+            "word": "방식",
+            "weight": 4.0
+          },
+          {
+            "word": "벤처",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "햄버거",
+            "weight": 3.0
+          },
+          {
+            "word": "사업을 한다는 것",
+            "weight": 3.0
+          },
+          {
+            "word": "20세기",
+            "weight": 3.0
+          },
+          {
+            "word": "소프트뱅크",
+            "weight": 3.0
+          },
+          {
+            "word": "선정",
+            "weight": 3.0
+          },
+          {
+            "word": "영감",
+            "weight": 3.0
+          },
+          {
+            "word": "매장",
+            "weight": 3.0
+          },
+          {
+            "word": "미국",
+            "weight": 3.0
+          },
+          {
+            "word": "그림",
+            "weight": 3.0
+          },
+          {
+            "word": "에스콰이어",
+            "weight": 3.0
+          },
+          {
+            "word": "정도",
+            "weight": 3.0
+          },
+          {
+            "word": "매일",
+            "weight": 2.0
+          },
+          {
+            "word": "레이 크록",
+            "weight": 2.0
+          },
+          {
+            "word": "물가",
+            "weight": 2.0
+          },
+          {
+            "word": "미국인",
+            "weight": 2.0
+          },
+          {
+            "word": "물건",
+            "weight": 2.0
+          },
+          {
+            "word": "서문",
+            "weight": 2.0
+          },
+          {
+            "word": "성장",
+            "weight": 2.0
+          },
+          {
+            "word": "불황",
+            "weight": 2.0
+          },
+          {
+            "word": "부분",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "걸어놓",
+            "weight": 2.0
+          },
+          {
+            "word": "결정적",
+            "weight": 2.0
+          },
+          {
+            "word": "경영자",
+            "weight": 2.0
+          },
+          {
+            "word": "경제적",
+            "weight": 2.0
+          },
+          {
+            "word": "고용",
+            "weight": 2.0
+          },
+          {
+            "word": "기업",
+            "weight": 2.0
+          },
+          {
+            "word": "기업가",
+            "weight": 2.0
+          },
+          {
+            "word": "센시오",
+            "weight": 2.0
+          },
+          {
+            "word": "나라",
+            "weight": 2.0
+          },
+          {
+            "word": "다다시",
+            "weight": 2.0
+          },
+          {
+            "word": "당연",
+            "weight": 2.0
+          },
+          {
+            "word": "대가",
+            "weight": 2.0
+          },
+          {
+            "word": "대담",
+            "weight": 2.0
+          },
+          {
+            "word": "상징",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "사장학개론 ",
+            "isbn13": "9791188331888",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+            "isbn13": "9791189686536",
+            "authors": "고명환 지음"
+          },
+          {
+            "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+            "isbn13": "9791158510619",
+            "authors": "팀 페리스 지음 ;정지현 옮김"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "제로 투 원 :스탠퍼드대학교 스타트업 최고 명강의 ",
+            "isbn13": "9788947529877",
+            "authors": "피터 틸,이지연 옮김"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "천 원을 경영하라 :국민가게 다이소 창업주 박정부 회장의 본질경영 ",
+            "isbn13": "9791165346485",
+            "authors": "박정부 지음"
+          },
+          {
+            "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+            "isbn13": "9791189686826",
+            "authors": "지은이: 고명환"
+          },
+          {
+            "bookname": "비상식적 성공 법칙 :부의 추월차선에 올라타는 가장 강력한 8가지 습관 ",
+            "isbn13": "9791187875239",
+            "authors": "간다 마사노리 지음 ;서승범 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "사업을 한다는것 - 소프트뱅크 손정의 유니클로 야나이 다다시가 인생바이블로 선언한 책"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001978694",
+        "title": "사업을 한다는 것",
+        "subtitle": "소프트뱅크 손정의 회장이 인생바이블로 선언한 책",
+        "page": "352 p.",
+        "book_size": "149*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791196621957",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196621957",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "사업을 한다는것",
+      "subtitle": "소프트뱅크 손정의 유니클로 야나이 다다시가 인생바이블로 선언한 책",
+      "author": "레이 크록 지음 ;이영래 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "센시오",
+      "publish_year": "2019",
+      "publish_predate": "20190531",
+      "kdc": "325.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "149*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "CEO의 서재 시리즈 16권. 손정의와 야나이 다다시를 비롯해 수많은 경영자들에게 영감을 준 레이 크록의 자서전이다. 사업가로서, 진정한 벤처 창업가로서 맥도널드 제국을 일으킨 과정을 손에 잡힐 듯 생생히 보여준다.",
+      "control_no": "CIP2019017366",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/01/9791196621957.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사업",
+          "weight": 12.0
+        },
+        {
+          "word": "손정의",
+          "weight": 8.0
+        },
+        {
+          "word": "맥도널드",
+          "weight": 7.0
+        },
+        {
+          "word": "레이",
+          "weight": 6.0
+        },
+        {
+          "word": "크록",
+          "weight": 6.0
+        },
+        {
+          "word": "명의",
+          "weight": 5.0
+        },
+        {
+          "word": "사업가",
+          "weight": 5.0
+        },
+        {
+          "word": "회장",
+          "weight": 4.0
+        },
+        {
+          "word": "권한",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "로켓",
+          "weight": 4.0
+        },
+        {
+          "word": "자유",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "벤처",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "햄버거",
+          "weight": 3.0
+        },
+        {
+          "word": "사업을 한다는 것",
+          "weight": 3.0
+        },
+        {
+          "word": "20세기",
+          "weight": 3.0
+        },
+        {
+          "word": "소프트뱅크",
+          "weight": 3.0
+        },
+        {
+          "word": "선정",
+          "weight": 3.0
+        },
+        {
+          "word": "영감",
+          "weight": 3.0
+        },
+        {
+          "word": "매장",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "그림",
+          "weight": 3.0
+        },
+        {
+          "word": "에스콰이어",
+          "weight": 3.0
+        },
+        {
+          "word": "정도",
+          "weight": 3.0
+        },
+        {
+          "word": "매일",
+          "weight": 2.0
+        },
+        {
+          "word": "레이 크록",
+          "weight": 2.0
+        },
+        {
+          "word": "물가",
+          "weight": 2.0
+        },
+        {
+          "word": "미국인",
+          "weight": 2.0
+        },
+        {
+          "word": "물건",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "불황",
+          "weight": 2.0
+        },
+        {
+          "word": "부분",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "걸어놓",
+          "weight": 2.0
+        },
+        {
+          "word": "결정적",
+          "weight": 2.0
+        },
+        {
+          "word": "경영자",
+          "weight": 2.0
+        },
+        {
+          "word": "경제적",
+          "weight": 2.0
+        },
+        {
+          "word": "고용",
+          "weight": 2.0
+        },
+        {
+          "word": "기업",
+          "weight": 2.0
+        },
+        {
+          "word": "기업가",
+          "weight": 2.0
+        },
+        {
+          "word": "센시오",
+          "weight": 2.0
+        },
+        {
+          "word": "나라",
+          "weight": 2.0
+        },
+        {
+          "word": "다다시",
+          "weight": 2.0
+        },
+        {
+          "word": "당연",
+          "weight": 2.0
+        },
+        {
+          "word": "대가",
+          "weight": 2.0
+        },
+        {
+          "word": "대담",
+          "weight": 2.0
+        },
+        {
+          "word": "상징",
+          "weight": 2.0
+        }
+      ],
+      "description": "CEO의 서재 시리즈 16권. 손정의와 야나이 다다시를 비롯해 수많은 경영자들에게 영감을 준 레이 크록의 자서전이다. 사업가로서, 진정한 벤처 창업가로서 맥도널드 제국을 일으킨 과정을 손에 잡힐 듯 생생히 보여준다.",
+      "co_loan_books": [
+        {
+          "bookname": "사장학개론 ",
+          "isbn13": "9791188331888",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "제로 투 원 :스탠퍼드대학교 스타트업 최고 명강의 ",
+          "isbn13": "9788947529877",
+          "authors": "피터 틸,이지연 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "천 원을 경영하라 :국민가게 다이소 창업주 박정부 회장의 본질경영 ",
+          "isbn13": "9791165346485",
+          "authors": "박정부 지음"
+        },
+        {
+          "bookname": "나는 어떻게 삶의 해답을 찾는가 :고명환의 독서 내공 ",
+          "isbn13": "9791189686826",
+          "authors": "지은이: 고명환"
+        },
+        {
+          "bookname": "비상식적 성공 법칙 :부의 추월차선에 올라타는 가장 강력한 8가지 습관 ",
+          "isbn13": "9791187875239",
+          "authors": "간다 마사노리 지음 ;서승범 옮김"
+        }
+      ],
+      "title": "사업을 한다는것",
+      "author": "레이 크록 지음 ;이영래 옮김",
+      "kdc_from_api": "325.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

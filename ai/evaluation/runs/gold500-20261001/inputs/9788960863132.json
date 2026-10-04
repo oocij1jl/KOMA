@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788960863132",
+  "captured_at": "2026-10-03T00:19:39.549562+09:00",
+  "lookup": {
+    "isbn": "9788960863132",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960863132",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "영어책 한 권 외워봤니?",
+      "subtitle": "",
+      "author": "김민식 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "위즈덤하우스",
+      "publish_year": "2017",
+      "publish_predate": "20170111",
+      "kdc": "740",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 영어 > 영어",
+      "ddc": "420",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "292 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "어학연수, 회화 학원 한 번 다니지 않고 30년 독학으로 습득한 저자의 영어 공부 노하우를 담은 책",
+      "control_no": "CIP2016031902",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "영어",
+          "weight": 87.0
+        },
+        {
+          "word": "공부",
+          "weight": 39.0
+        },
+        {
+          "word": "인생",
+          "weight": 22.0
+        },
+        {
+          "word": "비결",
+          "weight": 18.0
+        },
+        {
+          "word": "시간",
+          "weight": 17.0
+        },
+        {
+          "word": "하루",
+          "weight": 14.0
+        },
+        {
+          "word": "실력",
+          "weight": 12.0
+        },
+        {
+          "word": "회화",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 10.0
+        },
+        {
+          "word": "드라마",
+          "weight": 9.0
+        },
+        {
+          "word": "문장",
+          "weight": 8.0
+        },
+        {
+          "word": "읽기",
+          "weight": 8.0
+        },
+        {
+          "word": "포기",
+          "weight": 8.0
+        },
+        {
+          "word": "학원",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "필요",
+          "weight": 7.0
+        },
+        {
+          "word": "머리",
+          "weight": 7.0
+        },
+        {
+          "word": "암송",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "영어책 한 권 외워봤니",
+          "weight": 6.0
+        },
+        {
+          "word": "영어책",
+          "weight": 6.0
+        },
+        {
+          "word": "팝송",
+          "weight": 6.0
+        },
+        {
+          "word": "어학연수",
+          "weight": 6.0
+        },
+        {
+          "word": "PD",
+          "weight": 6.0
+        },
+        {
+          "word": "자신감",
+          "weight": 5.0
+        },
+        {
+          "word": "암기",
+          "weight": 5.0
+        },
+        {
+          "word": "교재",
+          "weight": 5.0
+        },
+        {
+          "word": "무조건",
+          "weight": 5.0
+        },
+        {
+          "word": "10문장",
+          "weight": 5.0
+        },
+        {
+          "word": "효과",
+          "weight": 5.0
+        },
+        {
+          "word": "외국어",
+          "weight": 5.0
+        },
+        {
+          "word": "단어",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "후배",
+          "weight": 4.0
+        },
+        {
+          "word": "사소",
+          "weight": 4.0
+        },
+        {
+          "word": "습관",
+          "weight": 4.0
+        },
+        {
+          "word": "보기이",
+          "weight": 4.0
+        },
+        {
+          "word": "김민식",
+          "weight": 4.0
+        },
+        {
+          "word": "노하우",
+          "weight": 4.0
+        },
+        {
+          "word": "계단",
+          "weight": 4.0
+        },
+        {
+          "word": "유학",
+          "weight": 4.0
+        },
+        {
+          "word": "소설책",
+          "weight": 4.0
+        },
+        {
+          "word": "성공학",
+          "weight": 4.0
+        },
+        {
+          "word": "자투리",
+          "weight": 4.0
+        },
+        {
+          "word": "활용",
+          "weight": 4.0
+        },
+        {
+          "word": "취미",
+          "weight": 4.0
+        },
+        {
+          "word": "자료",
+          "weight": 4.0
+        },
+        {
+          "word": "과외",
+          "weight": 4.0
+        },
+        {
+          "word": "두려움",
+          "weight": 4.0
+        },
+        {
+          "word": "듣기",
+          "weight": 4.0
+        }
+      ],
+      "description": "어학연수, 회화 학원 한 번 다니지 않고 30년 독학으로 습득한 저자의 영어 공부 노하우를 담은 책",
+      "co_loan_books": [
+        {
+          "bookname": "매일 아침 써봤니? :7년을 매일같이 쓰면서 시작된 능동태 라이프 ",
+          "isbn13": "9791162202586",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+          "isbn13": "9791157523399",
+          "authors": "문성현 지음"
+        },
+        {
+          "bookname": "내 모든 습관은 여행에서 만들어졌다 ",
+          "isbn13": "9791190065696",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "외로움 수업 :온전한 나와 마주하는 시간에 대하여 ",
+          "isbn13": "9791191360608",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "왕초보 영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+          "isbn13": "9791157527731",
+          "authors": "문성현 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "영어책 한 권 외워봤니?",
+      "author": "김민식 지음",
+      "kdc_from_api": "740",
+      "ddc_from_api": "420",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "영어책 한 권 외워봤니?",
+        "author": "김민식 지음",
+        "publisher": "위즈덤하우스",
+        "publish_predate": "20170111",
+        "isbn": "9788960863132",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "291 p.",
+        "book_size": "",
+        "form": "",
+        "kdc": "740",
+        "ddc": "420",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016031902",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "영어책 한 권 외워봤니? :딱 한 권만 넘으면 영어 울렁증이 사라진다 ",
+        "author": "김민식 지음",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2017",
+        "isbn": "8960863130",
+        "isbn13": "9788960863132",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "740",
+        "class_nm": "언어 > 영어 > 영어",
+        "description": "어학연수, 회화 학원 한 번 다니지 않고 30년 독학으로 습득한 저자의 영어 공부 노하우를 담은 책",
+        "cover_url": "http://image.aladin.co.kr/product/10010/27/cover/8960863130_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "영어",
+            "weight": 87.0
+          },
+          {
+            "word": "공부",
+            "weight": 39.0
+          },
+          {
+            "word": "인생",
+            "weight": 22.0
+          },
+          {
+            "word": "비결",
+            "weight": 18.0
+          },
+          {
+            "word": "시간",
+            "weight": 17.0
+          },
+          {
+            "word": "하루",
+            "weight": 14.0
+          },
+          {
+            "word": "실력",
+            "weight": 12.0
+          },
+          {
+            "word": "회화",
+            "weight": 12.0
+          },
+          {
+            "word": "사람",
+            "weight": 10.0
+          },
+          {
+            "word": "드라마",
+            "weight": 9.0
+          },
+          {
+            "word": "문장",
+            "weight": 8.0
+          },
+          {
+            "word": "읽기",
+            "weight": 8.0
+          },
+          {
+            "word": "포기",
+            "weight": 8.0
+          },
+          {
+            "word": "학원",
+            "weight": 8.0
+          },
+          {
+            "word": "방법",
+            "weight": 7.0
+          },
+          {
+            "word": "필요",
+            "weight": 7.0
+          },
+          {
+            "word": "머리",
+            "weight": 7.0
+          },
+          {
+            "word": "암송",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 6.0
+          },
+          {
+            "word": "영어책 한 권 외워봤니",
+            "weight": 6.0
+          },
+          {
+            "word": "영어책",
+            "weight": 6.0
+          },
+          {
+            "word": "팝송",
+            "weight": 6.0
+          },
+          {
+            "word": "어학연수",
+            "weight": 6.0
+          },
+          {
+            "word": "PD",
+            "weight": 6.0
+          },
+          {
+            "word": "자신감",
+            "weight": 5.0
+          },
+          {
+            "word": "암기",
+            "weight": 5.0
+          },
+          {
+            "word": "교재",
+            "weight": 5.0
+          },
+          {
+            "word": "무조건",
+            "weight": 5.0
+          },
+          {
+            "word": "10문장",
+            "weight": 5.0
+          },
+          {
+            "word": "효과",
+            "weight": 5.0
+          },
+          {
+            "word": "외국어",
+            "weight": 5.0
+          },
+          {
+            "word": "단어",
+            "weight": 5.0
+          },
+          {
+            "word": "처음",
+            "weight": 5.0
+          },
+          {
+            "word": "후배",
+            "weight": 4.0
+          },
+          {
+            "word": "사소",
+            "weight": 4.0
+          },
+          {
+            "word": "습관",
+            "weight": 4.0
+          },
+          {
+            "word": "보기이",
+            "weight": 4.0
+          },
+          {
+            "word": "김민식",
+            "weight": 4.0
+          },
+          {
+            "word": "노하우",
+            "weight": 4.0
+          },
+          {
+            "word": "계단",
+            "weight": 4.0
+          },
+          {
+            "word": "유학",
+            "weight": 4.0
+          },
+          {
+            "word": "소설책",
+            "weight": 4.0
+          },
+          {
+            "word": "성공학",
+            "weight": 4.0
+          },
+          {
+            "word": "자투리",
+            "weight": 4.0
+          },
+          {
+            "word": "활용",
+            "weight": 4.0
+          },
+          {
+            "word": "취미",
+            "weight": 4.0
+          },
+          {
+            "word": "자료",
+            "weight": 4.0
+          },
+          {
+            "word": "과외",
+            "weight": 4.0
+          },
+          {
+            "word": "두려움",
+            "weight": 4.0
+          },
+          {
+            "word": "듣기",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "매일 아침 써봤니? :7년을 매일같이 쓰면서 시작된 능동태 라이프 ",
+            "isbn13": "9791162202586",
+            "authors": "김민식 지음"
+          },
+          {
+            "bookname": "영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+            "isbn13": "9791157523399",
+            "authors": "문성현 지음"
+          },
+          {
+            "bookname": "내 모든 습관은 여행에서 만들어졌다 ",
+            "isbn13": "9791190065696",
+            "authors": "김민식 지음"
+          },
+          {
+            "bookname": "외로움 수업 :온전한 나와 마주하는 시간에 대하여 ",
+            "isbn13": "9791191360608",
+            "authors": "김민식 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "왕초보 영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+            "isbn13": "9791157527731",
+            "authors": "문성현 지음"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "영어책 한 권 외워봤니?"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000937701",
+        "title": "영어책 한 권 외워봤니?",
+        "subtitle": "",
+        "page": "292 p.",
+        "book_size": "148*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788960863132",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960863132",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "영어책 한 권 외워봤니?",
+      "subtitle": "",
+      "author": "김민식 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "위즈덤하우스",
+      "publish_year": "2017",
+      "publish_predate": "20170111",
+      "kdc": "740",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 영어 > 영어",
+      "ddc": "420",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "292 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "어학연수, 회화 학원 한 번 다니지 않고 30년 독학으로 습득한 저자의 영어 공부 노하우를 담은 책",
+      "control_no": "CIP2016031902",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6017680_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "영어",
+          "weight": 87.0
+        },
+        {
+          "word": "공부",
+          "weight": 39.0
+        },
+        {
+          "word": "인생",
+          "weight": 22.0
+        },
+        {
+          "word": "비결",
+          "weight": 18.0
+        },
+        {
+          "word": "시간",
+          "weight": 17.0
+        },
+        {
+          "word": "하루",
+          "weight": 14.0
+        },
+        {
+          "word": "실력",
+          "weight": 12.0
+        },
+        {
+          "word": "회화",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 10.0
+        },
+        {
+          "word": "드라마",
+          "weight": 9.0
+        },
+        {
+          "word": "문장",
+          "weight": 8.0
+        },
+        {
+          "word": "읽기",
+          "weight": 8.0
+        },
+        {
+          "word": "포기",
+          "weight": 8.0
+        },
+        {
+          "word": "학원",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "필요",
+          "weight": 7.0
+        },
+        {
+          "word": "머리",
+          "weight": 7.0
+        },
+        {
+          "word": "암송",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "영어책 한 권 외워봤니",
+          "weight": 6.0
+        },
+        {
+          "word": "영어책",
+          "weight": 6.0
+        },
+        {
+          "word": "팝송",
+          "weight": 6.0
+        },
+        {
+          "word": "어학연수",
+          "weight": 6.0
+        },
+        {
+          "word": "PD",
+          "weight": 6.0
+        },
+        {
+          "word": "자신감",
+          "weight": 5.0
+        },
+        {
+          "word": "암기",
+          "weight": 5.0
+        },
+        {
+          "word": "교재",
+          "weight": 5.0
+        },
+        {
+          "word": "무조건",
+          "weight": 5.0
+        },
+        {
+          "word": "10문장",
+          "weight": 5.0
+        },
+        {
+          "word": "효과",
+          "weight": 5.0
+        },
+        {
+          "word": "외국어",
+          "weight": 5.0
+        },
+        {
+          "word": "단어",
+          "weight": 5.0
+        },
+        {
+          "word": "처음",
+          "weight": 5.0
+        },
+        {
+          "word": "후배",
+          "weight": 4.0
+        },
+        {
+          "word": "사소",
+          "weight": 4.0
+        },
+        {
+          "word": "습관",
+          "weight": 4.0
+        },
+        {
+          "word": "보기이",
+          "weight": 4.0
+        },
+        {
+          "word": "김민식",
+          "weight": 4.0
+        },
+        {
+          "word": "노하우",
+          "weight": 4.0
+        },
+        {
+          "word": "계단",
+          "weight": 4.0
+        },
+        {
+          "word": "유학",
+          "weight": 4.0
+        },
+        {
+          "word": "소설책",
+          "weight": 4.0
+        },
+        {
+          "word": "성공학",
+          "weight": 4.0
+        },
+        {
+          "word": "자투리",
+          "weight": 4.0
+        },
+        {
+          "word": "활용",
+          "weight": 4.0
+        },
+        {
+          "word": "취미",
+          "weight": 4.0
+        },
+        {
+          "word": "자료",
+          "weight": 4.0
+        },
+        {
+          "word": "과외",
+          "weight": 4.0
+        },
+        {
+          "word": "두려움",
+          "weight": 4.0
+        },
+        {
+          "word": "듣기",
+          "weight": 4.0
+        }
+      ],
+      "description": "어학연수, 회화 학원 한 번 다니지 않고 30년 독학으로 습득한 저자의 영어 공부 노하우를 담은 책",
+      "co_loan_books": [
+        {
+          "bookname": "매일 아침 써봤니? :7년을 매일같이 쓰면서 시작된 능동태 라이프 ",
+          "isbn13": "9791162202586",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+          "isbn13": "9791157523399",
+          "authors": "문성현 지음"
+        },
+        {
+          "bookname": "내 모든 습관은 여행에서 만들어졌다 ",
+          "isbn13": "9791190065696",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "외로움 수업 :온전한 나와 마주하는 시간에 대하여 ",
+          "isbn13": "9791191360608",
+          "authors": "김민식 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "왕초보 영어회화 100일의 기적 :100일 후에는 나도 영어로 말한다! ",
+          "isbn13": "9791157527731",
+          "authors": "문성현 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "영어책 한 권 외워봤니?",
+      "author": "김민식 지음",
+      "kdc_from_api": "740",
+      "ddc_from_api": "420",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

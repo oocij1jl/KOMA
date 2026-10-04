@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788936454951",
+  "captured_at": "2026-10-05T00:11:16.777968+09:00",
+  "lookup": {
+    "isbn": "9788936454951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936454951",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "할머니의 여름휴가 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2016",
+      "publish_predate": "20160704",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "56 p.",
+      "book_size": "227*260mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;수박 수영장&gt; 작가 안녕달의 두 번째 그림책. 더운 여름날, 바닷가에 다녀온 손자가 혼자 사는 할머니를 찾아온다. 손자는 휴가를 떠나지 못하는 할머니를 위해 바닷소리가 들리는 소라를 선물한다. 할머니는 소라를 통해 뜻밖의 여름휴가를 떠나게 되는데….",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/107/500/10750051.jpg?type=m1&udate=20170712",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "할머니",
+          "weight": 23.0
+        },
+        {
+          "word": "바다",
+          "weight": 10.0
+        },
+        {
+          "word": "상상력",
+          "weight": 8.0
+        },
+        {
+          "word": "고장",
+          "weight": 7.0
+        },
+        {
+          "word": "여름휴가",
+          "weight": 7.0
+        },
+        {
+          "word": "선풍기",
+          "weight": 7.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 6.0
+        },
+        {
+          "word": "할머니의 여름휴가",
+          "weight": 6.0
+        },
+        {
+          "word": "소라",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 5.0
+        },
+        {
+          "word": "바닷가",
+          "weight": 5.0
+        },
+        {
+          "word": "휴가",
+          "weight": 5.0
+        },
+        {
+          "word": "풍경",
+          "weight": 5.0
+        },
+        {
+          "word": "시원",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "손자",
+          "weight": 4.0
+        },
+        {
+          "word": "분위기",
+          "weight": 4.0
+        },
+        {
+          "word": "바닷바람",
+          "weight": 4.0
+        },
+        {
+          "word": "바닷소리",
+          "weight": 4.0
+        },
+        {
+          "word": "스위치",
+          "weight": 3.0
+        },
+        {
+          "word": "텔레비전",
+          "weight": 3.0
+        },
+        {
+          "word": "마법",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "홀로",
+          "weight": 3.0
+        },
+        {
+          "word": "환상",
+          "weight": 3.0
+        },
+        {
+          "word": "그린",
+          "weight": 3.0
+        },
+        {
+          "word": "선물",
+          "weight": 3.0
+        },
+        {
+          "word": "현실",
+          "weight": 3.0
+        },
+        {
+          "word": "연출",
+          "weight": 2.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 2.0
+        },
+        {
+          "word": "휴식",
+          "weight": 2.0
+        },
+        {
+          "word": "이들",
+          "weight": 2.0
+        },
+        {
+          "word": "가게",
+          "weight": 2.0
+        },
+        {
+          "word": "강아지",
+          "weight": 2.0
+        },
+        {
+          "word": "바다표범",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "고치",
+          "weight": 2.0
+        },
+        {
+          "word": "인상적",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "뜻밖",
+          "weight": 2.0
+        },
+        {
+          "word": "유초중등전체 공공도서관용",
+          "weight": 2.0
+        },
+        {
+          "word": "여행",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "구도",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "위로",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;수박 수영장&gt; 작가 안녕달의 두 번째 그림책. 더운 여름날, 바닷가에 다녀온 손자가 혼자 사는 할머니를 찾아온다. 손자는 휴가를 떠나지 못하는 할머니를 위해 바닷소리가 들리는 소라를 선물한다. 할머니는 소라를 통해 뜻밖의 여름휴가를 떠나게 되는데….",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "당근 유치원 ",
+          "isbn13": "9788936455484",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "왜냐면… ",
+          "isbn13": "9791158360382",
+          "authors": "안녕달 글·그림"
+        },
+        {
+          "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+          "isbn13": "9791158361518",
+          "authors": "안녕달 [지음]"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "당근 할머니 :안녕달 그림책 ",
+          "isbn13": "9788936429232",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "할머니의 여름휴가 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "할머니의 여름휴가 ",
+        "author": "지은이: 안녕달",
+        "publisher": "창비",
+        "publish_predate": "20160704",
+        "isbn": "9788936454951",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "할머니의 여름휴가",
+        "author": "안녕달",
+        "publisher": "창비",
+        "publish_year": "2016",
+        "isbn": "8936454951",
+        "isbn13": "9788936454951",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.8",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "&lt;수박 수영장&gt; 작가 안녕달의 두 번째 그림책. 더운 여름날, 바닷가에 다녀온 손자가 혼자 사는 할머니를 찾아온다. 손자는 휴가를 떠나지 못하는 할머니를 위해 바닷소리가 들리는 소라를 선물한다. 할머니는 소라를 통해 뜻밖의 여름휴가를 떠나게 되는데….",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/107/500/10750051.jpg?type=m1&udate=20170712"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "할머니",
+            "weight": 23.0
+          },
+          {
+            "word": "바다",
+            "weight": 10.0
+          },
+          {
+            "word": "상상력",
+            "weight": 8.0
+          },
+          {
+            "word": "고장",
+            "weight": 7.0
+          },
+          {
+            "word": "여름휴가",
+            "weight": 7.0
+          },
+          {
+            "word": "선풍기",
+            "weight": 7.0
+          },
+          {
+            "word": "수박 수영장",
+            "weight": 6.0
+          },
+          {
+            "word": "할머니의 여름휴가",
+            "weight": 6.0
+          },
+          {
+            "word": "소라",
+            "weight": 5.0
+          },
+          {
+            "word": "그림책",
+            "weight": 5.0
+          },
+          {
+            "word": "안녕달",
+            "weight": 5.0
+          },
+          {
+            "word": "바닷가",
+            "weight": 5.0
+          },
+          {
+            "word": "휴가",
+            "weight": 5.0
+          },
+          {
+            "word": "풍경",
+            "weight": 5.0
+          },
+          {
+            "word": "시원",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "장면",
+            "weight": 4.0
+          },
+          {
+            "word": "손자",
+            "weight": 4.0
+          },
+          {
+            "word": "분위기",
+            "weight": 4.0
+          },
+          {
+            "word": "바닷바람",
+            "weight": 4.0
+          },
+          {
+            "word": "바닷소리",
+            "weight": 4.0
+          },
+          {
+            "word": "스위치",
+            "weight": 3.0
+          },
+          {
+            "word": "텔레비전",
+            "weight": 3.0
+          },
+          {
+            "word": "마법",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "홀로",
+            "weight": 3.0
+          },
+          {
+            "word": "환상",
+            "weight": 3.0
+          },
+          {
+            "word": "그린",
+            "weight": 3.0
+          },
+          {
+            "word": "선물",
+            "weight": 3.0
+          },
+          {
+            "word": "현실",
+            "weight": 3.0
+          },
+          {
+            "word": "연출",
+            "weight": 2.0
+          },
+          {
+            "word": "어른",
+            "weight": 2.0
+          },
+          {
+            "word": "여름",
+            "weight": 2.0
+          },
+          {
+            "word": "휴식",
+            "weight": 2.0
+          },
+          {
+            "word": "이들",
+            "weight": 2.0
+          },
+          {
+            "word": "가게",
+            "weight": 2.0
+          },
+          {
+            "word": "강아지",
+            "weight": 2.0
+          },
+          {
+            "word": "바다표범",
+            "weight": 2.0
+          },
+          {
+            "word": "유쾌",
+            "weight": 2.0
+          },
+          {
+            "word": "고치",
+            "weight": 2.0
+          },
+          {
+            "word": "인상적",
+            "weight": 2.0
+          },
+          {
+            "word": "등장",
+            "weight": 2.0
+          },
+          {
+            "word": "뜻밖",
+            "weight": 2.0
+          },
+          {
+            "word": "유초중등전체 공공도서관용",
+            "weight": 2.0
+          },
+          {
+            "word": "여행",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "구도",
+            "weight": 2.0
+          },
+          {
+            "word": "일상",
+            "weight": 2.0
+          },
+          {
+            "word": "공간",
+            "weight": 2.0
+          },
+          {
+            "word": "위로",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "당근 유치원 ",
+            "isbn13": "9788936455484",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "메리 :안녕달 그림책 ",
+            "isbn13": "9791160943061",
+            "authors": "글·그림: 안녕달"
+          },
+          {
+            "bookname": "눈아이 :안녕달 그림책 ",
+            "isbn13": "9788936455736",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "겨울 이불 :안녕달 그림책 ",
+            "isbn13": "9788936455965",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "왜냐면… ",
+            "isbn13": "9791158360382",
+            "authors": "안녕달 글·그림"
+          },
+          {
+            "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+            "isbn13": "9791158361518",
+            "authors": "안녕달 [지음]"
+          },
+          {
+            "bookname": "팥빙수의 전설 :이지은 그림책 ",
+            "isbn13": "9788901232232",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "당근 할머니 :안녕달 그림책 ",
+            "isbn13": "9788936429232",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "할머니의 여름휴가"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000611699",
+        "title": "할머니의 여름휴가",
+        "subtitle": "안녕달 그림책",
+        "page": "56 p.",
+        "book_size": "227*260mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788936454951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936454951",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "할머니의 여름휴가 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2016",
+      "publish_predate": "20160704",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "56 p.",
+      "book_size": "227*260mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;수박 수영장&gt; 작가 안녕달의 두 번째 그림책. 더운 여름날, 바닷가에 다녀온 손자가 혼자 사는 할머니를 찾아온다. 손자는 휴가를 떠나지 못하는 할머니를 위해 바닷소리가 들리는 소라를 선물한다. 할머니는 소라를 통해 뜻밖의 여름휴가를 떠나게 되는데….",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/107/500/10750051.jpg?type=m1&udate=20170712",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "할머니",
+          "weight": 23.0
+        },
+        {
+          "word": "바다",
+          "weight": 10.0
+        },
+        {
+          "word": "상상력",
+          "weight": 8.0
+        },
+        {
+          "word": "고장",
+          "weight": 7.0
+        },
+        {
+          "word": "여름휴가",
+          "weight": 7.0
+        },
+        {
+          "word": "선풍기",
+          "weight": 7.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 6.0
+        },
+        {
+          "word": "할머니의 여름휴가",
+          "weight": 6.0
+        },
+        {
+          "word": "소라",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 5.0
+        },
+        {
+          "word": "바닷가",
+          "weight": 5.0
+        },
+        {
+          "word": "휴가",
+          "weight": 5.0
+        },
+        {
+          "word": "풍경",
+          "weight": 5.0
+        },
+        {
+          "word": "시원",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 4.0
+        },
+        {
+          "word": "손자",
+          "weight": 4.0
+        },
+        {
+          "word": "분위기",
+          "weight": 4.0
+        },
+        {
+          "word": "바닷바람",
+          "weight": 4.0
+        },
+        {
+          "word": "바닷소리",
+          "weight": 4.0
+        },
+        {
+          "word": "스위치",
+          "weight": 3.0
+        },
+        {
+          "word": "텔레비전",
+          "weight": 3.0
+        },
+        {
+          "word": "마법",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "홀로",
+          "weight": 3.0
+        },
+        {
+          "word": "환상",
+          "weight": 3.0
+        },
+        {
+          "word": "그린",
+          "weight": 3.0
+        },
+        {
+          "word": "선물",
+          "weight": 3.0
+        },
+        {
+          "word": "현실",
+          "weight": 3.0
+        },
+        {
+          "word": "연출",
+          "weight": 2.0
+        },
+        {
+          "word": "어른",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 2.0
+        },
+        {
+          "word": "휴식",
+          "weight": 2.0
+        },
+        {
+          "word": "이들",
+          "weight": 2.0
+        },
+        {
+          "word": "가게",
+          "weight": 2.0
+        },
+        {
+          "word": "강아지",
+          "weight": 2.0
+        },
+        {
+          "word": "바다표범",
+          "weight": 2.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 2.0
+        },
+        {
+          "word": "고치",
+          "weight": 2.0
+        },
+        {
+          "word": "인상적",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "뜻밖",
+          "weight": 2.0
+        },
+        {
+          "word": "유초중등전체 공공도서관용",
+          "weight": 2.0
+        },
+        {
+          "word": "여행",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "구도",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "위로",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;수박 수영장&gt; 작가 안녕달의 두 번째 그림책. 더운 여름날, 바닷가에 다녀온 손자가 혼자 사는 할머니를 찾아온다. 손자는 휴가를 떠나지 못하는 할머니를 위해 바닷소리가 들리는 소라를 선물한다. 할머니는 소라를 통해 뜻밖의 여름휴가를 떠나게 되는데….",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "당근 유치원 ",
+          "isbn13": "9788936455484",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "왜냐면… ",
+          "isbn13": "9791158360382",
+          "authors": "안녕달 글·그림"
+        },
+        {
+          "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+          "isbn13": "9791158361518",
+          "authors": "안녕달 [지음]"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "당근 할머니 :안녕달 그림책 ",
+          "isbn13": "9788936429232",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        }
+      ],
+      "title": "할머니의 여름휴가 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

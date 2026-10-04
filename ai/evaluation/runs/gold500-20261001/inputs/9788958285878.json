@@ -1,0 +1,962 @@
+{
+  "isbn": "9788958285878",
+  "captured_at": "2026-10-03T00:20:13.567049+09:00",
+  "lookup": {
+    "isbn": "9788958285878",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958285878",
+      "isbn_add_code": "73650",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "(한눈에 반한) 우리 미술관 ",
+      "subtitle": "풍속화에서 사군자까지",
+      "author": "장세현 글",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사계절출판사",
+      "publish_year": "2012",
+      "publish_predate": "20120120",
+      "kdc": "653",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "206 p.",
+      "book_size": "225*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "어린이를 위한 한국 미술 해설서이다. 풍속화, 산수화, 동물화, 민화, 불화, 문인화, 인물화, 사군자 등 초등학교 교과서에서 만날 수 있는 아름다운 우리 옛 그림 102점을 실었다. 옛 그림을 올바르게 감상하는 방법부터 제목에 담긴 뜻, 시대적인 배경, 화가와 그림에 얽힌 흥미진진한 이야기 등 그림마다 쉽고 재미있는 설명을 곁들였다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/068/007/06800731.jpg?type=m1&udate=20180123",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림",
+          "weight": 5.0
+        },
+        {
+          "word": "명화",
+          "weight": 3.0
+        },
+        {
+          "word": "화가",
+          "weight": 2.0
+        },
+        {
+          "word": "사계절",
+          "weight": 2.0
+        },
+        {
+          "word": "미술",
+          "weight": 2.0
+        },
+        {
+          "word": "문화 예술 인물",
+          "weight": 2.0
+        },
+        {
+          "word": "장세현",
+          "weight": 2.0
+        },
+        {
+          "word": "제목",
+          "weight": 1.0
+        },
+        {
+          "word": "설명",
+          "weight": 1.0
+        },
+        {
+          "word": "해설",
+          "weight": 1.0
+        },
+        {
+          "word": "시대적",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "원본",
+          "weight": 1.0
+        },
+        {
+          "word": "인물화",
+          "weight": 1.0
+        },
+        {
+          "word": "일화",
+          "weight": 1.0
+        },
+        {
+          "word": "한국",
+          "weight": 1.0
+        },
+        {
+          "word": "풍속화",
+          "weight": 1.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 1.0
+        },
+        {
+          "word": "처음",
+          "weight": 1.0
+        },
+        {
+          "word": "정보",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "색감",
+          "weight": 1.0
+        },
+        {
+          "word": "산수화",
+          "weight": 1.0
+        },
+        {
+          "word": "감동",
+          "weight": 1.0
+        },
+        {
+          "word": "감상",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "교과서",
+          "weight": 1.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 1.0
+        },
+        {
+          "word": "동물화",
+          "weight": 1.0
+        },
+        {
+          "word": "마주",
+          "weight": 1.0
+        },
+        {
+          "word": "문인화",
+          "weight": 1.0
+        },
+        {
+          "word": "미술사",
+          "weight": 1.0
+        },
+        {
+          "word": "민화",
+          "weight": 1.0
+        },
+        {
+          "word": "방법",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "보정",
+          "weight": 1.0
+        },
+        {
+          "word": "불화",
+          "weight": 1.0
+        },
+        {
+          "word": "사군자",
+          "weight": 1.0
+        },
+        {
+          "word": "102점",
+          "weight": 1.0
+        }
+      ],
+      "description": "어린이를 위한 한국 미술 해설서이다. 풍속화, 산수화, 동물화, 민화, 불화, 문인화, 인물화, 사군자 등 초등학교 교과서에서 만날 수 있는 아름다운 우리 옛 그림 102점을 실었다. 옛 그림을 올바르게 감상하는 방법부터 제목에 담긴 뜻, 시대적인 배경, 화가와 그림에 얽힌 흥미진진한 이야기 등 그림마다 쉽고 재미있는 설명을 곁들였다.",
+      "co_loan_books": [
+        {
+          "bookname": "플랑크톤의 비밀 :지구를 지키는 작은 생명체 ",
+          "isbn13": "9788930268738",
+          "authors": "글·사진: 김종문 ;그림: 이경국"
+        },
+        {
+          "bookname": "명절 속에 숨은 우리 과학 ",
+          "isbn13": "9788952755087",
+          "authors": "오주영 글 ;허현경 그림"
+        },
+        {
+          "bookname": "바삭바삭 갈매기 ",
+          "isbn13": "9788970947273",
+          "authors": "전민걸 글·그림"
+        },
+        {
+          "bookname": "행복한 비밀 하나 :박성배 동화집 ",
+          "isbn13": "9788957983065",
+          "authors": "지은이: 박성배 ;그린이: 성영란"
+        },
+        {
+          "bookname": "프린들 주세요",
+          "isbn13": "9788971968345",
+          "authors": "앤드루 클레먼츠 지음;양혜원 그림"
+        },
+        {
+          "bookname": "소똥 밟은 호랑이",
+          "isbn13": "9788984016958",
+          "authors": "박민호"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "아씨방 일곱 동무",
+          "isbn13": "9788949100203",
+          "authors": "이영경 글.그림"
+        },
+        {
+          "bookname": "(알고 보면 더 재미있는) 곤충 이야기",
+          "isbn13": "9788992130271",
+          "authors": "김태우,고상미 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        }
+      ],
+      "title": "(한눈에 반한) 우리 미술관 ",
+      "author": "장세현 글",
+      "kdc_from_api": "653",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(한눈에 반한) 우리 미술관 ",
+        "author": "장세현 글",
+        "publisher": "사계절출판사",
+        "publish_predate": "20120120",
+        "isbn": "9788958285878",
+        "isbn_add_code": "73650",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(한눈에 반한) 우리 미술관 :풍속화에서 사군자까지 ",
+        "author": "장세현 글",
+        "publisher": "사계절",
+        "publish_year": "2012",
+        "isbn": "8958285877",
+        "isbn13": "9788958285878",
+        "isbn_add_code": "73650",
+        "volume": "",
+        "class_no": "653",
+        "class_nm": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+        "description": "어린이를 위한 한국 미술 해설서이다. 풍속화, 산수화, 동물화, 민화, 불화, 문인화, 인물화, 사군자 등 초등학교 교과서에서 만날 수 있는 아름다운 우리 옛 그림 102점을 실었다. 옛 그림을 올바르게 감상하는 방법부터 제목에 담긴 뜻, 시대적인 배경, 화가와 그림에 얽힌 흥미진진한 이야기 등 그림마다 쉽고 재미있는 설명을 곁들였다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/068/007/06800731.jpg?type=m1&udate=20180123"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "그림",
+            "weight": 5.0
+          },
+          {
+            "word": "명화",
+            "weight": 3.0
+          },
+          {
+            "word": "화가",
+            "weight": 2.0
+          },
+          {
+            "word": "사계절",
+            "weight": 2.0
+          },
+          {
+            "word": "미술",
+            "weight": 2.0
+          },
+          {
+            "word": "문화 예술 인물",
+            "weight": 2.0
+          },
+          {
+            "word": "장세현",
+            "weight": 2.0
+          },
+          {
+            "word": "제목",
+            "weight": 1.0
+          },
+          {
+            "word": "설명",
+            "weight": 1.0
+          },
+          {
+            "word": "해설",
+            "weight": 1.0
+          },
+          {
+            "word": "시대적",
+            "weight": 1.0
+          },
+          {
+            "word": "아이들",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이",
+            "weight": 1.0
+          },
+          {
+            "word": "원본",
+            "weight": 1.0
+          },
+          {
+            "word": "인물화",
+            "weight": 1.0
+          },
+          {
+            "word": "일화",
+            "weight": 1.0
+          },
+          {
+            "word": "한국",
+            "weight": 1.0
+          },
+          {
+            "word": "풍속화",
+            "weight": 1.0
+          },
+          {
+            "word": "초등학교",
+            "weight": 1.0
+          },
+          {
+            "word": "처음",
+            "weight": 1.0
+          },
+          {
+            "word": "정보",
+            "weight": 1.0
+          },
+          {
+            "word": "생생",
+            "weight": 1.0
+          },
+          {
+            "word": "색감",
+            "weight": 1.0
+          },
+          {
+            "word": "산수화",
+            "weight": 1.0
+          },
+          {
+            "word": "감동",
+            "weight": 1.0
+          },
+          {
+            "word": "감상",
+            "weight": 1.0
+          },
+          {
+            "word": "관심",
+            "weight": 1.0
+          },
+          {
+            "word": "교과서",
+            "weight": 1.0
+          },
+          {
+            "word": "눈앞",
+            "weight": 1.0
+          },
+          {
+            "word": "동물화",
+            "weight": 1.0
+          },
+          {
+            "word": "마주",
+            "weight": 1.0
+          },
+          {
+            "word": "문인화",
+            "weight": 1.0
+          },
+          {
+            "word": "미술사",
+            "weight": 1.0
+          },
+          {
+            "word": "민화",
+            "weight": 1.0
+          },
+          {
+            "word": "방법",
+            "weight": 1.0
+          },
+          {
+            "word": "배경",
+            "weight": 1.0
+          },
+          {
+            "word": "보정",
+            "weight": 1.0
+          },
+          {
+            "word": "불화",
+            "weight": 1.0
+          },
+          {
+            "word": "사군자",
+            "weight": 1.0
+          },
+          {
+            "word": "102점",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "플랑크톤의 비밀 :지구를 지키는 작은 생명체 ",
+            "isbn13": "9788930268738",
+            "authors": "글·사진: 김종문 ;그림: 이경국"
+          },
+          {
+            "bookname": "명절 속에 숨은 우리 과학 ",
+            "isbn13": "9788952755087",
+            "authors": "오주영 글 ;허현경 그림"
+          },
+          {
+            "bookname": "바삭바삭 갈매기 ",
+            "isbn13": "9788970947273",
+            "authors": "전민걸 글·그림"
+          },
+          {
+            "bookname": "행복한 비밀 하나 :박성배 동화집 ",
+            "isbn13": "9788957983065",
+            "authors": "지은이: 박성배 ;그린이: 성영란"
+          },
+          {
+            "bookname": "프린들 주세요",
+            "isbn13": "9788971968345",
+            "authors": "앤드루 클레먼츠 지음;양혜원 그림"
+          },
+          {
+            "bookname": "소똥 밟은 호랑이",
+            "isbn13": "9788984016958",
+            "authors": "박민호"
+          },
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "아씨방 일곱 동무",
+            "isbn13": "9788949100203",
+            "authors": "이영경 글.그림"
+          },
+          {
+            "bookname": "(알고 보면 더 재미있는) 곤충 이야기",
+            "isbn13": "9788992130271",
+            "authors": "김태우,고상미 그림"
+          },
+          {
+            "bookname": "으악, 도깨비다!",
+            "isbn13": "9788987504568",
+            "authors": "손정원 글;유애로 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(한눈에 반한) 우리 미술관"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000869789",
+        "title": "한눈에 반한 우리 미술관",
+        "subtitle": "풍속화에서 사군자까지",
+        "page": "206 p.",
+        "book_size": "225*250mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788958285878",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958285878",
+      "isbn_add_code": "73650",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "(한눈에 반한) 우리 미술관 ",
+      "subtitle": "풍속화에서 사군자까지",
+      "author": "장세현 글",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사계절출판사",
+      "publish_year": "2012",
+      "publish_predate": "20120120",
+      "kdc": "653",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 회화, 도화 > 시대별 및 국별 회화",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "206 p.",
+      "book_size": "225*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "어린이를 위한 한국 미술 해설서이다. 풍속화, 산수화, 동물화, 민화, 불화, 문인화, 인물화, 사군자 등 초등학교 교과서에서 만날 수 있는 아름다운 우리 옛 그림 102점을 실었다. 옛 그림을 올바르게 감상하는 방법부터 제목에 담긴 뜻, 시대적인 배경, 화가와 그림에 얽힌 흥미진진한 이야기 등 그림마다 쉽고 재미있는 설명을 곁들였다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/068/007/06800731.jpg?type=m1&udate=20180123",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "그림",
+          "weight": 5.0
+        },
+        {
+          "word": "명화",
+          "weight": 3.0
+        },
+        {
+          "word": "화가",
+          "weight": 2.0
+        },
+        {
+          "word": "사계절",
+          "weight": 2.0
+        },
+        {
+          "word": "미술",
+          "weight": 2.0
+        },
+        {
+          "word": "문화 예술 인물",
+          "weight": 2.0
+        },
+        {
+          "word": "장세현",
+          "weight": 2.0
+        },
+        {
+          "word": "제목",
+          "weight": 1.0
+        },
+        {
+          "word": "설명",
+          "weight": 1.0
+        },
+        {
+          "word": "해설",
+          "weight": 1.0
+        },
+        {
+          "word": "시대적",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "원본",
+          "weight": 1.0
+        },
+        {
+          "word": "인물화",
+          "weight": 1.0
+        },
+        {
+          "word": "일화",
+          "weight": 1.0
+        },
+        {
+          "word": "한국",
+          "weight": 1.0
+        },
+        {
+          "word": "풍속화",
+          "weight": 1.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 1.0
+        },
+        {
+          "word": "처음",
+          "weight": 1.0
+        },
+        {
+          "word": "정보",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "색감",
+          "weight": 1.0
+        },
+        {
+          "word": "산수화",
+          "weight": 1.0
+        },
+        {
+          "word": "감동",
+          "weight": 1.0
+        },
+        {
+          "word": "감상",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "교과서",
+          "weight": 1.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 1.0
+        },
+        {
+          "word": "동물화",
+          "weight": 1.0
+        },
+        {
+          "word": "마주",
+          "weight": 1.0
+        },
+        {
+          "word": "문인화",
+          "weight": 1.0
+        },
+        {
+          "word": "미술사",
+          "weight": 1.0
+        },
+        {
+          "word": "민화",
+          "weight": 1.0
+        },
+        {
+          "word": "방법",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "보정",
+          "weight": 1.0
+        },
+        {
+          "word": "불화",
+          "weight": 1.0
+        },
+        {
+          "word": "사군자",
+          "weight": 1.0
+        },
+        {
+          "word": "102점",
+          "weight": 1.0
+        }
+      ],
+      "description": "어린이를 위한 한국 미술 해설서이다. 풍속화, 산수화, 동물화, 민화, 불화, 문인화, 인물화, 사군자 등 초등학교 교과서에서 만날 수 있는 아름다운 우리 옛 그림 102점을 실었다. 옛 그림을 올바르게 감상하는 방법부터 제목에 담긴 뜻, 시대적인 배경, 화가와 그림에 얽힌 흥미진진한 이야기 등 그림마다 쉽고 재미있는 설명을 곁들였다.",
+      "co_loan_books": [
+        {
+          "bookname": "플랑크톤의 비밀 :지구를 지키는 작은 생명체 ",
+          "isbn13": "9788930268738",
+          "authors": "글·사진: 김종문 ;그림: 이경국"
+        },
+        {
+          "bookname": "명절 속에 숨은 우리 과학 ",
+          "isbn13": "9788952755087",
+          "authors": "오주영 글 ;허현경 그림"
+        },
+        {
+          "bookname": "바삭바삭 갈매기 ",
+          "isbn13": "9788970947273",
+          "authors": "전민걸 글·그림"
+        },
+        {
+          "bookname": "행복한 비밀 하나 :박성배 동화집 ",
+          "isbn13": "9788957983065",
+          "authors": "지은이: 박성배 ;그린이: 성영란"
+        },
+        {
+          "bookname": "프린들 주세요",
+          "isbn13": "9788971968345",
+          "authors": "앤드루 클레먼츠 지음;양혜원 그림"
+        },
+        {
+          "bookname": "소똥 밟은 호랑이",
+          "isbn13": "9788984016958",
+          "authors": "박민호"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "아씨방 일곱 동무",
+          "isbn13": "9788949100203",
+          "authors": "이영경 글.그림"
+        },
+        {
+          "bookname": "(알고 보면 더 재미있는) 곤충 이야기",
+          "isbn13": "9788992130271",
+          "authors": "김태우,고상미 그림"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        }
+      ],
+      "title": "(한눈에 반한) 우리 미술관 ",
+      "author": "장세현 글",
+      "kdc_from_api": "653",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

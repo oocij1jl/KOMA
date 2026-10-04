@@ -1,0 +1,1090 @@
+{
+  "isbn": "9788983926289",
+  "captured_at": "2026-10-04T00:12:28.821868+09:00",
+  "lookup": {
+    "isbn": "9788983926289",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983926289",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788983926302",
+      "set_add_code": "04840 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "해리 포터와 저주받은 아이 1부 ",
+      "subtitle": "",
+      "author": "J.K. 롤링, 존 티퍼니, 잭 손",
+      "volume": "1부 ",
+      "pub_place": "",
+      "publisher": "(도서출판)문학수첩",
+      "publish_year": "2016",
+      "publish_predate": "",
+      "kdc": "842",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 희곡",
+      "ddc": "822.914",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "248 p.",
+      "book_size": "142*203mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "79개 국어로 번역돼 4억 5,000만 부가 팔리며, 새로운 책이 출간될 때마다 유례를 찾기 힘들 만큼 폭발적인 반응을 일으킨 &lt;해리 포터&gt; 시리즈가 무려 9년 만에 돌아왔다. 19년 뒤, 그 여덟 번째 이야기이자 마지막 이야기로, 2016년 7월 30일 영국 런던에서 초연되어 변치 않은 해리 포터 신드롬을 증명한 연극의 대본집이다.",
+      "control_no": "CIP2016023374",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "해리",
+          "weight": 20.0
+        },
+        {
+          "word": "포터",
+          "weight": 13.0
+        },
+        {
+          "word": "알버스",
+          "weight": 10.0
+        },
+        {
+          "word": "아들",
+          "weight": 9.0
+        },
+        {
+          "word": "아빠",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 7.0
+        },
+        {
+          "word": "롤링",
+          "weight": 7.0
+        },
+        {
+          "word": "대본",
+          "weight": 6.0
+        },
+        {
+          "word": "연극",
+          "weight": 5.0
+        },
+        {
+          "word": "스코피어스",
+          "weight": 5.0
+        },
+        {
+          "word": "아버지",
+          "weight": 5.0
+        },
+        {
+          "word": "The",
+          "weight": 4.0
+        },
+        {
+          "word": "배정",
+          "weight": 4.0
+        },
+        {
+          "word": "슬리데린",
+          "weight": 4.0
+        },
+        {
+          "word": "마지막",
+          "weight": 4.0
+        },
+        {
+          "word": "영국",
+          "weight": 4.0
+        },
+        {
+          "word": "번역",
+          "weight": 4.0
+        },
+        {
+          "word": "기숙사",
+          "weight": 4.0
+        },
+        {
+          "word": "케드릭",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "19년",
+          "weight": 4.0
+        },
+        {
+          "word": "페이즈 The Fades",
+          "weight": 3.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "박아람",
+          "weight": 3.0
+        },
+        {
+          "word": "과거",
+          "weight": 3.0
+        },
+        {
+          "word": "공연",
+          "weight": 3.0
+        },
+        {
+          "word": "보고",
+          "weight": 3.0
+        },
+        {
+          "word": "워 북 War Book",
+          "weight": 3.0
+        },
+        {
+          "word": "호그와트",
+          "weight": 3.0
+        },
+        {
+          "word": "7월",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "희곡",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "정크야드 Junkyard",
+          "weight": 3.0
+        },
+        {
+          "word": "디고리",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사이",
+          "weight": 3.0
+        },
+        {
+          "word": "런던",
+          "weight": 3.0
+        },
+        {
+          "word": "저주",
+          "weight": 3.0
+        },
+        {
+          "word": "원더 Wonder",
+          "weight": 3.0
+        },
+        {
+          "word": "호프 Hope",
+          "weight": 3.0
+        },
+        {
+          "word": "보이체크 Woyzeck",
+          "weight": 3.0
+        },
+        {
+          "word": "해리 포터와 저주받은 아이",
+          "weight": 3.0
+        },
+        {
+          "word": "해리 포터와 죽음의 성물",
+          "weight": 3.0
+        },
+        {
+          "word": "에이머스",
+          "weight": 2.0
+        },
+        {
+          "word": "9년",
+          "weight": 2.0
+        },
+        {
+          "word": "J K",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        }
+      ],
+      "description": "79개 국어로 번역돼 4억 5,000만 부가 팔리며, 새로운 책이 출간될 때마다 유례를 찾기 힘들 만큼 폭발적인 반응을 일으킨 &lt;해리 포터&gt; 시리즈가 무려 9년 만에 돌아왔다. 19년 뒤, 그 여덟 번째 이야기이자 마지막 이야기로, 2016년 7월 30일 영국 런던에서 초연되어 변치 않은 해리 포터 신드롬을 증명한 연극의 대본집이다.",
+      "co_loan_books": [
+        {
+          "bookname": "해리포터 :스페셜 리허설 에디션 대본",
+          "isbn13": "9788983926296",
+          "authors": "지은이: J.K. 롤링,옮긴이: 박아람"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928061",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928054",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928030",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928047",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :아즈카반의 죄수 ",
+          "isbn13": "9788983927668",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :비밀의 방 ",
+          "isbn13": "9788983927644",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :혼혈왕자 ",
+          "isbn13": "9788983927958",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :혼혈왕자 ",
+          "isbn13": "9788983927989",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :아즈카반의 죄수 ",
+          "isbn13": "9788983927675",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        }
+      ],
+      "title": "해리 포터와 저주받은 아이 1부 ",
+      "author": "J.K. 롤링, 존 티퍼니, 잭 손",
+      "kdc_from_api": "842",
+      "ddc_from_api": "822.914",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견",
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "해리 포터와 저주받은 아이 1부 ",
+        "author": "J.K. 롤링, 존 티퍼니, 잭 손",
+        "publisher": "(도서출판)문학수첩",
+        "publish_predate": "",
+        "isbn": "9788983926289",
+        "isbn_add_code": "04840",
+        "set_isbn": "9788983926302",
+        "set_add_code": "04840 ",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1부 ",
+        "page": "248",
+        "book_size": "142*203mm",
+        "form": "",
+        "kdc": "842",
+        "ddc": "822.914",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016023374",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "해리포터 :스페셜 리허설 에디션 대본",
+        "author": "지은이: J.K. 롤링,옮긴이: 박아람",
+        "publisher": "문학수첩",
+        "publish_year": "2016",
+        "isbn": "8983926287",
+        "isbn13": "9788983926289",
+        "isbn_add_code": "04840",
+        "volume": "1",
+        "class_no": "842",
+        "class_nm": "문학 > 영미문학 > 희곡",
+        "description": "79개 국어로 번역돼 4억 5,000만 부가 팔리며, 새로운 책이 출간될 때마다 유례를 찾기 힘들 만큼 폭발적인 반응을 일으킨 &lt;해리 포터&gt; 시리즈가 무려 9년 만에 돌아왔다. 19년 뒤, 그 여덟 번째 이야기이자 마지막 이야기로, 2016년 7월 30일 영국 런던에서 초연되어 변치 않은 해리 포터 신드롬을 증명한 연극의 대본집이다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/112/431/11243168.jpg?type=m1&udate=20171223"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "해리",
+            "weight": 20.0
+          },
+          {
+            "word": "포터",
+            "weight": 13.0
+          },
+          {
+            "word": "알버스",
+            "weight": 10.0
+          },
+          {
+            "word": "아들",
+            "weight": 9.0
+          },
+          {
+            "word": "아빠",
+            "weight": 7.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 7.0
+          },
+          {
+            "word": "롤링",
+            "weight": 7.0
+          },
+          {
+            "word": "대본",
+            "weight": 6.0
+          },
+          {
+            "word": "연극",
+            "weight": 5.0
+          },
+          {
+            "word": "스코피어스",
+            "weight": 5.0
+          },
+          {
+            "word": "아버지",
+            "weight": 5.0
+          },
+          {
+            "word": "The",
+            "weight": 4.0
+          },
+          {
+            "word": "배정",
+            "weight": 4.0
+          },
+          {
+            "word": "슬리데린",
+            "weight": 4.0
+          },
+          {
+            "word": "마지막",
+            "weight": 4.0
+          },
+          {
+            "word": "영국",
+            "weight": 4.0
+          },
+          {
+            "word": "번역",
+            "weight": 4.0
+          },
+          {
+            "word": "기숙사",
+            "weight": 4.0
+          },
+          {
+            "word": "케드릭",
+            "weight": 4.0
+          },
+          {
+            "word": "친구",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "19년",
+            "weight": 4.0
+          },
+          {
+            "word": "페이즈 The Fades",
+            "weight": 3.0
+          },
+          {
+            "word": "세계",
+            "weight": 3.0
+          },
+          {
+            "word": "박아람",
+            "weight": 3.0
+          },
+          {
+            "word": "과거",
+            "weight": 3.0
+          },
+          {
+            "word": "공연",
+            "weight": 3.0
+          },
+          {
+            "word": "보고",
+            "weight": 3.0
+          },
+          {
+            "word": "워 북 War Book",
+            "weight": 3.0
+          },
+          {
+            "word": "호그와트",
+            "weight": 3.0
+          },
+          {
+            "word": "7월",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "희곡",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "정크야드 Junkyard",
+            "weight": 3.0
+          },
+          {
+            "word": "디고리",
+            "weight": 3.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "사이",
+            "weight": 3.0
+          },
+          {
+            "word": "런던",
+            "weight": 3.0
+          },
+          {
+            "word": "저주",
+            "weight": 3.0
+          },
+          {
+            "word": "원더 Wonder",
+            "weight": 3.0
+          },
+          {
+            "word": "호프 Hope",
+            "weight": 3.0
+          },
+          {
+            "word": "보이체크 Woyzeck",
+            "weight": 3.0
+          },
+          {
+            "word": "해리 포터와 저주받은 아이",
+            "weight": 3.0
+          },
+          {
+            "word": "해리 포터와 죽음의 성물",
+            "weight": 3.0
+          },
+          {
+            "word": "에이머스",
+            "weight": 2.0
+          },
+          {
+            "word": "9년",
+            "weight": 2.0
+          },
+          {
+            "word": "J K",
+            "weight": 2.0
+          },
+          {
+            "word": "선물",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "해리포터 :스페셜 리허설 에디션 대본",
+            "isbn13": "9788983926296",
+            "authors": "지은이: J.K. 롤링,옮긴이: 박아람"
+          },
+          {
+            "bookname": "해리포터 :죽음의 성물 ",
+            "isbn13": "9788983928061",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :죽음의 성물 ",
+            "isbn13": "9788983928054",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :죽음의 성물 ",
+            "isbn13": "9788983928030",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :죽음의 성물 ",
+            "isbn13": "9788983928047",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :아즈카반의 죄수 ",
+            "isbn13": "9788983927668",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :비밀의 방 ",
+            "isbn13": "9788983927644",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :혼혈왕자 ",
+            "isbn13": "9788983927958",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :혼혈왕자 ",
+            "isbn13": "9788983927989",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          },
+          {
+            "bookname": "해리포터 :아즈카반의 죄수 ",
+            "isbn13": "9788983927675",
+            "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "해리 포터와 저주받은 아이 1부 1부"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001296841",
+        "title": "해리 포터와 저주받은 아이 1부(스페셜 리허설 에디션 대본)",
+        "subtitle": "",
+        "page": "248 p.",
+        "book_size": "141*203mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788983926289",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983926289",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788983926302",
+      "set_add_code": "04840 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "해리 포터와 저주받은 아이 1부 ",
+      "subtitle": "",
+      "author": "J.K. 롤링, 존 티퍼니, 잭 손",
+      "volume": "1부 ",
+      "pub_place": "",
+      "publisher": "(도서출판)문학수첩",
+      "publish_year": "2016",
+      "publish_predate": "",
+      "kdc": "842",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 희곡",
+      "ddc": "822.914",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "248 p.",
+      "book_size": "142*203mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "79개 국어로 번역돼 4억 5,000만 부가 팔리며, 새로운 책이 출간될 때마다 유례를 찾기 힘들 만큼 폭발적인 반응을 일으킨 &lt;해리 포터&gt; 시리즈가 무려 9년 만에 돌아왔다. 19년 뒤, 그 여덟 번째 이야기이자 마지막 이야기로, 2016년 7월 30일 영국 런던에서 초연되어 변치 않은 해리 포터 신드롬을 증명한 연극의 대본집이다.",
+      "control_no": "CIP2016023374",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779917_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "해리",
+          "weight": 20.0
+        },
+        {
+          "word": "포터",
+          "weight": 13.0
+        },
+        {
+          "word": "알버스",
+          "weight": 10.0
+        },
+        {
+          "word": "아들",
+          "weight": 9.0
+        },
+        {
+          "word": "아빠",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 7.0
+        },
+        {
+          "word": "롤링",
+          "weight": 7.0
+        },
+        {
+          "word": "대본",
+          "weight": 6.0
+        },
+        {
+          "word": "연극",
+          "weight": 5.0
+        },
+        {
+          "word": "스코피어스",
+          "weight": 5.0
+        },
+        {
+          "word": "아버지",
+          "weight": 5.0
+        },
+        {
+          "word": "The",
+          "weight": 4.0
+        },
+        {
+          "word": "배정",
+          "weight": 4.0
+        },
+        {
+          "word": "슬리데린",
+          "weight": 4.0
+        },
+        {
+          "word": "마지막",
+          "weight": 4.0
+        },
+        {
+          "word": "영국",
+          "weight": 4.0
+        },
+        {
+          "word": "번역",
+          "weight": 4.0
+        },
+        {
+          "word": "기숙사",
+          "weight": 4.0
+        },
+        {
+          "word": "케드릭",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "19년",
+          "weight": 4.0
+        },
+        {
+          "word": "페이즈 The Fades",
+          "weight": 3.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "박아람",
+          "weight": 3.0
+        },
+        {
+          "word": "과거",
+          "weight": 3.0
+        },
+        {
+          "word": "공연",
+          "weight": 3.0
+        },
+        {
+          "word": "보고",
+          "weight": 3.0
+        },
+        {
+          "word": "워 북 War Book",
+          "weight": 3.0
+        },
+        {
+          "word": "호그와트",
+          "weight": 3.0
+        },
+        {
+          "word": "7월",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "희곡",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "정크야드 Junkyard",
+          "weight": 3.0
+        },
+        {
+          "word": "디고리",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사이",
+          "weight": 3.0
+        },
+        {
+          "word": "런던",
+          "weight": 3.0
+        },
+        {
+          "word": "저주",
+          "weight": 3.0
+        },
+        {
+          "word": "원더 Wonder",
+          "weight": 3.0
+        },
+        {
+          "word": "호프 Hope",
+          "weight": 3.0
+        },
+        {
+          "word": "보이체크 Woyzeck",
+          "weight": 3.0
+        },
+        {
+          "word": "해리 포터와 저주받은 아이",
+          "weight": 3.0
+        },
+        {
+          "word": "해리 포터와 죽음의 성물",
+          "weight": 3.0
+        },
+        {
+          "word": "에이머스",
+          "weight": 2.0
+        },
+        {
+          "word": "9년",
+          "weight": 2.0
+        },
+        {
+          "word": "J K",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        }
+      ],
+      "description": "79개 국어로 번역돼 4억 5,000만 부가 팔리며, 새로운 책이 출간될 때마다 유례를 찾기 힘들 만큼 폭발적인 반응을 일으킨 &lt;해리 포터&gt; 시리즈가 무려 9년 만에 돌아왔다. 19년 뒤, 그 여덟 번째 이야기이자 마지막 이야기로, 2016년 7월 30일 영국 런던에서 초연되어 변치 않은 해리 포터 신드롬을 증명한 연극의 대본집이다.",
+      "co_loan_books": [
+        {
+          "bookname": "해리포터 :스페셜 리허설 에디션 대본",
+          "isbn13": "9788983926296",
+          "authors": "지은이: J.K. 롤링,옮긴이: 박아람"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928061",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928054",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928030",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :죽음의 성물 ",
+          "isbn13": "9788983928047",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :아즈카반의 죄수 ",
+          "isbn13": "9788983927668",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :비밀의 방 ",
+          "isbn13": "9788983927644",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :혼혈왕자 ",
+          "isbn13": "9788983927958",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :혼혈왕자 ",
+          "isbn13": "9788983927989",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        },
+        {
+          "bookname": "해리포터 :아즈카반의 죄수 ",
+          "isbn13": "9788983927675",
+          "authors": "J.K. 롤링 지음 ;강동혁 옮김"
+        }
+      ],
+      "title": "해리 포터와 저주받은 아이 1부 ",
+      "author": "J.K. 롤링, 존 티퍼니, 잭 손",
+      "kdc_from_api": "842",
+      "ddc_from_api": "822.914",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견",
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

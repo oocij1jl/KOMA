@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791191056556",
+  "captured_at": "2026-10-02T00:15:15.425627+09:00",
+  "lookup": {
+    "isbn": "9791191056556",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191056556",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15800",
+      "title": "미드나잇 라이브러리",
+      "subtitle": "",
+      "author": "매트 헤이그 지음 ;노진선 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "인플루엔셜",
+      "publish_year": "2021",
+      "publish_predate": "20210428",
+      "kdc": "843.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "408 p.",
+      "book_size": "138*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "20대에 심한 우울증을 겪으며 정신적 붕괴를 경험했던 작가 매트 헤이그는 ‘살아야 할 이유’에 대해서 끊임없이 고민해왔고, 신작 장편소설 《미드나잇 라이브러리》에서 자신만의 해답을 구한다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/02/9791191056556.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "미드나잇 라이브러리",
+          "weight": 9.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 9.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 4.0
+        },
+        {
+          "word": "수도",
+          "weight": 4.0
+        },
+        {
+          "word": "그림자 숲의 비밀",
+          "weight": 3.0
+        },
+        {
+          "word": "휴먼 어느 외계인의 기록",
+          "weight": 3.0
+        },
+        {
+          "word": "도서관",
+          "weight": 3.0
+        },
+        {
+          "word": "시간을 멈추는 법",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "죽기",
+          "weight": 3.0
+        },
+        {
+          "word": "살아야 할 이유",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "영국의 마지막 가족",
+          "weight": 3.0
+        },
+        {
+          "word": "크리스마스로 불리는 소년",
+          "weight": 3.0
+        },
+        {
+          "word": "선데이타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "어바웃 타임",
+          "weight": 3.0
+        },
+        {
+          "word": "동화작가",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "부인",
+          "weight": 2.0
+        },
+        {
+          "word": "사서",
+          "weight": 2.0
+        },
+        {
+          "word": "살아보",
+          "weight": 2.0
+        },
+        {
+          "word": "매트 헤이그",
+          "weight": 2.0
+        },
+        {
+          "word": "노진선",
+          "weight": 2.0
+        },
+        {
+          "word": "완벽",
+          "weight": 2.0
+        },
+        {
+          "word": "인플루엔셜",
+          "weight": 2.0
+        },
+        {
+          "word": "시드",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "과거",
+          "weight": 2.0
+        },
+        {
+          "word": "우울증",
+          "weight": 2.0
+        },
+        {
+          "word": "22분",
+          "weight": 2.0
+        },
+        {
+          "word": "안내",
+          "weight": 2.0
+        },
+        {
+          "word": "2020년",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "미스터리한",
+          "weight": 2.0
+        },
+        {
+          "word": "입구",
+          "weight": 2.0
+        },
+        {
+          "word": "자정",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "위대",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "영화화",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "결심",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "강렬",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        }
+      ],
+      "description": "20대에 심한 우울증을 겪으며 정신적 붕괴를 경험했던 작가 매트 헤이그는 ‘살아야 할 이유’에 대해서 끊임없이 고민해왔고, 신작 장편소설 《미드나잇 라이브러리》에서 자신만의 해답을 구한다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "isbn13": "9791165343729",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        }
+      ],
+      "title": "미드나잇 라이브러리",
+      "author": "매트 헤이그 지음 ;노진선 옮김",
+      "kdc_from_api": "843.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "미드나잇 라이브러리",
+        "author": "매트 헤이그 지음 ;노진선 옮김",
+        "publisher": "인플루엔셜",
+        "publish_predate": "20210428",
+        "isbn": "9791191056556",
+        "isbn_add_code": "03840",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "407 p.",
+        "book_size": "138*205",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/02/9791191056556.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "미드나잇 라이브러리 ",
+        "author": "매트 헤이그 지음 ;노진선 옮김",
+        "publisher": "인플루엔셜",
+        "publish_year": "2021",
+        "isbn": "1191056554",
+        "isbn13": "9791191056556",
+        "isbn_add_code": "03840",
+        "volume": "",
+        "class_no": "843.6",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "20대에 심한 우울증을 겪으며 정신적 붕괴를 경험했던 작가 매트 헤이그는 ‘살아야 할 이유’에 대해서 끊임없이 고민해왔고, 신작 장편소설 《미드나잇 라이브러리》에서 자신만의 해답을 구한다.",
+        "cover_url": "https://image.aladin.co.kr/product/26987/37/cover/k962730610_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "미드나잇 라이브러리",
+            "weight": 9.0
+          },
+          {
+            "word": "뉴욕타임스",
+            "weight": 9.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 6.0
+          },
+          {
+            "word": "영국",
+            "weight": 6.0
+          },
+          {
+            "word": "독자",
+            "weight": 5.0
+          },
+          {
+            "word": "아마존",
+            "weight": 4.0
+          },
+          {
+            "word": "수도",
+            "weight": 4.0
+          },
+          {
+            "word": "그림자 숲의 비밀",
+            "weight": 3.0
+          },
+          {
+            "word": "휴먼 어느 외계인의 기록",
+            "weight": 3.0
+          },
+          {
+            "word": "도서관",
+            "weight": 3.0
+          },
+          {
+            "word": "시간을 멈추는 법",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "죽기",
+            "weight": 3.0
+          },
+          {
+            "word": "살아야 할 이유",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "영국의 마지막 가족",
+            "weight": 3.0
+          },
+          {
+            "word": "크리스마스로 불리는 소년",
+            "weight": 3.0
+          },
+          {
+            "word": "선데이타임스",
+            "weight": 3.0
+          },
+          {
+            "word": "어바웃 타임",
+            "weight": 3.0
+          },
+          {
+            "word": "동화작가",
+            "weight": 2.0
+          },
+          {
+            "word": "모험",
+            "weight": 2.0
+          },
+          {
+            "word": "부인",
+            "weight": 2.0
+          },
+          {
+            "word": "사서",
+            "weight": 2.0
+          },
+          {
+            "word": "살아보",
+            "weight": 2.0
+          },
+          {
+            "word": "매트 헤이그",
+            "weight": 2.0
+          },
+          {
+            "word": "노진선",
+            "weight": 2.0
+          },
+          {
+            "word": "완벽",
+            "weight": 2.0
+          },
+          {
+            "word": "인플루엔셜",
+            "weight": 2.0
+          },
+          {
+            "word": "시드",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          },
+          {
+            "word": "과거",
+            "weight": 2.0
+          },
+          {
+            "word": "우울증",
+            "weight": 2.0
+          },
+          {
+            "word": "22분",
+            "weight": 2.0
+          },
+          {
+            "word": "안내",
+            "weight": 2.0
+          },
+          {
+            "word": "2020년",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "영미소설",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "미스터리한",
+            "weight": 2.0
+          },
+          {
+            "word": "입구",
+            "weight": 2.0
+          },
+          {
+            "word": "자정",
+            "weight": 2.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "위대",
+            "weight": 2.0
+          },
+          {
+            "word": "공간",
+            "weight": 2.0
+          },
+          {
+            "word": "영화화",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "결심",
+            "weight": 2.0
+          },
+          {
+            "word": "건강",
+            "weight": 2.0
+          },
+          {
+            "word": "강렬",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+            "isbn13": "9791191824001",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+            "isbn13": "9791191891287",
+            "authors": "글: 윤정은"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+            "isbn13": "9791165343729",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "미드나잇 라이브러리"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001947560",
+        "title": "미드나잇 라이브러리",
+        "subtitle": "",
+        "page": "408 p.",
+        "book_size": "139*206mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191056556",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191056556",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15800",
+      "title": "미드나잇 라이브러리",
+      "subtitle": "",
+      "author": "매트 헤이그 지음 ;노진선 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "인플루엔셜",
+      "publish_year": "2021",
+      "publish_predate": "20210428",
+      "kdc": "843.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "408 p.",
+      "book_size": "138*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "20대에 심한 우울증을 겪으며 정신적 붕괴를 경험했던 작가 매트 헤이그는 ‘살아야 할 이유’에 대해서 끊임없이 고민해왔고, 신작 장편소설 《미드나잇 라이브러리》에서 자신만의 해답을 구한다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/02/9791191056556.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "미드나잇 라이브러리",
+          "weight": 9.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 9.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 6.0
+        },
+        {
+          "word": "영국",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 4.0
+        },
+        {
+          "word": "수도",
+          "weight": 4.0
+        },
+        {
+          "word": "그림자 숲의 비밀",
+          "weight": 3.0
+        },
+        {
+          "word": "휴먼 어느 외계인의 기록",
+          "weight": 3.0
+        },
+        {
+          "word": "도서관",
+          "weight": 3.0
+        },
+        {
+          "word": "시간을 멈추는 법",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "죽기",
+          "weight": 3.0
+        },
+        {
+          "word": "살아야 할 이유",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "영국의 마지막 가족",
+          "weight": 3.0
+        },
+        {
+          "word": "크리스마스로 불리는 소년",
+          "weight": 3.0
+        },
+        {
+          "word": "선데이타임스",
+          "weight": 3.0
+        },
+        {
+          "word": "어바웃 타임",
+          "weight": 3.0
+        },
+        {
+          "word": "동화작가",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "부인",
+          "weight": 2.0
+        },
+        {
+          "word": "사서",
+          "weight": 2.0
+        },
+        {
+          "word": "살아보",
+          "weight": 2.0
+        },
+        {
+          "word": "매트 헤이그",
+          "weight": 2.0
+        },
+        {
+          "word": "노진선",
+          "weight": 2.0
+        },
+        {
+          "word": "완벽",
+          "weight": 2.0
+        },
+        {
+          "word": "인플루엔셜",
+          "weight": 2.0
+        },
+        {
+          "word": "시드",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "과거",
+          "weight": 2.0
+        },
+        {
+          "word": "우울증",
+          "weight": 2.0
+        },
+        {
+          "word": "22분",
+          "weight": 2.0
+        },
+        {
+          "word": "안내",
+          "weight": 2.0
+        },
+        {
+          "word": "2020년",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "미스터리한",
+          "weight": 2.0
+        },
+        {
+          "word": "입구",
+          "weight": 2.0
+        },
+        {
+          "word": "자정",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "위대",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "영화화",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "결심",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "강렬",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        }
+      ],
+      "description": "20대에 심한 우울증을 겪으며 정신적 붕괴를 경험했던 작가 매트 헤이그는 ‘살아야 할 이유’에 대해서 끊임없이 고민해왔고, 신작 장편소설 《미드나잇 라이브러리》에서 자신만의 해답을 구한다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "isbn13": "9791165343729",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        }
+      ],
+      "title": "미드나잇 라이브러리",
+      "author": "매트 헤이그 지음 ;노진선 옮김",
+      "kdc_from_api": "843.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

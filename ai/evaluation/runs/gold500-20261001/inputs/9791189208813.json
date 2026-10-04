@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791189208813",
+  "captured_at": "2026-10-02T00:19:15.294928+09:00",
+  "lookup": {
+    "isbn": "9791189208813",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189208813",
+      "isbn_add_code": "44810",
+      "set_isbn": "9791195189304",
+      "set_add_code": "44080 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "일인용 캡슐",
+      "subtitle": "기후 위기 sf 앤솔러지",
+      "author": "지은이: 김소연,윤해연,윤혜숙,정명섭",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "라임",
+      "publish_year": "2021",
+      "publish_predate": "20210712",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "라임 청소년 문학",
+      "series_no": "51",
+      "page": "184 p.",
+      "book_size": "153*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/30/9791189208813.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "일인용 캡슐",
+          "weight": 9.0
+        },
+        {
+          "word": "기후",
+          "weight": 8.0
+        },
+        {
+          "word": "지구",
+          "weight": 7.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "코찌",
+          "weight": 7.0
+        },
+        {
+          "word": "가이아의 선택",
+          "weight": 6.0
+        },
+        {
+          "word": "빛을 찾아서",
+          "weight": 6.0
+        },
+        {
+          "word": "SF",
+          "weight": 4.0
+        },
+        {
+          "word": "반반 무 많이",
+          "weight": 3.0
+        },
+        {
+          "word": "승아의 걱정",
+          "weight": 3.0
+        },
+        {
+          "word": "라임",
+          "weight": 3.0
+        },
+        {
+          "word": "바이러스",
+          "weight": 3.0
+        },
+        {
+          "word": "격리된 아이",
+          "weight": 3.0
+        },
+        {
+          "word": "김소연",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        },
+        {
+          "word": "정명섭",
+          "weight": 3.0
+        },
+        {
+          "word": "꽃신",
+          "weight": 3.0
+        },
+        {
+          "word": "명혜",
+          "weight": 3.0
+        },
+        {
+          "word": "전사가 된 소녀들",
+          "weight": 3.0
+        },
+        {
+          "word": "빙하기",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "원정대",
+          "weight": 2.0
+        },
+        {
+          "word": "위기",
+          "weight": 2.0
+        },
+        {
+          "word": "도래",
+          "weight": 2.0
+        },
+        {
+          "word": "팬데믹",
+          "weight": 2.0
+        },
+        {
+          "word": "리더",
+          "weight": 2.0
+        },
+        {
+          "word": "마지막",
+          "weight": 2.0
+        },
+        {
+          "word": "절반",
+          "weight": 2.0
+        },
+        {
+          "word": "멸종",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "인구",
+          "weight": 2.0
+        },
+        {
+          "word": "난민",
+          "weight": 2.0
+        },
+        {
+          "word": "희망",
+          "weight": 2.0
+        },
+        {
+          "word": "결단",
+          "weight": 2.0
+        },
+        {
+          "word": "인공",
+          "weight": 2.0
+        },
+        {
+          "word": "감지기",
+          "weight": 2.0
+        },
+        {
+          "word": "화성",
+          "weight": 2.0
+        },
+        {
+          "word": "문제",
+          "weight": 2.0
+        },
+        {
+          "word": "중견",
+          "weight": 2.0
+        },
+        {
+          "word": "2014년",
+          "weight": 2.0
+        },
+        {
+          "word": "목숨",
+          "weight": 2.0
+        },
+        {
+          "word": "공모전",
+          "weight": 2.0
+        },
+        {
+          "word": "헬조선",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "지능",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "장착",
+          "weight": 2.0
+        },
+        {
+          "word": "시스템",
+          "weight": 2.0
+        },
+        {
+          "word": "관리",
+          "weight": 2.0
+        },
+        {
+          "word": "길이",
+          "weight": 1.0
+        }
+      ],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "폴리네시아에서 온 아이 ",
+          "isbn13": "9791189208301",
+          "authors": "코슈카 지음 ;곽노경 옮김"
+        },
+        {
+          "bookname": "남극의 아이 13호 ",
+          "isbn13": "9791189208516",
+          "authors": "알바로 야리투 지음 ;김정하 옮김"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        }
+      ],
+      "title": "일인용 캡슐",
+      "author": "지은이: 김소연,윤해연,윤혜숙,정명섭",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "일인용 캡슐",
+        "author": "지은이: 김소연,윤해연,윤혜숙,정명섭",
+        "publisher": "라임",
+        "publish_predate": "20210712",
+        "isbn": "9791189208813",
+        "isbn_add_code": "44810",
+        "set_isbn": "9791195189304",
+        "set_add_code": "44080 ",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "라임 청소년 문학",
+        "series_no": "51",
+        "volume": "",
+        "page": "182 p.",
+        "book_size": "153*215",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/30/9791189208813.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "일인용 캡슐 :기후 위기 SF 앤솔러지 ",
+        "author": "지은이: 김소연,정명섭",
+        "publisher": "라임",
+        "publish_year": "2021",
+        "isbn": "1189208814",
+        "isbn13": "9791189208813",
+        "isbn_add_code": "44810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "",
+        "cover_url": "https://image.aladin.co.kr/product/27518/31/cover/k222733290_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "일인용 캡슐",
+            "weight": 9.0
+          },
+          {
+            "word": "기후",
+            "weight": 8.0
+          },
+          {
+            "word": "지구",
+            "weight": 7.0
+          },
+          {
+            "word": "인류",
+            "weight": 7.0
+          },
+          {
+            "word": "코찌",
+            "weight": 7.0
+          },
+          {
+            "word": "가이아의 선택",
+            "weight": 6.0
+          },
+          {
+            "word": "빛을 찾아서",
+            "weight": 6.0
+          },
+          {
+            "word": "SF",
+            "weight": 4.0
+          },
+          {
+            "word": "반반 무 많이",
+            "weight": 3.0
+          },
+          {
+            "word": "승아의 걱정",
+            "weight": 3.0
+          },
+          {
+            "word": "라임",
+            "weight": 3.0
+          },
+          {
+            "word": "바이러스",
+            "weight": 3.0
+          },
+          {
+            "word": "격리된 아이",
+            "weight": 3.0
+          },
+          {
+            "word": "김소연",
+            "weight": 3.0
+          },
+          {
+            "word": "미래",
+            "weight": 3.0
+          },
+          {
+            "word": "정명섭",
+            "weight": 3.0
+          },
+          {
+            "word": "꽃신",
+            "weight": 3.0
+          },
+          {
+            "word": "명혜",
+            "weight": 3.0
+          },
+          {
+            "word": "전사가 된 소녀들",
+            "weight": 3.0
+          },
+          {
+            "word": "빙하기",
+            "weight": 2.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 2.0
+          },
+          {
+            "word": "원정대",
+            "weight": 2.0
+          },
+          {
+            "word": "위기",
+            "weight": 2.0
+          },
+          {
+            "word": "도래",
+            "weight": 2.0
+          },
+          {
+            "word": "팬데믹",
+            "weight": 2.0
+          },
+          {
+            "word": "리더",
+            "weight": 2.0
+          },
+          {
+            "word": "마지막",
+            "weight": 2.0
+          },
+          {
+            "word": "절반",
+            "weight": 2.0
+          },
+          {
+            "word": "멸종",
+            "weight": 2.0
+          },
+          {
+            "word": "청소년 소설",
+            "weight": 2.0
+          },
+          {
+            "word": "인구",
+            "weight": 2.0
+          },
+          {
+            "word": "난민",
+            "weight": 2.0
+          },
+          {
+            "word": "희망",
+            "weight": 2.0
+          },
+          {
+            "word": "결단",
+            "weight": 2.0
+          },
+          {
+            "word": "인공",
+            "weight": 2.0
+          },
+          {
+            "word": "감지기",
+            "weight": 2.0
+          },
+          {
+            "word": "화성",
+            "weight": 2.0
+          },
+          {
+            "word": "문제",
+            "weight": 2.0
+          },
+          {
+            "word": "중견",
+            "weight": 2.0
+          },
+          {
+            "word": "2014년",
+            "weight": 2.0
+          },
+          {
+            "word": "목숨",
+            "weight": 2.0
+          },
+          {
+            "word": "공모전",
+            "weight": 2.0
+          },
+          {
+            "word": "헬조선",
+            "weight": 2.0
+          },
+          {
+            "word": "기술",
+            "weight": 2.0
+          },
+          {
+            "word": "지능",
+            "weight": 2.0
+          },
+          {
+            "word": "그린",
+            "weight": 2.0
+          },
+          {
+            "word": "장착",
+            "weight": 2.0
+          },
+          {
+            "word": "시스템",
+            "weight": 2.0
+          },
+          {
+            "word": "관리",
+            "weight": 2.0
+          },
+          {
+            "word": "길이",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "체리새우 :황영미 장편소설 ",
+            "isbn13": "9788954654753",
+            "authors": "지은이: 황영미"
+          },
+          {
+            "bookname": "페인트 :이희영 장편소설 ",
+            "isbn13": "9788936456894",
+            "authors": "지은이: 이희영"
+          },
+          {
+            "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+            "isbn13": "9791168121065",
+            "authors": "글: 김혜정"
+          },
+          {
+            "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+            "isbn13": "9788954670302",
+            "authors": "허진희 (지은이)"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          },
+          {
+            "bookname": "비스킷 ",
+            "isbn13": "9791168127630",
+            "authors": "글: 김선미"
+          },
+          {
+            "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+            "isbn13": "9791190337755",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "폴리네시아에서 온 아이 ",
+            "isbn13": "9791189208301",
+            "authors": "코슈카 지음 ;곽노경 옮김"
+          },
+          {
+            "bookname": "남극의 아이 13호 ",
+            "isbn13": "9791189208516",
+            "authors": "알바로 야리투 지음 ;김정하 옮김"
+          },
+          {
+            "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+            "isbn13": "9791167550972",
+            "authors": "지은이: 이꽃님"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "일인용 캡슐 - 기후 위기 sf 앤솔러지"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001924244",
+        "title": "일인용 캡슐",
+        "subtitle": "기후 위기 SF 앤솔러지",
+        "page": "184 p.",
+        "book_size": "154*216mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791189208813",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189208813",
+      "isbn_add_code": "44810",
+      "set_isbn": "9791195189304",
+      "set_add_code": "44080 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "일인용 캡슐",
+      "subtitle": "기후 위기 sf 앤솔러지",
+      "author": "지은이: 김소연,윤해연,윤혜숙,정명섭",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "라임",
+      "publish_year": "2021",
+      "publish_predate": "20210712",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "라임 청소년 문학",
+      "series_no": "51",
+      "page": "184 p.",
+      "book_size": "153*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/30/9791189208813.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "일인용 캡슐",
+          "weight": 9.0
+        },
+        {
+          "word": "기후",
+          "weight": 8.0
+        },
+        {
+          "word": "지구",
+          "weight": 7.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "코찌",
+          "weight": 7.0
+        },
+        {
+          "word": "가이아의 선택",
+          "weight": 6.0
+        },
+        {
+          "word": "빛을 찾아서",
+          "weight": 6.0
+        },
+        {
+          "word": "SF",
+          "weight": 4.0
+        },
+        {
+          "word": "반반 무 많이",
+          "weight": 3.0
+        },
+        {
+          "word": "승아의 걱정",
+          "weight": 3.0
+        },
+        {
+          "word": "라임",
+          "weight": 3.0
+        },
+        {
+          "word": "바이러스",
+          "weight": 3.0
+        },
+        {
+          "word": "격리된 아이",
+          "weight": 3.0
+        },
+        {
+          "word": "김소연",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        },
+        {
+          "word": "정명섭",
+          "weight": 3.0
+        },
+        {
+          "word": "꽃신",
+          "weight": 3.0
+        },
+        {
+          "word": "명혜",
+          "weight": 3.0
+        },
+        {
+          "word": "전사가 된 소녀들",
+          "weight": 3.0
+        },
+        {
+          "word": "빙하기",
+          "weight": 2.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "원정대",
+          "weight": 2.0
+        },
+        {
+          "word": "위기",
+          "weight": 2.0
+        },
+        {
+          "word": "도래",
+          "weight": 2.0
+        },
+        {
+          "word": "팬데믹",
+          "weight": 2.0
+        },
+        {
+          "word": "리더",
+          "weight": 2.0
+        },
+        {
+          "word": "마지막",
+          "weight": 2.0
+        },
+        {
+          "word": "절반",
+          "weight": 2.0
+        },
+        {
+          "word": "멸종",
+          "weight": 2.0
+        },
+        {
+          "word": "청소년 소설",
+          "weight": 2.0
+        },
+        {
+          "word": "인구",
+          "weight": 2.0
+        },
+        {
+          "word": "난민",
+          "weight": 2.0
+        },
+        {
+          "word": "희망",
+          "weight": 2.0
+        },
+        {
+          "word": "결단",
+          "weight": 2.0
+        },
+        {
+          "word": "인공",
+          "weight": 2.0
+        },
+        {
+          "word": "감지기",
+          "weight": 2.0
+        },
+        {
+          "word": "화성",
+          "weight": 2.0
+        },
+        {
+          "word": "문제",
+          "weight": 2.0
+        },
+        {
+          "word": "중견",
+          "weight": 2.0
+        },
+        {
+          "word": "2014년",
+          "weight": 2.0
+        },
+        {
+          "word": "목숨",
+          "weight": 2.0
+        },
+        {
+          "word": "공모전",
+          "weight": 2.0
+        },
+        {
+          "word": "헬조선",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "지능",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "장착",
+          "weight": 2.0
+        },
+        {
+          "word": "시스템",
+          "weight": 2.0
+        },
+        {
+          "word": "관리",
+          "weight": 2.0
+        },
+        {
+          "word": "길이",
+          "weight": 1.0
+        }
+      ],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "오백 년째 열다섯 :김혜정 장편소설 ",
+          "isbn13": "9791168121065",
+          "authors": "글: 김혜정"
+        },
+        {
+          "bookname": "독고솜에게 반하면 - 제10회 문학동네청소년문학상 대상 수상작",
+          "isbn13": "9788954670302",
+          "authors": "허진희 (지은이)"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "폴리네시아에서 온 아이 ",
+          "isbn13": "9791189208301",
+          "authors": "코슈카 지음 ;곽노경 옮김"
+        },
+        {
+          "bookname": "남극의 아이 13호 ",
+          "isbn13": "9791189208516",
+          "authors": "알바로 야리투 지음 ;김정하 옮김"
+        },
+        {
+          "bookname": "당연하게도 나는 너를 :이꽃님 장편소설 ",
+          "isbn13": "9791167550972",
+          "authors": "지은이: 이꽃님"
+        }
+      ],
+      "title": "일인용 캡슐",
+      "author": "지은이: 김소연,윤해연,윤혜숙,정명섭",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

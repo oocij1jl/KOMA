@@ -1,0 +1,899 @@
+{
+  "isbn": "9788970876115",
+  "captured_at": "2026-10-04T00:18:44.904321+09:00",
+  "lookup": {
+    "isbn": "9788970876115",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788970876115",
+      "isbn_add_code": "77870",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(아빠와 함께 한)베니스 여행",
+      "subtitle": "",
+      "author": "크리스티나 비외르크 글;윤희기 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "미래사",
+      "publish_year": "2003",
+      "publish_predate": "",
+      "kdc": "859.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 기타 게르만 문학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "92 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "",
+      "description": "를 쓴 크리스티나 비외르크의 작품. 동화의 도시이자 역사의 도시인 베니스의 매력을 어린이의 눈높이에서 유감없이 보내준다. 섬세하게 그려진 일러스트와 각종 볼거리를 아우른 방대한 책 내용은 실제로 베니스에 여행갈 때 챙겨가면 쓸모가 있을만큼 탄탄하다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/41/99/cover/8970876111_1.gif",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "베니스",
+          "weight": 11.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "폐허의 도시",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "사자",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "여행기",
+          "weight": 2.0
+        },
+        {
+          "word": "윤희기",
+          "weight": 2.0
+        },
+        {
+          "word": "리네아",
+          "weight": 2.0
+        },
+        {
+          "word": "동화 명작 고전",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "도시",
+          "weight": 2.0
+        },
+        {
+          "word": "궁전",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "일기",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스티나 비외르크",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "미래사",
+          "weight": 2.0
+        },
+        {
+          "word": "미치너",
+          "weight": 1.0
+        },
+        {
+          "word": "바이어트",
+          "weight": 1.0
+        },
+        {
+          "word": "무어인과",
+          "weight": 1.0
+        },
+        {
+          "word": "바다",
+          "weight": 1.0
+        },
+        {
+          "word": "무라노",
+          "weight": 1.0
+        },
+        {
+          "word": "흉측",
+          "weight": 1.0
+        },
+        {
+          "word": "매력",
+          "weight": 1.0
+        },
+        {
+          "word": "모자이크",
+          "weight": 1.0
+        },
+        {
+          "word": "묘사햇다",
+          "weight": 1.0
+        },
+        {
+          "word": "노릇",
+          "weight": 1.0
+        },
+        {
+          "word": "가치",
+          "weight": 1.0
+        },
+        {
+          "word": "것들",
+          "weight": 1.0
+        },
+        {
+          "word": "결심",
+          "weight": 1.0
+        },
+        {
+          "word": "고기",
+          "weight": 1.0
+        },
+        {
+          "word": "공예품",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "기둥머리",
+          "weight": 1.0
+        },
+        {
+          "word": "기적",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "각종",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 1.0
+        },
+        {
+          "word": "늪지",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        }
+      ],
+      "description": "를 쓴 크리스티나 비외르크의 작품. 동화의 도시이자 역사의 도시인 베니스의 매력을 어린이의 눈높이에서 유감없이 보내준다. 섬세하게 그려진 일러스트와 각종 볼거리를 아우른 방대한 책 내용은 실제로 베니스에 여행갈 때 챙겨가면 쓸모가 있을만큼 탄탄하다.",
+      "co_loan_books": [],
+      "title": "(아빠와 함께 한)베니스 여행",
+      "author": "크리스티나 비외르크 글;윤희기 옮김",
+      "kdc_from_api": "859.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(아빠와 함께 한)베니스 여행",
+        "author": "크리스티나 비외르크 글;윤희기 옮김",
+        "publisher": "미래사",
+        "publish_year": "2003",
+        "isbn": "8970876111",
+        "isbn13": "9788970876115",
+        "isbn_add_code": "77870",
+        "volume": "",
+        "class_no": "859.7",
+        "class_nm": "문학 > 독일문학 > 기타 게르만 문학",
+        "description": "를 쓴 크리스티나 비외르크의 작품. 동화의 도시이자 역사의 도시인 베니스의 매력을 어린이의 눈높이에서 유감없이 보내준다. 섬세하게 그려진 일러스트와 각종 볼거리를 아우른 방대한 책 내용은 실제로 베니스에 여행갈 때 챙겨가면 쓸모가 있을만큼 탄탄하다.",
+        "cover_url": "http://image.aladin.co.kr/product/41/99/cover/8970876111_1.gif"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "베니스",
+            "weight": 11.0
+          },
+          {
+            "word": "의심스러운 싸움",
+            "weight": 3.0
+          },
+          {
+            "word": "동행",
+            "weight": 3.0
+          },
+          {
+            "word": "정신분석학의 근본 개념",
+            "weight": 3.0
+          },
+          {
+            "word": "마티스 스토리",
+            "weight": 3.0
+          },
+          {
+            "word": "폐허의 도시",
+            "weight": 3.0
+          },
+          {
+            "word": "소유",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "도리언 그레이의 초상",
+            "weight": 3.0
+          },
+          {
+            "word": "천사와 벌레",
+            "weight": 3.0
+          },
+          {
+            "word": "사자",
+            "weight": 3.0
+          },
+          {
+            "word": "소멸",
+            "weight": 3.0
+          },
+          {
+            "word": "여행기",
+            "weight": 2.0
+          },
+          {
+            "word": "윤희기",
+            "weight": 2.0
+          },
+          {
+            "word": "리네아",
+            "weight": 2.0
+          },
+          {
+            "word": "동화 명작 고전",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "아이",
+            "weight": 2.0
+          },
+          {
+            "word": "도시",
+            "weight": 2.0
+          },
+          {
+            "word": "궁전",
+            "weight": 2.0
+          },
+          {
+            "word": "고려대학교",
+            "weight": 2.0
+          },
+          {
+            "word": "일기",
+            "weight": 2.0
+          },
+          {
+            "word": "크리스티나 비외르크",
+            "weight": 2.0
+          },
+          {
+            "word": "과학 수학 사회",
+            "weight": 2.0
+          },
+          {
+            "word": "미래사",
+            "weight": 2.0
+          },
+          {
+            "word": "미치너",
+            "weight": 1.0
+          },
+          {
+            "word": "바이어트",
+            "weight": 1.0
+          },
+          {
+            "word": "무어인과",
+            "weight": 1.0
+          },
+          {
+            "word": "바다",
+            "weight": 1.0
+          },
+          {
+            "word": "무라노",
+            "weight": 1.0
+          },
+          {
+            "word": "흉측",
+            "weight": 1.0
+          },
+          {
+            "word": "매력",
+            "weight": 1.0
+          },
+          {
+            "word": "모자이크",
+            "weight": 1.0
+          },
+          {
+            "word": "묘사햇다",
+            "weight": 1.0
+          },
+          {
+            "word": "노릇",
+            "weight": 1.0
+          },
+          {
+            "word": "가치",
+            "weight": 1.0
+          },
+          {
+            "word": "것들",
+            "weight": 1.0
+          },
+          {
+            "word": "결심",
+            "weight": 1.0
+          },
+          {
+            "word": "고기",
+            "weight": 1.0
+          },
+          {
+            "word": "공예품",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "기둥머리",
+            "weight": 1.0
+          },
+          {
+            "word": "기적",
+            "weight": 1.0
+          },
+          {
+            "word": "내용",
+            "weight": 1.0
+          },
+          {
+            "word": "각종",
+            "weight": 1.0
+          },
+          {
+            "word": "논문",
+            "weight": 1.0
+          },
+          {
+            "word": "눈높이",
+            "weight": 1.0
+          },
+          {
+            "word": "늪지",
+            "weight": 1.0
+          },
+          {
+            "word": "다수",
+            "weight": 1.0
+          },
+          {
+            "word": "대학원",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": false,
+        "co_loan_books": []
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001087615",
+        "title": "아빠와 함께한 베니스 여행",
+        "subtitle": "",
+        "page": "92 p.",
+        "book_size": "",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788970876115",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788970876115",
+      "isbn_add_code": "77870",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(아빠와 함께 한)베니스 여행",
+      "subtitle": "",
+      "author": "크리스티나 비외르크 글;윤희기 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "미래사",
+      "publish_year": "2003",
+      "publish_predate": "",
+      "kdc": "859.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 기타 게르만 문학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "92 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "",
+      "description": "를 쓴 크리스티나 비외르크의 작품. 동화의 도시이자 역사의 도시인 베니스의 매력을 어린이의 눈높이에서 유감없이 보내준다. 섬세하게 그려진 일러스트와 각종 볼거리를 아우른 방대한 책 내용은 실제로 베니스에 여행갈 때 챙겨가면 쓸모가 있을만큼 탄탄하다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/41/99/cover/8970876111_1.gif",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "베니스",
+          "weight": 11.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "폐허의 도시",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "사자",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "여행기",
+          "weight": 2.0
+        },
+        {
+          "word": "윤희기",
+          "weight": 2.0
+        },
+        {
+          "word": "리네아",
+          "weight": 2.0
+        },
+        {
+          "word": "동화 명작 고전",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "도시",
+          "weight": 2.0
+        },
+        {
+          "word": "궁전",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "일기",
+          "weight": 2.0
+        },
+        {
+          "word": "크리스티나 비외르크",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "미래사",
+          "weight": 2.0
+        },
+        {
+          "word": "미치너",
+          "weight": 1.0
+        },
+        {
+          "word": "바이어트",
+          "weight": 1.0
+        },
+        {
+          "word": "무어인과",
+          "weight": 1.0
+        },
+        {
+          "word": "바다",
+          "weight": 1.0
+        },
+        {
+          "word": "무라노",
+          "weight": 1.0
+        },
+        {
+          "word": "흉측",
+          "weight": 1.0
+        },
+        {
+          "word": "매력",
+          "weight": 1.0
+        },
+        {
+          "word": "모자이크",
+          "weight": 1.0
+        },
+        {
+          "word": "묘사햇다",
+          "weight": 1.0
+        },
+        {
+          "word": "노릇",
+          "weight": 1.0
+        },
+        {
+          "word": "가치",
+          "weight": 1.0
+        },
+        {
+          "word": "것들",
+          "weight": 1.0
+        },
+        {
+          "word": "결심",
+          "weight": 1.0
+        },
+        {
+          "word": "고기",
+          "weight": 1.0
+        },
+        {
+          "word": "공예품",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "기둥머리",
+          "weight": 1.0
+        },
+        {
+          "word": "기적",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "각종",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 1.0
+        },
+        {
+          "word": "늪지",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        }
+      ],
+      "description": "를 쓴 크리스티나 비외르크의 작품. 동화의 도시이자 역사의 도시인 베니스의 매력을 어린이의 눈높이에서 유감없이 보내준다. 섬세하게 그려진 일러스트와 각종 볼거리를 아우른 방대한 책 내용은 실제로 베니스에 여행갈 때 챙겨가면 쓸모가 있을만큼 탄탄하다.",
+      "co_loan_books": [],
+      "title": "(아빠와 함께 한)베니스 여행",
+      "author": "크리스티나 비외르크 글;윤희기 옮김",
+      "kdc_from_api": "859.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

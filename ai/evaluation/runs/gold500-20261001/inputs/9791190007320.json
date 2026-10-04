@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190007320",
+  "captured_at": "2026-10-02T00:18:21.018539+09:00",
+  "lookup": {
+    "isbn": "9791190007320",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190007320",
+      "isbn_add_code": "74690",
+      "set_isbn": "9791190007306",
+      "set_add_code": "74690 ",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "축구 만화 도감",
+      "subtitle": "재밌을 줄 알았는데 멋있어!",
+      "author": "익뚜 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Who's Got My Tail(후즈갓마이테일)",
+      "publish_year": "2022",
+      "publish_predate": "20221122",
+      "kdc": "695",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 구기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "반전 도감",
+      "series_no": "3",
+      "page": "288 p.",
+      "book_size": "145*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "유쾌하고 재밌는 어린이 축구 필독서!홍명보 감독, 한준희 KBS 해설 위원, 이재성 선수, 백승호 선수 강력 추천!세계에서 가장 인기 많은 스포츠인 축구에 대해 넓고 깊게 알 수 있도록 체계적으로 담아 만화로 그린 축구 도감. 호날두와 메시를 연상시키는 캐릭터가 등장하여 축구공의 변천사, 선수들의 포지션, 여러 가지 반칙, 포메이션 등을 쉽고 재밌게 소개한다. 축구의 기본적인 정보뿐만 아니라 손흥민 · 더브라위너 등의 포지션별 주요 현역 선수와 박지성 · 부폰 등의 포지션별 레전드 소개, 월드컵 공인구 역사, 4컷 만화, VR 등 축구 관련 최근 이슈 정보들도 더했다.친구와 함께 축구 경기를 보던 베비는 방금 들어간 골이 왜 그렇게 친구를 감동시키는지 잘 이해가 되지 않는다. 베비는 자칭 ‘축구인’ 주니와 축구 도사 할아버지와 함께 축구를 좀 더 자세하고 깊게 알아보기로 하는데…. 축구에 대한 자신감으로 똘똘 뭉친 ‘호우형’과 얌전하지만 열정적인 ‘매시우’도 등장하여 축구에 대해 자세하게 알아보고 마지막엔 함께 경기를 해본다. 어느새 한 팀이 되어 뛰는 주인공들. 과연 어느 팀이 이길 것인가!",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30499/5/cover/k222830688_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "축구",
+          "weight": 19.0
+        },
+        {
+          "word": "포지션",
+          "weight": 6.0
+        },
+        {
+          "word": "선수",
+          "weight": 6.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "정보",
+          "weight": 4.0
+        },
+        {
+          "word": "도감",
+          "weight": 4.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 4.0
+        },
+        {
+          "word": "반칙",
+          "weight": 3.0
+        },
+        {
+          "word": "포메이션",
+          "weight": 3.0
+        },
+        {
+          "word": "경기",
+          "weight": 3.0
+        },
+        {
+          "word": "축구공",
+          "weight": 3.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "베비",
+          "weight": 2.0
+        },
+        {
+          "word": "월드컵",
+          "weight": 2.0
+        },
+        {
+          "word": "변천사",
+          "weight": 2.0
+        },
+        {
+          "word": "연상",
+          "weight": 2.0
+        },
+        {
+          "word": "재밌",
+          "weight": 2.0
+        },
+        {
+          "word": "후즈갓마이테일",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "호날두",
+          "weight": 2.0
+        },
+        {
+          "word": "손흥민",
+          "weight": 2.0
+        },
+        {
+          "word": "현역",
+          "weight": 2.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 2.0
+        },
+        {
+          "word": "부폰",
+          "weight": 2.0
+        },
+        {
+          "word": "박지성",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "체계적",
+          "weight": 2.0
+        },
+        {
+          "word": "인기",
+          "weight": 2.0
+        },
+        {
+          "word": "가지",
+          "weight": 2.0
+        },
+        {
+          "word": "VR",
+          "weight": 2.0
+        },
+        {
+          "word": "익뚜",
+          "weight": 2.0
+        },
+        {
+          "word": "4컷",
+          "weight": 2.0
+        },
+        {
+          "word": "이슈",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "기본적",
+          "weight": 2.0
+        },
+        {
+          "word": "장민석  감수",
+          "weight": 2.0
+        },
+        {
+          "word": "더브라위너",
+          "weight": 2.0
+        },
+        {
+          "word": "최근",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "레전드",
+          "weight": 2.0
+        },
+        {
+          "word": "메시",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 1.0
+        },
+        {
+          "word": "백승호",
+          "weight": 1.0
+        },
+        {
+          "word": "번씩들",
+          "weight": 1.0
+        },
+        {
+          "word": "연재",
+          "weight": 1.0
+        },
+        {
+          "word": "반전",
+          "weight": 1.0
+        },
+        {
+          "word": "그리기",
+          "weight": 1.0
+        }
+      ],
+      "description": "유쾌하고 재밌는 어린이 축구 필독서!홍명보 감독, 한준희 KBS 해설 위원, 이재성 선수, 백승호 선수 강력 추천!세계에서 가장 인기 많은 스포츠인 축구에 대해 넓고 깊게 알 수 있도록 체계적으로 담아 만화로 그린 축구 도감. 호날두와 메시를 연상시키는 캐릭터가 등장하여 축구공의 변천사, 선수들의 포지션, 여러 가지 반칙, 포메이션 등을 쉽고 재밌게 소개한다. 축구의 기본적인 정보뿐만 아니라 손흥민 · 더브라위너 등의 포지션별 주요 현역 선수와 박지성 · 부폰 등의 포지션별 레전드 소개, 월드컵 공인구 역사, 4컷 만화, VR 등 축구 관련 최근 이슈 정보들도 더했다.친구와 함께 축구 경기를 보던 베비는 방금 들어간 골이 왜 그렇게 친구를 감동시키는지 잘 이해가 되지 않는다. 베비는 자칭 ‘축구인’ 주니와 축구 도사 할아버지와 함께 축구를 좀 더 자세하고 깊게 알아보기로 하는데…. 축구에 대한 자신감으로 똘똘 뭉친 ‘호우형’과 얌전하지만 열정적인 ‘매시우’도 등장하여 축구에 대해 자세하게 알아보고 마지막엔 함께 경기를 해본다. 어느새 한 팀이 되어 뛰는 주인공들. 과연 어느 팀이 이길 것인가!",
+      "co_loan_books": [
+        {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "isbn13": "9791190007245",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+          "isbn13": "9791190007412",
+          "authors": "익뚜 (지은이), 장민석 (감수)"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168413931",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "축구 만화 도감",
+      "author": "익뚜 지음",
+      "kdc_from_api": "695",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "축구 만화 도감",
+        "author": "익뚜 지음",
+        "publisher": "Who's Got My Tail(후즈갓마이테일)",
+        "publish_predate": "20221122",
+        "isbn": "9791190007320",
+        "isbn_add_code": "74690",
+        "set_isbn": "9791190007306",
+        "set_add_code": "74690 ",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "반전 도감",
+        "series_no": "3",
+        "volume": "",
+        "page": "280 p.",
+        "book_size": "145*200",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+        "author": "익뚜 지음",
+        "publisher": "Who's Got My Tail(후즈갓마이테일)",
+        "publish_year": "2022",
+        "isbn": "1190007320",
+        "isbn13": "9791190007320",
+        "isbn_add_code": "74690",
+        "volume": "",
+        "class_no": "695",
+        "class_nm": "예술 > 오락, 운동 > 구기",
+        "description": "유쾌하고 재밌는 어린이 축구 필독서!홍명보 감독, 한준희 KBS 해설 위원, 이재성 선수, 백승호 선수 강력 추천!세계에서 가장 인기 많은 스포츠인 축구에 대해 넓고 깊게 알 수 있도록 체계적으로 담아 만화로 그린 축구 도감. 호날두와 메시를 연상시키는 캐릭터가 등장하여 축구공의 변천사, 선수들의 포지션, 여러 가지 반칙, 포메이션 등을 쉽고 재밌게 소개한다. 축구의 기본적인 정보뿐만 아니라 손흥민 · 더브라위너 등의 포지션별 주요 현역 선수와 박지성 · 부폰 등의 포지션별 레전드 소개, 월드컵 공인구 역사, 4컷 만화, VR 등 축구 관련 최근 이슈 정보들도 더했다.친구와 함께 축구 경기를 보던 베비는 방금 들어간 골이 왜 그렇게 친구를 감동시키는지 잘 이해가 되지 않는다. 베비는 자칭 ‘축구인’ 주니와 축구 도사 할아버지와 함께 축구를 좀 더 자세하고 깊게 알아보기로 하는데…. 축구에 대한 자신감으로 똘똘 뭉친 ‘호우형’과 얌전하지만 열정적인 ‘매시우’도 등장하여 축구에 대해 자세하게 알아보고 마지막엔 함께 경기를 해본다. 어느새 한 팀이 되어 뛰는 주인공들. 과연 어느 팀이 이길 것인가!",
+        "cover_url": "https://image.aladin.co.kr/product/30499/5/cover/k222830688_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "축구",
+            "weight": 19.0
+          },
+          {
+            "word": "포지션",
+            "weight": 6.0
+          },
+          {
+            "word": "선수",
+            "weight": 6.0
+          },
+          {
+            "word": "만화",
+            "weight": 5.0
+          },
+          {
+            "word": "소개",
+            "weight": 4.0
+          },
+          {
+            "word": "정보",
+            "weight": 4.0
+          },
+          {
+            "word": "도감",
+            "weight": 4.0
+          },
+          {
+            "word": "스포츠",
+            "weight": 4.0
+          },
+          {
+            "word": "반칙",
+            "weight": 3.0
+          },
+          {
+            "word": "포메이션",
+            "weight": 3.0
+          },
+          {
+            "word": "경기",
+            "weight": 3.0
+          },
+          {
+            "word": "축구공",
+            "weight": 3.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 2.0
+          },
+          {
+            "word": "베비",
+            "weight": 2.0
+          },
+          {
+            "word": "월드컵",
+            "weight": 2.0
+          },
+          {
+            "word": "변천사",
+            "weight": 2.0
+          },
+          {
+            "word": "연상",
+            "weight": 2.0
+          },
+          {
+            "word": "재밌",
+            "weight": 2.0
+          },
+          {
+            "word": "후즈갓마이테일",
+            "weight": 2.0
+          },
+          {
+            "word": "역사",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "호날두",
+            "weight": 2.0
+          },
+          {
+            "word": "손흥민",
+            "weight": 2.0
+          },
+          {
+            "word": "현역",
+            "weight": 2.0
+          },
+          {
+            "word": "웹툰",
+            "weight": 2.0
+          },
+          {
+            "word": "부폰",
+            "weight": 2.0
+          },
+          {
+            "word": "박지성",
+            "weight": 2.0
+          },
+          {
+            "word": "친구",
+            "weight": 2.0
+          },
+          {
+            "word": "체계적",
+            "weight": 2.0
+          },
+          {
+            "word": "인기",
+            "weight": 2.0
+          },
+          {
+            "word": "가지",
+            "weight": 2.0
+          },
+          {
+            "word": "VR",
+            "weight": 2.0
+          },
+          {
+            "word": "익뚜",
+            "weight": 2.0
+          },
+          {
+            "word": "4컷",
+            "weight": 2.0
+          },
+          {
+            "word": "이슈",
+            "weight": 2.0
+          },
+          {
+            "word": "음악 미술 예체능",
+            "weight": 2.0
+          },
+          {
+            "word": "그린",
+            "weight": 2.0
+          },
+          {
+            "word": "기본적",
+            "weight": 2.0
+          },
+          {
+            "word": "장민석  감수",
+            "weight": 2.0
+          },
+          {
+            "word": "더브라위너",
+            "weight": 2.0
+          },
+          {
+            "word": "최근",
+            "weight": 2.0
+          },
+          {
+            "word": "등장",
+            "weight": 2.0
+          },
+          {
+            "word": "레전드",
+            "weight": 2.0
+          },
+          {
+            "word": "메시",
+            "weight": 2.0
+          },
+          {
+            "word": "기술",
+            "weight": 1.0
+          },
+          {
+            "word": "백승호",
+            "weight": 1.0
+          },
+          {
+            "word": "번씩들",
+            "weight": 1.0
+          },
+          {
+            "word": "연재",
+            "weight": 1.0
+          },
+          {
+            "word": "반전",
+            "weight": 1.0
+          },
+          {
+            "word": "그리기",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+            "isbn13": "9791190007245",
+            "authors": "익뚜 지음"
+          },
+          {
+            "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+            "isbn13": "9791190007412",
+            "authors": "익뚜 (지은이), 장민석 (감수)"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168411685",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134267",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168412477",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164135592",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164137527",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168413931",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164136261",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "축구 만화 도감 - 재밌을 줄 알았는데 멋있어!"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000200251561",
+        "title": "재밌을 줄 알았는데 멋있어! 축구 만화 도감",
+        "subtitle": "양장본 Hardcover",
+        "page": "288 p.",
+        "book_size": "156*206mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190007320",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190007320",
+      "isbn_add_code": "74690",
+      "set_isbn": "9791190007306",
+      "set_add_code": "74690 ",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "축구 만화 도감",
+      "subtitle": "재밌을 줄 알았는데 멋있어!",
+      "author": "익뚜 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Who's Got My Tail(후즈갓마이테일)",
+      "publish_year": "2022",
+      "publish_predate": "20221122",
+      "kdc": "695",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 구기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "반전 도감",
+      "series_no": "3",
+      "page": "288 p.",
+      "book_size": "145*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "유쾌하고 재밌는 어린이 축구 필독서!홍명보 감독, 한준희 KBS 해설 위원, 이재성 선수, 백승호 선수 강력 추천!세계에서 가장 인기 많은 스포츠인 축구에 대해 넓고 깊게 알 수 있도록 체계적으로 담아 만화로 그린 축구 도감. 호날두와 메시를 연상시키는 캐릭터가 등장하여 축구공의 변천사, 선수들의 포지션, 여러 가지 반칙, 포메이션 등을 쉽고 재밌게 소개한다. 축구의 기본적인 정보뿐만 아니라 손흥민 · 더브라위너 등의 포지션별 주요 현역 선수와 박지성 · 부폰 등의 포지션별 레전드 소개, 월드컵 공인구 역사, 4컷 만화, VR 등 축구 관련 최근 이슈 정보들도 더했다.친구와 함께 축구 경기를 보던 베비는 방금 들어간 골이 왜 그렇게 친구를 감동시키는지 잘 이해가 되지 않는다. 베비는 자칭 ‘축구인’ 주니와 축구 도사 할아버지와 함께 축구를 좀 더 자세하고 깊게 알아보기로 하는데…. 축구에 대한 자신감으로 똘똘 뭉친 ‘호우형’과 얌전하지만 열정적인 ‘매시우’도 등장하여 축구에 대해 자세하게 알아보고 마지막엔 함께 경기를 해본다. 어느새 한 팀이 되어 뛰는 주인공들. 과연 어느 팀이 이길 것인가!",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30499/5/cover/k222830688_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "축구",
+          "weight": 19.0
+        },
+        {
+          "word": "포지션",
+          "weight": 6.0
+        },
+        {
+          "word": "선수",
+          "weight": 6.0
+        },
+        {
+          "word": "만화",
+          "weight": 5.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "정보",
+          "weight": 4.0
+        },
+        {
+          "word": "도감",
+          "weight": 4.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 4.0
+        },
+        {
+          "word": "반칙",
+          "weight": 3.0
+        },
+        {
+          "word": "포메이션",
+          "weight": 3.0
+        },
+        {
+          "word": "경기",
+          "weight": 3.0
+        },
+        {
+          "word": "축구공",
+          "weight": 3.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "베비",
+          "weight": 2.0
+        },
+        {
+          "word": "월드컵",
+          "weight": 2.0
+        },
+        {
+          "word": "변천사",
+          "weight": 2.0
+        },
+        {
+          "word": "연상",
+          "weight": 2.0
+        },
+        {
+          "word": "재밌",
+          "weight": 2.0
+        },
+        {
+          "word": "후즈갓마이테일",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "호날두",
+          "weight": 2.0
+        },
+        {
+          "word": "손흥민",
+          "weight": 2.0
+        },
+        {
+          "word": "현역",
+          "weight": 2.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 2.0
+        },
+        {
+          "word": "부폰",
+          "weight": 2.0
+        },
+        {
+          "word": "박지성",
+          "weight": 2.0
+        },
+        {
+          "word": "친구",
+          "weight": 2.0
+        },
+        {
+          "word": "체계적",
+          "weight": 2.0
+        },
+        {
+          "word": "인기",
+          "weight": 2.0
+        },
+        {
+          "word": "가지",
+          "weight": 2.0
+        },
+        {
+          "word": "VR",
+          "weight": 2.0
+        },
+        {
+          "word": "익뚜",
+          "weight": 2.0
+        },
+        {
+          "word": "4컷",
+          "weight": 2.0
+        },
+        {
+          "word": "이슈",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "기본적",
+          "weight": 2.0
+        },
+        {
+          "word": "장민석  감수",
+          "weight": 2.0
+        },
+        {
+          "word": "더브라위너",
+          "weight": 2.0
+        },
+        {
+          "word": "최근",
+          "weight": 2.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "레전드",
+          "weight": 2.0
+        },
+        {
+          "word": "메시",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 1.0
+        },
+        {
+          "word": "백승호",
+          "weight": 1.0
+        },
+        {
+          "word": "번씩들",
+          "weight": 1.0
+        },
+        {
+          "word": "연재",
+          "weight": 1.0
+        },
+        {
+          "word": "반전",
+          "weight": 1.0
+        },
+        {
+          "word": "그리기",
+          "weight": 1.0
+        }
+      ],
+      "description": "유쾌하고 재밌는 어린이 축구 필독서!홍명보 감독, 한준희 KBS 해설 위원, 이재성 선수, 백승호 선수 강력 추천!세계에서 가장 인기 많은 스포츠인 축구에 대해 넓고 깊게 알 수 있도록 체계적으로 담아 만화로 그린 축구 도감. 호날두와 메시를 연상시키는 캐릭터가 등장하여 축구공의 변천사, 선수들의 포지션, 여러 가지 반칙, 포메이션 등을 쉽고 재밌게 소개한다. 축구의 기본적인 정보뿐만 아니라 손흥민 · 더브라위너 등의 포지션별 주요 현역 선수와 박지성 · 부폰 등의 포지션별 레전드 소개, 월드컵 공인구 역사, 4컷 만화, VR 등 축구 관련 최근 이슈 정보들도 더했다.친구와 함께 축구 경기를 보던 베비는 방금 들어간 골이 왜 그렇게 친구를 감동시키는지 잘 이해가 되지 않는다. 베비는 자칭 ‘축구인’ 주니와 축구 도사 할아버지와 함께 축구를 좀 더 자세하고 깊게 알아보기로 하는데…. 축구에 대한 자신감으로 똘똘 뭉친 ‘호우형’과 얌전하지만 열정적인 ‘매시우’도 등장하여 축구에 대해 자세하게 알아보고 마지막엔 함께 경기를 해본다. 어느새 한 팀이 되어 뛰는 주인공들. 과연 어느 팀이 이길 것인가!",
+      "co_loan_books": [
+        {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "isbn13": "9791190007245",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+          "isbn13": "9791190007412",
+          "authors": "익뚜 (지은이), 장민석 (감수)"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168413931",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "축구 만화 도감",
+      "author": "익뚜 지음",
+      "kdc_from_api": "695",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

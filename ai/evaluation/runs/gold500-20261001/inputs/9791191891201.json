@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791191891201",
+  "captured_at": "2026-10-02T00:14:04.808806+09:00",
+  "lookup": {
+    "isbn": "9791191891201",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191891201",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "잘될 수밖에 없는 너에게",
+      "subtitle": "최서영 에세이",
+      "author": "지은이: 최서영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북로망스",
+      "publish_year": "2022",
+      "publish_predate": "20220818",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "130*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29965/14/cover/k532838243_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "잘될 수밖에 없는 너에게",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "최서영",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 6.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "가전주부",
+          "weight": 6.0
+        },
+        {
+          "word": "말많은소녀",
+          "weight": 6.0
+        },
+        {
+          "word": "열심",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "에세이",
+          "weight": 3.0
+        },
+        {
+          "word": "채널",
+          "weight": 3.0
+        },
+        {
+          "word": "프리랜서",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "응원",
+          "weight": 3.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "북로망스",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "아나운서",
+          "weight": 2.0
+        },
+        {
+          "word": "루틴",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "대학",
+          "weight": 2.0
+        },
+        {
+          "word": "자기계발",
+          "weight": 2.0
+        },
+        {
+          "word": "매력",
+          "weight": 2.0
+        },
+        {
+          "word": "사회",
+          "weight": 2.0
+        },
+        {
+          "word": "탐구",
+          "weight": 2.0
+        },
+        {
+          "word": "한국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "멘탈",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "손절",
+          "weight": 2.0
+        },
+        {
+          "word": "행복",
+          "weight": 2.0
+        },
+        {
+          "word": "흑역사",
+          "weight": 1.0
+        },
+        {
+          "word": "롤모델",
+          "weight": 1.0
+        },
+        {
+          "word": "강력",
+          "weight": 1.0
+        },
+        {
+          "word": "가능",
+          "weight": 1.0
+        },
+        {
+          "word": "라이프",
+          "weight": 1.0
+        },
+        {
+          "word": "뜬구름",
+          "weight": 1.0
+        },
+        {
+          "word": "강조",
+          "weight": 1.0
+        },
+        {
+          "word": "그다음",
+          "weight": 1.0
+        },
+        {
+          "word": "결혼",
+          "weight": 1.0
+        },
+        {
+          "word": "그래프",
+          "weight": 1.0
+        },
+        {
+          "word": "근사",
+          "weight": 1.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 1.0
+        },
+        {
+          "word": "기록",
+          "weight": 1.0
+        },
+        {
+          "word": "김짠부",
+          "weight": 1.0
+        },
+        {
+          "word": "그중",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        }
+      ],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "당신은 결국 무엇이든 해내는 사람 :김상현 에세이 ",
+          "isbn13": "9791188469994",
+          "authors": "지은이: 김상현"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "(2020) 시는 노래가 되어 ",
+          "isbn13": "9791196617127",
+          "authors": "지은이: 한국가곡작사가협회"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "기분이 태도가 되지 말자 :감정조절이 필요한 당신을 위한 책 ",
+          "isbn13": "9791197647666",
+          "authors": "김수현 지음"
+        }
+      ],
+      "title": "잘될 수밖에 없는 너에게",
+      "author": "지은이: 최서영",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "잘될 수밖에 없는 너에게",
+        "author": "지은이: 최서영",
+        "publisher": "북로망스",
+        "publish_predate": "20220818",
+        "isbn": "9791191891201",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "271 p.",
+        "book_size": "130*190",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "잘될 수밖에 없는 너에게 :최서영 에세이 ",
+        "author": "지은이: 최서영",
+        "publisher": "북로망스",
+        "publish_year": "2022",
+        "isbn": "1191891208",
+        "isbn13": "9791191891201",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "818",
+        "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+        "description": "",
+        "cover_url": "https://image.aladin.co.kr/product/29965/14/cover/k532838243_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "잘될 수밖에 없는 너에게",
+            "weight": 9.0
+          },
+          {
+            "word": "자기",
+            "weight": 7.0
+          },
+          {
+            "word": "사람",
+            "weight": 6.0
+          },
+          {
+            "word": "최서영",
+            "weight": 6.0
+          },
+          {
+            "word": "독자",
+            "weight": 6.0
+          },
+          {
+            "word": "인생",
+            "weight": 6.0
+          },
+          {
+            "word": "가전주부",
+            "weight": 6.0
+          },
+          {
+            "word": "말많은소녀",
+            "weight": 6.0
+          },
+          {
+            "word": "열심",
+            "weight": 4.0
+          },
+          {
+            "word": "방법",
+            "weight": 4.0
+          },
+          {
+            "word": "에세이",
+            "weight": 3.0
+          },
+          {
+            "word": "채널",
+            "weight": 3.0
+          },
+          {
+            "word": "프리랜서",
+            "weight": 3.0
+          },
+          {
+            "word": "필요",
+            "weight": 3.0
+          },
+          {
+            "word": "응원",
+            "weight": 3.0
+          },
+          {
+            "word": "기술",
+            "weight": 2.0
+          },
+          {
+            "word": "북로망스",
+            "weight": 2.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "아나운서",
+            "weight": 2.0
+          },
+          {
+            "word": "루틴",
+            "weight": 2.0
+          },
+          {
+            "word": "인간관계",
+            "weight": 2.0
+          },
+          {
+            "word": "대학",
+            "weight": 2.0
+          },
+          {
+            "word": "자기계발",
+            "weight": 2.0
+          },
+          {
+            "word": "매력",
+            "weight": 2.0
+          },
+          {
+            "word": "사회",
+            "weight": 2.0
+          },
+          {
+            "word": "탐구",
+            "weight": 2.0
+          },
+          {
+            "word": "한국에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "공유",
+            "weight": 2.0
+          },
+          {
+            "word": "멘탈",
+            "weight": 2.0
+          },
+          {
+            "word": "마음",
+            "weight": 2.0
+          },
+          {
+            "word": "손절",
+            "weight": 2.0
+          },
+          {
+            "word": "행복",
+            "weight": 2.0
+          },
+          {
+            "word": "흑역사",
+            "weight": 1.0
+          },
+          {
+            "word": "롤모델",
+            "weight": 1.0
+          },
+          {
+            "word": "강력",
+            "weight": 1.0
+          },
+          {
+            "word": "가능",
+            "weight": 1.0
+          },
+          {
+            "word": "라이프",
+            "weight": 1.0
+          },
+          {
+            "word": "뜬구름",
+            "weight": 1.0
+          },
+          {
+            "word": "강조",
+            "weight": 1.0
+          },
+          {
+            "word": "그다음",
+            "weight": 1.0
+          },
+          {
+            "word": "결혼",
+            "weight": 1.0
+          },
+          {
+            "word": "그래프",
+            "weight": 1.0
+          },
+          {
+            "word": "근사",
+            "weight": 1.0
+          },
+          {
+            "word": "긍정적",
+            "weight": 1.0
+          },
+          {
+            "word": "기록",
+            "weight": 1.0
+          },
+          {
+            "word": "김짠부",
+            "weight": 1.0
+          },
+          {
+            "word": "그중",
+            "weight": 1.0
+          },
+          {
+            "word": "공감",
+            "weight": 1.0
+          },
+          {
+            "word": "경험",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "당신은 결국 무엇이든 해내는 사람 :김상현 에세이 ",
+            "isbn13": "9791188469994",
+            "authors": "지은이: 김상현"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "(2020) 시는 노래가 되어 ",
+            "isbn13": "9791196617127",
+            "authors": "지은이: 한국가곡작사가협회"
+          },
+          {
+            "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+            "isbn13": "9791191891287",
+            "authors": "글: 윤정은"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          },
+          {
+            "bookname": "기분이 태도가 되지 말자 :감정조절이 필요한 당신을 위한 책 ",
+            "isbn13": "9791197647666",
+            "authors": "김수현 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "잘될 수밖에 없는 너에게 - 최서영 에세이"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000061585932",
+        "title": "잘될 수밖에 없는 너에게",
+        "subtitle": "최서영 에세이",
+        "page": "272 p.",
+        "book_size": "132*191mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191891201",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191891201",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "잘될 수밖에 없는 너에게",
+      "subtitle": "최서영 에세이",
+      "author": "지은이: 최서영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북로망스",
+      "publish_year": "2022",
+      "publish_predate": "20220818",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "130*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29965/14/cover/k532838243_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "잘될 수밖에 없는 너에게",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "최서영",
+          "weight": 6.0
+        },
+        {
+          "word": "독자",
+          "weight": 6.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "가전주부",
+          "weight": 6.0
+        },
+        {
+          "word": "말많은소녀",
+          "weight": 6.0
+        },
+        {
+          "word": "열심",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "에세이",
+          "weight": 3.0
+        },
+        {
+          "word": "채널",
+          "weight": 3.0
+        },
+        {
+          "word": "프리랜서",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "응원",
+          "weight": 3.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "북로망스",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "아나운서",
+          "weight": 2.0
+        },
+        {
+          "word": "루틴",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "대학",
+          "weight": 2.0
+        },
+        {
+          "word": "자기계발",
+          "weight": 2.0
+        },
+        {
+          "word": "매력",
+          "weight": 2.0
+        },
+        {
+          "word": "사회",
+          "weight": 2.0
+        },
+        {
+          "word": "탐구",
+          "weight": 2.0
+        },
+        {
+          "word": "한국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "멘탈",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "손절",
+          "weight": 2.0
+        },
+        {
+          "word": "행복",
+          "weight": 2.0
+        },
+        {
+          "word": "흑역사",
+          "weight": 1.0
+        },
+        {
+          "word": "롤모델",
+          "weight": 1.0
+        },
+        {
+          "word": "강력",
+          "weight": 1.0
+        },
+        {
+          "word": "가능",
+          "weight": 1.0
+        },
+        {
+          "word": "라이프",
+          "weight": 1.0
+        },
+        {
+          "word": "뜬구름",
+          "weight": 1.0
+        },
+        {
+          "word": "강조",
+          "weight": 1.0
+        },
+        {
+          "word": "그다음",
+          "weight": 1.0
+        },
+        {
+          "word": "결혼",
+          "weight": 1.0
+        },
+        {
+          "word": "그래프",
+          "weight": 1.0
+        },
+        {
+          "word": "근사",
+          "weight": 1.0
+        },
+        {
+          "word": "긍정적",
+          "weight": 1.0
+        },
+        {
+          "word": "기록",
+          "weight": 1.0
+        },
+        {
+          "word": "김짠부",
+          "weight": 1.0
+        },
+        {
+          "word": "그중",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        }
+      ],
+      "description": "",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "당신은 결국 무엇이든 해내는 사람 :김상현 에세이 ",
+          "isbn13": "9791188469994",
+          "authors": "지은이: 김상현"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "(2020) 시는 노래가 되어 ",
+          "isbn13": "9791196617127",
+          "authors": "지은이: 한국가곡작사가협회"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "기분이 태도가 되지 말자 :감정조절이 필요한 당신을 위한 책 ",
+          "isbn13": "9791197647666",
+          "authors": "김수현 지음"
+        }
+      ],
+      "title": "잘될 수밖에 없는 너에게",
+      "author": "지은이: 최서영",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": false,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

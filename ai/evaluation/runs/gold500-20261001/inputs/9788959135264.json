@@ -1,0 +1,1080 @@
+{
+  "isbn": "9788959135264",
+  "captured_at": "2026-10-03T00:19:50.857502+09:00",
+  "lookup": {
+    "isbn": "9788959135264",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788959135264",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법",
+      "subtitle": "",
+      "author": "이동진 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "예담출판사",
+      "publish_year": "2017",
+      "publish_predate": "20170615",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "204 p.",
+      "book_size": "131*189mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "팟캐스트 「이동진의 빨간책방」 진행자, 영화평론가 이동진이 말하는 내가 책을 읽는 방법, 책을 사랑하는 방법. 이 책에서는 ‘책을 어떻게 읽어야 할까’라는 질문을 ‘책을 어떻게 사랑할 수 있을까’로 바꾸어서 그에 대한 저자의 생각을 전한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/11061/76/cover/8959135267_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "이동진",
+          "weight": 18.0
+        },
+        {
+          "word": "이동진의 빨간책방",
+          "weight": 18.0
+        },
+        {
+          "word": "독서",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "씨네21",
+          "weight": 7.0
+        },
+        {
+          "word": "사랑",
+          "weight": 7.0
+        },
+        {
+          "word": "읽기",
+          "weight": 7.0
+        },
+        {
+          "word": "진행자",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "행복",
+          "weight": 6.0
+        },
+        {
+          "word": "대로",
+          "weight": 5.0
+        },
+        {
+          "word": "목록",
+          "weight": 4.0
+        },
+        {
+          "word": "독서가",
+          "weight": 4.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 4.0
+        },
+        {
+          "word": "영화평론가",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "대화",
+          "weight": 4.0
+        },
+        {
+          "word": "책읽기",
+          "weight": 4.0
+        },
+        {
+          "word": "우리가 사랑한 소설들",
+          "weight": 3.0
+        },
+        {
+          "word": "독서법",
+          "weight": 3.0
+        },
+        {
+          "word": "밤은 책이다",
+          "weight": 3.0
+        },
+        {
+          "word": "기자",
+          "weight": 3.0
+        },
+        {
+          "word": "길에서 어렴풋이 꿈을 꾸다",
+          "weight": 3.0
+        },
+        {
+          "word": "선택",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "필름 속을 걷다",
+          "weight": 3.0
+        },
+        {
+          "word": "고르",
+          "weight": 3.0
+        },
+        {
+          "word": "질문하는 책들",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "7천",
+          "weight": 3.0
+        },
+        {
+          "word": "푸른밤 이동진입니다",
+          "weight": 3.0
+        },
+        {
+          "word": "이다혜",
+          "weight": 3.0
+        },
+        {
+          "word": "이동진 김중혁의 영화당",
+          "weight": 3.0
+        },
+        {
+          "word": "책들",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "완독",
+          "weight": 3.0
+        },
+        {
+          "word": "영향력",
+          "weight": 2.0
+        },
+        {
+          "word": "실패",
+          "weight": 2.0
+        },
+        {
+          "word": "시절",
+          "weight": 2.0
+        },
+        {
+          "word": "넓이",
+          "weight": 2.0
+        },
+        {
+          "word": "위즈덤하우스",
+          "weight": 2.0
+        },
+        {
+          "word": "수천",
+          "weight": 2.0
+        },
+        {
+          "word": "김중혁",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "3부",
+          "weight": 2.0
+        },
+        {
+          "word": "사서",
+          "weight": 2.0
+        }
+      ],
+      "description": "팟캐스트 「이동진의 빨간책방」 진행자, 영화평론가 이동진이 말하는 내가 책을 읽는 방법, 책을 사랑하는 방법. 이 책에서는 ‘책을 어떻게 읽어야 할까’라는 질문을 ‘책을 어떻게 사랑할 수 있을까’로 바꾸어서 그에 대한 저자의 생각을 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "거인의 노트 :인생에서 무엇을 보고 어떻게 기록할 것인가 ",
+          "isbn13": "9791130697529",
+          "authors": "김익한 지음"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        }
+      ],
+      "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법",
+      "author": "이동진 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법",
+        "author": "이동진 지음",
+        "publisher": "예담출판사",
+        "publish_predate": "20170615",
+        "isbn": "9788959135264",
+        "isbn_add_code": "03800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법 ",
+        "author": "이동진 지음",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2017",
+        "isbn": "8959135267",
+        "isbn13": "9788959135264",
+        "isbn_add_code": "03800",
+        "volume": "",
+        "class_no": "029.4",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "팟캐스트 「이동진의 빨간책방」 진행자, 영화평론가 이동진이 말하는 내가 책을 읽는 방법, 책을 사랑하는 방법. 이 책에서는 ‘책을 어떻게 읽어야 할까’라는 질문을 ‘책을 어떻게 사랑할 수 있을까’로 바꾸어서 그에 대한 저자의 생각을 전한다.",
+        "cover_url": "http://image.aladin.co.kr/product/11061/76/cover/8959135267_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "이동진",
+            "weight": 18.0
+          },
+          {
+            "word": "이동진의 빨간책방",
+            "weight": 18.0
+          },
+          {
+            "word": "독서",
+            "weight": 12.0
+          },
+          {
+            "word": "사람",
+            "weight": 9.0
+          },
+          {
+            "word": "방법",
+            "weight": 7.0
+          },
+          {
+            "word": "씨네21",
+            "weight": 7.0
+          },
+          {
+            "word": "사랑",
+            "weight": 7.0
+          },
+          {
+            "word": "읽기",
+            "weight": 7.0
+          },
+          {
+            "word": "진행자",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 6.0
+          },
+          {
+            "word": "행복",
+            "weight": 6.0
+          },
+          {
+            "word": "대로",
+            "weight": 5.0
+          },
+          {
+            "word": "목록",
+            "weight": 4.0
+          },
+          {
+            "word": "독서가",
+            "weight": 4.0
+          },
+          {
+            "word": "팟캐스트",
+            "weight": 4.0
+          },
+          {
+            "word": "영화평론가",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "독자",
+            "weight": 4.0
+          },
+          {
+            "word": "대화",
+            "weight": 4.0
+          },
+          {
+            "word": "책읽기",
+            "weight": 4.0
+          },
+          {
+            "word": "우리가 사랑한 소설들",
+            "weight": 3.0
+          },
+          {
+            "word": "독서법",
+            "weight": 3.0
+          },
+          {
+            "word": "밤은 책이다",
+            "weight": 3.0
+          },
+          {
+            "word": "기자",
+            "weight": 3.0
+          },
+          {
+            "word": "길에서 어렴풋이 꿈을 꾸다",
+            "weight": 3.0
+          },
+          {
+            "word": "선택",
+            "weight": 3.0
+          },
+          {
+            "word": "소개",
+            "weight": 3.0
+          },
+          {
+            "word": "필름 속을 걷다",
+            "weight": 3.0
+          },
+          {
+            "word": "고르",
+            "weight": 3.0
+          },
+          {
+            "word": "질문하는 책들",
+            "weight": 3.0
+          },
+          {
+            "word": "순간",
+            "weight": 3.0
+          },
+          {
+            "word": "대하",
+            "weight": 3.0
+          },
+          {
+            "word": "7천",
+            "weight": 3.0
+          },
+          {
+            "word": "푸른밤 이동진입니다",
+            "weight": 3.0
+          },
+          {
+            "word": "이다혜",
+            "weight": 3.0
+          },
+          {
+            "word": "이동진 김중혁의 영화당",
+            "weight": 3.0
+          },
+          {
+            "word": "책들",
+            "weight": 3.0
+          },
+          {
+            "word": "가지",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "완독",
+            "weight": 3.0
+          },
+          {
+            "word": "영향력",
+            "weight": 2.0
+          },
+          {
+            "word": "실패",
+            "weight": 2.0
+          },
+          {
+            "word": "시절",
+            "weight": 2.0
+          },
+          {
+            "word": "넓이",
+            "weight": 2.0
+          },
+          {
+            "word": "위즈덤하우스",
+            "weight": 2.0
+          },
+          {
+            "word": "수천",
+            "weight": 2.0
+          },
+          {
+            "word": "김중혁",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "3부",
+            "weight": 2.0
+          },
+          {
+            "word": "사서",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "거인의 노트 :인생에서 무엇을 보고 어떻게 기록할 것인가 ",
+            "isbn13": "9791130697529",
+            "authors": "김익한 지음"
+          },
+          {
+            "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+            "isbn13": "9788901276533",
+            "authors": "패트릭 브링리 지음 ;조현주 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+            "isbn13": "9788954695053",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+            "isbn13": "9788970128337",
+            "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000887789",
+        "title": "닥치는 대로 끌리는 대로 오직 재미있게 이동진 독서법",
+        "subtitle": "",
+        "page": "204 p.",
+        "book_size": "131*189mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788959135264",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788959135264",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법",
+      "subtitle": "",
+      "author": "이동진 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "예담출판사",
+      "publish_year": "2017",
+      "publish_predate": "20170615",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "204 p.",
+      "book_size": "131*189mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "팟캐스트 「이동진의 빨간책방」 진행자, 영화평론가 이동진이 말하는 내가 책을 읽는 방법, 책을 사랑하는 방법. 이 책에서는 ‘책을 어떻게 읽어야 할까’라는 질문을 ‘책을 어떻게 사랑할 수 있을까’로 바꾸어서 그에 대한 저자의 생각을 전한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/11061/76/cover/8959135267_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "이동진",
+          "weight": 18.0
+        },
+        {
+          "word": "이동진의 빨간책방",
+          "weight": 18.0
+        },
+        {
+          "word": "독서",
+          "weight": 12.0
+        },
+        {
+          "word": "사람",
+          "weight": 9.0
+        },
+        {
+          "word": "방법",
+          "weight": 7.0
+        },
+        {
+          "word": "씨네21",
+          "weight": 7.0
+        },
+        {
+          "word": "사랑",
+          "weight": 7.0
+        },
+        {
+          "word": "읽기",
+          "weight": 7.0
+        },
+        {
+          "word": "진행자",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "행복",
+          "weight": 6.0
+        },
+        {
+          "word": "대로",
+          "weight": 5.0
+        },
+        {
+          "word": "목록",
+          "weight": 4.0
+        },
+        {
+          "word": "독서가",
+          "weight": 4.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 4.0
+        },
+        {
+          "word": "영화평론가",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "대화",
+          "weight": 4.0
+        },
+        {
+          "word": "책읽기",
+          "weight": 4.0
+        },
+        {
+          "word": "우리가 사랑한 소설들",
+          "weight": 3.0
+        },
+        {
+          "word": "독서법",
+          "weight": 3.0
+        },
+        {
+          "word": "밤은 책이다",
+          "weight": 3.0
+        },
+        {
+          "word": "기자",
+          "weight": 3.0
+        },
+        {
+          "word": "길에서 어렴풋이 꿈을 꾸다",
+          "weight": 3.0
+        },
+        {
+          "word": "선택",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "필름 속을 걷다",
+          "weight": 3.0
+        },
+        {
+          "word": "고르",
+          "weight": 3.0
+        },
+        {
+          "word": "질문하는 책들",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "7천",
+          "weight": 3.0
+        },
+        {
+          "word": "푸른밤 이동진입니다",
+          "weight": 3.0
+        },
+        {
+          "word": "이다혜",
+          "weight": 3.0
+        },
+        {
+          "word": "이동진 김중혁의 영화당",
+          "weight": 3.0
+        },
+        {
+          "word": "책들",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "완독",
+          "weight": 3.0
+        },
+        {
+          "word": "영향력",
+          "weight": 2.0
+        },
+        {
+          "word": "실패",
+          "weight": 2.0
+        },
+        {
+          "word": "시절",
+          "weight": 2.0
+        },
+        {
+          "word": "넓이",
+          "weight": 2.0
+        },
+        {
+          "word": "위즈덤하우스",
+          "weight": 2.0
+        },
+        {
+          "word": "수천",
+          "weight": 2.0
+        },
+        {
+          "word": "김중혁",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "3부",
+          "weight": 2.0
+        },
+        {
+          "word": "사서",
+          "weight": 2.0
+        }
+      ],
+      "description": "팟캐스트 「이동진의 빨간책방」 진행자, 영화평론가 이동진이 말하는 내가 책을 읽는 방법, 책을 사랑하는 방법. 이 책에서는 ‘책을 어떻게 읽어야 할까’라는 질문을 ‘책을 어떻게 사랑할 수 있을까’로 바꾸어서 그에 대한 저자의 생각을 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "거인의 노트 :인생에서 무엇을 보고 어떻게 기록할 것인가 ",
+          "isbn13": "9791130697529",
+          "authors": "김익한 지음"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        }
+      ],
+      "title": "(닥치는 대로 끌리는 대로 오직 재미있게) 이동진 독서법",
+      "author": "이동진 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

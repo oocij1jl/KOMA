@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190786355",
+  "captured_at": "2026-10-02T00:16:08.512043+09:00",
+  "lookup": {
+    "isbn": "9791190786355",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190786355",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "(나를 숨 쉬게 하는) 보통의 언어들",
+      "subtitle": "양장본 Hardcover",
+      "author": "김이나 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "위즈덤하우스",
+      "publish_year": "2020",
+      "publish_predate": "20200527",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "268 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "대한민국 대표 작사가 김이나가 일상의 언어들에서 포착한 마음의 풍경. 김이나 작가가 그간 대중과 긴밀히 소통해온 경험을 살려 우리가 삶에서 맞부딪히는 복잡한 감정과 관계의 고민에 대한 해법을 일상의 단어 속에서 탐색한다.",
+      "control_no": "CIP2020016645",
+      "cover_url": "https://image.aladin.co.kr/product/24088/61/cover/k182639239_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 14.0
+        },
+        {
+          "word": "감정",
+          "weight": 11.0
+        },
+        {
+          "word": "언어",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 9.0
+        },
+        {
+          "word": "작사가",
+          "weight": 9.0
+        },
+        {
+          "word": "사랑",
+          "weight": 8.0
+        },
+        {
+          "word": "김이나의 작사법",
+          "weight": 6.0
+        },
+        {
+          "word": "보통의 언어들",
+          "weight": 6.0
+        },
+        {
+          "word": "단어",
+          "weight": 6.0
+        },
+        {
+          "word": "일상",
+          "weight": 5.0
+        },
+        {
+          "word": "특별",
+          "weight": 5.0
+        },
+        {
+          "word": "미움",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "대중",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "Part",
+          "weight": 4.0
+        },
+        {
+          "word": "비난",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "확장",
+          "weight": 3.0
+        },
+        {
+          "word": "라디오",
+          "weight": 3.0
+        },
+        {
+          "word": "쳇바퀴",
+          "weight": 3.0
+        },
+        {
+          "word": "긴밀",
+          "weight": 3.0
+        },
+        {
+          "word": "풍경",
+          "weight": 3.0
+        },
+        {
+          "word": "우린",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 3.0
+        },
+        {
+          "word": "위즈덤하우스",
+          "weight": 3.0
+        },
+        {
+          "word": "소통",
+          "weight": 3.0
+        },
+        {
+          "word": "보통의 우리들",
+          "weight": 3.0
+        },
+        {
+          "word": "어른",
+          "weight": 3.0
+        },
+        {
+          "word": "김이나",
+          "weight": 2.0
+        },
+        {
+          "word": "부정적",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "내포",
+          "weight": 2.0
+        },
+        {
+          "word": "노랫말",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "섬세",
+          "weight": 2.0
+        },
+        {
+          "word": "다정",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "불완전",
+          "weight": 2.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "속성",
+          "weight": 2.0
+        },
+        {
+          "word": "상대방",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "경험치",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        },
+        {
+          "word": "사이렌",
+          "weight": 2.0
+        },
+        {
+          "word": "박자",
+          "weight": 2.0
+        }
+      ],
+      "description": "대한민국 대표 작사가 김이나가 일상의 언어들에서 포착한 마음의 풍경. 김이나 작가가 그간 대중과 긴밀히 소통해온 경험을 살려 우리가 삶에서 맞부딪히는 복잡한 감정과 관계의 고민에 대한 해법을 일상의 단어 속에서 탐색한다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "애쓰지 않고 편안하게",
+          "isbn13": "9791130629636",
+          "authors": "김수현"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        }
+      ],
+      "title": "(나를 숨 쉬게 하는) 보통의 언어들",
+      "author": "김이나 지음",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(나를 숨 쉬게 하는) 보통의 언어들",
+        "author": "김이나 지음",
+        "publisher": "위즈덤하우스",
+        "publish_predate": "20200527",
+        "isbn": "9791190786355",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "267 p.",
+        "book_size": "128*188",
+        "form": "종이책",
+        "kdc": "818",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020016645",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(나를 숨 쉬게 하는) 보통의 언어들 ",
+        "author": "김이나 지음",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2020",
+        "isbn": "1190786354",
+        "isbn13": "9791190786355",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "818",
+        "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+        "description": "대한민국 대표 작사가 김이나가 일상의 언어들에서 포착한 마음의 풍경. 김이나 작가가 그간 대중과 긴밀히 소통해온 경험을 살려 우리가 삶에서 맞부딪히는 복잡한 감정과 관계의 고민에 대한 해법을 일상의 단어 속에서 탐색한다.",
+        "cover_url": "https://image.aladin.co.kr/product/24088/61/cover/k182639239_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사람",
+            "weight": 14.0
+          },
+          {
+            "word": "감정",
+            "weight": 11.0
+          },
+          {
+            "word": "언어",
+            "weight": 10.0
+          },
+          {
+            "word": "마음",
+            "weight": 9.0
+          },
+          {
+            "word": "작사가",
+            "weight": 9.0
+          },
+          {
+            "word": "사랑",
+            "weight": 8.0
+          },
+          {
+            "word": "김이나의 작사법",
+            "weight": 6.0
+          },
+          {
+            "word": "보통의 언어들",
+            "weight": 6.0
+          },
+          {
+            "word": "단어",
+            "weight": 6.0
+          },
+          {
+            "word": "일상",
+            "weight": 5.0
+          },
+          {
+            "word": "특별",
+            "weight": 5.0
+          },
+          {
+            "word": "미움",
+            "weight": 4.0
+          },
+          {
+            "word": "관계",
+            "weight": 4.0
+          },
+          {
+            "word": "대중",
+            "weight": 4.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "기억",
+            "weight": 4.0
+          },
+          {
+            "word": "Part",
+            "weight": 4.0
+          },
+          {
+            "word": "비난",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "확장",
+            "weight": 3.0
+          },
+          {
+            "word": "라디오",
+            "weight": 3.0
+          },
+          {
+            "word": "쳇바퀴",
+            "weight": 3.0
+          },
+          {
+            "word": "긴밀",
+            "weight": 3.0
+          },
+          {
+            "word": "풍경",
+            "weight": 3.0
+          },
+          {
+            "word": "우린",
+            "weight": 3.0
+          },
+          {
+            "word": "대한민국",
+            "weight": 3.0
+          },
+          {
+            "word": "위즈덤하우스",
+            "weight": 3.0
+          },
+          {
+            "word": "소통",
+            "weight": 3.0
+          },
+          {
+            "word": "보통의 우리들",
+            "weight": 3.0
+          },
+          {
+            "word": "어른",
+            "weight": 3.0
+          },
+          {
+            "word": "김이나",
+            "weight": 2.0
+          },
+          {
+            "word": "부정적",
+            "weight": 2.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "내포",
+            "weight": 2.0
+          },
+          {
+            "word": "노랫말",
+            "weight": 2.0
+          },
+          {
+            "word": "누구",
+            "weight": 2.0
+          },
+          {
+            "word": "섬세",
+            "weight": 2.0
+          },
+          {
+            "word": "다정",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "불완전",
+            "weight": 2.0
+          },
+          {
+            "word": "공감",
+            "weight": 2.0
+          },
+          {
+            "word": "속성",
+            "weight": 2.0
+          },
+          {
+            "word": "상대방",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "고민",
+            "weight": 2.0
+          },
+          {
+            "word": "경험치",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "소중",
+            "weight": 2.0
+          },
+          {
+            "word": "사이렌",
+            "weight": 2.0
+          },
+          {
+            "word": "박자",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "작별인사 :김영하 장편소설 ",
+            "isbn13": "9791191114225",
+            "authors": "지은이: 김영하"
+          },
+          {
+            "bookname": "애쓰지 않고 편안하게",
+            "isbn13": "9791130629636",
+            "authors": "김수현"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+            "isbn13": "9791191891287",
+            "authors": "글: 윤정은"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(나를 숨 쉬게 하는) 보통의 언어들"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001943769",
+        "title": "나를 숨 쉬게 하는 보통의 언어들",
+        "subtitle": "양장본 Hardcover",
+        "page": "268 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190786355",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190786355",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "(나를 숨 쉬게 하는) 보통의 언어들",
+      "subtitle": "양장본 Hardcover",
+      "author": "김이나 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "위즈덤하우스",
+      "publish_year": "2020",
+      "publish_predate": "20200527",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "268 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "대한민국 대표 작사가 김이나가 일상의 언어들에서 포착한 마음의 풍경. 김이나 작가가 그간 대중과 긴밀히 소통해온 경험을 살려 우리가 삶에서 맞부딪히는 복잡한 감정과 관계의 고민에 대한 해법을 일상의 단어 속에서 탐색한다.",
+      "control_no": "CIP2020016645",
+      "cover_url": "https://image.aladin.co.kr/product/24088/61/cover/k182639239_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 14.0
+        },
+        {
+          "word": "감정",
+          "weight": 11.0
+        },
+        {
+          "word": "언어",
+          "weight": 10.0
+        },
+        {
+          "word": "마음",
+          "weight": 9.0
+        },
+        {
+          "word": "작사가",
+          "weight": 9.0
+        },
+        {
+          "word": "사랑",
+          "weight": 8.0
+        },
+        {
+          "word": "김이나의 작사법",
+          "weight": 6.0
+        },
+        {
+          "word": "보통의 언어들",
+          "weight": 6.0
+        },
+        {
+          "word": "단어",
+          "weight": 6.0
+        },
+        {
+          "word": "일상",
+          "weight": 5.0
+        },
+        {
+          "word": "특별",
+          "weight": 5.0
+        },
+        {
+          "word": "미움",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "대중",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "Part",
+          "weight": 4.0
+        },
+        {
+          "word": "비난",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "확장",
+          "weight": 3.0
+        },
+        {
+          "word": "라디오",
+          "weight": 3.0
+        },
+        {
+          "word": "쳇바퀴",
+          "weight": 3.0
+        },
+        {
+          "word": "긴밀",
+          "weight": 3.0
+        },
+        {
+          "word": "풍경",
+          "weight": 3.0
+        },
+        {
+          "word": "우린",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 3.0
+        },
+        {
+          "word": "위즈덤하우스",
+          "weight": 3.0
+        },
+        {
+          "word": "소통",
+          "weight": 3.0
+        },
+        {
+          "word": "보통의 우리들",
+          "weight": 3.0
+        },
+        {
+          "word": "어른",
+          "weight": 3.0
+        },
+        {
+          "word": "김이나",
+          "weight": 2.0
+        },
+        {
+          "word": "부정적",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "내포",
+          "weight": 2.0
+        },
+        {
+          "word": "노랫말",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "섬세",
+          "weight": 2.0
+        },
+        {
+          "word": "다정",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "불완전",
+          "weight": 2.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "속성",
+          "weight": 2.0
+        },
+        {
+          "word": "상대방",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "경험치",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        },
+        {
+          "word": "사이렌",
+          "weight": 2.0
+        },
+        {
+          "word": "박자",
+          "weight": 2.0
+        }
+      ],
+      "description": "대한민국 대표 작사가 김이나가 일상의 언어들에서 포착한 마음의 풍경. 김이나 작가가 그간 대중과 긴밀히 소통해온 경험을 살려 우리가 삶에서 맞부딪히는 복잡한 감정과 관계의 고민에 대한 해법을 일상의 단어 속에서 탐색한다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "애쓰지 않고 편안하게",
+          "isbn13": "9791130629636",
+          "authors": "김수현"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        }
+      ],
+      "title": "(나를 숨 쉬게 하는) 보통의 언어들",
+      "author": "김이나 지음",
+      "kdc_from_api": "818",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791162730270",
+  "captured_at": "2026-10-03T00:11:29.702897+09:00",
+  "lookup": {
+    "isbn": "9791162730270",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162730270",
+      "isbn_add_code": "77900",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "용선생 처음 한국사",
+      "subtitle": "선사 시대~조선 전기",
+      "author": "글: 사회평론 역사연구소 ;그림: 뭉선행,윤효식",
+      "volume": "1권",
+      "pub_place": "",
+      "publisher": "사회평론",
+      "publish_year": "2019",
+      "publish_predate": "20190110",
+      "kdc": "911",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 아시아(아세아) > 한국",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "152 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등 한국사 베스트셀러 용선생 한국사 시리즈로 160만 독자를 사로잡은 용선생. 이번엔 용선생이 누구나 쉽고 가볍게 한국사를 시작할 수 있는 특별한 책을 만들었다. 역사를 처음 접하는 어린이가 부담 없도록 최적화된 두 권 분량에 우리 역사의 핵심적인 큰 줄기를 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17779/61/cover/k642534226_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "역사",
+          "weight": 8.0
+        },
+        {
+          "word": "한국사",
+          "weight": 6.0
+        },
+        {
+          "word": "조선",
+          "weight": 5.0
+        },
+        {
+          "word": "신라",
+          "weight": 5.0
+        },
+        {
+          "word": "용선생",
+          "weight": 5.0
+        },
+        {
+          "word": "나라",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "정리왕",
+          "weight": 4.0
+        },
+        {
+          "word": "고려",
+          "weight": 4.0
+        },
+        {
+          "word": "삼국",
+          "weight": 3.0
+        },
+        {
+          "word": "통일",
+          "weight": 3.0
+        },
+        {
+          "word": "발해",
+          "weight": 2.0
+        },
+        {
+          "word": "양반",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 2.0
+        },
+        {
+          "word": "사회평론",
+          "weight": 2.0
+        },
+        {
+          "word": "사회평론 역사연구소",
+          "weight": 2.0
+        },
+        {
+          "word": "초등 한국사",
+          "weight": 2.0
+        },
+        {
+          "word": "교류",
+          "weight": 2.0
+        },
+        {
+          "word": "윤효식",
+          "weight": 2.0
+        },
+        {
+          "word": "처음",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "흐름",
+          "weight": 1.0
+        },
+        {
+          "word": "잡고",
+          "weight": 1.0
+        },
+        {
+          "word": "실망",
+          "weight": 1.0
+        },
+        {
+          "word": "아주",
+          "weight": 1.0
+        },
+        {
+          "word": "이번",
+          "weight": 1.0
+        },
+        {
+          "word": "역사책",
+          "weight": 1.0
+        },
+        {
+          "word": "옛날",
+          "weight": 1.0
+        },
+        {
+          "word": "임진왜란",
+          "weight": 1.0
+        },
+        {
+          "word": "인간",
+          "weight": 1.0
+        },
+        {
+          "word": "용어",
+          "weight": 1.0
+        },
+        {
+          "word": "이성계",
+          "weight": 1.0
+        },
+        {
+          "word": "무리",
+          "weight": 1.0
+        },
+        {
+          "word": "고조선",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "광고",
+          "weight": 1.0
+        },
+        {
+          "word": "남쪽",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "누구",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        },
+        {
+          "word": "막막",
+          "weight": 1.0
+        },
+        {
+          "word": "막상",
+          "weight": 1.0
+        },
+        {
+          "word": "문화",
+          "weight": 1.0
+        },
+        {
+          "word": "발전",
+          "weight": 1.0
+        },
+        {
+          "word": "방법",
+          "weight": 1.0
+        },
+        {
+          "word": "백제",
+          "weight": 1.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 1.0
+        },
+        {
+          "word": "병자호란",
+          "weight": 1.0
+        },
+        {
+          "word": "북쪽",
+          "weight": 1.0
+        }
+      ],
+      "description": "초등 한국사 베스트셀러 용선생 한국사 시리즈로 160만 독자를 사로잡은 용선생. 이번엔 용선생이 누구나 쉽고 가볍게 한국사를 시작할 수 있는 특별한 책을 만들었다. 역사를 처음 접하는 어린이가 부담 없도록 최적화된 두 권 분량에 우리 역사의 핵심적인 큰 줄기를 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "용선생 처음 한국사 ",
+          "isbn13": "9791162730287",
+          "authors": "글: 사회평론 역사연구소 ;윤효식"
+        },
+        {
+          "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+          "isbn13": "9791162730522",
+          "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+        },
+        {
+          "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+          "isbn13": "9791162730539",
+          "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791195794799",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025809",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025861",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "용선생 만화 한국사: ",
+          "isbn13": "9788964359167",
+          "authors": "글: 정상민,주성윤"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025847",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        }
+      ],
+      "title": "용선생 처음 한국사",
+      "author": "글: 사회평론 역사연구소 ;그림: 뭉선행,윤효식",
+      "kdc_from_api": "911",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "용선생 처음 한국사",
+        "author": "글: 사회평론 역사연구소 ;그림: 뭉선행,윤효식",
+        "publisher": "사회평론",
+        "publish_predate": "20190110",
+        "isbn": "9791162730270",
+        "isbn_add_code": "77900",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1권",
+        "page": "151 p.",
+        "book_size": "188*257",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "용선생 처음 한국사 ",
+        "author": "글: 사회평론 역사연구소 ;윤효식",
+        "publisher": "사회평론",
+        "publish_year": "2019",
+        "isbn": "1162730277",
+        "isbn13": "9791162730270",
+        "isbn_add_code": "77900",
+        "volume": "1",
+        "class_no": "911",
+        "class_nm": "역사 > 아시아(아세아) > 한국",
+        "description": "초등 한국사 베스트셀러 용선생 한국사 시리즈로 160만 독자를 사로잡은 용선생. 이번엔 용선생이 누구나 쉽고 가볍게 한국사를 시작할 수 있는 특별한 책을 만들었다. 역사를 처음 접하는 어린이가 부담 없도록 최적화된 두 권 분량에 우리 역사의 핵심적인 큰 줄기를 담았다.",
+        "cover_url": "https://image.aladin.co.kr/product/17779/61/cover/k642534226_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "역사",
+            "weight": 8.0
+          },
+          {
+            "word": "한국사",
+            "weight": 6.0
+          },
+          {
+            "word": "조선",
+            "weight": 5.0
+          },
+          {
+            "word": "신라",
+            "weight": 5.0
+          },
+          {
+            "word": "용선생",
+            "weight": 5.0
+          },
+          {
+            "word": "나라",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "정리왕",
+            "weight": 4.0
+          },
+          {
+            "word": "고려",
+            "weight": 4.0
+          },
+          {
+            "word": "삼국",
+            "weight": 3.0
+          },
+          {
+            "word": "통일",
+            "weight": 3.0
+          },
+          {
+            "word": "발해",
+            "weight": 2.0
+          },
+          {
+            "word": "양반",
+            "weight": 2.0
+          },
+          {
+            "word": "과학 수학 사회",
+            "weight": 2.0
+          },
+          {
+            "word": "초등학생",
+            "weight": 2.0
+          },
+          {
+            "word": "사회평론",
+            "weight": 2.0
+          },
+          {
+            "word": "사회평론 역사연구소",
+            "weight": 2.0
+          },
+          {
+            "word": "초등 한국사",
+            "weight": 2.0
+          },
+          {
+            "word": "교류",
+            "weight": 2.0
+          },
+          {
+            "word": "윤효식",
+            "weight": 2.0
+          },
+          {
+            "word": "처음",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 1.0
+          },
+          {
+            "word": "흐름",
+            "weight": 1.0
+          },
+          {
+            "word": "잡고",
+            "weight": 1.0
+          },
+          {
+            "word": "실망",
+            "weight": 1.0
+          },
+          {
+            "word": "아주",
+            "weight": 1.0
+          },
+          {
+            "word": "이번",
+            "weight": 1.0
+          },
+          {
+            "word": "역사책",
+            "weight": 1.0
+          },
+          {
+            "word": "옛날",
+            "weight": 1.0
+          },
+          {
+            "word": "임진왜란",
+            "weight": 1.0
+          },
+          {
+            "word": "인간",
+            "weight": 1.0
+          },
+          {
+            "word": "용어",
+            "weight": 1.0
+          },
+          {
+            "word": "이성계",
+            "weight": 1.0
+          },
+          {
+            "word": "무리",
+            "weight": 1.0
+          },
+          {
+            "word": "고조선",
+            "weight": 1.0
+          },
+          {
+            "word": "공부",
+            "weight": 1.0
+          },
+          {
+            "word": "광고",
+            "weight": 1.0
+          },
+          {
+            "word": "남쪽",
+            "weight": 1.0
+          },
+          {
+            "word": "내용",
+            "weight": 1.0
+          },
+          {
+            "word": "누구",
+            "weight": 1.0
+          },
+          {
+            "word": "독자",
+            "weight": 1.0
+          },
+          {
+            "word": "막막",
+            "weight": 1.0
+          },
+          {
+            "word": "막상",
+            "weight": 1.0
+          },
+          {
+            "word": "문화",
+            "weight": 1.0
+          },
+          {
+            "word": "발전",
+            "weight": 1.0
+          },
+          {
+            "word": "방법",
+            "weight": 1.0
+          },
+          {
+            "word": "백제",
+            "weight": 1.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 1.0
+          },
+          {
+            "word": "병자호란",
+            "weight": 1.0
+          },
+          {
+            "word": "북쪽",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "용선생 처음 한국사 ",
+            "isbn13": "9791162730287",
+            "authors": "글: 사회평론 역사연구소 ;윤효식"
+          },
+          {
+            "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+            "isbn13": "9791162730522",
+            "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+          },
+          {
+            "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+            "isbn13": "9791162730539",
+            "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+          },
+          {
+            "bookname": "설민석의 한국사 대모험",
+            "isbn13": "9791195794799",
+            "authors": "글: 설민석,그림: 정현희"
+          },
+          {
+            "bookname": "설민석의 한국사 대모험",
+            "isbn13": "9791196025809",
+            "authors": "글: 설민석,그림: 정현희"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "설민석의 한국사 대모험",
+            "isbn13": "9791196025861",
+            "authors": "글: 설민석,그림: 정현희"
+          },
+          {
+            "bookname": "용선생 만화 한국사: ",
+            "isbn13": "9788964359167",
+            "authors": "글: 정상민,주성윤"
+          },
+          {
+            "bookname": "설민석의 한국사 대모험",
+            "isbn13": "9791196025847",
+            "authors": "글: 설민석,그림: 정현희"
+          },
+          {
+            "bookname": "똥볶이 할멈 :K-히어로 판타지",
+            "isbn13": "9791190409124",
+            "authors": "글: 강효미 ;그림: 김무연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "용선생 처음 한국사 1권"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001815211",
+        "title": "용선생 처음 한국사 1",
+        "subtitle": "선사 시대~조선 전기",
+        "page": "152 p.",
+        "book_size": "187*258mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791162730270",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162730270",
+      "isbn_add_code": "77900",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "용선생 처음 한국사",
+      "subtitle": "선사 시대~조선 전기",
+      "author": "글: 사회평론 역사연구소 ;그림: 뭉선행,윤효식",
+      "volume": "1권",
+      "pub_place": "",
+      "publisher": "사회평론",
+      "publish_year": "2019",
+      "publish_predate": "20190110",
+      "kdc": "911",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 아시아(아세아) > 한국",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "152 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등 한국사 베스트셀러 용선생 한국사 시리즈로 160만 독자를 사로잡은 용선생. 이번엔 용선생이 누구나 쉽고 가볍게 한국사를 시작할 수 있는 특별한 책을 만들었다. 역사를 처음 접하는 어린이가 부담 없도록 최적화된 두 권 분량에 우리 역사의 핵심적인 큰 줄기를 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17779/61/cover/k642534226_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "역사",
+          "weight": 8.0
+        },
+        {
+          "word": "한국사",
+          "weight": 6.0
+        },
+        {
+          "word": "조선",
+          "weight": 5.0
+        },
+        {
+          "word": "신라",
+          "weight": 5.0
+        },
+        {
+          "word": "용선생",
+          "weight": 5.0
+        },
+        {
+          "word": "나라",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "정리왕",
+          "weight": 4.0
+        },
+        {
+          "word": "고려",
+          "weight": 4.0
+        },
+        {
+          "word": "삼국",
+          "weight": 3.0
+        },
+        {
+          "word": "통일",
+          "weight": 3.0
+        },
+        {
+          "word": "발해",
+          "weight": 2.0
+        },
+        {
+          "word": "양반",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 수학 사회",
+          "weight": 2.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 2.0
+        },
+        {
+          "word": "사회평론",
+          "weight": 2.0
+        },
+        {
+          "word": "사회평론 역사연구소",
+          "weight": 2.0
+        },
+        {
+          "word": "초등 한국사",
+          "weight": 2.0
+        },
+        {
+          "word": "교류",
+          "weight": 2.0
+        },
+        {
+          "word": "윤효식",
+          "weight": 2.0
+        },
+        {
+          "word": "처음",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "흐름",
+          "weight": 1.0
+        },
+        {
+          "word": "잡고",
+          "weight": 1.0
+        },
+        {
+          "word": "실망",
+          "weight": 1.0
+        },
+        {
+          "word": "아주",
+          "weight": 1.0
+        },
+        {
+          "word": "이번",
+          "weight": 1.0
+        },
+        {
+          "word": "역사책",
+          "weight": 1.0
+        },
+        {
+          "word": "옛날",
+          "weight": 1.0
+        },
+        {
+          "word": "임진왜란",
+          "weight": 1.0
+        },
+        {
+          "word": "인간",
+          "weight": 1.0
+        },
+        {
+          "word": "용어",
+          "weight": 1.0
+        },
+        {
+          "word": "이성계",
+          "weight": 1.0
+        },
+        {
+          "word": "무리",
+          "weight": 1.0
+        },
+        {
+          "word": "고조선",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "광고",
+          "weight": 1.0
+        },
+        {
+          "word": "남쪽",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "누구",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        },
+        {
+          "word": "막막",
+          "weight": 1.0
+        },
+        {
+          "word": "막상",
+          "weight": 1.0
+        },
+        {
+          "word": "문화",
+          "weight": 1.0
+        },
+        {
+          "word": "발전",
+          "weight": 1.0
+        },
+        {
+          "word": "방법",
+          "weight": 1.0
+        },
+        {
+          "word": "백제",
+          "weight": 1.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 1.0
+        },
+        {
+          "word": "병자호란",
+          "weight": 1.0
+        },
+        {
+          "word": "북쪽",
+          "weight": 1.0
+        }
+      ],
+      "description": "초등 한국사 베스트셀러 용선생 한국사 시리즈로 160만 독자를 사로잡은 용선생. 이번엔 용선생이 누구나 쉽고 가볍게 한국사를 시작할 수 있는 특별한 책을 만들었다. 역사를 처음 접하는 어린이가 부담 없도록 최적화된 두 권 분량에 우리 역사의 핵심적인 큰 줄기를 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "용선생 처음 한국사 ",
+          "isbn13": "9791162730287",
+          "authors": "글: 사회평론 역사연구소 ;윤효식"
+        },
+        {
+          "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+          "isbn13": "9791162730522",
+          "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+        },
+        {
+          "bookname": "용선생 처음 세계사 :세계 역사 첫걸음 ",
+          "isbn13": "9791162730539",
+          "authors": "글: 사회평론 역사연구소,캐릭터: 이우일"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791195794799",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025809",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025861",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "용선생 만화 한국사: ",
+          "isbn13": "9788964359167",
+          "authors": "글: 정상민,주성윤"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791196025847",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        }
+      ],
+      "title": "용선생 처음 한국사",
+      "author": "글: 사회평론 역사연구소 ;그림: 뭉선행,윤효식",
+      "kdc_from_api": "911",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791193506516",
+  "captured_at": "2026-10-02T00:13:06.748554+09:00",
+  "lookup": {
+    "isbn": "9791193506516",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193506516",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17800",
+      "title": "(2500년 동안 사랑받은) 초역 부처의 말",
+      "subtitle": "행복으로 가는 길은 없다 행복이 곧 길이다",
+      "author": "코이케 류노스케 지음 ;박재현 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "포레스트북스 :콘텐츠그룹 포레스트",
+      "publish_year": "2024",
+      "publish_predate": "20240530",
+      "kdc": "224.2",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "130*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/33973/70/cover200/k682930444_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부처",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "말이",
+          "weight": 4.0
+        },
+        {
+          "word": "간결",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "재해석",
+          "weight": 3.0
+        },
+        {
+          "word": "아들러 심리학을 읽는 밤",
+          "weight": 3.0
+        },
+        {
+          "word": "현대어",
+          "weight": 3.0
+        },
+        {
+          "word": "2500년",
+          "weight": 3.0
+        },
+        {
+          "word": "니체의 말",
+          "weight": 3.0
+        },
+        {
+          "word": "류노스케",
+          "weight": 2.0
+        },
+        {
+          "word": "의도",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "동양",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "바람",
+          "weight": 2.0
+        },
+        {
+          "word": "박재현  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "방향",
+          "weight": 2.0
+        },
+        {
+          "word": "코이케",
+          "weight": 2.0
+        },
+        {
+          "word": "코이케 류노스케",
+          "weight": 2.0
+        },
+        {
+          "word": "해답",
+          "weight": 2.0
+        },
+        {
+          "word": "회자",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "핵심",
+          "weight": 2.0
+        },
+        {
+          "word": "철학자",
+          "weight": 2.0
+        },
+        {
+          "word": "철학",
+          "weight": 2.0
+        },
+        {
+          "word": "축약",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "용기",
+          "weight": 2.0
+        },
+        {
+          "word": "일어",
+          "weight": 2.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "단순",
+          "weight": 2.0
+        },
+        {
+          "word": "포레스트북스",
+          "weight": 2.0
+        },
+        {
+          "word": "스님",
+          "weight": 2.0
+        },
+        {
+          "word": "기획",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 1.0
+        },
+        {
+          "word": "생활",
+          "weight": 1.0
+        },
+        {
+          "word": "선한",
+          "weight": 1.0
+        },
+        {
+          "word": "2부",
+          "weight": 1.0
+        },
+        {
+          "word": "12부",
+          "weight": 1.0
+        },
+        {
+          "word": "독일",
+          "weight": 1.0
+        },
+        {
+          "word": "7부",
+          "weight": 1.0
+        },
+        {
+          "word": "8부",
+          "weight": 1.0
+        },
+        {
+          "word": "9부",
+          "weight": 1.0
+        },
+        {
+          "word": "리브스",
+          "weight": 1.0
+        },
+        {
+          "word": "동시",
+          "weight": 1.0
+        }
+      ],
+      "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "어른의 행복은 조용하다 ",
+          "isbn13": "9791169851053",
+          "authors": "글: 태수"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "단 한 번의 삶 ",
+          "isbn13": "9791191114768",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "isbn13": "9788936439743",
+          "authors": "지은이: 성해나"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "(2500년 동안 사랑받은) 초역 부처의 말",
+      "author": "코이케 류노스케 지음 ;박재현 옮김",
+      "kdc_from_api": "224.2",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(2500년 동안 사랑받은) 초역 부처의 말",
+        "author": "코이케 류노스케 지음 ;박재현 옮김",
+        "publisher": "포레스트북스 :콘텐츠그룹 포레스트",
+        "publish_predate": "20240530",
+        "isbn": "9791193506516",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "255 p.",
+        "book_size": "130*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+        "author": "코이케 류노스케 지음 ;박재현 옮김",
+        "publisher": "콘텐츠그룹 포레스트",
+        "publish_year": "2024",
+        "isbn": "1193506514",
+        "isbn13": "9791193506516",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "224.2",
+        "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+        "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+        "cover_url": "https://image.aladin.co.kr/product/33973/70/cover200/k682930444_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "부처",
+            "weight": 18.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "말이",
+            "weight": 4.0
+          },
+          {
+            "word": "간결",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "재해석",
+            "weight": 3.0
+          },
+          {
+            "word": "아들러 심리학을 읽는 밤",
+            "weight": 3.0
+          },
+          {
+            "word": "현대어",
+            "weight": 3.0
+          },
+          {
+            "word": "2500년",
+            "weight": 3.0
+          },
+          {
+            "word": "니체의 말",
+            "weight": 3.0
+          },
+          {
+            "word": "류노스케",
+            "weight": 2.0
+          },
+          {
+            "word": "의도",
+            "weight": 2.0
+          },
+          {
+            "word": "인생",
+            "weight": 2.0
+          },
+          {
+            "word": "동양",
+            "weight": 2.0
+          },
+          {
+            "word": "서문",
+            "weight": 2.0
+          },
+          {
+            "word": "메시지",
+            "weight": 2.0
+          },
+          {
+            "word": "바람",
+            "weight": 2.0
+          },
+          {
+            "word": "박재현  옮긴이",
+            "weight": 2.0
+          },
+          {
+            "word": "방향",
+            "weight": 2.0
+          },
+          {
+            "word": "코이케",
+            "weight": 2.0
+          },
+          {
+            "word": "코이케 류노스케",
+            "weight": 2.0
+          },
+          {
+            "word": "해답",
+            "weight": 2.0
+          },
+          {
+            "word": "회자",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "핵심",
+            "weight": 2.0
+          },
+          {
+            "word": "철학자",
+            "weight": 2.0
+          },
+          {
+            "word": "철학",
+            "weight": 2.0
+          },
+          {
+            "word": "축약",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "쇼펜하우어",
+            "weight": 2.0
+          },
+          {
+            "word": "용기",
+            "weight": 2.0
+          },
+          {
+            "word": "일어",
+            "weight": 2.0
+          },
+          {
+            "word": "교양 인문학",
+            "weight": 2.0
+          },
+          {
+            "word": "단순",
+            "weight": 2.0
+          },
+          {
+            "word": "포레스트북스",
+            "weight": 2.0
+          },
+          {
+            "word": "스님",
+            "weight": 2.0
+          },
+          {
+            "word": "기획",
+            "weight": 2.0
+          },
+          {
+            "word": "기분",
+            "weight": 2.0
+          },
+          {
+            "word": "선택",
+            "weight": 1.0
+          },
+          {
+            "word": "생활",
+            "weight": 1.0
+          },
+          {
+            "word": "선한",
+            "weight": 1.0
+          },
+          {
+            "word": "2부",
+            "weight": 1.0
+          },
+          {
+            "word": "12부",
+            "weight": 1.0
+          },
+          {
+            "word": "독일",
+            "weight": 1.0
+          },
+          {
+            "word": "7부",
+            "weight": 1.0
+          },
+          {
+            "word": "8부",
+            "weight": 1.0
+          },
+          {
+            "word": "9부",
+            "weight": 1.0
+          },
+          {
+            "word": "리브스",
+            "weight": 1.0
+          },
+          {
+            "word": "동시",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+            "isbn13": "9791192300818",
+            "authors": "강용수 지음"
+          },
+          {
+            "bookname": "어른의 행복은 조용하다 ",
+            "isbn13": "9791169851053",
+            "authors": "글: 태수"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "단 한 번의 삶 ",
+            "isbn13": "9791191114768",
+            "authors": "지은이: 김영하"
+          },
+          {
+            "bookname": "혼모노 :성해나 소설집 ",
+            "isbn13": "9788936439743",
+            "authors": "지은이: 성해나"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(2500년 동안 사랑받은) 초역 부처의 말 - 행복으로 가는 길은 없다 행복이 곧 길이다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000213310247",
+        "title": "2500년 동안 사랑받은 초역 부처의 말",
+        "subtitle": "",
+        "page": "256 p.",
+        "book_size": "130*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791193506516",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791193506516",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17800",
+      "title": "(2500년 동안 사랑받은) 초역 부처의 말",
+      "subtitle": "행복으로 가는 길은 없다 행복이 곧 길이다",
+      "author": "코이케 류노스케 지음 ;박재현 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "포레스트북스 :콘텐츠그룹 포레스트",
+      "publish_year": "2024",
+      "publish_predate": "20240530",
+      "kdc": "224.2",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "130*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/33973/70/cover200/k682930444_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부처",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "말이",
+          "weight": 4.0
+        },
+        {
+          "word": "간결",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "재해석",
+          "weight": 3.0
+        },
+        {
+          "word": "아들러 심리학을 읽는 밤",
+          "weight": 3.0
+        },
+        {
+          "word": "현대어",
+          "weight": 3.0
+        },
+        {
+          "word": "2500년",
+          "weight": 3.0
+        },
+        {
+          "word": "니체의 말",
+          "weight": 3.0
+        },
+        {
+          "word": "류노스케",
+          "weight": 2.0
+        },
+        {
+          "word": "의도",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "동양",
+          "weight": 2.0
+        },
+        {
+          "word": "서문",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "바람",
+          "weight": 2.0
+        },
+        {
+          "word": "박재현  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "방향",
+          "weight": 2.0
+        },
+        {
+          "word": "코이케",
+          "weight": 2.0
+        },
+        {
+          "word": "코이케 류노스케",
+          "weight": 2.0
+        },
+        {
+          "word": "해답",
+          "weight": 2.0
+        },
+        {
+          "word": "회자",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "핵심",
+          "weight": 2.0
+        },
+        {
+          "word": "철학자",
+          "weight": 2.0
+        },
+        {
+          "word": "철학",
+          "weight": 2.0
+        },
+        {
+          "word": "축약",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "쇼펜하우어",
+          "weight": 2.0
+        },
+        {
+          "word": "용기",
+          "weight": 2.0
+        },
+        {
+          "word": "일어",
+          "weight": 2.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 2.0
+        },
+        {
+          "word": "단순",
+          "weight": 2.0
+        },
+        {
+          "word": "포레스트북스",
+          "weight": 2.0
+        },
+        {
+          "word": "스님",
+          "weight": 2.0
+        },
+        {
+          "word": "기획",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 1.0
+        },
+        {
+          "word": "생활",
+          "weight": 1.0
+        },
+        {
+          "word": "선한",
+          "weight": 1.0
+        },
+        {
+          "word": "2부",
+          "weight": 1.0
+        },
+        {
+          "word": "12부",
+          "weight": 1.0
+        },
+        {
+          "word": "독일",
+          "weight": 1.0
+        },
+        {
+          "word": "7부",
+          "weight": 1.0
+        },
+        {
+          "word": "8부",
+          "weight": 1.0
+        },
+        {
+          "word": "9부",
+          "weight": 1.0
+        },
+        {
+          "word": "리브스",
+          "weight": 1.0
+        },
+        {
+          "word": "동시",
+          "weight": 1.0
+        }
+      ],
+      "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "어른의 행복은 조용하다 ",
+          "isbn13": "9791169851053",
+          "authors": "글: 태수"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "단 한 번의 삶 ",
+          "isbn13": "9791191114768",
+          "authors": "지은이: 김영하"
+        },
+        {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "isbn13": "9788936439743",
+          "authors": "지은이: 성해나"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "(2500년 동안 사랑받은) 초역 부처의 말",
+      "author": "코이케 류노스케 지음 ;박재현 옮김",
+      "kdc_from_api": "224.2",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

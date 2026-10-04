@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788964562222",
+  "captured_at": "2026-10-04T00:19:42.028253+09:00",
+  "lookup": {
+    "isbn": "9788964562222",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788964562222",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "사이코패스는 일상의 그늘에 숨어 지낸다 ",
+      "subtitle": "범죄심리학자 이수정과 프로파일러 김경옥의 프로파일링 노트",
+      "author": "이수정, 김경옥",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)중앙엠앤비(주)",
+      "publish_year": "2016",
+      "publish_predate": "20161109",
+      "kdc": "364.4",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 법학 > 형법",
+      "ddc": "364",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "340 p.",
+      "book_size": "151*201mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "‘비정상회담’에 출연해 화제가 되었으며 언론 매체의 단골 패널인 범죄심리학자 이수정 교수와 프로파일러 김경옥 박사가 공저했다. 지난 10년간 범죄심리학자, 프로파일러로서 직접 대면하여 조사한 실제 범죄자들의 심리를 관련 연구 자료 등을 토대로 세밀하게 분석해낸다.",
+      "control_no": "CIP2016026508",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "살인",
+          "weight": 15.0
+        },
+        {
+          "word": "범죄",
+          "weight": 15.0
+        },
+        {
+          "word": "심리",
+          "weight": 13.0
+        },
+        {
+          "word": "범죄자",
+          "weight": 12.0
+        },
+        {
+          "word": "묻지마",
+          "weight": 10.0
+        },
+        {
+          "word": "범죄심리학자",
+          "weight": 8.0
+        },
+        {
+          "word": "프로파일러",
+          "weight": 8.0
+        },
+        {
+          "word": "위원",
+          "weight": 8.0
+        },
+        {
+          "word": "게임",
+          "weight": 7.0
+        },
+        {
+          "word": "사이코패스",
+          "weight": 6.0
+        },
+        {
+          "word": "김경옥",
+          "weight": 6.0
+        },
+        {
+          "word": "프로파일링",
+          "weight": 6.0
+        },
+        {
+          "word": "이수정",
+          "weight": 6.0
+        },
+        {
+          "word": "사건",
+          "weight": 5.0
+        },
+        {
+          "word": "성격장애",
+          "weight": 5.0
+        },
+        {
+          "word": "혼자",
+          "weight": 4.0
+        },
+        {
+          "word": "시절",
+          "weight": 4.0
+        },
+        {
+          "word": "박사",
+          "weight": 4.0
+        },
+        {
+          "word": "연쇄살인사건",
+          "weight": 4.0
+        },
+        {
+          "word": "의붓아버지",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "경쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "소시오패스",
+          "weight": 4.0
+        },
+        {
+          "word": "환상",
+          "weight": 4.0
+        },
+        {
+          "word": "분석",
+          "weight": 4.0
+        },
+        {
+          "word": "저항",
+          "weight": 4.0
+        },
+        {
+          "word": "여성",
+          "weight": 4.0
+        },
+        {
+          "word": "자료",
+          "weight": 4.0
+        },
+        {
+          "word": "초등교사",
+          "weight": 4.0
+        },
+        {
+          "word": "자문",
+          "weight": 4.0
+        },
+        {
+          "word": "언론",
+          "weight": 3.0
+        },
+        {
+          "word": "경기",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "매체",
+          "weight": 3.0
+        },
+        {
+          "word": "살해",
+          "weight": 3.0
+        },
+        {
+          "word": "검사",
+          "weight": 3.0
+        },
+        {
+          "word": "유형",
+          "weight": 3.0
+        },
+        {
+          "word": "연쇄살인범",
+          "weight": 3.0
+        },
+        {
+          "word": "심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 3",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "살인자",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 2",
+          "weight": 3.0
+        },
+        {
+          "word": "대학교",
+          "weight": 3.0
+        },
+        {
+          "word": "수사",
+          "weight": 3.0
+        },
+        {
+          "word": "면담",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 4",
+          "weight": 3.0
+        },
+        {
+          "word": "분노",
+          "weight": 3.0
+        },
+        {
+          "word": "노트",
+          "weight": 3.0
+        }
+      ],
+      "description": "‘비정상회담’에 출연해 화제가 되었으며 언론 매체의 단골 패널인 범죄심리학자 이수정 교수와 프로파일러 김경옥 박사가 공저했다. 지난 10년간 범죄심리학자, 프로파일러로서 직접 대면하여 조사한 실제 범죄자들의 심리를 관련 연구 자료 등을 토대로 세밀하게 분석해낸다.",
+      "co_loan_books": [
+        {
+          "bookname": "악의 마음을 읽는 자들 :국내 최초 프로파일러의 연쇄살인 추적기 ",
+          "isbn13": "9791159922251",
+          "authors": "지은이: 권일용,고나무"
+        },
+        {
+          "bookname": "내가 살인자의 마음을 읽는 이유 :모두가 안전한 세상을 위한 권일용의 범죄심리 수업 ",
+          "isbn13": "9788950901912",
+          "authors": "권일용 지음"
+        },
+        {
+          "bookname": "이수정 이다혜의 범죄 영화 프로파일 ",
+          "isbn13": "9788937491306",
+          "authors": "이수정,조영주 지음"
+        },
+        {
+          "bookname": "(이수정·이은진의) 범죄심리 해부노트 :왜 어떤 성격장애는 범죄로 이어졌는가 ",
+          "isbn13": "9788934986911",
+          "authors": "이수정,이은진 지음"
+        },
+        {
+          "bookname": "연쇄살인범, 그들은 누구인가 - 대한민국 최고의 범죄학 박사 이윤호 교수의 연쇄살인범 53명의 프로파일링",
+          "isbn13": "9791185330457",
+          "authors": "이윤호 (지은이), 박진숙 (그림)"
+        },
+        {
+          "bookname": "오늘도 살인범을 만나러 갑니다 :국내 1호 여성 프로파일러가 들려주는 프로파일러의 세계 ",
+          "isbn13": "9791164711116",
+          "authors": "이진숙 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+          "isbn13": "9788956609959",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "(연쇄살인사건 프로파일러가 들려주는) 범죄 심리의 재구성 ",
+          "isbn13": "9791156332961",
+          "authors": "글: 고준채"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "사이코패스는 일상의 그늘에 숨어 지낸다 ",
+      "author": "이수정, 김경옥",
+      "kdc_from_api": "364.4",
+      "ddc_from_api": "364",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "사이코패스는 일상의 그늘에 숨어 지낸다 ",
+        "author": "이수정, 김경옥",
+        "publisher": "(도서출판)중앙엠앤비(주)",
+        "publish_predate": "20161109",
+        "isbn": "9788964562222",
+        "isbn_add_code": "03180",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "280",
+        "book_size": "",
+        "form": "",
+        "kdc": "364.4",
+        "ddc": "364",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016026508",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_5.jpg"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "사이코패스는 일상의 그늘에 숨어 지낸다 :범죄심리학자 이수정과 프로파일러 김경옥의 프로파일링 노트 ",
+        "author": "지은이: 이수정,김경옥",
+        "publisher": "제이콘텐트리 엠앤비",
+        "publish_year": "2016",
+        "isbn": "8964562224",
+        "isbn13": "9788964562222",
+        "isbn_add_code": "03180",
+        "volume": "",
+        "class_no": "364.45",
+        "class_nm": "사회과학 > 법학 > 형법",
+        "description": "‘비정상회담’에 출연해 화제가 되었으며 언론 매체의 단골 패널인 범죄심리학자 이수정 교수와 프로파일러 김경옥 박사가 공저했다. 지난 10년간 범죄심리학자, 프로파일러로서 직접 대면하여 조사한 실제 범죄자들의 심리를 관련 연구 자료 등을 토대로 세밀하게 분석해낸다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/112/967/11296737.jpg?type=m1&udate=20180619"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "살인",
+            "weight": 15.0
+          },
+          {
+            "word": "범죄",
+            "weight": 15.0
+          },
+          {
+            "word": "심리",
+            "weight": 13.0
+          },
+          {
+            "word": "범죄자",
+            "weight": 12.0
+          },
+          {
+            "word": "묻지마",
+            "weight": 10.0
+          },
+          {
+            "word": "범죄심리학자",
+            "weight": 8.0
+          },
+          {
+            "word": "프로파일러",
+            "weight": 8.0
+          },
+          {
+            "word": "위원",
+            "weight": 8.0
+          },
+          {
+            "word": "게임",
+            "weight": 7.0
+          },
+          {
+            "word": "사이코패스",
+            "weight": 6.0
+          },
+          {
+            "word": "김경옥",
+            "weight": 6.0
+          },
+          {
+            "word": "프로파일링",
+            "weight": 6.0
+          },
+          {
+            "word": "이수정",
+            "weight": 6.0
+          },
+          {
+            "word": "사건",
+            "weight": 5.0
+          },
+          {
+            "word": "성격장애",
+            "weight": 5.0
+          },
+          {
+            "word": "혼자",
+            "weight": 4.0
+          },
+          {
+            "word": "시절",
+            "weight": 4.0
+          },
+          {
+            "word": "박사",
+            "weight": 4.0
+          },
+          {
+            "word": "연쇄살인사건",
+            "weight": 4.0
+          },
+          {
+            "word": "의붓아버지",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "경쟁",
+            "weight": 4.0
+          },
+          {
+            "word": "소시오패스",
+            "weight": 4.0
+          },
+          {
+            "word": "환상",
+            "weight": 4.0
+          },
+          {
+            "word": "분석",
+            "weight": 4.0
+          },
+          {
+            "word": "저항",
+            "weight": 4.0
+          },
+          {
+            "word": "여성",
+            "weight": 4.0
+          },
+          {
+            "word": "자료",
+            "weight": 4.0
+          },
+          {
+            "word": "초등교사",
+            "weight": 4.0
+          },
+          {
+            "word": "자문",
+            "weight": 4.0
+          },
+          {
+            "word": "언론",
+            "weight": 3.0
+          },
+          {
+            "word": "경기",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "매체",
+            "weight": 3.0
+          },
+          {
+            "word": "살해",
+            "weight": 3.0
+          },
+          {
+            "word": "검사",
+            "weight": 3.0
+          },
+          {
+            "word": "유형",
+            "weight": 3.0
+          },
+          {
+            "word": "연쇄살인범",
+            "weight": 3.0
+          },
+          {
+            "word": "심리학",
+            "weight": 3.0
+          },
+          {
+            "word": "부록 3",
+            "weight": 3.0
+          },
+          {
+            "word": "연구",
+            "weight": 3.0
+          },
+          {
+            "word": "살인자",
+            "weight": 3.0
+          },
+          {
+            "word": "부록 2",
+            "weight": 3.0
+          },
+          {
+            "word": "대학교",
+            "weight": 3.0
+          },
+          {
+            "word": "수사",
+            "weight": 3.0
+          },
+          {
+            "word": "면담",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마",
+            "weight": 3.0
+          },
+          {
+            "word": "부록 4",
+            "weight": 3.0
+          },
+          {
+            "word": "분노",
+            "weight": 3.0
+          },
+          {
+            "word": "노트",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "악의 마음을 읽는 자들 :국내 최초 프로파일러의 연쇄살인 추적기 ",
+            "isbn13": "9791159922251",
+            "authors": "지은이: 권일용,고나무"
+          },
+          {
+            "bookname": "내가 살인자의 마음을 읽는 이유 :모두가 안전한 세상을 위한 권일용의 범죄심리 수업 ",
+            "isbn13": "9788950901912",
+            "authors": "권일용 지음"
+          },
+          {
+            "bookname": "이수정 이다혜의 범죄 영화 프로파일 ",
+            "isbn13": "9788937491306",
+            "authors": "이수정,조영주 지음"
+          },
+          {
+            "bookname": "(이수정·이은진의) 범죄심리 해부노트 :왜 어떤 성격장애는 범죄로 이어졌는가 ",
+            "isbn13": "9788934986911",
+            "authors": "이수정,이은진 지음"
+          },
+          {
+            "bookname": "연쇄살인범, 그들은 누구인가 - 대한민국 최고의 범죄학 박사 이윤호 교수의 연쇄살인범 53명의 프로파일링",
+            "isbn13": "9791185330457",
+            "authors": "이윤호 (지은이), 박진숙 (그림)"
+          },
+          {
+            "bookname": "오늘도 살인범을 만나러 갑니다 :국내 1호 여성 프로파일러가 들려주는 프로파일러의 세계 ",
+            "isbn13": "9791164711116",
+            "authors": "이진숙 지음"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+            "isbn13": "9788956609959",
+            "authors": "지은이: 정유정"
+          },
+          {
+            "bookname": "(연쇄살인사건 프로파일러가 들려주는) 범죄 심리의 재구성 ",
+            "isbn13": "9791156332961",
+            "authors": "글: 고준채"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "사이코패스는 일상의 그늘에 숨어 지낸다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001007779",
+        "title": "사이코패스는 일상의 그늘에 숨어 지낸다",
+        "subtitle": "범죄심리학자 이수정과 프로파일러 김경옥의 프로파일링 노트",
+        "page": "340 p.",
+        "book_size": "151*201mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788964562222",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788964562222",
+      "isbn_add_code": "03180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "사이코패스는 일상의 그늘에 숨어 지낸다 ",
+      "subtitle": "범죄심리학자 이수정과 프로파일러 김경옥의 프로파일링 노트",
+      "author": "이수정, 김경옥",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)중앙엠앤비(주)",
+      "publish_year": "2016",
+      "publish_predate": "20161109",
+      "kdc": "364.4",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 법학 > 형법",
+      "ddc": "364",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "340 p.",
+      "book_size": "151*201mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "‘비정상회담’에 출연해 화제가 되었으며 언론 매체의 단골 패널인 범죄심리학자 이수정 교수와 프로파일러 김경옥 박사가 공저했다. 지난 10년간 범죄심리학자, 프로파일러로서 직접 대면하여 조사한 실제 범죄자들의 심리를 관련 연구 자료 등을 토대로 세밀하게 분석해낸다.",
+      "control_no": "CIP2016026508",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5872989_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "살인",
+          "weight": 15.0
+        },
+        {
+          "word": "범죄",
+          "weight": 15.0
+        },
+        {
+          "word": "심리",
+          "weight": 13.0
+        },
+        {
+          "word": "범죄자",
+          "weight": 12.0
+        },
+        {
+          "word": "묻지마",
+          "weight": 10.0
+        },
+        {
+          "word": "범죄심리학자",
+          "weight": 8.0
+        },
+        {
+          "word": "프로파일러",
+          "weight": 8.0
+        },
+        {
+          "word": "위원",
+          "weight": 8.0
+        },
+        {
+          "word": "게임",
+          "weight": 7.0
+        },
+        {
+          "word": "사이코패스",
+          "weight": 6.0
+        },
+        {
+          "word": "김경옥",
+          "weight": 6.0
+        },
+        {
+          "word": "프로파일링",
+          "weight": 6.0
+        },
+        {
+          "word": "이수정",
+          "weight": 6.0
+        },
+        {
+          "word": "사건",
+          "weight": 5.0
+        },
+        {
+          "word": "성격장애",
+          "weight": 5.0
+        },
+        {
+          "word": "혼자",
+          "weight": 4.0
+        },
+        {
+          "word": "시절",
+          "weight": 4.0
+        },
+        {
+          "word": "박사",
+          "weight": 4.0
+        },
+        {
+          "word": "연쇄살인사건",
+          "weight": 4.0
+        },
+        {
+          "word": "의붓아버지",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "경쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "소시오패스",
+          "weight": 4.0
+        },
+        {
+          "word": "환상",
+          "weight": 4.0
+        },
+        {
+          "word": "분석",
+          "weight": 4.0
+        },
+        {
+          "word": "저항",
+          "weight": 4.0
+        },
+        {
+          "word": "여성",
+          "weight": 4.0
+        },
+        {
+          "word": "자료",
+          "weight": 4.0
+        },
+        {
+          "word": "초등교사",
+          "weight": 4.0
+        },
+        {
+          "word": "자문",
+          "weight": 4.0
+        },
+        {
+          "word": "언론",
+          "weight": 3.0
+        },
+        {
+          "word": "경기",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "매체",
+          "weight": 3.0
+        },
+        {
+          "word": "살해",
+          "weight": 3.0
+        },
+        {
+          "word": "검사",
+          "weight": 3.0
+        },
+        {
+          "word": "유형",
+          "weight": 3.0
+        },
+        {
+          "word": "연쇄살인범",
+          "weight": 3.0
+        },
+        {
+          "word": "심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 3",
+          "weight": 3.0
+        },
+        {
+          "word": "연구",
+          "weight": 3.0
+        },
+        {
+          "word": "살인자",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 2",
+          "weight": 3.0
+        },
+        {
+          "word": "대학교",
+          "weight": 3.0
+        },
+        {
+          "word": "수사",
+          "weight": 3.0
+        },
+        {
+          "word": "면담",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "부록 4",
+          "weight": 3.0
+        },
+        {
+          "word": "분노",
+          "weight": 3.0
+        },
+        {
+          "word": "노트",
+          "weight": 3.0
+        }
+      ],
+      "description": "‘비정상회담’에 출연해 화제가 되었으며 언론 매체의 단골 패널인 범죄심리학자 이수정 교수와 프로파일러 김경옥 박사가 공저했다. 지난 10년간 범죄심리학자, 프로파일러로서 직접 대면하여 조사한 실제 범죄자들의 심리를 관련 연구 자료 등을 토대로 세밀하게 분석해낸다.",
+      "co_loan_books": [
+        {
+          "bookname": "악의 마음을 읽는 자들 :국내 최초 프로파일러의 연쇄살인 추적기 ",
+          "isbn13": "9791159922251",
+          "authors": "지은이: 권일용,고나무"
+        },
+        {
+          "bookname": "내가 살인자의 마음을 읽는 이유 :모두가 안전한 세상을 위한 권일용의 범죄심리 수업 ",
+          "isbn13": "9788950901912",
+          "authors": "권일용 지음"
+        },
+        {
+          "bookname": "이수정 이다혜의 범죄 영화 프로파일 ",
+          "isbn13": "9788937491306",
+          "authors": "이수정,조영주 지음"
+        },
+        {
+          "bookname": "(이수정·이은진의) 범죄심리 해부노트 :왜 어떤 성격장애는 범죄로 이어졌는가 ",
+          "isbn13": "9788934986911",
+          "authors": "이수정,이은진 지음"
+        },
+        {
+          "bookname": "연쇄살인범, 그들은 누구인가 - 대한민국 최고의 범죄학 박사 이윤호 교수의 연쇄살인범 53명의 프로파일링",
+          "isbn13": "9791185330457",
+          "authors": "이윤호 (지은이), 박진숙 (그림)"
+        },
+        {
+          "bookname": "오늘도 살인범을 만나러 갑니다 :국내 1호 여성 프로파일러가 들려주는 프로파일러의 세계 ",
+          "isbn13": "9791164711116",
+          "authors": "이진숙 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+          "isbn13": "9788956609959",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "(연쇄살인사건 프로파일러가 들려주는) 범죄 심리의 재구성 ",
+          "isbn13": "9791156332961",
+          "authors": "글: 고준채"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "사이코패스는 일상의 그늘에 숨어 지낸다 ",
+      "author": "이수정, 김경옥",
+      "kdc_from_api": "364.4",
+      "ddc_from_api": "364",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

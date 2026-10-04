@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791186560396",
+  "captured_at": "2026-10-02T00:21:37.733445+09:00",
+  "lookup": {
+    "isbn": "9791186560396",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186560396",
+      "isbn_add_code": "73180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "미움받아도 괜찮아",
+      "subtitle": "어린이를 위한 용기의 심리학",
+      "author": "황재연 지음 ;김완진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)인플루엔셜",
+      "publish_year": "2017",
+      "publish_predate": "20170501",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "166 p.",
+      "book_size": "154*216mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "폭풍 같은 사회화 과정을 거치는 아이들에게 진정한 행복의 가치를 깨닫게 도와주는 안내서다. 사춘기에 접어든 초등학생 4학년 예서의 고민과 성장을 다양한 예화로 엮어 ‘용기의 심리학’이라 불리는 ‘아들러 심리학’을 아이들이 좀 더 쉽게 접할 수 있도록 구성되었다.",
+      "control_no": "CIP2017009152",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "예서",
+          "weight": 29.0
+        },
+        {
+          "word": "아이들",
+          "weight": 24.0
+        },
+        {
+          "word": "용기",
+          "weight": 21.0
+        },
+        {
+          "word": "심리학",
+          "weight": 17.0
+        },
+        {
+          "word": "미움받아도 괜찮아",
+          "weight": 15.0
+        },
+        {
+          "word": "미움받을 용기",
+          "weight": 12.0
+        },
+        {
+          "word": "아들러",
+          "weight": 11.0
+        },
+        {
+          "word": "엄마",
+          "weight": 10.0
+        },
+        {
+          "word": "할아버지",
+          "weight": 10.0
+        },
+        {
+          "word": "가치",
+          "weight": 9.0
+        },
+        {
+          "word": "과정",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "미움",
+          "weight": 6.0
+        },
+        {
+          "word": "부모",
+          "weight": 6.0
+        },
+        {
+          "word": "친구",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "여행",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "자기계발",
+          "weight": 4.0
+        },
+        {
+          "word": "형식",
+          "weight": 4.0
+        },
+        {
+          "word": "대화",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "사회",
+          "weight": 4.0
+        },
+        {
+          "word": "실험대",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "창작동화",
+          "weight": 3.0
+        },
+        {
+          "word": "예화",
+          "weight": 3.0
+        },
+        {
+          "word": "혼자",
+          "weight": 3.0
+        },
+        {
+          "word": "4학년",
+          "weight": 3.0
+        },
+        {
+          "word": "행복",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "윤대현",
+          "weight": 3.0
+        },
+        {
+          "word": "얼마",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "사실",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "의존",
+          "weight": 3.0
+        },
+        {
+          "word": "구성원",
+          "weight": 2.0
+        },
+        {
+          "word": "기회",
+          "weight": 2.0
+        },
+        {
+          "word": "감동",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "결합된",
+          "weight": 2.0
+        }
+      ],
+      "description": "폭풍 같은 사회화 과정을 거치는 아이들에게 진정한 행복의 가치를 깨닫게 도와주는 안내서다. 사춘기에 접어든 초등학생 4학년 예서의 고민과 성장을 다양한 예화로 엮어 ‘용기의 심리학’이라 불리는 ‘아들러 심리학’을 아이들이 좀 더 쉽게 접할 수 있도록 구성되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "(어린이를 위한) 그릿 ",
+          "isbn13": "9791186805978",
+          "authors": "전지은 글 ;이갑규 그림"
+        },
+        {
+          "bookname": "화 잘 내는 법 :참지 말고 울지 말고 똑똑하게 화내자 ",
+          "isbn13": "9788958076643",
+          "authors": "시노 마키,김신혜 옮김"
+        },
+        {
+          "bookname": "내 멋대로 나 뽑기 ",
+          "isbn13": "9788934993865",
+          "authors": "최은옥 글 ;김무연 그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "젓가락 달인 ",
+          "isbn13": "9788994475462",
+          "authors": "유타루 지음 ;김윤주 그림"
+        },
+        {
+          "bookname": "세금 내는 아이들 ",
+          "isbn13": "9788947547260",
+          "authors": "옥효진 글 ;김미연 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "미움받아도 괜찮아",
+      "author": "황재연 지음 ;김완진 그림",
+      "kdc_from_api": "189",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "미움받아도 괜찮아",
+        "author": "황재연",
+        "publisher": "(주)인플루엔셜",
+        "publish_predate": "20170501",
+        "isbn": "9791186560396",
+        "isbn_add_code": "73180",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "약 160페이지 내외",
+        "book_size": "",
+        "form": "",
+        "kdc": "189",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017009152",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "미움받아도 괜찮아 :어린이를 위한 용기의 심리학 ",
+        "author": "황재연 지음 ;김완진 그림",
+        "publisher": "인플루엔셜",
+        "publish_year": "2017",
+        "isbn": "1186560398",
+        "isbn13": "9791186560396",
+        "isbn_add_code": "73180",
+        "volume": "",
+        "class_no": "189",
+        "class_nm": "철학 > 심리학 > 응용심리학 일반",
+        "description": "폭풍 같은 사회화 과정을 거치는 아이들에게 진정한 행복의 가치를 깨닫게 도와주는 안내서다. 사춘기에 접어든 초등학생 4학년 예서의 고민과 성장을 다양한 예화로 엮어 ‘용기의 심리학’이라 불리는 ‘아들러 심리학’을 아이들이 좀 더 쉽게 접할 수 있도록 구성되었다.",
+        "cover_url": "http://image.aladin.co.kr/product/10823/20/cover/k422530550_4.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "예서",
+            "weight": 29.0
+          },
+          {
+            "word": "아이들",
+            "weight": 24.0
+          },
+          {
+            "word": "용기",
+            "weight": 21.0
+          },
+          {
+            "word": "심리학",
+            "weight": 17.0
+          },
+          {
+            "word": "미움받아도 괜찮아",
+            "weight": 15.0
+          },
+          {
+            "word": "미움받을 용기",
+            "weight": 12.0
+          },
+          {
+            "word": "아들러",
+            "weight": 11.0
+          },
+          {
+            "word": "엄마",
+            "weight": 10.0
+          },
+          {
+            "word": "할아버지",
+            "weight": 10.0
+          },
+          {
+            "word": "가치",
+            "weight": 9.0
+          },
+          {
+            "word": "과정",
+            "weight": 6.0
+          },
+          {
+            "word": "성장",
+            "weight": 6.0
+          },
+          {
+            "word": "미움",
+            "weight": 6.0
+          },
+          {
+            "word": "부모",
+            "weight": 6.0
+          },
+          {
+            "word": "친구",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "내용",
+            "weight": 4.0
+          },
+          {
+            "word": "여행",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "자기계발",
+            "weight": 4.0
+          },
+          {
+            "word": "형식",
+            "weight": 4.0
+          },
+          {
+            "word": "대화",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 4.0
+          },
+          {
+            "word": "사회",
+            "weight": 4.0
+          },
+          {
+            "word": "실험대",
+            "weight": 4.0
+          },
+          {
+            "word": "어른",
+            "weight": 4.0
+          },
+          {
+            "word": "인생",
+            "weight": 3.0
+          },
+          {
+            "word": "초등학생",
+            "weight": 3.0
+          },
+          {
+            "word": "주인",
+            "weight": 3.0
+          },
+          {
+            "word": "창작동화",
+            "weight": 3.0
+          },
+          {
+            "word": "예화",
+            "weight": 3.0
+          },
+          {
+            "word": "혼자",
+            "weight": 3.0
+          },
+          {
+            "word": "4학년",
+            "weight": 3.0
+          },
+          {
+            "word": "행복",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "윤대현",
+            "weight": 3.0
+          },
+          {
+            "word": "얼마",
+            "weight": 3.0
+          },
+          {
+            "word": "교수",
+            "weight": 3.0
+          },
+          {
+            "word": "고민",
+            "weight": 3.0
+          },
+          {
+            "word": "사실",
+            "weight": 3.0
+          },
+          {
+            "word": "어린이",
+            "weight": 3.0
+          },
+          {
+            "word": "자기",
+            "weight": 3.0
+          },
+          {
+            "word": "의존",
+            "weight": 3.0
+          },
+          {
+            "word": "구성원",
+            "weight": 2.0
+          },
+          {
+            "word": "기회",
+            "weight": 2.0
+          },
+          {
+            "word": "감동",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "결합된",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "(어린이를 위한) 그릿 ",
+            "isbn13": "9791186805978",
+            "authors": "전지은 글 ;이갑규 그림"
+          },
+          {
+            "bookname": "화 잘 내는 법 :참지 말고 울지 말고 똑똑하게 화내자 ",
+            "isbn13": "9788958076643",
+            "authors": "시노 마키,김신혜 옮김"
+          },
+          {
+            "bookname": "내 멋대로 나 뽑기 ",
+            "isbn13": "9788934993865",
+            "authors": "최은옥 글 ;김무연 그림"
+          },
+          {
+            "bookname": "5번 레인 ",
+            "isbn13": "9788954674638",
+            "authors": "은소홀 글 ;노인경 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "젓가락 달인 ",
+            "isbn13": "9788994475462",
+            "authors": "유타루 지음 ;김윤주 그림"
+          },
+          {
+            "bookname": "세금 내는 아이들 ",
+            "isbn13": "9788947547260",
+            "authors": "옥효진 글 ;김미연 그림"
+          },
+          {
+            "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+            "isbn13": "9788936442804",
+            "authors": "지은이: 이현 ;그린이: 오윤화"
+          },
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "미움받아도 괜찮아"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001887748",
+        "title": "미움받아도 괜찮아",
+        "subtitle": "어린이를 위한 용기의 심리학",
+        "page": "166 p.",
+        "book_size": "154*216mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791186560396",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186560396",
+      "isbn_add_code": "73180",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "미움받아도 괜찮아",
+      "subtitle": "어린이를 위한 용기의 심리학",
+      "author": "황재연 지음 ;김완진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)인플루엔셜",
+      "publish_year": "2017",
+      "publish_predate": "20170501",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "166 p.",
+      "book_size": "154*216mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "폭풍 같은 사회화 과정을 거치는 아이들에게 진정한 행복의 가치를 깨닫게 도와주는 안내서다. 사춘기에 접어든 초등학생 4학년 예서의 고민과 성장을 다양한 예화로 엮어 ‘용기의 심리학’이라 불리는 ‘아들러 심리학’을 아이들이 좀 더 쉽게 접할 수 있도록 구성되었다.",
+      "control_no": "CIP2017009152",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6198806_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "예서",
+          "weight": 29.0
+        },
+        {
+          "word": "아이들",
+          "weight": 24.0
+        },
+        {
+          "word": "용기",
+          "weight": 21.0
+        },
+        {
+          "word": "심리학",
+          "weight": 17.0
+        },
+        {
+          "word": "미움받아도 괜찮아",
+          "weight": 15.0
+        },
+        {
+          "word": "미움받을 용기",
+          "weight": 12.0
+        },
+        {
+          "word": "아들러",
+          "weight": 11.0
+        },
+        {
+          "word": "엄마",
+          "weight": 10.0
+        },
+        {
+          "word": "할아버지",
+          "weight": 10.0
+        },
+        {
+          "word": "가치",
+          "weight": 9.0
+        },
+        {
+          "word": "과정",
+          "weight": 6.0
+        },
+        {
+          "word": "성장",
+          "weight": 6.0
+        },
+        {
+          "word": "미움",
+          "weight": 6.0
+        },
+        {
+          "word": "부모",
+          "weight": 6.0
+        },
+        {
+          "word": "친구",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "여행",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "자기계발",
+          "weight": 4.0
+        },
+        {
+          "word": "형식",
+          "weight": 4.0
+        },
+        {
+          "word": "대화",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "사회",
+          "weight": 4.0
+        },
+        {
+          "word": "실험대",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "창작동화",
+          "weight": 3.0
+        },
+        {
+          "word": "예화",
+          "weight": 3.0
+        },
+        {
+          "word": "혼자",
+          "weight": 3.0
+        },
+        {
+          "word": "4학년",
+          "weight": 3.0
+        },
+        {
+          "word": "행복",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "윤대현",
+          "weight": 3.0
+        },
+        {
+          "word": "얼마",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "사실",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "의존",
+          "weight": 3.0
+        },
+        {
+          "word": "구성원",
+          "weight": 2.0
+        },
+        {
+          "word": "기회",
+          "weight": 2.0
+        },
+        {
+          "word": "감동",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "결합된",
+          "weight": 2.0
+        }
+      ],
+      "description": "폭풍 같은 사회화 과정을 거치는 아이들에게 진정한 행복의 가치를 깨닫게 도와주는 안내서다. 사춘기에 접어든 초등학생 4학년 예서의 고민과 성장을 다양한 예화로 엮어 ‘용기의 심리학’이라 불리는 ‘아들러 심리학’을 아이들이 좀 더 쉽게 접할 수 있도록 구성되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "(어린이를 위한) 그릿 ",
+          "isbn13": "9791186805978",
+          "authors": "전지은 글 ;이갑규 그림"
+        },
+        {
+          "bookname": "화 잘 내는 법 :참지 말고 울지 말고 똑똑하게 화내자 ",
+          "isbn13": "9788958076643",
+          "authors": "시노 마키,김신혜 옮김"
+        },
+        {
+          "bookname": "내 멋대로 나 뽑기 ",
+          "isbn13": "9788934993865",
+          "authors": "최은옥 글 ;김무연 그림"
+        },
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "젓가락 달인 ",
+          "isbn13": "9788994475462",
+          "authors": "유타루 지음 ;김윤주 그림"
+        },
+        {
+          "bookname": "세금 내는 아이들 ",
+          "isbn13": "9788947547260",
+          "authors": "옥효진 글 ;김미연 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "미움받아도 괜찮아",
+      "author": "황재연 지음 ;김완진 그림",
+      "kdc_from_api": "189",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "isbn": "9788964809013",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9788964809013"
+          },
+          {
+            "code": "g",
+            "value": "74800"
+          },
+          {
+            "code": "c",
+            "value": "₩9800"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9788964808498"
+          },
+          {
+            "code": "g",
+            "value": "74800"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "세트 ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "톰 소여의 모험"
+          },
+          {
+            "code": "b",
+            "value": "양장본 Hardcover"
+          },
+          {
+            "code": "d",
+            "value": "원작: 마크 트웨인"
+          },
+          {
+            "code": "e",
+            "value": "글: 제로니모 스틸턴"
+          },
+          {
+            "code": "e",
+            "value": "옮김: 이현경"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "이퍼블릭"
+          },
+          {
+            "code": "c",
+            "value": "2012"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "220 p."
+          },
+          {
+            "code": "c",
+            "value": "19 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '142*186mm'"
+      },
+      {
+        "tag": "490",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "제로니모의 환상 모험 클래식"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.series_title 전사. 총서 부출(830)은 전거 확인 전까지 생성하지 않음"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "843"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "마크 트웨인"
+          },
+          {
+            "code": "e",
+            "value": "원작"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "author에 원작자로 명시된 개인명을 분리하여 700 부출표목으로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "제로니모 스틸턴"
+          },
+          {
+            "code": "e",
+            "value": "글"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "author에 글쓴이로 명시된 개인명을 분리하여 700 부출표목으로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "이현경"
+          },
+          {
+            "code": "e",
+            "value": "옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "author에 옮긴이로 명시된 개인명을 분리하여 700 부출표목으로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "모험"
+          },
+          {
+            "code": "a",
+            "value": "어린이"
+          },
+          {
+            "code": "a",
+            "value": "세계문학"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description",
+            "co_loan_books"
+          ],
+          "keywords_used": [
+            "톰 소여의 모험",
+            "제로니모의 환상 모험 클래식",
+            "모험",
+            "어린이",
+            "세계문학"
+          ],
+          "reasoning": "상위 키워드 중 서명과 동일한 값은 제외하지 않고 주제어로 적합한 항목을 최소 정제하여 653으로 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "041",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "kor"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "translation_signals",
+            "description",
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "옮김 표현과 번역 정황이 확인되어 본문언어 kor를 041 a로 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "546",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "번역서"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "translation_signals",
+            "description"
+          ],
+          "keywords_used": [],
+          "reasoning": "옮김 표현과 번역 정황이 확인되어 언어주기로 번역서임을 기술"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "영미문학"
+          },
+          {
+            "code": "a",
+            "value": "아동문학"
+          },
+          {
+            "code": "a",
+            "value": "영미동화"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 843, ISBN 부가기호 74800에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 검수 필요",
+      "500과 546은 번역 정황을 각각 일반주기와 언어주기로 기술하였으나 사서 검수 필요",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-04T00:15:11.551316+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

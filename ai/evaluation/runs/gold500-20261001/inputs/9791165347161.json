@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791165347161",
+  "captured_at": "2026-10-03T00:10:28.477589+09:00",
+  "lookup": {
+    "isbn": "9791165347161",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791165347161",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "나의 돈 많은 고등학교 친구",
+      "subtitle": "슈퍼리치와의 대화에서 찾아낸 부자의 길",
+      "author": "송희구 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "서삼독",
+      "publish_year": "2023",
+      "publish_predate": "20230428",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "30만 베스트셀러 《서울 자가에 대기업 다니는 김 부장 이야기》 시리즈의 송희구 저자가 2년 만에 세상에 내놓은 신작. 전작과 같이 소설 형태를 빌려와 독자들에게 돈과 인생, 부와 행복에 대한 메시지를 전한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/31515/53/cover/k842832539_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부자",
+          "weight": 12.0
+        },
+        {
+          "word": "영철",
+          "weight": 7.0
+        },
+        {
+          "word": "광수",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 5.0
+        },
+        {
+          "word": "송희구",
+          "weight": 5.0
+        },
+        {
+          "word": "레버리지",
+          "weight": 4.0
+        },
+        {
+          "word": "2년",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "나의 돈 많은 고등학교 친구",
+          "weight": 3.0
+        },
+        {
+          "word": "부자 아빠 가난한 아빠",
+          "weight": 3.0
+        },
+        {
+          "word": "고등학교",
+          "weight": 3.0
+        },
+        {
+          "word": "드라마",
+          "weight": 3.0
+        },
+        {
+          "word": "신작",
+          "weight": 3.0
+        },
+        {
+          "word": "프리미엄",
+          "weight": 3.0
+        },
+        {
+          "word": "세이노의 가르침",
+          "weight": 3.0
+        },
+        {
+          "word": "부장",
+          "weight": 3.0
+        },
+        {
+          "word": "서삼독",
+          "weight": 2.0
+        },
+        {
+          "word": "신사옥",
+          "weight": 2.0
+        },
+        {
+          "word": "성공",
+          "weight": 2.0
+        },
+        {
+          "word": "도전",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "롯데월드",
+          "weight": 2.0
+        },
+        {
+          "word": "마련",
+          "weight": 2.0
+        },
+        {
+          "word": "마법",
+          "weight": 2.0
+        },
+        {
+          "word": "마인드",
+          "weight": 2.0
+        },
+        {
+          "word": "평범",
+          "weight": 2.0
+        },
+        {
+          "word": "사면",
+          "weight": 2.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "영현",
+          "weight": 2.0
+        },
+        {
+          "word": "올해",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "주의보",
+          "weight": 2.0
+        },
+        {
+          "word": "폭죽놀이",
+          "weight": 2.0
+        },
+        {
+          "word": "화제",
+          "weight": 2.0
+        },
+        {
+          "word": "가자",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "여전",
+          "weight": 2.0
+        },
+        {
+          "word": "과장",
+          "weight": 2.0
+        },
+        {
+          "word": "광현",
+          "weight": 2.0
+        },
+        {
+          "word": "티켓",
+          "weight": 2.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "현실",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 1.0
+        }
+      ],
+      "description": "30만 베스트셀러 《서울 자가에 대기업 다니는 김 부장 이야기》 시리즈의 송희구 저자가 2년 만에 세상에 내놓은 신작. 전작과 같이 소설 형태를 빌려와 독자들에게 돈과 인생, 부와 행복에 대한 메시지를 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165343996",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165344221",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165344009",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "나의 돈 많은 고등학교 친구",
+      "author": "송희구 지음",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "나의 돈 많은 고등학교 친구",
+        "author": "송희구 지음",
+        "publisher": "서삼독",
+        "publish_predate": "20230428",
+        "isbn": "9791165347161",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "365 p.",
+        "book_size": "128*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+        "author": "송희구 지음",
+        "publisher": "서삼독",
+        "publish_year": "2023",
+        "isbn": "1165347164",
+        "isbn13": "9791165347161",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "325.211",
+        "class_nm": "사회과학 > 경제학 > 경영관리",
+        "description": "30만 베스트셀러 《서울 자가에 대기업 다니는 김 부장 이야기》 시리즈의 송희구 저자가 2년 만에 세상에 내놓은 신작. 전작과 같이 소설 형태를 빌려와 독자들에게 돈과 인생, 부와 행복에 대한 메시지를 전한다.",
+        "cover_url": "https://image.aladin.co.kr/product/31515/53/cover/k842832539_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "부자",
+            "weight": 12.0
+          },
+          {
+            "word": "영철",
+            "weight": 7.0
+          },
+          {
+            "word": "광수",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "독자",
+            "weight": 5.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 5.0
+          },
+          {
+            "word": "송희구",
+            "weight": 5.0
+          },
+          {
+            "word": "레버리지",
+            "weight": 4.0
+          },
+          {
+            "word": "2년",
+            "weight": 4.0
+          },
+          {
+            "word": "아빠",
+            "weight": 4.0
+          },
+          {
+            "word": "친구",
+            "weight": 4.0
+          },
+          {
+            "word": "나의 돈 많은 고등학교 친구",
+            "weight": 3.0
+          },
+          {
+            "word": "부자 아빠 가난한 아빠",
+            "weight": 3.0
+          },
+          {
+            "word": "고등학교",
+            "weight": 3.0
+          },
+          {
+            "word": "드라마",
+            "weight": 3.0
+          },
+          {
+            "word": "신작",
+            "weight": 3.0
+          },
+          {
+            "word": "프리미엄",
+            "weight": 3.0
+          },
+          {
+            "word": "세이노의 가르침",
+            "weight": 3.0
+          },
+          {
+            "word": "부장",
+            "weight": 3.0
+          },
+          {
+            "word": "서삼독",
+            "weight": 2.0
+          },
+          {
+            "word": "신사옥",
+            "weight": 2.0
+          },
+          {
+            "word": "성공",
+            "weight": 2.0
+          },
+          {
+            "word": "도전",
+            "weight": 2.0
+          },
+          {
+            "word": "독일",
+            "weight": 2.0
+          },
+          {
+            "word": "메시지",
+            "weight": 2.0
+          },
+          {
+            "word": "롯데월드",
+            "weight": 2.0
+          },
+          {
+            "word": "마련",
+            "weight": 2.0
+          },
+          {
+            "word": "마법",
+            "weight": 2.0
+          },
+          {
+            "word": "마인드",
+            "weight": 2.0
+          },
+          {
+            "word": "평범",
+            "weight": 2.0
+          },
+          {
+            "word": "사면",
+            "weight": 2.0
+          },
+          {
+            "word": "프로젝트",
+            "weight": 2.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 2.0
+          },
+          {
+            "word": "영현",
+            "weight": 2.0
+          },
+          {
+            "word": "올해",
+            "weight": 2.0
+          },
+          {
+            "word": "성공학",
+            "weight": 2.0
+          },
+          {
+            "word": "주의보",
+            "weight": 2.0
+          },
+          {
+            "word": "폭죽놀이",
+            "weight": 2.0
+          },
+          {
+            "word": "화제",
+            "weight": 2.0
+          },
+          {
+            "word": "가자",
+            "weight": 2.0
+          },
+          {
+            "word": "상상",
+            "weight": 2.0
+          },
+          {
+            "word": "수업",
+            "weight": 2.0
+          },
+          {
+            "word": "여전",
+            "weight": 2.0
+          },
+          {
+            "word": "과장",
+            "weight": 2.0
+          },
+          {
+            "word": "광현",
+            "weight": 2.0
+          },
+          {
+            "word": "티켓",
+            "weight": 2.0
+          },
+          {
+            "word": "2021년",
+            "weight": 2.0
+          },
+          {
+            "word": "그림",
+            "weight": 2.0
+          },
+          {
+            "word": "현실",
+            "weight": 2.0
+          },
+          {
+            "word": "나이",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+            "isbn13": "9791165343996",
+            "authors": "송희구 지음"
+          },
+          {
+            "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+            "isbn13": "9791165344221",
+            "authors": "송희구 지음"
+          },
+          {
+            "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+            "isbn13": "9791165344009",
+            "authors": "송희구 지음"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "나의 돈 많은 고등학교 친구 - 슈퍼리치와의 대화에서 찾아낸 부자의 길"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000201505783",
+        "title": "나의 돈 많은 고등학교 친구",
+        "subtitle": "슈퍼리치와의 대화에서 찾아낸 부자의 길",
+        "page": "368 p.",
+        "book_size": "136*196mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791165347161",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791165347161",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "나의 돈 많은 고등학교 친구",
+      "subtitle": "슈퍼리치와의 대화에서 찾아낸 부자의 길",
+      "author": "송희구 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "서삼독",
+      "publish_year": "2023",
+      "publish_predate": "20230428",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "30만 베스트셀러 《서울 자가에 대기업 다니는 김 부장 이야기》 시리즈의 송희구 저자가 2년 만에 세상에 내놓은 신작. 전작과 같이 소설 형태를 빌려와 독자들에게 돈과 인생, 부와 행복에 대한 메시지를 전한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/31515/53/cover/k842832539_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부자",
+          "weight": 12.0
+        },
+        {
+          "word": "영철",
+          "weight": 7.0
+        },
+        {
+          "word": "광수",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 5.0
+        },
+        {
+          "word": "송희구",
+          "weight": 5.0
+        },
+        {
+          "word": "레버리지",
+          "weight": 4.0
+        },
+        {
+          "word": "2년",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "나의 돈 많은 고등학교 친구",
+          "weight": 3.0
+        },
+        {
+          "word": "부자 아빠 가난한 아빠",
+          "weight": 3.0
+        },
+        {
+          "word": "고등학교",
+          "weight": 3.0
+        },
+        {
+          "word": "드라마",
+          "weight": 3.0
+        },
+        {
+          "word": "신작",
+          "weight": 3.0
+        },
+        {
+          "word": "프리미엄",
+          "weight": 3.0
+        },
+        {
+          "word": "세이노의 가르침",
+          "weight": 3.0
+        },
+        {
+          "word": "부장",
+          "weight": 3.0
+        },
+        {
+          "word": "서삼독",
+          "weight": 2.0
+        },
+        {
+          "word": "신사옥",
+          "weight": 2.0
+        },
+        {
+          "word": "성공",
+          "weight": 2.0
+        },
+        {
+          "word": "도전",
+          "weight": 2.0
+        },
+        {
+          "word": "독일",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "롯데월드",
+          "weight": 2.0
+        },
+        {
+          "word": "마련",
+          "weight": 2.0
+        },
+        {
+          "word": "마법",
+          "weight": 2.0
+        },
+        {
+          "word": "마인드",
+          "weight": 2.0
+        },
+        {
+          "word": "평범",
+          "weight": 2.0
+        },
+        {
+          "word": "사면",
+          "weight": 2.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "영현",
+          "weight": 2.0
+        },
+        {
+          "word": "올해",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "주의보",
+          "weight": 2.0
+        },
+        {
+          "word": "폭죽놀이",
+          "weight": 2.0
+        },
+        {
+          "word": "화제",
+          "weight": 2.0
+        },
+        {
+          "word": "가자",
+          "weight": 2.0
+        },
+        {
+          "word": "상상",
+          "weight": 2.0
+        },
+        {
+          "word": "수업",
+          "weight": 2.0
+        },
+        {
+          "word": "여전",
+          "weight": 2.0
+        },
+        {
+          "word": "과장",
+          "weight": 2.0
+        },
+        {
+          "word": "광현",
+          "weight": 2.0
+        },
+        {
+          "word": "티켓",
+          "weight": 2.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "현실",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 1.0
+        }
+      ],
+      "description": "30만 베스트셀러 《서울 자가에 대기업 다니는 김 부장 이야기》 시리즈의 송희구 저자가 2년 만에 세상에 내놓은 신작. 전작과 같이 소설 형태를 빌려와 독자들에게 돈과 인생, 부와 행복에 대한 메시지를 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165343996",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165344221",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "(서울 자가에 대기업 다니는) 김 부장 이야기 ",
+          "isbn13": "9791165344009",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "나의 돈 많은 고등학교 친구",
+      "author": "송희구 지음",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

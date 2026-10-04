@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788937488351",
+  "captured_at": "2026-10-05T00:10:27.364517+09:00",
+  "lookup": {
+    "isbn": "9788937488351",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937488351",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩20000",
+      "title": "강신주의 감정수업",
+      "subtitle": "스피노자와 함께 배우는 인간의 48가지 얼굴",
+      "author": "강신주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)민음사",
+      "publish_year": "2013",
+      "publish_predate": "20131120",
+      "kdc": "181.7",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "152.4",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "528 p.",
+      "book_size": "143*215mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "철학자 강신주가 읽어주는 욕망의 인문학. 17세기 철학자 스피노자와 그의 저서 &lt;에티카&gt;는 철학사에서 많은 논란과 동시에 흠모의 대상이다. 강신주 박사는 스피노자가 정의한 48가지 감정을 우리의 현실에 비추어 하나하나 세심하게 설명해 준다.",
+      "control_no": "CIP2013020186",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "감정",
+          "weight": 125.0
+        },
+        {
+          "word": "사랑",
+          "weight": 72.0
+        },
+        {
+          "word": "자신",
+          "weight": 36.0
+        },
+        {
+          "word": "철학자",
+          "weight": 31.0
+        },
+        {
+          "word": "사람",
+          "weight": 29.0
+        },
+        {
+          "word": "스피노자",
+          "weight": 26.0
+        },
+        {
+          "word": "욕망",
+          "weight": 21.0
+        },
+        {
+          "word": "질투",
+          "weight": 19.0
+        },
+        {
+          "word": "이성",
+          "weight": 18.0
+        },
+        {
+          "word": "인간",
+          "weight": 14.0
+        },
+        {
+          "word": "에티카",
+          "weight": 13.0
+        },
+        {
+          "word": "강신주",
+          "weight": 13.0
+        },
+        {
+          "word": "설명",
+          "weight": 10.0
+        },
+        {
+          "word": "수도",
+          "weight": 10.0
+        },
+        {
+          "word": "1984",
+          "weight": 9.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "강신주의 감정수업",
+          "weight": 9.0
+        },
+        {
+          "word": "독자",
+          "weight": 9.0
+        },
+        {
+          "word": "이유",
+          "weight": 9.0
+        },
+        {
+          "word": "주인",
+          "weight": 9.0
+        },
+        {
+          "word": "야심",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 8.0
+        },
+        {
+          "word": "확신",
+          "weight": 8.0
+        },
+        {
+          "word": "소중",
+          "weight": 8.0
+        },
+        {
+          "word": "현실",
+          "weight": 8.0
+        },
+        {
+          "word": "경험",
+          "weight": 7.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 7.0
+        },
+        {
+          "word": "무무",
+          "weight": 7.0
+        },
+        {
+          "word": "비극",
+          "weight": 7.0
+        },
+        {
+          "word": "대담",
+          "weight": 7.0
+        },
+        {
+          "word": "연인",
+          "weight": 7.0
+        },
+        {
+          "word": "사회",
+          "weight": 6.0
+        },
+        {
+          "word": "에필로그",
+          "weight": 6.0
+        },
+        {
+          "word": "여인의 초상",
+          "weight": 6.0
+        },
+        {
+          "word": "48가지",
+          "weight": 6.0
+        },
+        {
+          "word": "수치심",
+          "weight": 6.0
+        },
+        {
+          "word": "위대한 개츠비",
+          "weight": 6.0
+        },
+        {
+          "word": "어드바이스",
+          "weight": 6.0
+        },
+        {
+          "word": "레 미제라블",
+          "weight": 6.0
+        },
+        {
+          "word": "공동체",
+          "weight": 6.0
+        },
+        {
+          "word": "정체성",
+          "weight": 6.0
+        },
+        {
+          "word": "문학",
+          "weight": 6.0
+        },
+        {
+          "word": "박사",
+          "weight": 6.0
+        },
+        {
+          "word": "윤리학",
+          "weight": 6.0
+        },
+        {
+          "word": "발생",
+          "weight": 6.0
+        },
+        {
+          "word": "경멸",
+          "weight": 6.0
+        },
+        {
+          "word": "레베카",
+          "weight": 6.0
+        },
+        {
+          "word": "의심",
+          "weight": 6.0
+        },
+        {
+          "word": "위대한 유산",
+          "weight": 6.0
+        },
+        {
+          "word": "벨아미",
+          "weight": 6.0
+        }
+      ],
+      "description": "철학자 강신주가 읽어주는 욕망의 인문학. 17세기 철학자 스피노자와 그의 저서 &lt;에티카&gt;는 철학사에서 많은 논란과 동시에 흠모의 대상이다. 강신주 박사는 스피노자가 정의한 48가지 감정을 우리의 현실에 비추어 하나하나 세심하게 설명해 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "강신주의 장자수업 :밑쳐진 삶을 위한 찬가",
+          "isbn13": "9788954799454",
+          "authors": "강신주 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "바람이 분다, 살아야겠다 :철학자 강신주 생각과 말들 ",
+          "isbn13": "9788954763783",
+          "authors": "지은이: 강신주,지승호"
+        },
+        {
+          "bookname": "철학이 필요한 시간 :강신주의 인문학 카운슬링 ",
+          "isbn13": "9788958285342",
+          "authors": "강신주 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        }
+      ],
+      "title": "강신주의 감정수업",
+      "author": "강신주",
+      "kdc_from_api": "181.7",
+      "ddc_from_api": "152.4",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "강신주의 감정수업",
+        "author": "강신주",
+        "publisher": "(주)민음사",
+        "publish_predate": "20131120",
+        "isbn": "9788937488351",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩20000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "181.7",
+        "ddc": "152.4",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2013020186",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(강신주의) 감정수업 :스피노자와 함께 배우는 인간의 48가지 얼굴 ",
+        "author": "지은이: 강신주",
+        "publisher": "민음사",
+        "publish_year": "2013",
+        "isbn": "8937488353",
+        "isbn13": "9788937488351",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "181.7",
+        "class_nm": "철학 > 심리학 > 각론",
+        "description": "철학자 강신주가 읽어주는 욕망의 인문학. 17세기 철학자 스피노자와 그의 저서 &lt;에티카&gt;는 철학사에서 많은 논란과 동시에 흠모의 대상이다. 강신주 박사는 스피노자가 정의한 48가지 감정을 우리의 현실에 비추어 하나하나 세심하게 설명해 준다.",
+        "cover_url": "http://image.aladin.co.kr/product/3298/13/cover/8937488353_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "감정",
+            "weight": 125.0
+          },
+          {
+            "word": "사랑",
+            "weight": 72.0
+          },
+          {
+            "word": "자신",
+            "weight": 36.0
+          },
+          {
+            "word": "철학자",
+            "weight": 31.0
+          },
+          {
+            "word": "사람",
+            "weight": 29.0
+          },
+          {
+            "word": "스피노자",
+            "weight": 26.0
+          },
+          {
+            "word": "욕망",
+            "weight": 21.0
+          },
+          {
+            "word": "질투",
+            "weight": 19.0
+          },
+          {
+            "word": "이성",
+            "weight": 18.0
+          },
+          {
+            "word": "인간",
+            "weight": 14.0
+          },
+          {
+            "word": "에티카",
+            "weight": 13.0
+          },
+          {
+            "word": "강신주",
+            "weight": 13.0
+          },
+          {
+            "word": "설명",
+            "weight": 10.0
+          },
+          {
+            "word": "수도",
+            "weight": 10.0
+          },
+          {
+            "word": "1984",
+            "weight": 9.0
+          },
+          {
+            "word": "타인",
+            "weight": 9.0
+          },
+          {
+            "word": "강신주의 감정수업",
+            "weight": 9.0
+          },
+          {
+            "word": "독자",
+            "weight": 9.0
+          },
+          {
+            "word": "이유",
+            "weight": 9.0
+          },
+          {
+            "word": "주인",
+            "weight": 9.0
+          },
+          {
+            "word": "야심",
+            "weight": 9.0
+          },
+          {
+            "word": "철학",
+            "weight": 8.0
+          },
+          {
+            "word": "확신",
+            "weight": 8.0
+          },
+          {
+            "word": "소중",
+            "weight": 8.0
+          },
+          {
+            "word": "현실",
+            "weight": 8.0
+          },
+          {
+            "word": "경험",
+            "weight": 7.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 7.0
+          },
+          {
+            "word": "무무",
+            "weight": 7.0
+          },
+          {
+            "word": "비극",
+            "weight": 7.0
+          },
+          {
+            "word": "대담",
+            "weight": 7.0
+          },
+          {
+            "word": "연인",
+            "weight": 7.0
+          },
+          {
+            "word": "사회",
+            "weight": 6.0
+          },
+          {
+            "word": "에필로그",
+            "weight": 6.0
+          },
+          {
+            "word": "여인의 초상",
+            "weight": 6.0
+          },
+          {
+            "word": "48가지",
+            "weight": 6.0
+          },
+          {
+            "word": "수치심",
+            "weight": 6.0
+          },
+          {
+            "word": "위대한 개츠비",
+            "weight": 6.0
+          },
+          {
+            "word": "어드바이스",
+            "weight": 6.0
+          },
+          {
+            "word": "레 미제라블",
+            "weight": 6.0
+          },
+          {
+            "word": "공동체",
+            "weight": 6.0
+          },
+          {
+            "word": "정체성",
+            "weight": 6.0
+          },
+          {
+            "word": "문학",
+            "weight": 6.0
+          },
+          {
+            "word": "박사",
+            "weight": 6.0
+          },
+          {
+            "word": "윤리학",
+            "weight": 6.0
+          },
+          {
+            "word": "발생",
+            "weight": 6.0
+          },
+          {
+            "word": "경멸",
+            "weight": 6.0
+          },
+          {
+            "word": "레베카",
+            "weight": 6.0
+          },
+          {
+            "word": "의심",
+            "weight": 6.0
+          },
+          {
+            "word": "위대한 유산",
+            "weight": 6.0
+          },
+          {
+            "word": "벨아미",
+            "weight": 6.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "강신주의 장자수업 :밑쳐진 삶을 위한 찬가",
+            "isbn13": "9788954799454",
+            "authors": "강신주 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "바람이 분다, 살아야겠다 :철학자 강신주 생각과 말들 ",
+            "isbn13": "9788954763783",
+            "authors": "지은이: 강신주,지승호"
+          },
+          {
+            "bookname": "철학이 필요한 시간 :강신주의 인문학 카운슬링 ",
+            "isbn13": "9788958285342",
+            "authors": "강신주 지음"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+            "isbn13": "9791192300245",
+            "authors": "장재형 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "강신주의 감정수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000621210",
+        "title": "강신주의 감정수업",
+        "subtitle": "스피노자와 함께 배우는 인간의 48가지 얼굴",
+        "page": "528 p.",
+        "book_size": "143*215mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788937488351",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937488351",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩20000",
+      "title": "강신주의 감정수업",
+      "subtitle": "스피노자와 함께 배우는 인간의 48가지 얼굴",
+      "author": "강신주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)민음사",
+      "publish_year": "2013",
+      "publish_predate": "20131120",
+      "kdc": "181.7",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 각론",
+      "ddc": "152.4",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "528 p.",
+      "book_size": "143*215mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "철학자 강신주가 읽어주는 욕망의 인문학. 17세기 철학자 스피노자와 그의 저서 &lt;에티카&gt;는 철학사에서 많은 논란과 동시에 흠모의 대상이다. 강신주 박사는 스피노자가 정의한 48가지 감정을 우리의 현실에 비추어 하나하나 세심하게 설명해 준다.",
+      "control_no": "CIP2013020186",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3017925_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "감정",
+          "weight": 125.0
+        },
+        {
+          "word": "사랑",
+          "weight": 72.0
+        },
+        {
+          "word": "자신",
+          "weight": 36.0
+        },
+        {
+          "word": "철학자",
+          "weight": 31.0
+        },
+        {
+          "word": "사람",
+          "weight": 29.0
+        },
+        {
+          "word": "스피노자",
+          "weight": 26.0
+        },
+        {
+          "word": "욕망",
+          "weight": 21.0
+        },
+        {
+          "word": "질투",
+          "weight": 19.0
+        },
+        {
+          "word": "이성",
+          "weight": 18.0
+        },
+        {
+          "word": "인간",
+          "weight": 14.0
+        },
+        {
+          "word": "에티카",
+          "weight": 13.0
+        },
+        {
+          "word": "강신주",
+          "weight": 13.0
+        },
+        {
+          "word": "설명",
+          "weight": 10.0
+        },
+        {
+          "word": "수도",
+          "weight": 10.0
+        },
+        {
+          "word": "1984",
+          "weight": 9.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "강신주의 감정수업",
+          "weight": 9.0
+        },
+        {
+          "word": "독자",
+          "weight": 9.0
+        },
+        {
+          "word": "이유",
+          "weight": 9.0
+        },
+        {
+          "word": "주인",
+          "weight": 9.0
+        },
+        {
+          "word": "야심",
+          "weight": 9.0
+        },
+        {
+          "word": "철학",
+          "weight": 8.0
+        },
+        {
+          "word": "확신",
+          "weight": 8.0
+        },
+        {
+          "word": "소중",
+          "weight": 8.0
+        },
+        {
+          "word": "현실",
+          "weight": 8.0
+        },
+        {
+          "word": "경험",
+          "weight": 7.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 7.0
+        },
+        {
+          "word": "무무",
+          "weight": 7.0
+        },
+        {
+          "word": "비극",
+          "weight": 7.0
+        },
+        {
+          "word": "대담",
+          "weight": 7.0
+        },
+        {
+          "word": "연인",
+          "weight": 7.0
+        },
+        {
+          "word": "사회",
+          "weight": 6.0
+        },
+        {
+          "word": "에필로그",
+          "weight": 6.0
+        },
+        {
+          "word": "여인의 초상",
+          "weight": 6.0
+        },
+        {
+          "word": "48가지",
+          "weight": 6.0
+        },
+        {
+          "word": "수치심",
+          "weight": 6.0
+        },
+        {
+          "word": "위대한 개츠비",
+          "weight": 6.0
+        },
+        {
+          "word": "어드바이스",
+          "weight": 6.0
+        },
+        {
+          "word": "레 미제라블",
+          "weight": 6.0
+        },
+        {
+          "word": "공동체",
+          "weight": 6.0
+        },
+        {
+          "word": "정체성",
+          "weight": 6.0
+        },
+        {
+          "word": "문학",
+          "weight": 6.0
+        },
+        {
+          "word": "박사",
+          "weight": 6.0
+        },
+        {
+          "word": "윤리학",
+          "weight": 6.0
+        },
+        {
+          "word": "발생",
+          "weight": 6.0
+        },
+        {
+          "word": "경멸",
+          "weight": 6.0
+        },
+        {
+          "word": "레베카",
+          "weight": 6.0
+        },
+        {
+          "word": "의심",
+          "weight": 6.0
+        },
+        {
+          "word": "위대한 유산",
+          "weight": 6.0
+        },
+        {
+          "word": "벨아미",
+          "weight": 6.0
+        }
+      ],
+      "description": "철학자 강신주가 읽어주는 욕망의 인문학. 17세기 철학자 스피노자와 그의 저서 &lt;에티카&gt;는 철학사에서 많은 논란과 동시에 흠모의 대상이다. 강신주 박사는 스피노자가 정의한 48가지 감정을 우리의 현실에 비추어 하나하나 세심하게 설명해 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "강신주의 장자수업 :밑쳐진 삶을 위한 찬가",
+          "isbn13": "9788954799454",
+          "authors": "강신주 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "바람이 분다, 살아야겠다 :철학자 강신주 생각과 말들 ",
+          "isbn13": "9788954763783",
+          "authors": "지은이: 강신주,지승호"
+        },
+        {
+          "bookname": "철학이 필요한 시간 :강신주의 인문학 카운슬링 ",
+          "isbn13": "9788958285342",
+          "authors": "강신주 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        }
+      ],
+      "title": "강신주의 감정수업",
+      "author": "강신주",
+      "kdc_from_api": "181.7",
+      "ddc_from_api": "152.4",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791195530304",
+  "captured_at": "2026-10-02T00:12:28.074140+09:00",
+  "lookup": {
+    "isbn": "9791195530304",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195530304",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "별 헤는 아이, 윤동주",
+      "subtitle": "양장본 Hardcover",
+      "author": "우현옥 글 ;반성희 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)봄볕",
+      "publish_year": "2015",
+      "publish_predate": "20150526",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 전기 > 주제별전기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "240*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "햇살 그림책 시리즈. 살아 있을 때 단 한 권의 시집도 발표하지 않았지만, 우리나라 사람들에게 가장 사랑받는 민족시인 윤동주의 생애를 그린 그림책이다. 더불어 윤동주의 생애를 간추려 보여주는 연보를 책 뒤에 붙였다.",
+      "control_no": "CIP2015013349",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "윤동주",
+          "weight": 12.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "그림책",
+          "weight": 7.0
+        },
+        {
+          "word": "시인",
+          "weight": 6.0
+        },
+        {
+          "word": "생애",
+          "weight": 6.0
+        },
+        {
+          "word": "어린이",
+          "weight": 5.0
+        },
+        {
+          "word": "일본",
+          "weight": 4.0
+        },
+        {
+          "word": "일제",
+          "weight": 4.0
+        },
+        {
+          "word": "암울",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "강점기",
+          "weight": 4.0
+        },
+        {
+          "word": "봄볕",
+          "weight": 3.0
+        },
+        {
+          "word": "찾았다 일곱 마리 햄스터",
+          "weight": 3.0
+        },
+        {
+          "word": "물음표 철학 동화",
+          "weight": 3.0
+        },
+        {
+          "word": "민족",
+          "weight": 3.0
+        },
+        {
+          "word": "민족시인",
+          "weight": 3.0
+        },
+        {
+          "word": "바다로 간 자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "백만장자가 된 고양이",
+          "weight": 3.0
+        },
+        {
+          "word": "동화 대장금",
+          "weight": 3.0
+        },
+        {
+          "word": "이구아나의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "시들",
+          "weight": 2.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "시집",
+          "weight": 2.0
+        },
+        {
+          "word": "걱정",
+          "weight": 2.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 2.0
+        },
+        {
+          "word": "우리말",
+          "weight": 2.0
+        },
+        {
+          "word": "교과서",
+          "weight": 2.0
+        },
+        {
+          "word": "국어",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "동화",
+          "weight": 2.0
+        },
+        {
+          "word": "맞선",
+          "weight": 2.0
+        },
+        {
+          "word": "햇살",
+          "weight": 2.0
+        },
+        {
+          "word": "우현옥",
+          "weight": 2.0
+        },
+        {
+          "word": "동시",
+          "weight": 2.0
+        },
+        {
+          "word": "발표",
+          "weight": 2.0
+        },
+        {
+          "word": "반성희",
+          "weight": 2.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "연희전문학교",
+          "weight": 1.0
+        },
+        {
+          "word": "연보",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "신춘문예",
+          "weight": 1.0
+        },
+        {
+          "word": "고향",
+          "weight": 1.0
+        },
+        {
+          "word": "문화일보",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        }
+      ],
+      "description": "햇살 그림책 시리즈. 살아 있을 때 단 한 권의 시집도 발표하지 않았지만, 우리나라 사람들에게 가장 사랑받는 민족시인 윤동주의 생애를 그린 그림책이다. 더불어 윤동주의 생애를 간추려 보여주는 연보를 책 뒤에 붙였다.",
+      "co_loan_books": [
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "바삭바삭 갈매기 ",
+          "isbn13": "9788970947273",
+          "authors": "전민걸 글·그림"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "소원 떡집 ",
+          "isbn13": "9788949162058",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        }
+      ],
+      "title": "별 헤는 아이, 윤동주",
+      "author": "우현옥 글 ;반성희 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "별 헤는 아이, 윤동주",
+        "author": "우현옥",
+        "publisher": "(도서출판)봄볕",
+        "publish_predate": "20150526",
+        "isbn": "9791195530304",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015013349",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_5.jpg"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "별 헤는 아이, 윤동주 ",
+        "author": "우현옥 글 ;반성희 그림",
+        "publisher": "봄볕",
+        "publish_year": "2015",
+        "isbn": "1195530307",
+        "isbn13": "9791195530304",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "998.8",
+        "class_nm": "역사 > 전기 > 주제별전기",
+        "description": "햇살 그림책 시리즈. 살아 있을 때 단 한 권의 시집도 발표하지 않았지만, 우리나라 사람들에게 가장 사랑받는 민족시인 윤동주의 생애를 그린 그림책이다. 더불어 윤동주의 생애를 간추려 보여주는 연보를 책 뒤에 붙였다.",
+        "cover_url": "http://image.aladin.co.kr/product/5991/28/cover/6000851011_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "윤동주",
+            "weight": 12.0
+          },
+          {
+            "word": "마음",
+            "weight": 7.0
+          },
+          {
+            "word": "그림책",
+            "weight": 7.0
+          },
+          {
+            "word": "시인",
+            "weight": 6.0
+          },
+          {
+            "word": "생애",
+            "weight": 6.0
+          },
+          {
+            "word": "어린이",
+            "weight": 5.0
+          },
+          {
+            "word": "일본",
+            "weight": 4.0
+          },
+          {
+            "word": "일제",
+            "weight": 4.0
+          },
+          {
+            "word": "암울",
+            "weight": 4.0
+          },
+          {
+            "word": "시대",
+            "weight": 4.0
+          },
+          {
+            "word": "강점기",
+            "weight": 4.0
+          },
+          {
+            "word": "봄볕",
+            "weight": 3.0
+          },
+          {
+            "word": "찾았다 일곱 마리 햄스터",
+            "weight": 3.0
+          },
+          {
+            "word": "물음표 철학 동화",
+            "weight": 3.0
+          },
+          {
+            "word": "민족",
+            "weight": 3.0
+          },
+          {
+            "word": "민족시인",
+            "weight": 3.0
+          },
+          {
+            "word": "바다로 간 자전거",
+            "weight": 3.0
+          },
+          {
+            "word": "백만장자가 된 고양이",
+            "weight": 3.0
+          },
+          {
+            "word": "동화 대장금",
+            "weight": 3.0
+          },
+          {
+            "word": "이구아나의 선물",
+            "weight": 3.0
+          },
+          {
+            "word": "등장",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "시들",
+            "weight": 2.0
+          },
+          {
+            "word": "초등학교",
+            "weight": 2.0
+          },
+          {
+            "word": "건강",
+            "weight": 2.0
+          },
+          {
+            "word": "시집",
+            "weight": 2.0
+          },
+          {
+            "word": "걱정",
+            "weight": 2.0
+          },
+          {
+            "word": "우리나라",
+            "weight": 2.0
+          },
+          {
+            "word": "우리말",
+            "weight": 2.0
+          },
+          {
+            "word": "교과서",
+            "weight": 2.0
+          },
+          {
+            "word": "국어",
+            "weight": 2.0
+          },
+          {
+            "word": "그린",
+            "weight": 2.0
+          },
+          {
+            "word": "동화",
+            "weight": 2.0
+          },
+          {
+            "word": "맞선",
+            "weight": 2.0
+          },
+          {
+            "word": "햇살",
+            "weight": 2.0
+          },
+          {
+            "word": "우현옥",
+            "weight": 2.0
+          },
+          {
+            "word": "동시",
+            "weight": 2.0
+          },
+          {
+            "word": "발표",
+            "weight": 2.0
+          },
+          {
+            "word": "반성희",
+            "weight": 2.0
+          },
+          {
+            "word": "대학원",
+            "weight": 1.0
+          },
+          {
+            "word": "연희전문학교",
+            "weight": 1.0
+          },
+          {
+            "word": "연보",
+            "weight": 1.0
+          },
+          {
+            "word": "기획",
+            "weight": 1.0
+          },
+          {
+            "word": "공부",
+            "weight": 1.0
+          },
+          {
+            "word": "신춘문예",
+            "weight": 1.0
+          },
+          {
+            "word": "고향",
+            "weight": 1.0
+          },
+          {
+            "word": "문화일보",
+            "weight": 1.0
+          },
+          {
+            "word": "대학",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+            "isbn13": "9788972887683",
+            "authors": "글: 박완서 ;그림: 김세현"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "(한밤중) 달빛 식당 ",
+            "isbn13": "9788949161969",
+            "authors": "이분희 글 ;윤태규 그림"
+          },
+          {
+            "bookname": "바삭바삭 갈매기 ",
+            "isbn13": "9788970947273",
+            "authors": "전민걸 글·그림"
+          },
+          {
+            "bookname": "나는 나의 주인 ",
+            "isbn13": "9788964960035",
+            "authors": "채인선 글 ;안은진 그림"
+          },
+          {
+            "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+            "isbn13": "9791158362249",
+            "authors": "유설화"
+          },
+          {
+            "bookname": "소원 떡집 ",
+            "isbn13": "9788949162058",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "아홉 살 마음 사전 ",
+            "isbn13": "9788936447014",
+            "authors": "박성우 글 ;김효은 그림"
+          },
+          {
+            "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+            "isbn13": "9791159950179",
+            "authors": "글·그림: 김유경 ;Hannah Chung"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "별 헤는 아이, 윤동주"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001963647",
+        "title": "별 헤는 아이, 윤동주",
+        "subtitle": "양장본 Hardcover",
+        "page": "40 p.",
+        "book_size": "240*250mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791195530304",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195530304",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "별 헤는 아이, 윤동주",
+      "subtitle": "양장본 Hardcover",
+      "author": "우현옥 글 ;반성희 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(도서출판)봄볕",
+      "publish_year": "2015",
+      "publish_predate": "20150526",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 전기 > 주제별전기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "40 p.",
+      "book_size": "240*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "햇살 그림책 시리즈. 살아 있을 때 단 한 권의 시집도 발표하지 않았지만, 우리나라 사람들에게 가장 사랑받는 민족시인 윤동주의 생애를 그린 그림책이다. 더불어 윤동주의 생애를 간추려 보여주는 연보를 책 뒤에 붙였다.",
+      "control_no": "CIP2015013349",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4579840_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "윤동주",
+          "weight": 12.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "그림책",
+          "weight": 7.0
+        },
+        {
+          "word": "시인",
+          "weight": 6.0
+        },
+        {
+          "word": "생애",
+          "weight": 6.0
+        },
+        {
+          "word": "어린이",
+          "weight": 5.0
+        },
+        {
+          "word": "일본",
+          "weight": 4.0
+        },
+        {
+          "word": "일제",
+          "weight": 4.0
+        },
+        {
+          "word": "암울",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "강점기",
+          "weight": 4.0
+        },
+        {
+          "word": "봄볕",
+          "weight": 3.0
+        },
+        {
+          "word": "찾았다 일곱 마리 햄스터",
+          "weight": 3.0
+        },
+        {
+          "word": "물음표 철학 동화",
+          "weight": 3.0
+        },
+        {
+          "word": "민족",
+          "weight": 3.0
+        },
+        {
+          "word": "민족시인",
+          "weight": 3.0
+        },
+        {
+          "word": "바다로 간 자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "백만장자가 된 고양이",
+          "weight": 3.0
+        },
+        {
+          "word": "동화 대장금",
+          "weight": 3.0
+        },
+        {
+          "word": "이구아나의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "등장",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "시들",
+          "weight": 2.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "시집",
+          "weight": 2.0
+        },
+        {
+          "word": "걱정",
+          "weight": 2.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 2.0
+        },
+        {
+          "word": "우리말",
+          "weight": 2.0
+        },
+        {
+          "word": "교과서",
+          "weight": 2.0
+        },
+        {
+          "word": "국어",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "동화",
+          "weight": 2.0
+        },
+        {
+          "word": "맞선",
+          "weight": 2.0
+        },
+        {
+          "word": "햇살",
+          "weight": 2.0
+        },
+        {
+          "word": "우현옥",
+          "weight": 2.0
+        },
+        {
+          "word": "동시",
+          "weight": 2.0
+        },
+        {
+          "word": "발표",
+          "weight": 2.0
+        },
+        {
+          "word": "반성희",
+          "weight": 2.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "연희전문학교",
+          "weight": 1.0
+        },
+        {
+          "word": "연보",
+          "weight": 1.0
+        },
+        {
+          "word": "기획",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "신춘문예",
+          "weight": 1.0
+        },
+        {
+          "word": "고향",
+          "weight": 1.0
+        },
+        {
+          "word": "문화일보",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        }
+      ],
+      "description": "햇살 그림책 시리즈. 살아 있을 때 단 한 권의 시집도 발표하지 않았지만, 우리나라 사람들에게 가장 사랑받는 민족시인 윤동주의 생애를 그린 그림책이다. 더불어 윤동주의 생애를 간추려 보여주는 연보를 책 뒤에 붙였다.",
+      "co_loan_books": [
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "(한밤중) 달빛 식당 ",
+          "isbn13": "9788949161969",
+          "authors": "이분희 글 ;윤태규 그림"
+        },
+        {
+          "bookname": "바삭바삭 갈매기 ",
+          "isbn13": "9788970947273",
+          "authors": "전민걸 글·그림"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "소원 떡집 ",
+          "isbn13": "9788949162058",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        }
+      ],
+      "title": "별 헤는 아이, 윤동주",
+      "author": "우현옥 글 ;반성희 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

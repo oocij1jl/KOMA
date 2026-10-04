@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681531",
+  "captured_at": "2026-10-03T00:14:12.672628+09:00",
+  "lookup": {
+    "isbn": "9791158681531",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681531",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 고사성어",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원 :책먹는아이",
+      "publish_year": "2018",
+      "publish_predate": "20181220",
+      "kdc": "714",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 어휘",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등 어휘력, 고사성어로 일취월장하다!옛이야기에서 유래한 고사성어에는 교훈과 삶의 지혜가 담겨 있어요.때로는 세상이 담기기도 하고,때로는 나라는 아주 작은 존재가 담기기도 해요.한자를 잘 몰라서 고사성어가 어렵게 느껴질 수도 있지만,재미있게 읽고 또 읽다 보면나도 모르게 상황에 맞는... ",
+      "control_no": "CIP2018038896",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고사성어",
+          "weight": 11.0
+        },
+        {
+          "word": "상황",
+          "weight": 7.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "옛이야기",
+          "weight": 3.0
+        },
+        {
+          "word": "금시초문",
+          "weight": 2.0
+        },
+        {
+          "word": "다사다난",
+          "weight": 2.0
+        },
+        {
+          "word": "다다익선",
+          "weight": 2.0
+        },
+        {
+          "word": "노심초사",
+          "weight": 2.0
+        },
+        {
+          "word": "난형난제",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "한자",
+          "weight": 2.0
+        },
+        {
+          "word": "속뜻",
+          "weight": 2.0
+        },
+        {
+          "word": "어휘력",
+          "weight": 2.0
+        },
+        {
+          "word": "유래",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "직접적",
+          "weight": 2.0
+        },
+        {
+          "word": "초등",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "일취월장",
+          "weight": 2.0
+        },
+        {
+          "word": "기사회생",
+          "weight": 2.0
+        },
+        {
+          "word": "고진감래",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "결초보은",
+          "weight": 2.0
+        },
+        {
+          "word": "견물생심",
+          "weight": 2.0
+        },
+        {
+          "word": "격세지감",
+          "weight": 2.0
+        },
+        {
+          "word": "개과천선",
+          "weight": 2.0
+        },
+        {
+          "word": "감언이설",
+          "weight": 2.0
+        },
+        {
+          "word": "각양각색",
+          "weight": 2.0
+        },
+        {
+          "word": "각골난망",
+          "weight": 2.0
+        },
+        {
+          "word": "부담감",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "과유불급",
+          "weight": 2.0
+        },
+        {
+          "word": "금상첨화",
+          "weight": 2.0
+        },
+        {
+          "word": "사자성어 고사성어",
+          "weight": 2.0
+        },
+        {
+          "word": "권선징악",
+          "weight": 2.0
+        },
+        {
+          "word": "군계일학",
+          "weight": 2.0
+        },
+        {
+          "word": "괄목상대",
+          "weight": 2.0
+        },
+        {
+          "word": "다재다능",
+          "weight": 1.0
+        },
+        {
+          "word": "백골난망",
+          "weight": 1.0
+        },
+        {
+          "word": "배은망덕",
+          "weight": 1.0
+        },
+        {
+          "word": "배우",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "박장대소",
+          "weight": 1.0
+        },
+        {
+          "word": "희로애락",
+          "weight": 1.0
+        },
+        {
+          "word": "대기만성",
+          "weight": 1.0
+        },
+        {
+          "word": "당장",
+          "weight": 1.0
+        },
+        {
+          "word": "다재다능더보기",
+          "weight": 1.0
+        },
+        {
+          "word": "교훈",
+          "weight": 1.0
+        }
+      ],
+      "description": "초등 어휘력, 고사성어로 일취월장하다!옛이야기에서 유래한 고사성어에는 교훈과 삶의 지혜가 담겨 있어요.때로는 세상이 담기기도 하고,때로는 나라는 아주 작은 존재가 담기기도 해요.한자를 잘 몰라서 고사성어가 어렵게 느껴질 수도 있지만,재미있게 읽고 또 읽다 보면나도 모르게 상황에 맞는... ",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+          "isbn13": "9791158681630",
+          "authors": "글·그림: 이수인"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 고사성어",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "714",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 고사성어",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원 :책먹는아이",
+        "publish_predate": "20181220",
+        "isbn": "9791158681531",
+        "isbn_add_code": "73710",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "217 p.",
+        "book_size": "152*190",
+        "form": "종이책",
+        "kdc": "714",
+        "ddc": "",
+        "subject": "7",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018038896",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_year": "2018",
+        "isbn": "1158681534",
+        "isbn13": "9791158681531",
+        "isbn_add_code": "73710",
+        "volume": "",
+        "class_no": "714",
+        "class_nm": "언어 > 한국어 > 어휘",
+        "description": "초등 어휘력, 고사성어로 일취월장하다!옛이야기에서 유래한 고사성어에는 교훈과 삶의 지혜가 담겨 있어요.때로는 세상이 담기기도 하고,때로는 나라는 아주 작은 존재가 담기기도 해요.한자를 잘 몰라서 고사성어가 어렵게 느껴질 수도 있지만,재미있게 읽고 또 읽다 보면나도 모르게 상황에 맞는... ",
+        "cover_url": "https://image.aladin.co.kr/product/17584/36/cover/k552534711_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "고사성어",
+            "weight": 11.0
+          },
+          {
+            "word": "상황",
+            "weight": 7.0
+          },
+          {
+            "word": "웹툰",
+            "weight": 4.0
+          },
+          {
+            "word": "아이들",
+            "weight": 3.0
+          },
+          {
+            "word": "옛이야기",
+            "weight": 3.0
+          },
+          {
+            "word": "금시초문",
+            "weight": 2.0
+          },
+          {
+            "word": "다사다난",
+            "weight": 2.0
+          },
+          {
+            "word": "다다익선",
+            "weight": 2.0
+          },
+          {
+            "word": "노심초사",
+            "weight": 2.0
+          },
+          {
+            "word": "난형난제",
+            "weight": 2.0
+          },
+          {
+            "word": "한날",
+            "weight": 2.0
+          },
+          {
+            "word": "한자",
+            "weight": 2.0
+          },
+          {
+            "word": "속뜻",
+            "weight": 2.0
+          },
+          {
+            "word": "어휘력",
+            "weight": 2.0
+          },
+          {
+            "word": "유래",
+            "weight": 2.0
+          },
+          {
+            "word": "인생다반사",
+            "weight": 2.0
+          },
+          {
+            "word": "직접적",
+            "weight": 2.0
+          },
+          {
+            "word": "초등",
+            "weight": 2.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 2.0
+          },
+          {
+            "word": "파란정원",
+            "weight": 2.0
+          },
+          {
+            "word": "일취월장",
+            "weight": 2.0
+          },
+          {
+            "word": "기사회생",
+            "weight": 2.0
+          },
+          {
+            "word": "고진감래",
+            "weight": 2.0
+          },
+          {
+            "word": "사용",
+            "weight": 2.0
+          },
+          {
+            "word": "결초보은",
+            "weight": 2.0
+          },
+          {
+            "word": "견물생심",
+            "weight": 2.0
+          },
+          {
+            "word": "격세지감",
+            "weight": 2.0
+          },
+          {
+            "word": "개과천선",
+            "weight": 2.0
+          },
+          {
+            "word": "감언이설",
+            "weight": 2.0
+          },
+          {
+            "word": "각양각색",
+            "weight": 2.0
+          },
+          {
+            "word": "각골난망",
+            "weight": 2.0
+          },
+          {
+            "word": "부담감",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "과유불급",
+            "weight": 2.0
+          },
+          {
+            "word": "금상첨화",
+            "weight": 2.0
+          },
+          {
+            "word": "사자성어 고사성어",
+            "weight": 2.0
+          },
+          {
+            "word": "권선징악",
+            "weight": 2.0
+          },
+          {
+            "word": "군계일학",
+            "weight": 2.0
+          },
+          {
+            "word": "괄목상대",
+            "weight": 2.0
+          },
+          {
+            "word": "다재다능",
+            "weight": 1.0
+          },
+          {
+            "word": "백골난망",
+            "weight": 1.0
+          },
+          {
+            "word": "배은망덕",
+            "weight": 1.0
+          },
+          {
+            "word": "배우",
+            "weight": 1.0
+          },
+          {
+            "word": "배경",
+            "weight": 1.0
+          },
+          {
+            "word": "박장대소",
+            "weight": 1.0
+          },
+          {
+            "word": "희로애락",
+            "weight": 1.0
+          },
+          {
+            "word": "대기만성",
+            "weight": 1.0
+          },
+          {
+            "word": "당장",
+            "weight": 1.0
+          },
+          {
+            "word": "다재다능더보기",
+            "weight": 1.0
+          },
+          {
+            "word": "교훈",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+            "isbn13": "9791158681944",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+            "isbn13": "9791158681647",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+            "isbn13": "9791158681999",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+            "isbn13": "9791158681630",
+            "authors": "글·그림: 이수인"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+            "isbn13": "9791158681609",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+            "isbn13": "9791158681791",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+            "isbn13": "9791158681722",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 고사성어"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770957",
+        "title": "읽으면서 바로 써먹는 어린이 고사성어",
+        "subtitle": "",
+        "page": "224 p.",
+        "book_size": "153*191mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681531",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681531",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 고사성어",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원 :책먹는아이",
+      "publish_year": "2018",
+      "publish_predate": "20181220",
+      "kdc": "714",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 어휘",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등 어휘력, 고사성어로 일취월장하다!옛이야기에서 유래한 고사성어에는 교훈과 삶의 지혜가 담겨 있어요.때로는 세상이 담기기도 하고,때로는 나라는 아주 작은 존재가 담기기도 해요.한자를 잘 몰라서 고사성어가 어렵게 느껴질 수도 있지만,재미있게 읽고 또 읽다 보면나도 모르게 상황에 맞는... ",
+      "control_no": "CIP2018038896",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032828_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "고사성어",
+          "weight": 11.0
+        },
+        {
+          "word": "상황",
+          "weight": 7.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "아이들",
+          "weight": 3.0
+        },
+        {
+          "word": "옛이야기",
+          "weight": 3.0
+        },
+        {
+          "word": "금시초문",
+          "weight": 2.0
+        },
+        {
+          "word": "다사다난",
+          "weight": 2.0
+        },
+        {
+          "word": "다다익선",
+          "weight": 2.0
+        },
+        {
+          "word": "노심초사",
+          "weight": 2.0
+        },
+        {
+          "word": "난형난제",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "한자",
+          "weight": 2.0
+        },
+        {
+          "word": "속뜻",
+          "weight": 2.0
+        },
+        {
+          "word": "어휘력",
+          "weight": 2.0
+        },
+        {
+          "word": "유래",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "직접적",
+          "weight": 2.0
+        },
+        {
+          "word": "초등",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "일취월장",
+          "weight": 2.0
+        },
+        {
+          "word": "기사회생",
+          "weight": 2.0
+        },
+        {
+          "word": "고진감래",
+          "weight": 2.0
+        },
+        {
+          "word": "사용",
+          "weight": 2.0
+        },
+        {
+          "word": "결초보은",
+          "weight": 2.0
+        },
+        {
+          "word": "견물생심",
+          "weight": 2.0
+        },
+        {
+          "word": "격세지감",
+          "weight": 2.0
+        },
+        {
+          "word": "개과천선",
+          "weight": 2.0
+        },
+        {
+          "word": "감언이설",
+          "weight": 2.0
+        },
+        {
+          "word": "각양각색",
+          "weight": 2.0
+        },
+        {
+          "word": "각골난망",
+          "weight": 2.0
+        },
+        {
+          "word": "부담감",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "과유불급",
+          "weight": 2.0
+        },
+        {
+          "word": "금상첨화",
+          "weight": 2.0
+        },
+        {
+          "word": "사자성어 고사성어",
+          "weight": 2.0
+        },
+        {
+          "word": "권선징악",
+          "weight": 2.0
+        },
+        {
+          "word": "군계일학",
+          "weight": 2.0
+        },
+        {
+          "word": "괄목상대",
+          "weight": 2.0
+        },
+        {
+          "word": "다재다능",
+          "weight": 1.0
+        },
+        {
+          "word": "백골난망",
+          "weight": 1.0
+        },
+        {
+          "word": "배은망덕",
+          "weight": 1.0
+        },
+        {
+          "word": "배우",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "박장대소",
+          "weight": 1.0
+        },
+        {
+          "word": "희로애락",
+          "weight": 1.0
+        },
+        {
+          "word": "대기만성",
+          "weight": 1.0
+        },
+        {
+          "word": "당장",
+          "weight": 1.0
+        },
+        {
+          "word": "다재다능더보기",
+          "weight": 1.0
+        },
+        {
+          "word": "교훈",
+          "weight": 1.0
+        }
+      ],
+      "description": "초등 어휘력, 고사성어로 일취월장하다!옛이야기에서 유래한 고사성어에는 교훈과 삶의 지혜가 담겨 있어요.때로는 세상이 담기기도 하고,때로는 나라는 아주 작은 존재가 담기기도 해요.한자를 잘 몰라서 고사성어가 어렵게 느껴질 수도 있지만,재미있게 읽고 또 읽다 보면나도 모르게 상황에 맞는... ",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+          "isbn13": "9791158681630",
+          "authors": "글·그림: 이수인"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 고사성어",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "714",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

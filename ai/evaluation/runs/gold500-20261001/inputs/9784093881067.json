@@ -1,0 +1,292 @@
+{
+  "isbn": "9784093881067",
+  "captured_at": "2026-10-03T00:21:39.968542+09:00",
+  "lookup": {
+    "isbn": "9784093881067",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9784093881067",
+      "isbn_add_code": "0095",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "考えない練習 ",
+      "subtitle": "",
+      "author": "著者: 小池龍之介",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "小學館",
+      "publish_year": "2011",
+      "publish_predate": "",
+      "kdc": "224.3",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "222 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "",
+      "description": "&quot;초조함&quot; &quot;불안&quot;은 연습으로 없앨 수 있다!지나치게 [생각]하여 고민이 켜져없는 우리에게 필요한 것은, 좀 더 [오감]을 소중하게 생각하는 생활입니다.그것은 어려운 것이 아니라, 약간의 요령만 있으면 누구나 가능합니다.이 책에서는 일본 쓰키요미지 주지스님인 코이케 류노스케가 그동안의 좌선지도를... ",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/639/88/cover/4093881065_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "&quot;초조함&quot; &quot;불안&quot;은 연습으로 없앨 수 있다!지나치게 [생각]하여 고민이 켜져없는 우리에게 필요한 것은, 좀 더 [오감]을 소중하게 생각하는 생활입니다.그것은 어려운 것이 아니라, 약간의 요령만 있으면 누구나 가능합니다.이 책에서는 일본 쓰키요미지 주지스님인 코이케 류노스케가 그동안의 좌선지도를... ",
+      "co_loan_books": [],
+      "title": "考えない練習 ",
+      "author": "著者: 小池龍之介",
+      "kdc_from_api": "224.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "考えない練習 ",
+        "author": "著者: 小池龍之介",
+        "publisher": "小學館",
+        "publish_year": "2011",
+        "isbn": "4093881065",
+        "isbn13": "9784093881067",
+        "isbn_add_code": "0095",
+        "volume": "",
+        "class_no": "224.3",
+        "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+        "description": "&quot;초조함&quot; &quot;불안&quot;은 연습으로 없앨 수 있다!지나치게 [생각]하여 고민이 켜져없는 우리에게 필요한 것은, 좀 더 [오감]을 소중하게 생각하는 생활입니다.그것은 어려운 것이 아니라, 약간의 요령만 있으면 누구나 가능합니다.이 책에서는 일본 쓰키요미지 주지스님인 코이케 류노스케가 그동안의 좌선지도를... ",
+        "cover_url": "http://image.aladin.co.kr/product/639/88/cover/4093881065_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": false,
+        "keywords": []
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": false,
+        "co_loan_books": []
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000048094118",
+        "title": "考えない練習 頭で考えずに,もっと五感を使おう.すると,イライラや不安が消えていく",
+        "subtitle": "",
+        "page": "222 p.",
+        "book_size": "",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9784093881067",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9784093881067",
+      "isbn_add_code": "0095",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "考えない練習 ",
+      "subtitle": "",
+      "author": "著者: 小池龍之介",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "小學館",
+      "publish_year": "2011",
+      "publish_predate": "",
+      "kdc": "224.3",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "222 p.",
+      "book_size": "",
+      "form": "",
+      "ebook_yn": "",
+      "description": "&quot;초조함&quot; &quot;불안&quot;은 연습으로 없앨 수 있다!지나치게 [생각]하여 고민이 켜져없는 우리에게 필요한 것은, 좀 더 [오감]을 소중하게 생각하는 생활입니다.그것은 어려운 것이 아니라, 약간의 요령만 있으면 누구나 가능합니다.이 책에서는 일본 쓰키요미지 주지스님인 코이케 류노스케가 그동안의 좌선지도를... ",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/639/88/cover/4093881065_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "&quot;초조함&quot; &quot;불안&quot;은 연습으로 없앨 수 있다!지나치게 [생각]하여 고민이 켜져없는 우리에게 필요한 것은, 좀 더 [오감]을 소중하게 생각하는 생활입니다.그것은 어려운 것이 아니라, 약간의 요령만 있으면 누구나 가능합니다.이 책에서는 일본 쓰키요미지 주지스님인 코이케 류노스케가 그동안의 좌선지도를... ",
+      "co_loan_books": [],
+      "title": "考えない練習 ",
+      "author": "著者: 小池龍之介",
+      "kdc_from_api": "224.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

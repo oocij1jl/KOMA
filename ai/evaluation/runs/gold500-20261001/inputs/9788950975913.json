@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788950975913",
+  "captured_at": "2026-10-04T00:19:13.038020+09:00",
+  "lookup": {
+    "isbn": "9788950975913",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950975913",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "굿 라이프",
+      "subtitle": "내 삶을 바꾸는 심리학의 지혜",
+      "author": "최인철 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "21세기북스",
+      "publish_year": "2018",
+      "publish_predate": "20180620",
+      "kdc": "191.6",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 일반윤리학 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "284 p.",
+      "book_size": "135*218",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "행복에 관한 책이지만 동시에 행복을 넘어선 새로운 인생의 프레임을 고민하고자 하는 책. 저자는 행복에 관한 오해들을 바로잡고, 행복해지는 것을 염려하거나 두려워하는 우리의 마음을 하나하나 짚어낸다. 그리하여 독자들은 각자가 가지고 있는 행복 프레임을 들여다보며, 나아가 자신의 삶에 대해 각자가 가지고 있는 인생 프레임을 스스로 점검할 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/15149/28/cover/8950975912_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "행복",
+          "weight": 98.0
+        },
+        {
+          "word": "의미",
+          "weight": 33.0
+        },
+        {
+          "word": "프레임",
+          "weight": 26.0
+        },
+        {
+          "word": "인생",
+          "weight": 16.0
+        },
+        {
+          "word": "심리학",
+          "weight": 14.0
+        },
+        {
+          "word": "연구",
+          "weight": 13.0
+        },
+        {
+          "word": "품격",
+          "weight": 11.0
+        },
+        {
+          "word": "라이프",
+          "weight": 11.0
+        },
+        {
+          "word": "오해",
+          "weight": 10.0
+        },
+        {
+          "word": "굿 라이프",
+          "weight": 9.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "쾌락",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "서울대학교",
+          "weight": 7.0
+        },
+        {
+          "word": "소개",
+          "weight": 6.0
+        },
+        {
+          "word": "Chapter",
+          "weight": 6.0
+        },
+        {
+          "word": "가지",
+          "weight": 6.0
+        },
+        {
+          "word": "추구",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "요소",
+          "weight": 5.0
+        },
+        {
+          "word": "교수",
+          "weight": 5.0
+        },
+        {
+          "word": "유전",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "순간",
+          "weight": 5.0
+        },
+        {
+          "word": "염려",
+          "weight": 5.0
+        },
+        {
+          "word": "통찰",
+          "weight": 5.0
+        },
+        {
+          "word": "최인철",
+          "weight": 5.0
+        },
+        {
+          "word": "균형",
+          "weight": 5.0
+        },
+        {
+          "word": "경향",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "수행",
+          "weight": 4.0
+        },
+        {
+          "word": "연구팀",
+          "weight": 4.0
+        },
+        {
+          "word": "결과",
+          "weight": 4.0
+        },
+        {
+          "word": "행복론",
+          "weight": 4.0
+        },
+        {
+          "word": "소명",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "The",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "Life",
+          "weight": 4.0
+        },
+        {
+          "word": "점검",
+          "weight": 4.0
+        },
+        {
+          "word": "개념",
+          "weight": 4.0
+        },
+        {
+          "word": "목표",
+          "weight": 3.0
+        },
+        {
+          "word": "재정",
+          "weight": 3.0
+        },
+        {
+          "word": "바탕",
+          "weight": 3.0
+        },
+        {
+          "word": "자세",
+          "weight": 3.0
+        },
+        {
+          "word": "Part",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복에 관한 책이지만 동시에 행복을 넘어선 새로운 인생의 프레임을 고민하고자 하는 책. 저자는 행복에 관한 오해들을 바로잡고, 행복해지는 것을 염려하거나 두려워하는 우리의 마음을 하나하나 짚어낸다. 그리하여 독자들은 각자가 가지고 있는 행복 프레임을 들여다보며, 나아가 자신의 삶에 대해 각자가 가지고 있는 인생 프레임을 스스로 점검할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 보통의 행복 :평범해서 더욱 소중한 ",
+          "isbn13": "9788950996437",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+          "isbn13": "9788950966447",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "이어령의 마지막 수업 ",
+          "isbn13": "9791170400523",
+          "authors": "김지수 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "프레임 - 나를 바꾸는 심리학의 지혜",
+          "isbn13": "9788950994518",
+          "authors": "최인철 (지은이)"
+        }
+      ],
+      "title": "굿 라이프",
+      "author": "최인철 지음",
+      "kdc_from_api": "191.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "굿 라이프",
+        "author": "최인철 지음",
+        "publisher": "21세기북스",
+        "publish_predate": "20180620",
+        "isbn": "9788950975913",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "283 p.",
+        "book_size": "135*218",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "굿 라이프 =내 삶을 바꾸는 심리학의 지혜 /The good life ",
+        "author": "최인철 지음",
+        "publisher": "21세기북스",
+        "publish_year": "2018",
+        "isbn": "8950975912",
+        "isbn13": "9788950975913",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "191.6",
+        "class_nm": "철학 > 윤리학, 도덕철학 > 일반윤리학 각론",
+        "description": "행복에 관한 책이지만 동시에 행복을 넘어선 새로운 인생의 프레임을 고민하고자 하는 책. 저자는 행복에 관한 오해들을 바로잡고, 행복해지는 것을 염려하거나 두려워하는 우리의 마음을 하나하나 짚어낸다. 그리하여 독자들은 각자가 가지고 있는 행복 프레임을 들여다보며, 나아가 자신의 삶에 대해 각자가 가지고 있는 인생 프레임을 스스로 점검할 수 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/15149/28/cover/8950975912_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "행복",
+            "weight": 98.0
+          },
+          {
+            "word": "의미",
+            "weight": 33.0
+          },
+          {
+            "word": "프레임",
+            "weight": 26.0
+          },
+          {
+            "word": "인생",
+            "weight": 16.0
+          },
+          {
+            "word": "심리학",
+            "weight": 14.0
+          },
+          {
+            "word": "연구",
+            "weight": 13.0
+          },
+          {
+            "word": "품격",
+            "weight": 11.0
+          },
+          {
+            "word": "라이프",
+            "weight": 11.0
+          },
+          {
+            "word": "오해",
+            "weight": 10.0
+          },
+          {
+            "word": "굿 라이프",
+            "weight": 9.0
+          },
+          {
+            "word": "타인",
+            "weight": 9.0
+          },
+          {
+            "word": "자기",
+            "weight": 7.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "쾌락",
+            "weight": 7.0
+          },
+          {
+            "word": "독자",
+            "weight": 7.0
+          },
+          {
+            "word": "서울대학교",
+            "weight": 7.0
+          },
+          {
+            "word": "소개",
+            "weight": 6.0
+          },
+          {
+            "word": "Chapter",
+            "weight": 6.0
+          },
+          {
+            "word": "가지",
+            "weight": 6.0
+          },
+          {
+            "word": "추구",
+            "weight": 6.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "요소",
+            "weight": 5.0
+          },
+          {
+            "word": "교수",
+            "weight": 5.0
+          },
+          {
+            "word": "유전",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "순간",
+            "weight": 5.0
+          },
+          {
+            "word": "염려",
+            "weight": 5.0
+          },
+          {
+            "word": "통찰",
+            "weight": 5.0
+          },
+          {
+            "word": "최인철",
+            "weight": 5.0
+          },
+          {
+            "word": "균형",
+            "weight": 5.0
+          },
+          {
+            "word": "경향",
+            "weight": 4.0
+          },
+          {
+            "word": "인간",
+            "weight": 4.0
+          },
+          {
+            "word": "수행",
+            "weight": 4.0
+          },
+          {
+            "word": "연구팀",
+            "weight": 4.0
+          },
+          {
+            "word": "결과",
+            "weight": 4.0
+          },
+          {
+            "word": "행복론",
+            "weight": 4.0
+          },
+          {
+            "word": "소명",
+            "weight": 4.0
+          },
+          {
+            "word": "세상",
+            "weight": 4.0
+          },
+          {
+            "word": "고민",
+            "weight": 4.0
+          },
+          {
+            "word": "The",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "다양",
+            "weight": 4.0
+          },
+          {
+            "word": "Life",
+            "weight": 4.0
+          },
+          {
+            "word": "점검",
+            "weight": 4.0
+          },
+          {
+            "word": "개념",
+            "weight": 4.0
+          },
+          {
+            "word": "목표",
+            "weight": 3.0
+          },
+          {
+            "word": "재정",
+            "weight": 3.0
+          },
+          {
+            "word": "바탕",
+            "weight": 3.0
+          },
+          {
+            "word": "자세",
+            "weight": 3.0
+          },
+          {
+            "word": "Part",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아주 보통의 행복 :평범해서 더욱 소중한 ",
+            "isbn13": "9788950996437",
+            "authors": "최인철 지음"
+          },
+          {
+            "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+            "isbn13": "9788950966447",
+            "authors": "최인철 지음"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "이어령의 마지막 수업 ",
+            "isbn13": "9791170400523",
+            "authors": "김지수 지음"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "프레임 - 나를 바꾸는 심리학의 지혜",
+            "isbn13": "9788950994518",
+            "authors": "최인철 (지은이)"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "굿 라이프"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000710344",
+        "title": "굿 라이프",
+        "subtitle": "내 삶을 바꾸는 심리학의 지혜",
+        "page": "284 p.",
+        "book_size": "135*218mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788950975913",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950975913",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17000",
+      "title": "굿 라이프",
+      "subtitle": "내 삶을 바꾸는 심리학의 지혜",
+      "author": "최인철 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "21세기북스",
+      "publish_year": "2018",
+      "publish_predate": "20180620",
+      "kdc": "191.6",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 일반윤리학 각론",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "284 p.",
+      "book_size": "135*218",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "행복에 관한 책이지만 동시에 행복을 넘어선 새로운 인생의 프레임을 고민하고자 하는 책. 저자는 행복에 관한 오해들을 바로잡고, 행복해지는 것을 염려하거나 두려워하는 우리의 마음을 하나하나 짚어낸다. 그리하여 독자들은 각자가 가지고 있는 행복 프레임을 들여다보며, 나아가 자신의 삶에 대해 각자가 가지고 있는 인생 프레임을 스스로 점검할 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/15149/28/cover/8950975912_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "행복",
+          "weight": 98.0
+        },
+        {
+          "word": "의미",
+          "weight": 33.0
+        },
+        {
+          "word": "프레임",
+          "weight": 26.0
+        },
+        {
+          "word": "인생",
+          "weight": 16.0
+        },
+        {
+          "word": "심리학",
+          "weight": 14.0
+        },
+        {
+          "word": "연구",
+          "weight": 13.0
+        },
+        {
+          "word": "품격",
+          "weight": 11.0
+        },
+        {
+          "word": "라이프",
+          "weight": 11.0
+        },
+        {
+          "word": "오해",
+          "weight": 10.0
+        },
+        {
+          "word": "굿 라이프",
+          "weight": 9.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "쾌락",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "서울대학교",
+          "weight": 7.0
+        },
+        {
+          "word": "소개",
+          "weight": 6.0
+        },
+        {
+          "word": "Chapter",
+          "weight": 6.0
+        },
+        {
+          "word": "가지",
+          "weight": 6.0
+        },
+        {
+          "word": "추구",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "요소",
+          "weight": 5.0
+        },
+        {
+          "word": "교수",
+          "weight": 5.0
+        },
+        {
+          "word": "유전",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "순간",
+          "weight": 5.0
+        },
+        {
+          "word": "염려",
+          "weight": 5.0
+        },
+        {
+          "word": "통찰",
+          "weight": 5.0
+        },
+        {
+          "word": "최인철",
+          "weight": 5.0
+        },
+        {
+          "word": "균형",
+          "weight": 5.0
+        },
+        {
+          "word": "경향",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "수행",
+          "weight": 4.0
+        },
+        {
+          "word": "연구팀",
+          "weight": 4.0
+        },
+        {
+          "word": "결과",
+          "weight": 4.0
+        },
+        {
+          "word": "행복론",
+          "weight": 4.0
+        },
+        {
+          "word": "소명",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "고민",
+          "weight": 4.0
+        },
+        {
+          "word": "The",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "Life",
+          "weight": 4.0
+        },
+        {
+          "word": "점검",
+          "weight": 4.0
+        },
+        {
+          "word": "개념",
+          "weight": 4.0
+        },
+        {
+          "word": "목표",
+          "weight": 3.0
+        },
+        {
+          "word": "재정",
+          "weight": 3.0
+        },
+        {
+          "word": "바탕",
+          "weight": 3.0
+        },
+        {
+          "word": "자세",
+          "weight": 3.0
+        },
+        {
+          "word": "Part",
+          "weight": 3.0
+        }
+      ],
+      "description": "행복에 관한 책이지만 동시에 행복을 넘어선 새로운 인생의 프레임을 고민하고자 하는 책. 저자는 행복에 관한 오해들을 바로잡고, 행복해지는 것을 염려하거나 두려워하는 우리의 마음을 하나하나 짚어낸다. 그리하여 독자들은 각자가 가지고 있는 행복 프레임을 들여다보며, 나아가 자신의 삶에 대해 각자가 가지고 있는 인생 프레임을 스스로 점검할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 보통의 행복 :평범해서 더욱 소중한 ",
+          "isbn13": "9788950996437",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "프레임 :나를 바꾸는 심리학의 지혜 ",
+          "isbn13": "9788950966447",
+          "authors": "최인철 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "이어령의 마지막 수업 ",
+          "isbn13": "9791170400523",
+          "authors": "김지수 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "프레임 - 나를 바꾸는 심리학의 지혜",
+          "isbn13": "9788950994518",
+          "authors": "최인철 (지은이)"
+        }
+      ],
+      "title": "굿 라이프",
+      "author": "최인철 지음",
+      "kdc_from_api": "191.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

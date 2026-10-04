@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791189932671",
+  "captured_at": "2026-10-02T00:18:49.957345+09:00",
+  "lookup": {
+    "isbn": "9791189932671",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189932671",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "명랑한 은둔자",
+      "subtitle": "",
+      "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "바다출판사",
+      "publish_year": "2020",
+      "publish_predate": "20200904",
+      "kdc": "844",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 수필",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "138*214",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "캐럴라인 냅은 지적이고 유려한 회고록 성격의 에세이를 쓴 작가로, 2002년 마흔둘이라는 이른 나이에 세상을 떠났다. 그는 &lt;명랑한 은둔자&gt;에서 혼자 살고 혼자 일했고, 가족과 친구와 개와 소중한 관계를 맺으며 자기 앞의 고독을 외면하지 않았던 삶을 이야기한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/25072/55/cover/k332632851_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자신",
+          "weight": 12.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "명랑한 은둔자",
+          "weight": 6.0
+        },
+        {
+          "word": "자기",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "캐럴라인",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "혼자",
+          "weight": 5.0
+        },
+        {
+          "word": "명랑",
+          "weight": 5.0
+        },
+        {
+          "word": "우정",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "중독",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "은둔자",
+          "weight": 3.0
+        },
+        {
+          "word": "지적",
+          "weight": 3.0
+        },
+        {
+          "word": "편지",
+          "weight": 3.0
+        },
+        {
+          "word": "음식",
+          "weight": 3.0
+        },
+        {
+          "word": "남자",
+          "weight": 3.0
+        },
+        {
+          "word": "알코올",
+          "weight": 3.0
+        },
+        {
+          "word": "쌍둥이",
+          "weight": 3.0
+        },
+        {
+          "word": "수줍음",
+          "weight": 3.0
+        },
+        {
+          "word": "솔직",
+          "weight": 3.0
+        },
+        {
+          "word": "Pack",
+          "weight": 2.0
+        },
+        {
+          "word": "다이어트",
+          "weight": 2.0
+        },
+        {
+          "word": "어머니",
+          "weight": 2.0
+        },
+        {
+          "word": "대하",
+          "weight": 2.0
+        },
+        {
+          "word": "아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "사교",
+          "weight": 2.0
+        },
+        {
+          "word": "애착",
+          "weight": 2.0
+        },
+        {
+          "word": "섭식장애",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "성격",
+          "weight": 2.0
+        },
+        {
+          "word": "내면",
+          "weight": 2.0
+        },
+        {
+          "word": "고백",
+          "weight": 2.0
+        },
+        {
+          "word": "Appetites",
+          "weight": 2.0
+        },
+        {
+          "word": "Drinking",
+          "weight": 2.0
+        },
+        {
+          "word": "강박증",
+          "weight": 2.0
+        },
+        {
+          "word": "개가",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "영원",
+          "weight": 2.0
+        },
+        {
+          "word": "섹슈얼리티",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "여자",
+          "weight": 2.0
+        },
+        {
+          "word": "옹호",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "그럴",
+          "weight": 2.0
+        },
+        {
+          "word": "2002년",
+          "weight": 2.0
+        }
+      ],
+      "description": "캐럴라인 냅은 지적이고 유려한 회고록 성격의 에세이를 쓴 작가로, 2002년 마흔둘이라는 이른 나이에 세상을 떠났다. 그는 &lt;명랑한 은둔자&gt;에서 혼자 살고 혼자 일했고, 가족과 친구와 개와 소중한 관계를 맺으며 자기 앞의 고독을 외면하지 않았던 삶을 이야기한다.",
+      "co_loan_books": [
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        }
+      ],
+      "title": "명랑한 은둔자",
+      "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+      "kdc_from_api": "844",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "명랑한 은둔자",
+        "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+        "publisher": "바다출판사",
+        "publish_predate": "20200904",
+        "isbn": "9791189932671",
+        "isbn_add_code": "03840",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "343 p.",
+        "book_size": "138*214",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "명랑한 은둔자 ",
+        "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+        "publisher": "바다출판사",
+        "publish_year": "2020",
+        "isbn": "1189932679",
+        "isbn13": "9791189932671",
+        "isbn_add_code": "03840",
+        "volume": "",
+        "class_no": "844",
+        "class_nm": "문학 > 영미문학 > 수필",
+        "description": "캐럴라인 냅은 지적이고 유려한 회고록 성격의 에세이를 쓴 작가로, 2002년 마흔둘이라는 이른 나이에 세상을 떠났다. 그는 &lt;명랑한 은둔자&gt;에서 혼자 살고 혼자 일했고, 가족과 친구와 개와 소중한 관계를 맺으며 자기 앞의 고독을 외면하지 않았던 삶을 이야기한다.",
+        "cover_url": "https://image.aladin.co.kr/product/25072/55/cover/k332632851_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "자신",
+            "weight": 12.0
+          },
+          {
+            "word": "세상",
+            "weight": 6.0
+          },
+          {
+            "word": "명랑한 은둔자",
+            "weight": 6.0
+          },
+          {
+            "word": "자기",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "캐럴라인",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "혼자",
+            "weight": 5.0
+          },
+          {
+            "word": "명랑",
+            "weight": 5.0
+          },
+          {
+            "word": "우정",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "중독",
+            "weight": 4.0
+          },
+          {
+            "word": "친구",
+            "weight": 4.0
+          },
+          {
+            "word": "관계",
+            "weight": 4.0
+          },
+          {
+            "word": "경험",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "은둔자",
+            "weight": 3.0
+          },
+          {
+            "word": "지적",
+            "weight": 3.0
+          },
+          {
+            "word": "편지",
+            "weight": 3.0
+          },
+          {
+            "word": "음식",
+            "weight": 3.0
+          },
+          {
+            "word": "남자",
+            "weight": 3.0
+          },
+          {
+            "word": "알코올",
+            "weight": 3.0
+          },
+          {
+            "word": "쌍둥이",
+            "weight": 3.0
+          },
+          {
+            "word": "수줍음",
+            "weight": 3.0
+          },
+          {
+            "word": "솔직",
+            "weight": 3.0
+          },
+          {
+            "word": "Pack",
+            "weight": 2.0
+          },
+          {
+            "word": "다이어트",
+            "weight": 2.0
+          },
+          {
+            "word": "어머니",
+            "weight": 2.0
+          },
+          {
+            "word": "대하",
+            "weight": 2.0
+          },
+          {
+            "word": "아버지",
+            "weight": 2.0
+          },
+          {
+            "word": "사교",
+            "weight": 2.0
+          },
+          {
+            "word": "애착",
+            "weight": 2.0
+          },
+          {
+            "word": "섭식장애",
+            "weight": 2.0
+          },
+          {
+            "word": "나이",
+            "weight": 2.0
+          },
+          {
+            "word": "성격",
+            "weight": 2.0
+          },
+          {
+            "word": "내면",
+            "weight": 2.0
+          },
+          {
+            "word": "고백",
+            "weight": 2.0
+          },
+          {
+            "word": "Appetites",
+            "weight": 2.0
+          },
+          {
+            "word": "Drinking",
+            "weight": 2.0
+          },
+          {
+            "word": "강박증",
+            "weight": 2.0
+          },
+          {
+            "word": "개가",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "영원",
+            "weight": 2.0
+          },
+          {
+            "word": "섹슈얼리티",
+            "weight": 2.0
+          },
+          {
+            "word": "에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "여자",
+            "weight": 2.0
+          },
+          {
+            "word": "옹호",
+            "weight": 2.0
+          },
+          {
+            "word": "외국에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "그럴",
+            "weight": 2.0
+          },
+          {
+            "word": "2002년",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+            "isbn13": "9788954695053",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+            "isbn13": "9791130698199",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "눈부신 안부 :백수린 장편소설 ",
+            "isbn13": "9788954699372",
+            "authors": "지은이: 백수린"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "명랑한 은둔자"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001933238",
+        "title": "명랑한 은둔자",
+        "subtitle": "",
+        "page": "344 p.",
+        "book_size": "139*214mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791189932671",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189932671",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "명랑한 은둔자",
+      "subtitle": "",
+      "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "바다출판사",
+      "publish_year": "2020",
+      "publish_predate": "20200904",
+      "kdc": "844",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 수필",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "138*214",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "캐럴라인 냅은 지적이고 유려한 회고록 성격의 에세이를 쓴 작가로, 2002년 마흔둘이라는 이른 나이에 세상을 떠났다. 그는 &lt;명랑한 은둔자&gt;에서 혼자 살고 혼자 일했고, 가족과 친구와 개와 소중한 관계를 맺으며 자기 앞의 고독을 외면하지 않았던 삶을 이야기한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/25072/55/cover/k332632851_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자신",
+          "weight": 12.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "명랑한 은둔자",
+          "weight": 6.0
+        },
+        {
+          "word": "자기",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "캐럴라인",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "혼자",
+          "weight": 5.0
+        },
+        {
+          "word": "명랑",
+          "weight": 5.0
+        },
+        {
+          "word": "우정",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "중독",
+          "weight": 4.0
+        },
+        {
+          "word": "친구",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "은둔자",
+          "weight": 3.0
+        },
+        {
+          "word": "지적",
+          "weight": 3.0
+        },
+        {
+          "word": "편지",
+          "weight": 3.0
+        },
+        {
+          "word": "음식",
+          "weight": 3.0
+        },
+        {
+          "word": "남자",
+          "weight": 3.0
+        },
+        {
+          "word": "알코올",
+          "weight": 3.0
+        },
+        {
+          "word": "쌍둥이",
+          "weight": 3.0
+        },
+        {
+          "word": "수줍음",
+          "weight": 3.0
+        },
+        {
+          "word": "솔직",
+          "weight": 3.0
+        },
+        {
+          "word": "Pack",
+          "weight": 2.0
+        },
+        {
+          "word": "다이어트",
+          "weight": 2.0
+        },
+        {
+          "word": "어머니",
+          "weight": 2.0
+        },
+        {
+          "word": "대하",
+          "weight": 2.0
+        },
+        {
+          "word": "아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "사교",
+          "weight": 2.0
+        },
+        {
+          "word": "애착",
+          "weight": 2.0
+        },
+        {
+          "word": "섭식장애",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "성격",
+          "weight": 2.0
+        },
+        {
+          "word": "내면",
+          "weight": 2.0
+        },
+        {
+          "word": "고백",
+          "weight": 2.0
+        },
+        {
+          "word": "Appetites",
+          "weight": 2.0
+        },
+        {
+          "word": "Drinking",
+          "weight": 2.0
+        },
+        {
+          "word": "강박증",
+          "weight": 2.0
+        },
+        {
+          "word": "개가",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "영원",
+          "weight": 2.0
+        },
+        {
+          "word": "섹슈얼리티",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "여자",
+          "weight": 2.0
+        },
+        {
+          "word": "옹호",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "그럴",
+          "weight": 2.0
+        },
+        {
+          "word": "2002년",
+          "weight": 2.0
+        }
+      ],
+      "description": "캐럴라인 냅은 지적이고 유려한 회고록 성격의 에세이를 쓴 작가로, 2002년 마흔둘이라는 이른 나이에 세상을 떠났다. 그는 &lt;명랑한 은둔자&gt;에서 혼자 살고 혼자 일했고, 가족과 친구와 개와 소중한 관계를 맺으며 자기 앞의 고독을 외면하지 않았던 삶을 이야기한다.",
+      "co_loan_books": [
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        }
+      ],
+      "title": "명랑한 은둔자",
+      "author": "지은이: 캐럴라인 냅 ;옮긴이: 김명남",
+      "kdc_from_api": "844",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "isbn": "9788936437978",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9788936437978"
+          },
+          {
+            "code": "g",
+            "value": "03810"
+          },
+          {
+            "code": "c",
+            "value": "₩14000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "대도시의 사랑법"
+          },
+          {
+            "code": "b",
+            "value": "박상영 연작소설"
+          },
+          {
+            "code": "d",
+            "value": "지은이: 박상영"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "창비"
+          },
+          {
+            "code": "c",
+            "value": "2019"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "376 p."
+          },
+          {
+            "code": "c",
+            "value": "19 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '122*188mm'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "813.7"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "박상영"
+          },
+          {
+            "code": "e",
+            "value": "지은이"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명 박상영을 확인하여 700 부출표목으로 생성함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "젊은작가"
+          },
+          {
+            "code": "a",
+            "value": "우럭 한점 우주의 맛"
+          },
+          {
+            "code": "a",
+            "value": "대상"
+          },
+          {
+            "code": "a",
+            "value": "연작소설"
+          },
+          {
+            "code": "a",
+            "value": "소설집"
+          },
+          {
+            "code": "a",
+            "value": "중단편"
+          },
+          {
+            "code": "a",
+            "value": "청춘"
+          },
+          {
+            "code": "a",
+            "value": "화제"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description",
+            "co_loan_books"
+          ],
+          "keywords_used": [
+            "젊은작가",
+            "대도시의 사랑법",
+            "우럭 한점 우주의 맛",
+            "대상",
+            "연작소설",
+            "소설집",
+            "중단편",
+            "청춘",
+            "화제"
+          ],
+          "reasoning": "가중치 상위 키워드와 description co_loan_books를 대조해 서지값과 동일한 항목을 제외하고 주제 접근에 적합한 자유 키워드를 최소 정제하여 제안함"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "500",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "제10회 젊은작가상 대상 수상작 우럭 한점 우주의 맛 수록"
+          }
+        ],
+        "review_required": true,
+        "confidence": "low",
+        "evidence": {
+          "from": [
+            "description"
+          ],
+          "keywords_used": [],
+          "reasoning": "description에서 수상작 수록 사실을 일반주기로 요약해 제안함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "한국문학"
+          },
+          {
+            "code": "a",
+            "value": "한국소설"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "KDC 813.7, ISBN 부가기호 03810에서 유도한 장르·독자 주제어. 통제 주제명이 아니므로 검수 필요"
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "041",
+        "reason": "번역 정황 없음: 041 생성 보류"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "500과 546은 description 근거를 바탕으로 최소 정보만 생성했으며 사서 검수가 필요함",
+      "653은 자유 키워드 기반 비통제 색인어이므로 통제 주제명으로 간주하지 않음",
+      "546 언어주기 입력 근거 부족으로 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-04T00:11:52.164549+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ],
+  "validation": {
+    "valid": true,
+    "error_count": 0,
+    "warning_count": 1,
+    "errors": [],
+    "warnings": [
+      {
+        "field": "056",
+        "message": "[056] AI 생성 필드입니다. 사서 검수가 필요합니다."
+      }
+    ]
+  }
+}

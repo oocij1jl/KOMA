@@ -1,0 +1,1088 @@
+{
+  "isbn": "9788937462191",
+  "captured_at": "2026-10-05T00:10:10.391005+09:00",
+  "lookup": {
+    "isbn": "9788937462191",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937462191",
+      "isbn_add_code": "04800",
+      "set_isbn": "9788937460005",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "안나 카레니나 ",
+      "subtitle": "반양장",
+      "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "민음사",
+      "publish_year": "2009",
+      "publish_predate": "20090904",
+      "kdc": "892.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 기타 제문학 > 인도-유럽계문학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "세계문학전집 ",
+      "series_no": "219",
+      "page": "509 p.",
+      "book_size": "130*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "19세기 러시아의 대문호 레프 톨스토이가 남긴 최고의 리얼리즘 소설. 톨스토이 자신의 신념, 종교나 농민 문제 등에 대한 그의 고민이 잘 드러나있는 소설이다. 동시대 작가인 도스토예프스키로부터 '완벽한 예술 작품'이라는 평가와, 러시아 출신 소설가인 나보코프로부터 '톨스토이 스타일의 정점'이라는 극찬을 받았다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/461/57/cover/s852532176_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "안나 카레니나",
+          "weight": 51.0
+        },
+        {
+          "word": "톨스토이",
+          "weight": 24.0
+        },
+        {
+          "word": "브론스키",
+          "weight": 18.0
+        },
+        {
+          "word": "자신",
+          "weight": 15.0
+        },
+        {
+          "word": "레빈",
+          "weight": 14.0
+        },
+        {
+          "word": "인물",
+          "weight": 13.0
+        },
+        {
+          "word": "키티",
+          "weight": 12.0
+        },
+        {
+          "word": "러시아",
+          "weight": 12.0
+        },
+        {
+          "word": "문제",
+          "weight": 10.0
+        },
+        {
+          "word": "고민",
+          "weight": 10.0
+        },
+        {
+          "word": "종교",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "사교계",
+          "weight": 6.0
+        },
+        {
+          "word": "인간",
+          "weight": 6.0
+        },
+        {
+          "word": "사이",
+          "weight": 5.0
+        },
+        {
+          "word": "모습",
+          "weight": 5.0
+        },
+        {
+          "word": "결혼",
+          "weight": 5.0
+        },
+        {
+          "word": "청혼",
+          "weight": 5.0
+        },
+        {
+          "word": "남편",
+          "weight": 5.0
+        },
+        {
+          "word": "사회",
+          "weight": 5.0
+        },
+        {
+          "word": "농민",
+          "weight": 5.0
+        },
+        {
+          "word": "스테판",
+          "weight": 5.0
+        },
+        {
+          "word": "외국",
+          "weight": 4.0
+        },
+        {
+          "word": "신념",
+          "weight": 4.0
+        },
+        {
+          "word": "시골",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "아이스크림",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "시공간",
+          "weight": 4.0
+        },
+        {
+          "word": "평가",
+          "weight": 4.0
+        },
+        {
+          "word": "민음사",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 4.0
+        },
+        {
+          "word": "도스토예프스키",
+          "weight": 3.0
+        },
+        {
+          "word": "영화",
+          "weight": 3.0
+        },
+        {
+          "word": "완벽",
+          "weight": 3.0
+        },
+        {
+          "word": "아내",
+          "weight": 3.0
+        },
+        {
+          "word": "완벽한 예술 작품",
+          "weight": 3.0
+        },
+        {
+          "word": "의식",
+          "weight": 3.0
+        },
+        {
+          "word": "나보코프",
+          "weight": 3.0
+        },
+        {
+          "word": "유년 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "연진희",
+          "weight": 3.0
+        },
+        {
+          "word": "가족",
+          "weight": 3.0
+        },
+        {
+          "word": "동시대인",
+          "weight": 3.0
+        },
+        {
+          "word": "위대",
+          "weight": 3.0
+        },
+        {
+          "word": "예술",
+          "weight": 3.0
+        },
+        {
+          "word": "농촌",
+          "weight": 3.0
+        },
+        {
+          "word": "어머니",
+          "weight": 3.0
+        },
+        {
+          "word": "19세기",
+          "weight": 3.0
+        },
+        {
+          "word": "이혼",
+          "weight": 3.0
+        }
+      ],
+      "description": "19세기 러시아의 대문호 레프 톨스토이가 남긴 최고의 리얼리즘 소설. 톨스토이 자신의 신념, 종교나 농민 문제 등에 대한 그의 고민이 잘 드러나있는 소설이다. 동시대 작가인 도스토예프스키로부터 '완벽한 예술 작품'이라는 평가와, 러시아 출신 소설가인 나보코프로부터 '톨스토이 스타일의 정점'이라는 극찬을 받았다.",
+      "co_loan_books": [
+        {
+          "bookname": "안나 카레니나 2",
+          "isbn13": "9788937462207",
+          "authors": "레프 니콜라예비치 톨스토이 (지은이), 연진희 (옮긴이)"
+        },
+        {
+          "bookname": "안나 카레니나",
+          "isbn13": "9788937462214",
+          "authors": "지은이: 톨스토이 ;옮긴이: 연진희"
+        },
+        {
+          "bookname": "카라마조프 가의 형제들",
+          "isbn13": "9788937461545",
+          "authors": "도스토예프스키 [지음];김연경 옮김"
+        },
+        {
+          "bookname": "죄와 벌",
+          "isbn13": "9788937462849",
+          "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달과 6펜스",
+          "isbn13": "9788937460388",
+          "authors": "서머싯 몸 지음;송무 옮김"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        }
+      ],
+      "title": "안나 카레니나 ",
+      "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+      "kdc_from_api": "892.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "안나 카레니나 ",
+        "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+        "publisher": "민음사",
+        "publish_predate": "20090904",
+        "isbn": "9788937462191",
+        "isbn_add_code": "04800",
+        "set_isbn": "9788937460005",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "세계문학전집 ",
+        "series_no": "219",
+        "volume": "1",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "안나 카레니나",
+        "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+        "publisher": "민음사",
+        "publish_year": "2009",
+        "isbn": "8937462192",
+        "isbn13": "9788937462191",
+        "isbn_add_code": "04800",
+        "volume": "1",
+        "class_no": "892.8",
+        "class_nm": "문학 > 기타 제문학 > 인도-유럽계문학",
+        "description": "19세기 러시아의 대문호 레프 톨스토이가 남긴 최고의 리얼리즘 소설. 톨스토이 자신의 신념, 종교나 농민 문제 등에 대한 그의 고민이 잘 드러나있는 소설이다. 동시대 작가인 도스토예프스키로부터 '완벽한 예술 작품'이라는 평가와, 러시아 출신 소설가인 나보코프로부터 '톨스토이 스타일의 정점'이라는 극찬을 받았다.",
+        "cover_url": "http://image.aladin.co.kr/product/461/57/cover/s852532176_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "안나 카레니나",
+            "weight": 51.0
+          },
+          {
+            "word": "톨스토이",
+            "weight": 24.0
+          },
+          {
+            "word": "브론스키",
+            "weight": 18.0
+          },
+          {
+            "word": "자신",
+            "weight": 15.0
+          },
+          {
+            "word": "레빈",
+            "weight": 14.0
+          },
+          {
+            "word": "인물",
+            "weight": 13.0
+          },
+          {
+            "word": "키티",
+            "weight": 12.0
+          },
+          {
+            "word": "러시아",
+            "weight": 12.0
+          },
+          {
+            "word": "문제",
+            "weight": 10.0
+          },
+          {
+            "word": "고민",
+            "weight": 10.0
+          },
+          {
+            "word": "종교",
+            "weight": 6.0
+          },
+          {
+            "word": "사랑",
+            "weight": 6.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "사교계",
+            "weight": 6.0
+          },
+          {
+            "word": "인간",
+            "weight": 6.0
+          },
+          {
+            "word": "사이",
+            "weight": 5.0
+          },
+          {
+            "word": "모습",
+            "weight": 5.0
+          },
+          {
+            "word": "결혼",
+            "weight": 5.0
+          },
+          {
+            "word": "청혼",
+            "weight": 5.0
+          },
+          {
+            "word": "남편",
+            "weight": 5.0
+          },
+          {
+            "word": "사회",
+            "weight": 5.0
+          },
+          {
+            "word": "농민",
+            "weight": 5.0
+          },
+          {
+            "word": "스테판",
+            "weight": 5.0
+          },
+          {
+            "word": "외국",
+            "weight": 4.0
+          },
+          {
+            "word": "신념",
+            "weight": 4.0
+          },
+          {
+            "word": "시골",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "아이스크림",
+            "weight": 4.0
+          },
+          {
+            "word": "관계",
+            "weight": 4.0
+          },
+          {
+            "word": "시공간",
+            "weight": 4.0
+          },
+          {
+            "word": "평가",
+            "weight": 4.0
+          },
+          {
+            "word": "민음사",
+            "weight": 4.0
+          },
+          {
+            "word": "문학",
+            "weight": 4.0
+          },
+          {
+            "word": "도스토예프스키",
+            "weight": 3.0
+          },
+          {
+            "word": "영화",
+            "weight": 3.0
+          },
+          {
+            "word": "완벽",
+            "weight": 3.0
+          },
+          {
+            "word": "아내",
+            "weight": 3.0
+          },
+          {
+            "word": "완벽한 예술 작품",
+            "weight": 3.0
+          },
+          {
+            "word": "의식",
+            "weight": 3.0
+          },
+          {
+            "word": "나보코프",
+            "weight": 3.0
+          },
+          {
+            "word": "유년 시절",
+            "weight": 3.0
+          },
+          {
+            "word": "연진희",
+            "weight": 3.0
+          },
+          {
+            "word": "가족",
+            "weight": 3.0
+          },
+          {
+            "word": "동시대인",
+            "weight": 3.0
+          },
+          {
+            "word": "위대",
+            "weight": 3.0
+          },
+          {
+            "word": "예술",
+            "weight": 3.0
+          },
+          {
+            "word": "농촌",
+            "weight": 3.0
+          },
+          {
+            "word": "어머니",
+            "weight": 3.0
+          },
+          {
+            "word": "19세기",
+            "weight": 3.0
+          },
+          {
+            "word": "이혼",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "안나 카레니나 2",
+            "isbn13": "9788937462207",
+            "authors": "레프 니콜라예비치 톨스토이 (지은이), 연진희 (옮긴이)"
+          },
+          {
+            "bookname": "안나 카레니나",
+            "isbn13": "9788937462214",
+            "authors": "지은이: 톨스토이 ;옮긴이: 연진희"
+          },
+          {
+            "bookname": "카라마조프 가의 형제들",
+            "isbn13": "9788937461545",
+            "authors": "도스토예프스키 [지음];김연경 옮김"
+          },
+          {
+            "bookname": "죄와 벌",
+            "isbn13": "9788937462849",
+            "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+          },
+          {
+            "bookname": "브람스를 좋아하세요 ",
+            "isbn13": "9788937461798",
+            "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "달과 6펜스",
+            "isbn13": "9788937460388",
+            "authors": "서머싯 몸 지음;송무 옮김"
+          },
+          {
+            "bookname": "호밀밭의 파수꾼 ",
+            "isbn13": "9788937460470",
+            "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+          },
+          {
+            "bookname": "싯다르타",
+            "isbn13": "9788937460586",
+            "authors": "헤르만 헤세 지음;박병덕 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "안나 카레니나 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000620356",
+        "title": "안나 카레니나 1",
+        "subtitle": "반양장",
+        "page": "509 p.",
+        "book_size": "130*224mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788937462191",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937462191",
+      "isbn_add_code": "04800",
+      "set_isbn": "9788937460005",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "안나 카레니나 ",
+      "subtitle": "반양장",
+      "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "민음사",
+      "publish_year": "2009",
+      "publish_predate": "20090904",
+      "kdc": "892.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 기타 제문학 > 인도-유럽계문학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "세계문학전집 ",
+      "series_no": "219",
+      "page": "509 p.",
+      "book_size": "130*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "19세기 러시아의 대문호 레프 톨스토이가 남긴 최고의 리얼리즘 소설. 톨스토이 자신의 신념, 종교나 농민 문제 등에 대한 그의 고민이 잘 드러나있는 소설이다. 동시대 작가인 도스토예프스키로부터 '완벽한 예술 작품'이라는 평가와, 러시아 출신 소설가인 나보코프로부터 '톨스토이 스타일의 정점'이라는 극찬을 받았다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/461/57/cover/s852532176_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "안나 카레니나",
+          "weight": 51.0
+        },
+        {
+          "word": "톨스토이",
+          "weight": 24.0
+        },
+        {
+          "word": "브론스키",
+          "weight": 18.0
+        },
+        {
+          "word": "자신",
+          "weight": 15.0
+        },
+        {
+          "word": "레빈",
+          "weight": 14.0
+        },
+        {
+          "word": "인물",
+          "weight": 13.0
+        },
+        {
+          "word": "키티",
+          "weight": 12.0
+        },
+        {
+          "word": "러시아",
+          "weight": 12.0
+        },
+        {
+          "word": "문제",
+          "weight": 10.0
+        },
+        {
+          "word": "고민",
+          "weight": 10.0
+        },
+        {
+          "word": "종교",
+          "weight": 6.0
+        },
+        {
+          "word": "사랑",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "사교계",
+          "weight": 6.0
+        },
+        {
+          "word": "인간",
+          "weight": 6.0
+        },
+        {
+          "word": "사이",
+          "weight": 5.0
+        },
+        {
+          "word": "모습",
+          "weight": 5.0
+        },
+        {
+          "word": "결혼",
+          "weight": 5.0
+        },
+        {
+          "word": "청혼",
+          "weight": 5.0
+        },
+        {
+          "word": "남편",
+          "weight": 5.0
+        },
+        {
+          "word": "사회",
+          "weight": 5.0
+        },
+        {
+          "word": "농민",
+          "weight": 5.0
+        },
+        {
+          "word": "스테판",
+          "weight": 5.0
+        },
+        {
+          "word": "외국",
+          "weight": 4.0
+        },
+        {
+          "word": "신념",
+          "weight": 4.0
+        },
+        {
+          "word": "시골",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "아이스크림",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "시공간",
+          "weight": 4.0
+        },
+        {
+          "word": "평가",
+          "weight": 4.0
+        },
+        {
+          "word": "민음사",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 4.0
+        },
+        {
+          "word": "도스토예프스키",
+          "weight": 3.0
+        },
+        {
+          "word": "영화",
+          "weight": 3.0
+        },
+        {
+          "word": "완벽",
+          "weight": 3.0
+        },
+        {
+          "word": "아내",
+          "weight": 3.0
+        },
+        {
+          "word": "완벽한 예술 작품",
+          "weight": 3.0
+        },
+        {
+          "word": "의식",
+          "weight": 3.0
+        },
+        {
+          "word": "나보코프",
+          "weight": 3.0
+        },
+        {
+          "word": "유년 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "연진희",
+          "weight": 3.0
+        },
+        {
+          "word": "가족",
+          "weight": 3.0
+        },
+        {
+          "word": "동시대인",
+          "weight": 3.0
+        },
+        {
+          "word": "위대",
+          "weight": 3.0
+        },
+        {
+          "word": "예술",
+          "weight": 3.0
+        },
+        {
+          "word": "농촌",
+          "weight": 3.0
+        },
+        {
+          "word": "어머니",
+          "weight": 3.0
+        },
+        {
+          "word": "19세기",
+          "weight": 3.0
+        },
+        {
+          "word": "이혼",
+          "weight": 3.0
+        }
+      ],
+      "description": "19세기 러시아의 대문호 레프 톨스토이가 남긴 최고의 리얼리즘 소설. 톨스토이 자신의 신념, 종교나 농민 문제 등에 대한 그의 고민이 잘 드러나있는 소설이다. 동시대 작가인 도스토예프스키로부터 '완벽한 예술 작품'이라는 평가와, 러시아 출신 소설가인 나보코프로부터 '톨스토이 스타일의 정점'이라는 극찬을 받았다.",
+      "co_loan_books": [
+        {
+          "bookname": "안나 카레니나 2",
+          "isbn13": "9788937462207",
+          "authors": "레프 니콜라예비치 톨스토이 (지은이), 연진희 (옮긴이)"
+        },
+        {
+          "bookname": "안나 카레니나",
+          "isbn13": "9788937462214",
+          "authors": "지은이: 톨스토이 ;옮긴이: 연진희"
+        },
+        {
+          "bookname": "카라마조프 가의 형제들",
+          "isbn13": "9788937461545",
+          "authors": "도스토예프스키 [지음];김연경 옮김"
+        },
+        {
+          "bookname": "죄와 벌",
+          "isbn13": "9788937462849",
+          "authors": "지은이: 표도르 도스토예프스키 ;옮긴이: 김연경"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달과 6펜스",
+          "isbn13": "9788937460388",
+          "authors": "서머싯 몸 지음;송무 옮김"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        }
+      ],
+      "title": "안나 카레니나 ",
+      "author": "지은이: 톨스토이 ;옮긴이: 연진희",
+      "kdc_from_api": "892.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

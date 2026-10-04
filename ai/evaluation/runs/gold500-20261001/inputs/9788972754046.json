@@ -1,0 +1,570 @@
+{
+  "isbn": "9788972754046",
+  "captured_at": "2026-10-04T00:18:36.594626+09:00",
+  "lookup": {
+    "isbn": "9788972754046",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788972754046",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "소설 쓰는 여자 ",
+      "subtitle": "",
+      "author": "채희윤",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "현대문학",
+      "publish_year": "2008",
+      "publish_predate": "20080110",
+      "kdc": "813.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "287 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "소설을 통해 진정한 삶을 찾아가는 한 여자의 좌충우돌 체험기등단 20년 만에 펴낸 채희윤 첫 장편소설. 대형마트의 심야 주차안내원, 생맥주집 아가씨, 편의점 야간 아르바이트와 아줌마 파마를 불사한 파출부 일. 오직 소설을 쓰겠다는 일념으로 세상과 맞선 어느 소설가 지망생의 기상천외 고군분투기가... ",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/043/746/04374665.jpg?type=m1&udate=20141122",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "채희윤",
+          "weight": 3.0
+        },
+        {
+          "word": "소설작법에 관한 이론",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "현대문학",
+          "weight": 2.0
+        },
+        {
+          "word": "꼭짓점",
+          "weight": 1.0
+        },
+        {
+          "word": "개의",
+          "weight": 1.0
+        },
+        {
+          "word": "지망생",
+          "weight": 1.0
+        },
+        {
+          "word": "주인공",
+          "weight": 1.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 1.0
+        },
+        {
+          "word": "욕망",
+          "weight": 1.0
+        },
+        {
+          "word": "연결",
+          "weight": 1.0
+        },
+        {
+          "word": "곰보",
+          "weight": 1.0
+        },
+        {
+          "word": "구성",
+          "weight": 1.0
+        },
+        {
+          "word": "아재",
+          "weight": 1.0
+        }
+      ],
+      "description": "소설을 통해 진정한 삶을 찾아가는 한 여자의 좌충우돌 체험기등단 20년 만에 펴낸 채희윤 첫 장편소설. 대형마트의 심야 주차안내원, 생맥주집 아가씨, 편의점 야간 아르바이트와 아줌마 파마를 불사한 파출부 일. 오직 소설을 쓰겠다는 일념으로 세상과 맞선 어느 소설가 지망생의 기상천외 고군분투기가... ",
+      "co_loan_books": [
+        {
+          "bookname": "바람이 분다, 가라 :한강 장편소설 ",
+          "isbn13": "9788932020006",
+          "authors": "한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달콤한 나의 도시:정이현 장편소설",
+          "isbn13": "9788932017150",
+          "authors": "지은이: 정이현"
+        },
+        {
+          "bookname": "여우야 여우야 뭐하니:조영아 장편소설",
+          "isbn13": "9788984311930",
+          "authors": "조영아"
+        }
+      ],
+      "title": "소설 쓰는 여자 ",
+      "author": "채희윤",
+      "kdc_from_api": "813.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "소설 쓰는 여자 ",
+        "author": "채희윤",
+        "publisher": "현대문학",
+        "publish_predate": "20080110",
+        "isbn": "9788972754046",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩9800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "소설 쓰는 여자 :채희윤 장편소설 ",
+        "author": "채희윤",
+        "publisher": "현대문학",
+        "publish_year": "2008",
+        "isbn": "8972754048",
+        "isbn13": "9788972754046",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.6",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "소설을 통해 진정한 삶을 찾아가는 한 여자의 좌충우돌 체험기등단 20년 만에 펴낸 채희윤 첫 장편소설. 대형마트의 심야 주차안내원, 생맥주집 아가씨, 편의점 야간 아르바이트와 아줌마 파마를 불사한 파출부 일. 오직 소설을 쓰겠다는 일념으로 세상과 맞선 어느 소설가 지망생의 기상천외 고군분투기가... ",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/043/746/04374665.jpg?type=m1&udate=20141122"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "채희윤",
+            "weight": 3.0
+          },
+          {
+            "word": "소설작법에 관한 이론",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "현대문학",
+            "weight": 2.0
+          },
+          {
+            "word": "꼭짓점",
+            "weight": 1.0
+          },
+          {
+            "word": "개의",
+            "weight": 1.0
+          },
+          {
+            "word": "지망생",
+            "weight": 1.0
+          },
+          {
+            "word": "주인공",
+            "weight": 1.0
+          },
+          {
+            "word": "장편소설",
+            "weight": 1.0
+          },
+          {
+            "word": "욕망",
+            "weight": 1.0
+          },
+          {
+            "word": "연결",
+            "weight": 1.0
+          },
+          {
+            "word": "곰보",
+            "weight": 1.0
+          },
+          {
+            "word": "구성",
+            "weight": 1.0
+          },
+          {
+            "word": "아재",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "바람이 분다, 가라 :한강 장편소설 ",
+            "isbn13": "9788932020006",
+            "authors": "한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "달콤한 나의 도시:정이현 장편소설",
+            "isbn13": "9788932017150",
+            "authors": "지은이: 정이현"
+          },
+          {
+            "bookname": "여우야 여우야 뭐하니:조영아 장편소설",
+            "isbn13": "9788984311930",
+            "authors": "조영아"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "소설 쓰는 여자"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001123326",
+        "title": "소설 쓰는 여자",
+        "subtitle": "",
+        "page": "287 p.",
+        "book_size": "153*224mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788972754046",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788972754046",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "소설 쓰는 여자 ",
+      "subtitle": "",
+      "author": "채희윤",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "현대문학",
+      "publish_year": "2008",
+      "publish_predate": "20080110",
+      "kdc": "813.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "287 p.",
+      "book_size": "153*224mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "소설을 통해 진정한 삶을 찾아가는 한 여자의 좌충우돌 체험기등단 20년 만에 펴낸 채희윤 첫 장편소설. 대형마트의 심야 주차안내원, 생맥주집 아가씨, 편의점 야간 아르바이트와 아줌마 파마를 불사한 파출부 일. 오직 소설을 쓰겠다는 일념으로 세상과 맞선 어느 소설가 지망생의 기상천외 고군분투기가... ",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/043/746/04374665.jpg?type=m1&udate=20141122",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "채희윤",
+          "weight": 3.0
+        },
+        {
+          "word": "소설작법에 관한 이론",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "현대문학",
+          "weight": 2.0
+        },
+        {
+          "word": "꼭짓점",
+          "weight": 1.0
+        },
+        {
+          "word": "개의",
+          "weight": 1.0
+        },
+        {
+          "word": "지망생",
+          "weight": 1.0
+        },
+        {
+          "word": "주인공",
+          "weight": 1.0
+        },
+        {
+          "word": "장편소설",
+          "weight": 1.0
+        },
+        {
+          "word": "욕망",
+          "weight": 1.0
+        },
+        {
+          "word": "연결",
+          "weight": 1.0
+        },
+        {
+          "word": "곰보",
+          "weight": 1.0
+        },
+        {
+          "word": "구성",
+          "weight": 1.0
+        },
+        {
+          "word": "아재",
+          "weight": 1.0
+        }
+      ],
+      "description": "소설을 통해 진정한 삶을 찾아가는 한 여자의 좌충우돌 체험기등단 20년 만에 펴낸 채희윤 첫 장편소설. 대형마트의 심야 주차안내원, 생맥주집 아가씨, 편의점 야간 아르바이트와 아줌마 파마를 불사한 파출부 일. 오직 소설을 쓰겠다는 일념으로 세상과 맞선 어느 소설가 지망생의 기상천외 고군분투기가... ",
+      "co_loan_books": [
+        {
+          "bookname": "바람이 분다, 가라 :한강 장편소설 ",
+          "isbn13": "9788932020006",
+          "authors": "한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달콤한 나의 도시:정이현 장편소설",
+          "isbn13": "9788932017150",
+          "authors": "지은이: 정이현"
+        },
+        {
+          "bookname": "여우야 여우야 뭐하니:조영아 장편소설",
+          "isbn13": "9788984311930",
+          "authors": "조영아"
+        }
+      ],
+      "title": "소설 쓰는 여자 ",
+      "author": "채희윤",
+      "kdc_from_api": "813.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

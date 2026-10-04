@@ -1,0 +1,294 @@
+{
+  "isbn": "9781565812314",
+  "captured_at": "2026-10-03T00:21:59.730680+09:00",
+  "lookup": {
+    "isbn": "9781565812314",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9781565812314",
+      "isbn_add_code": "52250",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "동행 125 ",
+      "subtitle": "",
+      "author": "지은이: 양창삼",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "이새의 나무",
+      "publish_year": "2014",
+      "publish_predate": "",
+      "kdc": "234.2",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 기독교 > 신앙록, 명상록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "1 p.",
+      "book_size": "525*768mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "한국 여러 분야의 최초의 여성들을 다룬 책. 최초의 여성 기자, 최초의 여성 변호사, 최초의 여성 농학 박사 등 다양한 분야의 최초의 여성들의 삶과 업적을 기록했다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/15136/70/cover/k452533360_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "한국 여러 분야의 최초의 여성들을 다룬 책. 최초의 여성 기자, 최초의 여성 변호사, 최초의 여성 농학 박사 등 다양한 분야의 최초의 여성들의 삶과 업적을 기록했다.",
+      "co_loan_books": [],
+      "title": "동행 125 ",
+      "author": "지은이: 양창삼",
+      "kdc_from_api": "234.2",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "동행 125 ",
+        "author": "지은이: 양창삼",
+        "publisher": "이새의 나무",
+        "publish_year": "2014",
+        "isbn": "156581231X",
+        "isbn13": "9781565812314",
+        "isbn_add_code": "52250",
+        "volume": "",
+        "class_no": "234.2",
+        "class_nm": "종교 > 기독교 > 신앙록, 명상록, 신앙생활",
+        "description": "한국 여러 분야의 최초의 여성들을 다룬 책. 최초의 여성 기자, 최초의 여성 변호사, 최초의 여성 농학 박사 등 다양한 분야의 최초의 여성들의 삶과 업적을 기록했다.",
+        "cover_url": "http://image.aladin.co.kr/product/15136/70/cover/k452533360_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": false,
+        "keywords": []
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": false,
+        "co_loan_books": []
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000377954",
+        "title": "예수님의 행적 한눈에 보기(지관통)",
+        "subtitle": "",
+        "page": "1 p.",
+        "book_size": "525*768mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9781565812314",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9781565812314",
+      "isbn_add_code": "52250",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "동행 125 ",
+      "subtitle": "",
+      "author": "지은이: 양창삼",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "이새의 나무",
+      "publish_year": "2014",
+      "publish_predate": "",
+      "kdc": "234.2",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 기독교 > 신앙록, 명상록, 신앙생활",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "1 p.",
+      "book_size": "525*768mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "한국 여러 분야의 최초의 여성들을 다룬 책. 최초의 여성 기자, 최초의 여성 변호사, 최초의 여성 농학 박사 등 다양한 분야의 최초의 여성들의 삶과 업적을 기록했다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/15136/70/cover/k452533360_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "한국 여러 분야의 최초의 여성들을 다룬 책. 최초의 여성 기자, 최초의 여성 변호사, 최초의 여성 농학 박사 등 다양한 분야의 최초의 여성들의 삶과 업적을 기록했다.",
+      "co_loan_books": [],
+      "title": "동행 125 ",
+      "author": "지은이: 양창삼",
+      "kdc_from_api": "234.2",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": false,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

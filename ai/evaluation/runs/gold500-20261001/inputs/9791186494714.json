@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791186494714",
+  "captured_at": "2026-10-02T00:21:59.032913+09:00",
+  "lookup": {
+    "isbn": "9791186494714",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186494714",
+      "isbn_add_code": "13630",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11500",
+      "title": "(네모아저씨의) 페이퍼 블레이드",
+      "subtitle": "누적 팽이 100개! 종이접기, 장난감이 되다!",
+      "author": "이원표 지음",
+      "volume": "4",
+      "pub_place": "",
+      "publisher": "슬로래빗",
+      "publish_year": "2021",
+      "publish_predate": "20211217",
+      "kdc": "634",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "152 p.",
+      "book_size": "190*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "누적 팽이 100개! 종이접기, 장난감이 되다!활동의 유익성과 재미, 작품성까지 갖춘기적의 종이접기 장난감을 소개합니다!언제, 누가 만들었는지 알 수 없이 시중에 전해 내려오던 종이 팽이를 바탕으로 창작하여 《네모아저씨의 페이퍼 블레이드》라는 이름의 책을 낸 지도 벌써 4년. 여전히 식지 않는 인기와... ",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/29/9791186494714.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "코어",
+          "weight": 14.0
+        },
+        {
+          "word": "종이접기",
+          "weight": 10.0
+        },
+        {
+          "word": "팽이",
+          "weight": 7.0
+        },
+        {
+          "word": "플래시",
+          "weight": 7.0
+        },
+        {
+          "word": "기본",
+          "weight": 6.0
+        },
+        {
+          "word": "Part",
+          "weight": 6.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 블레이드",
+          "weight": 6.0
+        },
+        {
+          "word": "그립",
+          "weight": 6.0
+        },
+        {
+          "word": "네모아저씨",
+          "weight": 5.0
+        },
+        {
+          "word": "크로스",
+          "weight": 5.0
+        },
+        {
+          "word": "기본형",
+          "weight": 4.0
+        },
+        {
+          "word": "페이퍼",
+          "weight": 4.0
+        },
+        {
+          "word": "프레임",
+          "weight": 4.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 레인저",
+          "weight": 3.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 애니멀",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 윙즈",
+          "weight": 3.0
+        },
+        {
+          "word": "색종이",
+          "weight": 3.0
+        },
+        {
+          "word": "장난감",
+          "weight": 3.0
+        },
+        {
+          "word": "윈드밀",
+          "weight": 3.0
+        },
+        {
+          "word": "블레이드",
+          "weight": 3.0
+        },
+        {
+          "word": "서큘레이터",
+          "weight": 2.0
+        },
+        {
+          "word": "오디세이",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "폭시",
+          "weight": 2.0
+        },
+        {
+          "word": "완성",
+          "weight": 2.0
+        },
+        {
+          "word": "모양",
+          "weight": 2.0
+        },
+        {
+          "word": "피톤치드",
+          "weight": 2.0
+        },
+        {
+          "word": "접어",
+          "weight": 2.0
+        },
+        {
+          "word": "전개형",
+          "weight": 2.0
+        },
+        {
+          "word": "의상",
+          "weight": 2.0
+        },
+        {
+          "word": "이름",
+          "weight": 2.0
+        },
+        {
+          "word": "누적",
+          "weight": 2.0
+        },
+        {
+          "word": "팁 팽이",
+          "weight": 2.0
+        },
+        {
+          "word": "뱀파이어",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 2.0
+        },
+        {
+          "word": "공격형",
+          "weight": 2.0
+        },
+        {
+          "word": "유닛",
+          "weight": 2.0
+        },
+        {
+          "word": "그리핀",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "확장형",
+          "weight": 2.0
+        },
+        {
+          "word": "서문 100개",
+          "weight": 2.0
+        },
+        {
+          "word": "슬로래빗",
+          "weight": 2.0
+        },
+        {
+          "word": "기호",
+          "weight": 2.0
+        },
+        {
+          "word": "이원표",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "활동",
+          "weight": 2.0
+        },
+        {
+          "word": "방법과",
+          "weight": 2.0
+        },
+        {
+          "word": "회사",
+          "weight": 1.0
+        },
+        {
+          "word": "놀이",
+          "weight": 1.0
+        }
+      ],
+      "description": "누적 팽이 100개! 종이접기, 장난감이 되다!활동의 유익성과 재미, 작품성까지 갖춘기적의 종이접기 장난감을 소개합니다!언제, 누가 만들었는지 알 수 없이 시중에 전해 내려오던 종이 팽이를 바탕으로 창작하여 《네모아저씨의 페이퍼 블레이드》라는 이름의 책을 낸 지도 벌써 4년. 여전히 식지 않는 인기와... ",
+      "co_loan_books": [
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494615",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494561",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "isbn13": "9791186494837",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "isbn13": "9791186494479",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "isbn13": "9791186494530",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "isbn13": "9791186494592",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :절제된 외형, 나아진 성능! 팽이의 본질을 되묻다! ",
+          "isbn13": "9791186494967",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+          "isbn13": "9791186494660",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈",
+          "isbn13": "9791186494882",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 쥐라기 ",
+          "isbn13": "9791186494806",
+          "authors": "이원표 지음"
+        }
+      ],
+      "title": "(네모아저씨의) 페이퍼 블레이드",
+      "author": "이원표 지음",
+      "kdc_from_api": "634",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(네모아저씨의) 페이퍼 블레이드",
+        "author": "이원표 지음",
+        "publisher": "슬로래빗",
+        "publish_predate": "20211217",
+        "isbn": "9791186494714",
+        "isbn_add_code": "13630",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩11500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "0",
+        "volume": "4",
+        "page": "151 p.",
+        "book_size": "190*220",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/29/9791186494714.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(네모아저씨의) 페이퍼 블레이드",
+        "author": "이원표 지음",
+        "publisher": "슬로래빗",
+        "publish_year": "2021",
+        "isbn": "1186494719",
+        "isbn13": "9791186494714",
+        "isbn_add_code": "13630",
+        "volume": "4",
+        "class_no": "634",
+        "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+        "description": "누적 팽이 100개! 종이접기, 장난감이 되다!활동의 유익성과 재미, 작품성까지 갖춘기적의 종이접기 장난감을 소개합니다!언제, 누가 만들었는지 알 수 없이 시중에 전해 내려오던 종이 팽이를 바탕으로 창작하여 《네모아저씨의 페이퍼 블레이드》라는 이름의 책을 낸 지도 벌써 4년. 여전히 식지 않는 인기와... ",
+        "cover_url": "https://image.aladin.co.kr/product/28447/97/cover/k822835517_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "코어",
+            "weight": 14.0
+          },
+          {
+            "word": "종이접기",
+            "weight": 10.0
+          },
+          {
+            "word": "팽이",
+            "weight": 7.0
+          },
+          {
+            "word": "플래시",
+            "weight": 7.0
+          },
+          {
+            "word": "기본",
+            "weight": 6.0
+          },
+          {
+            "word": "Part",
+            "weight": 6.0
+          },
+          {
+            "word": "네모아저씨의 페이퍼 블레이드",
+            "weight": 6.0
+          },
+          {
+            "word": "그립",
+            "weight": 6.0
+          },
+          {
+            "word": "네모아저씨",
+            "weight": 5.0
+          },
+          {
+            "word": "크로스",
+            "weight": 5.0
+          },
+          {
+            "word": "기본형",
+            "weight": 4.0
+          },
+          {
+            "word": "페이퍼",
+            "weight": 4.0
+          },
+          {
+            "word": "프레임",
+            "weight": 4.0
+          },
+          {
+            "word": "네모아저씨의 페이퍼 레인저",
+            "weight": 3.0
+          },
+          {
+            "word": "네모아저씨의 페이퍼 애니멀",
+            "weight": 3.0
+          },
+          {
+            "word": "소개",
+            "weight": 3.0
+          },
+          {
+            "word": "네모아저씨의 페이퍼 윙즈",
+            "weight": 3.0
+          },
+          {
+            "word": "색종이",
+            "weight": 3.0
+          },
+          {
+            "word": "장난감",
+            "weight": 3.0
+          },
+          {
+            "word": "윈드밀",
+            "weight": 3.0
+          },
+          {
+            "word": "블레이드",
+            "weight": 3.0
+          },
+          {
+            "word": "서큘레이터",
+            "weight": 2.0
+          },
+          {
+            "word": "오디세이",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "폭시",
+            "weight": 2.0
+          },
+          {
+            "word": "완성",
+            "weight": 2.0
+          },
+          {
+            "word": "모양",
+            "weight": 2.0
+          },
+          {
+            "word": "피톤치드",
+            "weight": 2.0
+          },
+          {
+            "word": "접어",
+            "weight": 2.0
+          },
+          {
+            "word": "전개형",
+            "weight": 2.0
+          },
+          {
+            "word": "의상",
+            "weight": 2.0
+          },
+          {
+            "word": "이름",
+            "weight": 2.0
+          },
+          {
+            "word": "누적",
+            "weight": 2.0
+          },
+          {
+            "word": "팁 팽이",
+            "weight": 2.0
+          },
+          {
+            "word": "뱀파이어",
+            "weight": 2.0
+          },
+          {
+            "word": "스타",
+            "weight": 2.0
+          },
+          {
+            "word": "공격형",
+            "weight": 2.0
+          },
+          {
+            "word": "유닛",
+            "weight": 2.0
+          },
+          {
+            "word": "그리핀",
+            "weight": 2.0
+          },
+          {
+            "word": "방법",
+            "weight": 2.0
+          },
+          {
+            "word": "확장형",
+            "weight": 2.0
+          },
+          {
+            "word": "서문 100개",
+            "weight": 2.0
+          },
+          {
+            "word": "슬로래빗",
+            "weight": 2.0
+          },
+          {
+            "word": "기호",
+            "weight": 2.0
+          },
+          {
+            "word": "이원표",
+            "weight": 2.0
+          },
+          {
+            "word": "음악 미술 예체능",
+            "weight": 2.0
+          },
+          {
+            "word": "활동",
+            "weight": 2.0
+          },
+          {
+            "word": "방법과",
+            "weight": 2.0
+          },
+          {
+            "word": "회사",
+            "weight": 1.0
+          },
+          {
+            "word": "놀이",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드",
+            "isbn13": "9791186494615",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드",
+            "isbn13": "9791186494561",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+            "isbn13": "9791186494837",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+            "isbn13": "9791186494479",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+            "isbn13": "9791186494530",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+            "isbn13": "9791186494592",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드 :절제된 외형, 나아진 성능! 팽이의 본질을 되묻다! ",
+            "isbn13": "9791186494967",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+            "isbn13": "9791186494660",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 윙즈",
+            "isbn13": "9791186494882",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 쥐라기 ",
+            "isbn13": "9791186494806",
+            "authors": "이원표 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(네모아저씨의) 페이퍼 블레이드 4 - 누적팽이100개 종이접기의 신세계 개척"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001886134",
+        "title": "네모아저씨의 페이퍼 블레이드 4: 프런티어",
+        "subtitle": "누적 팽이 100개! 종이접기, 장난감이 되다!",
+        "page": "152 p.",
+        "book_size": "192*221mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791186494714",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186494714",
+      "isbn_add_code": "13630",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11500",
+      "title": "(네모아저씨의) 페이퍼 블레이드",
+      "subtitle": "누적 팽이 100개! 종이접기, 장난감이 되다!",
+      "author": "이원표 지음",
+      "volume": "4",
+      "pub_place": "",
+      "publisher": "슬로래빗",
+      "publish_year": "2021",
+      "publish_predate": "20211217",
+      "kdc": "634",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "152 p.",
+      "book_size": "190*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "누적 팽이 100개! 종이접기, 장난감이 되다!활동의 유익성과 재미, 작품성까지 갖춘기적의 종이접기 장난감을 소개합니다!언제, 누가 만들었는지 알 수 없이 시중에 전해 내려오던 종이 팽이를 바탕으로 창작하여 《네모아저씨의 페이퍼 블레이드》라는 이름의 책을 낸 지도 벌써 4년. 여전히 식지 않는 인기와... ",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/29/9791186494714.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "코어",
+          "weight": 14.0
+        },
+        {
+          "word": "종이접기",
+          "weight": 10.0
+        },
+        {
+          "word": "팽이",
+          "weight": 7.0
+        },
+        {
+          "word": "플래시",
+          "weight": 7.0
+        },
+        {
+          "word": "기본",
+          "weight": 6.0
+        },
+        {
+          "word": "Part",
+          "weight": 6.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 블레이드",
+          "weight": 6.0
+        },
+        {
+          "word": "그립",
+          "weight": 6.0
+        },
+        {
+          "word": "네모아저씨",
+          "weight": 5.0
+        },
+        {
+          "word": "크로스",
+          "weight": 5.0
+        },
+        {
+          "word": "기본형",
+          "weight": 4.0
+        },
+        {
+          "word": "페이퍼",
+          "weight": 4.0
+        },
+        {
+          "word": "프레임",
+          "weight": 4.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 레인저",
+          "weight": 3.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 애니멀",
+          "weight": 3.0
+        },
+        {
+          "word": "소개",
+          "weight": 3.0
+        },
+        {
+          "word": "네모아저씨의 페이퍼 윙즈",
+          "weight": 3.0
+        },
+        {
+          "word": "색종이",
+          "weight": 3.0
+        },
+        {
+          "word": "장난감",
+          "weight": 3.0
+        },
+        {
+          "word": "윈드밀",
+          "weight": 3.0
+        },
+        {
+          "word": "블레이드",
+          "weight": 3.0
+        },
+        {
+          "word": "서큘레이터",
+          "weight": 2.0
+        },
+        {
+          "word": "오디세이",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "폭시",
+          "weight": 2.0
+        },
+        {
+          "word": "완성",
+          "weight": 2.0
+        },
+        {
+          "word": "모양",
+          "weight": 2.0
+        },
+        {
+          "word": "피톤치드",
+          "weight": 2.0
+        },
+        {
+          "word": "접어",
+          "weight": 2.0
+        },
+        {
+          "word": "전개형",
+          "weight": 2.0
+        },
+        {
+          "word": "의상",
+          "weight": 2.0
+        },
+        {
+          "word": "이름",
+          "weight": 2.0
+        },
+        {
+          "word": "누적",
+          "weight": 2.0
+        },
+        {
+          "word": "팁 팽이",
+          "weight": 2.0
+        },
+        {
+          "word": "뱀파이어",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 2.0
+        },
+        {
+          "word": "공격형",
+          "weight": 2.0
+        },
+        {
+          "word": "유닛",
+          "weight": 2.0
+        },
+        {
+          "word": "그리핀",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "확장형",
+          "weight": 2.0
+        },
+        {
+          "word": "서문 100개",
+          "weight": 2.0
+        },
+        {
+          "word": "슬로래빗",
+          "weight": 2.0
+        },
+        {
+          "word": "기호",
+          "weight": 2.0
+        },
+        {
+          "word": "이원표",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "활동",
+          "weight": 2.0
+        },
+        {
+          "word": "방법과",
+          "weight": 2.0
+        },
+        {
+          "word": "회사",
+          "weight": 1.0
+        },
+        {
+          "word": "놀이",
+          "weight": 1.0
+        }
+      ],
+      "description": "누적 팽이 100개! 종이접기, 장난감이 되다!활동의 유익성과 재미, 작품성까지 갖춘기적의 종이접기 장난감을 소개합니다!언제, 누가 만들었는지 알 수 없이 시중에 전해 내려오던 종이 팽이를 바탕으로 창작하여 《네모아저씨의 페이퍼 블레이드》라는 이름의 책을 낸 지도 벌써 4년. 여전히 식지 않는 인기와... ",
+      "co_loan_books": [
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494615",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494561",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "isbn13": "9791186494837",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "isbn13": "9791186494479",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "isbn13": "9791186494530",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "isbn13": "9791186494592",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :절제된 외형, 나아진 성능! 팽이의 본질을 되묻다! ",
+          "isbn13": "9791186494967",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+          "isbn13": "9791186494660",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈",
+          "isbn13": "9791186494882",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 쥐라기 ",
+          "isbn13": "9791186494806",
+          "authors": "이원표 지음"
+        }
+      ],
+      "title": "(네모아저씨의) 페이퍼 블레이드",
+      "author": "이원표 지음",
+      "kdc_from_api": "634",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

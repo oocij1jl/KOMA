@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788971849170",
+  "captured_at": "2026-10-04T00:15:54.610196+09:00",
+  "lookup": {
+    "isbn": "9788971849170",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788971849170",
+      "isbn_add_code": "44850",
+      "set_isbn": "9788971844649",
+      "set_add_code": "44850 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "젊은 베르테르의 슬픔",
+      "subtitle": "",
+      "author": "괴테 지음; 유영미 옮김; 박정은 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "푸른숲",
+      "publish_year": "2011",
+      "publish_predate": "20110727",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "푸른숲 징검다리 클래식",
+      "series_no": "033",
+      "page": "192 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "청소년 징검다리 클래식 시리즈 33권. 독일의 대문호 괴테가 처음으로 세상에 선보인 소설로, 감수성 풍부한 청년 베르테르가 이루지 못할 사랑에 괴로워하다가 비극적으로 삶을 마감하는 이야기를 담고 있다. ‘푸른숲 징검다리 클래식’ 시리즈에는 현직 국어 선생님의 꼼꼼하고도 풍성한 해설이 포함되어 있다.",
+      "control_no": "CIP2011002954",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_3_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_6_1.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "젊은 베르테르의 슬픔",
+          "weight": 15.0
+        },
+        {
+          "word": "베르테르",
+          "weight": 14.0
+        },
+        {
+          "word": "괴테",
+          "weight": 12.0
+        },
+        {
+          "word": "사랑",
+          "weight": 11.0
+        },
+        {
+          "word": "자신",
+          "weight": 9.0
+        },
+        {
+          "word": "파우스트",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "로테",
+          "weight": 5.0
+        },
+        {
+          "word": "설명",
+          "weight": 5.0
+        },
+        {
+          "word": "청년",
+          "weight": 5.0
+        },
+        {
+          "word": "서간체",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "자살",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 4.0
+        },
+        {
+          "word": "푸른숲",
+          "weight": 4.0
+        },
+        {
+          "word": "풍부",
+          "weight": 4.0
+        },
+        {
+          "word": "해설",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 3.0
+        },
+        {
+          "word": "열정",
+          "weight": 3.0
+        },
+        {
+          "word": "국어",
+          "weight": 3.0
+        },
+        {
+          "word": "클래식",
+          "weight": 3.0
+        },
+        {
+          "word": "색채론",
+          "weight": 3.0
+        },
+        {
+          "word": "친화력",
+          "weight": 3.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "고통",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "여인",
+          "weight": 3.0
+        },
+        {
+          "word": "현직",
+          "weight": 3.0
+        },
+        {
+          "word": "생생",
+          "weight": 3.0
+        },
+        {
+          "word": "대문호",
+          "weight": 3.0
+        },
+        {
+          "word": "감수성",
+          "weight": 3.0
+        },
+        {
+          "word": "감정",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "징검다리",
+          "weight": 3.0
+        },
+        {
+          "word": "젊은 베르터의 고뇌",
+          "weight": 3.0
+        },
+        {
+          "word": "계몽주의",
+          "weight": 3.0
+        },
+        {
+          "word": "독일",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심도",
+          "weight": 2.0
+        },
+        {
+          "word": "권총",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "꼼꼼",
+          "weight": 2.0
+        },
+        {
+          "word": "감성",
+          "weight": 2.0
+        },
+        {
+          "word": "열정적",
+          "weight": 2.0
+        },
+        {
+          "word": "희곡",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "운동",
+          "weight": 2.0
+        },
+        {
+          "word": "요한 볼프강 폰 괴테",
+          "weight": 2.0
+        }
+      ],
+      "description": "청소년 징검다리 클래식 시리즈 33권. 독일의 대문호 괴테가 처음으로 세상에 선보인 소설로, 감수성 풍부한 청년 베르테르가 이루지 못할 사랑에 괴로워하다가 비극적으로 삶을 마감하는 이야기를 담고 있다. ‘푸른숲 징검다리 클래식’ 시리즈에는 현직 국어 선생님의 꼼꼼하고도 풍성한 해설이 포함되어 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "데미안 ",
+          "isbn13": "9788971849729",
+          "authors": "헤르만 헤세 지음 ;전은경 옮김"
+        },
+        {
+          "bookname": "죄와 벌 ",
+          "isbn13": "9788971848265",
+          "authors": "표도르 M. 도스토옙스키 지음 ;정승환 그림"
+        },
+        {
+          "bookname": "노인과 바다 ",
+          "isbn13": "9788971849651",
+          "authors": "어니스트 헤밍웨이 지음 ;박상은 옮김"
+        },
+        {
+          "bookname": "오만과 편견",
+          "isbn13": "9788971844663",
+          "authors": "제인 오스틴 지음;최영란 그림"
+        },
+        {
+          "bookname": "변신 ",
+          "isbn13": "9788971849781",
+          "authors": "프란츠 카프카 지음 ;장혜경 옮김"
+        },
+        {
+          "bookname": "오페라의 유령",
+          "isbn13": "9788971844656",
+          "authors": "가스통 르루 지음;이신정 그림"
+        },
+        {
+          "bookname": "위대한 개츠비 ",
+          "isbn13": "9788971847572",
+          "authors": "F. 스콧 피츠제럴드 지음 ;이경하 그림"
+        },
+        {
+          "bookname": "주홍 글씨 ",
+          "isbn13": "9788971847640",
+          "authors": "너대니얼 호손 지음 ;김무연 그림"
+        },
+        {
+          "bookname": "폭풍의 언덕",
+          "isbn13": "9788971844717",
+          "authors": "에밀리 브론테 지음;안재선 그림"
+        },
+        {
+          "bookname": "모비 딕 ",
+          "isbn13": "9788971847534",
+          "authors": "허먼 멜빌 지음 ;밥 하비 그림"
+        }
+      ],
+      "title": "젊은 베르테르의 슬픔",
+      "author": "괴테 지음; 유영미 옮김; 박정은 그림",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "젊은 베르테르의 슬픔",
+        "author": "괴테 지음; 유영미 옮김; 박정은 그림",
+        "publisher": "푸른숲",
+        "publish_predate": "20110727",
+        "isbn": "9788971849170",
+        "isbn_add_code": "44850",
+        "set_isbn": "9788971844649",
+        "set_add_code": "44850 ",
+        "set_expression": "",
+        "price": "₩9800",
+        "edition_stmt": "",
+        "series_title": "푸른숲 징검다리 클래식",
+        "series_no": "033",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "853",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2011002954",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_3_1.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_6_1.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "젊은 베르테르의 슬픔 ",
+        "author": "요한 볼프강 폰 괴테 지음 ;박정은 그림",
+        "publisher": "푸른숲",
+        "publish_year": "2011",
+        "isbn": "8971849177",
+        "isbn13": "9788971849170",
+        "isbn_add_code": "44850",
+        "volume": "",
+        "class_no": "853",
+        "class_nm": "문학 > 독일문학 > 소설",
+        "description": "청소년 징검다리 클래식 시리즈 33권. 독일의 대문호 괴테가 처음으로 세상에 선보인 소설로, 감수성 풍부한 청년 베르테르가 이루지 못할 사랑에 괴로워하다가 비극적으로 삶을 마감하는 이야기를 담고 있다. ‘푸른숲 징검다리 클래식’ 시리즈에는 현직 국어 선생님의 꼼꼼하고도 풍성한 해설이 포함되어 있다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/067/042/06704207.jpg?type=m1&udate=20150721"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "젊은 베르테르의 슬픔",
+            "weight": 15.0
+          },
+          {
+            "word": "베르테르",
+            "weight": 14.0
+          },
+          {
+            "word": "괴테",
+            "weight": 12.0
+          },
+          {
+            "word": "사랑",
+            "weight": 11.0
+          },
+          {
+            "word": "자신",
+            "weight": 9.0
+          },
+          {
+            "word": "파우스트",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 5.0
+          },
+          {
+            "word": "로테",
+            "weight": 5.0
+          },
+          {
+            "word": "설명",
+            "weight": 5.0
+          },
+          {
+            "word": "청년",
+            "weight": 5.0
+          },
+          {
+            "word": "서간체",
+            "weight": 4.0
+          },
+          {
+            "word": "인물",
+            "weight": 4.0
+          },
+          {
+            "word": "자살",
+            "weight": 4.0
+          },
+          {
+            "word": "문학",
+            "weight": 4.0
+          },
+          {
+            "word": "푸른숲",
+            "weight": 4.0
+          },
+          {
+            "word": "풍부",
+            "weight": 4.0
+          },
+          {
+            "word": "해설",
+            "weight": 4.0
+          },
+          {
+            "word": "의미",
+            "weight": 3.0
+          },
+          {
+            "word": "열정",
+            "weight": 3.0
+          },
+          {
+            "word": "국어",
+            "weight": 3.0
+          },
+          {
+            "word": "클래식",
+            "weight": 3.0
+          },
+          {
+            "word": "색채론",
+            "weight": 3.0
+          },
+          {
+            "word": "친화력",
+            "weight": 3.0
+          },
+          {
+            "word": "배경",
+            "weight": 3.0
+          },
+          {
+            "word": "고통",
+            "weight": 3.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 3.0
+          },
+          {
+            "word": "여인",
+            "weight": 3.0
+          },
+          {
+            "word": "현직",
+            "weight": 3.0
+          },
+          {
+            "word": "생생",
+            "weight": 3.0
+          },
+          {
+            "word": "대문호",
+            "weight": 3.0
+          },
+          {
+            "word": "감수성",
+            "weight": 3.0
+          },
+          {
+            "word": "감정",
+            "weight": 3.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "청소년",
+            "weight": 3.0
+          },
+          {
+            "word": "징검다리",
+            "weight": 3.0
+          },
+          {
+            "word": "젊은 베르터의 고뇌",
+            "weight": 3.0
+          },
+          {
+            "word": "계몽주의",
+            "weight": 3.0
+          },
+          {
+            "word": "독일",
+            "weight": 3.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 2.0
+          },
+          {
+            "word": "심도",
+            "weight": 2.0
+          },
+          {
+            "word": "권총",
+            "weight": 2.0
+          },
+          {
+            "word": "깊이",
+            "weight": 2.0
+          },
+          {
+            "word": "꼼꼼",
+            "weight": 2.0
+          },
+          {
+            "word": "감성",
+            "weight": 2.0
+          },
+          {
+            "word": "열정적",
+            "weight": 2.0
+          },
+          {
+            "word": "희곡",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "운동",
+            "weight": 2.0
+          },
+          {
+            "word": "요한 볼프강 폰 괴테",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "데미안 ",
+            "isbn13": "9788971849729",
+            "authors": "헤르만 헤세 지음 ;전은경 옮김"
+          },
+          {
+            "bookname": "죄와 벌 ",
+            "isbn13": "9788971848265",
+            "authors": "표도르 M. 도스토옙스키 지음 ;정승환 그림"
+          },
+          {
+            "bookname": "노인과 바다 ",
+            "isbn13": "9788971849651",
+            "authors": "어니스트 헤밍웨이 지음 ;박상은 옮김"
+          },
+          {
+            "bookname": "오만과 편견",
+            "isbn13": "9788971844663",
+            "authors": "제인 오스틴 지음;최영란 그림"
+          },
+          {
+            "bookname": "변신 ",
+            "isbn13": "9788971849781",
+            "authors": "프란츠 카프카 지음 ;장혜경 옮김"
+          },
+          {
+            "bookname": "오페라의 유령",
+            "isbn13": "9788971844656",
+            "authors": "가스통 르루 지음;이신정 그림"
+          },
+          {
+            "bookname": "위대한 개츠비 ",
+            "isbn13": "9788971847572",
+            "authors": "F. 스콧 피츠제럴드 지음 ;이경하 그림"
+          },
+          {
+            "bookname": "주홍 글씨 ",
+            "isbn13": "9788971847640",
+            "authors": "너대니얼 호손 지음 ;김무연 그림"
+          },
+          {
+            "bookname": "폭풍의 언덕",
+            "isbn13": "9788971844717",
+            "authors": "에밀리 브론테 지음;안재선 그림"
+          },
+          {
+            "bookname": "모비 딕 ",
+            "isbn13": "9788971847534",
+            "authors": "허먼 멜빌 지음 ;밥 하비 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "젊은 베르테르의 슬픔"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001106033",
+        "title": "젊은 베르테르의 슬픔",
+        "subtitle": "",
+        "page": "192 p.",
+        "book_size": "148*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788971849170",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788971849170",
+      "isbn_add_code": "44850",
+      "set_isbn": "9788971844649",
+      "set_add_code": "44850 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "젊은 베르테르의 슬픔",
+      "subtitle": "",
+      "author": "괴테 지음; 유영미 옮김; 박정은 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "푸른숲",
+      "publish_year": "2011",
+      "publish_predate": "20110727",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "푸른숲 징검다리 클래식",
+      "series_no": "033",
+      "page": "192 p.",
+      "book_size": "148*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "청소년 징검다리 클래식 시리즈 33권. 독일의 대문호 괴테가 처음으로 세상에 선보인 소설로, 감수성 풍부한 청년 베르테르가 이루지 못할 사랑에 괴로워하다가 비극적으로 삶을 마감하는 이야기를 담고 있다. ‘푸른숲 징검다리 클래식’ 시리즈에는 현직 국어 선생님의 꼼꼼하고도 풍성한 해설이 포함되어 있다.",
+      "control_no": "CIP2011002954",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_3_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2493965_6_1.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "젊은 베르테르의 슬픔",
+          "weight": 15.0
+        },
+        {
+          "word": "베르테르",
+          "weight": 14.0
+        },
+        {
+          "word": "괴테",
+          "weight": 12.0
+        },
+        {
+          "word": "사랑",
+          "weight": 11.0
+        },
+        {
+          "word": "자신",
+          "weight": 9.0
+        },
+        {
+          "word": "파우스트",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "로테",
+          "weight": 5.0
+        },
+        {
+          "word": "설명",
+          "weight": 5.0
+        },
+        {
+          "word": "청년",
+          "weight": 5.0
+        },
+        {
+          "word": "서간체",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "자살",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 4.0
+        },
+        {
+          "word": "푸른숲",
+          "weight": 4.0
+        },
+        {
+          "word": "풍부",
+          "weight": 4.0
+        },
+        {
+          "word": "해설",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 3.0
+        },
+        {
+          "word": "열정",
+          "weight": 3.0
+        },
+        {
+          "word": "국어",
+          "weight": 3.0
+        },
+        {
+          "word": "클래식",
+          "weight": 3.0
+        },
+        {
+          "word": "색채론",
+          "weight": 3.0
+        },
+        {
+          "word": "친화력",
+          "weight": 3.0
+        },
+        {
+          "word": "배경",
+          "weight": 3.0
+        },
+        {
+          "word": "고통",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "여인",
+          "weight": 3.0
+        },
+        {
+          "word": "현직",
+          "weight": 3.0
+        },
+        {
+          "word": "생생",
+          "weight": 3.0
+        },
+        {
+          "word": "대문호",
+          "weight": 3.0
+        },
+        {
+          "word": "감수성",
+          "weight": 3.0
+        },
+        {
+          "word": "감정",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "징검다리",
+          "weight": 3.0
+        },
+        {
+          "word": "젊은 베르터의 고뇌",
+          "weight": 3.0
+        },
+        {
+          "word": "계몽주의",
+          "weight": 3.0
+        },
+        {
+          "word": "독일",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "심도",
+          "weight": 2.0
+        },
+        {
+          "word": "권총",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "꼼꼼",
+          "weight": 2.0
+        },
+        {
+          "word": "감성",
+          "weight": 2.0
+        },
+        {
+          "word": "열정적",
+          "weight": 2.0
+        },
+        {
+          "word": "희곡",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "운동",
+          "weight": 2.0
+        },
+        {
+          "word": "요한 볼프강 폰 괴테",
+          "weight": 2.0
+        }
+      ],
+      "description": "청소년 징검다리 클래식 시리즈 33권. 독일의 대문호 괴테가 처음으로 세상에 선보인 소설로, 감수성 풍부한 청년 베르테르가 이루지 못할 사랑에 괴로워하다가 비극적으로 삶을 마감하는 이야기를 담고 있다. ‘푸른숲 징검다리 클래식’ 시리즈에는 현직 국어 선생님의 꼼꼼하고도 풍성한 해설이 포함되어 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "데미안 ",
+          "isbn13": "9788971849729",
+          "authors": "헤르만 헤세 지음 ;전은경 옮김"
+        },
+        {
+          "bookname": "죄와 벌 ",
+          "isbn13": "9788971848265",
+          "authors": "표도르 M. 도스토옙스키 지음 ;정승환 그림"
+        },
+        {
+          "bookname": "노인과 바다 ",
+          "isbn13": "9788971849651",
+          "authors": "어니스트 헤밍웨이 지음 ;박상은 옮김"
+        },
+        {
+          "bookname": "오만과 편견",
+          "isbn13": "9788971844663",
+          "authors": "제인 오스틴 지음;최영란 그림"
+        },
+        {
+          "bookname": "변신 ",
+          "isbn13": "9788971849781",
+          "authors": "프란츠 카프카 지음 ;장혜경 옮김"
+        },
+        {
+          "bookname": "오페라의 유령",
+          "isbn13": "9788971844656",
+          "authors": "가스통 르루 지음;이신정 그림"
+        },
+        {
+          "bookname": "위대한 개츠비 ",
+          "isbn13": "9788971847572",
+          "authors": "F. 스콧 피츠제럴드 지음 ;이경하 그림"
+        },
+        {
+          "bookname": "주홍 글씨 ",
+          "isbn13": "9788971847640",
+          "authors": "너대니얼 호손 지음 ;김무연 그림"
+        },
+        {
+          "bookname": "폭풍의 언덕",
+          "isbn13": "9788971844717",
+          "authors": "에밀리 브론테 지음;안재선 그림"
+        },
+        {
+          "bookname": "모비 딕 ",
+          "isbn13": "9788971847534",
+          "authors": "허먼 멜빌 지음 ;밥 하비 그림"
+        }
+      ],
+      "title": "젊은 베르테르의 슬픔",
+      "author": "괴테 지음; 유영미 옮김; 박정은 그림",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

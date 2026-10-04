@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791188248674",
+  "captured_at": "2026-10-02T00:19:44.478669+09:00",
+  "lookup": {
+    "isbn": "9791188248674",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188248674",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다",
+      "subtitle": "간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는",
+      "author": "임홍택 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Whale Books(웨일북)",
+      "publish_year": "2018",
+      "publish_predate": "20181116",
+      "kdc": "325.3",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "658.3",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "145*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "90년대생은 이제 조직에서는 신입 사원이, 시장에서는 트렌드를 이끄는 주요 소비자가 되어 우리 곁에 있다. 문제는 기성세대의 관점에서 그들을 이해하기가 어렵다는 것이다. 이 책에 담긴 여러 통계와 사례, 인터뷰에는 그들을 이해할 수 있는 실마리가 담겨 있다.",
+      "control_no": "CIP2018035039",
+      "cover_url": "https://image.aladin.co.kr/product/17329/9/cover/k682534399_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세대",
+          "weight": 33.0
+        },
+        {
+          "word": "90년대생",
+          "weight": 24.0
+        },
+        {
+          "word": "공무원",
+          "weight": 15.0
+        },
+        {
+          "word": "기업",
+          "weight": 14.0
+        },
+        {
+          "word": "이해",
+          "weight": 14.0
+        },
+        {
+          "word": "특징",
+          "weight": 9.0
+        },
+        {
+          "word": "90년대생들",
+          "weight": 9.0
+        },
+        {
+          "word": "기성세대",
+          "weight": 9.0
+        },
+        {
+          "word": "시대",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "이유",
+          "weight": 7.0
+        },
+        {
+          "word": "회사",
+          "weight": 7.0
+        },
+        {
+          "word": "소비자",
+          "weight": 7.0
+        },
+        {
+          "word": "조직",
+          "weight": 6.0
+        },
+        {
+          "word": "이들",
+          "weight": 6.0
+        },
+        {
+          "word": "9급",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "시장",
+          "weight": 5.0
+        },
+        {
+          "word": "솔직",
+          "weight": 5.0
+        },
+        {
+          "word": "변하는",
+          "weight": 5.0
+        },
+        {
+          "word": "시험",
+          "weight": 5.0
+        },
+        {
+          "word": "요구",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "통계",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "열광",
+          "weight": 4.0
+        },
+        {
+          "word": "거부",
+          "weight": 4.0
+        },
+        {
+          "word": "호갱",
+          "weight": 4.0
+        },
+        {
+          "word": "모바일",
+          "weight": 4.0
+        },
+        {
+          "word": "제품",
+          "weight": 4.0
+        },
+        {
+          "word": "네이티브",
+          "weight": 4.0
+        },
+        {
+          "word": "자체",
+          "weight": 3.0
+        },
+        {
+          "word": "산업",
+          "weight": 3.0
+        },
+        {
+          "word": "비판",
+          "weight": 3.0
+        },
+        {
+          "word": "병맛",
+          "weight": 3.0
+        },
+        {
+          "word": "유머",
+          "weight": 3.0
+        },
+        {
+          "word": "욕구",
+          "weight": 3.0
+        },
+        {
+          "word": "일과",
+          "weight": 3.0
+        },
+        {
+          "word": "등장",
+          "weight": 3.0
+        },
+        {
+          "word": "온라인",
+          "weight": 3.0
+        },
+        {
+          "word": "고용",
+          "weight": 3.0
+        },
+        {
+          "word": "소재",
+          "weight": 3.0
+        },
+        {
+          "word": "맥락",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "관리",
+          "weight": 3.0
+        },
+        {
+          "word": "광고",
+          "weight": 3.0
+        },
+        {
+          "word": "와썹맨",
+          "weight": 3.0
+        },
+        {
+          "word": "간단",
+          "weight": 3.0
+        },
+        {
+          "word": "근거",
+          "weight": 3.0
+        },
+        {
+          "word": "균형",
+          "weight": 3.0
+        }
+      ],
+      "description": "90년대생은 이제 조직에서는 신입 사원이, 시장에서는 트렌드를 이끄는 주요 소비자가 되어 우리 곁에 있다. 문제는 기성세대의 관점에서 그들을 이해하기가 어렵다는 것이다. 이 책에 담긴 여러 통계와 사례, 인터뷰에는 그들을 이해할 수 있는 실마리가 담겨 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "2000년생이 온다 :초합리, 초개인, 초자율의 탈사회형 AI인간 ",
+          "isbn13": "9791198520500",
+          "authors": "임홍택 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다",
+      "author": "임홍택 지음",
+      "kdc_from_api": "325.3",
+      "ddc_from_api": "658.3",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다",
+        "author": "임홍택 지음",
+        "publisher": "Whale Books(웨일북)",
+        "publish_predate": "20181116",
+        "isbn": "9791188248674",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "336 p.",
+        "book_size": "145*210",
+        "form": "종이책",
+        "kdc": "325.3",
+        "ddc": "658.3",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018035039",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다 ",
+        "author": "임홍택 지음",
+        "publisher": "Whale Books(웨일북)",
+        "publish_year": "2018",
+        "isbn": "1188248677",
+        "isbn13": "9791188248674",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "331.234",
+        "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+        "description": "90년대생은 이제 조직에서는 신입 사원이, 시장에서는 트렌드를 이끄는 주요 소비자가 되어 우리 곁에 있다. 문제는 기성세대의 관점에서 그들을 이해하기가 어렵다는 것이다. 이 책에 담긴 여러 통계와 사례, 인터뷰에는 그들을 이해할 수 있는 실마리가 담겨 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/17329/9/cover/k682534399_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "세대",
+            "weight": 33.0
+          },
+          {
+            "word": "90년대생",
+            "weight": 24.0
+          },
+          {
+            "word": "공무원",
+            "weight": 15.0
+          },
+          {
+            "word": "기업",
+            "weight": 14.0
+          },
+          {
+            "word": "이해",
+            "weight": 14.0
+          },
+          {
+            "word": "특징",
+            "weight": 9.0
+          },
+          {
+            "word": "90년대생들",
+            "weight": 9.0
+          },
+          {
+            "word": "기성세대",
+            "weight": 9.0
+          },
+          {
+            "word": "시대",
+            "weight": 8.0
+          },
+          {
+            "word": "자신",
+            "weight": 8.0
+          },
+          {
+            "word": "이유",
+            "weight": 7.0
+          },
+          {
+            "word": "회사",
+            "weight": 7.0
+          },
+          {
+            "word": "소비자",
+            "weight": 7.0
+          },
+          {
+            "word": "조직",
+            "weight": 6.0
+          },
+          {
+            "word": "이들",
+            "weight": 6.0
+          },
+          {
+            "word": "9급",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 6.0
+          },
+          {
+            "word": "시장",
+            "weight": 5.0
+          },
+          {
+            "word": "솔직",
+            "weight": 5.0
+          },
+          {
+            "word": "변하는",
+            "weight": 5.0
+          },
+          {
+            "word": "시험",
+            "weight": 5.0
+          },
+          {
+            "word": "요구",
+            "weight": 5.0
+          },
+          {
+            "word": "생각",
+            "weight": 5.0
+          },
+          {
+            "word": "통계",
+            "weight": 4.0
+          },
+          {
+            "word": "방식",
+            "weight": 4.0
+          },
+          {
+            "word": "열광",
+            "weight": 4.0
+          },
+          {
+            "word": "거부",
+            "weight": 4.0
+          },
+          {
+            "word": "호갱",
+            "weight": 4.0
+          },
+          {
+            "word": "모바일",
+            "weight": 4.0
+          },
+          {
+            "word": "제품",
+            "weight": 4.0
+          },
+          {
+            "word": "네이티브",
+            "weight": 4.0
+          },
+          {
+            "word": "자체",
+            "weight": 3.0
+          },
+          {
+            "word": "산업",
+            "weight": 3.0
+          },
+          {
+            "word": "비판",
+            "weight": 3.0
+          },
+          {
+            "word": "병맛",
+            "weight": 3.0
+          },
+          {
+            "word": "유머",
+            "weight": 3.0
+          },
+          {
+            "word": "욕구",
+            "weight": 3.0
+          },
+          {
+            "word": "일과",
+            "weight": 3.0
+          },
+          {
+            "word": "등장",
+            "weight": 3.0
+          },
+          {
+            "word": "온라인",
+            "weight": 3.0
+          },
+          {
+            "word": "고용",
+            "weight": 3.0
+          },
+          {
+            "word": "소재",
+            "weight": 3.0
+          },
+          {
+            "word": "맥락",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "관리",
+            "weight": 3.0
+          },
+          {
+            "word": "광고",
+            "weight": 3.0
+          },
+          {
+            "word": "와썹맨",
+            "weight": 3.0
+          },
+          {
+            "word": "간단",
+            "weight": 3.0
+          },
+          {
+            "word": "근거",
+            "weight": 3.0
+          },
+          {
+            "word": "균형",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "2000년생이 온다 :초합리, 초개인, 초자율의 탈사회형 AI인간 ",
+            "isbn13": "9791198520500",
+            "authors": "임홍택 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001912131",
+        "title": "90년생이 온다",
+        "subtitle": "간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는",
+        "page": "336 p.",
+        "book_size": "146*211mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791188248674",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188248674",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다",
+      "subtitle": "간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는",
+      "author": "임홍택 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Whale Books(웨일북)",
+      "publish_year": "2018",
+      "publish_predate": "20181116",
+      "kdc": "325.3",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "658.3",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "336 p.",
+      "book_size": "145*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "90년대생은 이제 조직에서는 신입 사원이, 시장에서는 트렌드를 이끄는 주요 소비자가 되어 우리 곁에 있다. 문제는 기성세대의 관점에서 그들을 이해하기가 어렵다는 것이다. 이 책에 담긴 여러 통계와 사례, 인터뷰에는 그들을 이해할 수 있는 실마리가 담겨 있다.",
+      "control_no": "CIP2018035039",
+      "cover_url": "https://image.aladin.co.kr/product/17329/9/cover/k682534399_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6982309_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세대",
+          "weight": 33.0
+        },
+        {
+          "word": "90년대생",
+          "weight": 24.0
+        },
+        {
+          "word": "공무원",
+          "weight": 15.0
+        },
+        {
+          "word": "기업",
+          "weight": 14.0
+        },
+        {
+          "word": "이해",
+          "weight": 14.0
+        },
+        {
+          "word": "특징",
+          "weight": 9.0
+        },
+        {
+          "word": "90년대생들",
+          "weight": 9.0
+        },
+        {
+          "word": "기성세대",
+          "weight": 9.0
+        },
+        {
+          "word": "시대",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 8.0
+        },
+        {
+          "word": "이유",
+          "weight": 7.0
+        },
+        {
+          "word": "회사",
+          "weight": 7.0
+        },
+        {
+          "word": "소비자",
+          "weight": 7.0
+        },
+        {
+          "word": "조직",
+          "weight": 6.0
+        },
+        {
+          "word": "이들",
+          "weight": 6.0
+        },
+        {
+          "word": "9급",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "시장",
+          "weight": 5.0
+        },
+        {
+          "word": "솔직",
+          "weight": 5.0
+        },
+        {
+          "word": "변하는",
+          "weight": 5.0
+        },
+        {
+          "word": "시험",
+          "weight": 5.0
+        },
+        {
+          "word": "요구",
+          "weight": 5.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "통계",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "열광",
+          "weight": 4.0
+        },
+        {
+          "word": "거부",
+          "weight": 4.0
+        },
+        {
+          "word": "호갱",
+          "weight": 4.0
+        },
+        {
+          "word": "모바일",
+          "weight": 4.0
+        },
+        {
+          "word": "제품",
+          "weight": 4.0
+        },
+        {
+          "word": "네이티브",
+          "weight": 4.0
+        },
+        {
+          "word": "자체",
+          "weight": 3.0
+        },
+        {
+          "word": "산업",
+          "weight": 3.0
+        },
+        {
+          "word": "비판",
+          "weight": 3.0
+        },
+        {
+          "word": "병맛",
+          "weight": 3.0
+        },
+        {
+          "word": "유머",
+          "weight": 3.0
+        },
+        {
+          "word": "욕구",
+          "weight": 3.0
+        },
+        {
+          "word": "일과",
+          "weight": 3.0
+        },
+        {
+          "word": "등장",
+          "weight": 3.0
+        },
+        {
+          "word": "온라인",
+          "weight": 3.0
+        },
+        {
+          "word": "고용",
+          "weight": 3.0
+        },
+        {
+          "word": "소재",
+          "weight": 3.0
+        },
+        {
+          "word": "맥락",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "관리",
+          "weight": 3.0
+        },
+        {
+          "word": "광고",
+          "weight": 3.0
+        },
+        {
+          "word": "와썹맨",
+          "weight": 3.0
+        },
+        {
+          "word": "간단",
+          "weight": 3.0
+        },
+        {
+          "word": "근거",
+          "weight": 3.0
+        },
+        {
+          "word": "균형",
+          "weight": 3.0
+        }
+      ],
+      "description": "90년대생은 이제 조직에서는 신입 사원이, 시장에서는 트렌드를 이끄는 주요 소비자가 되어 우리 곁에 있다. 문제는 기성세대의 관점에서 그들을 이해하기가 어렵다는 것이다. 이 책에 담긴 여러 통계와 사례, 인터뷰에는 그들을 이해할 수 있는 실마리가 담겨 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "2000년생이 온다 :초합리, 초개인, 초자율의 탈사회형 AI인간 ",
+          "isbn13": "9791198520500",
+          "authors": "임홍택 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "(간단함, 병맛, 솔직함으로 기업의 흥망성쇠를 좌우하는) 90년생이 온다",
+      "author": "임홍택 지음",
+      "kdc_from_api": "325.3",
+      "ddc_from_api": "658.3",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788962805901",
+  "captured_at": "2026-10-03T00:23:55.885321+09:00",
+  "lookup": {
+    "isbn": "9788962805901",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962805901",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "클라우스 슈밥의 제4차 산업혁명",
+      "subtitle": "",
+      "author": "클라우스 슈밥 지음 ;송경진 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "메가스터디(주)",
+      "publish_year": "2016",
+      "publish_predate": "20160427",
+      "kdc": "331.5412",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "300 p.",
+      "book_size": "0*0",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'클라우스 슈밥의 제4차 산업혁명'에 담긴 이야기는 명확하다. ‘제4차 산업혁명은 무엇인가?’, ‘무엇을 어떻게 변화시킬 것인가’, ‘우리에게 어떤 영향을 끼칠 것인가?’, ‘공익을 위해 이를 활용할 수 있는 방법은 무엇인가?’ 이 네 가지 질문에 대한 답을 제시한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8099/96/cover/8962805901_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "산업혁명",
+          "weight": 40.0
+        },
+        {
+          "word": "제4차",
+          "weight": 37.0
+        },
+        {
+          "word": "시대",
+          "weight": 25.0
+        },
+        {
+          "word": "슈밥",
+          "weight": 20.0
+        },
+        {
+          "word": "변화",
+          "weight": 19.0
+        },
+        {
+          "word": "세계",
+          "weight": 19.0
+        },
+        {
+          "word": "클라우스",
+          "weight": 18.0
+        },
+        {
+          "word": "기술",
+          "weight": 15.0
+        },
+        {
+          "word": "경제",
+          "weight": 13.0
+        },
+        {
+          "word": "기업",
+          "weight": 13.0
+        },
+        {
+          "word": "세계경제포럼",
+          "weight": 10.0
+        },
+        {
+          "word": "개인",
+          "weight": 8.0
+        },
+        {
+          "word": "사회",
+          "weight": 8.0
+        },
+        {
+          "word": "혁신",
+          "weight": 7.0
+        },
+        {
+          "word": "플랫폼",
+          "weight": 6.0
+        },
+        {
+          "word": "영향력",
+          "weight": 6.0
+        },
+        {
+          "word": "미래",
+          "weight": 6.0
+        },
+        {
+          "word": "리더",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "인류",
+          "weight": 5.0
+        },
+        {
+          "word": "Business",
+          "weight": 5.0
+        },
+        {
+          "word": "포럼",
+          "weight": 5.0
+        },
+        {
+          "word": "영향",
+          "weight": 5.0
+        },
+        {
+          "word": "과학기술",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "영역",
+          "weight": 5.0
+        },
+        {
+          "word": "구축",
+          "weight": 5.0
+        },
+        {
+          "word": "스위스",
+          "weight": 5.0
+        },
+        {
+          "word": "공공",
+          "weight": 5.0
+        },
+        {
+          "word": "국가",
+          "weight": 5.0
+        },
+        {
+          "word": "기회",
+          "weight": 5.0
+        },
+        {
+          "word": "다보스포럼",
+          "weight": 5.0
+        },
+        {
+          "word": "정부",
+          "weight": 5.0
+        },
+        {
+          "word": "파괴적",
+          "weight": 4.0
+        },
+        {
+          "word": "속도",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "지능",
+          "weight": 4.0
+        },
+        {
+          "word": "상황",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "시스템",
+          "weight": 4.0
+        },
+        {
+          "word": "인공지능",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "발전",
+          "weight": 4.0
+        },
+        {
+          "word": "주제",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "형성",
+          "weight": 4.0
+        },
+        {
+          "word": "논의",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "디지털",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        }
+      ],
+      "description": "'클라우스 슈밥의 제4차 산업혁명'에 담긴 이야기는 명확하다. ‘제4차 산업혁명은 무엇인가?’, ‘무엇을 어떻게 변화시킬 것인가’, ‘우리에게 어떤 영향을 끼칠 것인가?’, ‘공익을 위해 이를 활용할 수 있는 방법은 무엇인가?’ 이 네 가지 질문에 대한 답을 제시한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(클라우스 슈밥의) 제4차 산업혁명 더 넥스트 ",
+          "isbn13": "9791129701701",
+          "authors": "클라우스 슈밥 지음 ;이엽 옮김"
+        },
+        {
+          "bookname": "(클라우스 슈밥의) 위대한 리셋 :제4차 산업혁명 x 코로나19 ",
+          "isbn13": "9791129707079",
+          "authors": "클라우스 슈밥,이진원 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "팩트풀니스 :우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 ",
+          "isbn13": "9788934985068",
+          "authors": "지은이: 한스 로슬링,옮긴이: 이창신"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "이기적 유전자 ",
+          "isbn13": "9788932473901",
+          "authors": "리처드 도킨스 지음 ;이상임 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        }
+      ],
+      "title": "클라우스 슈밥의 제4차 산업혁명",
+      "author": "클라우스 슈밥 지음 ;송경진 옮김",
+      "kdc_from_api": "331.5412",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "클라우스 슈밥의 제4차 산업혁명",
+        "author": "저자 : 클라우스 슈밥(Klaus Schwab)",
+        "publisher": "메가스터디(주)",
+        "publish_predate": "20160427",
+        "isbn": "9788962805901",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "1",
+        "book_size": "0*0",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "클라우스 슈밥의 제4차 산업혁명 ",
+        "author": "클라우스 슈밥 지음 ;송경진 옮김",
+        "publisher": "메가스터디",
+        "publish_year": "2016",
+        "isbn": "8962805901",
+        "isbn13": "9788962805901",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "331.5412",
+        "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+        "description": "'클라우스 슈밥의 제4차 산업혁명'에 담긴 이야기는 명확하다. ‘제4차 산업혁명은 무엇인가?’, ‘무엇을 어떻게 변화시킬 것인가’, ‘우리에게 어떤 영향을 끼칠 것인가?’, ‘공익을 위해 이를 활용할 수 있는 방법은 무엇인가?’ 이 네 가지 질문에 대한 답을 제시한다.",
+        "cover_url": "http://image.aladin.co.kr/product/8099/96/cover/8962805901_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "산업혁명",
+            "weight": 40.0
+          },
+          {
+            "word": "제4차",
+            "weight": 37.0
+          },
+          {
+            "word": "시대",
+            "weight": 25.0
+          },
+          {
+            "word": "슈밥",
+            "weight": 20.0
+          },
+          {
+            "word": "변화",
+            "weight": 19.0
+          },
+          {
+            "word": "세계",
+            "weight": 19.0
+          },
+          {
+            "word": "클라우스",
+            "weight": 18.0
+          },
+          {
+            "word": "기술",
+            "weight": 15.0
+          },
+          {
+            "word": "경제",
+            "weight": 13.0
+          },
+          {
+            "word": "기업",
+            "weight": 13.0
+          },
+          {
+            "word": "세계경제포럼",
+            "weight": 10.0
+          },
+          {
+            "word": "개인",
+            "weight": 8.0
+          },
+          {
+            "word": "사회",
+            "weight": 8.0
+          },
+          {
+            "word": "혁신",
+            "weight": 7.0
+          },
+          {
+            "word": "플랫폼",
+            "weight": 6.0
+          },
+          {
+            "word": "영향력",
+            "weight": 6.0
+          },
+          {
+            "word": "미래",
+            "weight": 6.0
+          },
+          {
+            "word": "리더",
+            "weight": 6.0
+          },
+          {
+            "word": "분야",
+            "weight": 5.0
+          },
+          {
+            "word": "인류",
+            "weight": 5.0
+          },
+          {
+            "word": "Business",
+            "weight": 5.0
+          },
+          {
+            "word": "포럼",
+            "weight": 5.0
+          },
+          {
+            "word": "영향",
+            "weight": 5.0
+          },
+          {
+            "word": "과학기술",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "영역",
+            "weight": 5.0
+          },
+          {
+            "word": "구축",
+            "weight": 5.0
+          },
+          {
+            "word": "스위스",
+            "weight": 5.0
+          },
+          {
+            "word": "공공",
+            "weight": 5.0
+          },
+          {
+            "word": "국가",
+            "weight": 5.0
+          },
+          {
+            "word": "기회",
+            "weight": 5.0
+          },
+          {
+            "word": "다보스포럼",
+            "weight": 5.0
+          },
+          {
+            "word": "정부",
+            "weight": 5.0
+          },
+          {
+            "word": "파괴적",
+            "weight": 4.0
+          },
+          {
+            "word": "속도",
+            "weight": 4.0
+          },
+          {
+            "word": "인간",
+            "weight": 4.0
+          },
+          {
+            "word": "지능",
+            "weight": 4.0
+          },
+          {
+            "word": "상황",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "시스템",
+            "weight": 4.0
+          },
+          {
+            "word": "인공지능",
+            "weight": 4.0
+          },
+          {
+            "word": "다양",
+            "weight": 4.0
+          },
+          {
+            "word": "발전",
+            "weight": 4.0
+          },
+          {
+            "word": "주제",
+            "weight": 4.0
+          },
+          {
+            "word": "도전",
+            "weight": 4.0
+          },
+          {
+            "word": "형성",
+            "weight": 4.0
+          },
+          {
+            "word": "논의",
+            "weight": 4.0
+          },
+          {
+            "word": "이해",
+            "weight": 4.0
+          },
+          {
+            "word": "디지털",
+            "weight": 4.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(클라우스 슈밥의) 제4차 산업혁명 더 넥스트 ",
+            "isbn13": "9791129701701",
+            "authors": "클라우스 슈밥 지음 ;이엽 옮김"
+          },
+          {
+            "bookname": "(클라우스 슈밥의) 위대한 리셋 :제4차 산업혁명 x 코로나19 ",
+            "isbn13": "9791129707079",
+            "authors": "클라우스 슈밥,이진원 옮김"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "팩트풀니스 :우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 ",
+            "isbn13": "9788934985068",
+            "authors": "지은이: 한스 로슬링,옮긴이: 이창신"
+          },
+          {
+            "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+            "isbn13": "9788934972464",
+            "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+          },
+          {
+            "bookname": "이기적 유전자 ",
+            "isbn13": "9788932473901",
+            "authors": "리처드 도킨스 지음 ;이상임 옮김"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+            "isbn13": "9791158510619",
+            "authors": "팀 페리스 지음 ;정지현 옮김"
+          },
+          {
+            "bookname": "채식주의자:한강 연작소설",
+            "isbn13": "9788936433598",
+            "authors": "한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "클라우스 슈밥의 제4차 산업혁명"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000974242",
+        "title": "클라우스 슈밥의 제4차 산업혁명",
+        "subtitle": "",
+        "page": "300 p.",
+        "book_size": "152*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788962805901",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962805901",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "클라우스 슈밥의 제4차 산업혁명",
+      "subtitle": "",
+      "author": "클라우스 슈밥 지음 ;송경진 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "메가스터디(주)",
+      "publish_year": "2016",
+      "publish_predate": "20160427",
+      "kdc": "331.5412",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "300 p.",
+      "book_size": "0*0",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'클라우스 슈밥의 제4차 산업혁명'에 담긴 이야기는 명확하다. ‘제4차 산업혁명은 무엇인가?’, ‘무엇을 어떻게 변화시킬 것인가’, ‘우리에게 어떤 영향을 끼칠 것인가?’, ‘공익을 위해 이를 활용할 수 있는 방법은 무엇인가?’ 이 네 가지 질문에 대한 답을 제시한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8099/96/cover/8962805901_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "산업혁명",
+          "weight": 40.0
+        },
+        {
+          "word": "제4차",
+          "weight": 37.0
+        },
+        {
+          "word": "시대",
+          "weight": 25.0
+        },
+        {
+          "word": "슈밥",
+          "weight": 20.0
+        },
+        {
+          "word": "변화",
+          "weight": 19.0
+        },
+        {
+          "word": "세계",
+          "weight": 19.0
+        },
+        {
+          "word": "클라우스",
+          "weight": 18.0
+        },
+        {
+          "word": "기술",
+          "weight": 15.0
+        },
+        {
+          "word": "경제",
+          "weight": 13.0
+        },
+        {
+          "word": "기업",
+          "weight": 13.0
+        },
+        {
+          "word": "세계경제포럼",
+          "weight": 10.0
+        },
+        {
+          "word": "개인",
+          "weight": 8.0
+        },
+        {
+          "word": "사회",
+          "weight": 8.0
+        },
+        {
+          "word": "혁신",
+          "weight": 7.0
+        },
+        {
+          "word": "플랫폼",
+          "weight": 6.0
+        },
+        {
+          "word": "영향력",
+          "weight": 6.0
+        },
+        {
+          "word": "미래",
+          "weight": 6.0
+        },
+        {
+          "word": "리더",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "인류",
+          "weight": 5.0
+        },
+        {
+          "word": "Business",
+          "weight": 5.0
+        },
+        {
+          "word": "포럼",
+          "weight": 5.0
+        },
+        {
+          "word": "영향",
+          "weight": 5.0
+        },
+        {
+          "word": "과학기술",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "영역",
+          "weight": 5.0
+        },
+        {
+          "word": "구축",
+          "weight": 5.0
+        },
+        {
+          "word": "스위스",
+          "weight": 5.0
+        },
+        {
+          "word": "공공",
+          "weight": 5.0
+        },
+        {
+          "word": "국가",
+          "weight": 5.0
+        },
+        {
+          "word": "기회",
+          "weight": 5.0
+        },
+        {
+          "word": "다보스포럼",
+          "weight": 5.0
+        },
+        {
+          "word": "정부",
+          "weight": 5.0
+        },
+        {
+          "word": "파괴적",
+          "weight": 4.0
+        },
+        {
+          "word": "속도",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "지능",
+          "weight": 4.0
+        },
+        {
+          "word": "상황",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "시스템",
+          "weight": 4.0
+        },
+        {
+          "word": "인공지능",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "발전",
+          "weight": 4.0
+        },
+        {
+          "word": "주제",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "형성",
+          "weight": 4.0
+        },
+        {
+          "word": "논의",
+          "weight": 4.0
+        },
+        {
+          "word": "이해",
+          "weight": 4.0
+        },
+        {
+          "word": "디지털",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        }
+      ],
+      "description": "'클라우스 슈밥의 제4차 산업혁명'에 담긴 이야기는 명확하다. ‘제4차 산업혁명은 무엇인가?’, ‘무엇을 어떻게 변화시킬 것인가’, ‘우리에게 어떤 영향을 끼칠 것인가?’, ‘공익을 위해 이를 활용할 수 있는 방법은 무엇인가?’ 이 네 가지 질문에 대한 답을 제시한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(클라우스 슈밥의) 제4차 산업혁명 더 넥스트 ",
+          "isbn13": "9791129701701",
+          "authors": "클라우스 슈밥 지음 ;이엽 옮김"
+        },
+        {
+          "bookname": "(클라우스 슈밥의) 위대한 리셋 :제4차 산업혁명 x 코로나19 ",
+          "isbn13": "9791129707079",
+          "authors": "클라우스 슈밥,이진원 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "팩트풀니스 :우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 ",
+          "isbn13": "9788934985068",
+          "authors": "지은이: 한스 로슬링,옮긴이: 이창신"
+        },
+        {
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "isbn13": "9788934972464",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱"
+        },
+        {
+          "bookname": "이기적 유전자 ",
+          "isbn13": "9788932473901",
+          "authors": "리처드 도킨스 지음 ;이상임 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        }
+      ],
+      "title": "클라우스 슈밥의 제4차 산업혁명",
+      "author": "클라우스 슈밥 지음 ;송경진 옮김",
+      "kdc_from_api": "331.5412",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

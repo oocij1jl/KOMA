@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788995337516",
+  "captured_at": "2026-10-04T00:18:22.276094+09:00",
+  "lookup": {
+    "isbn": "9788995337516",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8995337516",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "서러워라, 잊혀진다는 것은",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "김낙환",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)동방미디어북스",
+      "publish_year": "2002",
+      "publish_predate": "20021123",
+      "kdc": "813.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "자신을 알아주지 못하는 세상을 원망하며 스스로를 '모독'이라 칭하는 젊은 매설가(소설가)가 이 책의 주인공이다. 그는 장옥정의 오라비인 장희재에게 납치당해 모진 고문을 당한 뒤, 중궁전에서 옥정을 만난다. 옥정은 서포 김만중이 짓고 있다는 소설을 훔쳐오라고 명령한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/38/90/cover/8995337516_1.gif",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "모독",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "지은이",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "옥정",
+          "weight": 2.0
+        },
+        {
+          "word": "김만중",
+          "weight": 2.0
+        },
+        {
+          "word": "김탁환",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "동방미디어북스",
+          "weight": 2.0
+        },
+        {
+          "word": "서포",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "주인공",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 1.0
+        },
+        {
+          "word": "문학판",
+          "weight": 1.0
+        },
+        {
+          "word": "문학적",
+          "weight": 1.0
+        },
+        {
+          "word": "문학",
+          "weight": 1.0
+        },
+        {
+          "word": "문인",
+          "weight": 1.0
+        },
+        {
+          "word": "문답",
+          "weight": 1.0
+        },
+        {
+          "word": "무기",
+          "weight": 1.0
+        },
+        {
+          "word": "발언",
+          "weight": 1.0
+        },
+        {
+          "word": "백능파",
+          "weight": 1.0
+        },
+        {
+          "word": "상황",
+          "weight": 1.0
+        },
+        {
+          "word": "상상",
+          "weight": 1.0
+        },
+        {
+          "word": "소설책",
+          "weight": 1.0
+        },
+        {
+          "word": "수상",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "비판",
+          "weight": 1.0
+        },
+        {
+          "word": "보라",
+          "weight": 1.0
+        },
+        {
+          "word": "버팀목",
+          "weight": 1.0
+        },
+        {
+          "word": "현대",
+          "weight": 1.0
+        },
+        {
+          "word": "모습",
+          "weight": 1.0
+        },
+        {
+          "word": "납치",
+          "weight": 1.0
+        },
+        {
+          "word": "남쪽",
+          "weight": 1.0
+        },
+        {
+          "word": "구운몽심고",
+          "weight": 1.0
+        },
+        {
+          "word": "구름",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "곱사등이",
+          "weight": 1.0
+        },
+        {
+          "word": "고루",
+          "weight": 1.0
+        },
+        {
+          "word": "결단",
+          "weight": 1.0
+        },
+        {
+          "word": "노력",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        },
+        {
+          "word": "명령",
+          "weight": 1.0
+        },
+        {
+          "word": "먹구름",
+          "weight": 1.0
+        },
+        {
+          "word": "매설가",
+          "weight": 1.0
+        },
+        {
+          "word": "매매",
+          "weight": 1.0
+        },
+        {
+          "word": "마구",
+          "weight": 1.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "당시",
+          "weight": 1.0
+        },
+        {
+          "word": "당대",
+          "weight": 1.0
+        }
+      ],
+      "description": "자신을 알아주지 못하는 세상을 원망하며 스스로를 '모독'이라 칭하는 젊은 매설가(소설가)가 이 책의 주인공이다. 그는 장옥정의 오라비인 장희재에게 납치당해 모진 고문을 당한 뒤, 중궁전에서 옥정을 만난다. 옥정은 서포 김만중이 짓고 있다는 소설을 훔쳐오라고 명령한다.",
+      "co_loan_books": [
+        {
+          "bookname": "풍수전쟁 :김진명 장편소설 ",
+          "isbn13": "9791167763846",
+          "authors": "지은이: 김진명"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140739",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "밀림무정 :김탁환 장편소설",
+          "isbn13": "9788963704364",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "거짓말이다 :김탁환 장편소설 ",
+          "isbn13": "9788998791544",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "이토록 고고한 연예 :김탁환 장편소설 ",
+          "isbn13": "9788998791780",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "천년의 질문 :조정래 장편소설 ",
+          "isbn13": "9788965746843",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "천년의 질문 :조정래 장편소설 ",
+          "isbn13": "9788965746836",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "열하광인:김탁환 장편소설",
+          "isbn13": "9788937481314",
+          "authors": "김탁환"
+        }
+      ],
+      "title": "서러워라, 잊혀진다는 것은",
+      "author": "김낙환",
+      "kdc_from_api": "813.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "서러워라, 잊혀진다는 것은",
+        "author": "김낙환",
+        "publisher": "(주)동방미디어북스",
+        "publish_predate": "20021123",
+        "isbn": "8995337516",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩8500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "서러워라, 잊혀진다는 것은:김탁환 장편소설",
+        "author": "김탁환 지음",
+        "publisher": "동방미디어북스",
+        "publish_year": "2002",
+        "isbn": "8995337516",
+        "isbn13": "9788995337516",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.6",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "자신을 알아주지 못하는 세상을 원망하며 스스로를 '모독'이라 칭하는 젊은 매설가(소설가)가 이 책의 주인공이다. 그는 장옥정의 오라비인 장희재에게 납치당해 모진 고문을 당한 뒤, 중궁전에서 옥정을 만난다. 옥정은 서포 김만중이 짓고 있다는 소설을 훔쳐오라고 명령한다.",
+        "cover_url": "http://image.aladin.co.kr/product/38/90/cover/8995337516_1.gif"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "모독",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "지은이",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "옥정",
+            "weight": 2.0
+          },
+          {
+            "word": "김만중",
+            "weight": 2.0
+          },
+          {
+            "word": "김탁환",
+            "weight": 2.0
+          },
+          {
+            "word": "한국",
+            "weight": 2.0
+          },
+          {
+            "word": "동방미디어북스",
+            "weight": 2.0
+          },
+          {
+            "word": "서포",
+            "weight": 2.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "고민",
+            "weight": 2.0
+          },
+          {
+            "word": "주인공",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 1.0
+          },
+          {
+            "word": "문학판",
+            "weight": 1.0
+          },
+          {
+            "word": "문학적",
+            "weight": 1.0
+          },
+          {
+            "word": "문학",
+            "weight": 1.0
+          },
+          {
+            "word": "문인",
+            "weight": 1.0
+          },
+          {
+            "word": "문답",
+            "weight": 1.0
+          },
+          {
+            "word": "무기",
+            "weight": 1.0
+          },
+          {
+            "word": "발언",
+            "weight": 1.0
+          },
+          {
+            "word": "백능파",
+            "weight": 1.0
+          },
+          {
+            "word": "상황",
+            "weight": 1.0
+          },
+          {
+            "word": "상상",
+            "weight": 1.0
+          },
+          {
+            "word": "소설책",
+            "weight": 1.0
+          },
+          {
+            "word": "수상",
+            "weight": 1.0
+          },
+          {
+            "word": "사랑",
+            "weight": 1.0
+          },
+          {
+            "word": "비판",
+            "weight": 1.0
+          },
+          {
+            "word": "보라",
+            "weight": 1.0
+          },
+          {
+            "word": "버팀목",
+            "weight": 1.0
+          },
+          {
+            "word": "현대",
+            "weight": 1.0
+          },
+          {
+            "word": "모습",
+            "weight": 1.0
+          },
+          {
+            "word": "납치",
+            "weight": 1.0
+          },
+          {
+            "word": "남쪽",
+            "weight": 1.0
+          },
+          {
+            "word": "구운몽심고",
+            "weight": 1.0
+          },
+          {
+            "word": "구름",
+            "weight": 1.0
+          },
+          {
+            "word": "과정",
+            "weight": 1.0
+          },
+          {
+            "word": "곱사등이",
+            "weight": 1.0
+          },
+          {
+            "word": "고루",
+            "weight": 1.0
+          },
+          {
+            "word": "결단",
+            "weight": 1.0
+          },
+          {
+            "word": "노력",
+            "weight": 1.0
+          },
+          {
+            "word": "다양",
+            "weight": 1.0
+          },
+          {
+            "word": "명령",
+            "weight": 1.0
+          },
+          {
+            "word": "먹구름",
+            "weight": 1.0
+          },
+          {
+            "word": "매설가",
+            "weight": 1.0
+          },
+          {
+            "word": "매매",
+            "weight": 1.0
+          },
+          {
+            "word": "마구",
+            "weight": 1.0
+          },
+          {
+            "word": "대신",
+            "weight": 1.0
+          },
+          {
+            "word": "당시",
+            "weight": 1.0
+          },
+          {
+            "word": "당대",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "풍수전쟁 :김진명 장편소설 ",
+            "isbn13": "9791167763846",
+            "authors": "지은이: 김진명"
+          },
+          {
+            "bookname": "황금종이 :조정래 장편소설 ",
+            "isbn13": "9791167140722",
+            "authors": "저자: 조정래"
+          },
+          {
+            "bookname": "황금종이 :조정래 장편소설 ",
+            "isbn13": "9791167140739",
+            "authors": "저자: 조정래"
+          },
+          {
+            "bookname": "하얼빈 :김훈 장편소설 ",
+            "isbn13": "9788954699914",
+            "authors": "지은이: 김훈"
+          },
+          {
+            "bookname": "밀림무정 :김탁환 장편소설",
+            "isbn13": "9788963704364",
+            "authors": "지은이: 김탁환"
+          },
+          {
+            "bookname": "거짓말이다 :김탁환 장편소설 ",
+            "isbn13": "9788998791544",
+            "authors": "지은이: 김탁환"
+          },
+          {
+            "bookname": "이토록 고고한 연예 :김탁환 장편소설 ",
+            "isbn13": "9788998791780",
+            "authors": "지은이: 김탁환"
+          },
+          {
+            "bookname": "천년의 질문 :조정래 장편소설 ",
+            "isbn13": "9788965746843",
+            "authors": "저자: 조정래"
+          },
+          {
+            "bookname": "천년의 질문 :조정래 장편소설 ",
+            "isbn13": "9788965746836",
+            "authors": "저자: 조정래"
+          },
+          {
+            "bookname": "열하광인:김탁환 장편소설",
+            "isbn13": "9788937481314",
+            "authors": "김탁환"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "서러워라, 잊혀진다는 것은"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000221505184",
+        "title": "가호",
+        "subtitle": "무라카미 하루키 장편소설",
+        "page": "376 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788995337516",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8995337516",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "서러워라, 잊혀진다는 것은",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "김낙환",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)동방미디어북스",
+      "publish_year": "2002",
+      "publish_predate": "20021123",
+      "kdc": "813.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "자신을 알아주지 못하는 세상을 원망하며 스스로를 '모독'이라 칭하는 젊은 매설가(소설가)가 이 책의 주인공이다. 그는 장옥정의 오라비인 장희재에게 납치당해 모진 고문을 당한 뒤, 중궁전에서 옥정을 만난다. 옥정은 서포 김만중이 짓고 있다는 소설을 훔쳐오라고 명령한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/38/90/cover/8995337516_1.gif",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "모독",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "지은이",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "옥정",
+          "weight": 2.0
+        },
+        {
+          "word": "김만중",
+          "weight": 2.0
+        },
+        {
+          "word": "김탁환",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "동방미디어북스",
+          "weight": 2.0
+        },
+        {
+          "word": "서포",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "주인공",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 1.0
+        },
+        {
+          "word": "문학판",
+          "weight": 1.0
+        },
+        {
+          "word": "문학적",
+          "weight": 1.0
+        },
+        {
+          "word": "문학",
+          "weight": 1.0
+        },
+        {
+          "word": "문인",
+          "weight": 1.0
+        },
+        {
+          "word": "문답",
+          "weight": 1.0
+        },
+        {
+          "word": "무기",
+          "weight": 1.0
+        },
+        {
+          "word": "발언",
+          "weight": 1.0
+        },
+        {
+          "word": "백능파",
+          "weight": 1.0
+        },
+        {
+          "word": "상황",
+          "weight": 1.0
+        },
+        {
+          "word": "상상",
+          "weight": 1.0
+        },
+        {
+          "word": "소설책",
+          "weight": 1.0
+        },
+        {
+          "word": "수상",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "비판",
+          "weight": 1.0
+        },
+        {
+          "word": "보라",
+          "weight": 1.0
+        },
+        {
+          "word": "버팀목",
+          "weight": 1.0
+        },
+        {
+          "word": "현대",
+          "weight": 1.0
+        },
+        {
+          "word": "모습",
+          "weight": 1.0
+        },
+        {
+          "word": "납치",
+          "weight": 1.0
+        },
+        {
+          "word": "남쪽",
+          "weight": 1.0
+        },
+        {
+          "word": "구운몽심고",
+          "weight": 1.0
+        },
+        {
+          "word": "구름",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "곱사등이",
+          "weight": 1.0
+        },
+        {
+          "word": "고루",
+          "weight": 1.0
+        },
+        {
+          "word": "결단",
+          "weight": 1.0
+        },
+        {
+          "word": "노력",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        },
+        {
+          "word": "명령",
+          "weight": 1.0
+        },
+        {
+          "word": "먹구름",
+          "weight": 1.0
+        },
+        {
+          "word": "매설가",
+          "weight": 1.0
+        },
+        {
+          "word": "매매",
+          "weight": 1.0
+        },
+        {
+          "word": "마구",
+          "weight": 1.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "당시",
+          "weight": 1.0
+        },
+        {
+          "word": "당대",
+          "weight": 1.0
+        }
+      ],
+      "description": "자신을 알아주지 못하는 세상을 원망하며 스스로를 '모독'이라 칭하는 젊은 매설가(소설가)가 이 책의 주인공이다. 그는 장옥정의 오라비인 장희재에게 납치당해 모진 고문을 당한 뒤, 중궁전에서 옥정을 만난다. 옥정은 서포 김만중이 짓고 있다는 소설을 훔쳐오라고 명령한다.",
+      "co_loan_books": [
+        {
+          "bookname": "풍수전쟁 :김진명 장편소설 ",
+          "isbn13": "9791167763846",
+          "authors": "지은이: 김진명"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140739",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "하얼빈 :김훈 장편소설 ",
+          "isbn13": "9788954699914",
+          "authors": "지은이: 김훈"
+        },
+        {
+          "bookname": "밀림무정 :김탁환 장편소설",
+          "isbn13": "9788963704364",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "거짓말이다 :김탁환 장편소설 ",
+          "isbn13": "9788998791544",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "이토록 고고한 연예 :김탁환 장편소설 ",
+          "isbn13": "9788998791780",
+          "authors": "지은이: 김탁환"
+        },
+        {
+          "bookname": "천년의 질문 :조정래 장편소설 ",
+          "isbn13": "9788965746843",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "천년의 질문 :조정래 장편소설 ",
+          "isbn13": "9788965746836",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "열하광인:김탁환 장편소설",
+          "isbn13": "9788937481314",
+          "authors": "김탁환"
+        }
+      ],
+      "title": "서러워라, 잊혀진다는 것은",
+      "author": "김낙환",
+      "kdc_from_api": "813.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

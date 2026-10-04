@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788936438753",
+  "captured_at": "2026-10-04T00:16:59.185230+09:00",
+  "lookup": {
+    "isbn": "9788936438753",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936438753",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "아몬드",
+      "subtitle": "100만 부 기념 특별판",
+      "author": "지은이: 손원평",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2022",
+      "publish_predate": "20220513",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "268 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "감정을 느끼지 못하는 소년의 특별한 성장 이야기로, 첫 장을 읽기 시작하면 끝까지 놓을 수 없는 흡인력 강한 작품이다. 인물들이 타인과 관계 맺고 슬픔에 공감하며 성장해 나가는 과정을 탁월하게 묘사했다는 평을 얻었으며, 영화처럼 펼쳐지는 극적인 사건과 매혹적인 문체가 돋보인다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29462/57/cover/8936438751_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아몬드",
+          "weight": 16.0
+        },
+        {
+          "word": "일본",
+          "weight": 6.0
+        },
+        {
+          "word": "서점대상",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "손원평",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "세대",
+          "weight": 2.0
+        },
+        {
+          "word": "명작",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "뮤지컬",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "부문",
+          "weight": 2.0
+        },
+        {
+          "word": "창비",
+          "weight": 2.0
+        },
+        {
+          "word": "번역소설",
+          "weight": 2.0
+        },
+        {
+          "word": "특별판",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아",
+          "weight": 2.0
+        },
+        {
+          "word": "2017년",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아권",
+          "weight": 2.0
+        },
+        {
+          "word": "연극",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "개국",
+          "weight": 2.0
+        },
+        {
+          "word": "스페인",
+          "weight": 2.0
+        },
+        {
+          "word": "수출",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "올해",
+          "weight": 2.0
+        },
+        {
+          "word": "국내",
+          "weight": 2.0
+        },
+        {
+          "word": "슬픔",
+          "weight": 1.0
+        },
+        {
+          "word": "5년",
+          "weight": 1.0
+        },
+        {
+          "word": "성인",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "소년",
+          "weight": 1.0
+        },
+        {
+          "word": "나에겐",
+          "weight": 1.0
+        },
+        {
+          "word": "3평화문학상",
+          "weight": 1.0
+        },
+        {
+          "word": "계약",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "교보문고",
+          "weight": 1.0
+        },
+        {
+          "word": "흡인력",
+          "weight": 1.0
+        },
+        {
+          "word": "돌파",
+          "weight": 1.0
+        },
+        {
+          "word": "동시대",
+          "weight": 1.0
+        },
+        {
+          "word": "리뷰",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "매혹적",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        }
+      ],
+      "description": "감정을 느끼지 못하는 소년의 특별한 성장 이야기로, 첫 장을 읽기 시작하면 끝까지 놓을 수 없는 흡인력 강한 작품이다. 인물들이 타인과 관계 맺고 슬픔에 공감하며 성장해 나가는 과정을 탁월하게 묘사했다는 평을 얻었으며, 영화처럼 펼쳐지는 극적인 사건과 매혹적인 문체가 돋보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        }
+      ],
+      "title": "아몬드",
+      "author": "지은이: 손원평",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "아몬드",
+        "author": "지은이: 손원평",
+        "publisher": "창비",
+        "publish_predate": "20220513",
+        "isbn": "9788936438753",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "266 p.",
+        "book_size": "128*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "아몬드 :손원평 장편소설 ",
+        "author": "지은이: 손원평",
+        "publisher": "창비",
+        "publish_year": "2022",
+        "isbn": "8936438751",
+        "isbn13": "9788936438753",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "감정을 느끼지 못하는 소년의 특별한 성장 이야기로, 첫 장을 읽기 시작하면 끝까지 놓을 수 없는 흡인력 강한 작품이다. 인물들이 타인과 관계 맺고 슬픔에 공감하며 성장해 나가는 과정을 탁월하게 묘사했다는 평을 얻었으며, 영화처럼 펼쳐지는 극적인 사건과 매혹적인 문체가 돋보인다.",
+        "cover_url": "https://image.aladin.co.kr/product/29462/57/cover/8936438751_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아몬드",
+            "weight": 16.0
+          },
+          {
+            "word": "일본",
+            "weight": 6.0
+          },
+          {
+            "word": "서점대상",
+            "weight": 4.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "손원평",
+            "weight": 3.0
+          },
+          {
+            "word": "성장",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 2.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 2.0
+          },
+          {
+            "word": "세대",
+            "weight": 2.0
+          },
+          {
+            "word": "명작",
+            "weight": 2.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "뮤지컬",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "부문",
+            "weight": 2.0
+          },
+          {
+            "word": "창비",
+            "weight": 2.0
+          },
+          {
+            "word": "번역소설",
+            "weight": 2.0
+          },
+          {
+            "word": "특별판",
+            "weight": 2.0
+          },
+          {
+            "word": "최초",
+            "weight": 2.0
+          },
+          {
+            "word": "아시아",
+            "weight": 2.0
+          },
+          {
+            "word": "2017년",
+            "weight": 2.0
+          },
+          {
+            "word": "아시아권",
+            "weight": 2.0
+          },
+          {
+            "word": "연극",
+            "weight": 2.0
+          },
+          {
+            "word": "감정",
+            "weight": 2.0
+          },
+          {
+            "word": "개국",
+            "weight": 2.0
+          },
+          {
+            "word": "스페인",
+            "weight": 2.0
+          },
+          {
+            "word": "수출",
+            "weight": 2.0
+          },
+          {
+            "word": "수상",
+            "weight": 2.0
+          },
+          {
+            "word": "올해",
+            "weight": 2.0
+          },
+          {
+            "word": "국내",
+            "weight": 2.0
+          },
+          {
+            "word": "슬픔",
+            "weight": 1.0
+          },
+          {
+            "word": "5년",
+            "weight": 1.0
+          },
+          {
+            "word": "성인",
+            "weight": 1.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "소년",
+            "weight": 1.0
+          },
+          {
+            "word": "나에겐",
+            "weight": 1.0
+          },
+          {
+            "word": "3평화문학상",
+            "weight": 1.0
+          },
+          {
+            "word": "계약",
+            "weight": 1.0
+          },
+          {
+            "word": "공감",
+            "weight": 1.0
+          },
+          {
+            "word": "과정",
+            "weight": 1.0
+          },
+          {
+            "word": "관계",
+            "weight": 1.0
+          },
+          {
+            "word": "교보문고",
+            "weight": 1.0
+          },
+          {
+            "word": "흡인력",
+            "weight": 1.0
+          },
+          {
+            "word": "돌파",
+            "weight": 1.0
+          },
+          {
+            "word": "동시대",
+            "weight": 1.0
+          },
+          {
+            "word": "리뷰",
+            "weight": 1.0
+          },
+          {
+            "word": "마음",
+            "weight": 1.0
+          },
+          {
+            "word": "매혹적",
+            "weight": 1.0
+          },
+          {
+            "word": "문체",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "체리새우 :황영미 장편소설 ",
+            "isbn13": "9788954654753",
+            "authors": "지은이: 황영미"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "페인트 :이희영 장편소설 ",
+            "isbn13": "9788936456894",
+            "authors": "지은이: 이희영"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "아몬드 - 100만 부 기념 특별판 :손원평 장편소설"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000061350685",
+        "title": "아몬드(100만 부 기념 특별판)",
+        "subtitle": "양장본 Hardcover",
+        "page": "268 p.",
+        "book_size": "136*196mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788936438753",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936438753",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "아몬드",
+      "subtitle": "100만 부 기념 특별판",
+      "author": "지은이: 손원평",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2022",
+      "publish_predate": "20220513",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "268 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "감정을 느끼지 못하는 소년의 특별한 성장 이야기로, 첫 장을 읽기 시작하면 끝까지 놓을 수 없는 흡인력 강한 작품이다. 인물들이 타인과 관계 맺고 슬픔에 공감하며 성장해 나가는 과정을 탁월하게 묘사했다는 평을 얻었으며, 영화처럼 펼쳐지는 극적인 사건과 매혹적인 문체가 돋보인다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29462/57/cover/8936438751_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아몬드",
+          "weight": 16.0
+        },
+        {
+          "word": "일본",
+          "weight": 6.0
+        },
+        {
+          "word": "서점대상",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "손원평",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "세대",
+          "weight": 2.0
+        },
+        {
+          "word": "명작",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "뮤지컬",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "부문",
+          "weight": 2.0
+        },
+        {
+          "word": "창비",
+          "weight": 2.0
+        },
+        {
+          "word": "번역소설",
+          "weight": 2.0
+        },
+        {
+          "word": "특별판",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아",
+          "weight": 2.0
+        },
+        {
+          "word": "2017년",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아권",
+          "weight": 2.0
+        },
+        {
+          "word": "연극",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "개국",
+          "weight": 2.0
+        },
+        {
+          "word": "스페인",
+          "weight": 2.0
+        },
+        {
+          "word": "수출",
+          "weight": 2.0
+        },
+        {
+          "word": "수상",
+          "weight": 2.0
+        },
+        {
+          "word": "올해",
+          "weight": 2.0
+        },
+        {
+          "word": "국내",
+          "weight": 2.0
+        },
+        {
+          "word": "슬픔",
+          "weight": 1.0
+        },
+        {
+          "word": "5년",
+          "weight": 1.0
+        },
+        {
+          "word": "성인",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "소년",
+          "weight": 1.0
+        },
+        {
+          "word": "나에겐",
+          "weight": 1.0
+        },
+        {
+          "word": "3평화문학상",
+          "weight": 1.0
+        },
+        {
+          "word": "계약",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "관계",
+          "weight": 1.0
+        },
+        {
+          "word": "교보문고",
+          "weight": 1.0
+        },
+        {
+          "word": "흡인력",
+          "weight": 1.0
+        },
+        {
+          "word": "돌파",
+          "weight": 1.0
+        },
+        {
+          "word": "동시대",
+          "weight": 1.0
+        },
+        {
+          "word": "리뷰",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "매혹적",
+          "weight": 1.0
+        },
+        {
+          "word": "문체",
+          "weight": 1.0
+        }
+      ],
+      "description": "감정을 느끼지 못하는 소년의 특별한 성장 이야기로, 첫 장을 읽기 시작하면 끝까지 놓을 수 없는 흡인력 강한 작품이다. 인물들이 타인과 관계 맺고 슬픔에 공감하며 성장해 나가는 과정을 탁월하게 묘사했다는 평을 얻었으며, 영화처럼 펼쳐지는 극적인 사건과 매혹적인 문체가 돋보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "isbn13": "9788954654753",
+          "authors": "지은이: 황영미"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        }
+      ],
+      "title": "아몬드",
+      "author": "지은이: 손원평",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

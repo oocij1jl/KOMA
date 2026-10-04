@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681647",
+  "captured_at": "2026-10-03T00:13:59.247290+09:00",
+  "lookup": {
+    "isbn": "9791158681647",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681647",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 맞춤법",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190820",
+      "kdc": "711",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 음운, 음성, 문자",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "153*190mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "헷갈린다 헷갈려 한글 맞춤법가르치다, 가르키다, 가리키다도대체 뭐가 다른 거야?다 같은 말 같은데, 뜻도 다르고 맞춤법도 틀렸다니….한글 맞춤법 정말 어렵다.물음표만 가득했던 한글 맞춤법[읽으면서 바로 써먹는 어린이 맞춤법]에서 그 답을 찾고 느낌표로 바꿔 보세요.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/20178/19/cover/k152635649_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "VS",
+          "weight": 145.0
+        },
+        {
+          "word": "맞춤법",
+          "weight": 11.0
+        },
+        {
+          "word": "한글",
+          "weight": 10.0
+        },
+        {
+          "word": "규칙",
+          "weight": 6.0
+        },
+        {
+          "word": "ㄹ ㅁ ㅂ ㅅ",
+          "weight": 6.0
+        },
+        {
+          "word": "ㄴ ㄷ",
+          "weight": 6.0
+        },
+        {
+          "word": "가르키",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "ㅈ ㅊ ㅌ ㅍ ㅎ",
+          "weight": 3.0
+        },
+        {
+          "word": "물음표",
+          "weight": 3.0
+        },
+        {
+          "word": "느낌표",
+          "weight": 3.0
+        },
+        {
+          "word": "거야",
+          "weight": 3.0
+        },
+        {
+          "word": "눈쌀",
+          "weight": 2.0
+        },
+        {
+          "word": "눈살",
+          "weight": 2.0
+        },
+        {
+          "word": "넓쩍",
+          "weight": 2.0
+        },
+        {
+          "word": "넓직",
+          "weight": 2.0
+        },
+        {
+          "word": "널부러지",
+          "weight": 2.0
+        },
+        {
+          "word": "낼름",
+          "weight": 2.0
+        },
+        {
+          "word": "무난",
+          "weight": 2.0
+        },
+        {
+          "word": "대가",
+          "weight": 2.0
+        },
+        {
+          "word": "며칠",
+          "weight": 2.0
+        },
+        {
+          "word": "로써",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤치닥거리",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤치다꺼리",
+          "weight": 2.0
+        },
+        {
+          "word": "느즈막하",
+          "weight": 2.0
+        },
+        {
+          "word": "도데체",
+          "weight": 2.0
+        },
+        {
+          "word": "댓가",
+          "weight": 2.0
+        },
+        {
+          "word": "대물림",
+          "weight": 2.0
+        },
+        {
+          "word": "대개",
+          "weight": 2.0
+        },
+        {
+          "word": "낭떨어지",
+          "weight": 2.0
+        },
+        {
+          "word": "낭떠러지",
+          "weight": 2.0
+        },
+        {
+          "word": "구지",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "곰곰히",
+          "weight": 2.0
+        },
+        {
+          "word": "개구쟁이",
+          "weight": 2.0
+        },
+        {
+          "word": "개구장이",
+          "weight": 2.0
+        },
+        {
+          "word": "간질",
+          "weight": 2.0
+        },
+        {
+          "word": "간지르다",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "귀뜸",
+          "weight": 2.0
+        },
+        {
+          "word": "귀띔",
+          "weight": 2.0
+        },
+        {
+          "word": "납짝",
+          "weight": 2.0
+        },
+        {
+          "word": "께름직하",
+          "weight": 2.0
+        },
+        {
+          "word": "꺼림직하",
+          "weight": 2.0
+        },
+        {
+          "word": "깎뚜기",
+          "weight": 2.0
+        },
+        {
+          "word": "깍두기",
+          "weight": 2.0
+        },
+        {
+          "word": "금새",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "문안",
+          "weight": 2.0
+        }
+      ],
+      "description": "헷갈린다 헷갈려 한글 맞춤법가르치다, 가르키다, 가리키다도대체 뭐가 다른 거야?다 같은 말 같은데, 뜻도 다르고 맞춤법도 틀렸다니….한글 맞춤법 정말 어렵다.물음표만 가득했던 한글 맞춤법[읽으면서 바로 써먹는 어린이 맞춤법]에서 그 답을 찾고 느낌표로 바꿔 보세요.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+          "isbn13": "9791158681630",
+          "authors": "글·그림: 이수인"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 맞춤법",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "711",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 맞춤법",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_predate": "20190820",
+        "isbn": "9791158681647",
+        "isbn_add_code": "73710",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "221 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "7",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_year": "2019",
+        "isbn": "115868164X",
+        "isbn13": "9791158681647",
+        "isbn_add_code": "73710",
+        "volume": "",
+        "class_no": "711",
+        "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+        "description": "헷갈린다 헷갈려 한글 맞춤법가르치다, 가르키다, 가리키다도대체 뭐가 다른 거야?다 같은 말 같은데, 뜻도 다르고 맞춤법도 틀렸다니….한글 맞춤법 정말 어렵다.물음표만 가득했던 한글 맞춤법[읽으면서 바로 써먹는 어린이 맞춤법]에서 그 답을 찾고 느낌표로 바꿔 보세요.",
+        "cover_url": "https://image.aladin.co.kr/product/20178/19/cover/k152635649_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "VS",
+            "weight": 145.0
+          },
+          {
+            "word": "맞춤법",
+            "weight": 11.0
+          },
+          {
+            "word": "한글",
+            "weight": 10.0
+          },
+          {
+            "word": "규칙",
+            "weight": 6.0
+          },
+          {
+            "word": "ㄹ ㅁ ㅂ ㅅ",
+            "weight": 6.0
+          },
+          {
+            "word": "ㄴ ㄷ",
+            "weight": 6.0
+          },
+          {
+            "word": "가르키",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "ㅈ ㅊ ㅌ ㅍ ㅎ",
+            "weight": 3.0
+          },
+          {
+            "word": "물음표",
+            "weight": 3.0
+          },
+          {
+            "word": "느낌표",
+            "weight": 3.0
+          },
+          {
+            "word": "거야",
+            "weight": 3.0
+          },
+          {
+            "word": "눈쌀",
+            "weight": 2.0
+          },
+          {
+            "word": "눈살",
+            "weight": 2.0
+          },
+          {
+            "word": "넓쩍",
+            "weight": 2.0
+          },
+          {
+            "word": "넓직",
+            "weight": 2.0
+          },
+          {
+            "word": "널부러지",
+            "weight": 2.0
+          },
+          {
+            "word": "낼름",
+            "weight": 2.0
+          },
+          {
+            "word": "무난",
+            "weight": 2.0
+          },
+          {
+            "word": "대가",
+            "weight": 2.0
+          },
+          {
+            "word": "며칠",
+            "weight": 2.0
+          },
+          {
+            "word": "로써",
+            "weight": 2.0
+          },
+          {
+            "word": "뒤치닥거리",
+            "weight": 2.0
+          },
+          {
+            "word": "뒤치다꺼리",
+            "weight": 2.0
+          },
+          {
+            "word": "느즈막하",
+            "weight": 2.0
+          },
+          {
+            "word": "도데체",
+            "weight": 2.0
+          },
+          {
+            "word": "댓가",
+            "weight": 2.0
+          },
+          {
+            "word": "대물림",
+            "weight": 2.0
+          },
+          {
+            "word": "대개",
+            "weight": 2.0
+          },
+          {
+            "word": "낭떨어지",
+            "weight": 2.0
+          },
+          {
+            "word": "낭떠러지",
+            "weight": 2.0
+          },
+          {
+            "word": "구지",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "곰곰히",
+            "weight": 2.0
+          },
+          {
+            "word": "개구쟁이",
+            "weight": 2.0
+          },
+          {
+            "word": "개구장이",
+            "weight": 2.0
+          },
+          {
+            "word": "간질",
+            "weight": 2.0
+          },
+          {
+            "word": "간지르다",
+            "weight": 2.0
+          },
+          {
+            "word": "가능",
+            "weight": 2.0
+          },
+          {
+            "word": "귀뜸",
+            "weight": 2.0
+          },
+          {
+            "word": "귀띔",
+            "weight": 2.0
+          },
+          {
+            "word": "납짝",
+            "weight": 2.0
+          },
+          {
+            "word": "께름직하",
+            "weight": 2.0
+          },
+          {
+            "word": "꺼림직하",
+            "weight": 2.0
+          },
+          {
+            "word": "깎뚜기",
+            "weight": 2.0
+          },
+          {
+            "word": "깍두기",
+            "weight": 2.0
+          },
+          {
+            "word": "금새",
+            "weight": 2.0
+          },
+          {
+            "word": "글쓰기 일반",
+            "weight": 2.0
+          },
+          {
+            "word": "보고",
+            "weight": 2.0
+          },
+          {
+            "word": "문안",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+            "isbn13": "9791158681531",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+            "isbn13": "9791158681944",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+            "isbn13": "9791158681999",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+            "isbn13": "9791158681630",
+            "authors": "글·그림: 이수인"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+            "isbn13": "9791158681609",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+            "isbn13": "9791158681722",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+            "isbn13": "9791158681746",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 맞춤법"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770965",
+        "title": "읽으면서 바로 써먹는 어린이 맞춤법",
+        "subtitle": "",
+        "page": "224 p.",
+        "book_size": "153*190mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681647",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681647",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 맞춤법",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2019",
+      "publish_predate": "20190820",
+      "kdc": "711",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 음운, 음성, 문자",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "224 p.",
+      "book_size": "153*190mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "헷갈린다 헷갈려 한글 맞춤법가르치다, 가르키다, 가리키다도대체 뭐가 다른 거야?다 같은 말 같은데, 뜻도 다르고 맞춤법도 틀렸다니….한글 맞춤법 정말 어렵다.물음표만 가득했던 한글 맞춤법[읽으면서 바로 써먹는 어린이 맞춤법]에서 그 답을 찾고 느낌표로 바꿔 보세요.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/20178/19/cover/k152635649_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "VS",
+          "weight": 145.0
+        },
+        {
+          "word": "맞춤법",
+          "weight": 11.0
+        },
+        {
+          "word": "한글",
+          "weight": 10.0
+        },
+        {
+          "word": "규칙",
+          "weight": 6.0
+        },
+        {
+          "word": "ㄹ ㅁ ㅂ ㅅ",
+          "weight": 6.0
+        },
+        {
+          "word": "ㄴ ㄷ",
+          "weight": 6.0
+        },
+        {
+          "word": "가르키",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "ㅈ ㅊ ㅌ ㅍ ㅎ",
+          "weight": 3.0
+        },
+        {
+          "word": "물음표",
+          "weight": 3.0
+        },
+        {
+          "word": "느낌표",
+          "weight": 3.0
+        },
+        {
+          "word": "거야",
+          "weight": 3.0
+        },
+        {
+          "word": "눈쌀",
+          "weight": 2.0
+        },
+        {
+          "word": "눈살",
+          "weight": 2.0
+        },
+        {
+          "word": "넓쩍",
+          "weight": 2.0
+        },
+        {
+          "word": "넓직",
+          "weight": 2.0
+        },
+        {
+          "word": "널부러지",
+          "weight": 2.0
+        },
+        {
+          "word": "낼름",
+          "weight": 2.0
+        },
+        {
+          "word": "무난",
+          "weight": 2.0
+        },
+        {
+          "word": "대가",
+          "weight": 2.0
+        },
+        {
+          "word": "며칠",
+          "weight": 2.0
+        },
+        {
+          "word": "로써",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤치닥거리",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤치다꺼리",
+          "weight": 2.0
+        },
+        {
+          "word": "느즈막하",
+          "weight": 2.0
+        },
+        {
+          "word": "도데체",
+          "weight": 2.0
+        },
+        {
+          "word": "댓가",
+          "weight": 2.0
+        },
+        {
+          "word": "대물림",
+          "weight": 2.0
+        },
+        {
+          "word": "대개",
+          "weight": 2.0
+        },
+        {
+          "word": "낭떨어지",
+          "weight": 2.0
+        },
+        {
+          "word": "낭떠러지",
+          "weight": 2.0
+        },
+        {
+          "word": "구지",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "곰곰히",
+          "weight": 2.0
+        },
+        {
+          "word": "개구쟁이",
+          "weight": 2.0
+        },
+        {
+          "word": "개구장이",
+          "weight": 2.0
+        },
+        {
+          "word": "간질",
+          "weight": 2.0
+        },
+        {
+          "word": "간지르다",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "귀뜸",
+          "weight": 2.0
+        },
+        {
+          "word": "귀띔",
+          "weight": 2.0
+        },
+        {
+          "word": "납짝",
+          "weight": 2.0
+        },
+        {
+          "word": "께름직하",
+          "weight": 2.0
+        },
+        {
+          "word": "꺼림직하",
+          "weight": 2.0
+        },
+        {
+          "word": "깎뚜기",
+          "weight": 2.0
+        },
+        {
+          "word": "깍두기",
+          "weight": 2.0
+        },
+        {
+          "word": "금새",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "문안",
+          "weight": 2.0
+        }
+      ],
+      "description": "헷갈린다 헷갈려 한글 맞춤법가르치다, 가르키다, 가리키다도대체 뭐가 다른 거야?다 같은 말 같은데, 뜻도 다르고 맞춤법도 틀렸다니….한글 맞춤법 정말 어렵다.물음표만 가득했던 한글 맞춤법[읽으면서 바로 써먹는 어린이 맞춤법]에서 그 답을 찾고 느낌표로 바꿔 보세요.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자소학 ",
+          "isbn13": "9791158681630",
+          "authors": "글·그림: 이수인"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 퀴즈 ",
+          "isbn13": "9791158681609",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 영단어 ",
+          "isbn13": "9791158681722",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 맞춤법",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "711",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

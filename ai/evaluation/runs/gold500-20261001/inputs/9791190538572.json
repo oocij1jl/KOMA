@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190538572",
+  "captured_at": "2026-10-02T00:16:31.346154+09:00",
+  "lookup": {
+    "isbn": "9791190538572",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190538572",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "딸아, 돈 공부 절대 미루지 마라",
+      "subtitle": "돈과 인생에 대한 가장 현실적인 조언 50",
+      "author": "박소연 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "메이븐",
+      "publish_year": "2023",
+      "publish_predate": "20230522",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "145*217",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "월수입 300만 원, 5년 후 누구는 부자의 길을 걷고, 누구는 여전히 돈 때문에 허덕인다. 무엇이 그 차이를 만드는 걸까? 이 책은 22년 차 현직 애널리스트가 돈 때문에 기죽지 않고 당당하게 살고 싶은 딸에게 전하는 돈과 인생의 원칙을 담고 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/31657/95/cover/k092833678_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 16.0
+        },
+        {
+          "word": "부자",
+          "weight": 16.0
+        },
+        {
+          "word": "어머니",
+          "weight": 15.0
+        },
+        {
+          "word": "애널리스트",
+          "weight": 14.0
+        },
+        {
+          "word": "주식",
+          "weight": 13.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "원칙",
+          "weight": 10.0
+        },
+        {
+          "word": "생각",
+          "weight": 9.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "인생",
+          "weight": 9.0
+        },
+        {
+          "word": "Chapter",
+          "weight": 8.0
+        },
+        {
+          "word": "후회",
+          "weight": 7.0
+        },
+        {
+          "word": "시장",
+          "weight": 6.0
+        },
+        {
+          "word": "죽음",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "재테크",
+          "weight": 6.0
+        },
+        {
+          "word": "부동산",
+          "weight": 5.0
+        },
+        {
+          "word": "결혼",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "월급",
+          "weight": 5.0
+        },
+        {
+          "word": "손해",
+          "weight": 5.0
+        },
+        {
+          "word": "년간",
+          "weight": 4.0
+        },
+        {
+          "word": "당당",
+          "weight": 4.0
+        },
+        {
+          "word": "투자법",
+          "weight": 4.0
+        },
+        {
+          "word": "당장",
+          "weight": 4.0
+        },
+        {
+          "word": "하루",
+          "weight": 4.0
+        },
+        {
+          "word": "22년",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "가난",
+          "weight": 4.0
+        },
+        {
+          "word": "하락장",
+          "weight": 4.0
+        },
+        {
+          "word": "경제적",
+          "weight": 3.0
+        },
+        {
+          "word": "혼란",
+          "weight": 3.0
+        },
+        {
+          "word": "자립",
+          "weight": 3.0
+        },
+        {
+          "word": "나이",
+          "weight": 3.0
+        },
+        {
+          "word": "물건",
+          "weight": 3.0
+        },
+        {
+          "word": "상승장",
+          "weight": 3.0
+        },
+        {
+          "word": "법칙",
+          "weight": 3.0
+        },
+        {
+          "word": "현직",
+          "weight": 3.0
+        },
+        {
+          "word": "종잣돈",
+          "weight": 3.0
+        },
+        {
+          "word": "기초",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "증권업계",
+          "weight": 3.0
+        },
+        {
+          "word": "투자가",
+          "weight": 3.0
+        },
+        {
+          "word": "성공",
+          "weight": 3.0
+        },
+        {
+          "word": "심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "스물한",
+          "weight": 3.0
+        },
+        {
+          "word": "베스트",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        }
+      ],
+      "description": "월수입 300만 원, 5년 후 누구는 부자의 길을 걷고, 누구는 여전히 돈 때문에 허덕인다. 무엇이 그 차이를 만드는 걸까? 이 책은 22년 차 현직 애널리스트가 돈 때문에 기죽지 않고 당당하게 살고 싶은 딸에게 전하는 돈과 인생의 원칙을 담고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+          "isbn13": "9788960306134",
+          "authors": "뿅글이 지음"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "돈 공부를 시작하고 인생의 불안이 사라졌다 :믿는 구석 없는 우리를 위한 매운맛 재테크 멘탈 수업 ",
+          "isbn13": "9791193262238",
+          "authors": "할미언니 지음"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        }
+      ],
+      "title": "딸아, 돈 공부 절대 미루지 마라",
+      "author": "박소연 지음",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "딸아, 돈 공부 절대 미루지 마라",
+        "author": "박소연 지음",
+        "publisher": "메이븐",
+        "publish_predate": "20230522",
+        "isbn": "9791190538572",
+        "isbn_add_code": "03190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "312 p.",
+        "book_size": "145*217",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "딸아, 돈 공부 절대 미루지 마라 :돈과 인생에 대한 가장 현실적인 조언 50 ",
+        "author": "박소연 지음",
+        "publisher": "메이븐",
+        "publish_year": "2023",
+        "isbn": "1190538571",
+        "isbn13": "9791190538572",
+        "isbn_add_code": "03190",
+        "volume": "",
+        "class_no": "327.04",
+        "class_nm": "사회과학 > 경제학 > 금융",
+        "description": "월수입 300만 원, 5년 후 누구는 부자의 길을 걷고, 누구는 여전히 돈 때문에 허덕인다. 무엇이 그 차이를 만드는 걸까? 이 책은 22년 차 현직 애널리스트가 돈 때문에 기죽지 않고 당당하게 살고 싶은 딸에게 전하는 돈과 인생의 원칙을 담고 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/31657/95/cover/k092833678_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "투자",
+            "weight": 16.0
+          },
+          {
+            "word": "부자",
+            "weight": 16.0
+          },
+          {
+            "word": "어머니",
+            "weight": 15.0
+          },
+          {
+            "word": "애널리스트",
+            "weight": 14.0
+          },
+          {
+            "word": "주식",
+            "weight": 13.0
+          },
+          {
+            "word": "사람",
+            "weight": 11.0
+          },
+          {
+            "word": "원칙",
+            "weight": 10.0
+          },
+          {
+            "word": "생각",
+            "weight": 9.0
+          },
+          {
+            "word": "공부",
+            "weight": 9.0
+          },
+          {
+            "word": "인생",
+            "weight": 9.0
+          },
+          {
+            "word": "Chapter",
+            "weight": 8.0
+          },
+          {
+            "word": "후회",
+            "weight": 7.0
+          },
+          {
+            "word": "시장",
+            "weight": 6.0
+          },
+          {
+            "word": "죽음",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 6.0
+          },
+          {
+            "word": "재테크",
+            "weight": 6.0
+          },
+          {
+            "word": "부동산",
+            "weight": 5.0
+          },
+          {
+            "word": "결혼",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 5.0
+          },
+          {
+            "word": "월급",
+            "weight": 5.0
+          },
+          {
+            "word": "손해",
+            "weight": 5.0
+          },
+          {
+            "word": "년간",
+            "weight": 4.0
+          },
+          {
+            "word": "당당",
+            "weight": 4.0
+          },
+          {
+            "word": "투자법",
+            "weight": 4.0
+          },
+          {
+            "word": "당장",
+            "weight": 4.0
+          },
+          {
+            "word": "하루",
+            "weight": 4.0
+          },
+          {
+            "word": "22년",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 4.0
+          },
+          {
+            "word": "가난",
+            "weight": 4.0
+          },
+          {
+            "word": "하락장",
+            "weight": 4.0
+          },
+          {
+            "word": "경제적",
+            "weight": 3.0
+          },
+          {
+            "word": "혼란",
+            "weight": 3.0
+          },
+          {
+            "word": "자립",
+            "weight": 3.0
+          },
+          {
+            "word": "나이",
+            "weight": 3.0
+          },
+          {
+            "word": "물건",
+            "weight": 3.0
+          },
+          {
+            "word": "상승장",
+            "weight": 3.0
+          },
+          {
+            "word": "법칙",
+            "weight": 3.0
+          },
+          {
+            "word": "현직",
+            "weight": 3.0
+          },
+          {
+            "word": "종잣돈",
+            "weight": 3.0
+          },
+          {
+            "word": "기초",
+            "weight": 3.0
+          },
+          {
+            "word": "세상",
+            "weight": 3.0
+          },
+          {
+            "word": "불안",
+            "weight": 3.0
+          },
+          {
+            "word": "증권업계",
+            "weight": 3.0
+          },
+          {
+            "word": "투자가",
+            "weight": 3.0
+          },
+          {
+            "word": "성공",
+            "weight": 3.0
+          },
+          {
+            "word": "심리학",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "스물한",
+            "weight": 3.0
+          },
+          {
+            "word": "베스트",
+            "weight": 3.0
+          },
+          {
+            "word": "가지",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+            "isbn13": "9788960306134",
+            "authors": "뿅글이 지음"
+          },
+          {
+            "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+            "isbn13": "9791165347161",
+            "authors": "송희구 지음"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          },
+          {
+            "bookname": "돈 공부를 시작하고 인생의 불안이 사라졌다 :믿는 구석 없는 우리를 위한 매운맛 재테크 멘탈 수업 ",
+            "isbn13": "9791193262238",
+            "authors": "할미언니 지음"
+          },
+          {
+            "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+            "isbn13": "9791158883591",
+            "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "딸아, 돈 공부 절대 미루지 마라 - 돈과 인생에 대한 가장 현실적인 조언 50"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000202086329",
+        "title": "딸아, 돈 공부 절대 미루지 마라",
+        "subtitle": "돈과 인생에 대한 가장 현실적인 조언 50",
+        "page": "312 p.",
+        "book_size": "146*216mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190538572",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190538572",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "딸아, 돈 공부 절대 미루지 마라",
+      "subtitle": "돈과 인생에 대한 가장 현실적인 조언 50",
+      "author": "박소연 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "메이븐",
+      "publish_year": "2023",
+      "publish_predate": "20230522",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "145*217",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "월수입 300만 원, 5년 후 누구는 부자의 길을 걷고, 누구는 여전히 돈 때문에 허덕인다. 무엇이 그 차이를 만드는 걸까? 이 책은 22년 차 현직 애널리스트가 돈 때문에 기죽지 않고 당당하게 살고 싶은 딸에게 전하는 돈과 인생의 원칙을 담고 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/31657/95/cover/k092833678_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 16.0
+        },
+        {
+          "word": "부자",
+          "weight": 16.0
+        },
+        {
+          "word": "어머니",
+          "weight": 15.0
+        },
+        {
+          "word": "애널리스트",
+          "weight": 14.0
+        },
+        {
+          "word": "주식",
+          "weight": 13.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "원칙",
+          "weight": 10.0
+        },
+        {
+          "word": "생각",
+          "weight": 9.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "인생",
+          "weight": 9.0
+        },
+        {
+          "word": "Chapter",
+          "weight": 8.0
+        },
+        {
+          "word": "후회",
+          "weight": 7.0
+        },
+        {
+          "word": "시장",
+          "weight": 6.0
+        },
+        {
+          "word": "죽음",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "재테크",
+          "weight": 6.0
+        },
+        {
+          "word": "부동산",
+          "weight": 5.0
+        },
+        {
+          "word": "결혼",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "월급",
+          "weight": 5.0
+        },
+        {
+          "word": "손해",
+          "weight": 5.0
+        },
+        {
+          "word": "년간",
+          "weight": 4.0
+        },
+        {
+          "word": "당당",
+          "weight": 4.0
+        },
+        {
+          "word": "투자법",
+          "weight": 4.0
+        },
+        {
+          "word": "당장",
+          "weight": 4.0
+        },
+        {
+          "word": "하루",
+          "weight": 4.0
+        },
+        {
+          "word": "22년",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "가난",
+          "weight": 4.0
+        },
+        {
+          "word": "하락장",
+          "weight": 4.0
+        },
+        {
+          "word": "경제적",
+          "weight": 3.0
+        },
+        {
+          "word": "혼란",
+          "weight": 3.0
+        },
+        {
+          "word": "자립",
+          "weight": 3.0
+        },
+        {
+          "word": "나이",
+          "weight": 3.0
+        },
+        {
+          "word": "물건",
+          "weight": 3.0
+        },
+        {
+          "word": "상승장",
+          "weight": 3.0
+        },
+        {
+          "word": "법칙",
+          "weight": 3.0
+        },
+        {
+          "word": "현직",
+          "weight": 3.0
+        },
+        {
+          "word": "종잣돈",
+          "weight": 3.0
+        },
+        {
+          "word": "기초",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "증권업계",
+          "weight": 3.0
+        },
+        {
+          "word": "투자가",
+          "weight": 3.0
+        },
+        {
+          "word": "성공",
+          "weight": 3.0
+        },
+        {
+          "word": "심리학",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "스물한",
+          "weight": 3.0
+        },
+        {
+          "word": "베스트",
+          "weight": 3.0
+        },
+        {
+          "word": "가지",
+          "weight": 3.0
+        }
+      ],
+      "description": "월수입 300만 원, 5년 후 누구는 부자의 길을 걷고, 누구는 여전히 돈 때문에 허덕인다. 무엇이 그 차이를 만드는 걸까? 이 책은 22년 차 현직 애널리스트가 돈 때문에 기죽지 않고 당당하게 살고 싶은 딸에게 전하는 돈과 인생의 원칙을 담고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+          "isbn13": "9788960306134",
+          "authors": "뿅글이 지음"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "돈 공부를 시작하고 인생의 불안이 사라졌다 :믿는 구석 없는 우리를 위한 매운맛 재테크 멘탈 수업 ",
+          "isbn13": "9791193262238",
+          "authors": "할미언니 지음"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        }
+      ],
+      "title": "딸아, 돈 공부 절대 미루지 마라",
+      "author": "박소연 지음",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788985961851",
+  "captured_at": "2026-10-03T00:17:39.424343+09:00",
+  "lookup": {
+    "isbn": "9788985961851",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788985961851",
+      "isbn_add_code": "03220",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "<지금 여기, 깨어있기>",
+      "subtitle": "법륜 스님의 깨달음 이야기",
+      "author": "법륜 스님",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "정토출판사",
+      "publish_year": "2014",
+      "publish_predate": "20141219",
+      "kdc": "224.8",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "294.344",
+      "ddc_edition": "",
+      "subject": "2",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "264 p.",
+      "book_size": "150*205mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "즉문즉설로 수많은 사람들의 고민을 듣고 길을 제시한 법륜 스님이 새 책 &lt;지금 여기, 깨어있기&gt;를 펴냈다. 특히, &lt;지금 여기, 깨어있기&gt;에서는 법륜 스님 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다.",
+      "control_no": "CIP2014035825",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "깨달음",
+          "weight": 9.0
+        },
+        {
+          "word": "법륜",
+          "weight": 7.0
+        },
+        {
+          "word": "스님",
+          "weight": 7.0
+        },
+        {
+          "word": "행복",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "자기",
+          "weight": 5.0
+        },
+        {
+          "word": "불교명상 수행",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "중생",
+          "weight": 3.0
+        },
+        {
+          "word": "수행",
+          "weight": 3.0
+        },
+        {
+          "word": "부처님",
+          "weight": 3.0
+        },
+        {
+          "word": "종교",
+          "weight": 3.0
+        },
+        {
+          "word": "소나무",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "원리",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "정토출판",
+          "weight": 2.0
+        },
+        {
+          "word": "너머",
+          "weight": 1.0
+        },
+        {
+          "word": "2007년",
+          "weight": 1.0
+        },
+        {
+          "word": "1장",
+          "weight": 1.0
+        },
+        {
+          "word": "노벨평화상이",
+          "weight": 1.0
+        },
+        {
+          "word": "회의",
+          "weight": 1.0
+        },
+        {
+          "word": "기초",
+          "weight": 1.0
+        },
+        {
+          "word": "기회",
+          "weight": 1.0
+        },
+        {
+          "word": "노년",
+          "weight": 1.0
+        },
+        {
+          "word": "깨끗함",
+          "weight": 1.0
+        },
+        {
+          "word": "2011년",
+          "weight": 1.0
+        },
+        {
+          "word": "남도",
+          "weight": 1.0
+        },
+        {
+          "word": "남편",
+          "weight": 1.0
+        },
+        {
+          "word": "길이",
+          "weight": 1.0
+        },
+        {
+          "word": "5장",
+          "weight": 1.0
+        },
+        {
+          "word": "6장",
+          "weight": 1.0
+        },
+        {
+          "word": "MD",
+          "weight": 1.0
+        },
+        {
+          "word": "강의",
+          "weight": 1.0
+        },
+        {
+          "word": "강조",
+          "weight": 1.0
+        },
+        {
+          "word": "개인",
+          "weight": 1.0
+        },
+        {
+          "word": "결국",
+          "weight": 1.0
+        },
+        {
+          "word": "경청",
+          "weight": 1.0
+        },
+        {
+          "word": "jungto",
+          "weight": 1.0
+        },
+        {
+          "word": "계율",
+          "weight": 1.0
+        },
+        {
+          "word": "고민",
+          "weight": 1.0
+        },
+        {
+          "word": "고치",
+          "weight": 1.0
+        },
+        {
+          "word": "고통",
+          "weight": 1.0
+        },
+        {
+          "word": "공덕",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "7장",
+          "weight": 1.0
+        }
+      ],
+      "description": "즉문즉설로 수많은 사람들의 고민을 듣고 길을 제시한 법륜 스님이 새 책 &lt;지금 여기, 깨어있기&gt;를 펴냈다. 특히, &lt;지금 여기, 깨어있기&gt;에서는 법륜 스님 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "지금 이대로 좋다 ",
+          "isbn13": "9791187297239",
+          "authors": "법륜 지음 ;박정은 그림"
+        },
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "깨달음 :내 눈 뜨기 ",
+          "isbn13": "9788985961691",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "법륜 스님의 반야심경 강의 ",
+          "isbn13": "9791187297413",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "기도 내려놓기 ",
+          "isbn13": "9788985961660",
+          "authors": "법륜 지음"
+        },
+        {
+          "bookname": "야단법석 :법륜 스님의 지구촌 즉문즉설 ",
+          "isbn13": "9788985961363",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "야단법석",
+          "isbn13": "9791187297055",
+          "authors": "법륜 지음"
+        },
+        {
+          "bookname": "법륜스님의 금강경 강의 :金剛般若波羅蜜經 ",
+          "isbn13": "9788985961714",
+          "authors": "지은이: 법륜"
+        }
+      ],
+      "title": "<지금 여기, 깨어있기>",
+      "author": "법륜 스님",
+      "kdc_from_api": "224.8",
+      "ddc_from_api": "294.344",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "<지금 여기, 깨어있기>",
+        "author": "법륜 스님",
+        "publisher": "정토출판사",
+        "publish_predate": "20141219",
+        "isbn": "9788985961851",
+        "isbn_add_code": "03220",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "224.8",
+        "ddc": "294.344",
+        "subject": "2",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2014035825",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+        "author": "지은이: 법륜",
+        "publisher": "정토출판",
+        "publish_year": "2014",
+        "isbn": "8985961853",
+        "isbn13": "9788985961851",
+        "isbn_add_code": "03220",
+        "volume": "",
+        "class_no": "224.8",
+        "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+        "description": "즉문즉설로 수많은 사람들의 고민을 듣고 길을 제시한 법륜 스님이 새 책 &lt;지금 여기, 깨어있기&gt;를 펴냈다. 특히, &lt;지금 여기, 깨어있기&gt;에서는 법륜 스님 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다.",
+        "cover_url": "http://image.aladin.co.kr/product/4980/86/cover/8985961853_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "깨달음",
+            "weight": 9.0
+          },
+          {
+            "word": "법륜",
+            "weight": 7.0
+          },
+          {
+            "word": "스님",
+            "weight": 7.0
+          },
+          {
+            "word": "행복",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "자기",
+            "weight": 5.0
+          },
+          {
+            "word": "불교명상 수행",
+            "weight": 4.0
+          },
+          {
+            "word": "세상",
+            "weight": 3.0
+          },
+          {
+            "word": "중생",
+            "weight": 3.0
+          },
+          {
+            "word": "수행",
+            "weight": 3.0
+          },
+          {
+            "word": "부처님",
+            "weight": 3.0
+          },
+          {
+            "word": "종교",
+            "weight": 3.0
+          },
+          {
+            "word": "소나무",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "원리",
+            "weight": 2.0
+          },
+          {
+            "word": "인생",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "선사",
+            "weight": 2.0
+          },
+          {
+            "word": "방법",
+            "weight": 2.0
+          },
+          {
+            "word": "정토출판",
+            "weight": 2.0
+          },
+          {
+            "word": "너머",
+            "weight": 1.0
+          },
+          {
+            "word": "2007년",
+            "weight": 1.0
+          },
+          {
+            "word": "1장",
+            "weight": 1.0
+          },
+          {
+            "word": "노벨평화상이",
+            "weight": 1.0
+          },
+          {
+            "word": "회의",
+            "weight": 1.0
+          },
+          {
+            "word": "기초",
+            "weight": 1.0
+          },
+          {
+            "word": "기회",
+            "weight": 1.0
+          },
+          {
+            "word": "노년",
+            "weight": 1.0
+          },
+          {
+            "word": "깨끗함",
+            "weight": 1.0
+          },
+          {
+            "word": "2011년",
+            "weight": 1.0
+          },
+          {
+            "word": "남도",
+            "weight": 1.0
+          },
+          {
+            "word": "남편",
+            "weight": 1.0
+          },
+          {
+            "word": "길이",
+            "weight": 1.0
+          },
+          {
+            "word": "5장",
+            "weight": 1.0
+          },
+          {
+            "word": "6장",
+            "weight": 1.0
+          },
+          {
+            "word": "MD",
+            "weight": 1.0
+          },
+          {
+            "word": "강의",
+            "weight": 1.0
+          },
+          {
+            "word": "강조",
+            "weight": 1.0
+          },
+          {
+            "word": "개인",
+            "weight": 1.0
+          },
+          {
+            "word": "결국",
+            "weight": 1.0
+          },
+          {
+            "word": "경청",
+            "weight": 1.0
+          },
+          {
+            "word": "jungto",
+            "weight": 1.0
+          },
+          {
+            "word": "계율",
+            "weight": 1.0
+          },
+          {
+            "word": "고민",
+            "weight": 1.0
+          },
+          {
+            "word": "고치",
+            "weight": 1.0
+          },
+          {
+            "word": "고통",
+            "weight": 1.0
+          },
+          {
+            "word": "공덕",
+            "weight": 1.0
+          },
+          {
+            "word": "경험",
+            "weight": 1.0
+          },
+          {
+            "word": "7장",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "지금 이대로 좋다 ",
+            "isbn13": "9791187297239",
+            "authors": "법륜 지음 ;박정은 그림"
+          },
+          {
+            "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+            "isbn13": "9788954637169",
+            "authors": "법륜 지음 ;최승미 그림"
+          },
+          {
+            "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+            "isbn13": "9788984317413",
+            "authors": "법륜 지음 ;유근택 그림"
+          },
+          {
+            "bookname": "깨달음 :내 눈 뜨기 ",
+            "isbn13": "9788985961691",
+            "authors": "지은이: 법륜"
+          },
+          {
+            "bookname": "법륜 스님의 반야심경 강의 ",
+            "isbn13": "9791187297413",
+            "authors": "지은이: 법륜"
+          },
+          {
+            "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+            "isbn13": "9791187297260",
+            "authors": "지은이: 법륜 ;그림: 드로잉메리"
+          },
+          {
+            "bookname": "기도 내려놓기 ",
+            "isbn13": "9788985961660",
+            "authors": "법륜 지음"
+          },
+          {
+            "bookname": "야단법석 :법륜 스님의 지구촌 즉문즉설 ",
+            "isbn13": "9788985961363",
+            "authors": "지은이: 법륜"
+          },
+          {
+            "bookname": "야단법석",
+            "isbn13": "9791187297055",
+            "authors": "법륜 지음"
+          },
+          {
+            "bookname": "법륜스님의 금강경 강의 :金剛般若波羅蜜經 ",
+            "isbn13": "9788985961714",
+            "authors": "지은이: 법륜"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "<지금 여기, 깨어있기>"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001351334",
+        "title": "지금 여기 깨어있기",
+        "subtitle": "법륜 스님의 깨달음 이야기",
+        "page": "264 p.",
+        "book_size": "150*205mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788985961851",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788985961851",
+      "isbn_add_code": "03220",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "<지금 여기, 깨어있기>",
+      "subtitle": "법륜 스님의 깨달음 이야기",
+      "author": "법륜 스님",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "정토출판사",
+      "publish_year": "2014",
+      "publish_predate": "20141219",
+      "kdc": "224.8",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "ddc": "294.344",
+      "ddc_edition": "",
+      "subject": "2",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "264 p.",
+      "book_size": "150*205mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "즉문즉설로 수많은 사람들의 고민을 듣고 길을 제시한 법륜 스님이 새 책 &lt;지금 여기, 깨어있기&gt;를 펴냈다. 특히, &lt;지금 여기, 깨어있기&gt;에서는 법륜 스님 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다.",
+      "control_no": "CIP2014035825",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "깨달음",
+          "weight": 9.0
+        },
+        {
+          "word": "법륜",
+          "weight": 7.0
+        },
+        {
+          "word": "스님",
+          "weight": 7.0
+        },
+        {
+          "word": "행복",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "자기",
+          "weight": 5.0
+        },
+        {
+          "word": "불교명상 수행",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "중생",
+          "weight": 3.0
+        },
+        {
+          "word": "수행",
+          "weight": 3.0
+        },
+        {
+          "word": "부처님",
+          "weight": 3.0
+        },
+        {
+          "word": "종교",
+          "weight": 3.0
+        },
+        {
+          "word": "소나무",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "원리",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "정토출판",
+          "weight": 2.0
+        },
+        {
+          "word": "너머",
+          "weight": 1.0
+        },
+        {
+          "word": "2007년",
+          "weight": 1.0
+        },
+        {
+          "word": "1장",
+          "weight": 1.0
+        },
+        {
+          "word": "노벨평화상이",
+          "weight": 1.0
+        },
+        {
+          "word": "회의",
+          "weight": 1.0
+        },
+        {
+          "word": "기초",
+          "weight": 1.0
+        },
+        {
+          "word": "기회",
+          "weight": 1.0
+        },
+        {
+          "word": "노년",
+          "weight": 1.0
+        },
+        {
+          "word": "깨끗함",
+          "weight": 1.0
+        },
+        {
+          "word": "2011년",
+          "weight": 1.0
+        },
+        {
+          "word": "남도",
+          "weight": 1.0
+        },
+        {
+          "word": "남편",
+          "weight": 1.0
+        },
+        {
+          "word": "길이",
+          "weight": 1.0
+        },
+        {
+          "word": "5장",
+          "weight": 1.0
+        },
+        {
+          "word": "6장",
+          "weight": 1.0
+        },
+        {
+          "word": "MD",
+          "weight": 1.0
+        },
+        {
+          "word": "강의",
+          "weight": 1.0
+        },
+        {
+          "word": "강조",
+          "weight": 1.0
+        },
+        {
+          "word": "개인",
+          "weight": 1.0
+        },
+        {
+          "word": "결국",
+          "weight": 1.0
+        },
+        {
+          "word": "경청",
+          "weight": 1.0
+        },
+        {
+          "word": "jungto",
+          "weight": 1.0
+        },
+        {
+          "word": "계율",
+          "weight": 1.0
+        },
+        {
+          "word": "고민",
+          "weight": 1.0
+        },
+        {
+          "word": "고치",
+          "weight": 1.0
+        },
+        {
+          "word": "고통",
+          "weight": 1.0
+        },
+        {
+          "word": "공덕",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "7장",
+          "weight": 1.0
+        }
+      ],
+      "description": "즉문즉설로 수많은 사람들의 고민을 듣고 길을 제시한 법륜 스님이 새 책 &lt;지금 여기, 깨어있기&gt;를 펴냈다. 특히, &lt;지금 여기, 깨어있기&gt;에서는 법륜 스님 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "지금 이대로 좋다 ",
+          "isbn13": "9791187297239",
+          "authors": "법륜 지음 ;박정은 그림"
+        },
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "깨달음 :내 눈 뜨기 ",
+          "isbn13": "9788985961691",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "법륜 스님의 반야심경 강의 ",
+          "isbn13": "9791187297413",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "기도 내려놓기 ",
+          "isbn13": "9788985961660",
+          "authors": "법륜 지음"
+        },
+        {
+          "bookname": "야단법석 :법륜 스님의 지구촌 즉문즉설 ",
+          "isbn13": "9788985961363",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "야단법석",
+          "isbn13": "9791187297055",
+          "authors": "법륜 지음"
+        },
+        {
+          "bookname": "법륜스님의 금강경 강의 :金剛般若波羅蜜經 ",
+          "isbn13": "9788985961714",
+          "authors": "지은이: 법륜"
+        }
+      ],
+      "title": "<지금 여기, 깨어있기>",
+      "author": "법륜 스님",
+      "kdc_from_api": "224.8",
+      "ddc_from_api": "294.344",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

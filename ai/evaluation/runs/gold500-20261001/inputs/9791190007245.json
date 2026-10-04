@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190007245",
+  "captured_at": "2026-10-02T00:18:26.039379+09:00",
+  "lookup": {
+    "isbn": "9791190007245",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190007245",
+      "isbn_add_code": "74690",
+      "set_isbn": "9791190007306",
+      "set_add_code": "74690 ",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감",
+      "subtitle": "양장본 Hardcover",
+      "author": "익뚜 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Who's Got My Tail(후즈갓마이테일)",
+      "publish_year": "2022",
+      "publish_predate": "20220607",
+      "kdc": "695",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 구기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "반전 도감",
+      "series_no": "1",
+      "page": "280 p.",
+      "book_size": "145*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "반전 도감 시리즈 첫 번째 책. 야구가 처음인 어린이는 야구를 쉽고 재밌게 알 수 있고, 야구가 익숙한 어린이는 규칙과 정보를 더 깊게 익힐 수 있는 만화 도감이다. 현재 Daum에서 스포츠 웹툰을 연재하는 익뚜 작가가 야구를 사랑하는 마음을 가득 담아 쓰고 그렸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29543/96/cover/k832837053_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "야구",
+          "weight": 24.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 7.0
+        },
+        {
+          "word": "도감",
+          "weight": 6.0
+        },
+        {
+          "word": "만화",
+          "weight": 6.0
+        },
+        {
+          "word": "반전",
+          "weight": 5.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "익뚜",
+          "weight": 3.0
+        },
+        {
+          "word": "후즈갓마이테일",
+          "weight": 3.0
+        },
+        {
+          "word": "김양희  감수",
+          "weight": 2.0
+        },
+        {
+          "word": "깨알",
+          "weight": 2.0
+        },
+        {
+          "word": "김광현",
+          "weight": 2.0
+        },
+        {
+          "word": "기자",
+          "weight": 2.0
+        },
+        {
+          "word": "이승엽",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "야구장",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "용어",
+          "weight": 2.0
+        },
+        {
+          "word": "이정후",
+          "weight": 2.0
+        },
+        {
+          "word": "베비",
+          "weight": 2.0
+        },
+        {
+          "word": "캐스터",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "규칙",
+          "weight": 2.0
+        },
+        {
+          "word": "정우영",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "연장",
+          "weight": 2.0
+        },
+        {
+          "word": "4컷",
+          "weight": 2.0
+        },
+        {
+          "word": "의외",
+          "weight": 2.0
+        },
+        {
+          "word": "스토리",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "아빠",
+          "weight": 2.0
+        },
+        {
+          "word": "Daum",
+          "weight": 2.0
+        },
+        {
+          "word": "선수",
+          "weight": 2.0
+        },
+        {
+          "word": "연재",
+          "weight": 2.0
+        },
+        {
+          "word": "경기",
+          "weight": 2.0
+        },
+        {
+          "word": "정보",
+          "weight": 2.0
+        },
+        {
+          "word": "SBS",
+          "weight": 2.0
+        },
+        {
+          "word": "1회 도대체",
+          "weight": 1.0
+        },
+        {
+          "word": "280페이지",
+          "weight": 1.0
+        },
+        {
+          "word": "복잡",
+          "weight": 1.0
+        },
+        {
+          "word": "불만",
+          "weight": 1.0
+        },
+        {
+          "word": "불구",
+          "weight": 1.0
+        },
+        {
+          "word": "23년",
+          "weight": 1.0
+        },
+        {
+          "word": "골대",
+          "weight": 1.0
+        },
+        {
+          "word": "5회 스트라이크",
+          "weight": 1.0
+        },
+        {
+          "word": "6회 타자",
+          "weight": 1.0
+        },
+        {
+          "word": "7회 스트라이크",
+          "weight": 1.0
+        },
+        {
+          "word": "8회 주자",
+          "weight": 1.0
+        },
+        {
+          "word": "그리기",
+          "weight": 1.0
+        },
+        {
+          "word": "김양희",
+          "weight": 1.0
+        },
+        {
+          "word": "공식",
+          "weight": 1.0
+        }
+      ],
+      "description": "반전 도감 시리즈 첫 번째 책. 야구가 처음인 어린이는 야구를 쉽고 재밌게 알 수 있고, 야구가 익숙한 어린이는 규칙과 정보를 더 깊게 익힐 수 있는 만화 도감이다. 현재 Daum에서 스포츠 웹툰을 연재하는 익뚜 작가가 야구를 사랑하는 마음을 가득 담아 쓰고 그렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+          "isbn13": "9791190007320",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "대충 봐도 머리에 남는 어린이 야구 상식 :야구의 재미를 제대로 알게 하는 알쏭달쏭 야구의 모든 것 ",
+          "isbn13": "9791198381811",
+          "authors": "글: 김양희 ;그림: 나인완"
+        },
+        {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어!",
+          "isbn13": "9791190007726",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+          "isbn13": "9791190007412",
+          "authors": "익뚜 (지은이), 장민석 (감수)"
+        },
+        {
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "isbn13": "9791186073995",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감",
+      "author": "익뚜 지음",
+      "kdc_from_api": "695",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감",
+        "author": "익뚜 지음",
+        "publisher": "Who's Got My Tail(후즈갓마이테일)",
+        "publish_predate": "20220607",
+        "isbn": "9791190007245",
+        "isbn_add_code": "74690",
+        "set_isbn": "9791190007306",
+        "set_add_code": "74690 ",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "반전 도감",
+        "series_no": "1",
+        "volume": "",
+        "page": "276 p.",
+        "book_size": "145*200",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+        "author": "익뚜 지음",
+        "publisher": "Who's Got My Tail(후즈갓마이테일)",
+        "publish_year": "2022",
+        "isbn": "119000724X",
+        "isbn13": "9791190007245",
+        "isbn_add_code": "74690",
+        "volume": "",
+        "class_no": "695",
+        "class_nm": "예술 > 오락, 운동 > 구기",
+        "description": "반전 도감 시리즈 첫 번째 책. 야구가 처음인 어린이는 야구를 쉽고 재밌게 알 수 있고, 야구가 익숙한 어린이는 규칙과 정보를 더 깊게 익힐 수 있는 만화 도감이다. 현재 Daum에서 스포츠 웹툰을 연재하는 익뚜 작가가 야구를 사랑하는 마음을 가득 담아 쓰고 그렸다.",
+        "cover_url": "https://image.aladin.co.kr/product/29543/96/cover/k832837053_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "야구",
+            "weight": 24.0
+          },
+          {
+            "word": "스포츠",
+            "weight": 7.0
+          },
+          {
+            "word": "도감",
+            "weight": 6.0
+          },
+          {
+            "word": "만화",
+            "weight": 6.0
+          },
+          {
+            "word": "반전",
+            "weight": 5.0
+          },
+          {
+            "word": "웹툰",
+            "weight": 4.0
+          },
+          {
+            "word": "익뚜",
+            "weight": 3.0
+          },
+          {
+            "word": "후즈갓마이테일",
+            "weight": 3.0
+          },
+          {
+            "word": "김양희  감수",
+            "weight": 2.0
+          },
+          {
+            "word": "깨알",
+            "weight": 2.0
+          },
+          {
+            "word": "김광현",
+            "weight": 2.0
+          },
+          {
+            "word": "기자",
+            "weight": 2.0
+          },
+          {
+            "word": "이승엽",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "야구장",
+            "weight": 2.0
+          },
+          {
+            "word": "어린이",
+            "weight": 2.0
+          },
+          {
+            "word": "용어",
+            "weight": 2.0
+          },
+          {
+            "word": "이정후",
+            "weight": 2.0
+          },
+          {
+            "word": "베비",
+            "weight": 2.0
+          },
+          {
+            "word": "캐스터",
+            "weight": 2.0
+          },
+          {
+            "word": "부록",
+            "weight": 2.0
+          },
+          {
+            "word": "규칙",
+            "weight": 2.0
+          },
+          {
+            "word": "정우영",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "연장",
+            "weight": 2.0
+          },
+          {
+            "word": "4컷",
+            "weight": 2.0
+          },
+          {
+            "word": "의외",
+            "weight": 2.0
+          },
+          {
+            "word": "스토리",
+            "weight": 2.0
+          },
+          {
+            "word": "음악 미술 예체능",
+            "weight": 2.0
+          },
+          {
+            "word": "아빠",
+            "weight": 2.0
+          },
+          {
+            "word": "Daum",
+            "weight": 2.0
+          },
+          {
+            "word": "선수",
+            "weight": 2.0
+          },
+          {
+            "word": "연재",
+            "weight": 2.0
+          },
+          {
+            "word": "경기",
+            "weight": 2.0
+          },
+          {
+            "word": "정보",
+            "weight": 2.0
+          },
+          {
+            "word": "SBS",
+            "weight": 2.0
+          },
+          {
+            "word": "1회 도대체",
+            "weight": 1.0
+          },
+          {
+            "word": "280페이지",
+            "weight": 1.0
+          },
+          {
+            "word": "복잡",
+            "weight": 1.0
+          },
+          {
+            "word": "불만",
+            "weight": 1.0
+          },
+          {
+            "word": "불구",
+            "weight": 1.0
+          },
+          {
+            "word": "23년",
+            "weight": 1.0
+          },
+          {
+            "word": "골대",
+            "weight": 1.0
+          },
+          {
+            "word": "5회 스트라이크",
+            "weight": 1.0
+          },
+          {
+            "word": "6회 타자",
+            "weight": 1.0
+          },
+          {
+            "word": "7회 스트라이크",
+            "weight": 1.0
+          },
+          {
+            "word": "8회 주자",
+            "weight": 1.0
+          },
+          {
+            "word": "그리기",
+            "weight": 1.0
+          },
+          {
+            "word": "김양희",
+            "weight": 1.0
+          },
+          {
+            "word": "공식",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+            "isbn13": "9791190007320",
+            "authors": "익뚜 지음"
+          },
+          {
+            "bookname": "대충 봐도 머리에 남는 어린이 야구 상식 :야구의 재미를 제대로 알게 하는 알쏭달쏭 야구의 모든 것 ",
+            "isbn13": "9791198381811",
+            "authors": "글: 김양희 ;그림: 나인완"
+          },
+          {
+            "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어!",
+            "isbn13": "9791190007726",
+            "authors": "익뚜 지음"
+          },
+          {
+            "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+            "isbn13": "9791190007412",
+            "authors": "익뚜 (지은이), 장민석 (감수)"
+          },
+          {
+            "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+            "isbn13": "9791186073995",
+            "authors": "지은이: 구보 요이치 ;번역: 김정환"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168412477",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164136261",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134267",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164139897",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000061353660",
+        "title": "어려울 줄 알았는데 재밌어! 야구 만화 도감",
+        "subtitle": "양장본 Hardcover",
+        "page": "280 p.",
+        "book_size": "152*206mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190007245",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190007245",
+      "isbn_add_code": "74690",
+      "set_isbn": "9791190007306",
+      "set_add_code": "74690 ",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감",
+      "subtitle": "양장본 Hardcover",
+      "author": "익뚜 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Who's Got My Tail(후즈갓마이테일)",
+      "publish_year": "2022",
+      "publish_predate": "20220607",
+      "kdc": "695",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 구기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "반전 도감",
+      "series_no": "1",
+      "page": "280 p.",
+      "book_size": "145*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "반전 도감 시리즈 첫 번째 책. 야구가 처음인 어린이는 야구를 쉽고 재밌게 알 수 있고, 야구가 익숙한 어린이는 규칙과 정보를 더 깊게 익힐 수 있는 만화 도감이다. 현재 Daum에서 스포츠 웹툰을 연재하는 익뚜 작가가 야구를 사랑하는 마음을 가득 담아 쓰고 그렸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29543/96/cover/k832837053_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "야구",
+          "weight": 24.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 7.0
+        },
+        {
+          "word": "도감",
+          "weight": 6.0
+        },
+        {
+          "word": "만화",
+          "weight": 6.0
+        },
+        {
+          "word": "반전",
+          "weight": 5.0
+        },
+        {
+          "word": "웹툰",
+          "weight": 4.0
+        },
+        {
+          "word": "익뚜",
+          "weight": 3.0
+        },
+        {
+          "word": "후즈갓마이테일",
+          "weight": 3.0
+        },
+        {
+          "word": "김양희  감수",
+          "weight": 2.0
+        },
+        {
+          "word": "깨알",
+          "weight": 2.0
+        },
+        {
+          "word": "김광현",
+          "weight": 2.0
+        },
+        {
+          "word": "기자",
+          "weight": 2.0
+        },
+        {
+          "word": "이승엽",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "야구장",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이",
+          "weight": 2.0
+        },
+        {
+          "word": "용어",
+          "weight": 2.0
+        },
+        {
+          "word": "이정후",
+          "weight": 2.0
+        },
+        {
+          "word": "베비",
+          "weight": 2.0
+        },
+        {
+          "word": "캐스터",
+          "weight": 2.0
+        },
+        {
+          "word": "부록",
+          "weight": 2.0
+        },
+        {
+          "word": "규칙",
+          "weight": 2.0
+        },
+        {
+          "word": "정우영",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "연장",
+          "weight": 2.0
+        },
+        {
+          "word": "4컷",
+          "weight": 2.0
+        },
+        {
+          "word": "의외",
+          "weight": 2.0
+        },
+        {
+          "word": "스토리",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "아빠",
+          "weight": 2.0
+        },
+        {
+          "word": "Daum",
+          "weight": 2.0
+        },
+        {
+          "word": "선수",
+          "weight": 2.0
+        },
+        {
+          "word": "연재",
+          "weight": 2.0
+        },
+        {
+          "word": "경기",
+          "weight": 2.0
+        },
+        {
+          "word": "정보",
+          "weight": 2.0
+        },
+        {
+          "word": "SBS",
+          "weight": 2.0
+        },
+        {
+          "word": "1회 도대체",
+          "weight": 1.0
+        },
+        {
+          "word": "280페이지",
+          "weight": 1.0
+        },
+        {
+          "word": "복잡",
+          "weight": 1.0
+        },
+        {
+          "word": "불만",
+          "weight": 1.0
+        },
+        {
+          "word": "불구",
+          "weight": 1.0
+        },
+        {
+          "word": "23년",
+          "weight": 1.0
+        },
+        {
+          "word": "골대",
+          "weight": 1.0
+        },
+        {
+          "word": "5회 스트라이크",
+          "weight": 1.0
+        },
+        {
+          "word": "6회 타자",
+          "weight": 1.0
+        },
+        {
+          "word": "7회 스트라이크",
+          "weight": 1.0
+        },
+        {
+          "word": "8회 주자",
+          "weight": 1.0
+        },
+        {
+          "word": "그리기",
+          "weight": 1.0
+        },
+        {
+          "word": "김양희",
+          "weight": 1.0
+        },
+        {
+          "word": "공식",
+          "weight": 1.0
+        }
+      ],
+      "description": "반전 도감 시리즈 첫 번째 책. 야구가 처음인 어린이는 야구를 쉽고 재밌게 알 수 있고, 야구가 익숙한 어린이는 규칙과 정보를 더 깊게 익힐 수 있는 만화 도감이다. 현재 Daum에서 스포츠 웹툰을 연재하는 익뚜 작가가 야구를 사랑하는 마음을 가득 담아 쓰고 그렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+          "isbn13": "9791190007320",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "대충 봐도 머리에 남는 어린이 야구 상식 :야구의 재미를 제대로 알게 하는 알쏭달쏭 야구의 모든 것 ",
+          "isbn13": "9791198381811",
+          "authors": "글: 김양희 ;그림: 나인완"
+        },
+        {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어!",
+          "isbn13": "9791190007726",
+          "authors": "익뚜 지음"
+        },
+        {
+          "bookname": "단순할 줄 알았는데 짜릿해! 농구 만화 도감",
+          "isbn13": "9791190007412",
+          "authors": "익뚜 (지은이), 장민석 (감수)"
+        },
+        {
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "isbn13": "9791186073995",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "(어려울 줄 알았는데 재밌어!) 야구 만화 도감",
+      "author": "익뚜 지음",
+      "kdc_from_api": "695",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

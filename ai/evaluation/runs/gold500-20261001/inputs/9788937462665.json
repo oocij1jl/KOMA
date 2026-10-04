@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788937462665",
+  "captured_at": "2026-10-04T00:10:46.594347+09:00",
+  "lookup": {
+    "isbn": "9788937462665",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937462665",
+      "isbn_add_code": "04800",
+      "set_isbn": "9788937460005",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩9000",
+      "title": "이방인 ",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "민음사",
+      "publish_year": "2011",
+      "publish_predate": "20110325",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "세계문학전집 ",
+      "series_no": "266",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'민음사 세계문학전집' 266권. 20세기의 지성이자 실존주의 문학의 대표 작가, 알베르 카뮈의 대표작. 1942년 &lt;이방인&gt;이 처음 발표되었을 때, 카뮈는 젊은 무명작가에 불과했다. 낯선 인물과 독창적인 형식으로 현대 프랑스 문단에 이방인처럼 나타난 이 소설은 출간 이후 한순간도 프랑스 베스트셀러 목록에서 빠진 적이 없는 걸작이 되었다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/1126/72/cover/8937462664_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "이방인",
+          "weight": 31.0
+        },
+        {
+          "word": "뫼르소",
+          "weight": 15.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 9.0
+        },
+        {
+          "word": "독자",
+          "weight": 9.0
+        },
+        {
+          "word": "카뮈",
+          "weight": 9.0
+        },
+        {
+          "word": "김화영",
+          "weight": 8.0
+        },
+        {
+          "word": "죽음",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "처음",
+          "weight": 7.0
+        },
+        {
+          "word": "레몽",
+          "weight": 7.0
+        },
+        {
+          "word": "교수",
+          "weight": 6.0
+        },
+        {
+          "word": "문학",
+          "weight": 6.0
+        },
+        {
+          "word": "최고",
+          "weight": 6.0
+        },
+        {
+          "word": "불문학",
+          "weight": 5.0
+        },
+        {
+          "word": "관습",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "번역",
+          "weight": 5.0
+        },
+        {
+          "word": "부조리",
+          "weight": 4.0
+        },
+        {
+          "word": "고전",
+          "weight": 4.0
+        },
+        {
+          "word": "알베르",
+          "weight": 4.0
+        },
+        {
+          "word": "진실",
+          "weight": 4.0
+        },
+        {
+          "word": "민음사",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "형식",
+          "weight": 4.0
+        },
+        {
+          "word": "여름의 묘약",
+          "weight": 3.0
+        },
+        {
+          "word": "문학 상상력의 연구",
+          "weight": 3.0
+        },
+        {
+          "word": "어두운 상점들의 거리",
+          "weight": 3.0
+        },
+        {
+          "word": "실존주의",
+          "weight": 3.0
+        },
+        {
+          "word": "아랍",
+          "weight": 3.0
+        },
+        {
+          "word": "소설의 숲에서 길을 묻다",
+          "weight": 3.0
+        },
+        {
+          "word": "김화영의 번역수첩",
+          "weight": 3.0
+        },
+        {
+          "word": "민음사 세계문학전집",
+          "weight": 3.0
+        },
+        {
+          "word": "어린 왕자",
+          "weight": 3.0
+        },
+        {
+          "word": "신화",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "사건",
+          "weight": 3.0
+        },
+        {
+          "word": "정신적",
+          "weight": 3.0
+        },
+        {
+          "word": "바람을 담는 집",
+          "weight": 3.0
+        },
+        {
+          "word": "발자크와 플로베르",
+          "weight": 3.0
+        },
+        {
+          "word": "시간의 파도로 지은 ",
+          "weight": 3.0
+        },
+        {
+          "word": "마담 보바리",
+          "weight": 3.0
+        },
+        {
+          "word": "원문",
+          "weight": 3.0
+        },
+        {
+          "word": "반열",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "추억을 완성하기 위하여",
+          "weight": 3.0
+        },
+        {
+          "word": "고전적",
+          "weight": 3.0
+        },
+        {
+          "word": "강렬",
+          "weight": 3.0
+        },
+        {
+          "word": "다다를 수 없는 나라",
+          "weight": 3.0
+        }
+      ],
+      "description": "'민음사 세계문학전집' 266권. 20세기의 지성이자 실존주의 문학의 대표 작가, 알베르 카뮈의 대표작. 1942년 &lt;이방인&gt;이 처음 발표되었을 때, 카뮈는 젊은 무명작가에 불과했다. 낯선 인물과 독창적인 형식으로 현대 프랑스 문단에 이방인처럼 나타난 이 소설은 출간 이후 한순간도 프랑스 베스트셀러 목록에서 빠진 적이 없는 걸작이 되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "인간 실격",
+          "isbn13": "9788937461033",
+          "authors": "다자이 오사무 지음;김춘미 옮김"
+        },
+        {
+          "bookname": "페스트 ",
+          "isbn13": "9788937462672",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "데미안 ",
+          "isbn13": "9788937460449",
+          "authors": "지은이: 헤르만 헤세 ;옮긴이: 전영애"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "노인과 바다 ",
+          "isbn13": "9788937462788",
+          "authors": "지은이: 어니스트 헤밍웨이 ;옮긴이: 김욱동"
+        },
+        {
+          "bookname": "1984",
+          "isbn13": "9788937460777",
+          "authors": "조지 오웰 지음;정회성 옮김"
+        },
+        {
+          "bookname": "동물농장",
+          "isbn13": "9788937460050",
+          "authors": "조지 오웰 지음;도정일 옮김"
+        }
+      ],
+      "title": "이방인 ",
+      "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "이방인 ",
+        "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+        "publisher": "민음사",
+        "publish_predate": "20110325",
+        "isbn": "9788937462665",
+        "isbn_add_code": "04800",
+        "set_isbn": "9788937460005",
+        "set_add_code": "04800 ",
+        "set_expression": "",
+        "price": "₩9000",
+        "edition_stmt": "",
+        "series_title": "세계문학전집 ",
+        "series_no": "266",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "이방인 ",
+        "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+        "publisher": "민음사",
+        "publish_year": "2011",
+        "isbn": "8937462664",
+        "isbn13": "9788937462665",
+        "isbn_add_code": "04800",
+        "volume": "",
+        "class_no": "863",
+        "class_nm": "문학 > 프랑스문학 > 소설",
+        "description": "'민음사 세계문학전집' 266권. 20세기의 지성이자 실존주의 문학의 대표 작가, 알베르 카뮈의 대표작. 1942년 &lt;이방인&gt;이 처음 발표되었을 때, 카뮈는 젊은 무명작가에 불과했다. 낯선 인물과 독창적인 형식으로 현대 프랑스 문단에 이방인처럼 나타난 이 소설은 출간 이후 한순간도 프랑스 베스트셀러 목록에서 빠진 적이 없는 걸작이 되었다.",
+        "cover_url": "http://image.aladin.co.kr/product/1126/72/cover/8937462664_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "이방인",
+            "weight": 31.0
+          },
+          {
+            "word": "뫼르소",
+            "weight": 15.0
+          },
+          {
+            "word": "프랑스",
+            "weight": 9.0
+          },
+          {
+            "word": "독자",
+            "weight": 9.0
+          },
+          {
+            "word": "카뮈",
+            "weight": 9.0
+          },
+          {
+            "word": "김화영",
+            "weight": 8.0
+          },
+          {
+            "word": "죽음",
+            "weight": 8.0
+          },
+          {
+            "word": "세계",
+            "weight": 7.0
+          },
+          {
+            "word": "처음",
+            "weight": 7.0
+          },
+          {
+            "word": "레몽",
+            "weight": 7.0
+          },
+          {
+            "word": "교수",
+            "weight": 6.0
+          },
+          {
+            "word": "문학",
+            "weight": 6.0
+          },
+          {
+            "word": "최고",
+            "weight": 6.0
+          },
+          {
+            "word": "불문학",
+            "weight": 5.0
+          },
+          {
+            "word": "관습",
+            "weight": 5.0
+          },
+          {
+            "word": "자신",
+            "weight": 5.0
+          },
+          {
+            "word": "번역",
+            "weight": 5.0
+          },
+          {
+            "word": "부조리",
+            "weight": 4.0
+          },
+          {
+            "word": "고전",
+            "weight": 4.0
+          },
+          {
+            "word": "알베르",
+            "weight": 4.0
+          },
+          {
+            "word": "진실",
+            "weight": 4.0
+          },
+          {
+            "word": "민음사",
+            "weight": 4.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 4.0
+          },
+          {
+            "word": "언어",
+            "weight": 4.0
+          },
+          {
+            "word": "인물",
+            "weight": 4.0
+          },
+          {
+            "word": "형식",
+            "weight": 4.0
+          },
+          {
+            "word": "여름의 묘약",
+            "weight": 3.0
+          },
+          {
+            "word": "문학 상상력의 연구",
+            "weight": 3.0
+          },
+          {
+            "word": "어두운 상점들의 거리",
+            "weight": 3.0
+          },
+          {
+            "word": "실존주의",
+            "weight": 3.0
+          },
+          {
+            "word": "아랍",
+            "weight": 3.0
+          },
+          {
+            "word": "소설의 숲에서 길을 묻다",
+            "weight": 3.0
+          },
+          {
+            "word": "김화영의 번역수첩",
+            "weight": 3.0
+          },
+          {
+            "word": "민음사 세계문학전집",
+            "weight": 3.0
+          },
+          {
+            "word": "어린 왕자",
+            "weight": 3.0
+          },
+          {
+            "word": "신화",
+            "weight": 3.0
+          },
+          {
+            "word": "자기",
+            "weight": 3.0
+          },
+          {
+            "word": "사건",
+            "weight": 3.0
+          },
+          {
+            "word": "정신적",
+            "weight": 3.0
+          },
+          {
+            "word": "바람을 담는 집",
+            "weight": 3.0
+          },
+          {
+            "word": "발자크와 플로베르",
+            "weight": 3.0
+          },
+          {
+            "word": "시간의 파도로 지은 ",
+            "weight": 3.0
+          },
+          {
+            "word": "마담 보바리",
+            "weight": 3.0
+          },
+          {
+            "word": "원문",
+            "weight": 3.0
+          },
+          {
+            "word": "반열",
+            "weight": 3.0
+          },
+          {
+            "word": "청춘 시절",
+            "weight": 3.0
+          },
+          {
+            "word": "추억을 완성하기 위하여",
+            "weight": 3.0
+          },
+          {
+            "word": "고전적",
+            "weight": 3.0
+          },
+          {
+            "word": "강렬",
+            "weight": 3.0
+          },
+          {
+            "word": "다다를 수 없는 나라",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "인간 실격",
+            "isbn13": "9788937461033",
+            "authors": "다자이 오사무 지음;김춘미 옮김"
+          },
+          {
+            "bookname": "페스트 ",
+            "isbn13": "9788937462672",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+          },
+          {
+            "bookname": "데미안 ",
+            "isbn13": "9788937460449",
+            "authors": "지은이: 헤르만 헤세 ;옮긴이: 전영애"
+          },
+          {
+            "bookname": "브람스를 좋아하세요 ",
+            "isbn13": "9788937461798",
+            "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+          },
+          {
+            "bookname": "싯다르타",
+            "isbn13": "9788937460586",
+            "authors": "헤르만 헤세 지음;박병덕 옮김"
+          },
+          {
+            "bookname": "호밀밭의 파수꾼 ",
+            "isbn13": "9788937460470",
+            "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "노인과 바다 ",
+            "isbn13": "9788937462788",
+            "authors": "지은이: 어니스트 헤밍웨이 ;옮긴이: 김욱동"
+          },
+          {
+            "bookname": "1984",
+            "isbn13": "9788937460777",
+            "authors": "조지 오웰 지음;정회성 옮김"
+          },
+          {
+            "bookname": "동물농장",
+            "isbn13": "9788937460050",
+            "authors": "조지 오웰 지음;도정일 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "이방인"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000221505184",
+        "title": "가호",
+        "subtitle": "무라카미 하루키 장편소설",
+        "page": "376 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788937462665",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788937462665",
+      "isbn_add_code": "04800",
+      "set_isbn": "9788937460005",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩9000",
+      "title": "이방인 ",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "민음사",
+      "publish_year": "2011",
+      "publish_predate": "20110325",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "세계문학전집 ",
+      "series_no": "266",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'민음사 세계문학전집' 266권. 20세기의 지성이자 실존주의 문학의 대표 작가, 알베르 카뮈의 대표작. 1942년 &lt;이방인&gt;이 처음 발표되었을 때, 카뮈는 젊은 무명작가에 불과했다. 낯선 인물과 독창적인 형식으로 현대 프랑스 문단에 이방인처럼 나타난 이 소설은 출간 이후 한순간도 프랑스 베스트셀러 목록에서 빠진 적이 없는 걸작이 되었다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/1126/72/cover/8937462664_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "이방인",
+          "weight": 31.0
+        },
+        {
+          "word": "뫼르소",
+          "weight": 15.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 9.0
+        },
+        {
+          "word": "독자",
+          "weight": 9.0
+        },
+        {
+          "word": "카뮈",
+          "weight": 9.0
+        },
+        {
+          "word": "김화영",
+          "weight": 8.0
+        },
+        {
+          "word": "죽음",
+          "weight": 8.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "처음",
+          "weight": 7.0
+        },
+        {
+          "word": "레몽",
+          "weight": 7.0
+        },
+        {
+          "word": "교수",
+          "weight": 6.0
+        },
+        {
+          "word": "문학",
+          "weight": 6.0
+        },
+        {
+          "word": "최고",
+          "weight": 6.0
+        },
+        {
+          "word": "불문학",
+          "weight": 5.0
+        },
+        {
+          "word": "관습",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "번역",
+          "weight": 5.0
+        },
+        {
+          "word": "부조리",
+          "weight": 4.0
+        },
+        {
+          "word": "고전",
+          "weight": 4.0
+        },
+        {
+          "word": "알베르",
+          "weight": 4.0
+        },
+        {
+          "word": "진실",
+          "weight": 4.0
+        },
+        {
+          "word": "민음사",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "인물",
+          "weight": 4.0
+        },
+        {
+          "word": "형식",
+          "weight": 4.0
+        },
+        {
+          "word": "여름의 묘약",
+          "weight": 3.0
+        },
+        {
+          "word": "문학 상상력의 연구",
+          "weight": 3.0
+        },
+        {
+          "word": "어두운 상점들의 거리",
+          "weight": 3.0
+        },
+        {
+          "word": "실존주의",
+          "weight": 3.0
+        },
+        {
+          "word": "아랍",
+          "weight": 3.0
+        },
+        {
+          "word": "소설의 숲에서 길을 묻다",
+          "weight": 3.0
+        },
+        {
+          "word": "김화영의 번역수첩",
+          "weight": 3.0
+        },
+        {
+          "word": "민음사 세계문학전집",
+          "weight": 3.0
+        },
+        {
+          "word": "어린 왕자",
+          "weight": 3.0
+        },
+        {
+          "word": "신화",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "사건",
+          "weight": 3.0
+        },
+        {
+          "word": "정신적",
+          "weight": 3.0
+        },
+        {
+          "word": "바람을 담는 집",
+          "weight": 3.0
+        },
+        {
+          "word": "발자크와 플로베르",
+          "weight": 3.0
+        },
+        {
+          "word": "시간의 파도로 지은 ",
+          "weight": 3.0
+        },
+        {
+          "word": "마담 보바리",
+          "weight": 3.0
+        },
+        {
+          "word": "원문",
+          "weight": 3.0
+        },
+        {
+          "word": "반열",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘 시절",
+          "weight": 3.0
+        },
+        {
+          "word": "추억을 완성하기 위하여",
+          "weight": 3.0
+        },
+        {
+          "word": "고전적",
+          "weight": 3.0
+        },
+        {
+          "word": "강렬",
+          "weight": 3.0
+        },
+        {
+          "word": "다다를 수 없는 나라",
+          "weight": 3.0
+        }
+      ],
+      "description": "'민음사 세계문학전집' 266권. 20세기의 지성이자 실존주의 문학의 대표 작가, 알베르 카뮈의 대표작. 1942년 &lt;이방인&gt;이 처음 발표되었을 때, 카뮈는 젊은 무명작가에 불과했다. 낯선 인물과 독창적인 형식으로 현대 프랑스 문단에 이방인처럼 나타난 이 소설은 출간 이후 한순간도 프랑스 베스트셀러 목록에서 빠진 적이 없는 걸작이 되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "인간 실격",
+          "isbn13": "9788937461033",
+          "authors": "다자이 오사무 지음;김춘미 옮김"
+        },
+        {
+          "bookname": "페스트 ",
+          "isbn13": "9788937462672",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "데미안 ",
+          "isbn13": "9788937460449",
+          "authors": "지은이: 헤르만 헤세 ;옮긴이: 전영애"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        },
+        {
+          "bookname": "호밀밭의 파수꾼 ",
+          "isbn13": "9788937460470",
+          "authors": "지은이: J. D. 샐린저 ;옮긴이: 정영목"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "노인과 바다 ",
+          "isbn13": "9788937462788",
+          "authors": "지은이: 어니스트 헤밍웨이 ;옮긴이: 김욱동"
+        },
+        {
+          "bookname": "1984",
+          "isbn13": "9788937460777",
+          "authors": "조지 오웰 지음;정회성 옮김"
+        },
+        {
+          "bookname": "동물농장",
+          "isbn13": "9788937460050",
+          "authors": "조지 오웰 지음;도정일 옮김"
+        }
+      ],
+      "title": "이방인 ",
+      "author": "지은이: 알베르 카뮈 ;옮긴이: 김화영",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

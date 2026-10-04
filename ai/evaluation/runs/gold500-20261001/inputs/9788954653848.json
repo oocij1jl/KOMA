@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788954653848",
+  "captured_at": "2026-10-03T00:20:28.695263+09:00",
+  "lookup": {
+    "isbn": "9788954653848",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954653848",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "쾌락독서",
+      "subtitle": "재밌는 것만 읽었다",
+      "author": "지은이: 문유석",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2018",
+      "publish_predate": "20181212",
+      "kdc": "029",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "264 p.",
+      "book_size": "130*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "소문난 다독가로 알려진 작가의 독서 에세이로, 어린 시절부터 지금까지 책 중독자로 살아온 이야기를 유쾌하게 담았다. 책과 함께 가슴 설레고 즐거웠던 책 덕후 인생을 솔직하게 펼쳐 보인다.",
+      "control_no": "CIP2018038096",
+      "cover_url": "https://image.aladin.co.kr/product/17554/20/cover/8954653847_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "슬램덩크",
+          "weight": 18.0
+        },
+        {
+          "word": "판사",
+          "weight": 15.0
+        },
+        {
+          "word": "시절",
+          "weight": 14.0
+        },
+        {
+          "word": "필요",
+          "weight": 11.0
+        },
+        {
+          "word": "독서",
+          "weight": 10.0
+        },
+        {
+          "word": "읽기",
+          "weight": 9.0
+        },
+        {
+          "word": "미스 함무라비",
+          "weight": 9.0
+        },
+        {
+          "word": "세계",
+          "weight": 9.0
+        },
+        {
+          "word": "유리가면",
+          "weight": 9.0
+        },
+        {
+          "word": "인터넷",
+          "weight": 8.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "문유석",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "법조인",
+          "weight": 6.0
+        },
+        {
+          "word": "굿바이 미스터블랙",
+          "weight": 6.0
+        },
+        {
+          "word": "김용",
+          "weight": 6.0
+        },
+        {
+          "word": "개인주의자 선언",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 5.0
+        },
+        {
+          "word": "재미",
+          "weight": 5.0
+        },
+        {
+          "word": "티브이",
+          "weight": 5.0
+        },
+        {
+          "word": "순정만화",
+          "weight": 5.0
+        },
+        {
+          "word": "법관",
+          "weight": 4.0
+        },
+        {
+          "word": "편식",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "본문",
+          "weight": 4.0
+        },
+        {
+          "word": "딱딱",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "율곡문선",
+          "weight": 3.0
+        },
+        {
+          "word": "리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "실천이성비판",
+          "weight": 3.0
+        },
+        {
+          "word": "솔직",
+          "weight": 3.0
+        },
+        {
+          "word": "증거",
+          "weight": 3.0
+        },
+        {
+          "word": "전작",
+          "weight": 3.0
+        },
+        {
+          "word": "모임",
+          "weight": 3.0
+        },
+        {
+          "word": "우파니샤드",
+          "weight": 3.0
+        },
+        {
+          "word": "아함경",
+          "weight": 3.0
+        },
+        {
+          "word": "덕후",
+          "weight": 3.0
+        },
+        {
+          "word": "신조협려",
+          "weight": 3.0
+        },
+        {
+          "word": "짜샤이",
+          "weight": 3.0
+        },
+        {
+          "word": "지루",
+          "weight": 3.0
+        },
+        {
+          "word": "가슴",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "처용가",
+          "weight": 3.0
+        },
+        {
+          "word": "책들",
+          "weight": 3.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 3.0
+        },
+        {
+          "word": "고시생",
+          "weight": 3.0
+        }
+      ],
+      "description": "소문난 다독가로 알려진 작가의 독서 에세이로, 어린 시절부터 지금까지 책 중독자로 살아온 이야기를 유쾌하게 담았다. 책과 함께 가슴 설레고 즐거웠던 책 덕후 인생을 솔직하게 펼쳐 보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "개인주의자 선언 :판사 문유석의 일상유감 ",
+          "isbn13": "9788954637756",
+          "authors": "지은이: 문유석"
+        },
+        {
+          "bookname": "최소한의 선의 ",
+          "isbn13": "9788954684200",
+          "authors": "문유석 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "이토록 평범한 미래 :김연수 소설 ",
+          "isbn13": "9788954680004",
+          "authors": "지은이: 김연수"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        }
+      ],
+      "title": "쾌락독서",
+      "author": "지은이: 문유석",
+      "kdc_from_api": "029",
+      "ddc_from_api": "028",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "쾌락독서",
+        "author": "지은이: 문유석",
+        "publisher": "문학동네",
+        "publish_predate": "20181212",
+        "isbn": "9788954653848",
+        "isbn_add_code": "03800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "262 p.",
+        "book_size": "130*200",
+        "form": "종이책",
+        "kdc": "029",
+        "ddc": "028",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018038096",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "쾌락독서 :개인주의자 문유석의 유쾌한 책 읽기 ",
+        "author": "지은이: 문유석",
+        "publisher": "문학동네",
+        "publish_year": "2018",
+        "isbn": "8954653847",
+        "isbn13": "9788954653848",
+        "isbn_add_code": "03800",
+        "volume": "",
+        "class_no": "029",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "소문난 다독가로 알려진 작가의 독서 에세이로, 어린 시절부터 지금까지 책 중독자로 살아온 이야기를 유쾌하게 담았다. 책과 함께 가슴 설레고 즐거웠던 책 덕후 인생을 솔직하게 펼쳐 보인다.",
+        "cover_url": "https://image.aladin.co.kr/product/17554/20/cover/8954653847_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "슬램덩크",
+            "weight": 18.0
+          },
+          {
+            "word": "판사",
+            "weight": 15.0
+          },
+          {
+            "word": "시절",
+            "weight": 14.0
+          },
+          {
+            "word": "필요",
+            "weight": 11.0
+          },
+          {
+            "word": "독서",
+            "weight": 10.0
+          },
+          {
+            "word": "읽기",
+            "weight": 9.0
+          },
+          {
+            "word": "미스 함무라비",
+            "weight": 9.0
+          },
+          {
+            "word": "세계",
+            "weight": 9.0
+          },
+          {
+            "word": "유리가면",
+            "weight": 9.0
+          },
+          {
+            "word": "인터넷",
+            "weight": 8.0
+          },
+          {
+            "word": "사람",
+            "weight": 7.0
+          },
+          {
+            "word": "인생",
+            "weight": 6.0
+          },
+          {
+            "word": "문유석",
+            "weight": 6.0
+          },
+          {
+            "word": "이유",
+            "weight": 6.0
+          },
+          {
+            "word": "법조인",
+            "weight": 6.0
+          },
+          {
+            "word": "굿바이 미스터블랙",
+            "weight": 6.0
+          },
+          {
+            "word": "김용",
+            "weight": 6.0
+          },
+          {
+            "word": "개인주의자 선언",
+            "weight": 6.0
+          },
+          {
+            "word": "생각",
+            "weight": 5.0
+          },
+          {
+            "word": "즐거움",
+            "weight": 5.0
+          },
+          {
+            "word": "재미",
+            "weight": 5.0
+          },
+          {
+            "word": "티브이",
+            "weight": 5.0
+          },
+          {
+            "word": "순정만화",
+            "weight": 5.0
+          },
+          {
+            "word": "법관",
+            "weight": 4.0
+          },
+          {
+            "word": "편식",
+            "weight": 4.0
+          },
+          {
+            "word": "인간",
+            "weight": 4.0
+          },
+          {
+            "word": "세상",
+            "weight": 4.0
+          },
+          {
+            "word": "방법",
+            "weight": 4.0
+          },
+          {
+            "word": "본문",
+            "weight": 4.0
+          },
+          {
+            "word": "딱딱",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "율곡문선",
+            "weight": 3.0
+          },
+          {
+            "word": "리스트",
+            "weight": 3.0
+          },
+          {
+            "word": "실천이성비판",
+            "weight": 3.0
+          },
+          {
+            "word": "솔직",
+            "weight": 3.0
+          },
+          {
+            "word": "증거",
+            "weight": 3.0
+          },
+          {
+            "word": "전작",
+            "weight": 3.0
+          },
+          {
+            "word": "모임",
+            "weight": 3.0
+          },
+          {
+            "word": "우파니샤드",
+            "weight": 3.0
+          },
+          {
+            "word": "아함경",
+            "weight": 3.0
+          },
+          {
+            "word": "덕후",
+            "weight": 3.0
+          },
+          {
+            "word": "신조협려",
+            "weight": 3.0
+          },
+          {
+            "word": "짜샤이",
+            "weight": 3.0
+          },
+          {
+            "word": "지루",
+            "weight": 3.0
+          },
+          {
+            "word": "가슴",
+            "weight": 3.0
+          },
+          {
+            "word": "경험",
+            "weight": 3.0
+          },
+          {
+            "word": "처용가",
+            "weight": 3.0
+          },
+          {
+            "word": "책들",
+            "weight": 3.0
+          },
+          {
+            "word": "유쾌",
+            "weight": 3.0
+          },
+          {
+            "word": "고시생",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "개인주의자 선언 :판사 문유석의 일상유감 ",
+            "isbn13": "9788954637756",
+            "authors": "지은이: 문유석"
+          },
+          {
+            "bookname": "최소한의 선의 ",
+            "isbn13": "9788954684200",
+            "authors": "문유석 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "이토록 평범한 미래 :김연수 소설 ",
+            "isbn13": "9788954680004",
+            "authors": "지은이: 김연수"
+          },
+          {
+            "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+            "isbn13": "9788954695053",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "쾌락독서 - 재밌는 것만 읽었다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000780248",
+        "title": "쾌락독서",
+        "subtitle": "개인주의자 문유석의 유쾌한 책 읽기",
+        "page": "264 p.",
+        "book_size": "138*208mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788954653848",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954653848",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13500",
+      "title": "쾌락독서",
+      "subtitle": "재밌는 것만 읽었다",
+      "author": "지은이: 문유석",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2018",
+      "publish_predate": "20181212",
+      "kdc": "029",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "264 p.",
+      "book_size": "130*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "소문난 다독가로 알려진 작가의 독서 에세이로, 어린 시절부터 지금까지 책 중독자로 살아온 이야기를 유쾌하게 담았다. 책과 함께 가슴 설레고 즐거웠던 책 덕후 인생을 솔직하게 펼쳐 보인다.",
+      "control_no": "CIP2018038096",
+      "cover_url": "https://image.aladin.co.kr/product/17554/20/cover/8954653847_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7021683_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "슬램덩크",
+          "weight": 18.0
+        },
+        {
+          "word": "판사",
+          "weight": 15.0
+        },
+        {
+          "word": "시절",
+          "weight": 14.0
+        },
+        {
+          "word": "필요",
+          "weight": 11.0
+        },
+        {
+          "word": "독서",
+          "weight": 10.0
+        },
+        {
+          "word": "읽기",
+          "weight": 9.0
+        },
+        {
+          "word": "미스 함무라비",
+          "weight": 9.0
+        },
+        {
+          "word": "세계",
+          "weight": 9.0
+        },
+        {
+          "word": "유리가면",
+          "weight": 9.0
+        },
+        {
+          "word": "인터넷",
+          "weight": 8.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "문유석",
+          "weight": 6.0
+        },
+        {
+          "word": "이유",
+          "weight": 6.0
+        },
+        {
+          "word": "법조인",
+          "weight": 6.0
+        },
+        {
+          "word": "굿바이 미스터블랙",
+          "weight": 6.0
+        },
+        {
+          "word": "김용",
+          "weight": 6.0
+        },
+        {
+          "word": "개인주의자 선언",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 5.0
+        },
+        {
+          "word": "즐거움",
+          "weight": 5.0
+        },
+        {
+          "word": "재미",
+          "weight": 5.0
+        },
+        {
+          "word": "티브이",
+          "weight": 5.0
+        },
+        {
+          "word": "순정만화",
+          "weight": 5.0
+        },
+        {
+          "word": "법관",
+          "weight": 4.0
+        },
+        {
+          "word": "편식",
+          "weight": 4.0
+        },
+        {
+          "word": "인간",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "본문",
+          "weight": 4.0
+        },
+        {
+          "word": "딱딱",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "율곡문선",
+          "weight": 3.0
+        },
+        {
+          "word": "리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "실천이성비판",
+          "weight": 3.0
+        },
+        {
+          "word": "솔직",
+          "weight": 3.0
+        },
+        {
+          "word": "증거",
+          "weight": 3.0
+        },
+        {
+          "word": "전작",
+          "weight": 3.0
+        },
+        {
+          "word": "모임",
+          "weight": 3.0
+        },
+        {
+          "word": "우파니샤드",
+          "weight": 3.0
+        },
+        {
+          "word": "아함경",
+          "weight": 3.0
+        },
+        {
+          "word": "덕후",
+          "weight": 3.0
+        },
+        {
+          "word": "신조협려",
+          "weight": 3.0
+        },
+        {
+          "word": "짜샤이",
+          "weight": 3.0
+        },
+        {
+          "word": "지루",
+          "weight": 3.0
+        },
+        {
+          "word": "가슴",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "처용가",
+          "weight": 3.0
+        },
+        {
+          "word": "책들",
+          "weight": 3.0
+        },
+        {
+          "word": "유쾌",
+          "weight": 3.0
+        },
+        {
+          "word": "고시생",
+          "weight": 3.0
+        }
+      ],
+      "description": "소문난 다독가로 알려진 작가의 독서 에세이로, 어린 시절부터 지금까지 책 중독자로 살아온 이야기를 유쾌하게 담았다. 책과 함께 가슴 설레고 즐거웠던 책 덕후 인생을 솔직하게 펼쳐 보인다.",
+      "co_loan_books": [
+        {
+          "bookname": "개인주의자 선언 :판사 문유석의 일상유감 ",
+          "isbn13": "9788954637756",
+          "authors": "지은이: 문유석"
+        },
+        {
+          "bookname": "최소한의 선의 ",
+          "isbn13": "9788954684200",
+          "authors": "문유석 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "이토록 평범한 미래 :김연수 소설 ",
+          "isbn13": "9788954680004",
+          "authors": "지은이: 김연수"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        }
+      ],
+      "title": "쾌락독서",
+      "author": "지은이: 문유석",
+      "kdc_from_api": "029",
+      "ddc_from_api": "028",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788962476682",
+  "captured_at": "2026-10-03T00:19:28.918492+09:00",
+  "lookup": {
+    "isbn": "9788962476682",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962476682",
+      "isbn_add_code": "73330",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘",
+      "subtitle": "세상을 바꾸는 시민의 힘",
+      "author": "김영숙 글 ;장명진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "스콜라",
+      "publish_year": "2015",
+      "publish_predate": "20151215",
+      "kdc": "539",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "188 p.",
+      "book_size": "185*240mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "지식의 힘 시리즈 5권. 에너지 자립을 이룬 윤데, 원자력 발전소 건설을 막은 프라이부르크, 재미와 창조의 도시 쿠리치바 등 우리에게 환경 윤리와 시민 의식에 눈뜬 보통 사람들의 힘이 얼마나 큰 힘을 발휘하고 성공을 이루었는지 보여 준다.",
+      "control_no": "CIP2015031738",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "슈퍼맨",
+          "weight": 13.0
+        },
+        {
+          "word": "도시",
+          "weight": 13.0
+        },
+        {
+          "word": "초록",
+          "weight": 12.0
+        },
+        {
+          "word": "지구",
+          "weight": 12.0
+        },
+        {
+          "word": "윤데",
+          "weight": 11.0
+        },
+        {
+          "word": "마을",
+          "weight": 11.0
+        },
+        {
+          "word": "사람",
+          "weight": 10.0
+        },
+        {
+          "word": "미래",
+          "weight": 10.0
+        },
+        {
+          "word": "시민",
+          "weight": 9.0
+        },
+        {
+          "word": "환경",
+          "weight": 9.0
+        },
+        {
+          "word": "지역",
+          "weight": 8.0
+        },
+        {
+          "word": "프라이부르크",
+          "weight": 8.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "에너지",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "마인드맵",
+          "weight": 6.0
+        },
+        {
+          "word": "녹색",
+          "weight": 5.0
+        },
+        {
+          "word": "원자력",
+          "weight": 5.0
+        },
+        {
+          "word": "이들",
+          "weight": 5.0
+        },
+        {
+          "word": "발전소",
+          "weight": 5.0
+        },
+        {
+          "word": "교통",
+          "weight": 4.0
+        },
+        {
+          "word": "토트네스",
+          "weight": 4.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 4.0
+        },
+        {
+          "word": "쿠리치바",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 4.0
+        },
+        {
+          "word": "과학",
+          "weight": 4.0
+        },
+        {
+          "word": "상황",
+          "weight": 4.0
+        },
+        {
+          "word": "역사",
+          "weight": 4.0
+        },
+        {
+          "word": "아바나",
+          "weight": 3.0
+        },
+        {
+          "word": "100년 전 우리는",
+          "weight": 3.0
+        },
+        {
+          "word": "농업",
+          "weight": 3.0
+        },
+        {
+          "word": "세종대왕이 뿔났다",
+          "weight": 3.0
+        },
+        {
+          "word": "최초사 박물관",
+          "weight": 3.0
+        },
+        {
+          "word": "행복으로 이끄는 황금 나침반",
+          "weight": 3.0
+        },
+        {
+          "word": "주민",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 3.0
+        },
+        {
+          "word": "준비",
+          "weight": 3.0
+        },
+        {
+          "word": "기술",
+          "weight": 3.0
+        },
+        {
+          "word": "건설",
+          "weight": 3.0
+        },
+        {
+          "word": "문명",
+          "weight": 3.0
+        },
+        {
+          "word": "무지개",
+          "weight": 3.0
+        },
+        {
+          "word": "지옥의 섬 군함도",
+          "weight": 3.0
+        },
+        {
+          "word": "경제",
+          "weight": 3.0
+        },
+        {
+          "word": "세계를 놀라게 한 겨레과학",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "괴팅겐",
+          "weight": 2.0
+        },
+        {
+          "word": "교수",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "식량",
+          "weight": 2.0
+        }
+      ],
+      "description": "지식의 힘 시리즈 5권. 에너지 자립을 이룬 윤데, 원자력 발전소 건설을 막은 프라이부르크, 재미와 창조의 도시 쿠리치바 등 우리에게 환경 윤리와 시민 의식에 눈뜬 보통 사람들의 힘이 얼마나 큰 힘을 발휘하고 성공을 이루었는지 보여 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "지붕이 들려주는 건축 이야기 ",
+          "isbn13": "9788932374093",
+          "authors": "글: 남궁담 ;그림: 심승희"
+        },
+        {
+          "bookname": "경제의 핏줄, 화폐 ",
+          "isbn13": "9788983947482",
+          "authors": "김성호 글 ;성연 그림"
+        },
+        {
+          "bookname": "(조선 사람들의 소망이 담겨 있는) 신사임당 갤러리 ",
+          "isbn13": "9788955883244",
+          "authors": "글: 이광표 ;그림: 이예숙"
+        },
+        {
+          "bookname": "초록고양이 :위기철 동화 ",
+          "isbn13": "9788958289869",
+          "authors": "지은이: 위기철 ;그린이: 안미영"
+        },
+        {
+          "bookname": "알고 보니 내 생활이 다 과학! :생활 속 구석구석 과학 이야기 ",
+          "isbn13": "9788930267939",
+          "authors": "김해보,이창우 그림"
+        },
+        {
+          "bookname": "가끔씩 비 오는 날:이가을 동화집",
+          "isbn13": "9788936441630",
+          "authors": "이가을 지음;[이수지 그림]"
+        },
+        {
+          "bookname": "콩 한 쪽도 나누어요 :나눔·기부·봉사 이야기 ",
+          "isbn13": "9791188283293",
+          "authors": "글: 고수산나 ;그림: 이해정"
+        },
+        {
+          "bookname": "사과의 길 ",
+          "isbn13": "9788954624633",
+          "authors": "김철순 시 ;구은선 그림"
+        },
+        {
+          "bookname": "잘못 뽑은 반장 ",
+          "isbn13": "9788934933700",
+          "authors": "이은재 글 ;서영경 그림"
+        },
+        {
+          "bookname": "젓가락 달인 ",
+          "isbn13": "9788994475462",
+          "authors": "유타루 지음 ;김윤주 그림"
+        }
+      ],
+      "title": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘",
+      "author": "김영숙 글 ;장명진 그림",
+      "kdc_from_api": "539",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘",
+        "author": "김영숙",
+        "publisher": "스콜라",
+        "publish_predate": "20151215",
+        "isbn": "9788962476682",
+        "isbn_add_code": "73330",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "188",
+        "book_size": "",
+        "form": "",
+        "kdc": "539",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015031738",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "무지개 도시를 만드는 초록 슈퍼맨 :세상을 바꾸는 시민의 힘 ",
+        "author": "김영숙 글 ;장명진 그림",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2015",
+        "isbn": "8962476681",
+        "isbn13": "9788962476682",
+        "isbn_add_code": "73330",
+        "volume": "",
+        "class_no": "539",
+        "class_nm": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+        "description": "지식의 힘 시리즈 5권. 에너지 자립을 이룬 윤데, 원자력 발전소 건설을 막은 프라이부르크, 재미와 창조의 도시 쿠리치바 등 우리에게 환경 윤리와 시민 의식에 눈뜬 보통 사람들의 힘이 얼마나 큰 힘을 발휘하고 성공을 이루었는지 보여 준다.",
+        "cover_url": "http://image.aladin.co.kr/product/7204/82/cover/8962476681_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "슈퍼맨",
+            "weight": 13.0
+          },
+          {
+            "word": "도시",
+            "weight": 13.0
+          },
+          {
+            "word": "초록",
+            "weight": 12.0
+          },
+          {
+            "word": "지구",
+            "weight": 12.0
+          },
+          {
+            "word": "윤데",
+            "weight": 11.0
+          },
+          {
+            "word": "마을",
+            "weight": 11.0
+          },
+          {
+            "word": "사람",
+            "weight": 10.0
+          },
+          {
+            "word": "미래",
+            "weight": 10.0
+          },
+          {
+            "word": "시민",
+            "weight": 9.0
+          },
+          {
+            "word": "환경",
+            "weight": 9.0
+          },
+          {
+            "word": "지역",
+            "weight": 8.0
+          },
+          {
+            "word": "프라이부르크",
+            "weight": 8.0
+          },
+          {
+            "word": "인류",
+            "weight": 7.0
+          },
+          {
+            "word": "에너지",
+            "weight": 7.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "마인드맵",
+            "weight": 6.0
+          },
+          {
+            "word": "녹색",
+            "weight": 5.0
+          },
+          {
+            "word": "원자력",
+            "weight": 5.0
+          },
+          {
+            "word": "이들",
+            "weight": 5.0
+          },
+          {
+            "word": "발전소",
+            "weight": 5.0
+          },
+          {
+            "word": "교통",
+            "weight": 4.0
+          },
+          {
+            "word": "토트네스",
+            "weight": 4.0
+          },
+          {
+            "word": "프로젝트",
+            "weight": 4.0
+          },
+          {
+            "word": "쿠리치바",
+            "weight": 4.0
+          },
+          {
+            "word": "행동",
+            "weight": 4.0
+          },
+          {
+            "word": "과학",
+            "weight": 4.0
+          },
+          {
+            "word": "상황",
+            "weight": 4.0
+          },
+          {
+            "word": "역사",
+            "weight": 4.0
+          },
+          {
+            "word": "아바나",
+            "weight": 3.0
+          },
+          {
+            "word": "100년 전 우리는",
+            "weight": 3.0
+          },
+          {
+            "word": "농업",
+            "weight": 3.0
+          },
+          {
+            "word": "세종대왕이 뿔났다",
+            "weight": 3.0
+          },
+          {
+            "word": "최초사 박물관",
+            "weight": 3.0
+          },
+          {
+            "word": "행복으로 이끄는 황금 나침반",
+            "weight": 3.0
+          },
+          {
+            "word": "주민",
+            "weight": 3.0
+          },
+          {
+            "word": "교과서",
+            "weight": 3.0
+          },
+          {
+            "word": "변화",
+            "weight": 3.0
+          },
+          {
+            "word": "준비",
+            "weight": 3.0
+          },
+          {
+            "word": "기술",
+            "weight": 3.0
+          },
+          {
+            "word": "건설",
+            "weight": 3.0
+          },
+          {
+            "word": "문명",
+            "weight": 3.0
+          },
+          {
+            "word": "무지개",
+            "weight": 3.0
+          },
+          {
+            "word": "지옥의 섬 군함도",
+            "weight": 3.0
+          },
+          {
+            "word": "경제",
+            "weight": 3.0
+          },
+          {
+            "word": "세계를 놀라게 한 겨레과학",
+            "weight": 3.0
+          },
+          {
+            "word": "세상",
+            "weight": 3.0
+          },
+          {
+            "word": "괴팅겐",
+            "weight": 2.0
+          },
+          {
+            "word": "교수",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "식량",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "지붕이 들려주는 건축 이야기 ",
+            "isbn13": "9788932374093",
+            "authors": "글: 남궁담 ;그림: 심승희"
+          },
+          {
+            "bookname": "경제의 핏줄, 화폐 ",
+            "isbn13": "9788983947482",
+            "authors": "김성호 글 ;성연 그림"
+          },
+          {
+            "bookname": "(조선 사람들의 소망이 담겨 있는) 신사임당 갤러리 ",
+            "isbn13": "9788955883244",
+            "authors": "글: 이광표 ;그림: 이예숙"
+          },
+          {
+            "bookname": "초록고양이 :위기철 동화 ",
+            "isbn13": "9788958289869",
+            "authors": "지은이: 위기철 ;그린이: 안미영"
+          },
+          {
+            "bookname": "알고 보니 내 생활이 다 과학! :생활 속 구석구석 과학 이야기 ",
+            "isbn13": "9788930267939",
+            "authors": "김해보,이창우 그림"
+          },
+          {
+            "bookname": "가끔씩 비 오는 날:이가을 동화집",
+            "isbn13": "9788936441630",
+            "authors": "이가을 지음;[이수지 그림]"
+          },
+          {
+            "bookname": "콩 한 쪽도 나누어요 :나눔·기부·봉사 이야기 ",
+            "isbn13": "9791188283293",
+            "authors": "글: 고수산나 ;그림: 이해정"
+          },
+          {
+            "bookname": "사과의 길 ",
+            "isbn13": "9788954624633",
+            "authors": "김철순 시 ;구은선 그림"
+          },
+          {
+            "bookname": "잘못 뽑은 반장 ",
+            "isbn13": "9788934933700",
+            "authors": "이은재 글 ;서영경 그림"
+          },
+          {
+            "bookname": "젓가락 달인 ",
+            "isbn13": "9788994475462",
+            "authors": "유타루 지음 ;김윤주 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000968414",
+        "title": "무지개 도시를 만드는 초록 슈퍼맨",
+        "subtitle": "세상을 바꾸는 시민의 힘",
+        "page": "188 p.",
+        "book_size": "185*240mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788962476682",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962476682",
+      "isbn_add_code": "73330",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘",
+      "subtitle": "세상을 바꾸는 시민의 힘",
+      "author": "김영숙 글 ;장명진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "스콜라",
+      "publish_year": "2015",
+      "publish_predate": "20151215",
+      "kdc": "539",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 공학, 공업일반 > 위생, 도시, 환경공학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "188 p.",
+      "book_size": "185*240mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "지식의 힘 시리즈 5권. 에너지 자립을 이룬 윤데, 원자력 발전소 건설을 막은 프라이부르크, 재미와 창조의 도시 쿠리치바 등 우리에게 환경 윤리와 시민 의식에 눈뜬 보통 사람들의 힘이 얼마나 큰 힘을 발휘하고 성공을 이루었는지 보여 준다.",
+      "control_no": "CIP2015031738",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5031665_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "슈퍼맨",
+          "weight": 13.0
+        },
+        {
+          "word": "도시",
+          "weight": 13.0
+        },
+        {
+          "word": "초록",
+          "weight": 12.0
+        },
+        {
+          "word": "지구",
+          "weight": 12.0
+        },
+        {
+          "word": "윤데",
+          "weight": 11.0
+        },
+        {
+          "word": "마을",
+          "weight": 11.0
+        },
+        {
+          "word": "사람",
+          "weight": 10.0
+        },
+        {
+          "word": "미래",
+          "weight": 10.0
+        },
+        {
+          "word": "시민",
+          "weight": 9.0
+        },
+        {
+          "word": "환경",
+          "weight": 9.0
+        },
+        {
+          "word": "지역",
+          "weight": 8.0
+        },
+        {
+          "word": "프라이부르크",
+          "weight": 8.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "에너지",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "마인드맵",
+          "weight": 6.0
+        },
+        {
+          "word": "녹색",
+          "weight": 5.0
+        },
+        {
+          "word": "원자력",
+          "weight": 5.0
+        },
+        {
+          "word": "이들",
+          "weight": 5.0
+        },
+        {
+          "word": "발전소",
+          "weight": 5.0
+        },
+        {
+          "word": "교통",
+          "weight": 4.0
+        },
+        {
+          "word": "토트네스",
+          "weight": 4.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 4.0
+        },
+        {
+          "word": "쿠리치바",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 4.0
+        },
+        {
+          "word": "과학",
+          "weight": 4.0
+        },
+        {
+          "word": "상황",
+          "weight": 4.0
+        },
+        {
+          "word": "역사",
+          "weight": 4.0
+        },
+        {
+          "word": "아바나",
+          "weight": 3.0
+        },
+        {
+          "word": "100년 전 우리는",
+          "weight": 3.0
+        },
+        {
+          "word": "농업",
+          "weight": 3.0
+        },
+        {
+          "word": "세종대왕이 뿔났다",
+          "weight": 3.0
+        },
+        {
+          "word": "최초사 박물관",
+          "weight": 3.0
+        },
+        {
+          "word": "행복으로 이끄는 황금 나침반",
+          "weight": 3.0
+        },
+        {
+          "word": "주민",
+          "weight": 3.0
+        },
+        {
+          "word": "교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "변화",
+          "weight": 3.0
+        },
+        {
+          "word": "준비",
+          "weight": 3.0
+        },
+        {
+          "word": "기술",
+          "weight": 3.0
+        },
+        {
+          "word": "건설",
+          "weight": 3.0
+        },
+        {
+          "word": "문명",
+          "weight": 3.0
+        },
+        {
+          "word": "무지개",
+          "weight": 3.0
+        },
+        {
+          "word": "지옥의 섬 군함도",
+          "weight": 3.0
+        },
+        {
+          "word": "경제",
+          "weight": 3.0
+        },
+        {
+          "word": "세계를 놀라게 한 겨레과학",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "괴팅겐",
+          "weight": 2.0
+        },
+        {
+          "word": "교수",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "식량",
+          "weight": 2.0
+        }
+      ],
+      "description": "지식의 힘 시리즈 5권. 에너지 자립을 이룬 윤데, 원자력 발전소 건설을 막은 프라이부르크, 재미와 창조의 도시 쿠리치바 등 우리에게 환경 윤리와 시민 의식에 눈뜬 보통 사람들의 힘이 얼마나 큰 힘을 발휘하고 성공을 이루었는지 보여 준다.",
+      "co_loan_books": [
+        {
+          "bookname": "지붕이 들려주는 건축 이야기 ",
+          "isbn13": "9788932374093",
+          "authors": "글: 남궁담 ;그림: 심승희"
+        },
+        {
+          "bookname": "경제의 핏줄, 화폐 ",
+          "isbn13": "9788983947482",
+          "authors": "김성호 글 ;성연 그림"
+        },
+        {
+          "bookname": "(조선 사람들의 소망이 담겨 있는) 신사임당 갤러리 ",
+          "isbn13": "9788955883244",
+          "authors": "글: 이광표 ;그림: 이예숙"
+        },
+        {
+          "bookname": "초록고양이 :위기철 동화 ",
+          "isbn13": "9788958289869",
+          "authors": "지은이: 위기철 ;그린이: 안미영"
+        },
+        {
+          "bookname": "알고 보니 내 생활이 다 과학! :생활 속 구석구석 과학 이야기 ",
+          "isbn13": "9788930267939",
+          "authors": "김해보,이창우 그림"
+        },
+        {
+          "bookname": "가끔씩 비 오는 날:이가을 동화집",
+          "isbn13": "9788936441630",
+          "authors": "이가을 지음;[이수지 그림]"
+        },
+        {
+          "bookname": "콩 한 쪽도 나누어요 :나눔·기부·봉사 이야기 ",
+          "isbn13": "9791188283293",
+          "authors": "글: 고수산나 ;그림: 이해정"
+        },
+        {
+          "bookname": "사과의 길 ",
+          "isbn13": "9788954624633",
+          "authors": "김철순 시 ;구은선 그림"
+        },
+        {
+          "bookname": "잘못 뽑은 반장 ",
+          "isbn13": "9788934933700",
+          "authors": "이은재 글 ;서영경 그림"
+        },
+        {
+          "bookname": "젓가락 달인 ",
+          "isbn13": "9788994475462",
+          "authors": "유타루 지음 ;김윤주 그림"
+        }
+      ],
+      "title": "무지개 도시를 만드는 초록 슈퍼맨 - 세상을 바꾸는 시민의 힘",
+      "author": "김영숙 글 ;장명진 그림",
+      "kdc_from_api": "539",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

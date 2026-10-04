@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791196334703",
+  "captured_at": "2026-10-02T00:11:46.460837+09:00",
+  "lookup": {
+    "isbn": "9791196334703",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196334703",
+      "isbn_add_code": "13510",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "지방 대사 켜는 스위치온 다이어트",
+      "subtitle": "",
+      "author": "박용우 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "루미너스",
+      "publish_year": "2018",
+      "publish_predate": "20180325",
+      "kdc": "517.52",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 위생학, 공공의학",
+      "ddc": "613.25",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "255 p.",
+      "book_size": "152*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "왜 덜 먹고 운동해도 체지방이 빠지지 않을까?  왜 나이를 먹을수록 몸에 점점 더 지방이 쌓여만 갈까? 지방을 에너지원으로 쓰는 대사가 퇴화되었기 때문이다. ‘스위치온 다이어트 프로그램’은 지방 대사를 다시 켜는 식사법과 운동법을 알려준다.",
+      "control_no": "CIP2018007527",
+      "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2024/02/9791196334703.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "다이어트",
+          "weight": 27.0
+        },
+        {
+          "word": "지방",
+          "weight": 23.0
+        },
+        {
+          "word": "대사",
+          "weight": 14.0
+        },
+        {
+          "word": "박용우",
+          "weight": 13.0
+        },
+        {
+          "word": "운동",
+          "weight": 11.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 10.0
+        },
+        {
+          "word": "박사",
+          "weight": 8.0
+        },
+        {
+          "word": "체지방",
+          "weight": 8.0
+        },
+        {
+          "word": "간헐적",
+          "weight": 7.0
+        },
+        {
+          "word": "3주",
+          "weight": 7.0
+        },
+        {
+          "word": "스위치온",
+          "weight": 7.0
+        },
+        {
+          "word": "식사",
+          "weight": 6.0
+        },
+        {
+          "word": "단식",
+          "weight": 6.0
+        },
+        {
+          "word": "비만",
+          "weight": 6.0
+        },
+        {
+          "word": "근육",
+          "weight": 5.0
+        },
+        {
+          "word": "참가자",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "공통점",
+          "weight": 4.0
+        },
+        {
+          "word": "고장",
+          "weight": 4.0
+        },
+        {
+          "word": "렙틴",
+          "weight": 4.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 4.0
+        },
+        {
+          "word": "저항성",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "조절",
+          "weight": 3.0
+        },
+        {
+          "word": "의과대학",
+          "weight": 3.0
+        },
+        {
+          "word": "회복",
+          "weight": 3.0
+        },
+        {
+          "word": "과식의 종말",
+          "weight": 3.0
+        },
+        {
+          "word": "만들어진 질병",
+          "weight": 3.0
+        },
+        {
+          "word": "과정",
+          "weight": 3.0
+        },
+        {
+          "word": "4주 해독다이어트",
+          "weight": 3.0
+        },
+        {
+          "word": "내몸 다이어트 설명서",
+          "weight": 3.0
+        },
+        {
+          "word": "박용우의 다이어트 팁",
+          "weight": 3.0
+        },
+        {
+          "word": "국내",
+          "weight": 3.0
+        },
+        {
+          "word": "원칙",
+          "weight": 3.0
+        },
+        {
+          "word": "고기",
+          "weight": 3.0
+        },
+        {
+          "word": "고강도",
+          "weight": 3.0
+        },
+        {
+          "word": "음식중독",
+          "weight": 3.0
+        },
+        {
+          "word": "탄수화물",
+          "weight": 3.0
+        },
+        {
+          "word": "체중감량",
+          "weight": 3.0
+        },
+        {
+          "word": "감량의 신",
+          "weight": 3.0
+        },
+        {
+          "word": "생체리듬",
+          "weight": 3.0
+        },
+        {
+          "word": "손실",
+          "weight": 3.0
+        },
+        {
+          "word": "업그레이드",
+          "weight": 3.0
+        },
+        {
+          "word": "상식",
+          "weight": 3.0
+        },
+        {
+          "word": "효과",
+          "weight": 3.0
+        },
+        {
+          "word": "강북삼성병원",
+          "weight": 2.0
+        },
+        {
+          "word": "건강관리",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "개선",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        }
+      ],
+      "description": "왜 덜 먹고 운동해도 체지방이 빠지지 않을까?  왜 나이를 먹을수록 몸에 점점 더 지방이 쌓여만 갈까? 지방을 에너지원으로 쓰는 대사가 퇴화되었기 때문이다. ‘스위치온 다이어트 프로그램’은 지방 대사를 다시 켜는 식사법과 운동법을 알려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "내 몸 혁명 :뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 ",
+          "isbn13": "9791198553317",
+          "authors": "박용우 지음"
+        },
+        {
+          "bookname": "(박용우 박사의) 스위치온 다이어트 레시피북 :살찌지 않는 건강한 몸으로 되돌리는 4주 다이어트 식단 ",
+          "isbn13": "9791198553379",
+          "authors": "박용우,김영아 지음"
+        },
+        {
+          "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+          "isbn13": "9791141606862",
+          "authors": "정희원 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(대한민국 다이어트 멘토 박용우 박사의) 4주 해독다이어트 ",
+          "isbn13": "9791185020211",
+          "authors": "박용우 지음"
+        },
+        {
+          "bookname": "(건강과 다이어트를 동시에 잡는) 채소·과일식 :단순하면서 자연스러운 가장 효과적인 식단 ",
+          "isbn13": "9791158773120",
+          "authors": "글: 조승우"
+        },
+        {
+          "bookname": "다이어트 사이언스 =비만의 알고리즘, 간헐적 단식과 저탄수 식단의 과학 /Diet science 2022 ",
+          "isbn13": "9791197834202",
+          "authors": "지은이: 최겸"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "지방 대사 켜는 스위치온 다이어트",
+      "author": "박용우 지음",
+      "kdc_from_api": "517.52",
+      "ddc_from_api": "613.25",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지방 대사 켜는 스위치온 다이어트",
+        "author": "박용우 지음",
+        "publisher": "루미너스",
+        "publish_predate": "20180325",
+        "isbn": "9791196334703",
+        "isbn_add_code": "13510",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "255 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "517.52",
+        "ddc": "613.25",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018007527",
+        "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2024/02/9791196334703.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지방 대사 켜는 스위치온 다이어트 ",
+        "author": "박용우 지음",
+        "publisher": "루미너스",
+        "publish_year": "2018",
+        "isbn": "1196334706",
+        "isbn13": "9791196334703",
+        "isbn_add_code": "13510",
+        "volume": "",
+        "class_no": "517.52",
+        "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+        "description": "왜 덜 먹고 운동해도 체지방이 빠지지 않을까?  왜 나이를 먹을수록 몸에 점점 더 지방이 쌓여만 갈까? 지방을 에너지원으로 쓰는 대사가 퇴화되었기 때문이다. ‘스위치온 다이어트 프로그램’은 지방 대사를 다시 켜는 식사법과 운동법을 알려준다.",
+        "cover_url": "http://image.aladin.co.kr/product/13709/58/cover/k632532720_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "다이어트",
+            "weight": 27.0
+          },
+          {
+            "word": "지방",
+            "weight": 23.0
+          },
+          {
+            "word": "대사",
+            "weight": 14.0
+          },
+          {
+            "word": "박용우",
+            "weight": 13.0
+          },
+          {
+            "word": "운동",
+            "weight": 11.0
+          },
+          {
+            "word": "프로그램",
+            "weight": 10.0
+          },
+          {
+            "word": "박사",
+            "weight": 8.0
+          },
+          {
+            "word": "체지방",
+            "weight": 8.0
+          },
+          {
+            "word": "간헐적",
+            "weight": 7.0
+          },
+          {
+            "word": "3주",
+            "weight": 7.0
+          },
+          {
+            "word": "스위치온",
+            "weight": 7.0
+          },
+          {
+            "word": "식사",
+            "weight": 6.0
+          },
+          {
+            "word": "단식",
+            "weight": 6.0
+          },
+          {
+            "word": "비만",
+            "weight": 6.0
+          },
+          {
+            "word": "근육",
+            "weight": 5.0
+          },
+          {
+            "word": "참가자",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "공통점",
+            "weight": 4.0
+          },
+          {
+            "word": "고장",
+            "weight": 4.0
+          },
+          {
+            "word": "렙틴",
+            "weight": 4.0
+          },
+          {
+            "word": "프로젝트",
+            "weight": 4.0
+          },
+          {
+            "word": "저항성",
+            "weight": 4.0
+          },
+          {
+            "word": "누구",
+            "weight": 4.0
+          },
+          {
+            "word": "조절",
+            "weight": 3.0
+          },
+          {
+            "word": "의과대학",
+            "weight": 3.0
+          },
+          {
+            "word": "회복",
+            "weight": 3.0
+          },
+          {
+            "word": "과식의 종말",
+            "weight": 3.0
+          },
+          {
+            "word": "만들어진 질병",
+            "weight": 3.0
+          },
+          {
+            "word": "과정",
+            "weight": 3.0
+          },
+          {
+            "word": "4주 해독다이어트",
+            "weight": 3.0
+          },
+          {
+            "word": "내몸 다이어트 설명서",
+            "weight": 3.0
+          },
+          {
+            "word": "박용우의 다이어트 팁",
+            "weight": 3.0
+          },
+          {
+            "word": "국내",
+            "weight": 3.0
+          },
+          {
+            "word": "원칙",
+            "weight": 3.0
+          },
+          {
+            "word": "고기",
+            "weight": 3.0
+          },
+          {
+            "word": "고강도",
+            "weight": 3.0
+          },
+          {
+            "word": "음식중독",
+            "weight": 3.0
+          },
+          {
+            "word": "탄수화물",
+            "weight": 3.0
+          },
+          {
+            "word": "체중감량",
+            "weight": 3.0
+          },
+          {
+            "word": "감량의 신",
+            "weight": 3.0
+          },
+          {
+            "word": "생체리듬",
+            "weight": 3.0
+          },
+          {
+            "word": "손실",
+            "weight": 3.0
+          },
+          {
+            "word": "업그레이드",
+            "weight": 3.0
+          },
+          {
+            "word": "상식",
+            "weight": 3.0
+          },
+          {
+            "word": "효과",
+            "weight": 3.0
+          },
+          {
+            "word": "강북삼성병원",
+            "weight": 2.0
+          },
+          {
+            "word": "건강관리",
+            "weight": 2.0
+          },
+          {
+            "word": "건강",
+            "weight": 2.0
+          },
+          {
+            "word": "개선",
+            "weight": 2.0
+          },
+          {
+            "word": "방송",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "내 몸 혁명 :뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 ",
+            "isbn13": "9791198553317",
+            "authors": "박용우 지음"
+          },
+          {
+            "bookname": "(박용우 박사의) 스위치온 다이어트 레시피북 :살찌지 않는 건강한 몸으로 되돌리는 4주 다이어트 식단 ",
+            "isbn13": "9791198553379",
+            "authors": "박용우,김영아 지음"
+          },
+          {
+            "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+            "isbn13": "9791141606862",
+            "authors": "정희원 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "(대한민국 다이어트 멘토 박용우 박사의) 4주 해독다이어트 ",
+            "isbn13": "9791185020211",
+            "authors": "박용우 지음"
+          },
+          {
+            "bookname": "(건강과 다이어트를 동시에 잡는) 채소·과일식 :단순하면서 자연스러운 가장 효과적인 식단 ",
+            "isbn13": "9791158773120",
+            "authors": "글: 조승우"
+          },
+          {
+            "bookname": "다이어트 사이언스 =비만의 알고리즘, 간헐적 단식과 저탄수 식단의 과학 /Diet science 2022 ",
+            "isbn13": "9791197834202",
+            "authors": "지은이: 최겸"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지방 대사 켜는 스위치온 다이어트"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001974970",
+        "title": "지방 대사 켜는 스위치온 다이어트",
+        "subtitle": "",
+        "page": "255 p.",
+        "book_size": "152*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791196334703",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196334703",
+      "isbn_add_code": "13510",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "지방 대사 켜는 스위치온 다이어트",
+      "subtitle": "",
+      "author": "박용우 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "루미너스",
+      "publish_year": "2018",
+      "publish_predate": "20180325",
+      "kdc": "517.52",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 위생학, 공공의학",
+      "ddc": "613.25",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "255 p.",
+      "book_size": "152*210mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "왜 덜 먹고 운동해도 체지방이 빠지지 않을까?  왜 나이를 먹을수록 몸에 점점 더 지방이 쌓여만 갈까? 지방을 에너지원으로 쓰는 대사가 퇴화되었기 때문이다. ‘스위치온 다이어트 프로그램’은 지방 대사를 다시 켜는 식사법과 운동법을 알려준다.",
+      "control_no": "CIP2018007527",
+      "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2024/02/9791196334703.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583104_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "다이어트",
+          "weight": 27.0
+        },
+        {
+          "word": "지방",
+          "weight": 23.0
+        },
+        {
+          "word": "대사",
+          "weight": 14.0
+        },
+        {
+          "word": "박용우",
+          "weight": 13.0
+        },
+        {
+          "word": "운동",
+          "weight": 11.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 10.0
+        },
+        {
+          "word": "박사",
+          "weight": 8.0
+        },
+        {
+          "word": "체지방",
+          "weight": 8.0
+        },
+        {
+          "word": "간헐적",
+          "weight": 7.0
+        },
+        {
+          "word": "3주",
+          "weight": 7.0
+        },
+        {
+          "word": "스위치온",
+          "weight": 7.0
+        },
+        {
+          "word": "식사",
+          "weight": 6.0
+        },
+        {
+          "word": "단식",
+          "weight": 6.0
+        },
+        {
+          "word": "비만",
+          "weight": 6.0
+        },
+        {
+          "word": "근육",
+          "weight": 5.0
+        },
+        {
+          "word": "참가자",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "공통점",
+          "weight": 4.0
+        },
+        {
+          "word": "고장",
+          "weight": 4.0
+        },
+        {
+          "word": "렙틴",
+          "weight": 4.0
+        },
+        {
+          "word": "프로젝트",
+          "weight": 4.0
+        },
+        {
+          "word": "저항성",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "조절",
+          "weight": 3.0
+        },
+        {
+          "word": "의과대학",
+          "weight": 3.0
+        },
+        {
+          "word": "회복",
+          "weight": 3.0
+        },
+        {
+          "word": "과식의 종말",
+          "weight": 3.0
+        },
+        {
+          "word": "만들어진 질병",
+          "weight": 3.0
+        },
+        {
+          "word": "과정",
+          "weight": 3.0
+        },
+        {
+          "word": "4주 해독다이어트",
+          "weight": 3.0
+        },
+        {
+          "word": "내몸 다이어트 설명서",
+          "weight": 3.0
+        },
+        {
+          "word": "박용우의 다이어트 팁",
+          "weight": 3.0
+        },
+        {
+          "word": "국내",
+          "weight": 3.0
+        },
+        {
+          "word": "원칙",
+          "weight": 3.0
+        },
+        {
+          "word": "고기",
+          "weight": 3.0
+        },
+        {
+          "word": "고강도",
+          "weight": 3.0
+        },
+        {
+          "word": "음식중독",
+          "weight": 3.0
+        },
+        {
+          "word": "탄수화물",
+          "weight": 3.0
+        },
+        {
+          "word": "체중감량",
+          "weight": 3.0
+        },
+        {
+          "word": "감량의 신",
+          "weight": 3.0
+        },
+        {
+          "word": "생체리듬",
+          "weight": 3.0
+        },
+        {
+          "word": "손실",
+          "weight": 3.0
+        },
+        {
+          "word": "업그레이드",
+          "weight": 3.0
+        },
+        {
+          "word": "상식",
+          "weight": 3.0
+        },
+        {
+          "word": "효과",
+          "weight": 3.0
+        },
+        {
+          "word": "강북삼성병원",
+          "weight": 2.0
+        },
+        {
+          "word": "건강관리",
+          "weight": 2.0
+        },
+        {
+          "word": "건강",
+          "weight": 2.0
+        },
+        {
+          "word": "개선",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        }
+      ],
+      "description": "왜 덜 먹고 운동해도 체지방이 빠지지 않을까?  왜 나이를 먹을수록 몸에 점점 더 지방이 쌓여만 갈까? 지방을 에너지원으로 쓰는 대사가 퇴화되었기 때문이다. ‘스위치온 다이어트 프로그램’은 지방 대사를 다시 켜는 식사법과 운동법을 알려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "내 몸 혁명 :뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 ",
+          "isbn13": "9791198553317",
+          "authors": "박용우 지음"
+        },
+        {
+          "bookname": "(박용우 박사의) 스위치온 다이어트 레시피북 :살찌지 않는 건강한 몸으로 되돌리는 4주 다이어트 식단 ",
+          "isbn13": "9791198553379",
+          "authors": "박용우,김영아 지음"
+        },
+        {
+          "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+          "isbn13": "9791141606862",
+          "authors": "정희원 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "(대한민국 다이어트 멘토 박용우 박사의) 4주 해독다이어트 ",
+          "isbn13": "9791185020211",
+          "authors": "박용우 지음"
+        },
+        {
+          "bookname": "(건강과 다이어트를 동시에 잡는) 채소·과일식 :단순하면서 자연스러운 가장 효과적인 식단 ",
+          "isbn13": "9791158773120",
+          "authors": "글: 조승우"
+        },
+        {
+          "bookname": "다이어트 사이언스 =비만의 알고리즘, 간헐적 단식과 저탄수 식단의 과학 /Diet science 2022 ",
+          "isbn13": "9791197834202",
+          "authors": "지은이: 최겸"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "지방 대사 켜는 스위치온 다이어트",
+      "author": "박용우 지음",
+      "kdc_from_api": "517.52",
+      "ddc_from_api": "613.25",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

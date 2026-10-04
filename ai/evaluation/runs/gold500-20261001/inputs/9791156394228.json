@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791156394228",
+  "captured_at": "2026-10-03T00:15:12.573747+09:00",
+  "lookup": {
+    "isbn": "9791156394228",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791156394228",
+      "isbn_add_code": "14990",
+      "set_isbn": "9791156394150",
+      "set_add_code": "14990 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "who?스페셜 <손석희>",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 이준범 ;그림: 김종현",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주식회사) 스튜디오다산",
+      "publish_year": "2017",
+      "publish_predate": "20170327",
+      "kdc": "998.3",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 전기 > 주제별전기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "196 p.",
+      "book_size": "194*262mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "Who? Special 시리즈. 오늘날의 대한민국을 비롯한 이 시대를 이끄는 ‘현대 대표 인물’의 이야기로 구성된 시리즈이다. 이 책에서는 차가운 머리와 따뜻한 가슴을 지닌, 대한민국에서 가장 영향력 있는 언론인 손석희에 대해서 알아본다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/10643/62/cover/k262530046_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "who special",
+          "weight": 21.0
+        },
+        {
+          "word": "who  세계 위인전",
+          "weight": 15.0
+        },
+        {
+          "word": "손석희",
+          "weight": 13.0
+        },
+        {
+          "word": "인물",
+          "weight": 12.0
+        },
+        {
+          "word": "who",
+          "weight": 12.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 11.0
+        },
+        {
+          "word": "위인전",
+          "weight": 11.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 10.0
+        },
+        {
+          "word": "어린이",
+          "weight": 8.0
+        },
+        {
+          "word": "언론인",
+          "weight": 7.0
+        },
+        {
+          "word": "special",
+          "weight": 7.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "영향력",
+          "weight": 6.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "인생",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "대표",
+          "weight": 4.0
+        },
+        {
+          "word": "실패",
+          "weight": 4.0
+        },
+        {
+          "word": "아나운서",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "활동",
+          "weight": 4.0
+        },
+        {
+          "word": "2016년",
+          "weight": 4.0
+        },
+        {
+          "word": "탐색",
+          "weight": 4.0
+        },
+        {
+          "word": "대학교",
+          "weight": 4.0
+        },
+        {
+          "word": "진로",
+          "weight": 4.0
+        },
+        {
+          "word": "시절",
+          "weight": 4.0
+        },
+        {
+          "word": "스튜디오다산",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "방송사",
+          "weight": 3.0
+        },
+        {
+          "word": "시사저널",
+          "weight": 3.0
+        },
+        {
+          "word": "비디오 저널리스트 원론",
+          "weight": 3.0
+        },
+        {
+          "word": "기존",
+          "weight": 3.0
+        },
+        {
+          "word": "가슴",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "철학",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "국민",
+          "weight": 2.0
+        },
+        {
+          "word": "소녀",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        },
+        {
+          "word": "기록",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "사상",
+          "weight": 2.0
+        },
+        {
+          "word": "앵커",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "2014년",
+          "weight": 2.0
+        },
+        {
+          "word": "KBS",
+          "weight": 2.0
+        },
+        {
+          "word": "MBC",
+          "weight": 2.0
+        },
+        {
+          "word": "신뢰",
+          "weight": 2.0
+        }
+      ],
+      "description": "Who? Special 시리즈. 오늘날의 대한민국을 비롯한 이 시대를 이끄는 ‘현대 대표 인물’의 이야기로 구성된 시리즈이다. 이 책에서는 차가운 머리와 따뜻한 가슴을 지닌, 대한민국에서 가장 영향력 있는 언론인 손석희에 대해서 알아본다.",
+      "co_loan_books": [
+        {
+          "bookname": "Who? 문재인 =Moon Jaein ",
+          "isbn13": "9791156394747",
+          "authors": "글: 김승민 ;툰쟁이"
+        },
+        {
+          "bookname": "Who? Special 노무현",
+          "isbn13": "9791156395485",
+          "authors": "스튜디오 청비 (지은이), 경기초등사회과교육연구회 (감수)"
+        },
+        {
+          "bookname": "Who? 유재석 =Yoo Jae-suk ",
+          "isbn13": "9791156391746",
+          "authors": "글: 김성재 ;그림: 스튜디오 해닮"
+        },
+        {
+          "bookname": "Who? 안철수 =Ahn Cheolsoo ",
+          "isbn13": "9791156394211",
+          "authors": "글: 최재훈 ;그림: 정석호"
+        },
+        {
+          "bookname": "Who? Special 김대중",
+          "isbn13": "9791156395492",
+          "authors": "이수정 (지은이), 스튜디오 청비 (그림), 경기초등사회과교육연구회 (감수)"
+        },
+        {
+          "bookname": "Who? 박항서 :스페셜 =Park Hangseo : special ",
+          "isbn13": "9791156397960",
+          "authors": "글: 최재훈 ;툰쟁이"
+        },
+        {
+          "bookname": "Who? 김연경 ",
+          "isbn13": "9791130641614",
+          "authors": "글: 김현수 ;그림: 김래현"
+        },
+        {
+          "bookname": "Who? Special 시진핑",
+          "isbn13": "9791156397281",
+          "authors": "권용찬 (지은이), 툰쟁이 (그림), 중국을읽어주는중국어교사모임 (감수)"
+        },
+        {
+          "bookname": "Who? 손흥민 =Son Heungmin ",
+          "isbn13": "9791156397267",
+          "authors": "글: 강진희 ;그림: 김광일"
+        },
+        {
+          "bookname": "Who? 류현진 =Ryu Hyunjin ",
+          "isbn13": "9791156391531",
+          "authors": "글: 최재훈 ;그림: 스튜디오 해닮"
+        }
+      ],
+      "title": "who?스페셜 <손석희>",
+      "author": "글: 이준범 ;그림: 김종현",
+      "kdc_from_api": "998.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "who?스페셜 <손석희>",
+        "author": "이준범",
+        "publisher": "(주식회사) 스튜디오다산",
+        "publish_predate": "20170327",
+        "isbn": "9791156394228",
+        "isbn_add_code": "14990",
+        "set_isbn": "9791156394150",
+        "set_add_code": "14990 ",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "200",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "Who? 손석희 =Sohn Sukhee ",
+        "author": "글: 이준범 ;그림: 김종현",
+        "publisher": "스튜디오다산",
+        "publish_year": "2017",
+        "isbn": "1156394228",
+        "isbn13": "9791156394228",
+        "isbn_add_code": "14990",
+        "volume": "",
+        "class_no": "998.3",
+        "class_nm": "역사 > 전기 > 주제별전기",
+        "description": "Who? Special 시리즈. 오늘날의 대한민국을 비롯한 이 시대를 이끄는 ‘현대 대표 인물’의 이야기로 구성된 시리즈이다. 이 책에서는 차가운 머리와 따뜻한 가슴을 지닌, 대한민국에서 가장 영향력 있는 언론인 손석희에 대해서 알아본다.",
+        "cover_url": "http://image.aladin.co.kr/product/10643/62/cover/k262530046_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "who special",
+            "weight": 21.0
+          },
+          {
+            "word": "who  세계 위인전",
+            "weight": 15.0
+          },
+          {
+            "word": "손석희",
+            "weight": 13.0
+          },
+          {
+            "word": "인물",
+            "weight": 12.0
+          },
+          {
+            "word": "who",
+            "weight": 12.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 11.0
+          },
+          {
+            "word": "위인전",
+            "weight": 11.0
+          },
+          {
+            "word": "대한민국",
+            "weight": 10.0
+          },
+          {
+            "word": "어린이",
+            "weight": 8.0
+          },
+          {
+            "word": "언론인",
+            "weight": 7.0
+          },
+          {
+            "word": "special",
+            "weight": 7.0
+          },
+          {
+            "word": "세계",
+            "weight": 7.0
+          },
+          {
+            "word": "영향력",
+            "weight": 6.0
+          },
+          {
+            "word": "과정",
+            "weight": 5.0
+          },
+          {
+            "word": "인생",
+            "weight": 5.0
+          },
+          {
+            "word": "자신",
+            "weight": 5.0
+          },
+          {
+            "word": "대표",
+            "weight": 4.0
+          },
+          {
+            "word": "실패",
+            "weight": 4.0
+          },
+          {
+            "word": "아나운서",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "활동",
+            "weight": 4.0
+          },
+          {
+            "word": "2016년",
+            "weight": 4.0
+          },
+          {
+            "word": "탐색",
+            "weight": 4.0
+          },
+          {
+            "word": "대학교",
+            "weight": 4.0
+          },
+          {
+            "word": "진로",
+            "weight": 4.0
+          },
+          {
+            "word": "시절",
+            "weight": 4.0
+          },
+          {
+            "word": "스튜디오다산",
+            "weight": 3.0
+          },
+          {
+            "word": "미국",
+            "weight": 3.0
+          },
+          {
+            "word": "방송사",
+            "weight": 3.0
+          },
+          {
+            "word": "시사저널",
+            "weight": 3.0
+          },
+          {
+            "word": "비디오 저널리스트 원론",
+            "weight": 3.0
+          },
+          {
+            "word": "기존",
+            "weight": 3.0
+          },
+          {
+            "word": "가슴",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "철학",
+            "weight": 3.0
+          },
+          {
+            "word": "성장",
+            "weight": 2.0
+          },
+          {
+            "word": "국민",
+            "weight": 2.0
+          },
+          {
+            "word": "소녀",
+            "weight": 2.0
+          },
+          {
+            "word": "소중",
+            "weight": 2.0
+          },
+          {
+            "word": "시대",
+            "weight": 2.0
+          },
+          {
+            "word": "기록",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "사상",
+            "weight": 2.0
+          },
+          {
+            "word": "앵커",
+            "weight": 2.0
+          },
+          {
+            "word": "선택",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "2014년",
+            "weight": 2.0
+          },
+          {
+            "word": "KBS",
+            "weight": 2.0
+          },
+          {
+            "word": "MBC",
+            "weight": 2.0
+          },
+          {
+            "word": "신뢰",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "Who? 문재인 =Moon Jaein ",
+            "isbn13": "9791156394747",
+            "authors": "글: 김승민 ;툰쟁이"
+          },
+          {
+            "bookname": "Who? Special 노무현",
+            "isbn13": "9791156395485",
+            "authors": "스튜디오 청비 (지은이), 경기초등사회과교육연구회 (감수)"
+          },
+          {
+            "bookname": "Who? 유재석 =Yoo Jae-suk ",
+            "isbn13": "9791156391746",
+            "authors": "글: 김성재 ;그림: 스튜디오 해닮"
+          },
+          {
+            "bookname": "Who? 안철수 =Ahn Cheolsoo ",
+            "isbn13": "9791156394211",
+            "authors": "글: 최재훈 ;그림: 정석호"
+          },
+          {
+            "bookname": "Who? Special 김대중",
+            "isbn13": "9791156395492",
+            "authors": "이수정 (지은이), 스튜디오 청비 (그림), 경기초등사회과교육연구회 (감수)"
+          },
+          {
+            "bookname": "Who? 박항서 :스페셜 =Park Hangseo : special ",
+            "isbn13": "9791156397960",
+            "authors": "글: 최재훈 ;툰쟁이"
+          },
+          {
+            "bookname": "Who? 김연경 ",
+            "isbn13": "9791130641614",
+            "authors": "글: 김현수 ;그림: 김래현"
+          },
+          {
+            "bookname": "Who? Special 시진핑",
+            "isbn13": "9791156397281",
+            "authors": "권용찬 (지은이), 툰쟁이 (그림), 중국을읽어주는중국어교사모임 (감수)"
+          },
+          {
+            "bookname": "Who? 손흥민 =Son Heungmin ",
+            "isbn13": "9791156397267",
+            "authors": "글: 강진희 ;그림: 김광일"
+          },
+          {
+            "bookname": "Who? 류현진 =Ryu Hyunjin ",
+            "isbn13": "9791156391531",
+            "authors": "글: 최재훈 ;그림: 스튜디오 해닮"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "who?스페셜 <손석희>"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001739923",
+        "title": "Who? Special 손석희",
+        "subtitle": "양장본 Hardcover",
+        "page": "196 p.",
+        "book_size": "194*262mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791156394228",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791156394228",
+      "isbn_add_code": "14990",
+      "set_isbn": "9791156394150",
+      "set_add_code": "14990 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "who?스페셜 <손석희>",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 이준범 ;그림: 김종현",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주식회사) 스튜디오다산",
+      "publish_year": "2017",
+      "publish_predate": "20170327",
+      "kdc": "998.3",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 전기 > 주제별전기",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "196 p.",
+      "book_size": "194*262mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "Who? Special 시리즈. 오늘날의 대한민국을 비롯한 이 시대를 이끄는 ‘현대 대표 인물’의 이야기로 구성된 시리즈이다. 이 책에서는 차가운 머리와 따뜻한 가슴을 지닌, 대한민국에서 가장 영향력 있는 언론인 손석희에 대해서 알아본다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/10643/62/cover/k262530046_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "who special",
+          "weight": 21.0
+        },
+        {
+          "word": "who  세계 위인전",
+          "weight": 15.0
+        },
+        {
+          "word": "손석희",
+          "weight": 13.0
+        },
+        {
+          "word": "인물",
+          "weight": 12.0
+        },
+        {
+          "word": "who",
+          "weight": 12.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 11.0
+        },
+        {
+          "word": "위인전",
+          "weight": 11.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 10.0
+        },
+        {
+          "word": "어린이",
+          "weight": 8.0
+        },
+        {
+          "word": "언론인",
+          "weight": 7.0
+        },
+        {
+          "word": "special",
+          "weight": 7.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "영향력",
+          "weight": 6.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "인생",
+          "weight": 5.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "대표",
+          "weight": 4.0
+        },
+        {
+          "word": "실패",
+          "weight": 4.0
+        },
+        {
+          "word": "아나운서",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "활동",
+          "weight": 4.0
+        },
+        {
+          "word": "2016년",
+          "weight": 4.0
+        },
+        {
+          "word": "탐색",
+          "weight": 4.0
+        },
+        {
+          "word": "대학교",
+          "weight": 4.0
+        },
+        {
+          "word": "진로",
+          "weight": 4.0
+        },
+        {
+          "word": "시절",
+          "weight": 4.0
+        },
+        {
+          "word": "스튜디오다산",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "방송사",
+          "weight": 3.0
+        },
+        {
+          "word": "시사저널",
+          "weight": 3.0
+        },
+        {
+          "word": "비디오 저널리스트 원론",
+          "weight": 3.0
+        },
+        {
+          "word": "기존",
+          "weight": 3.0
+        },
+        {
+          "word": "가슴",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "철학",
+          "weight": 3.0
+        },
+        {
+          "word": "성장",
+          "weight": 2.0
+        },
+        {
+          "word": "국민",
+          "weight": 2.0
+        },
+        {
+          "word": "소녀",
+          "weight": 2.0
+        },
+        {
+          "word": "소중",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        },
+        {
+          "word": "기록",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "사상",
+          "weight": 2.0
+        },
+        {
+          "word": "앵커",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "2014년",
+          "weight": 2.0
+        },
+        {
+          "word": "KBS",
+          "weight": 2.0
+        },
+        {
+          "word": "MBC",
+          "weight": 2.0
+        },
+        {
+          "word": "신뢰",
+          "weight": 2.0
+        }
+      ],
+      "description": "Who? Special 시리즈. 오늘날의 대한민국을 비롯한 이 시대를 이끄는 ‘현대 대표 인물’의 이야기로 구성된 시리즈이다. 이 책에서는 차가운 머리와 따뜻한 가슴을 지닌, 대한민국에서 가장 영향력 있는 언론인 손석희에 대해서 알아본다.",
+      "co_loan_books": [
+        {
+          "bookname": "Who? 문재인 =Moon Jaein ",
+          "isbn13": "9791156394747",
+          "authors": "글: 김승민 ;툰쟁이"
+        },
+        {
+          "bookname": "Who? Special 노무현",
+          "isbn13": "9791156395485",
+          "authors": "스튜디오 청비 (지은이), 경기초등사회과교육연구회 (감수)"
+        },
+        {
+          "bookname": "Who? 유재석 =Yoo Jae-suk ",
+          "isbn13": "9791156391746",
+          "authors": "글: 김성재 ;그림: 스튜디오 해닮"
+        },
+        {
+          "bookname": "Who? 안철수 =Ahn Cheolsoo ",
+          "isbn13": "9791156394211",
+          "authors": "글: 최재훈 ;그림: 정석호"
+        },
+        {
+          "bookname": "Who? Special 김대중",
+          "isbn13": "9791156395492",
+          "authors": "이수정 (지은이), 스튜디오 청비 (그림), 경기초등사회과교육연구회 (감수)"
+        },
+        {
+          "bookname": "Who? 박항서 :스페셜 =Park Hangseo : special ",
+          "isbn13": "9791156397960",
+          "authors": "글: 최재훈 ;툰쟁이"
+        },
+        {
+          "bookname": "Who? 김연경 ",
+          "isbn13": "9791130641614",
+          "authors": "글: 김현수 ;그림: 김래현"
+        },
+        {
+          "bookname": "Who? Special 시진핑",
+          "isbn13": "9791156397281",
+          "authors": "권용찬 (지은이), 툰쟁이 (그림), 중국을읽어주는중국어교사모임 (감수)"
+        },
+        {
+          "bookname": "Who? 손흥민 =Son Heungmin ",
+          "isbn13": "9791156397267",
+          "authors": "글: 강진희 ;그림: 김광일"
+        },
+        {
+          "bookname": "Who? 류현진 =Ryu Hyunjin ",
+          "isbn13": "9791156391531",
+          "authors": "글: 최재훈 ;그림: 스튜디오 해닮"
+        }
+      ],
+      "title": "who?스페셜 <손석희>",
+      "author": "글: 이준범 ;그림: 김종현",
+      "kdc_from_api": "998.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

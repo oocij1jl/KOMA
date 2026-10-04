@@ -1,0 +1,1088 @@
+{
+  "isbn": "9791186665503",
+  "captured_at": "2026-10-02T00:21:32.315921+09:00",
+  "lookup": {
+    "isbn": "9791186665503",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186665503",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "말투 하나 바꿨을 뿐인데",
+      "subtitle": "일,사랑,관계가 술술 풀리는 40가지 심리 기술",
+      "author": "나이토 요시히토 지음 ;김한나 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "유노북스",
+      "publish_year": "2017",
+      "publish_predate": "20170317",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "158",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "141*211mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "《말투 하나 바꿨을 뿐인데》는 출간되자마자 출판계에 ‘말투 열풍’을 불러일으킨 베스트셀러로, 이번에 10만 부 돌파를 기념해 리커버 한정판이 새로 출간됐다. 특히 겉커버는 앞면과 뒷면에 서로 다른 표지 디자인을 인쇄해서 나만의 커버를 선택할 수 있도록 특별 제작했다.",
+      "control_no": "CIP2017005398",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "효과",
+          "weight": 17.0
+        },
+        {
+          "word": "말투",
+          "weight": 14.0
+        },
+        {
+          "word": "법칙",
+          "weight": 11.0
+        },
+        {
+          "word": "상대방",
+          "weight": 7.0
+        },
+        {
+          "word": "심리학",
+          "weight": 7.0
+        },
+        {
+          "word": "말투 하나 바꿨을 뿐인데",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "상대",
+          "weight": 4.0
+        },
+        {
+          "word": "심리",
+          "weight": 4.0
+        },
+        {
+          "word": "부탁",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 3.0
+        },
+        {
+          "word": "테크닉",
+          "weight": 3.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 3.0
+        },
+        {
+          "word": "정보",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "설득",
+          "weight": 2.0
+        },
+        {
+          "word": "기대",
+          "weight": 2.0
+        },
+        {
+          "word": "작전",
+          "weight": 2.0
+        },
+        {
+          "word": "부여",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "김한나",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "나이토 요시히토",
+          "weight": 2.0
+        },
+        {
+          "word": "쓰레기",
+          "weight": 2.0
+        },
+        {
+          "word": "유노북스",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "입장",
+          "weight": 2.0
+        },
+        {
+          "word": "당신",
+          "weight": 2.0
+        },
+        {
+          "word": "화술",
+          "weight": 2.0
+        },
+        {
+          "word": "결단",
+          "weight": 2.0
+        },
+        {
+          "word": "에피소드",
+          "weight": 2.0
+        },
+        {
+          "word": "숫자",
+          "weight": 2.0
+        },
+        {
+          "word": "보장",
+          "weight": 2.0
+        },
+        {
+          "word": "결론",
+          "weight": 2.0
+        },
+        {
+          "word": "인사",
+          "weight": 2.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "말하기",
+          "weight": 2.0
+        },
+        {
+          "word": "말할까",
+          "weight": 2.0
+        },
+        {
+          "word": "감염",
+          "weight": 2.0
+        },
+        {
+          "word": "가치",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "4장",
+          "weight": 1.0
+        },
+        {
+          "word": "규정",
+          "weight": 1.0
+        },
+        {
+          "word": "공포심",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "구체적",
+          "weight": 1.0
+        },
+        {
+          "word": "권한",
+          "weight": 1.0
+        }
+      ],
+      "description": "《말투 하나 바꿨을 뿐인데》는 출간되자마자 출판계에 ‘말투 열풍’을 불러일으킨 베스트셀러로, 이번에 10만 부 돌파를 기념해 리커버 한정판이 새로 출간됐다. 특히 겉커버는 앞면과 뒷면에 서로 다른 표지 디자인을 인쇄해서 나만의 커버를 선택할 수 있도록 특별 제작했다.",
+      "co_loan_books": [
+        {
+          "bookname": "만만하게 보이지 않는 대화법 :함부로 무시당하지 않는 말투는 따로 있다 ",
+          "isbn13": "9788970656250",
+          "authors": "나이토 요시히토 지음 ;이정은 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "신경 끄기 연습 :걱정, 초조, 두려움을 뛰어넘는 61가지 심리 기술 ",
+          "isbn13": "9791192300405",
+          "authors": "나이토 요시히토 지음 ;김한나 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+          "isbn13": "9788901243658",
+          "authors": "레몬심리 지음 ;박영란 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "(오은영의) 화해 :상처받은 내면의 나와 마주하는 용기 ",
+          "isbn13": "9788997396870",
+          "authors": "오은영 지음"
+        }
+      ],
+      "title": "말투 하나 바꿨을 뿐인데",
+      "author": "나이토 요시히토 지음 ;김한나 옮김",
+      "kdc_from_api": "189",
+      "ddc_from_api": "158",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "말투 하나 바꿨을 뿐인데",
+        "author": "나이토 요시히토 지음 ;김한나 옮김",
+        "publisher": "유노북스",
+        "publish_predate": "20170317",
+        "isbn": "9791186665503",
+        "isbn_add_code": "03190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "215 p.",
+        "book_size": "",
+        "form": "",
+        "kdc": "189",
+        "ddc": "158",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017005398",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "말투 하나 바꿨을 뿐인데 :일,사랑,관계가 술술 풀리는 40가지 심리 기술 ",
+        "author": "나이토 요시히토 지음 ;김한나 옮김",
+        "publisher": "유노북스",
+        "publish_year": "2017",
+        "isbn": "1186665505",
+        "isbn13": "9791186665503",
+        "isbn_add_code": "03190",
+        "volume": "",
+        "class_no": "189",
+        "class_nm": "철학 > 심리학 > 응용심리학 일반",
+        "description": "《말투 하나 바꿨을 뿐인데》는 출간되자마자 출판계에 ‘말투 열풍’을 불러일으킨 베스트셀러로, 이번에 10만 부 돌파를 기념해 리커버 한정판이 새로 출간됐다. 특히 겉커버는 앞면과 뒷면에 서로 다른 표지 디자인을 인쇄해서 나만의 커버를 선택할 수 있도록 특별 제작했다.",
+        "cover_url": "http://image.aladin.co.kr/product/16451/64/cover/k682533750_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "효과",
+            "weight": 17.0
+          },
+          {
+            "word": "말투",
+            "weight": 14.0
+          },
+          {
+            "word": "법칙",
+            "weight": 11.0
+          },
+          {
+            "word": "상대방",
+            "weight": 7.0
+          },
+          {
+            "word": "심리학",
+            "weight": 7.0
+          },
+          {
+            "word": "말투 하나 바꿨을 뿐인데",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "상대",
+            "weight": 4.0
+          },
+          {
+            "word": "심리",
+            "weight": 4.0
+          },
+          {
+            "word": "부탁",
+            "weight": 4.0
+          },
+          {
+            "word": "행동",
+            "weight": 3.0
+          },
+          {
+            "word": "테크닉",
+            "weight": 3.0
+          },
+          {
+            "word": "얼굴",
+            "weight": 3.0
+          },
+          {
+            "word": "정보",
+            "weight": 2.0
+          },
+          {
+            "word": "선택",
+            "weight": 2.0
+          },
+          {
+            "word": "설득",
+            "weight": 2.0
+          },
+          {
+            "word": "기대",
+            "weight": 2.0
+          },
+          {
+            "word": "작전",
+            "weight": 2.0
+          },
+          {
+            "word": "부여",
+            "weight": 2.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 2.0
+          },
+          {
+            "word": "김한나",
+            "weight": 2.0
+          },
+          {
+            "word": "자신",
+            "weight": 2.0
+          },
+          {
+            "word": "나이토 요시히토",
+            "weight": 2.0
+          },
+          {
+            "word": "쓰레기",
+            "weight": 2.0
+          },
+          {
+            "word": "유노북스",
+            "weight": 2.0
+          },
+          {
+            "word": "인간관계",
+            "weight": 2.0
+          },
+          {
+            "word": "인생",
+            "weight": 2.0
+          },
+          {
+            "word": "입장",
+            "weight": 2.0
+          },
+          {
+            "word": "당신",
+            "weight": 2.0
+          },
+          {
+            "word": "화술",
+            "weight": 2.0
+          },
+          {
+            "word": "결단",
+            "weight": 2.0
+          },
+          {
+            "word": "에피소드",
+            "weight": 2.0
+          },
+          {
+            "word": "숫자",
+            "weight": 2.0
+          },
+          {
+            "word": "보장",
+            "weight": 2.0
+          },
+          {
+            "word": "결론",
+            "weight": 2.0
+          },
+          {
+            "word": "인사",
+            "weight": 2.0
+          },
+          {
+            "word": "칭찬",
+            "weight": 2.0
+          },
+          {
+            "word": "공유",
+            "weight": 2.0
+          },
+          {
+            "word": "말하기",
+            "weight": 2.0
+          },
+          {
+            "word": "말할까",
+            "weight": 2.0
+          },
+          {
+            "word": "감염",
+            "weight": 2.0
+          },
+          {
+            "word": "가치",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "4장",
+            "weight": 1.0
+          },
+          {
+            "word": "규정",
+            "weight": 1.0
+          },
+          {
+            "word": "공포심",
+            "weight": 1.0
+          },
+          {
+            "word": "관심",
+            "weight": 1.0
+          },
+          {
+            "word": "구체적",
+            "weight": 1.0
+          },
+          {
+            "word": "권한",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "만만하게 보이지 않는 대화법 :함부로 무시당하지 않는 말투는 따로 있다 ",
+            "isbn13": "9788970656250",
+            "authors": "나이토 요시히토 지음 ;이정은 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "신경 끄기 연습 :걱정, 초조, 두려움을 뛰어넘는 61가지 심리 기술 ",
+            "isbn13": "9791192300405",
+            "authors": "나이토 요시히토 지음 ;김한나 옮김"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+            "isbn13": "9788996991342",
+            "authors": "기시미 이치로,전경아 옮김"
+          },
+          {
+            "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+            "isbn13": "9788901243658",
+            "authors": "레몬심리 지음 ;박영란 옮김"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "(오은영의) 화해 :상처받은 내면의 나와 마주하는 용기 ",
+            "isbn13": "9788997396870",
+            "authors": "오은영 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "말투 하나 바꿨을 뿐인데"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001889973",
+        "title": "말투 하나 바꿨을 뿐인데(20만 부 기념 리커버 스페셜 에디션)",
+        "subtitle": "일,사랑,관계가 술술 풀리는 40가지 심리 기술",
+        "page": "216 p.",
+        "book_size": "141*211mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791186665503",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186665503",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "말투 하나 바꿨을 뿐인데",
+      "subtitle": "일,사랑,관계가 술술 풀리는 40가지 심리 기술",
+      "author": "나이토 요시히토 지음 ;김한나 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "유노북스",
+      "publish_year": "2017",
+      "publish_predate": "20170317",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "158",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "141*211mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "《말투 하나 바꿨을 뿐인데》는 출간되자마자 출판계에 ‘말투 열풍’을 불러일으킨 베스트셀러로, 이번에 10만 부 돌파를 기념해 리커버 한정판이 새로 출간됐다. 특히 겉커버는 앞면과 뒷면에 서로 다른 표지 디자인을 인쇄해서 나만의 커버를 선택할 수 있도록 특별 제작했다.",
+      "control_no": "CIP2017005398",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6150234_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "효과",
+          "weight": 17.0
+        },
+        {
+          "word": "말투",
+          "weight": 14.0
+        },
+        {
+          "word": "법칙",
+          "weight": 11.0
+        },
+        {
+          "word": "상대방",
+          "weight": 7.0
+        },
+        {
+          "word": "심리학",
+          "weight": 7.0
+        },
+        {
+          "word": "말투 하나 바꿨을 뿐인데",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "상대",
+          "weight": 4.0
+        },
+        {
+          "word": "심리",
+          "weight": 4.0
+        },
+        {
+          "word": "부탁",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 3.0
+        },
+        {
+          "word": "테크닉",
+          "weight": 3.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 3.0
+        },
+        {
+          "word": "정보",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "설득",
+          "weight": 2.0
+        },
+        {
+          "word": "기대",
+          "weight": 2.0
+        },
+        {
+          "word": "작전",
+          "weight": 2.0
+        },
+        {
+          "word": "부여",
+          "weight": 2.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 2.0
+        },
+        {
+          "word": "김한나",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "나이토 요시히토",
+          "weight": 2.0
+        },
+        {
+          "word": "쓰레기",
+          "weight": 2.0
+        },
+        {
+          "word": "유노북스",
+          "weight": 2.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 2.0
+        },
+        {
+          "word": "인생",
+          "weight": 2.0
+        },
+        {
+          "word": "입장",
+          "weight": 2.0
+        },
+        {
+          "word": "당신",
+          "weight": 2.0
+        },
+        {
+          "word": "화술",
+          "weight": 2.0
+        },
+        {
+          "word": "결단",
+          "weight": 2.0
+        },
+        {
+          "word": "에피소드",
+          "weight": 2.0
+        },
+        {
+          "word": "숫자",
+          "weight": 2.0
+        },
+        {
+          "word": "보장",
+          "weight": 2.0
+        },
+        {
+          "word": "결론",
+          "weight": 2.0
+        },
+        {
+          "word": "인사",
+          "weight": 2.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 2.0
+        },
+        {
+          "word": "공유",
+          "weight": 2.0
+        },
+        {
+          "word": "말하기",
+          "weight": 2.0
+        },
+        {
+          "word": "말할까",
+          "weight": 2.0
+        },
+        {
+          "word": "감염",
+          "weight": 2.0
+        },
+        {
+          "word": "가치",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "4장",
+          "weight": 1.0
+        },
+        {
+          "word": "규정",
+          "weight": 1.0
+        },
+        {
+          "word": "공포심",
+          "weight": 1.0
+        },
+        {
+          "word": "관심",
+          "weight": 1.0
+        },
+        {
+          "word": "구체적",
+          "weight": 1.0
+        },
+        {
+          "word": "권한",
+          "weight": 1.0
+        }
+      ],
+      "description": "《말투 하나 바꿨을 뿐인데》는 출간되자마자 출판계에 ‘말투 열풍’을 불러일으킨 베스트셀러로, 이번에 10만 부 돌파를 기념해 리커버 한정판이 새로 출간됐다. 특히 겉커버는 앞면과 뒷면에 서로 다른 표지 디자인을 인쇄해서 나만의 커버를 선택할 수 있도록 특별 제작했다.",
+      "co_loan_books": [
+        {
+          "bookname": "만만하게 보이지 않는 대화법 :함부로 무시당하지 않는 말투는 따로 있다 ",
+          "isbn13": "9788970656250",
+          "authors": "나이토 요시히토 지음 ;이정은 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "신경 끄기 연습 :걱정, 초조, 두려움을 뛰어넘는 61가지 심리 기술 ",
+          "isbn13": "9791192300405",
+          "authors": "나이토 요시히토 지음 ;김한나 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+          "isbn13": "9788901243658",
+          "authors": "레몬심리 지음 ;박영란 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "(오은영의) 화해 :상처받은 내면의 나와 마주하는 용기 ",
+          "isbn13": "9788997396870",
+          "authors": "오은영 지음"
+        }
+      ],
+      "title": "말투 하나 바꿨을 뿐인데",
+      "author": "나이토 요시히토 지음 ;김한나 옮김",
+      "kdc_from_api": "189",
+      "ddc_from_api": "158",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

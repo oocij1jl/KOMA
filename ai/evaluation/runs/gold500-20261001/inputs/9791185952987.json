@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791185952987",
+  "captured_at": "2026-10-02T00:22:47.265980+09:00",
+  "lookup": {
+    "isbn": "9791185952987",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185952987",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "(비울수록 사람을 더 채우는) 말그릇",
+      "subtitle": "비울수록 사람을 더 채우는",
+      "author": "김윤나 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "카시오페아",
+      "publish_year": "2017",
+      "publish_predate": "20170922",
+      "kdc": "189.2",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "158.2",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "140*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "SK, LG, 삼성을 비롯한 수많은 기업과 개인 코칭을 통해 얻은 말에 대한 근본적인 성찰. 사람마다 가지고 있는 자신의 말 그릇의 의미에 대해 생각해보고 어떻게 하면 나의 말 그릇을 보다 단단하고 깊이 있게 만들 수 있는지 알려준다.",
+      "control_no": "CIP2017023330",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 37.0
+        },
+        {
+          "word": "그릇",
+          "weight": 35.0
+        },
+        {
+          "word": "감정",
+          "weight": 13.0
+        },
+        {
+          "word": "기술",
+          "weight": 13.0
+        },
+        {
+          "word": "질문",
+          "weight": 12.0
+        },
+        {
+          "word": "듣기",
+          "weight": 10.0
+        },
+        {
+          "word": "말하기",
+          "weight": 9.0
+        },
+        {
+          "word": "마음",
+          "weight": 8.0
+        },
+        {
+          "word": "습관",
+          "weight": 8.0
+        },
+        {
+          "word": "사용",
+          "weight": 8.0
+        },
+        {
+          "word": "단단",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "공식",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "말이",
+          "weight": 6.0
+        },
+        {
+          "word": "Part",
+          "weight": 5.0
+        },
+        {
+          "word": "다양",
+          "weight": 5.0
+        },
+        {
+          "word": "코칭",
+          "weight": 5.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "집중",
+          "weight": 4.0
+        },
+        {
+          "word": "한마디",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "오해",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "책임",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "차이",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "삼성",
+          "weight": 3.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 3.0
+        },
+        {
+          "word": "기업",
+          "weight": 3.0
+        },
+        {
+          "word": "깊이",
+          "weight": 3.0
+        },
+        {
+          "word": "나공부",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "LG",
+          "weight": 3.0
+        },
+        {
+          "word": "단순",
+          "weight": 3.0
+        },
+        {
+          "word": "SK",
+          "weight": 3.0
+        },
+        {
+          "word": "성찰",
+          "weight": 3.0
+        },
+        {
+          "word": "연습",
+          "weight": 3.0
+        },
+        {
+          "word": "개인",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "결국",
+          "weight": 3.0
+        },
+        {
+          "word": "세월",
+          "weight": 2.0
+        },
+        {
+          "word": "김윤나",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "경청",
+          "weight": 2.0
+        },
+        {
+          "word": "시간동안",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "소통",
+          "weight": 2.0
+        },
+        {
+          "word": "나답",
+          "weight": 2.0
+        }
+      ],
+      "description": "SK, LG, 삼성을 비롯한 수많은 기업과 개인 코칭을 통해 얻은 말에 대한 근본적인 성찰. 사람마다 가지고 있는 자신의 말 그릇의 의미에 대해 생각해보고 어떻게 하면 나의 말 그릇을 보다 단단하고 깊이 있게 만들 수 있는지 알려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "(비울수록 사람을 더 성장시키는) 리더의 말그릇 ",
+          "isbn13": "9791190776615",
+          "authors": "김윤나 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+          "isbn13": "9788901243658",
+          "authors": "레몬심리 지음 ;박영란 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "(비울수록 사람을 더 채우는) 말그릇",
+      "author": "김윤나 지음",
+      "kdc_from_api": "189.2",
+      "ddc_from_api": "158.2",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(비울수록 사람을 더 채우는) 말그릇",
+        "author": "김윤나 지음",
+        "publisher": "카시오페아",
+        "publish_predate": "20170922",
+        "isbn": "9791185952987",
+        "isbn_add_code": "03190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "311 p.",
+        "book_size": "140*205",
+        "form": "종이책",
+        "kdc": "189.2",
+        "ddc": "158.2",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017023330",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(비울수록 사람을 더 채우는) 말그릇 ",
+        "author": "김윤나 지음",
+        "publisher": "카시오페아",
+        "publish_year": "2017",
+        "isbn": "1185952985",
+        "isbn13": "9791185952987",
+        "isbn_add_code": "03190",
+        "volume": "",
+        "class_no": "189.2",
+        "class_nm": "철학 > 심리학 > 응용심리학 일반",
+        "description": "SK, LG, 삼성을 비롯한 수많은 기업과 개인 코칭을 통해 얻은 말에 대한 근본적인 성찰. 사람마다 가지고 있는 자신의 말 그릇의 의미에 대해 생각해보고 어떻게 하면 나의 말 그릇을 보다 단단하고 깊이 있게 만들 수 있는지 알려준다.",
+        "cover_url": "https://image.aladin.co.kr/product/15652/80/cover/k282533034_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사람",
+            "weight": 37.0
+          },
+          {
+            "word": "그릇",
+            "weight": 35.0
+          },
+          {
+            "word": "감정",
+            "weight": 13.0
+          },
+          {
+            "word": "기술",
+            "weight": 13.0
+          },
+          {
+            "word": "질문",
+            "weight": 12.0
+          },
+          {
+            "word": "듣기",
+            "weight": 10.0
+          },
+          {
+            "word": "말하기",
+            "weight": 9.0
+          },
+          {
+            "word": "마음",
+            "weight": 8.0
+          },
+          {
+            "word": "습관",
+            "weight": 8.0
+          },
+          {
+            "word": "사용",
+            "weight": 8.0
+          },
+          {
+            "word": "단단",
+            "weight": 8.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "공식",
+            "weight": 6.0
+          },
+          {
+            "word": "이해",
+            "weight": 6.0
+          },
+          {
+            "word": "말이",
+            "weight": 6.0
+          },
+          {
+            "word": "Part",
+            "weight": 5.0
+          },
+          {
+            "word": "다양",
+            "weight": 5.0
+          },
+          {
+            "word": "코칭",
+            "weight": 5.0
+          },
+          {
+            "word": "관계",
+            "weight": 4.0
+          },
+          {
+            "word": "집중",
+            "weight": 4.0
+          },
+          {
+            "word": "한마디",
+            "weight": 4.0
+          },
+          {
+            "word": "의미",
+            "weight": 4.0
+          },
+          {
+            "word": "오해",
+            "weight": 4.0
+          },
+          {
+            "word": "필요",
+            "weight": 3.0
+          },
+          {
+            "word": "책임",
+            "weight": 3.0
+          },
+          {
+            "word": "대하",
+            "weight": 3.0
+          },
+          {
+            "word": "차이",
+            "weight": 3.0
+          },
+          {
+            "word": "이유",
+            "weight": 3.0
+          },
+          {
+            "word": "삼성",
+            "weight": 3.0
+          },
+          {
+            "word": "인간관계",
+            "weight": 3.0
+          },
+          {
+            "word": "기업",
+            "weight": 3.0
+          },
+          {
+            "word": "깊이",
+            "weight": 3.0
+          },
+          {
+            "word": "나공부",
+            "weight": 3.0
+          },
+          {
+            "word": "생각",
+            "weight": 3.0
+          },
+          {
+            "word": "LG",
+            "weight": 3.0
+          },
+          {
+            "word": "단순",
+            "weight": 3.0
+          },
+          {
+            "word": "SK",
+            "weight": 3.0
+          },
+          {
+            "word": "성찰",
+            "weight": 3.0
+          },
+          {
+            "word": "연습",
+            "weight": 3.0
+          },
+          {
+            "word": "개인",
+            "weight": 3.0
+          },
+          {
+            "word": "대화",
+            "weight": 3.0
+          },
+          {
+            "word": "결국",
+            "weight": 3.0
+          },
+          {
+            "word": "세월",
+            "weight": 2.0
+          },
+          {
+            "word": "김윤나",
+            "weight": 2.0
+          },
+          {
+            "word": "수도",
+            "weight": 2.0
+          },
+          {
+            "word": "경청",
+            "weight": 2.0
+          },
+          {
+            "word": "시간동안",
+            "weight": 2.0
+          },
+          {
+            "word": "상처",
+            "weight": 2.0
+          },
+          {
+            "word": "소통",
+            "weight": 2.0
+          },
+          {
+            "word": "나답",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "(비울수록 사람을 더 성장시키는) 리더의 말그릇 ",
+            "isbn13": "9791190776615",
+            "authors": "김윤나 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+            "isbn13": "9788901243658",
+            "authors": "레몬심리 지음 ;박영란 옮김"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(비울수록 사람을 더 채우는) 말그릇 - 비울수록 사람을 더 채우는"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001876432",
+        "title": "비울수록 사람을 더 채우는 말 그릇(50만 부 기념 에디션)",
+        "subtitle": "",
+        "page": "320 p.",
+        "book_size": "140*205mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791185952987",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185952987",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "(비울수록 사람을 더 채우는) 말그릇",
+      "subtitle": "비울수록 사람을 더 채우는",
+      "author": "김윤나 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "카시오페아",
+      "publish_year": "2017",
+      "publish_predate": "20170922",
+      "kdc": "189.2",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 심리학 > 응용심리학 일반",
+      "ddc": "158.2",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "140*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "SK, LG, 삼성을 비롯한 수많은 기업과 개인 코칭을 통해 얻은 말에 대한 근본적인 성찰. 사람마다 가지고 있는 자신의 말 그릇의 의미에 대해 생각해보고 어떻게 하면 나의 말 그릇을 보다 단단하고 깊이 있게 만들 수 있는지 알려준다.",
+      "control_no": "CIP2017023330",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6351853_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 37.0
+        },
+        {
+          "word": "그릇",
+          "weight": 35.0
+        },
+        {
+          "word": "감정",
+          "weight": 13.0
+        },
+        {
+          "word": "기술",
+          "weight": 13.0
+        },
+        {
+          "word": "질문",
+          "weight": 12.0
+        },
+        {
+          "word": "듣기",
+          "weight": 10.0
+        },
+        {
+          "word": "말하기",
+          "weight": 9.0
+        },
+        {
+          "word": "마음",
+          "weight": 8.0
+        },
+        {
+          "word": "습관",
+          "weight": 8.0
+        },
+        {
+          "word": "사용",
+          "weight": 8.0
+        },
+        {
+          "word": "단단",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "공식",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "말이",
+          "weight": 6.0
+        },
+        {
+          "word": "Part",
+          "weight": 5.0
+        },
+        {
+          "word": "다양",
+          "weight": 5.0
+        },
+        {
+          "word": "코칭",
+          "weight": 5.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "집중",
+          "weight": 4.0
+        },
+        {
+          "word": "한마디",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "오해",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "책임",
+          "weight": 3.0
+        },
+        {
+          "word": "대하",
+          "weight": 3.0
+        },
+        {
+          "word": "차이",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "삼성",
+          "weight": 3.0
+        },
+        {
+          "word": "인간관계",
+          "weight": 3.0
+        },
+        {
+          "word": "기업",
+          "weight": 3.0
+        },
+        {
+          "word": "깊이",
+          "weight": 3.0
+        },
+        {
+          "word": "나공부",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "LG",
+          "weight": 3.0
+        },
+        {
+          "word": "단순",
+          "weight": 3.0
+        },
+        {
+          "word": "SK",
+          "weight": 3.0
+        },
+        {
+          "word": "성찰",
+          "weight": 3.0
+        },
+        {
+          "word": "연습",
+          "weight": 3.0
+        },
+        {
+          "word": "개인",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "결국",
+          "weight": 3.0
+        },
+        {
+          "word": "세월",
+          "weight": 2.0
+        },
+        {
+          "word": "김윤나",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "경청",
+          "weight": 2.0
+        },
+        {
+          "word": "시간동안",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "소통",
+          "weight": 2.0
+        },
+        {
+          "word": "나답",
+          "weight": 2.0
+        }
+      ],
+      "description": "SK, LG, 삼성을 비롯한 수많은 기업과 개인 코칭을 통해 얻은 말에 대한 근본적인 성찰. 사람마다 가지고 있는 자신의 말 그릇의 의미에 대해 생각해보고 어떻게 하면 나의 말 그릇을 보다 단단하고 깊이 있게 만들 수 있는지 알려준다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "(비울수록 사람을 더 성장시키는) 리더의 말그릇 ",
+          "isbn13": "9791190776615",
+          "authors": "김윤나 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "기분이 태도가 되지 않게 :기분 따라 행동하다 손해 보는 당신을 위한 심리 수업 ",
+          "isbn13": "9788901243658",
+          "authors": "레몬심리 지음 ;박영란 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        }
+      ],
+      "title": "(비울수록 사람을 더 채우는) 말그릇",
+      "author": "김윤나 지음",
+      "kdc_from_api": "189.2",
+      "ddc_from_api": "158.2",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

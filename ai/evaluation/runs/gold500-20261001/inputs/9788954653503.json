@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788954653503",
+  "captured_at": "2026-10-04T00:19:02.922780+09:00",
+  "lookup": {
+    "isbn": "9788954653503",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954653503",
+      "isbn_add_code": "73810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "순재와 키완",
+      "subtitle": "두 아이가 만난 괴물에 대한 기록",
+      "author": "오하림 글 ;애슝 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2018",
+      "publish_predate": "20181115",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "124 p.",
+      "book_size": "153*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "보름달문고 75권. ‘절망적인 색채의 미래 전망들과 어떤 공식처럼 지구와 인간의 파멸을 그린 작품들 속에서 지금 여기가 맨 앞’이라는 메시지를 전하며 제19회 문학동네어린이문학상 대상을 받은 작품이다.",
+      "control_no": "CIP2018034400",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수상",
+          "weight": 9.0
+        },
+        {
+          "word": "순재와 키완",
+          "weight": 9.0
+        },
+        {
+          "word": "문학동네어린이문학상",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "대상",
+          "weight": 4.0
+        },
+        {
+          "word": "제19회",
+          "weight": 4.0
+        },
+        {
+          "word": "오하림",
+          "weight": 3.0
+        },
+        {
+          "word": "기록",
+          "weight": 3.0
+        },
+        {
+          "word": "괴물",
+          "weight": 3.0
+        },
+        {
+          "word": "여행자",
+          "weight": 3.0
+        },
+        {
+          "word": "순재",
+          "weight": 3.0
+        },
+        {
+          "word": "애슝",
+          "weight": 2.0
+        },
+        {
+          "word": "기이",
+          "weight": 2.0
+        },
+        {
+          "word": "노크",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "인류",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "아동문학평론가",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "심사평",
+          "weight": 2.0
+        },
+        {
+          "word": "수상작",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "부천",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "보름달문고",
+          "weight": 1.0
+        },
+        {
+          "word": "목숨",
+          "weight": 1.0
+        },
+        {
+          "word": "문제작",
+          "weight": 1.0
+        },
+        {
+          "word": "방향",
+          "weight": 1.0
+        },
+        {
+          "word": "미래",
+          "weight": 1.0
+        },
+        {
+          "word": "밀어",
+          "weight": 1.0
+        },
+        {
+          "word": "바람",
+          "weight": 1.0
+        },
+        {
+          "word": "방문객",
+          "weight": 1.0
+        },
+        {
+          "word": "구원",
+          "weight": 1.0
+        },
+        {
+          "word": "가운데",
+          "weight": 1.0
+        },
+        {
+          "word": "갈등",
+          "weight": 1.0
+        },
+        {
+          "word": "흐름",
+          "weight": 1.0
+        },
+        {
+          "word": "격렬",
+          "weight": 1.0
+        },
+        {
+          "word": "결말",
+          "weight": 1.0
+        },
+        {
+          "word": "경기도",
+          "weight": 1.0
+        },
+        {
+          "word": "공개",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "김지은",
+          "weight": 1.0
+        },
+        {
+          "word": "내적",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        },
+        {
+          "word": "대상작",
+          "weight": 1.0
+        }
+      ],
+      "description": "보름달문고 75권. ‘절망적인 색채의 미래 전망들과 어떤 공식처럼 지구와 인간의 파멸을 그린 작품들 속에서 지금 여기가 맨 앞’이라는 메시지를 전하며 제19회 문학동네어린이문학상 대상을 받은 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "책과 노니는 집 ",
+          "isbn13": "9788954607346",
+          "authors": "이영서 글 ;김동성 그림"
+        },
+        {
+          "bookname": "봉주르, 뚜르 ",
+          "isbn13": "9788954612883",
+          "authors": "한윤섭 글 ;김진화 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "악당의 무게 ",
+          "isbn13": "9788965912491",
+          "authors": "이현 글 ;오윤화 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "담을 넘은 아이 ",
+          "isbn13": "9788949121857",
+          "authors": "김정민 글 ;이영환 그림"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "여름이 반짝 ",
+          "isbn13": "9788954638111",
+          "authors": "김수빈 글 ;김정은 그림"
+        }
+      ],
+      "title": "순재와 키완",
+      "author": "오하림 글 ;애슝 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "순재와 키완",
+        "author": "오하림 글 ;애슝 그림",
+        "publisher": "문학동네",
+        "publish_predate": "20181115",
+        "isbn": "9788954653503",
+        "isbn_add_code": "73810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "123 p.",
+        "book_size": "153*220",
+        "form": "종이책",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018034400",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "순재와 키완 :두 아이가 만난 괴물에 대한 기록 ",
+        "author": "오하림 글 ;애슝 그림",
+        "publisher": "문학동네",
+        "publish_year": "2018",
+        "isbn": "8954653502",
+        "isbn13": "9788954653503",
+        "isbn_add_code": "73810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "보름달문고 75권. ‘절망적인 색채의 미래 전망들과 어떤 공식처럼 지구와 인간의 파멸을 그린 작품들 속에서 지금 여기가 맨 앞’이라는 메시지를 전하며 제19회 문학동네어린이문학상 대상을 받은 작품이다.",
+        "cover_url": "https://image.aladin.co.kr/product/17381/81/cover/8954653502_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "수상",
+            "weight": 9.0
+          },
+          {
+            "word": "순재와 키완",
+            "weight": 9.0
+          },
+          {
+            "word": "문학동네어린이문학상",
+            "weight": 5.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "대상",
+            "weight": 4.0
+          },
+          {
+            "word": "제19회",
+            "weight": 4.0
+          },
+          {
+            "word": "오하림",
+            "weight": 3.0
+          },
+          {
+            "word": "기록",
+            "weight": 3.0
+          },
+          {
+            "word": "괴물",
+            "weight": 3.0
+          },
+          {
+            "word": "여행자",
+            "weight": 3.0
+          },
+          {
+            "word": "순재",
+            "weight": 3.0
+          },
+          {
+            "word": "애슝",
+            "weight": 2.0
+          },
+          {
+            "word": "기이",
+            "weight": 2.0
+          },
+          {
+            "word": "노크",
+            "weight": 2.0
+          },
+          {
+            "word": "메시지",
+            "weight": 2.0
+          },
+          {
+            "word": "국내창작동화",
+            "weight": 2.0
+          },
+          {
+            "word": "심리학",
+            "weight": 2.0
+          },
+          {
+            "word": "인류",
+            "weight": 2.0
+          },
+          {
+            "word": "인간",
+            "weight": 2.0
+          },
+          {
+            "word": "아동문학평론가",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "문학동네",
+            "weight": 2.0
+          },
+          {
+            "word": "심사평",
+            "weight": 2.0
+          },
+          {
+            "word": "수상작",
+            "weight": 2.0
+          },
+          {
+            "word": "질문",
+            "weight": 2.0
+          },
+          {
+            "word": "부천",
+            "weight": 1.0
+          },
+          {
+            "word": "목소리",
+            "weight": 1.0
+          },
+          {
+            "word": "보름달문고",
+            "weight": 1.0
+          },
+          {
+            "word": "목숨",
+            "weight": 1.0
+          },
+          {
+            "word": "문제작",
+            "weight": 1.0
+          },
+          {
+            "word": "방향",
+            "weight": 1.0
+          },
+          {
+            "word": "미래",
+            "weight": 1.0
+          },
+          {
+            "word": "밀어",
+            "weight": 1.0
+          },
+          {
+            "word": "바람",
+            "weight": 1.0
+          },
+          {
+            "word": "방문객",
+            "weight": 1.0
+          },
+          {
+            "word": "구원",
+            "weight": 1.0
+          },
+          {
+            "word": "가운데",
+            "weight": 1.0
+          },
+          {
+            "word": "갈등",
+            "weight": 1.0
+          },
+          {
+            "word": "흐름",
+            "weight": 1.0
+          },
+          {
+            "word": "격렬",
+            "weight": 1.0
+          },
+          {
+            "word": "결말",
+            "weight": 1.0
+          },
+          {
+            "word": "경기도",
+            "weight": 1.0
+          },
+          {
+            "word": "공개",
+            "weight": 1.0
+          },
+          {
+            "word": "공부",
+            "weight": 1.0
+          },
+          {
+            "word": "그린",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "김지은",
+            "weight": 1.0
+          },
+          {
+            "word": "내적",
+            "weight": 1.0
+          },
+          {
+            "word": "다양",
+            "weight": 1.0
+          },
+          {
+            "word": "대상작",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "5번 레인 ",
+            "isbn13": "9788954674638",
+            "authors": "은소홀 글 ;노인경 그림"
+          },
+          {
+            "bookname": "책과 노니는 집 ",
+            "isbn13": "9788954607346",
+            "authors": "이영서 글 ;김동성 그림"
+          },
+          {
+            "bookname": "봉주르, 뚜르 ",
+            "isbn13": "9788954612883",
+            "authors": "한윤섭 글 ;김진화 그림"
+          },
+          {
+            "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+            "isbn13": "9788954690690",
+            "authors": "어윤정 글 ;해마 그림"
+          },
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "악당의 무게 ",
+            "isbn13": "9788965912491",
+            "authors": "이현 글 ;오윤화 그림"
+          },
+          {
+            "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+            "isbn13": "9788936442804",
+            "authors": "지은이: 이현 ;그린이: 오윤화"
+          },
+          {
+            "bookname": "담을 넘은 아이 ",
+            "isbn13": "9788949121857",
+            "authors": "김정민 글 ;이영환 그림"
+          },
+          {
+            "bookname": "시간 가게 ",
+            "isbn13": "9788954620260",
+            "authors": "이나영 글 ;윤정주 그림"
+          },
+          {
+            "bookname": "여름이 반짝 ",
+            "isbn13": "9788954638111",
+            "authors": "김수빈 글 ;김정은 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "순재와 키완 - 두 아이가 만난 괴물에 대한 기록"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000780224",
+        "title": "순재와 키완",
+        "subtitle": "두 아이가 만난 괴물에 대한 기록",
+        "page": "124 p.",
+        "book_size": "155*221mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788954653503",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788954653503",
+      "isbn_add_code": "73810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "순재와 키완",
+      "subtitle": "두 아이가 만난 괴물에 대한 기록",
+      "author": "오하림 글 ;애슝 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "문학동네",
+      "publish_year": "2018",
+      "publish_predate": "20181115",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "124 p.",
+      "book_size": "153*220",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "보름달문고 75권. ‘절망적인 색채의 미래 전망들과 어떤 공식처럼 지구와 인간의 파멸을 그린 작품들 속에서 지금 여기가 맨 앞’이라는 메시지를 전하며 제19회 문학동네어린이문학상 대상을 받은 작품이다.",
+      "control_no": "CIP2018034400",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970783_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수상",
+          "weight": 9.0
+        },
+        {
+          "word": "순재와 키완",
+          "weight": 9.0
+        },
+        {
+          "word": "문학동네어린이문학상",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "대상",
+          "weight": 4.0
+        },
+        {
+          "word": "제19회",
+          "weight": 4.0
+        },
+        {
+          "word": "오하림",
+          "weight": 3.0
+        },
+        {
+          "word": "기록",
+          "weight": 3.0
+        },
+        {
+          "word": "괴물",
+          "weight": 3.0
+        },
+        {
+          "word": "여행자",
+          "weight": 3.0
+        },
+        {
+          "word": "순재",
+          "weight": 3.0
+        },
+        {
+          "word": "애슝",
+          "weight": 2.0
+        },
+        {
+          "word": "기이",
+          "weight": 2.0
+        },
+        {
+          "word": "노크",
+          "weight": 2.0
+        },
+        {
+          "word": "메시지",
+          "weight": 2.0
+        },
+        {
+          "word": "국내창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "인류",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "아동문학평론가",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "문학동네",
+          "weight": 2.0
+        },
+        {
+          "word": "심사평",
+          "weight": 2.0
+        },
+        {
+          "word": "수상작",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        },
+        {
+          "word": "부천",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "보름달문고",
+          "weight": 1.0
+        },
+        {
+          "word": "목숨",
+          "weight": 1.0
+        },
+        {
+          "word": "문제작",
+          "weight": 1.0
+        },
+        {
+          "word": "방향",
+          "weight": 1.0
+        },
+        {
+          "word": "미래",
+          "weight": 1.0
+        },
+        {
+          "word": "밀어",
+          "weight": 1.0
+        },
+        {
+          "word": "바람",
+          "weight": 1.0
+        },
+        {
+          "word": "방문객",
+          "weight": 1.0
+        },
+        {
+          "word": "구원",
+          "weight": 1.0
+        },
+        {
+          "word": "가운데",
+          "weight": 1.0
+        },
+        {
+          "word": "갈등",
+          "weight": 1.0
+        },
+        {
+          "word": "흐름",
+          "weight": 1.0
+        },
+        {
+          "word": "격렬",
+          "weight": 1.0
+        },
+        {
+          "word": "결말",
+          "weight": 1.0
+        },
+        {
+          "word": "경기도",
+          "weight": 1.0
+        },
+        {
+          "word": "공개",
+          "weight": 1.0
+        },
+        {
+          "word": "공부",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "김지은",
+          "weight": 1.0
+        },
+        {
+          "word": "내적",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        },
+        {
+          "word": "대상작",
+          "weight": 1.0
+        }
+      ],
+      "description": "보름달문고 75권. ‘절망적인 색채의 미래 전망들과 어떤 공식처럼 지구와 인간의 파멸을 그린 작품들 속에서 지금 여기가 맨 앞’이라는 메시지를 전하며 제19회 문학동네어린이문학상 대상을 받은 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "5번 레인 ",
+          "isbn13": "9788954674638",
+          "authors": "은소홀 글 ;노인경 그림"
+        },
+        {
+          "bookname": "책과 노니는 집 ",
+          "isbn13": "9788954607346",
+          "authors": "이영서 글 ;김동성 그림"
+        },
+        {
+          "bookname": "봉주르, 뚜르 ",
+          "isbn13": "9788954612883",
+          "authors": "한윤섭 글 ;김진화 그림"
+        },
+        {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "isbn13": "9788954690690",
+          "authors": "어윤정 글 ;해마 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "악당의 무게 ",
+          "isbn13": "9788965912491",
+          "authors": "이현 글 ;오윤화 그림"
+        },
+        {
+          "bookname": "푸른 사자 와니니 :이현 장편동화 ",
+          "isbn13": "9788936442804",
+          "authors": "지은이: 이현 ;그린이: 오윤화"
+        },
+        {
+          "bookname": "담을 넘은 아이 ",
+          "isbn13": "9788949121857",
+          "authors": "김정민 글 ;이영환 그림"
+        },
+        {
+          "bookname": "시간 가게 ",
+          "isbn13": "9788954620260",
+          "authors": "이나영 글 ;윤정주 그림"
+        },
+        {
+          "bookname": "여름이 반짝 ",
+          "isbn13": "9788954638111",
+          "authors": "김수빈 글 ;김정은 그림"
+        }
+      ],
+      "title": "순재와 키완",
+      "author": "오하림 글 ;애슝 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

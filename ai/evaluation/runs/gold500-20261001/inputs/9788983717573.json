@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788983717573",
+  "captured_at": "2026-10-03T00:17:56.784665+09:00",
+  "lookup": {
+    "isbn": "9788983717573",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983717573",
+      "isbn_add_code": "03510",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17500",
+      "title": "백년 허리 ",
+      "subtitle": "허리 보증 기간을 100년으로 늘리는 방법",
+      "author": "지은이: 정선근",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사이언스북스",
+      "publish_year": "2015",
+      "publish_predate": "20151220",
+      "kdc": "514.325",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 외과",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "340 p.",
+      "book_size": "145*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "허리에 좋은 자세, 좋은 운동을 알고 매일 한다면 요통에 빠지지 않고 허리를 100년 동안 건강하게 쓸 수 있다. 백년 허리 프로그램, 맥켄지 운동의 전도사, 정선근 서울대 의대 교수가 제안하는 요통과 디스크 치료의 새로운 패러다임.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/7460/54/cover/8983717572_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "허리",
+          "weight": 84.0
+        },
+        {
+          "word": "운동",
+          "weight": 49.0
+        },
+        {
+          "word": "요통",
+          "weight": 40.0
+        },
+        {
+          "word": "디스크",
+          "weight": 36.0
+        },
+        {
+          "word": "백년",
+          "weight": 16.0
+        },
+        {
+          "word": "교수",
+          "weight": 16.0
+        },
+        {
+          "word": "자세",
+          "weight": 15.0
+        },
+        {
+          "word": "치료",
+          "weight": 13.0
+        },
+        {
+          "word": "맥켄지",
+          "weight": 13.0
+        },
+        {
+          "word": "정선근",
+          "weight": 11.0
+        },
+        {
+          "word": "100년",
+          "weight": 11.0
+        },
+        {
+          "word": "신전",
+          "weight": 10.0
+        },
+        {
+          "word": "동작",
+          "weight": 10.0
+        },
+        {
+          "word": "좌골신경통",
+          "weight": 9.0
+        },
+        {
+          "word": "의학",
+          "weight": 8.0
+        },
+        {
+          "word": "손상",
+          "weight": 8.0
+        },
+        {
+          "word": "재활",
+          "weight": 8.0
+        },
+        {
+          "word": "의대",
+          "weight": 8.0
+        },
+        {
+          "word": "오해",
+          "weight": 7.0
+        },
+        {
+          "word": "엉덩이",
+          "weight": 7.0
+        },
+        {
+          "word": "윗몸",
+          "weight": 6.0
+        },
+        {
+          "word": "통증",
+          "weight": 6.0
+        },
+        {
+          "word": "해방",
+          "weight": 6.0
+        },
+        {
+          "word": "제안",
+          "weight": 6.0
+        },
+        {
+          "word": "맥길",
+          "weight": 6.0
+        },
+        {
+          "word": "서울대",
+          "weight": 6.0
+        },
+        {
+          "word": "수술",
+          "weight": 6.0
+        },
+        {
+          "word": "기둥",
+          "weight": 6.0
+        },
+        {
+          "word": "복대",
+          "weight": 6.0
+        },
+        {
+          "word": "대학",
+          "weight": 5.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 5.0
+        },
+        {
+          "word": "요추",
+          "weight": 5.0
+        },
+        {
+          "word": "다리",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "대학교",
+          "weight": 5.0
+        },
+        {
+          "word": "훈련",
+          "weight": 5.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "탈출",
+          "weight": 4.0
+        },
+        {
+          "word": "관절",
+          "weight": 4.0
+        },
+        {
+          "word": "기간",
+          "weight": 4.0
+        },
+        {
+          "word": "윌리엄스",
+          "weight": 4.0
+        },
+        {
+          "word": "근육",
+          "weight": 4.0
+        },
+        {
+          "word": "스트레칭",
+          "weight": 4.0
+        },
+        {
+          "word": "주임",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "해서",
+          "weight": 4.0
+        },
+        {
+          "word": "의과",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 4.0
+        },
+        {
+          "word": "백년 허리 프로젝트",
+          "weight": 3.0
+        }
+      ],
+      "description": "허리에 좋은 자세, 좋은 운동을 알고 매일 한다면 요통에 빠지지 않고 허리를 100년 동안 건강하게 쓸 수 있다. 백년 허리 프로그램, 맥켄지 운동의 전도사, 정선근 서울대 의대 교수가 제안하는 요통과 디스크 치료의 새로운 패러다임.",
+      "co_loan_books": [
+        {
+          "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+          "isbn13": "9791197437311",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+          "isbn13": "9791197437304",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "백년 목 :100년 가는 목 만드는 단 하나의 방법 ",
+          "isbn13": "9788983718686",
+          "authors": "지은이: 정선근"
+        },
+        {
+          "bookname": "백년운동 :척추·관절 아프지 않게 100세까지 운동하는 방법 ",
+          "isbn13": "9791196834005",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "백년 목 2 : 치료편 - 내 목 사용설명서, 개정증보판",
+          "isbn13": "9791197437380",
+          "authors": "정선근 (지은이)"
+        },
+        {
+          "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+          "isbn13": "9791140702589",
+          "authors": "정희원 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "백년 허리 ",
+      "author": "지은이: 정선근",
+      "kdc_from_api": "514.325",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "백년 허리 ",
+        "author": "지은이: 정선근",
+        "publisher": "사이언스북스",
+        "publish_predate": "20151220",
+        "isbn": "9788983717573",
+        "isbn_add_code": "03510",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩17500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "백년 허리 :허리 보증 기간을 100년으로 늘리는 방법 ",
+        "author": "지은이: 정선근",
+        "publisher": "사이언스북스",
+        "publish_year": "2015",
+        "isbn": "8983717572",
+        "isbn13": "9788983717573",
+        "isbn_add_code": "03510",
+        "volume": "",
+        "class_no": "514.325",
+        "class_nm": "기술과학 > 의학 > 외과",
+        "description": "허리에 좋은 자세, 좋은 운동을 알고 매일 한다면 요통에 빠지지 않고 허리를 100년 동안 건강하게 쓸 수 있다. 백년 허리 프로그램, 맥켄지 운동의 전도사, 정선근 서울대 의대 교수가 제안하는 요통과 디스크 치료의 새로운 패러다임.",
+        "cover_url": "http://image.aladin.co.kr/product/7460/54/cover/8983717572_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "허리",
+            "weight": 84.0
+          },
+          {
+            "word": "운동",
+            "weight": 49.0
+          },
+          {
+            "word": "요통",
+            "weight": 40.0
+          },
+          {
+            "word": "디스크",
+            "weight": 36.0
+          },
+          {
+            "word": "백년",
+            "weight": 16.0
+          },
+          {
+            "word": "교수",
+            "weight": 16.0
+          },
+          {
+            "word": "자세",
+            "weight": 15.0
+          },
+          {
+            "word": "치료",
+            "weight": 13.0
+          },
+          {
+            "word": "맥켄지",
+            "weight": 13.0
+          },
+          {
+            "word": "정선근",
+            "weight": 11.0
+          },
+          {
+            "word": "100년",
+            "weight": 11.0
+          },
+          {
+            "word": "신전",
+            "weight": 10.0
+          },
+          {
+            "word": "동작",
+            "weight": 10.0
+          },
+          {
+            "word": "좌골신경통",
+            "weight": 9.0
+          },
+          {
+            "word": "의학",
+            "weight": 8.0
+          },
+          {
+            "word": "손상",
+            "weight": 8.0
+          },
+          {
+            "word": "재활",
+            "weight": 8.0
+          },
+          {
+            "word": "의대",
+            "weight": 8.0
+          },
+          {
+            "word": "오해",
+            "weight": 7.0
+          },
+          {
+            "word": "엉덩이",
+            "weight": 7.0
+          },
+          {
+            "word": "윗몸",
+            "weight": 6.0
+          },
+          {
+            "word": "통증",
+            "weight": 6.0
+          },
+          {
+            "word": "해방",
+            "weight": 6.0
+          },
+          {
+            "word": "제안",
+            "weight": 6.0
+          },
+          {
+            "word": "맥길",
+            "weight": 6.0
+          },
+          {
+            "word": "서울대",
+            "weight": 6.0
+          },
+          {
+            "word": "수술",
+            "weight": 6.0
+          },
+          {
+            "word": "기둥",
+            "weight": 6.0
+          },
+          {
+            "word": "복대",
+            "weight": 6.0
+          },
+          {
+            "word": "대학",
+            "weight": 5.0
+          },
+          {
+            "word": "프로그램",
+            "weight": 5.0
+          },
+          {
+            "word": "요추",
+            "weight": 5.0
+          },
+          {
+            "word": "다리",
+            "weight": 5.0
+          },
+          {
+            "word": "가지",
+            "weight": 5.0
+          },
+          {
+            "word": "대학교",
+            "weight": 5.0
+          },
+          {
+            "word": "훈련",
+            "weight": 5.0
+          },
+          {
+            "word": "건강",
+            "weight": 4.0
+          },
+          {
+            "word": "탈출",
+            "weight": 4.0
+          },
+          {
+            "word": "관절",
+            "weight": 4.0
+          },
+          {
+            "word": "기간",
+            "weight": 4.0
+          },
+          {
+            "word": "윌리엄스",
+            "weight": 4.0
+          },
+          {
+            "word": "근육",
+            "weight": 4.0
+          },
+          {
+            "word": "스트레칭",
+            "weight": 4.0
+          },
+          {
+            "word": "주임",
+            "weight": 4.0
+          },
+          {
+            "word": "전문가",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "해서",
+            "weight": 4.0
+          },
+          {
+            "word": "의과",
+            "weight": 4.0
+          },
+          {
+            "word": "인생",
+            "weight": 4.0
+          },
+          {
+            "word": "백년 허리 프로젝트",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+            "isbn13": "9791197437311",
+            "authors": "저자: 정선근"
+          },
+          {
+            "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+            "isbn13": "9791197437304",
+            "authors": "저자: 정선근"
+          },
+          {
+            "bookname": "백년 목 :100년 가는 목 만드는 단 하나의 방법 ",
+            "isbn13": "9788983718686",
+            "authors": "지은이: 정선근"
+          },
+          {
+            "bookname": "백년운동 :척추·관절 아프지 않게 100세까지 운동하는 방법 ",
+            "isbn13": "9791196834005",
+            "authors": "저자: 정선근"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "백년 목 2 : 치료편 - 내 목 사용설명서, 개정증보판",
+            "isbn13": "9791197437380",
+            "authors": "정선근 (지은이)"
+          },
+          {
+            "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+            "isbn13": "9791140702589",
+            "authors": "정희원 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "백년 허리"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001291129",
+        "title": "백년 허리",
+        "subtitle": "허리 보증 기간을 100년으로 늘리는 방법",
+        "page": "340 p.",
+        "book_size": "145*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788983717573",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983717573",
+      "isbn_add_code": "03510",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩17500",
+      "title": "백년 허리 ",
+      "subtitle": "허리 보증 기간을 100년으로 늘리는 방법",
+      "author": "지은이: 정선근",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "사이언스북스",
+      "publish_year": "2015",
+      "publish_predate": "20151220",
+      "kdc": "514.325",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 외과",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "340 p.",
+      "book_size": "145*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "허리에 좋은 자세, 좋은 운동을 알고 매일 한다면 요통에 빠지지 않고 허리를 100년 동안 건강하게 쓸 수 있다. 백년 허리 프로그램, 맥켄지 운동의 전도사, 정선근 서울대 의대 교수가 제안하는 요통과 디스크 치료의 새로운 패러다임.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/7460/54/cover/8983717572_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "허리",
+          "weight": 84.0
+        },
+        {
+          "word": "운동",
+          "weight": 49.0
+        },
+        {
+          "word": "요통",
+          "weight": 40.0
+        },
+        {
+          "word": "디스크",
+          "weight": 36.0
+        },
+        {
+          "word": "백년",
+          "weight": 16.0
+        },
+        {
+          "word": "교수",
+          "weight": 16.0
+        },
+        {
+          "word": "자세",
+          "weight": 15.0
+        },
+        {
+          "word": "치료",
+          "weight": 13.0
+        },
+        {
+          "word": "맥켄지",
+          "weight": 13.0
+        },
+        {
+          "word": "정선근",
+          "weight": 11.0
+        },
+        {
+          "word": "100년",
+          "weight": 11.0
+        },
+        {
+          "word": "신전",
+          "weight": 10.0
+        },
+        {
+          "word": "동작",
+          "weight": 10.0
+        },
+        {
+          "word": "좌골신경통",
+          "weight": 9.0
+        },
+        {
+          "word": "의학",
+          "weight": 8.0
+        },
+        {
+          "word": "손상",
+          "weight": 8.0
+        },
+        {
+          "word": "재활",
+          "weight": 8.0
+        },
+        {
+          "word": "의대",
+          "weight": 8.0
+        },
+        {
+          "word": "오해",
+          "weight": 7.0
+        },
+        {
+          "word": "엉덩이",
+          "weight": 7.0
+        },
+        {
+          "word": "윗몸",
+          "weight": 6.0
+        },
+        {
+          "word": "통증",
+          "weight": 6.0
+        },
+        {
+          "word": "해방",
+          "weight": 6.0
+        },
+        {
+          "word": "제안",
+          "weight": 6.0
+        },
+        {
+          "word": "맥길",
+          "weight": 6.0
+        },
+        {
+          "word": "서울대",
+          "weight": 6.0
+        },
+        {
+          "word": "수술",
+          "weight": 6.0
+        },
+        {
+          "word": "기둥",
+          "weight": 6.0
+        },
+        {
+          "word": "복대",
+          "weight": 6.0
+        },
+        {
+          "word": "대학",
+          "weight": 5.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 5.0
+        },
+        {
+          "word": "요추",
+          "weight": 5.0
+        },
+        {
+          "word": "다리",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "대학교",
+          "weight": 5.0
+        },
+        {
+          "word": "훈련",
+          "weight": 5.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "탈출",
+          "weight": 4.0
+        },
+        {
+          "word": "관절",
+          "weight": 4.0
+        },
+        {
+          "word": "기간",
+          "weight": 4.0
+        },
+        {
+          "word": "윌리엄스",
+          "weight": 4.0
+        },
+        {
+          "word": "근육",
+          "weight": 4.0
+        },
+        {
+          "word": "스트레칭",
+          "weight": 4.0
+        },
+        {
+          "word": "주임",
+          "weight": 4.0
+        },
+        {
+          "word": "전문가",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "해서",
+          "weight": 4.0
+        },
+        {
+          "word": "의과",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 4.0
+        },
+        {
+          "word": "백년 허리 프로젝트",
+          "weight": 3.0
+        }
+      ],
+      "description": "허리에 좋은 자세, 좋은 운동을 알고 매일 한다면 요통에 빠지지 않고 허리를 100년 동안 건강하게 쓸 수 있다. 백년 허리 프로그램, 맥켄지 운동의 전도사, 정선근 서울대 의대 교수가 제안하는 요통과 디스크 치료의 새로운 패러다임.",
+      "co_loan_books": [
+        {
+          "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+          "isbn13": "9791197437311",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "백년허리 :백년 동안 간직할 허리 사용설명서 ",
+          "isbn13": "9791197437304",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "백년 목 :100년 가는 목 만드는 단 하나의 방법 ",
+          "isbn13": "9788983718686",
+          "authors": "지은이: 정선근"
+        },
+        {
+          "bookname": "백년운동 :척추·관절 아프지 않게 100세까지 운동하는 방법 ",
+          "isbn13": "9791196834005",
+          "authors": "저자: 정선근"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "백년 목 2 : 치료편 - 내 목 사용설명서, 개정증보판",
+          "isbn13": "9791197437380",
+          "authors": "정선근 (지은이)"
+        },
+        {
+          "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+          "isbn13": "9791140702589",
+          "authors": "정희원 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "백년 허리 ",
+      "author": "지은이: 정선근",
+      "kdc_from_api": "514.325",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

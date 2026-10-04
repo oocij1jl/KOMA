@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791185564951",
+  "captured_at": "2026-10-05T00:11:32.837695+09:00",
+  "lookup": {
+    "isbn": "9791185564951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185564951",
+      "isbn_add_code": "77830",
+      "set_isbn": "9788996017035",
+      "set_add_code": "77080 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "우당탕탕 야옹이1 빵 공장이 들썩들썩",
+      "subtitle": "양장본 Hardcover",
+      "author": "구도 노리코 글, 그림, 윤수정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2015",
+      "publish_predate": "20150415",
+      "kdc": "833.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "작은곰자리",
+      "series_no": "27",
+      "page": "40 p.",
+      "book_size": "220*220mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "작은 곰자리 시리즈 27권, 우당탕탕 고양이 시리즈 1권. 연필로 쓱쓱 낙서한 듯한 작가 특유의 그림과 야옹이들의 작은 움직임 하나도 놓치지 않는 풍부한 의성어와 의태어로 아이들의 마음을 사로잡는다. ‘2013 MOE 그림책 대상’에서 4위를 차지한 작품이기도 하다.",
+      "control_no": "CIP2015008486",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "야옹이",
+          "weight": 9.0
+        },
+        {
+          "word": "공장",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 7.0
+        },
+        {
+          "word": "말썽쟁이",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "멍멍이 디럭스",
+          "weight": 3.0
+        },
+        {
+          "word": "펭귄 남매랑 함께 타요",
+          "weight": 3.0
+        },
+        {
+          "word": "빵 공장이 들썩들썩",
+          "weight": 3.0
+        },
+        {
+          "word": "삐악삐악",
+          "weight": 3.0
+        },
+        {
+          "word": "겨울은 어떤 곳이야",
+          "weight": 3.0
+        },
+        {
+          "word": "일본",
+          "weight": 3.0
+        },
+        {
+          "word": "우당탕탕",
+          "weight": 3.0
+        },
+        {
+          "word": "센슈와 웃토",
+          "weight": 3.0
+        },
+        {
+          "word": "우당탕탕 야옹이",
+          "weight": 3.0
+        },
+        {
+          "word": "마르가리타의 모험",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "씨네",
+          "weight": 2.0
+        },
+        {
+          "word": "모습",
+          "weight": 2.0
+        },
+        {
+          "word": "노릇노릇",
+          "weight": 2.0
+        },
+        {
+          "word": "윤수정  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "구도 노리코",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "jp",
+          "weight": 1.0
+        },
+        {
+          "word": "낙서",
+          "weight": 1.0
+        },
+        {
+          "word": "MOE",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "손수건",
+          "weight": 1.0
+        },
+        {
+          "word": "습격",
+          "weight": 1.0
+        },
+        {
+          "word": "사고",
+          "weight": 1.0
+        },
+        {
+          "word": "쓱쓱",
+          "weight": 1.0
+        },
+        {
+          "word": "아이",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "4위를",
+          "weight": 1.0
+        },
+        {
+          "word": "고양이",
+          "weight": 1.0
+        },
+        {
+          "word": "곰자리",
+          "weight": 1.0
+        },
+        {
+          "word": "볼록",
+          "weight": 1.0
+        },
+        {
+          "word": "노란",
+          "weight": 1.0
+        },
+        {
+          "word": "대상",
+          "weight": 1.0
+        },
+        {
+          "word": "대작전",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        },
+        {
+          "word": "만화가",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "남매",
+          "weight": 1.0
+        },
+        {
+          "word": "www",
+          "weight": 1.0
+        },
+        {
+          "word": "활발",
+          "weight": 1.0
+        },
+        {
+          "word": "벌이",
+          "weight": 1.0
+        }
+      ],
+      "description": "작은 곰자리 시리즈 27권, 우당탕탕 고양이 시리즈 1권. 연필로 쓱쓱 낙서한 듯한 작가 특유의 그림과 야옹이들의 작은 움직임 하나도 놓치지 않는 풍부한 의성어와 의태어로 아이들의 마음을 사로잡는다. ‘2013 MOE 그림책 대상’에서 4위를 차지한 작품이기도 하다.",
+      "co_loan_books": [
+        {
+          "bookname": "초밥이 빙글빙글 ",
+          "isbn13": "9791158360245",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "기차가 덜컹덜컹 ",
+          "isbn13": "9791158360061",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "아이스크림이 꽁꽁 ",
+          "isbn13": "9791158360986",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "케이크가 커졌어요! ",
+          "isbn13": "9791158362515",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "카레가 보글보글 ",
+          "isbn13": "9791158361884",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "으라차차 라면 가게 ",
+          "isbn13": "9791158363475",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "비행기가 부웅부웅 ",
+          "isbn13": "9791158360511",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "오싹오싹 도깨비 숲 ",
+          "isbn13": "9791158361440",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "시끌벅적 바다 여행 ",
+          "isbn13": "9791158364168",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "꼬르륵 꼬르륵 캠핑 ",
+          "isbn13": "9791158364687",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        }
+      ],
+      "title": "우당탕탕 야옹이1 빵 공장이 들썩들썩",
+      "author": "구도 노리코 글, 그림, 윤수정 옮김",
+      "kdc_from_api": "833.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "우당탕탕 야옹이1 빵 공장이 들썩들썩",
+        "author": "구도 노리코 글, 그림, 윤수정 옮김",
+        "publisher": "책읽는곰",
+        "publish_predate": "20150415",
+        "isbn": "9791185564951",
+        "isbn_add_code": "77830",
+        "set_isbn": "9788996017035",
+        "set_add_code": "77080 ",
+        "set_expression": "",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "작은곰자리",
+        "series_no": "27",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "833.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015008486",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "빵 공장이 들썩들썩 ",
+        "author": "구도 노리코 글·그림 ;윤수정 옮김",
+        "publisher": "책읽는곰",
+        "publish_year": "2015",
+        "isbn": "1185564950",
+        "isbn13": "9791185564951",
+        "isbn_add_code": "77830",
+        "volume": "",
+        "class_no": "833.6",
+        "class_nm": "문학 > 일본문학 > 소설",
+        "description": "작은 곰자리 시리즈 27권, 우당탕탕 고양이 시리즈 1권. 연필로 쓱쓱 낙서한 듯한 작가 특유의 그림과 야옹이들의 작은 움직임 하나도 놓치지 않는 풍부한 의성어와 의태어로 아이들의 마음을 사로잡는다. ‘2013 MOE 그림책 대상’에서 4위를 차지한 작품이기도 하다.",
+        "cover_url": "http://image.aladin.co.kr/product/6060/82/cover/6000855326_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "야옹이",
+            "weight": 9.0
+          },
+          {
+            "word": "공장",
+            "weight": 7.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 7.0
+          },
+          {
+            "word": "말썽쟁이",
+            "weight": 5.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "멍멍이 디럭스",
+            "weight": 3.0
+          },
+          {
+            "word": "펭귄 남매랑 함께 타요",
+            "weight": 3.0
+          },
+          {
+            "word": "빵 공장이 들썩들썩",
+            "weight": 3.0
+          },
+          {
+            "word": "삐악삐악",
+            "weight": 3.0
+          },
+          {
+            "word": "겨울은 어떤 곳이야",
+            "weight": 3.0
+          },
+          {
+            "word": "일본",
+            "weight": 3.0
+          },
+          {
+            "word": "우당탕탕",
+            "weight": 3.0
+          },
+          {
+            "word": "센슈와 웃토",
+            "weight": 3.0
+          },
+          {
+            "word": "우당탕탕 야옹이",
+            "weight": 3.0
+          },
+          {
+            "word": "마르가리타의 모험",
+            "weight": 3.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "씨네",
+            "weight": 2.0
+          },
+          {
+            "word": "모습",
+            "weight": 2.0
+          },
+          {
+            "word": "노릇노릇",
+            "weight": 2.0
+          },
+          {
+            "word": "윤수정  옮긴이",
+            "weight": 2.0
+          },
+          {
+            "word": "구도 노리코",
+            "weight": 2.0
+          },
+          {
+            "word": "기분",
+            "weight": 2.0
+          },
+          {
+            "word": "책읽는곰",
+            "weight": 2.0
+          },
+          {
+            "word": "jp",
+            "weight": 1.0
+          },
+          {
+            "word": "낙서",
+            "weight": 1.0
+          },
+          {
+            "word": "MOE",
+            "weight": 1.0
+          },
+          {
+            "word": "사랑",
+            "weight": 1.0
+          },
+          {
+            "word": "겨울",
+            "weight": 1.0
+          },
+          {
+            "word": "손수건",
+            "weight": 1.0
+          },
+          {
+            "word": "습격",
+            "weight": 1.0
+          },
+          {
+            "word": "사고",
+            "weight": 1.0
+          },
+          {
+            "word": "쓱쓱",
+            "weight": 1.0
+          },
+          {
+            "word": "아이",
+            "weight": 1.0
+          },
+          {
+            "word": "아이들",
+            "weight": 1.0
+          },
+          {
+            "word": "4위를",
+            "weight": 1.0
+          },
+          {
+            "word": "고양이",
+            "weight": 1.0
+          },
+          {
+            "word": "곰자리",
+            "weight": 1.0
+          },
+          {
+            "word": "볼록",
+            "weight": 1.0
+          },
+          {
+            "word": "노란",
+            "weight": 1.0
+          },
+          {
+            "word": "대상",
+            "weight": 1.0
+          },
+          {
+            "word": "대작전",
+            "weight": 1.0
+          },
+          {
+            "word": "동화",
+            "weight": 1.0
+          },
+          {
+            "word": "마음",
+            "weight": 1.0
+          },
+          {
+            "word": "만화",
+            "weight": 1.0
+          },
+          {
+            "word": "만화가",
+            "weight": 1.0
+          },
+          {
+            "word": "그린",
+            "weight": 1.0
+          },
+          {
+            "word": "남매",
+            "weight": 1.0
+          },
+          {
+            "word": "www",
+            "weight": 1.0
+          },
+          {
+            "word": "활발",
+            "weight": 1.0
+          },
+          {
+            "word": "벌이",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "초밥이 빙글빙글 ",
+            "isbn13": "9791158360245",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "기차가 덜컹덜컹 ",
+            "isbn13": "9791158360061",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "아이스크림이 꽁꽁 ",
+            "isbn13": "9791158360986",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "케이크가 커졌어요! ",
+            "isbn13": "9791158362515",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "카레가 보글보글 ",
+            "isbn13": "9791158361884",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "으라차차 라면 가게 ",
+            "isbn13": "9791158363475",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "비행기가 부웅부웅 ",
+            "isbn13": "9791158360511",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "오싹오싹 도깨비 숲 ",
+            "isbn13": "9791158361440",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "시끌벅적 바다 여행 ",
+            "isbn13": "9791158364168",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          },
+          {
+            "bookname": "꼬르륵 꼬르륵 캠핑 ",
+            "isbn13": "9791158364687",
+            "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "우당탕탕 야옹이1 빵 공장이 들썩들썩"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001870357",
+        "title": "빵공장이 들썩들썩",
+        "subtitle": "양장본 Hardcover",
+        "page": "40 p.",
+        "book_size": "220*220mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791185564951",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185564951",
+      "isbn_add_code": "77830",
+      "set_isbn": "9788996017035",
+      "set_add_code": "77080 ",
+      "set_expression": "",
+      "price": "₩11000",
+      "title": "우당탕탕 야옹이1 빵 공장이 들썩들썩",
+      "subtitle": "양장본 Hardcover",
+      "author": "구도 노리코 글, 그림, 윤수정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2015",
+      "publish_predate": "20150415",
+      "kdc": "833.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "작은곰자리",
+      "series_no": "27",
+      "page": "40 p.",
+      "book_size": "220*220mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "작은 곰자리 시리즈 27권, 우당탕탕 고양이 시리즈 1권. 연필로 쓱쓱 낙서한 듯한 작가 특유의 그림과 야옹이들의 작은 움직임 하나도 놓치지 않는 풍부한 의성어와 의태어로 아이들의 마음을 사로잡는다. ‘2013 MOE 그림책 대상’에서 4위를 차지한 작품이기도 하다.",
+      "control_no": "CIP2015008486",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4458337_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "야옹이",
+          "weight": 9.0
+        },
+        {
+          "word": "공장",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 7.0
+        },
+        {
+          "word": "말썽쟁이",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "멍멍이 디럭스",
+          "weight": 3.0
+        },
+        {
+          "word": "펭귄 남매랑 함께 타요",
+          "weight": 3.0
+        },
+        {
+          "word": "빵 공장이 들썩들썩",
+          "weight": 3.0
+        },
+        {
+          "word": "삐악삐악",
+          "weight": 3.0
+        },
+        {
+          "word": "겨울은 어떤 곳이야",
+          "weight": 3.0
+        },
+        {
+          "word": "일본",
+          "weight": 3.0
+        },
+        {
+          "word": "우당탕탕",
+          "weight": 3.0
+        },
+        {
+          "word": "센슈와 웃토",
+          "weight": 3.0
+        },
+        {
+          "word": "우당탕탕 야옹이",
+          "weight": 3.0
+        },
+        {
+          "word": "마르가리타의 모험",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "씨네",
+          "weight": 2.0
+        },
+        {
+          "word": "모습",
+          "weight": 2.0
+        },
+        {
+          "word": "노릇노릇",
+          "weight": 2.0
+        },
+        {
+          "word": "윤수정  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "구도 노리코",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "jp",
+          "weight": 1.0
+        },
+        {
+          "word": "낙서",
+          "weight": 1.0
+        },
+        {
+          "word": "MOE",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "손수건",
+          "weight": 1.0
+        },
+        {
+          "word": "습격",
+          "weight": 1.0
+        },
+        {
+          "word": "사고",
+          "weight": 1.0
+        },
+        {
+          "word": "쓱쓱",
+          "weight": 1.0
+        },
+        {
+          "word": "아이",
+          "weight": 1.0
+        },
+        {
+          "word": "아이들",
+          "weight": 1.0
+        },
+        {
+          "word": "4위를",
+          "weight": 1.0
+        },
+        {
+          "word": "고양이",
+          "weight": 1.0
+        },
+        {
+          "word": "곰자리",
+          "weight": 1.0
+        },
+        {
+          "word": "볼록",
+          "weight": 1.0
+        },
+        {
+          "word": "노란",
+          "weight": 1.0
+        },
+        {
+          "word": "대상",
+          "weight": 1.0
+        },
+        {
+          "word": "대작전",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "마음",
+          "weight": 1.0
+        },
+        {
+          "word": "만화",
+          "weight": 1.0
+        },
+        {
+          "word": "만화가",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "남매",
+          "weight": 1.0
+        },
+        {
+          "word": "www",
+          "weight": 1.0
+        },
+        {
+          "word": "활발",
+          "weight": 1.0
+        },
+        {
+          "word": "벌이",
+          "weight": 1.0
+        }
+      ],
+      "description": "작은 곰자리 시리즈 27권, 우당탕탕 고양이 시리즈 1권. 연필로 쓱쓱 낙서한 듯한 작가 특유의 그림과 야옹이들의 작은 움직임 하나도 놓치지 않는 풍부한 의성어와 의태어로 아이들의 마음을 사로잡는다. ‘2013 MOE 그림책 대상’에서 4위를 차지한 작품이기도 하다.",
+      "co_loan_books": [
+        {
+          "bookname": "초밥이 빙글빙글 ",
+          "isbn13": "9791158360245",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "기차가 덜컹덜컹 ",
+          "isbn13": "9791158360061",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "아이스크림이 꽁꽁 ",
+          "isbn13": "9791158360986",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "케이크가 커졌어요! ",
+          "isbn13": "9791158362515",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "카레가 보글보글 ",
+          "isbn13": "9791158361884",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "으라차차 라면 가게 ",
+          "isbn13": "9791158363475",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "비행기가 부웅부웅 ",
+          "isbn13": "9791158360511",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "오싹오싹 도깨비 숲 ",
+          "isbn13": "9791158361440",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "시끌벅적 바다 여행 ",
+          "isbn13": "9791158364168",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        },
+        {
+          "bookname": "꼬르륵 꼬르륵 캠핑 ",
+          "isbn13": "9791158364687",
+          "authors": "구도 노리코 글·그림 ;윤수정 옮김"
+        }
+      ],
+      "title": "우당탕탕 야옹이1 빵 공장이 들썩들썩",
+      "author": "구도 노리코 글, 그림, 윤수정 옮김",
+      "kdc_from_api": "833.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

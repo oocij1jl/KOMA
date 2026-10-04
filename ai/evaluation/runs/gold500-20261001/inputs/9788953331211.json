@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788953331211",
+  "captured_at": "2026-10-04T00:10:36.693620+09:00",
+  "lookup": {
+    "isbn": "9788953331211",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788953331211",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788953331198",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩8800",
+      "title": "그림으로 보는 그리스 로마 신화",
+      "subtitle": "",
+      "author": "글: 스카이엠 ;오승원",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "(주)계림북스",
+      "publish_year": "2016",
+      "publish_predate": "20160715",
+      "kdc": "219",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 비교종교학 > 신화, 신화학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "184 p.",
+      "book_size": "191*258mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "그리스 로마 신화 1권. 이 책은 그리스 로마 신화를 어린이가 쉽고 재미있게 이해하면서도 방대한 이야기의 맥락까지 잡을 수 있게 도와준다.",
+      "control_no": "CIP2016015546",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "신화",
+          "weight": 65.0
+        },
+        {
+          "word": "그리스",
+          "weight": 32.0
+        },
+        {
+          "word": "로마",
+          "weight": 30.0
+        },
+        {
+          "word": "그림",
+          "weight": 20.0
+        },
+        {
+          "word": "인간",
+          "weight": 19.0
+        },
+        {
+          "word": "어린이",
+          "weight": 19.0
+        },
+        {
+          "word": "제우스",
+          "weight": 14.0
+        },
+        {
+          "word": "다양",
+          "weight": 12.0
+        },
+        {
+          "word": "배움터",
+          "weight": 11.0
+        },
+        {
+          "word": "사랑",
+          "weight": 10.0
+        },
+        {
+          "word": "카드",
+          "weight": 9.0
+        },
+        {
+          "word": "세상",
+          "weight": 9.0
+        },
+        {
+          "word": "영웅",
+          "weight": 9.0
+        },
+        {
+          "word": "인문학",
+          "weight": 8.0
+        },
+        {
+          "word": "이해",
+          "weight": 8.0
+        },
+        {
+          "word": "여신",
+          "weight": 8.0
+        },
+        {
+          "word": "시대",
+          "weight": 8.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 7.0
+        },
+        {
+          "word": "고전",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이터",
+          "weight": 7.0
+        },
+        {
+          "word": "창의력",
+          "weight": 6.0
+        },
+        {
+          "word": "생생",
+          "weight": 6.0
+        },
+        {
+          "word": "상상력",
+          "weight": 6.0
+        },
+        {
+          "word": "처음",
+          "weight": 6.0
+        },
+        {
+          "word": "바다",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 5.0
+        },
+        {
+          "word": "교육",
+          "weight": 5.0
+        },
+        {
+          "word": "하늘",
+          "weight": 5.0
+        },
+        {
+          "word": "헤라클레스",
+          "weight": 5.0
+        },
+        {
+          "word": "융합",
+          "weight": 5.0
+        },
+        {
+          "word": "신의",
+          "weight": 5.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 5.0
+        },
+        {
+          "word": "등장인물",
+          "weight": 5.0
+        },
+        {
+          "word": "보세",
+          "weight": 5.0
+        },
+        {
+          "word": "올림포스",
+          "weight": 5.0
+        },
+        {
+          "word": "왕비",
+          "weight": 5.0
+        },
+        {
+          "word": "게임",
+          "weight": 4.0
+        },
+        {
+          "word": "모험",
+          "weight": 4.0
+        },
+        {
+          "word": "형제",
+          "weight": 4.0
+        },
+        {
+          "word": "우라노스",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "코너",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "지식",
+          "weight": 4.0
+        },
+        {
+          "word": "흥미",
+          "weight": 4.0
+        },
+        {
+          "word": "티탄",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 3.0
+        }
+      ],
+      "description": "그리스 로마 신화 1권. 이 책은 그리스 로마 신화를 어린이가 쉽고 재미있게 이해하면서도 방대한 이야기의 맥락까지 잡을 수 있게 도와준다.",
+      "co_loan_books": [
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331228",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331235",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331242",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331259",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135226",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791195794799",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135851",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "그림으로 보는 그리스 로마 신화",
+      "author": "글: 스카이엠 ;오승원",
+      "kdc_from_api": "219",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "그림으로 보는 그리스 로마 신화",
+        "author": "스카이엠",
+        "publisher": "(주)계림북스",
+        "publish_predate": "20160715",
+        "isbn": "9788953331211",
+        "isbn_add_code": "74800",
+        "set_isbn": "9788953331198",
+        "set_add_code": "74800 ",
+        "set_expression": "",
+        "price": "₩8800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1",
+        "page": "184",
+        "book_size": "",
+        "form": "",
+        "kdc": "219",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016015546",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+        "author": "글: 스카이엠 ;오승원",
+        "publisher": "계림북스",
+        "publish_year": "2016",
+        "isbn": "8953331218",
+        "isbn13": "9788953331211",
+        "isbn_add_code": "74800",
+        "volume": "1",
+        "class_no": "219",
+        "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+        "description": "그리스 로마 신화 1권. 이 책은 그리스 로마 신화를 어린이가 쉽고 재미있게 이해하면서도 방대한 이야기의 맥락까지 잡을 수 있게 도와준다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/108/343/10834381.jpg?type=m1&udate=20160829"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "신화",
+            "weight": 65.0
+          },
+          {
+            "word": "그리스",
+            "weight": 32.0
+          },
+          {
+            "word": "로마",
+            "weight": 30.0
+          },
+          {
+            "word": "그림",
+            "weight": 20.0
+          },
+          {
+            "word": "인간",
+            "weight": 19.0
+          },
+          {
+            "word": "어린이",
+            "weight": 19.0
+          },
+          {
+            "word": "제우스",
+            "weight": 14.0
+          },
+          {
+            "word": "다양",
+            "weight": 12.0
+          },
+          {
+            "word": "배움터",
+            "weight": 11.0
+          },
+          {
+            "word": "사랑",
+            "weight": 10.0
+          },
+          {
+            "word": "카드",
+            "weight": 9.0
+          },
+          {
+            "word": "세상",
+            "weight": 9.0
+          },
+          {
+            "word": "영웅",
+            "weight": 9.0
+          },
+          {
+            "word": "인문학",
+            "weight": 8.0
+          },
+          {
+            "word": "이해",
+            "weight": 8.0
+          },
+          {
+            "word": "여신",
+            "weight": 8.0
+          },
+          {
+            "word": "시대",
+            "weight": 8.0
+          },
+          {
+            "word": "전쟁",
+            "weight": 7.0
+          },
+          {
+            "word": "고전",
+            "weight": 7.0
+          },
+          {
+            "word": "놀이터",
+            "weight": 7.0
+          },
+          {
+            "word": "창의력",
+            "weight": 6.0
+          },
+          {
+            "word": "생생",
+            "weight": 6.0
+          },
+          {
+            "word": "상상력",
+            "weight": 6.0
+          },
+          {
+            "word": "처음",
+            "weight": 6.0
+          },
+          {
+            "word": "바다",
+            "weight": 6.0
+          },
+          {
+            "word": "역사",
+            "weight": 5.0
+          },
+          {
+            "word": "교육",
+            "weight": 5.0
+          },
+          {
+            "word": "하늘",
+            "weight": 5.0
+          },
+          {
+            "word": "헤라클레스",
+            "weight": 5.0
+          },
+          {
+            "word": "융합",
+            "weight": 5.0
+          },
+          {
+            "word": "신의",
+            "weight": 5.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 5.0
+          },
+          {
+            "word": "등장인물",
+            "weight": 5.0
+          },
+          {
+            "word": "보세",
+            "weight": 5.0
+          },
+          {
+            "word": "올림포스",
+            "weight": 5.0
+          },
+          {
+            "word": "왕비",
+            "weight": 5.0
+          },
+          {
+            "word": "게임",
+            "weight": 4.0
+          },
+          {
+            "word": "모험",
+            "weight": 4.0
+          },
+          {
+            "word": "형제",
+            "weight": 4.0
+          },
+          {
+            "word": "우라노스",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 4.0
+          },
+          {
+            "word": "눈높이",
+            "weight": 4.0
+          },
+          {
+            "word": "철학",
+            "weight": 4.0
+          },
+          {
+            "word": "코너",
+            "weight": 4.0
+          },
+          {
+            "word": "모습",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "지식",
+            "weight": 4.0
+          },
+          {
+            "word": "흥미",
+            "weight": 4.0
+          },
+          {
+            "word": "티탄",
+            "weight": 4.0
+          },
+          {
+            "word": "문학",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+            "isbn13": "9788953331228",
+            "authors": "글: 스카이엠 ;오승원"
+          },
+          {
+            "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+            "isbn13": "9788953331235",
+            "authors": "글: 스카이엠 ;오승원"
+          },
+          {
+            "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+            "isbn13": "9788953331242",
+            "authors": "글: 스카이엠 ;오승원"
+          },
+          {
+            "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+            "isbn13": "9788953331259",
+            "authors": "글: 스카이엠 ;오승원"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164135226",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "설민석의 한국사 대모험",
+            "isbn13": "9791195794799",
+            "authors": "글: 설민석,그림: 정현희"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447861",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+            "isbn13": "9791164135851",
+            "authors": "글: 최설희 ;그림: 한현동"
+          },
+          {
+            "bookname": "장군이네 떡집 ",
+            "isbn13": "9788949162041",
+            "authors": "김리리 글 ;이승현 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "그림으로 보는 그리스 로마 신화 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000761972",
+        "title": "그림으로 보는 그리스 로마 신화 1: 올림포스 시대",
+        "subtitle": "",
+        "page": "184 p.",
+        "book_size": "191*258mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788953331211",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788953331211",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788953331198",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩8800",
+      "title": "그림으로 보는 그리스 로마 신화",
+      "subtitle": "",
+      "author": "글: 스카이엠 ;오승원",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "(주)계림북스",
+      "publish_year": "2016",
+      "publish_predate": "20160715",
+      "kdc": "219",
+      "kdc_edition": "",
+      "kdc_name": "종교 > 비교종교학 > 신화, 신화학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "184 p.",
+      "book_size": "191*258mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "그리스 로마 신화 1권. 이 책은 그리스 로마 신화를 어린이가 쉽고 재미있게 이해하면서도 방대한 이야기의 맥락까지 잡을 수 있게 도와준다.",
+      "control_no": "CIP2016015546",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5566742_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "신화",
+          "weight": 65.0
+        },
+        {
+          "word": "그리스",
+          "weight": 32.0
+        },
+        {
+          "word": "로마",
+          "weight": 30.0
+        },
+        {
+          "word": "그림",
+          "weight": 20.0
+        },
+        {
+          "word": "인간",
+          "weight": 19.0
+        },
+        {
+          "word": "어린이",
+          "weight": 19.0
+        },
+        {
+          "word": "제우스",
+          "weight": 14.0
+        },
+        {
+          "word": "다양",
+          "weight": 12.0
+        },
+        {
+          "word": "배움터",
+          "weight": 11.0
+        },
+        {
+          "word": "사랑",
+          "weight": 10.0
+        },
+        {
+          "word": "카드",
+          "weight": 9.0
+        },
+        {
+          "word": "세상",
+          "weight": 9.0
+        },
+        {
+          "word": "영웅",
+          "weight": 9.0
+        },
+        {
+          "word": "인문학",
+          "weight": 8.0
+        },
+        {
+          "word": "이해",
+          "weight": 8.0
+        },
+        {
+          "word": "여신",
+          "weight": 8.0
+        },
+        {
+          "word": "시대",
+          "weight": 8.0
+        },
+        {
+          "word": "전쟁",
+          "weight": 7.0
+        },
+        {
+          "word": "고전",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이터",
+          "weight": 7.0
+        },
+        {
+          "word": "창의력",
+          "weight": 6.0
+        },
+        {
+          "word": "생생",
+          "weight": 6.0
+        },
+        {
+          "word": "상상력",
+          "weight": 6.0
+        },
+        {
+          "word": "처음",
+          "weight": 6.0
+        },
+        {
+          "word": "바다",
+          "weight": 6.0
+        },
+        {
+          "word": "역사",
+          "weight": 5.0
+        },
+        {
+          "word": "교육",
+          "weight": 5.0
+        },
+        {
+          "word": "하늘",
+          "weight": 5.0
+        },
+        {
+          "word": "헤라클레스",
+          "weight": 5.0
+        },
+        {
+          "word": "융합",
+          "weight": 5.0
+        },
+        {
+          "word": "신의",
+          "weight": 5.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 5.0
+        },
+        {
+          "word": "등장인물",
+          "weight": 5.0
+        },
+        {
+          "word": "보세",
+          "weight": 5.0
+        },
+        {
+          "word": "올림포스",
+          "weight": 5.0
+        },
+        {
+          "word": "왕비",
+          "weight": 5.0
+        },
+        {
+          "word": "게임",
+          "weight": 4.0
+        },
+        {
+          "word": "모험",
+          "weight": 4.0
+        },
+        {
+          "word": "형제",
+          "weight": 4.0
+        },
+        {
+          "word": "우라노스",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 4.0
+        },
+        {
+          "word": "눈높이",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "코너",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "지식",
+          "weight": 4.0
+        },
+        {
+          "word": "흥미",
+          "weight": 4.0
+        },
+        {
+          "word": "티탄",
+          "weight": 4.0
+        },
+        {
+          "word": "문학",
+          "weight": 3.0
+        }
+      ],
+      "description": "그리스 로마 신화 1권. 이 책은 그리스 로마 신화를 어린이가 쉽고 재미있게 이해하면서도 방대한 이야기의 맥락까지 잡을 수 있게 도와준다.",
+      "co_loan_books": [
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331228",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331235",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331242",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(그림으로 보는) 그리스 로마 신화 :어린이 처음 인문학 ",
+          "isbn13": "9788953331259",
+          "authors": "글: 스카이엠 ;오승원"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135226",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "설민석의 한국사 대모험",
+          "isbn13": "9791195794799",
+          "authors": "글: 설민석,그림: 정현희"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "(처음 읽는) 그리스 로마 신화 =First Greek mythology",
+          "isbn13": "9791164135851",
+          "authors": "글: 최설희 ;그림: 한현동"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "그림으로 보는 그리스 로마 신화",
+      "author": "글: 스카이엠 ;오승원",
+      "kdc_from_api": "219",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791197325892",
+  "captured_at": "2026-10-02T00:10:59.051358+09:00",
+  "lookup": {
+    "isbn": "9791197325892",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197325892",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "음악소설집",
+      "subtitle": "",
+      "author": "지은이: 김애란,김연수,윤성희,은희경,편혜영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Franz(프란츠)",
+      "publish_year": "2024",
+      "publish_predate": "20240626",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "271 p.",
+      "book_size": "123*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/34130/64/cover200/k222931917_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "음악",
+          "weight": 18.0
+        },
+        {
+          "word": "순간",
+          "weight": 9.0
+        },
+        {
+          "word": "음악소설집",
+          "weight": 8.0
+        },
+        {
+          "word": "프란츠",
+          "weight": 6.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 5.0
+        },
+        {
+          "word": "김애란",
+          "weight": 5.0
+        },
+        {
+          "word": "일상",
+          "weight": 5.0
+        },
+        {
+          "word": "김연수",
+          "weight": 5.0
+        },
+        {
+          "word": "편혜영",
+          "weight": 4.0
+        },
+        {
+          "word": "은희경",
+          "weight": 4.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "윤성희",
+          "weight": 4.0
+        },
+        {
+          "word": "이토록 평범한 미래",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 유령작가입니다",
+          "weight": 3.0
+        },
+        {
+          "word": "내가 아직 아이였을 때",
+          "weight": 3.0
+        },
+        {
+          "word": "너무나 많은 여름이",
+          "weight": 3.0
+        },
+        {
+          "word": "네가 누구든 얼마나 외롭든",
+          "weight": 3.0
+        },
+        {
+          "word": "소설가의 일",
+          "weight": 3.0
+        },
+        {
+          "word": "테마",
+          "weight": 3.0
+        },
+        {
+          "word": "파도가 바다의 일이라면",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕이라 그랬어",
+          "weight": 3.0
+        },
+        {
+          "word": "세계의 끝 여자친구",
+          "weight": 3.0
+        },
+        {
+          "word": "사월의 미 칠월의 솔",
+          "weight": 3.0
+        },
+        {
+          "word": "원더보이",
+          "weight": 3.0
+        },
+        {
+          "word": "일곱 해의 마지막",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘의 문장들",
+          "weight": 3.0
+        },
+        {
+          "word": "7번국도  Revisited",
+          "weight": 3.0
+        },
+        {
+          "word": "시절일기",
+          "weight": 3.0
+        },
+        {
+          "word": "밤은 노래한다",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "ㄲㅜㄷ빠이 이상",
+          "weight": 3.0
+        },
+        {
+          "word": "감각",
+          "weight": 3.0
+        },
+        {
+          "word": "수면 위로",
+          "weight": 3.0
+        },
+        {
+          "word": "스무 살",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑이라니 선영아",
+          "weight": 3.0
+        },
+        {
+          "word": "무음",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 2.0
+        },
+        {
+          "word": "연주자",
+          "weight": 2.0
+        },
+        {
+          "word": "버스",
+          "weight": 2.0
+        },
+        {
+          "word": "박자",
+          "weight": 2.0
+        },
+        {
+          "word": "명의",
+          "weight": 2.0
+        },
+        {
+          "word": "마음에",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "音樂小說集",
+          "weight": 2.0
+        },
+        {
+          "word": "실리",
+          "weight": 2.0
+        },
+        {
+          "word": "이번",
+          "weight": 2.0
+        },
+        {
+          "word": "공연장",
+          "weight": 2.0
+        },
+        {
+          "word": "훗날",
+          "weight": 2.0
+        },
+        {
+          "word": "리듬",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        }
+      ],
+      "description": "음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "isbn13": "9791141601300",
+          "authors": "지은이: 김애란"
+        },
+        {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "isbn13": "9788954697941",
+          "authors": "지은이: 김기태"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "isbn13": "9788936439651",
+          "authors": "지은이: 김금희"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "각각의 계절 :권여선 소설 ",
+          "isbn13": "9788954692526",
+          "authors": "지은이: 권여선"
+        },
+        {
+          "bookname": "두고 온 여름 :성해나 소설 ",
+          "isbn13": "9788936439002",
+          "authors": "지은이: 성해나"
+        }
+      ],
+      "title": "음악소설집",
+      "author": "지은이: 김애란,김연수,윤성희,은희경,편혜영",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "음악소설집",
+        "author": "지은이: 김애란,김연수,윤성희,은희경,편혜영",
+        "publisher": "Franz(프란츠)",
+        "publish_predate": "20240626",
+        "isbn": "9791197325892",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩18000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "0",
+        "volume": "",
+        "page": "271 p.",
+        "book_size": "123*200",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "음악소설집 ",
+        "author": "지은이: 김애란,편혜영",
+        "publisher": "Franz(프란츠)",
+        "publish_year": "2024",
+        "isbn": "1197325891",
+        "isbn13": "9791197325892",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.",
+        "cover_url": "https://image.aladin.co.kr/product/34130/64/cover200/k222931917_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "음악",
+            "weight": 18.0
+          },
+          {
+            "word": "순간",
+            "weight": 9.0
+          },
+          {
+            "word": "음악소설집",
+            "weight": 8.0
+          },
+          {
+            "word": "프란츠",
+            "weight": 6.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 5.0
+          },
+          {
+            "word": "김애란",
+            "weight": 5.0
+          },
+          {
+            "word": "일상",
+            "weight": 5.0
+          },
+          {
+            "word": "김연수",
+            "weight": 5.0
+          },
+          {
+            "word": "편혜영",
+            "weight": 4.0
+          },
+          {
+            "word": "은희경",
+            "weight": 4.0
+          },
+          {
+            "word": "기억",
+            "weight": 4.0
+          },
+          {
+            "word": "윤성희",
+            "weight": 4.0
+          },
+          {
+            "word": "이토록 평범한 미래",
+            "weight": 3.0
+          },
+          {
+            "word": "나는 유령작가입니다",
+            "weight": 3.0
+          },
+          {
+            "word": "내가 아직 아이였을 때",
+            "weight": 3.0
+          },
+          {
+            "word": "너무나 많은 여름이",
+            "weight": 3.0
+          },
+          {
+            "word": "네가 누구든 얼마나 외롭든",
+            "weight": 3.0
+          },
+          {
+            "word": "소설가의 일",
+            "weight": 3.0
+          },
+          {
+            "word": "테마",
+            "weight": 3.0
+          },
+          {
+            "word": "파도가 바다의 일이라면",
+            "weight": 3.0
+          },
+          {
+            "word": "안녕이라 그랬어",
+            "weight": 3.0
+          },
+          {
+            "word": "세계의 끝 여자친구",
+            "weight": 3.0
+          },
+          {
+            "word": "사월의 미 칠월의 솔",
+            "weight": 3.0
+          },
+          {
+            "word": "원더보이",
+            "weight": 3.0
+          },
+          {
+            "word": "일곱 해의 마지막",
+            "weight": 3.0
+          },
+          {
+            "word": "청춘의 문장들",
+            "weight": 3.0
+          },
+          {
+            "word": "7번국도  Revisited",
+            "weight": 3.0
+          },
+          {
+            "word": "시절일기",
+            "weight": 3.0
+          },
+          {
+            "word": "밤은 노래한다",
+            "weight": 3.0
+          },
+          {
+            "word": "이유",
+            "weight": 3.0
+          },
+          {
+            "word": "ㄲㅜㄷ빠이 이상",
+            "weight": 3.0
+          },
+          {
+            "word": "감각",
+            "weight": 3.0
+          },
+          {
+            "word": "수면 위로",
+            "weight": 3.0
+          },
+          {
+            "word": "스무 살",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑이라니 선영아",
+            "weight": 3.0
+          },
+          {
+            "word": "무음",
+            "weight": 2.0
+          },
+          {
+            "word": "여름",
+            "weight": 2.0
+          },
+          {
+            "word": "연주자",
+            "weight": 2.0
+          },
+          {
+            "word": "버스",
+            "weight": 2.0
+          },
+          {
+            "word": "박자",
+            "weight": 2.0
+          },
+          {
+            "word": "명의",
+            "weight": 2.0
+          },
+          {
+            "word": "마음에",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "音樂小說集",
+            "weight": 2.0
+          },
+          {
+            "word": "실리",
+            "weight": 2.0
+          },
+          {
+            "word": "이번",
+            "weight": 2.0
+          },
+          {
+            "word": "공연장",
+            "weight": 2.0
+          },
+          {
+            "word": "훗날",
+            "weight": 2.0
+          },
+          {
+            "word": "리듬",
+            "weight": 2.0
+          },
+          {
+            "word": "마음",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+            "isbn13": "9791141601300",
+            "authors": "지은이: 김애란"
+          },
+          {
+            "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+            "isbn13": "9788954697941",
+            "authors": "지은이: 김기태"
+          },
+          {
+            "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+            "isbn13": "9788954695053",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+            "isbn13": "9788936439651",
+            "authors": "지은이: 김금희"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "눈부신 안부 :백수린 장편소설 ",
+            "isbn13": "9788954699372",
+            "authors": "지은이: 백수린"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+            "isbn13": "9791130698199",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+          },
+          {
+            "bookname": "각각의 계절 :권여선 소설 ",
+            "isbn13": "9788954692526",
+            "authors": "지은이: 권여선"
+          },
+          {
+            "bookname": "두고 온 여름 :성해나 소설 ",
+            "isbn13": "9788936439002",
+            "authors": "지은이: 성해나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "음악소설집"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000213662853",
+        "title": "음악소설집",
+        "subtitle": "",
+        "page": "271 p.",
+        "book_size": "123*200mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791197325892",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197325892",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩18000",
+      "title": "음악소설집",
+      "subtitle": "",
+      "author": "지은이: 김애란,김연수,윤성희,은희경,편혜영",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Franz(프란츠)",
+      "publish_year": "2024",
+      "publish_predate": "20240626",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "271 p.",
+      "book_size": "123*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/34130/64/cover200/k222931917_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "음악",
+          "weight": 18.0
+        },
+        {
+          "word": "순간",
+          "weight": 9.0
+        },
+        {
+          "word": "음악소설집",
+          "weight": 8.0
+        },
+        {
+          "word": "프란츠",
+          "weight": 6.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 5.0
+        },
+        {
+          "word": "김애란",
+          "weight": 5.0
+        },
+        {
+          "word": "일상",
+          "weight": 5.0
+        },
+        {
+          "word": "김연수",
+          "weight": 5.0
+        },
+        {
+          "word": "편혜영",
+          "weight": 4.0
+        },
+        {
+          "word": "은희경",
+          "weight": 4.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "윤성희",
+          "weight": 4.0
+        },
+        {
+          "word": "이토록 평범한 미래",
+          "weight": 3.0
+        },
+        {
+          "word": "나는 유령작가입니다",
+          "weight": 3.0
+        },
+        {
+          "word": "내가 아직 아이였을 때",
+          "weight": 3.0
+        },
+        {
+          "word": "너무나 많은 여름이",
+          "weight": 3.0
+        },
+        {
+          "word": "네가 누구든 얼마나 외롭든",
+          "weight": 3.0
+        },
+        {
+          "word": "소설가의 일",
+          "weight": 3.0
+        },
+        {
+          "word": "테마",
+          "weight": 3.0
+        },
+        {
+          "word": "파도가 바다의 일이라면",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕이라 그랬어",
+          "weight": 3.0
+        },
+        {
+          "word": "세계의 끝 여자친구",
+          "weight": 3.0
+        },
+        {
+          "word": "사월의 미 칠월의 솔",
+          "weight": 3.0
+        },
+        {
+          "word": "원더보이",
+          "weight": 3.0
+        },
+        {
+          "word": "일곱 해의 마지막",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘의 문장들",
+          "weight": 3.0
+        },
+        {
+          "word": "7번국도  Revisited",
+          "weight": 3.0
+        },
+        {
+          "word": "시절일기",
+          "weight": 3.0
+        },
+        {
+          "word": "밤은 노래한다",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "ㄲㅜㄷ빠이 이상",
+          "weight": 3.0
+        },
+        {
+          "word": "감각",
+          "weight": 3.0
+        },
+        {
+          "word": "수면 위로",
+          "weight": 3.0
+        },
+        {
+          "word": "스무 살",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑이라니 선영아",
+          "weight": 3.0
+        },
+        {
+          "word": "무음",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 2.0
+        },
+        {
+          "word": "연주자",
+          "weight": 2.0
+        },
+        {
+          "word": "버스",
+          "weight": 2.0
+        },
+        {
+          "word": "박자",
+          "weight": 2.0
+        },
+        {
+          "word": "명의",
+          "weight": 2.0
+        },
+        {
+          "word": "마음에",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "音樂小說集",
+          "weight": 2.0
+        },
+        {
+          "word": "실리",
+          "weight": 2.0
+        },
+        {
+          "word": "이번",
+          "weight": 2.0
+        },
+        {
+          "word": "공연장",
+          "weight": 2.0
+        },
+        {
+          "word": "훗날",
+          "weight": 2.0
+        },
+        {
+          "word": "리듬",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        }
+      ],
+      "description": "음악 전문 출판사 ‘프란츠’가 선보이는 첫 소설 앤솔러지 『음악소설집音樂小說集』. 한국문학을 대표하는 다섯 소설가인 김애란, 김연수, 윤성희, 은희경, 편혜영의 음악을 테마로 한 신작 단편소설이 실렸다. 일상에서 마주치는 다채로운 음악의 장면들을 섬세하게 포착한 다섯 개의 이야기를 통해, 삶의 어떤 순간이라도 음악이 될 수 있다는 것을 깨닫게 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "isbn13": "9791141601300",
+          "authors": "지은이: 김애란"
+        },
+        {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "isbn13": "9788954697941",
+          "authors": "지은이: 김기태"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "isbn13": "9788936439651",
+          "authors": "지은이: 김금희"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "각각의 계절 :권여선 소설 ",
+          "isbn13": "9788954692526",
+          "authors": "지은이: 권여선"
+        },
+        {
+          "bookname": "두고 온 여름 :성해나 소설 ",
+          "isbn13": "9788936439002",
+          "authors": "지은이: 성해나"
+        }
+      ],
+      "title": "음악소설집",
+      "author": "지은이: 김애란,김연수,윤성희,은희경,편혜영",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

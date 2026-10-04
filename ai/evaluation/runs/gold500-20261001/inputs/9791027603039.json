@@ -1,0 +1,447 @@
+{
+  "isbn": "9791027603039",
+  "captured_at": "2026-10-03T00:16:46.683365+09:00",
+  "lookup": {
+    "isbn": "9791027603039",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791027603039",
+      "isbn_add_code": "",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(The) ultimate book of airplanes and airports ",
+      "subtitle": "LTF POP /E",
+      "author": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Twirl",
+      "publish_year": "2017",
+      "publish_predate": "",
+      "kdc": "558.3",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "18 p.",
+      "book_size": "254*333mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "The Ultimate series is a worldwide success because it offers readers an intriguing close-up view of their subject with lots of opportunity for hands-on interaction with flaps, tabs, pop-ups, and more! What better subject than airplanes and airports, endlessly fascinating to... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/10047/64/cover/f592536773_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "The Ultimate series is a worldwide success because it offers readers an intriguing close-up view of their subject with lots of opportunity for hands-on interaction with flaps, tabs, pop-ups, and more! What better subject than airplanes and airports, endlessly fascinating to... ",
+      "co_loan_books": [
+        {
+          "bookname": "The Ultimate Book of Vehicles: From Around the World (Hardcover) - From Around the World",
+          "isbn13": "9782848019420",
+          "authors": "안 소피 보만, 디디에 발리세빅 (지은이)"
+        },
+        {
+          "bookname": "(The) ultimate book of cities ",
+          "isbn13": "9791027600793",
+          "authors": "Anne-Sophie Baumann ;[English translation by Samantha Steele]"
+        },
+        {
+          "bookname": "The Ultimate Construction Site Book (Hardcover)",
+          "isbn13": "9782848019840",
+          "authors": "디디에 발리세빅 (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Space (Hardcover)",
+          "isbn13": "9791027601974",
+          "authors": "안 소피 보만 (지은이), Olivier Latyck (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Planet Earth (Hardcover)",
+          "isbn13": "9791027605620",
+          "authors": "안 소피 보만 (지은이), 디디에 발리세빅 (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Horses (Hardcover)",
+          "isbn13": "9791036313592",
+          "authors": "Sandra Laboucarie (지은이), Helene Convert (그림)"
+        },
+        {
+          "bookname": "Savanna animals ",
+          "isbn13": "9791027607044",
+          "authors": "by Sophie Dussaussois ;[English translation by Wendeline A, Hardenberg]"
+        },
+        {
+          "bookname": "Firefighters ",
+          "isbn13": "9791027604272",
+          "authors": "by Anne-Sophie Baumann ;illustrated by Benjamin Bécue"
+        },
+        {
+          "bookname": "Astronauts ",
+          "isbn13": "9791027607037",
+          "authors": "by Sophie Dussaussois ;[English translation by Wendeline A. Hardenberg]"
+        },
+        {
+          "bookname": "Creepy carrots! ",
+          "isbn13": "9781442402973",
+          "authors": "words Aaron Reynolds ;pictures Peter Brown"
+        }
+      ],
+      "title": "(The) ultimate book of airplanes and airports ",
+      "author": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+      "kdc_from_api": "558.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(The) ultimate book of airplanes and airports ",
+        "author": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+        "publisher": "Twirl",
+        "publish_year": "2017",
+        "isbn": "1027603033",
+        "isbn13": "9791027603039",
+        "isbn_add_code": "",
+        "volume": "",
+        "class_no": "558.3",
+        "class_nm": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+        "description": "The Ultimate series is a worldwide success because it offers readers an intriguing close-up view of their subject with lots of opportunity for hands-on interaction with flaps, tabs, pop-ups, and more! What better subject than airplanes and airports, endlessly fascinating to... ",
+        "cover_url": "https://image.aladin.co.kr/product/10047/64/cover/f592536773_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": false,
+        "keywords": []
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "The Ultimate Book of Vehicles: From Around the World (Hardcover) - From Around the World",
+            "isbn13": "9782848019420",
+            "authors": "안 소피 보만, 디디에 발리세빅 (지은이)"
+          },
+          {
+            "bookname": "(The) ultimate book of cities ",
+            "isbn13": "9791027600793",
+            "authors": "Anne-Sophie Baumann ;[English translation by Samantha Steele]"
+          },
+          {
+            "bookname": "The Ultimate Construction Site Book (Hardcover)",
+            "isbn13": "9782848019840",
+            "authors": "디디에 발리세빅 (그림)"
+          },
+          {
+            "bookname": "The Ultimate Book of Space (Hardcover)",
+            "isbn13": "9791027601974",
+            "authors": "안 소피 보만 (지은이), Olivier Latyck (그림)"
+          },
+          {
+            "bookname": "The Ultimate Book of Planet Earth (Hardcover)",
+            "isbn13": "9791027605620",
+            "authors": "안 소피 보만 (지은이), 디디에 발리세빅 (그림)"
+          },
+          {
+            "bookname": "The Ultimate Book of Horses (Hardcover)",
+            "isbn13": "9791036313592",
+            "authors": "Sandra Laboucarie (지은이), Helene Convert (그림)"
+          },
+          {
+            "bookname": "Savanna animals ",
+            "isbn13": "9791027607044",
+            "authors": "by Sophie Dussaussois ;[English translation by Wendeline A, Hardenberg]"
+          },
+          {
+            "bookname": "Firefighters ",
+            "isbn13": "9791027604272",
+            "authors": "by Anne-Sophie Baumann ;illustrated by Benjamin Bécue"
+          },
+          {
+            "bookname": "Astronauts ",
+            "isbn13": "9791027607037",
+            "authors": "by Sophie Dussaussois ;[English translation by Wendeline A. Hardenberg]"
+          },
+          {
+            "bookname": "Creepy carrots! ",
+            "isbn13": "9781442402973",
+            "authors": "words Aaron Reynolds ;pictures Peter Brown"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000003943918",
+        "title": "The Ultimate Book of Airplanes and Airports",
+        "subtitle": "LTF POP /E",
+        "page": "18 p.",
+        "book_size": "254*333mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791027603039",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791027603039",
+      "isbn_add_code": "",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "(The) ultimate book of airplanes and airports ",
+      "subtitle": "LTF POP /E",
+      "author": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Twirl",
+      "publish_year": "2017",
+      "publish_predate": "",
+      "kdc": "558.3",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 기계공학 > 항공우주공학, 우주항법학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "18 p.",
+      "book_size": "254*333mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "The Ultimate series is a worldwide success because it offers readers an intriguing close-up view of their subject with lots of opportunity for hands-on interaction with flaps, tabs, pop-ups, and more! What better subject than airplanes and airports, endlessly fascinating to... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/10047/64/cover/f592536773_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "title": "d4l",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [],
+      "description": "The Ultimate series is a worldwide success because it offers readers an intriguing close-up view of their subject with lots of opportunity for hands-on interaction with flaps, tabs, pop-ups, and more! What better subject than airplanes and airports, endlessly fascinating to... ",
+      "co_loan_books": [
+        {
+          "bookname": "The Ultimate Book of Vehicles: From Around the World (Hardcover) - From Around the World",
+          "isbn13": "9782848019420",
+          "authors": "안 소피 보만, 디디에 발리세빅 (지은이)"
+        },
+        {
+          "bookname": "(The) ultimate book of cities ",
+          "isbn13": "9791027600793",
+          "authors": "Anne-Sophie Baumann ;[English translation by Samantha Steele]"
+        },
+        {
+          "bookname": "The Ultimate Construction Site Book (Hardcover)",
+          "isbn13": "9782848019840",
+          "authors": "디디에 발리세빅 (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Space (Hardcover)",
+          "isbn13": "9791027601974",
+          "authors": "안 소피 보만 (지은이), Olivier Latyck (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Planet Earth (Hardcover)",
+          "isbn13": "9791027605620",
+          "authors": "안 소피 보만 (지은이), 디디에 발리세빅 (그림)"
+        },
+        {
+          "bookname": "The Ultimate Book of Horses (Hardcover)",
+          "isbn13": "9791036313592",
+          "authors": "Sandra Laboucarie (지은이), Helene Convert (그림)"
+        },
+        {
+          "bookname": "Savanna animals ",
+          "isbn13": "9791027607044",
+          "authors": "by Sophie Dussaussois ;[English translation by Wendeline A, Hardenberg]"
+        },
+        {
+          "bookname": "Firefighters ",
+          "isbn13": "9791027604272",
+          "authors": "by Anne-Sophie Baumann ;illustrated by Benjamin Bécue"
+        },
+        {
+          "bookname": "Astronauts ",
+          "isbn13": "9791027607037",
+          "authors": "by Sophie Dussaussois ;[English translation by Wendeline A. Hardenberg]"
+        },
+        {
+          "bookname": "Creepy carrots! ",
+          "isbn13": "9781442402973",
+          "authors": "words Aaron Reynolds ;pictures Peter Brown"
+        }
+      ],
+      "title": "(The) ultimate book of airplanes and airports ",
+      "author": "by Sophie Bordet-Petillon ;[English translation by Samantha Steele]",
+      "kdc_from_api": "558.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": false,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791158360375",
+  "captured_at": "2026-10-05T00:11:10.820446+09:00",
+  "lookup": {
+    "isbn": "9791158360375",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158360375",
+      "isbn_add_code": "77810",
+      "set_isbn": "9788993242300",
+      "set_add_code": "77810 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "알사탕",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "백희나",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2017",
+      "publish_predate": "20170325",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "그림책이 참 좋아",
+      "series_no": "039",
+      "page": "376 p.",
+      "book_size": "250*250mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "그림책이 참 좋아 39권. 동동이는 오늘도 친구들이 먼저 말 걸어 주기를 바라며 놀이터 한구석에서 구슬치기를 한다. 그런데 친구들은 구슬치기에도 동동이에게도 별 관심이 없는 듯하다. ‘혼자 노는 것도 나쁘지 않다’며 애써 태연한 척해 보지만….",
+      "control_no": "CIP2017005028",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "장수탕 선녀님",
+          "weight": 9.0
+        },
+        {
+          "word": "알사탕",
+          "weight": 7.0
+        },
+        {
+          "word": "백희나",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 3.0
+        },
+        {
+          "word": "이상한 엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "구름빵",
+          "weight": 3.0
+        },
+        {
+          "word": "삐약이 엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "꿈에서 맛본 똥파리",
+          "weight": 3.0
+        },
+        {
+          "word": "나랑 같이 놀래",
+          "weight": 3.0
+        },
+        {
+          "word": "달 샤베트",
+          "weight": 3.0
+        },
+        {
+          "word": "팥죽 할멈과 호랑이",
+          "weight": 3.0
+        },
+        {
+          "word": "마법",
+          "weight": 3.0
+        },
+        {
+          "word": "어제저녁",
+          "weight": 3.0
+        },
+        {
+          "word": "북풍을 찾아간 소년",
+          "weight": 3.0
+        },
+        {
+          "word": "분홍 줄",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "잔소리",
+          "weight": 2.0
+        },
+        {
+          "word": "동동이",
+          "weight": 2.0
+        },
+        {
+          "word": "대신",
+          "weight": 2.0
+        },
+        {
+          "word": "유아용그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "사탕",
+          "weight": 2.0
+        },
+        {
+          "word": "구슬",
+          "weight": 2.0
+        },
+        {
+          "word": "혼자",
+          "weight": 1.0
+        },
+        {
+          "word": "성장",
+          "weight": 1.0
+        },
+        {
+          "word": "설거지",
+          "weight": 1.0
+        },
+        {
+          "word": "소개",
+          "weight": 1.0
+        },
+        {
+          "word": "부문",
+          "weight": 1.0
+        },
+        {
+          "word": "반응",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐",
+          "weight": 1.0
+        },
+        {
+          "word": "색깔",
+          "weight": 1.0
+        },
+        {
+          "word": "교육공학",
+          "weight": 1.0
+        },
+        {
+          "word": "8년",
+          "weight": 1.0
+        },
+        {
+          "word": "Arts",
+          "weight": 1.0
+        },
+        {
+          "word": "MD",
+          "weight": 1.0
+        },
+        {
+          "word": "storybowl",
+          "weight": 1.0
+        },
+        {
+          "word": "www",
+          "weight": 1.0
+        },
+        {
+          "word": "가지가지",
+          "weight": 1.0
+        },
+        {
+          "word": "강미연",
+          "weight": 1.0
+        },
+        {
+          "word": "강아지",
+          "weight": 1.0
+        },
+        {
+          "word": "구슬이와",
+          "weight": 1.0
+        },
+        {
+          "word": "구슬치기",
+          "weight": 1.0
+        },
+        {
+          "word": "국제",
+          "weight": 1.0
+        },
+        {
+          "word": "California",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        }
+      ],
+      "description": "그림책이 참 좋아 39권. 동동이는 오늘도 친구들이 먼저 말 걸어 주기를 바라며 놀이터 한구석에서 구슬치기를 한다. 그런데 친구들은 구슬치기에도 동동이에게도 별 관심이 없는 듯하다. ‘혼자 노는 것도 나쁘지 않다’며 애써 태연한 척해 보지만….",
+      "co_loan_books": [
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "이상한 손님 ",
+          "isbn13": "9791158360801",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "나는 개다 ",
+          "isbn13": "9791158361365",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "달 샤베트 ",
+          "isbn13": "9791185564074",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "꿈에서 맛본 똥파리 ",
+          "isbn13": "9791185564128",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "연이와 버들 도령 ",
+          "isbn13": "9791158362836",
+          "authors": "백희나"
+        }
+      ],
+      "title": "알사탕",
+      "author": "백희나",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "알사탕",
+        "author": "백희나",
+        "publisher": "책읽는곰",
+        "publish_predate": "20170325",
+        "isbn": "9791158360375",
+        "isbn_add_code": "77810",
+        "set_isbn": "9788993242300",
+        "set_add_code": "77810 ",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "그림책이 참 좋아",
+        "series_no": "039",
+        "volume": "",
+        "page": "48",
+        "book_size": "250*250mm",
+        "form": "종이책",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017005028",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "알사탕 ",
+        "author": "백희나",
+        "publisher": "책읽는곰",
+        "publish_year": "2017",
+        "isbn": "1158360371",
+        "isbn13": "9791158360375",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "그림책이 참 좋아 39권. 동동이는 오늘도 친구들이 먼저 말 걸어 주기를 바라며 놀이터 한구석에서 구슬치기를 한다. 그런데 친구들은 구슬치기에도 동동이에게도 별 관심이 없는 듯하다. ‘혼자 노는 것도 나쁘지 않다’며 애써 태연한 척해 보지만….",
+        "cover_url": "http://image.aladin.co.kr/product/10586/14/cover/k422530533_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "장수탕 선녀님",
+            "weight": 9.0
+          },
+          {
+            "word": "알사탕",
+            "weight": 7.0
+          },
+          {
+            "word": "백희나",
+            "weight": 4.0
+          },
+          {
+            "word": "아빠",
+            "weight": 3.0
+          },
+          {
+            "word": "이상한 엄마",
+            "weight": 3.0
+          },
+          {
+            "word": "친구",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "구름빵",
+            "weight": 3.0
+          },
+          {
+            "word": "삐약이 엄마",
+            "weight": 3.0
+          },
+          {
+            "word": "꿈에서 맛본 똥파리",
+            "weight": 3.0
+          },
+          {
+            "word": "나랑 같이 놀래",
+            "weight": 3.0
+          },
+          {
+            "word": "달 샤베트",
+            "weight": 3.0
+          },
+          {
+            "word": "팥죽 할멈과 호랑이",
+            "weight": 3.0
+          },
+          {
+            "word": "마법",
+            "weight": 3.0
+          },
+          {
+            "word": "어제저녁",
+            "weight": 3.0
+          },
+          {
+            "word": "북풍을 찾아간 소년",
+            "weight": 3.0
+          },
+          {
+            "word": "분홍 줄",
+            "weight": 3.0
+          },
+          {
+            "word": "안녕",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "잔소리",
+            "weight": 2.0
+          },
+          {
+            "word": "동동이",
+            "weight": 2.0
+          },
+          {
+            "word": "대신",
+            "weight": 2.0
+          },
+          {
+            "word": "유아용그림책",
+            "weight": 2.0
+          },
+          {
+            "word": "애니메이션",
+            "weight": 2.0
+          },
+          {
+            "word": "한국",
+            "weight": 2.0
+          },
+          {
+            "word": "책읽는곰",
+            "weight": 2.0
+          },
+          {
+            "word": "사탕",
+            "weight": 2.0
+          },
+          {
+            "word": "구슬",
+            "weight": 2.0
+          },
+          {
+            "word": "혼자",
+            "weight": 1.0
+          },
+          {
+            "word": "성장",
+            "weight": 1.0
+          },
+          {
+            "word": "설거지",
+            "weight": 1.0
+          },
+          {
+            "word": "소개",
+            "weight": 1.0
+          },
+          {
+            "word": "부문",
+            "weight": 1.0
+          },
+          {
+            "word": "반응",
+            "weight": 1.0
+          },
+          {
+            "word": "볼로냐",
+            "weight": 1.0
+          },
+          {
+            "word": "색깔",
+            "weight": 1.0
+          },
+          {
+            "word": "교육공학",
+            "weight": 1.0
+          },
+          {
+            "word": "8년",
+            "weight": 1.0
+          },
+          {
+            "word": "Arts",
+            "weight": 1.0
+          },
+          {
+            "word": "MD",
+            "weight": 1.0
+          },
+          {
+            "word": "storybowl",
+            "weight": 1.0
+          },
+          {
+            "word": "www",
+            "weight": 1.0
+          },
+          {
+            "word": "가지가지",
+            "weight": 1.0
+          },
+          {
+            "word": "강미연",
+            "weight": 1.0
+          },
+          {
+            "word": "강아지",
+            "weight": 1.0
+          },
+          {
+            "word": "구슬이와",
+            "weight": 1.0
+          },
+          {
+            "word": "구슬치기",
+            "weight": 1.0
+          },
+          {
+            "word": "국제",
+            "weight": 1.0
+          },
+          {
+            "word": "California",
+            "weight": 1.0
+          },
+          {
+            "word": "다양",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "이상한 엄마 ",
+            "isbn13": "9791158360214",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "이상한 손님 ",
+            "isbn13": "9791158360801",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "나는 개다 ",
+            "isbn13": "9791158361365",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "달 샤베트 ",
+            "isbn13": "9791185564074",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "슈퍼 토끼 :유설화 그림책 ",
+            "isbn13": "9791158361839",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "꿈에서 맛본 똥파리 ",
+            "isbn13": "9791185564128",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "연이와 버들 도령 ",
+            "isbn13": "9791158362836",
+            "authors": "백희나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "알사탕"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000221505184",
+        "title": "가호",
+        "subtitle": "무라카미 하루키 장편소설",
+        "page": "376 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158360375",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158360375",
+      "isbn_add_code": "77810",
+      "set_isbn": "9788993242300",
+      "set_add_code": "77810 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "알사탕",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "백희나",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책읽는곰",
+      "publish_year": "2017",
+      "publish_predate": "20170325",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "그림책이 참 좋아",
+      "series_no": "039",
+      "page": "376 p.",
+      "book_size": "250*250mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "그림책이 참 좋아 39권. 동동이는 오늘도 친구들이 먼저 말 걸어 주기를 바라며 놀이터 한구석에서 구슬치기를 한다. 그런데 친구들은 구슬치기에도 동동이에게도 별 관심이 없는 듯하다. ‘혼자 노는 것도 나쁘지 않다’며 애써 태연한 척해 보지만….",
+      "control_no": "CIP2017005028",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6146351_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "장수탕 선녀님",
+          "weight": 9.0
+        },
+        {
+          "word": "알사탕",
+          "weight": 7.0
+        },
+        {
+          "word": "백희나",
+          "weight": 4.0
+        },
+        {
+          "word": "아빠",
+          "weight": 3.0
+        },
+        {
+          "word": "이상한 엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "구름빵",
+          "weight": 3.0
+        },
+        {
+          "word": "삐약이 엄마",
+          "weight": 3.0
+        },
+        {
+          "word": "꿈에서 맛본 똥파리",
+          "weight": 3.0
+        },
+        {
+          "word": "나랑 같이 놀래",
+          "weight": 3.0
+        },
+        {
+          "word": "달 샤베트",
+          "weight": 3.0
+        },
+        {
+          "word": "팥죽 할멈과 호랑이",
+          "weight": 3.0
+        },
+        {
+          "word": "마법",
+          "weight": 3.0
+        },
+        {
+          "word": "어제저녁",
+          "weight": 3.0
+        },
+        {
+          "word": "북풍을 찾아간 소년",
+          "weight": 3.0
+        },
+        {
+          "word": "분홍 줄",
+          "weight": 3.0
+        },
+        {
+          "word": "안녕",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "잔소리",
+          "weight": 2.0
+        },
+        {
+          "word": "동동이",
+          "weight": 2.0
+        },
+        {
+          "word": "대신",
+          "weight": 2.0
+        },
+        {
+          "word": "유아용그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "애니메이션",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "책읽는곰",
+          "weight": 2.0
+        },
+        {
+          "word": "사탕",
+          "weight": 2.0
+        },
+        {
+          "word": "구슬",
+          "weight": 2.0
+        },
+        {
+          "word": "혼자",
+          "weight": 1.0
+        },
+        {
+          "word": "성장",
+          "weight": 1.0
+        },
+        {
+          "word": "설거지",
+          "weight": 1.0
+        },
+        {
+          "word": "소개",
+          "weight": 1.0
+        },
+        {
+          "word": "부문",
+          "weight": 1.0
+        },
+        {
+          "word": "반응",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐",
+          "weight": 1.0
+        },
+        {
+          "word": "색깔",
+          "weight": 1.0
+        },
+        {
+          "word": "교육공학",
+          "weight": 1.0
+        },
+        {
+          "word": "8년",
+          "weight": 1.0
+        },
+        {
+          "word": "Arts",
+          "weight": 1.0
+        },
+        {
+          "word": "MD",
+          "weight": 1.0
+        },
+        {
+          "word": "storybowl",
+          "weight": 1.0
+        },
+        {
+          "word": "www",
+          "weight": 1.0
+        },
+        {
+          "word": "가지가지",
+          "weight": 1.0
+        },
+        {
+          "word": "강미연",
+          "weight": 1.0
+        },
+        {
+          "word": "강아지",
+          "weight": 1.0
+        },
+        {
+          "word": "구슬이와",
+          "weight": 1.0
+        },
+        {
+          "word": "구슬치기",
+          "weight": 1.0
+        },
+        {
+          "word": "국제",
+          "weight": 1.0
+        },
+        {
+          "word": "California",
+          "weight": 1.0
+        },
+        {
+          "word": "다양",
+          "weight": 1.0
+        }
+      ],
+      "description": "그림책이 참 좋아 39권. 동동이는 오늘도 친구들이 먼저 말 걸어 주기를 바라며 놀이터 한구석에서 구슬치기를 한다. 그런데 친구들은 구슬치기에도 동동이에게도 별 관심이 없는 듯하다. ‘혼자 노는 것도 나쁘지 않다’며 애써 태연한 척해 보지만….",
+      "co_loan_books": [
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "이상한 손님 ",
+          "isbn13": "9791158360801",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "나는 개다 ",
+          "isbn13": "9791158361365",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "달 샤베트 ",
+          "isbn13": "9791185564074",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "꿈에서 맛본 똥파리 ",
+          "isbn13": "9791185564128",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "연이와 버들 도령 ",
+          "isbn13": "9791158362836",
+          "authors": "백희나"
+        }
+      ],
+      "title": "알사탕",
+      "author": "백희나",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

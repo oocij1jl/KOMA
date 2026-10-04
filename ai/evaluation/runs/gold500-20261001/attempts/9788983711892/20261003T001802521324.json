@@ -1,0 +1,335 @@
+{
+  "isbn": "9788983711892",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9788983711892"
+          },
+          {
+            "code": "g",
+            "value": "03400"
+          },
+          {
+            "code": "c",
+            "value": "₩22000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "코스모스"
+          },
+          {
+            "code": "b",
+            "value": "특별판"
+          },
+          {
+            "code": "d",
+            "value": "저자 : 칼 세이건"
+          },
+          {
+            "code": "e",
+            "value": "역자 : 홍승수"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "(주)사이언스북스"
+          },
+          {
+            "code": "c",
+            "value": "2006"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "719 p."
+          },
+          {
+            "code": "c",
+            "value": "23 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '152*224'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '152*224'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "443.1"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "칼 세이건"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인명으로 확인되는 저자명만 분리해 700에 기술함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "홍승수"
+          },
+          {
+            "code": "e",
+            "value": "옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author",
+            "translation_signals"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author의 역자 표기와 번역 신호를 근거로 역자를 분리해 700에 기술함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "우주"
+          },
+          {
+            "code": "a",
+            "value": "시간"
+          },
+          {
+            "code": "a",
+            "value": "공간"
+          },
+          {
+            "code": "a",
+            "value": "특별판"
+          },
+          {
+            "code": "a",
+            "value": "도판"
+          },
+          {
+            "code": "a",
+            "value": "과학"
+          },
+          {
+            "code": "a",
+            "value": "우주과학"
+          },
+          {
+            "code": "a",
+            "value": "교양"
+          },
+          {
+            "code": "a",
+            "value": "천문학"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description",
+            "co_loan_books"
+          ],
+          "keywords_used": [
+            "우주",
+            "코스모스",
+            "시간",
+            "공간",
+            "특별판",
+            "도판",
+            "과학",
+            "우주과학",
+            "교양",
+            "천문학"
+          ],
+          "reasoning": "가중치가 높고 서지값의 단순 반복이 아닌 주제 키워드를 우선 반영하고 description과 공대출 도서 맥락으로 주제 적합성을 보조 확인함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "041",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "kor"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "translation_signals",
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "번역 신호가 확인되고 author에 역자 표기가 있어 한국어 번역물로 판단 가능한 본문언어 kor를 기술함"
+        },
+        "note": ""
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거 없음"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 검수 필요",
+      "500과 546은 번역 정황을 다루어 중복 검수 필요",
+      "041은 번역 정황에 기반한 본문언어만 기술함",
+      "546 언어주기 입력 근거 부족으로 제거됨",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-03T00:18:02.521285+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

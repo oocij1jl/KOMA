@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681999",
+  "captured_at": "2026-10-03T00:13:25.649231+09:00",
+  "lookup": {
+    "isbn": "9791158681999",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681999",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2021",
+      "publish_predate": "20210825",
+      "kdc": "714",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 어휘",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "관용구에 나오는 핵심 단어가 어떤 의미로 사용되었는지 설명한 후 관용구의 뜻을 풀이하여 어린이가 좀 더 쉽게 이해할 수 있게 하였다. 또한, 재미있는 이야기와 함께 찹이와 친구들이 적재적소에 관용구를 사용하였다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27794/72/cover/k262734065_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "episode",
+          "weight": 13.0
+        },
+        {
+          "word": "관용구",
+          "weight": 11.0
+        },
+        {
+          "word": "머리",
+          "weight": 7.0
+        },
+        {
+          "word": "허리",
+          "weight": 5.0
+        },
+        {
+          "word": "어린이",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "신체",
+          "weight": 4.0
+        },
+        {
+          "word": "다리",
+          "weight": 4.0
+        },
+        {
+          "word": "의심",
+          "weight": 3.0
+        },
+        {
+          "word": "쏙쏙",
+          "weight": 3.0
+        },
+        {
+          "word": "손톱",
+          "weight": 3.0
+        },
+        {
+          "word": "손발",
+          "weight": 3.0
+        },
+        {
+          "word": "엉덩이",
+          "weight": 3.0
+        },
+        {
+          "word": "귀가",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 3.0
+        },
+        {
+          "word": "손짓",
+          "weight": 2.0
+        },
+        {
+          "word": "머릿속",
+          "weight": 2.0
+        },
+        {
+          "word": "폐교",
+          "weight": 2.0
+        },
+        {
+          "word": "특별",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "장승",
+          "weight": 2.0
+        },
+        {
+          "word": "보이",
+          "weight": 2.0
+        },
+        {
+          "word": "쓰이는",
+          "weight": 2.0
+        },
+        {
+          "word": "어깨",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "할아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "서늘",
+          "weight": 2.0
+        },
+        {
+          "word": "등골",
+          "weight": 2.0
+        },
+        {
+          "word": "붙이",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤통수",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "망태",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "눈동냥",
+          "weight": 1.0
+        },
+        {
+          "word": "공동묘지",
+          "weight": 1.0
+        },
+        {
+          "word": "쎄세",
+          "weight": 1.0
+        },
+        {
+          "word": "설명",
+          "weight": 1.0
+        },
+        {
+          "word": "꽁무니",
+          "weight": 1.0
+        },
+        {
+          "word": "흥정",
+          "weight": 1.0
+        },
+        {
+          "word": "머리털",
+          "weight": 1.0
+        },
+        {
+          "word": "꼭대기",
+          "weight": 1.0
+        },
+        {
+          "word": "도깨비방망이",
+          "weight": 1.0
+        },
+        {
+          "word": "동물농장",
+          "weight": 1.0
+        },
+        {
+          "word": "들어가다",
+          "weight": 1.0
+        },
+        {
+          "word": "구리",
+          "weight": 1.0
+        },
+        {
+          "word": "딱지",
+          "weight": 1.0
+        }
+      ],
+      "description": "관용구에 나오는 핵심 단어가 어떤 의미로 사용되었는지 설명한 후 관용구의 뜻을 풀이하여 어린이가 좀 더 쉽게 이해할 수 있게 하였다. 또한, 재미있는 이야기와 함께 찹이와 친구들이 적재적소에 관용구를 사용하였다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+          "isbn13": "9791158681883",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+          "isbn13": "9791158682446",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "isbn13": "9791158682248",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "714",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_predate": "20210825",
+        "isbn": "9791158681999",
+        "isbn_add_code": "73710",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "235 p.",
+        "book_size": "152*190",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "7",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_year": "2021",
+        "isbn": "1158681992",
+        "isbn13": "9791158681999",
+        "isbn_add_code": "73710",
+        "volume": "",
+        "class_no": "714",
+        "class_nm": "언어 > 한국어 > 어휘",
+        "description": "관용구에 나오는 핵심 단어가 어떤 의미로 사용되었는지 설명한 후 관용구의 뜻을 풀이하여 어린이가 좀 더 쉽게 이해할 수 있게 하였다. 또한, 재미있는 이야기와 함께 찹이와 친구들이 적재적소에 관용구를 사용하였다.",
+        "cover_url": "https://image.aladin.co.kr/product/27794/72/cover/k262734065_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "episode",
+            "weight": 13.0
+          },
+          {
+            "word": "관용구",
+            "weight": 11.0
+          },
+          {
+            "word": "머리",
+            "weight": 7.0
+          },
+          {
+            "word": "허리",
+            "weight": 5.0
+          },
+          {
+            "word": "어린이",
+            "weight": 4.0
+          },
+          {
+            "word": "의미",
+            "weight": 4.0
+          },
+          {
+            "word": "신체",
+            "weight": 4.0
+          },
+          {
+            "word": "다리",
+            "weight": 4.0
+          },
+          {
+            "word": "의심",
+            "weight": 3.0
+          },
+          {
+            "word": "쏙쏙",
+            "weight": 3.0
+          },
+          {
+            "word": "손톱",
+            "weight": 3.0
+          },
+          {
+            "word": "손발",
+            "weight": 3.0
+          },
+          {
+            "word": "엉덩이",
+            "weight": 3.0
+          },
+          {
+            "word": "귀가",
+            "weight": 3.0
+          },
+          {
+            "word": "일상",
+            "weight": 3.0
+          },
+          {
+            "word": "손짓",
+            "weight": 2.0
+          },
+          {
+            "word": "머릿속",
+            "weight": 2.0
+          },
+          {
+            "word": "폐교",
+            "weight": 2.0
+          },
+          {
+            "word": "특별",
+            "weight": 2.0
+          },
+          {
+            "word": "인생다반사",
+            "weight": 2.0
+          },
+          {
+            "word": "장승",
+            "weight": 2.0
+          },
+          {
+            "word": "보이",
+            "weight": 2.0
+          },
+          {
+            "word": "쓰이는",
+            "weight": 2.0
+          },
+          {
+            "word": "어깨",
+            "weight": 2.0
+          },
+          {
+            "word": "한날",
+            "weight": 2.0
+          },
+          {
+            "word": "할아버지",
+            "weight": 2.0
+          },
+          {
+            "word": "서늘",
+            "weight": 2.0
+          },
+          {
+            "word": "등골",
+            "weight": 2.0
+          },
+          {
+            "word": "붙이",
+            "weight": 2.0
+          },
+          {
+            "word": "캐릭터",
+            "weight": 2.0
+          },
+          {
+            "word": "얼굴",
+            "weight": 2.0
+          },
+          {
+            "word": "글쓰기 일반",
+            "weight": 2.0
+          },
+          {
+            "word": "눈앞",
+            "weight": 2.0
+          },
+          {
+            "word": "뒤통수",
+            "weight": 2.0
+          },
+          {
+            "word": "파란정원",
+            "weight": 2.0
+          },
+          {
+            "word": "망태",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "눈동냥",
+            "weight": 1.0
+          },
+          {
+            "word": "공동묘지",
+            "weight": 1.0
+          },
+          {
+            "word": "쎄세",
+            "weight": 1.0
+          },
+          {
+            "word": "설명",
+            "weight": 1.0
+          },
+          {
+            "word": "꽁무니",
+            "weight": 1.0
+          },
+          {
+            "word": "흥정",
+            "weight": 1.0
+          },
+          {
+            "word": "머리털",
+            "weight": 1.0
+          },
+          {
+            "word": "꼭대기",
+            "weight": 1.0
+          },
+          {
+            "word": "도깨비방망이",
+            "weight": 1.0
+          },
+          {
+            "word": "동물농장",
+            "weight": 1.0
+          },
+          {
+            "word": "들어가다",
+            "weight": 1.0
+          },
+          {
+            "word": "구리",
+            "weight": 1.0
+          },
+          {
+            "word": "딱지",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+            "isbn13": "9791158681531",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+            "isbn13": "9791158681944",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+            "isbn13": "9791158681647",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+            "isbn13": "9791158681883",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+            "isbn13": "9791158681746",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+            "isbn13": "9791158682446",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+            "isbn13": "9791158682248",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 신체 관용구"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770994",
+        "title": "읽으면서 바로 써먹는 어린이 신체 관용구",
+        "subtitle": "",
+        "page": "240 p.",
+        "book_size": "152*189mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681999",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681999",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2021",
+      "publish_predate": "20210825",
+      "kdc": "714",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 한국어 > 어휘",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "관용구에 나오는 핵심 단어가 어떤 의미로 사용되었는지 설명한 후 관용구의 뜻을 풀이하여 어린이가 좀 더 쉽게 이해할 수 있게 하였다. 또한, 재미있는 이야기와 함께 찹이와 친구들이 적재적소에 관용구를 사용하였다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/27794/72/cover/k262734065_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "episode",
+          "weight": 13.0
+        },
+        {
+          "word": "관용구",
+          "weight": 11.0
+        },
+        {
+          "word": "머리",
+          "weight": 7.0
+        },
+        {
+          "word": "허리",
+          "weight": 5.0
+        },
+        {
+          "word": "어린이",
+          "weight": 4.0
+        },
+        {
+          "word": "의미",
+          "weight": 4.0
+        },
+        {
+          "word": "신체",
+          "weight": 4.0
+        },
+        {
+          "word": "다리",
+          "weight": 4.0
+        },
+        {
+          "word": "의심",
+          "weight": 3.0
+        },
+        {
+          "word": "쏙쏙",
+          "weight": 3.0
+        },
+        {
+          "word": "손톱",
+          "weight": 3.0
+        },
+        {
+          "word": "손발",
+          "weight": 3.0
+        },
+        {
+          "word": "엉덩이",
+          "weight": 3.0
+        },
+        {
+          "word": "귀가",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 3.0
+        },
+        {
+          "word": "손짓",
+          "weight": 2.0
+        },
+        {
+          "word": "머릿속",
+          "weight": 2.0
+        },
+        {
+          "word": "폐교",
+          "weight": 2.0
+        },
+        {
+          "word": "특별",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "장승",
+          "weight": 2.0
+        },
+        {
+          "word": "보이",
+          "weight": 2.0
+        },
+        {
+          "word": "쓰이는",
+          "weight": 2.0
+        },
+        {
+          "word": "어깨",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "할아버지",
+          "weight": 2.0
+        },
+        {
+          "word": "서늘",
+          "weight": 2.0
+        },
+        {
+          "word": "등골",
+          "weight": 2.0
+        },
+        {
+          "word": "붙이",
+          "weight": 2.0
+        },
+        {
+          "word": "캐릭터",
+          "weight": 2.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤통수",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "망태",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "눈동냥",
+          "weight": 1.0
+        },
+        {
+          "word": "공동묘지",
+          "weight": 1.0
+        },
+        {
+          "word": "쎄세",
+          "weight": 1.0
+        },
+        {
+          "word": "설명",
+          "weight": 1.0
+        },
+        {
+          "word": "꽁무니",
+          "weight": 1.0
+        },
+        {
+          "word": "흥정",
+          "weight": 1.0
+        },
+        {
+          "word": "머리털",
+          "weight": 1.0
+        },
+        {
+          "word": "꼭대기",
+          "weight": 1.0
+        },
+        {
+          "word": "도깨비방망이",
+          "weight": 1.0
+        },
+        {
+          "word": "동물농장",
+          "weight": 1.0
+        },
+        {
+          "word": "들어가다",
+          "weight": 1.0
+        },
+        {
+          "word": "구리",
+          "weight": 1.0
+        },
+        {
+          "word": "딱지",
+          "weight": 1.0
+        }
+      ],
+      "description": "관용구에 나오는 핵심 단어가 어떤 의미로 사용되었는지 설명한 후 관용구의 뜻을 풀이하여 어린이가 좀 더 쉽게 이해할 수 있게 하였다. 또한, 재미있는 이야기와 함께 찹이와 친구들이 적재적소에 관용구를 사용하였다.",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담",
+          "isbn13": "9791158681883",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+          "isbn13": "9791158682446",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "isbn13": "9791158682248",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 신체 관용구",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "714",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "isbn": "9791164136032",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791164136032"
+          },
+          {
+            "code": "g",
+            "value": "77400"
+          },
+          {
+            "code": "c",
+            "value": "₩12000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791164136025"
+          },
+          {
+            "code": "g",
+            "value": "77400"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "세트 ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "흔한남매의 흔한 호기심"
+          },
+          {
+            "code": "b",
+            "value": "일상에서 만나는 과학 상식"
+          },
+          {
+            "code": "n",
+            "value": "1"
+          },
+          {
+            "code": "d",
+            "value": "글: 안치현"
+          },
+          {
+            "code": "e",
+            "value": "그림: 유난희"
+          },
+          {
+            "code": "e",
+            "value": "사진: Shutterstock,Wikimedia"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "Mirae N 아이세움 :미래엔"
+          },
+          {
+            "code": "c",
+            "value": "2020"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "164 p."
+          },
+          {
+            "code": "c",
+            "value": "26 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. 단위 없는 치수를 mm로 간주해 cm로 올림 — 서비스 도서 API 관례, 검수 필요: '188*257'. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '188*257'"
+      },
+      {
+        "tag": "490",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "흔한남매의 흔한 호기심"
+          },
+          {
+            "code": "v",
+            "value": "1"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.series_title 전사. 총서 부출(830)은 전거 확인 전까지 생성하지 않음"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "511"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "안치현"
+          },
+          {
+            "code": "e",
+            "value": "글"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인 저자로 식별되는 안치현을 700에 분리하고 역할어 글을 부여함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "유난희"
+          },
+          {
+            "code": "e",
+            "value": "그림"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인 저자로 식별되는 유난희를 700에 분리하고 역할어 그림을 부여함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Shutterstock"
+          },
+          {
+            "code": "e",
+            "value": "사진"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 사진 책임자로 표기된 Shutterstock을 개인명으로 확정할 수 없어 검수 필요하나 책임표시로 분리함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Wikimedia"
+          },
+          {
+            "code": "e",
+            "value": "사진"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에 사진 책임자로 표기된 Wikimedia를 개인명으로 확정할 수 없어 검수 필요하나 책임표시로 분리함"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "과학"
+          },
+          {
+            "code": "a",
+            "value": "호기심"
+          },
+          {
+            "code": "a",
+            "value": "퀴즈"
+          },
+          {
+            "code": "a",
+            "value": "일상"
+          },
+          {
+            "code": "a",
+            "value": "상식"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description",
+            "co_loan_books"
+          ],
+          "keywords_used": [
+            "과학",
+            "호기심",
+            "퀴즈",
+            "일상",
+            "상식"
+          ],
+          "reasoning": "상위 키워드 중 서지값의 단순 반복이 아닌 주제 소재어를 최소 정제하여 653에 제안함"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "246",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "3",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "흔한남매의 흔한 호기심 일상에서 만나는 과학 상식"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "title",
+            "subtitle"
+          ],
+          "keywords_used": [],
+          "reasoning": "표제와 부제가 결합된 다른 표제 형태가 biblio에서 확인되어 대체표제로 제안함"
+        },
+        "note": ""
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "500",
+        "reason": "일반주기 근거 부족: 허용 유형(원저자명·원표제·공저자·감수·한자명·수록) 아님"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "082",
+        "reason": "DDC 근거 없음: API 분류기호 미수집"
+      }
+    ],
+    "warnings": [
+      "546은 단일 언어 추정만으로 생성하지 않도록 검수 필요",
+      "700에 포함된 Shutterstock Wikimedia는 개인명 확정이 어려워 검수 필요",
+      "500은 일반주기 근거가 약해 사서 검수 필요",
+      "546 언어주기 입력 근거 부족으로 제거됨",
+      "500 허용 유형이 아니어서 제거됨"
+    ]
+  },
+  "generated_at": "2026-10-04T00:10:57.652488+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "isbn": "9791130604787",
+  "status": "success",
+  "result": {
+    "fields": [
+      {
+        "tag": "020",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9791130604787"
+          },
+          {
+            "code": "g",
+            "value": "13320"
+          },
+          {
+            "code": "c",
+            "value": "₩13000"
+          }
+        ],
+        "review_required": false,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio ISBN 전사"
+      },
+      {
+        "tag": "245",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": "0",
+        "indicator2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "부자의 그릇"
+          },
+          {
+            "code": "b",
+            "value": "돈을 다루는 능력을 키우는 법"
+          },
+          {
+            "code": "d",
+            "value": "이즈미 마사토 지음"
+          },
+          {
+            "code": "e",
+            "value": "김윤수 옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.title/author 전사. 부제는 국중도 상세 페이지 수집값 — 검수 필요. 역할어 기준 책임표시 분리 — 검수 필요"
+      },
+      {
+        "tag": "260",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "b",
+            "value": "(주식회사)다산북스"
+          },
+          {
+            "code": "c",
+            "value": "2015"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": null,
+        "note": "biblio.publisher/publish_year 전사. 발행지 미수집 — 검수 필요"
+      },
+      {
+        "tag": "300",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "224 p."
+          },
+          {
+            "code": "c",
+            "value": "21 cm"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "biblio.page/book_size 변환. mm 크기를 cm로 올림 — 서비스 도서 변환 정책. 복수 치수의 큰 값을 세로로 적용 — 가로/세로 검수 필요: '140*205mm'"
+      },
+      {
+        "tag": "056",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "327.04"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(056). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "082",
+        "source": "api",
+        "generated_by": "rule",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "332.024"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": null,
+        "note": "API 분류기호 전사(082). 판차 미수집 — 검수 필요"
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "이즈미 마사토"
+          },
+          {
+            "code": "e",
+            "value": "지음"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인 저자와 역할어 지음을 식별하여 분리"
+        },
+        "note": ""
+      },
+      {
+        "tag": "700",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "김윤수"
+          },
+          {
+            "code": "e",
+            "value": "옮김"
+          }
+        ],
+        "review_required": true,
+        "confidence": "high",
+        "evidence": {
+          "from": [
+            "author"
+          ],
+          "keywords_used": [],
+          "reasoning": "biblio.author에서 개인 저자와 역할어 옮김을 식별하여 분리"
+        },
+        "note": ""
+      },
+      {
+        "tag": "653",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": " ",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "사람"
+          },
+          {
+            "code": "a",
+            "value": "자신"
+          },
+          {
+            "code": "a",
+            "value": "부자"
+          },
+          {
+            "code": "a",
+            "value": "그릇"
+          },
+          {
+            "code": "a",
+            "value": "생각"
+          },
+          {
+            "code": "a",
+            "value": "신용"
+          },
+          {
+            "code": "a",
+            "value": "인생"
+          },
+          {
+            "code": "a",
+            "value": "이유"
+          },
+          {
+            "code": "a",
+            "value": "돈의 교양"
+          },
+          {
+            "code": "a",
+            "value": "본질"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "keywords",
+            "description"
+          ],
+          "keywords_used": [
+            "사람",
+            "자신",
+            "부자",
+            "그릇",
+            "생각",
+            "신용",
+            "인생",
+            "이유",
+            "돈의 교양",
+            "본질"
+          ],
+          "reasoning": "가중치 상위 키워드 중 서지값 반복이 아닌 주제어를 최소 정제하여 653으로 제안"
+        },
+        "note": "정보나루 키워드 기반 비통제 색인어 사서 검수 필요"
+      },
+      {
+        "tag": "041",
+        "source": "ai_inference",
+        "generated_by": "llm",
+        "indicator1": "1",
+        "indicator2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "kor"
+          }
+        ],
+        "review_required": true,
+        "confidence": "medium",
+        "evidence": {
+          "from": [
+            "translation_signals",
+            "author",
+            "description"
+          ],
+          "keywords_used": [],
+          "reasoning": "translation_signals detected true이고 author에 옮김 표현이 있어 번역물로 판단되며 본문언어를 kor로 기술"
+        },
+        "note": ""
+      }
+    ],
+    "skipped_fields": [
+      {
+        "tag": "650",
+        "reason": "통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      {
+        "tag": "246",
+        "reason": "대체표제 근거 없음"
+      },
+      {
+        "tag": "500",
+        "reason": "원저작 정보 미확정: 500 생성 금지"
+      },
+      {
+        "tag": "546",
+        "reason": "언어주기 근거 없음: 단일 언어 추정만으로 생성 금지"
+      },
+      {
+        "tag": "710",
+        "reason": "단체 저작 근거가 없음"
+      },
+      {
+        "tag": "830",
+        "reason": "총서부출표목 전거·기관 정책 미확정: 자동 생성 제외"
+      },
+      {
+        "tag": "950",
+        "reason": "기관 로컬 필드: 자관 규칙 없이 자동 생성 제외"
+      },
+      {
+        "tag": "250",
+        "reason": "판사항 근거 없음: 판 표시 미수집"
+      },
+      {
+        "tag": "490",
+        "reason": "총서사항 근거 없음: 총서명 미수집"
+      }
+    ],
+    "warnings": [
+      "653 색인어는 키워드 기반 추론이므로 반드시 검수",
+      "041은 원저작 언어 h 근거가 없어 a만 기술함"
+    ]
+  },
+  "generated_at": "2026-10-03T00:16:36.328375+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ],
+  "validation": {
+    "valid": true,
+    "error_count": 0,
+    "warning_count": 2,
+    "errors": [],
+    "warnings": [
+      {
+        "field": "056",
+        "message": "[056] AI 생성 필드입니다. 사서 검수가 필요합니다."
+      },
+      {
+        "field": "082",
+        "message": "[082] AI 생성 필드입니다. 사서 검수가 필요합니다."
+      }
+    ]
+  }
+}

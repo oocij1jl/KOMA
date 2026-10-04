@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788950983079",
+  "captured_at": "2026-10-04T00:11:08.502174+09:00",
+  "lookup": {
+    "isbn": "9788950983079",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950983079",
+      "isbn_add_code": "74400",
+      "set_isbn": "9788950983062",
+      "set_add_code": "74400 ",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "정재승의 인간 탐구 보고서",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 정재은,이고은 ;그림: 김현민",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "아울북 :북이십일 아울북",
+      "publish_year": "2019",
+      "publish_predate": "20190918",
+      "kdc": "511",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 기초의학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "159*215mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "정재승 교수의 아주 특별한 뇌과학 프로젝트. 아이들한테 뇌과학을 일찍부터 가르쳐 주면 자기 감정도 잘 다스릴 수 있고, 친구들이 왜 저렇게 행동하는지 이해심도 깊어질 것이다. 아이들이 너무나도 흥미로워할 내용이기도 한 외모를 1권의 주제로 삼았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/20460/37/cover/8950983079_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "지구",
+          "weight": 20.0
+        },
+        {
+          "word": "외모",
+          "weight": 11.0
+        },
+        {
+          "word": "10월의 하늘",
+          "weight": 6.0
+        },
+        {
+          "word": "인간 탐구 보고서",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "차이",
+          "weight": 5.0
+        },
+        {
+          "word": "인간",
+          "weight": 5.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "거주지",
+          "weight": 4.0
+        },
+        {
+          "word": "변신",
+          "weight": 4.0
+        },
+        {
+          "word": "작용",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "외계인",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "정재승",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "뇌과학",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "모두우리",
+          "weight": 2.0
+        },
+        {
+          "word": "아우레",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서3",
+          "weight": 2.0
+        },
+        {
+          "word": "문명",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서2",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서1",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "의과대학",
+          "weight": 2.0
+        },
+        {
+          "word": "유행",
+          "weight": 2.0
+        },
+        {
+          "word": "미세",
+          "weight": 2.0
+        },
+        {
+          "word": "외형",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "당연",
+          "weight": 2.0
+        },
+        {
+          "word": "능력",
+          "weight": 2.0
+        },
+        {
+          "word": "KAIST",
+          "weight": 2.0
+        },
+        {
+          "word": "증거",
+          "weight": 2.0
+        },
+        {
+          "word": "감시",
+          "weight": 2.0
+        },
+        {
+          "word": "호모",
+          "weight": 2.0
+        },
+        {
+          "word": "외계",
+          "weight": 2.0
+        },
+        {
+          "word": "정신과",
+          "weight": 2.0
+        },
+        {
+          "word": "정재은",
+          "weight": 2.0
+        },
+        {
+          "word": "결성",
+          "weight": 2.0
+        },
+        {
+          "word": "경이로움",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "우리 몸",
+          "weight": 2.0
+        },
+        {
+          "word": "굉장",
+          "weight": 2.0
+        },
+        {
+          "word": "김현민",
+          "weight": 2.0
+        },
+        {
+          "word": "주의",
+          "weight": 2.0
+        },
+        {
+          "word": "뇌구조",
+          "weight": 2.0
+        }
+      ],
+      "description": "정재승 교수의 아주 특별한 뇌과학 프로젝트. 아이들한테 뇌과학을 일찍부터 가르쳐 주면 자기 감정도 잘 다스릴 수 있고, 친구들이 왜 저렇게 행동하는지 이해심도 깊어질 것이다. 아이들이 너무나도 흥미로워할 내용이기도 한 외모를 1권의 주제로 삼았다.",
+      "co_loan_books": [
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983086",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983093",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983109",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983116",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983123",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983130",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983147",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983154",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983161",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950949778",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        }
+      ],
+      "title": "정재승의 인간 탐구 보고서",
+      "author": "글: 정재은,이고은 ;그림: 김현민",
+      "kdc_from_api": "511",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "정재승의 인간 탐구 보고서",
+        "author": "글: 정재은,이고은 ;그림: 김현민",
+        "publisher": "아울북 :북이십일 아울북",
+        "publish_predate": "20190918",
+        "isbn": "9788950983079",
+        "isbn_add_code": "74400",
+        "set_isbn": "9788950983062",
+        "set_add_code": "74400 ",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "165 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "정재승의 인간 탐구 보고서",
+        "author": "글: 정재은,특대호 원고: 오경은",
+        "publisher": "아울북(북이십일 아울북)",
+        "publish_year": "2019",
+        "isbn": "8950983079",
+        "isbn13": "9788950983079",
+        "isbn_add_code": "74400",
+        "volume": "1",
+        "class_no": "511",
+        "class_nm": "기술과학 > 의학 > 기초의학",
+        "description": "정재승 교수의 아주 특별한 뇌과학 프로젝트. 아이들한테 뇌과학을 일찍부터 가르쳐 주면 자기 감정도 잘 다스릴 수 있고, 친구들이 왜 저렇게 행동하는지 이해심도 깊어질 것이다. 아이들이 너무나도 흥미로워할 내용이기도 한 외모를 1권의 주제로 삼았다.",
+        "cover_url": "https://image.aladin.co.kr/product/20460/37/cover/8950983079_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "지구",
+            "weight": 20.0
+          },
+          {
+            "word": "외모",
+            "weight": 11.0
+          },
+          {
+            "word": "10월의 하늘",
+            "weight": 6.0
+          },
+          {
+            "word": "인간 탐구 보고서",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 6.0
+          },
+          {
+            "word": "이해",
+            "weight": 6.0
+          },
+          {
+            "word": "차이",
+            "weight": 5.0
+          },
+          {
+            "word": "인간",
+            "weight": 5.0
+          },
+          {
+            "word": "기억",
+            "weight": 4.0
+          },
+          {
+            "word": "거주지",
+            "weight": 4.0
+          },
+          {
+            "word": "변신",
+            "weight": 4.0
+          },
+          {
+            "word": "작용",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "외계인",
+            "weight": 3.0
+          },
+          {
+            "word": "청소년",
+            "weight": 3.0
+          },
+          {
+            "word": "정재승",
+            "weight": 3.0
+          },
+          {
+            "word": "교수",
+            "weight": 3.0
+          },
+          {
+            "word": "뇌과학",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "모두우리",
+            "weight": 2.0
+          },
+          {
+            "word": "아우레",
+            "weight": 2.0
+          },
+          {
+            "word": "보고서3",
+            "weight": 2.0
+          },
+          {
+            "word": "문명",
+            "weight": 2.0
+          },
+          {
+            "word": "보고서2",
+            "weight": 2.0
+          },
+          {
+            "word": "보고서1",
+            "weight": 2.0
+          },
+          {
+            "word": "발견",
+            "weight": 2.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "의과대학",
+            "weight": 2.0
+          },
+          {
+            "word": "유행",
+            "weight": 2.0
+          },
+          {
+            "word": "미세",
+            "weight": 2.0
+          },
+          {
+            "word": "외형",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "당연",
+            "weight": 2.0
+          },
+          {
+            "word": "능력",
+            "weight": 2.0
+          },
+          {
+            "word": "KAIST",
+            "weight": 2.0
+          },
+          {
+            "word": "증거",
+            "weight": 2.0
+          },
+          {
+            "word": "감시",
+            "weight": 2.0
+          },
+          {
+            "word": "호모",
+            "weight": 2.0
+          },
+          {
+            "word": "외계",
+            "weight": 2.0
+          },
+          {
+            "word": "정신과",
+            "weight": 2.0
+          },
+          {
+            "word": "정재은",
+            "weight": 2.0
+          },
+          {
+            "word": "결성",
+            "weight": 2.0
+          },
+          {
+            "word": "경이로움",
+            "weight": 2.0
+          },
+          {
+            "word": "선택",
+            "weight": 2.0
+          },
+          {
+            "word": "과학",
+            "weight": 2.0
+          },
+          {
+            "word": "우리 몸",
+            "weight": 2.0
+          },
+          {
+            "word": "굉장",
+            "weight": 2.0
+          },
+          {
+            "word": "김현민",
+            "weight": 2.0
+          },
+          {
+            "word": "주의",
+            "weight": 2.0
+          },
+          {
+            "word": "뇌구조",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983086",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983093",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983109",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983116",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983123",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983130",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983147",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983154",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950983161",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          },
+          {
+            "bookname": "정재승의 인간 탐구 보고서",
+            "isbn13": "9788950949778",
+            "authors": "글: 정재은,특대호 원고: 오경은"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "정재승의 인간 탐구 보고서"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000710727",
+        "title": "정재승의 인간탐구보고서 1: 인간은 외모에 집착한다(50만 부 기념 리커버 에디션)",
+        "subtitle": "양장본 Hardcover",
+        "page": "172 p.",
+        "book_size": "159*215mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788950983079",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788950983079",
+      "isbn_add_code": "74400",
+      "set_isbn": "9788950983062",
+      "set_add_code": "74400 ",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "정재승의 인간 탐구 보고서",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 정재은,이고은 ;그림: 김현민",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "아울북 :북이십일 아울북",
+      "publish_year": "2019",
+      "publish_predate": "20190918",
+      "kdc": "511",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 기초의학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "159*215mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "정재승 교수의 아주 특별한 뇌과학 프로젝트. 아이들한테 뇌과학을 일찍부터 가르쳐 주면 자기 감정도 잘 다스릴 수 있고, 친구들이 왜 저렇게 행동하는지 이해심도 깊어질 것이다. 아이들이 너무나도 흥미로워할 내용이기도 한 외모를 1권의 주제로 삼았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/20460/37/cover/8950983079_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "지구",
+          "weight": 20.0
+        },
+        {
+          "word": "외모",
+          "weight": 11.0
+        },
+        {
+          "word": "10월의 하늘",
+          "weight": 6.0
+        },
+        {
+          "word": "인간 탐구 보고서",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "이해",
+          "weight": 6.0
+        },
+        {
+          "word": "차이",
+          "weight": 5.0
+        },
+        {
+          "word": "인간",
+          "weight": 5.0
+        },
+        {
+          "word": "기억",
+          "weight": 4.0
+        },
+        {
+          "word": "거주지",
+          "weight": 4.0
+        },
+        {
+          "word": "변신",
+          "weight": 4.0
+        },
+        {
+          "word": "작용",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "외계인",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년",
+          "weight": 3.0
+        },
+        {
+          "word": "정재승",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "뇌과학",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "모두우리",
+          "weight": 2.0
+        },
+        {
+          "word": "아우레",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서3",
+          "weight": 2.0
+        },
+        {
+          "word": "문명",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서2",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서1",
+          "weight": 2.0
+        },
+        {
+          "word": "발견",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "의과대학",
+          "weight": 2.0
+        },
+        {
+          "word": "유행",
+          "weight": 2.0
+        },
+        {
+          "word": "미세",
+          "weight": 2.0
+        },
+        {
+          "word": "외형",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "당연",
+          "weight": 2.0
+        },
+        {
+          "word": "능력",
+          "weight": 2.0
+        },
+        {
+          "word": "KAIST",
+          "weight": 2.0
+        },
+        {
+          "word": "증거",
+          "weight": 2.0
+        },
+        {
+          "word": "감시",
+          "weight": 2.0
+        },
+        {
+          "word": "호모",
+          "weight": 2.0
+        },
+        {
+          "word": "외계",
+          "weight": 2.0
+        },
+        {
+          "word": "정신과",
+          "weight": 2.0
+        },
+        {
+          "word": "정재은",
+          "weight": 2.0
+        },
+        {
+          "word": "결성",
+          "weight": 2.0
+        },
+        {
+          "word": "경이로움",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "우리 몸",
+          "weight": 2.0
+        },
+        {
+          "word": "굉장",
+          "weight": 2.0
+        },
+        {
+          "word": "김현민",
+          "weight": 2.0
+        },
+        {
+          "word": "주의",
+          "weight": 2.0
+        },
+        {
+          "word": "뇌구조",
+          "weight": 2.0
+        }
+      ],
+      "description": "정재승 교수의 아주 특별한 뇌과학 프로젝트. 아이들한테 뇌과학을 일찍부터 가르쳐 주면 자기 감정도 잘 다스릴 수 있고, 친구들이 왜 저렇게 행동하는지 이해심도 깊어질 것이다. 아이들이 너무나도 흥미로워할 내용이기도 한 외모를 1권의 주제로 삼았다.",
+      "co_loan_books": [
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983086",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983093",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983109",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983116",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983123",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983130",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983147",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983154",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950983161",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        },
+        {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "isbn13": "9788950949778",
+          "authors": "글: 정재은,특대호 원고: 오경은"
+        }
+      ],
+      "title": "정재승의 인간 탐구 보고서",
+      "author": "글: 정재은,이고은 ;그림: 김현민",
+      "kdc_from_api": "511",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

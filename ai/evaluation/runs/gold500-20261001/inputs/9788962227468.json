@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788962227468",
+  "captured_at": "2026-10-03T00:19:34.668368+09:00",
+  "lookup": {
+    "isbn": "9788962227468",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962227468",
+      "isbn_add_code": "13630",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "(처음 시작하는) 다면체 종이접기",
+      "subtitle": "색종이 유닛을 조립해 입체를 완성해요",
+      "author": "호조 도시아키 지음 ;김정화 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "길벗스쿨",
+      "publish_year": "2017",
+      "publish_predate": "20171123",
+      "kdc": "634",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "128 p.",
+      "book_size": "182*235",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "‘다면체 종이접기’는 정육면체의 구조를 기본으로 해서 다면체 입체 도형을 완성하는 종이접기 방법이다. 일반 종이접기처럼 색종이를 한 장만 접어서 완성하는 것이 아니라, 여러 장의 종이를 유닛으로 미리 접어 둔 다음에 각각 조립해서 하나의 작품으로 완성한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/12457/84/cover/8962227460_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "종이접기",
+          "weight": 37.0
+        },
+        {
+          "word": "접기",
+          "weight": 30.0
+        },
+        {
+          "word": "유닛",
+          "weight": 29.0
+        },
+        {
+          "word": "다면체",
+          "weight": 27.0
+        },
+        {
+          "word": "조립",
+          "weight": 25.0
+        },
+        {
+          "word": "기본",
+          "weight": 25.0
+        },
+        {
+          "word": "완성",
+          "weight": 23.0
+        },
+        {
+          "word": "도형",
+          "weight": 10.0
+        },
+        {
+          "word": "종이",
+          "weight": 9.0
+        },
+        {
+          "word": "접어",
+          "weight": 9.0
+        },
+        {
+          "word": "상자",
+          "weight": 8.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 7.0
+        },
+        {
+          "word": "응용",
+          "weight": 7.0
+        },
+        {
+          "word": "입체",
+          "weight": 6.0
+        },
+        {
+          "word": "구멍",
+          "weight": 6.0
+        },
+        {
+          "word": "집중력",
+          "weight": 6.0
+        },
+        {
+          "word": "장식",
+          "weight": 6.0
+        },
+        {
+          "word": "보이",
+          "weight": 5.0
+        },
+        {
+          "word": "모양",
+          "weight": 5.0
+        },
+        {
+          "word": "수학",
+          "weight": 5.0
+        },
+        {
+          "word": "친구",
+          "weight": 5.0
+        },
+        {
+          "word": "뒷면",
+          "weight": 5.0
+        },
+        {
+          "word": "방법",
+          "weight": 5.0
+        },
+        {
+          "word": "아주",
+          "weight": 5.0
+        },
+        {
+          "word": "머리",
+          "weight": 5.0
+        },
+        {
+          "word": "정도",
+          "weight": 4.0
+        },
+        {
+          "word": "3장",
+          "weight": 4.0
+        },
+        {
+          "word": "일반",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "자극",
+          "weight": 4.0
+        },
+        {
+          "word": "발달",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "정육면체",
+          "weight": 3.0
+        },
+        {
+          "word": "손끝",
+          "weight": 3.0
+        },
+        {
+          "word": "도움",
+          "weight": 3.0
+        },
+        {
+          "word": "90장",
+          "weight": 3.0
+        },
+        {
+          "word": "작업",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "처음",
+          "weight": 3.0
+        },
+        {
+          "word": "학습",
+          "weight": 3.0
+        },
+        {
+          "word": "구조",
+          "weight": 3.0
+        },
+        {
+          "word": "신기",
+          "weight": 3.0
+        },
+        {
+          "word": "얼얼",
+          "weight": 3.0
+        },
+        {
+          "word": "색깔",
+          "weight": 3.0
+        },
+        {
+          "word": "사용",
+          "weight": 3.0
+        },
+        {
+          "word": "신중",
+          "weight": 2.0
+        },
+        {
+          "word": "30장",
+          "weight": 2.0
+        },
+        {
+          "word": "소근육",
+          "weight": 2.0
+        },
+        {
+          "word": "흥미",
+          "weight": 2.0
+        },
+        {
+          "word": "성취감",
+          "weight": 2.0
+        }
+      ],
+      "description": "‘다면체 종이접기’는 정육면체의 구조를 기본으로 해서 다면체 입체 도형을 완성하는 종이접기 방법이다. 일반 종이접기처럼 색종이를 한 장만 접어서 완성하는 것이 아니라, 여러 장의 종이를 유닛으로 미리 접어 둔 다음에 각각 조립해서 하나의 작품으로 완성한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "isbn13": "9791186494530",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494714",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "isbn13": "9791186494479",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "isbn13": "9791186494592",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494615",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "isbn13": "9791186494837",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494561",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "세상에서 제일 재밌는 종이접기 :색종이 한 장이면 장난감 뚝딱! ",
+          "isbn13": "9791186494431",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+          "isbn13": "9791186494660",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(누구나 쉽게 만들 수 있는) 다면체 종이접기 ",
+          "isbn13": "9791189550110",
+          "authors": "쓰가와 미오 지음 ;김현영 옮김"
+        }
+      ],
+      "title": "(처음 시작하는) 다면체 종이접기",
+      "author": "호조 도시아키 지음 ;김정화 옮김",
+      "kdc_from_api": "634",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(처음 시작하는) 다면체 종이접기",
+        "author": "호조 도시아키 지음 ;김정화 옮김",
+        "publisher": "길벗스쿨",
+        "publish_predate": "20171123",
+        "isbn": "9788962227468",
+        "isbn_add_code": "13630",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩10000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "127 p.",
+        "book_size": "182*235",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(처음 시작하는) 다면체 종이접기 :색종이 유닛을 조립해 입체를 완성해요 ",
+        "author": "호조 도시아키 지음 ;김정화 옮김",
+        "publisher": "길벗스쿨",
+        "publish_year": "2017",
+        "isbn": "8962227460",
+        "isbn13": "9788962227468",
+        "isbn_add_code": "13630",
+        "volume": "",
+        "class_no": "634",
+        "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+        "description": "‘다면체 종이접기’는 정육면체의 구조를 기본으로 해서 다면체 입체 도형을 완성하는 종이접기 방법이다. 일반 종이접기처럼 색종이를 한 장만 접어서 완성하는 것이 아니라, 여러 장의 종이를 유닛으로 미리 접어 둔 다음에 각각 조립해서 하나의 작품으로 완성한다.",
+        "cover_url": "https://image.aladin.co.kr/product/12457/84/cover/8962227460_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "종이접기",
+            "weight": 37.0
+          },
+          {
+            "word": "접기",
+            "weight": 30.0
+          },
+          {
+            "word": "유닛",
+            "weight": 29.0
+          },
+          {
+            "word": "다면체",
+            "weight": 27.0
+          },
+          {
+            "word": "조립",
+            "weight": 25.0
+          },
+          {
+            "word": "기본",
+            "weight": 25.0
+          },
+          {
+            "word": "완성",
+            "weight": 23.0
+          },
+          {
+            "word": "도형",
+            "weight": 10.0
+          },
+          {
+            "word": "종이",
+            "weight": 9.0
+          },
+          {
+            "word": "접어",
+            "weight": 9.0
+          },
+          {
+            "word": "상자",
+            "weight": 8.0
+          },
+          {
+            "word": "두뇌",
+            "weight": 7.0
+          },
+          {
+            "word": "응용",
+            "weight": 7.0
+          },
+          {
+            "word": "입체",
+            "weight": 6.0
+          },
+          {
+            "word": "구멍",
+            "weight": 6.0
+          },
+          {
+            "word": "집중력",
+            "weight": 6.0
+          },
+          {
+            "word": "장식",
+            "weight": 6.0
+          },
+          {
+            "word": "보이",
+            "weight": 5.0
+          },
+          {
+            "word": "모양",
+            "weight": 5.0
+          },
+          {
+            "word": "수학",
+            "weight": 5.0
+          },
+          {
+            "word": "친구",
+            "weight": 5.0
+          },
+          {
+            "word": "뒷면",
+            "weight": 5.0
+          },
+          {
+            "word": "방법",
+            "weight": 5.0
+          },
+          {
+            "word": "아주",
+            "weight": 5.0
+          },
+          {
+            "word": "머리",
+            "weight": 5.0
+          },
+          {
+            "word": "정도",
+            "weight": 4.0
+          },
+          {
+            "word": "3장",
+            "weight": 4.0
+          },
+          {
+            "word": "일반",
+            "weight": 4.0
+          },
+          {
+            "word": "도전",
+            "weight": 4.0
+          },
+          {
+            "word": "자극",
+            "weight": 4.0
+          },
+          {
+            "word": "발달",
+            "weight": 4.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "정육면체",
+            "weight": 3.0
+          },
+          {
+            "word": "손끝",
+            "weight": 3.0
+          },
+          {
+            "word": "도움",
+            "weight": 3.0
+          },
+          {
+            "word": "90장",
+            "weight": 3.0
+          },
+          {
+            "word": "작업",
+            "weight": 3.0
+          },
+          {
+            "word": "연결",
+            "weight": 3.0
+          },
+          {
+            "word": "처음",
+            "weight": 3.0
+          },
+          {
+            "word": "학습",
+            "weight": 3.0
+          },
+          {
+            "word": "구조",
+            "weight": 3.0
+          },
+          {
+            "word": "신기",
+            "weight": 3.0
+          },
+          {
+            "word": "얼얼",
+            "weight": 3.0
+          },
+          {
+            "word": "색깔",
+            "weight": 3.0
+          },
+          {
+            "word": "사용",
+            "weight": 3.0
+          },
+          {
+            "word": "신중",
+            "weight": 2.0
+          },
+          {
+            "word": "30장",
+            "weight": 2.0
+          },
+          {
+            "word": "소근육",
+            "weight": 2.0
+          },
+          {
+            "word": "흥미",
+            "weight": 2.0
+          },
+          {
+            "word": "성취감",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+            "isbn13": "9791186494530",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드",
+            "isbn13": "9791186494714",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+            "isbn13": "9791186494479",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+            "isbn13": "9791186494592",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드",
+            "isbn13": "9791186494615",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+            "isbn13": "9791186494837",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 블레이드",
+            "isbn13": "9791186494561",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "세상에서 제일 재밌는 종이접기 :색종이 한 장이면 장난감 뚝딱! ",
+            "isbn13": "9791186494431",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+            "isbn13": "9791186494660",
+            "authors": "이원표 지음"
+          },
+          {
+            "bookname": "(누구나 쉽게 만들 수 있는) 다면체 종이접기 ",
+            "isbn13": "9791189550110",
+            "authors": "쓰가와 미오 지음 ;김현영 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(처음 시작하는) 다면체 종이접기"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000963850",
+        "title": "처음 시작하는 다면체 종이접기",
+        "subtitle": "색종이 유닛을 조립해 입체를 완성해요",
+        "page": "128 p.",
+        "book_size": "184*237mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788962227468",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788962227468",
+      "isbn_add_code": "13630",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "(처음 시작하는) 다면체 종이접기",
+      "subtitle": "색종이 유닛을 조립해 입체를 완성해요",
+      "author": "호조 도시아키 지음 ;김정화 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "길벗스쿨",
+      "publish_year": "2017",
+      "publish_predate": "20171123",
+      "kdc": "634",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "128 p.",
+      "book_size": "182*235",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "‘다면체 종이접기’는 정육면체의 구조를 기본으로 해서 다면체 입체 도형을 완성하는 종이접기 방법이다. 일반 종이접기처럼 색종이를 한 장만 접어서 완성하는 것이 아니라, 여러 장의 종이를 유닛으로 미리 접어 둔 다음에 각각 조립해서 하나의 작품으로 완성한다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/12457/84/cover/8962227460_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "종이접기",
+          "weight": 37.0
+        },
+        {
+          "word": "접기",
+          "weight": 30.0
+        },
+        {
+          "word": "유닛",
+          "weight": 29.0
+        },
+        {
+          "word": "다면체",
+          "weight": 27.0
+        },
+        {
+          "word": "조립",
+          "weight": 25.0
+        },
+        {
+          "word": "기본",
+          "weight": 25.0
+        },
+        {
+          "word": "완성",
+          "weight": 23.0
+        },
+        {
+          "word": "도형",
+          "weight": 10.0
+        },
+        {
+          "word": "종이",
+          "weight": 9.0
+        },
+        {
+          "word": "접어",
+          "weight": 9.0
+        },
+        {
+          "word": "상자",
+          "weight": 8.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 7.0
+        },
+        {
+          "word": "응용",
+          "weight": 7.0
+        },
+        {
+          "word": "입체",
+          "weight": 6.0
+        },
+        {
+          "word": "구멍",
+          "weight": 6.0
+        },
+        {
+          "word": "집중력",
+          "weight": 6.0
+        },
+        {
+          "word": "장식",
+          "weight": 6.0
+        },
+        {
+          "word": "보이",
+          "weight": 5.0
+        },
+        {
+          "word": "모양",
+          "weight": 5.0
+        },
+        {
+          "word": "수학",
+          "weight": 5.0
+        },
+        {
+          "word": "친구",
+          "weight": 5.0
+        },
+        {
+          "word": "뒷면",
+          "weight": 5.0
+        },
+        {
+          "word": "방법",
+          "weight": 5.0
+        },
+        {
+          "word": "아주",
+          "weight": 5.0
+        },
+        {
+          "word": "머리",
+          "weight": 5.0
+        },
+        {
+          "word": "정도",
+          "weight": 4.0
+        },
+        {
+          "word": "3장",
+          "weight": 4.0
+        },
+        {
+          "word": "일반",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "자극",
+          "weight": 4.0
+        },
+        {
+          "word": "발달",
+          "weight": 4.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "정육면체",
+          "weight": 3.0
+        },
+        {
+          "word": "손끝",
+          "weight": 3.0
+        },
+        {
+          "word": "도움",
+          "weight": 3.0
+        },
+        {
+          "word": "90장",
+          "weight": 3.0
+        },
+        {
+          "word": "작업",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "처음",
+          "weight": 3.0
+        },
+        {
+          "word": "학습",
+          "weight": 3.0
+        },
+        {
+          "word": "구조",
+          "weight": 3.0
+        },
+        {
+          "word": "신기",
+          "weight": 3.0
+        },
+        {
+          "word": "얼얼",
+          "weight": 3.0
+        },
+        {
+          "word": "색깔",
+          "weight": 3.0
+        },
+        {
+          "word": "사용",
+          "weight": 3.0
+        },
+        {
+          "word": "신중",
+          "weight": 2.0
+        },
+        {
+          "word": "30장",
+          "weight": 2.0
+        },
+        {
+          "word": "소근육",
+          "weight": 2.0
+        },
+        {
+          "word": "흥미",
+          "weight": 2.0
+        },
+        {
+          "word": "성취감",
+          "weight": 2.0
+        }
+      ],
+      "description": "‘다면체 종이접기’는 정육면체의 구조를 기본으로 해서 다면체 입체 도형을 완성하는 종이접기 방법이다. 일반 종이접기처럼 색종이를 한 장만 접어서 완성하는 것이 아니라, 여러 장의 종이를 유닛으로 미리 접어 둔 다음에 각각 조립해서 하나의 작품으로 완성한다.",
+      "co_loan_books": [
+        {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "isbn13": "9791186494530",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494714",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "isbn13": "9791186494479",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "isbn13": "9791186494592",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494615",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "isbn13": "9791186494837",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "isbn13": "9791186494561",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "세상에서 제일 재밌는 종이접기 :색종이 한 장이면 장난감 뚝딱! ",
+          "isbn13": "9791186494431",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(네모아저씨의) 페이퍼 레인저 :종이접기로 만나는 무적의 전사 ",
+          "isbn13": "9791186494660",
+          "authors": "이원표 지음"
+        },
+        {
+          "bookname": "(누구나 쉽게 만들 수 있는) 다면체 종이접기 ",
+          "isbn13": "9791189550110",
+          "authors": "쓰가와 미오 지음 ;김현영 옮김"
+        }
+      ],
+      "title": "(처음 시작하는) 다면체 종이접기",
+      "author": "호조 도시아키 지음 ;김정화 옮김",
+      "kdc_from_api": "634",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

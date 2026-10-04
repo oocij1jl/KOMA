@@ -1,0 +1,1084 @@
+{
+  "isbn": "9788959791927",
+  "captured_at": "2026-10-03T00:19:45.378008+09:00",
+  "lookup": {
+    "isbn": "9788959791927",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788959791927",
+      "isbn_add_code": "13410",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "범죄 수학 ",
+      "subtitle": "",
+      "author": "리스 하스아우트 글 ;오혜정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "작은책방(Gbrain)",
+      "publish_year": "2010",
+      "publish_predate": "20100723",
+      "kdc": "691",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 오락",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "288 p.",
+      "book_size": "140*183mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "수학에 대한 열정을 불러일으키는 리스 하스아우트의 책. 여기에는 모두 14가지의 범죄 사건이 등장한다. 하나의 사건에는 수학 문제가 하나씩 포함되어 있다. 추리소설 구성에 수학 내용을 담고 있지만 절대 딱딱하지 않다. 수학탐정 라비와 함께 14가지 미스터리를 해결하다 보면 삼각법, 확률, 순열조합, 연역적 추론까지 명석하게 분석할 수 있고 어느새 수학을 즐길 수 있다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/740/68/cover/895979192x_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수학",
+          "weight": 36.0
+        },
+        {
+          "word": "사건",
+          "weight": 27.0
+        },
+        {
+          "word": "해결",
+          "weight": 12.0
+        },
+        {
+          "word": "라비",
+          "weight": 11.0
+        },
+        {
+          "word": "문제",
+          "weight": 9.0
+        },
+        {
+          "word": "등장",
+          "weight": 6.0
+        },
+        {
+          "word": "분석",
+          "weight": 6.0
+        },
+        {
+          "word": "수학적",
+          "weight": 5.0
+        },
+        {
+          "word": "수준",
+          "weight": 4.0
+        },
+        {
+          "word": "추리소설",
+          "weight": 4.0
+        },
+        {
+          "word": "범죄",
+          "weight": 4.0
+        },
+        {
+          "word": "미스터리한",
+          "weight": 4.0
+        },
+        {
+          "word": "14가지",
+          "weight": 4.0
+        },
+        {
+          "word": "고등학교",
+          "weight": 3.0
+        },
+        {
+          "word": "암호 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "소년",
+          "weight": 3.0
+        },
+        {
+          "word": "구성",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "숫자로 끝내는 수학 100",
+          "weight": 3.0
+        },
+        {
+          "word": "미스터리",
+          "weight": 3.0
+        },
+        {
+          "word": "한 권으로 끝내는 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "달콤한 수학사",
+          "weight": 3.0
+        },
+        {
+          "word": "새로 쓰는 초등수학 교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "주변",
+          "weight": 3.0
+        },
+        {
+          "word": "수학 언어로 문화재를 읽다",
+          "weight": 3.0
+        },
+        {
+          "word": "마틴 가드너 수학 코드",
+          "weight": 3.0
+        },
+        {
+          "word": "범죄 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "수리논술",
+          "weight": 3.0
+        },
+        {
+          "word": "내용",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "살인",
+          "weight": 3.0
+        },
+        {
+          "word": "단서",
+          "weight": 3.0
+        },
+        {
+          "word": "교육과정",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "수학과",
+          "weight": 2.0
+        },
+        {
+          "word": "수학탐정",
+          "weight": 2.0
+        },
+        {
+          "word": "리스 하스아우트",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "설명",
+          "weight": 2.0
+        },
+        {
+          "word": "Gbrain",
+          "weight": 2.0
+        },
+        {
+          "word": "순열조합",
+          "weight": 2.0
+        },
+        {
+          "word": "딱딱",
+          "weight": 2.0
+        },
+        {
+          "word": "명석",
+          "weight": 2.0
+        },
+        {
+          "word": "부교재",
+          "weight": 2.0
+        },
+        {
+          "word": "개정",
+          "weight": 2.0
+        },
+        {
+          "word": "거기",
+          "weight": 2.0
+        },
+        {
+          "word": "수학동화",
+          "weight": 2.0
+        },
+        {
+          "word": "시중",
+          "weight": 2.0
+        },
+        {
+          "word": "감탄",
+          "weight": 2.0
+        },
+        {
+          "word": "2010년 9월",
+          "weight": 2.0
+        }
+      ],
+      "description": "수학에 대한 열정을 불러일으키는 리스 하스아우트의 책. 여기에는 모두 14가지의 범죄 사건이 등장한다. 하나의 사건에는 수학 문제가 하나씩 포함되어 있다. 추리소설 구성에 수학 내용을 담고 있지만 절대 딱딱하지 않다. 수학탐정 라비와 함께 14가지 미스터리를 해결하다 보면 삼각법, 확률, 순열조합, 연역적 추론까지 명석하게 분석할 수 있고 어느새 수학을 즐길 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "범죄 수학",
+          "isbn13": "9788959793006",
+          "authors": "카타리나 오버마이어 지음 ;강희진 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "isbn13": "9788936434267",
+          "authors": "지은이: 손원평"
+        },
+        {
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "isbn13": "9788954650212",
+          "authors": "글쓴이: 이꽃님"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "시간을 파는 상점 :김선영 장편소설 ",
+          "isbn13": "9788954427173",
+          "authors": "지은이: 김선영"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "이토록 공부가 재미있어지는 순간 :공부에 지친 청소년들을 위한 힐링 에세이 ",
+          "isbn13": "9791130604626",
+          "authors": "박성혁 지음"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        }
+      ],
+      "title": "범죄 수학 ",
+      "author": "리스 하스아우트 글 ;오혜정 옮김",
+      "kdc_from_api": "691",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "범죄 수학 ",
+        "author": "리스 하스아우트 글 ;오혜정 옮김",
+        "publisher": "작은책방(Gbrain)",
+        "publish_predate": "20100723",
+        "isbn": "9788959791927",
+        "isbn_add_code": "13410",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "범죄 수학 ",
+        "author": "리스 하스아우트 글 ;오혜정 옮김",
+        "publisher": "Gbrain",
+        "publish_year": "2010",
+        "isbn": "895979192X",
+        "isbn13": "9788959791927",
+        "isbn_add_code": "13410",
+        "volume": "",
+        "class_no": "691",
+        "class_nm": "예술 > 오락, 운동 > 오락",
+        "description": "수학에 대한 열정을 불러일으키는 리스 하스아우트의 책. 여기에는 모두 14가지의 범죄 사건이 등장한다. 하나의 사건에는 수학 문제가 하나씩 포함되어 있다. 추리소설 구성에 수학 내용을 담고 있지만 절대 딱딱하지 않다. 수학탐정 라비와 함께 14가지 미스터리를 해결하다 보면 삼각법, 확률, 순열조합, 연역적 추론까지 명석하게 분석할 수 있고 어느새 수학을 즐길 수 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/740/68/cover/895979192x_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "수학",
+            "weight": 36.0
+          },
+          {
+            "word": "사건",
+            "weight": 27.0
+          },
+          {
+            "word": "해결",
+            "weight": 12.0
+          },
+          {
+            "word": "라비",
+            "weight": 11.0
+          },
+          {
+            "word": "문제",
+            "weight": 9.0
+          },
+          {
+            "word": "등장",
+            "weight": 6.0
+          },
+          {
+            "word": "분석",
+            "weight": 6.0
+          },
+          {
+            "word": "수학적",
+            "weight": 5.0
+          },
+          {
+            "word": "수준",
+            "weight": 4.0
+          },
+          {
+            "word": "추리소설",
+            "weight": 4.0
+          },
+          {
+            "word": "범죄",
+            "weight": 4.0
+          },
+          {
+            "word": "미스터리한",
+            "weight": 4.0
+          },
+          {
+            "word": "14가지",
+            "weight": 4.0
+          },
+          {
+            "word": "고등학교",
+            "weight": 3.0
+          },
+          {
+            "word": "암호 수학",
+            "weight": 3.0
+          },
+          {
+            "word": "소년",
+            "weight": 3.0
+          },
+          {
+            "word": "구성",
+            "weight": 3.0
+          },
+          {
+            "word": "미국",
+            "weight": 3.0
+          },
+          {
+            "word": "숫자로 끝내는 수학 100",
+            "weight": 3.0
+          },
+          {
+            "word": "미스터리",
+            "weight": 3.0
+          },
+          {
+            "word": "한 권으로 끝내는 수학",
+            "weight": 3.0
+          },
+          {
+            "word": "달콤한 수학사",
+            "weight": 3.0
+          },
+          {
+            "word": "새로 쓰는 초등수학 교과서",
+            "weight": 3.0
+          },
+          {
+            "word": "주변",
+            "weight": 3.0
+          },
+          {
+            "word": "수학 언어로 문화재를 읽다",
+            "weight": 3.0
+          },
+          {
+            "word": "마틴 가드너 수학 코드",
+            "weight": 3.0
+          },
+          {
+            "word": "범죄 수학",
+            "weight": 3.0
+          },
+          {
+            "word": "수리논술",
+            "weight": 3.0
+          },
+          {
+            "word": "내용",
+            "weight": 3.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "살인",
+            "weight": 3.0
+          },
+          {
+            "word": "단서",
+            "weight": 3.0
+          },
+          {
+            "word": "교육과정",
+            "weight": 2.0
+          },
+          {
+            "word": "상황",
+            "weight": 2.0
+          },
+          {
+            "word": "수학과",
+            "weight": 2.0
+          },
+          {
+            "word": "수학탐정",
+            "weight": 2.0
+          },
+          {
+            "word": "리스 하스아우트",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "설명",
+            "weight": 2.0
+          },
+          {
+            "word": "Gbrain",
+            "weight": 2.0
+          },
+          {
+            "word": "순열조합",
+            "weight": 2.0
+          },
+          {
+            "word": "딱딱",
+            "weight": 2.0
+          },
+          {
+            "word": "명석",
+            "weight": 2.0
+          },
+          {
+            "word": "부교재",
+            "weight": 2.0
+          },
+          {
+            "word": "개정",
+            "weight": 2.0
+          },
+          {
+            "word": "거기",
+            "weight": 2.0
+          },
+          {
+            "word": "수학동화",
+            "weight": 2.0
+          },
+          {
+            "word": "시중",
+            "weight": 2.0
+          },
+          {
+            "word": "감탄",
+            "weight": 2.0
+          },
+          {
+            "word": "2010년 9월",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "범죄 수학",
+            "isbn13": "9788959793006",
+            "authors": "카타리나 오버마이어 지음 ;강희진 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아몬드 :손원평 장편소설 ",
+            "isbn13": "9788936434267",
+            "authors": "지은이: 손원평"
+          },
+          {
+            "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+            "isbn13": "9788954650212",
+            "authors": "글쓴이: 이꽃님"
+          },
+          {
+            "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+            "isbn13": "9791190337755",
+            "authors": "지은이: 이꽃님"
+          },
+          {
+            "bookname": "페인트 :이희영 장편소설 ",
+            "isbn13": "9788936456894",
+            "authors": "지은이: 이희영"
+          },
+          {
+            "bookname": "시간을 파는 상점 :김선영 장편소설 ",
+            "isbn13": "9788954427173",
+            "authors": "지은이: 김선영"
+          },
+          {
+            "bookname": "비스킷 ",
+            "isbn13": "9791168127630",
+            "authors": "글: 김선미"
+          },
+          {
+            "bookname": "이토록 공부가 재미있어지는 순간 :공부에 지친 청소년들을 위한 힐링 에세이 ",
+            "isbn13": "9791130604626",
+            "authors": "박성혁 지음"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "범죄 수학"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000910485",
+        "title": "범죄 수학",
+        "subtitle": "",
+        "page": "288 p.",
+        "book_size": "140*183mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788959791927",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788959791927",
+      "isbn_add_code": "13410",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "범죄 수학 ",
+      "subtitle": "",
+      "author": "리스 하스아우트 글 ;오혜정 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "작은책방(Gbrain)",
+      "publish_year": "2010",
+      "publish_predate": "20100723",
+      "kdc": "691",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 오락",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "288 p.",
+      "book_size": "140*183mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "수학에 대한 열정을 불러일으키는 리스 하스아우트의 책. 여기에는 모두 14가지의 범죄 사건이 등장한다. 하나의 사건에는 수학 문제가 하나씩 포함되어 있다. 추리소설 구성에 수학 내용을 담고 있지만 절대 딱딱하지 않다. 수학탐정 라비와 함께 14가지 미스터리를 해결하다 보면 삼각법, 확률, 순열조합, 연역적 추론까지 명석하게 분석할 수 있고 어느새 수학을 즐길 수 있다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/740/68/cover/895979192x_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수학",
+          "weight": 36.0
+        },
+        {
+          "word": "사건",
+          "weight": 27.0
+        },
+        {
+          "word": "해결",
+          "weight": 12.0
+        },
+        {
+          "word": "라비",
+          "weight": 11.0
+        },
+        {
+          "word": "문제",
+          "weight": 9.0
+        },
+        {
+          "word": "등장",
+          "weight": 6.0
+        },
+        {
+          "word": "분석",
+          "weight": 6.0
+        },
+        {
+          "word": "수학적",
+          "weight": 5.0
+        },
+        {
+          "word": "수준",
+          "weight": 4.0
+        },
+        {
+          "word": "추리소설",
+          "weight": 4.0
+        },
+        {
+          "word": "범죄",
+          "weight": 4.0
+        },
+        {
+          "word": "미스터리한",
+          "weight": 4.0
+        },
+        {
+          "word": "14가지",
+          "weight": 4.0
+        },
+        {
+          "word": "고등학교",
+          "weight": 3.0
+        },
+        {
+          "word": "암호 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "소년",
+          "weight": 3.0
+        },
+        {
+          "word": "구성",
+          "weight": 3.0
+        },
+        {
+          "word": "미국",
+          "weight": 3.0
+        },
+        {
+          "word": "숫자로 끝내는 수학 100",
+          "weight": 3.0
+        },
+        {
+          "word": "미스터리",
+          "weight": 3.0
+        },
+        {
+          "word": "한 권으로 끝내는 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "달콤한 수학사",
+          "weight": 3.0
+        },
+        {
+          "word": "새로 쓰는 초등수학 교과서",
+          "weight": 3.0
+        },
+        {
+          "word": "주변",
+          "weight": 3.0
+        },
+        {
+          "word": "수학 언어로 문화재를 읽다",
+          "weight": 3.0
+        },
+        {
+          "word": "마틴 가드너 수학 코드",
+          "weight": 3.0
+        },
+        {
+          "word": "범죄 수학",
+          "weight": 3.0
+        },
+        {
+          "word": "수리논술",
+          "weight": 3.0
+        },
+        {
+          "word": "내용",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "살인",
+          "weight": 3.0
+        },
+        {
+          "word": "단서",
+          "weight": 3.0
+        },
+        {
+          "word": "교육과정",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "수학과",
+          "weight": 2.0
+        },
+        {
+          "word": "수학탐정",
+          "weight": 2.0
+        },
+        {
+          "word": "리스 하스아우트",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "설명",
+          "weight": 2.0
+        },
+        {
+          "word": "Gbrain",
+          "weight": 2.0
+        },
+        {
+          "word": "순열조합",
+          "weight": 2.0
+        },
+        {
+          "word": "딱딱",
+          "weight": 2.0
+        },
+        {
+          "word": "명석",
+          "weight": 2.0
+        },
+        {
+          "word": "부교재",
+          "weight": 2.0
+        },
+        {
+          "word": "개정",
+          "weight": 2.0
+        },
+        {
+          "word": "거기",
+          "weight": 2.0
+        },
+        {
+          "word": "수학동화",
+          "weight": 2.0
+        },
+        {
+          "word": "시중",
+          "weight": 2.0
+        },
+        {
+          "word": "감탄",
+          "weight": 2.0
+        },
+        {
+          "word": "2010년 9월",
+          "weight": 2.0
+        }
+      ],
+      "description": "수학에 대한 열정을 불러일으키는 리스 하스아우트의 책. 여기에는 모두 14가지의 범죄 사건이 등장한다. 하나의 사건에는 수학 문제가 하나씩 포함되어 있다. 추리소설 구성에 수학 내용을 담고 있지만 절대 딱딱하지 않다. 수학탐정 라비와 함께 14가지 미스터리를 해결하다 보면 삼각법, 확률, 순열조합, 연역적 추론까지 명석하게 분석할 수 있고 어느새 수학을 즐길 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "범죄 수학",
+          "isbn13": "9788959793006",
+          "authors": "카타리나 오버마이어 지음 ;강희진 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "isbn13": "9788936434267",
+          "authors": "지은이: 손원평"
+        },
+        {
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "isbn13": "9788954650212",
+          "authors": "글쓴이: 이꽃님"
+        },
+        {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "isbn13": "9791190337755",
+          "authors": "지은이: 이꽃님"
+        },
+        {
+          "bookname": "페인트 :이희영 장편소설 ",
+          "isbn13": "9788936456894",
+          "authors": "지은이: 이희영"
+        },
+        {
+          "bookname": "시간을 파는 상점 :김선영 장편소설 ",
+          "isbn13": "9788954427173",
+          "authors": "지은이: 김선영"
+        },
+        {
+          "bookname": "비스킷 ",
+          "isbn13": "9791168127630",
+          "authors": "글: 김선미"
+        },
+        {
+          "bookname": "이토록 공부가 재미있어지는 순간 :공부에 지친 청소년들을 위한 힐링 에세이 ",
+          "isbn13": "9791130604626",
+          "authors": "박성혁 지음"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        }
+      ],
+      "title": "범죄 수학 ",
+      "author": "리스 하스아우트 글 ;오혜정 옮김",
+      "kdc_from_api": "691",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

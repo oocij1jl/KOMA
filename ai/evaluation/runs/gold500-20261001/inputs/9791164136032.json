@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791164136032",
+  "captured_at": "2026-10-04T00:10:57.652488+09:00",
+  "lookup": {
+    "isbn": "9791164136032",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164136032",
+      "isbn_add_code": "77400",
+      "set_isbn": "9791164136025",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "흔한남매의 흔한 호기심",
+      "subtitle": "일상에서 만나는 과학 상식",
+      "author": "글: 안치현 ;그림: 유난희 ;사진: Shutterstock,Wikimedia",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2020",
+      "publish_predate": "20200903",
+      "kdc": "511",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 자연과학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "흔한남매의 흔한 호기심",
+      "series_no": "1",
+      "page": "164 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "우리 일상 속에도 다양한 과학 원리가 숨어 있다. 흔한남매의 흔한 호기심 1권에서는 ‘매운 걸 먹으면 스트레스가 풀릴까?’, ‘라면 면발은 왜 꼬불꼬불할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+      "control_no": "CIP2020034136",
+      "cover_url": "https://image.aladin.co.kr/product/25055/39/cover/k002632646_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "과학",
+          "weight": 16.0
+        },
+        {
+          "word": "호기심",
+          "weight": 10.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 9.0
+        },
+        {
+          "word": "다양",
+          "weight": 7.0
+        },
+        {
+          "word": "일상",
+          "weight": 6.0
+        },
+        {
+          "word": "흔한남매의 흔한 호기심",
+          "weight": 6.0
+        },
+        {
+          "word": "눈물",
+          "weight": 6.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "몸풀기",
+          "weight": 5.0
+        },
+        {
+          "word": "목소리",
+          "weight": 4.0
+        },
+        {
+          "word": "개념",
+          "weight": 4.0
+        },
+        {
+          "word": "원리",
+          "weight": 4.0
+        },
+        {
+          "word": "스트레스",
+          "weight": 4.0
+        },
+        {
+          "word": "3초",
+          "weight": 4.0
+        },
+        {
+          "word": "노래",
+          "weight": 4.0
+        },
+        {
+          "word": "꼬불꼬불",
+          "weight": 4.0
+        },
+        {
+          "word": "삽입",
+          "weight": 4.0
+        },
+        {
+          "word": "코너",
+          "weight": 3.0
+        },
+        {
+          "word": "교과",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "내용",
+          "weight": 3.0
+        },
+        {
+          "word": "페이지",
+          "weight": 3.0
+        },
+        {
+          "word": "면발",
+          "weight": 3.0
+        },
+        {
+          "word": "풀릴까",
+          "weight": 3.0
+        },
+        {
+          "word": "마법천자문 과학원정대",
+          "weight": 3.0
+        },
+        {
+          "word": "상식",
+          "weight": 3.0
+        },
+        {
+          "word": "레이튼 미스터리 탐정사무소",
+          "weight": 3.0
+        },
+        {
+          "word": "음식",
+          "weight": 3.0
+        },
+        {
+          "word": "라면",
+          "weight": 3.0
+        },
+        {
+          "word": "초등",
+          "weight": 3.0
+        },
+        {
+          "word": "9화",
+          "weight": 2.0
+        },
+        {
+          "word": "날달걀",
+          "weight": 2.0
+        },
+        {
+          "word": "박테리아",
+          "weight": 2.0
+        },
+        {
+          "word": "녹음",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "벌레",
+          "weight": 2.0
+        },
+        {
+          "word": "본문",
+          "weight": 2.0
+        },
+        {
+          "word": "1권에",
+          "weight": 2.0
+        },
+        {
+          "word": "1화",
+          "weight": 2.0
+        },
+        {
+          "word": "2화",
+          "weight": 2.0
+        },
+        {
+          "word": "번쯤",
+          "weight": 2.0
+        },
+        {
+          "word": "8화",
+          "weight": 2.0
+        },
+        {
+          "word": "갈증",
+          "weight": 2.0
+        },
+        {
+          "word": "7화",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "과일",
+          "weight": 2.0
+        },
+        {
+          "word": "과자",
+          "weight": 2.0
+        },
+        {
+          "word": "비법",
+          "weight": 2.0
+        },
+        {
+          "word": "마지막",
+          "weight": 2.0
+        },
+        {
+          "word": "3화",
+          "weight": 2.0
+        }
+      ],
+      "description": "우리 일상 속에도 다양한 과학 원리가 숨어 있다. 흔한남매의 흔한 호기심 1권에서는 ‘매운 걸 먹으면 스트레스가 풀릴까?’, ‘라면 면발은 왜 꼬불꼬불할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164137121",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164137923",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164138982",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168410848",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168411852",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168413931",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168414822",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168415409",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "흔한남매의 흔한 호기심",
+      "author": "글: 안치현 ;그림: 유난희 ;사진: Shutterstock,Wikimedia",
+      "kdc_from_api": "511",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "흔한남매의 흔한 호기심",
+        "author": "글: 안치현 ;그림: 유난희 ;사진: Shutterstock,Wikimedia",
+        "publisher": "Mirae N 아이세움 :미래엔",
+        "publish_predate": "20200903",
+        "isbn": "9791164136032",
+        "isbn_add_code": "77400",
+        "set_isbn": "9791164136025",
+        "set_add_code": "77400 ",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "흔한남매의 흔한 호기심",
+        "series_no": "1",
+        "volume": "1",
+        "page": "157 p.",
+        "book_size": "188*257",
+        "form": "종이책",
+        "kdc": "511",
+        "ddc": "",
+        "subject": "4",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020034136",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+        "author": "원작: 흔한남매 ;그림: 유난희",
+        "publisher": "미래엔",
+        "publish_year": "2020",
+        "isbn": "1164136038",
+        "isbn13": "9791164136032",
+        "isbn_add_code": "77400",
+        "volume": "1",
+        "class_no": "400",
+        "class_nm": "자연과학 > 자연과학 > 자연과학",
+        "description": "우리 일상 속에도 다양한 과학 원리가 숨어 있다. 흔한남매의 흔한 호기심 1권에서는 ‘매운 걸 먹으면 스트레스가 풀릴까?’, ‘라면 면발은 왜 꼬불꼬불할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+        "cover_url": "https://image.aladin.co.kr/product/25055/39/cover/k002632646_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "과학",
+            "weight": 16.0
+          },
+          {
+            "word": "호기심",
+            "weight": 10.0
+          },
+          {
+            "word": "퀴즈",
+            "weight": 9.0
+          },
+          {
+            "word": "다양",
+            "weight": 7.0
+          },
+          {
+            "word": "일상",
+            "weight": 6.0
+          },
+          {
+            "word": "흔한남매의 흔한 호기심",
+            "weight": 6.0
+          },
+          {
+            "word": "눈물",
+            "weight": 6.0
+          },
+          {
+            "word": "정보",
+            "weight": 5.0
+          },
+          {
+            "word": "몸풀기",
+            "weight": 5.0
+          },
+          {
+            "word": "목소리",
+            "weight": 4.0
+          },
+          {
+            "word": "개념",
+            "weight": 4.0
+          },
+          {
+            "word": "원리",
+            "weight": 4.0
+          },
+          {
+            "word": "스트레스",
+            "weight": 4.0
+          },
+          {
+            "word": "3초",
+            "weight": 4.0
+          },
+          {
+            "word": "노래",
+            "weight": 4.0
+          },
+          {
+            "word": "꼬불꼬불",
+            "weight": 4.0
+          },
+          {
+            "word": "삽입",
+            "weight": 4.0
+          },
+          {
+            "word": "코너",
+            "weight": 3.0
+          },
+          {
+            "word": "교과",
+            "weight": 3.0
+          },
+          {
+            "word": "특별",
+            "weight": 3.0
+          },
+          {
+            "word": "내용",
+            "weight": 3.0
+          },
+          {
+            "word": "페이지",
+            "weight": 3.0
+          },
+          {
+            "word": "면발",
+            "weight": 3.0
+          },
+          {
+            "word": "풀릴까",
+            "weight": 3.0
+          },
+          {
+            "word": "마법천자문 과학원정대",
+            "weight": 3.0
+          },
+          {
+            "word": "상식",
+            "weight": 3.0
+          },
+          {
+            "word": "레이튼 미스터리 탐정사무소",
+            "weight": 3.0
+          },
+          {
+            "word": "음식",
+            "weight": 3.0
+          },
+          {
+            "word": "라면",
+            "weight": 3.0
+          },
+          {
+            "word": "초등",
+            "weight": 3.0
+          },
+          {
+            "word": "9화",
+            "weight": 2.0
+          },
+          {
+            "word": "날달걀",
+            "weight": 2.0
+          },
+          {
+            "word": "박테리아",
+            "weight": 2.0
+          },
+          {
+            "word": "녹음",
+            "weight": 2.0
+          },
+          {
+            "word": "미래엔",
+            "weight": 2.0
+          },
+          {
+            "word": "벌레",
+            "weight": 2.0
+          },
+          {
+            "word": "본문",
+            "weight": 2.0
+          },
+          {
+            "word": "1권에",
+            "weight": 2.0
+          },
+          {
+            "word": "1화",
+            "weight": 2.0
+          },
+          {
+            "word": "2화",
+            "weight": 2.0
+          },
+          {
+            "word": "번쯤",
+            "weight": 2.0
+          },
+          {
+            "word": "8화",
+            "weight": 2.0
+          },
+          {
+            "word": "갈증",
+            "weight": 2.0
+          },
+          {
+            "word": "7화",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "과일",
+            "weight": 2.0
+          },
+          {
+            "word": "과자",
+            "weight": 2.0
+          },
+          {
+            "word": "비법",
+            "weight": 2.0
+          },
+          {
+            "word": "마지막",
+            "weight": 2.0
+          },
+          {
+            "word": "3화",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791164137121",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791164137923",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791164138982",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168410848",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168411852",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168413931",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168414822",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+            "isbn13": "9791168415409",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164135592",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "흔한남매의 흔한 호기심 1 - 일상에서 만나는 과학 상식"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001826067",
+        "title": "흔한남매의 흔한 호기심 1",
+        "subtitle": "일상에서 만나는 과학 상식",
+        "page": "164 p.",
+        "book_size": "189*257mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791164136032",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791164136032",
+      "isbn_add_code": "77400",
+      "set_isbn": "9791164136025",
+      "set_add_code": "77400 ",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "흔한남매의 흔한 호기심",
+      "subtitle": "일상에서 만나는 과학 상식",
+      "author": "글: 안치현 ;그림: 유난희 ;사진: Shutterstock,Wikimedia",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "Mirae N 아이세움 :미래엔",
+      "publish_year": "2020",
+      "publish_predate": "20200903",
+      "kdc": "511",
+      "kdc_edition": "",
+      "kdc_name": "자연과학 > 자연과학 > 자연과학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "4",
+      "edition_stmt": "",
+      "series_title": "흔한남매의 흔한 호기심",
+      "series_no": "1",
+      "page": "164 p.",
+      "book_size": "188*257",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "우리 일상 속에도 다양한 과학 원리가 숨어 있다. 흔한남매의 흔한 호기심 1권에서는 ‘매운 걸 먹으면 스트레스가 풀릴까?’, ‘라면 면발은 왜 꼬불꼬불할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+      "control_no": "CIP2020034136",
+      "cover_url": "https://image.aladin.co.kr/product/25055/39/cover/k002632646_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "과학",
+          "weight": 16.0
+        },
+        {
+          "word": "호기심",
+          "weight": 10.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 9.0
+        },
+        {
+          "word": "다양",
+          "weight": 7.0
+        },
+        {
+          "word": "일상",
+          "weight": 6.0
+        },
+        {
+          "word": "흔한남매의 흔한 호기심",
+          "weight": 6.0
+        },
+        {
+          "word": "눈물",
+          "weight": 6.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "몸풀기",
+          "weight": 5.0
+        },
+        {
+          "word": "목소리",
+          "weight": 4.0
+        },
+        {
+          "word": "개념",
+          "weight": 4.0
+        },
+        {
+          "word": "원리",
+          "weight": 4.0
+        },
+        {
+          "word": "스트레스",
+          "weight": 4.0
+        },
+        {
+          "word": "3초",
+          "weight": 4.0
+        },
+        {
+          "word": "노래",
+          "weight": 4.0
+        },
+        {
+          "word": "꼬불꼬불",
+          "weight": 4.0
+        },
+        {
+          "word": "삽입",
+          "weight": 4.0
+        },
+        {
+          "word": "코너",
+          "weight": 3.0
+        },
+        {
+          "word": "교과",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "내용",
+          "weight": 3.0
+        },
+        {
+          "word": "페이지",
+          "weight": 3.0
+        },
+        {
+          "word": "면발",
+          "weight": 3.0
+        },
+        {
+          "word": "풀릴까",
+          "weight": 3.0
+        },
+        {
+          "word": "마법천자문 과학원정대",
+          "weight": 3.0
+        },
+        {
+          "word": "상식",
+          "weight": 3.0
+        },
+        {
+          "word": "레이튼 미스터리 탐정사무소",
+          "weight": 3.0
+        },
+        {
+          "word": "음식",
+          "weight": 3.0
+        },
+        {
+          "word": "라면",
+          "weight": 3.0
+        },
+        {
+          "word": "초등",
+          "weight": 3.0
+        },
+        {
+          "word": "9화",
+          "weight": 2.0
+        },
+        {
+          "word": "날달걀",
+          "weight": 2.0
+        },
+        {
+          "word": "박테리아",
+          "weight": 2.0
+        },
+        {
+          "word": "녹음",
+          "weight": 2.0
+        },
+        {
+          "word": "미래엔",
+          "weight": 2.0
+        },
+        {
+          "word": "벌레",
+          "weight": 2.0
+        },
+        {
+          "word": "본문",
+          "weight": 2.0
+        },
+        {
+          "word": "1권에",
+          "weight": 2.0
+        },
+        {
+          "word": "1화",
+          "weight": 2.0
+        },
+        {
+          "word": "2화",
+          "weight": 2.0
+        },
+        {
+          "word": "번쯤",
+          "weight": 2.0
+        },
+        {
+          "word": "8화",
+          "weight": 2.0
+        },
+        {
+          "word": "갈증",
+          "weight": 2.0
+        },
+        {
+          "word": "7화",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "과일",
+          "weight": 2.0
+        },
+        {
+          "word": "과자",
+          "weight": 2.0
+        },
+        {
+          "word": "비법",
+          "weight": 2.0
+        },
+        {
+          "word": "마지막",
+          "weight": 2.0
+        },
+        {
+          "word": "3화",
+          "weight": 2.0
+        }
+      ],
+      "description": "우리 일상 속에도 다양한 과학 원리가 숨어 있다. 흔한남매의 흔한 호기심 1권에서는 ‘매운 걸 먹으면 스트레스가 풀릴까?’, ‘라면 면발은 왜 꼬불꼬불할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164137121",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164137923",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791164138982",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168410848",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168411852",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168413931",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168414822",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "isbn13": "9791168415409",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "흔한남매의 흔한 호기심",
+      "author": "글: 안치현 ;그림: 유난희 ;사진: Shutterstock,Wikimedia",
+      "kdc_from_api": "511",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

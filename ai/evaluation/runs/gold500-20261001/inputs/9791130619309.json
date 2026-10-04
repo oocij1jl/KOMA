@@ -1,0 +1,1088 @@
+{
+  "isbn": "9791130619309",
+  "captured_at": "2026-10-03T00:16:20.049149+09:00",
+  "lookup": {
+    "isbn": "9791130619309",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791130619309",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "마흔에게",
+      "subtitle": "기시미 이치로의 다시 살아갈 용기에 대하여",
+      "author": "기시미 이치로 지음 ;전경아 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다산초당 :다산북스",
+      "publish_year": "2018",
+      "publish_predate": "20180921",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "158.1",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "132*201mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "국내에서만 150만 부 이상 판매된 &lt;미움받을 용기&gt;의 저자 기시미 이치로가 “나이 들어가는 삶을 둘러싼 문제”에 대해 이야기하고 있다. 아들러 심리학과 플라톤 철학을 ‘기시미 이치로’의 진실한 목소리로 풀어 ‘다시 살아갈 용기’에 대해 말한다.",
+      "control_no": "CIP2018030221",
+      "cover_url": "http://image.aladin.co.kr/product/16933/4/cover/k972534371_2.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6910915_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "나이",
+          "weight": 17.0
+        },
+        {
+          "word": "기시미",
+          "weight": 17.0
+        },
+        {
+          "word": "이치",
+          "weight": 15.0
+        },
+        {
+          "word": "용기",
+          "weight": 13.0
+        },
+        {
+          "word": "마흔에게",
+          "weight": 12.0
+        },
+        {
+          "word": "인생",
+          "weight": 11.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "심리학",
+          "weight": 10.0
+        },
+        {
+          "word": "생각",
+          "weight": 10.0
+        },
+        {
+          "word": "미움받을 용기",
+          "weight": 9.0
+        },
+        {
+          "word": "오늘",
+          "weight": 9.0
+        },
+        {
+          "word": "아들러",
+          "weight": 8.0
+        },
+        {
+          "word": "시간",
+          "weight": 7.0
+        },
+        {
+          "word": "어머니",
+          "weight": 7.0
+        },
+        {
+          "word": "철학",
+          "weight": 6.0
+        },
+        {
+          "word": "플라톤",
+          "weight": 5.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 5.0
+        },
+        {
+          "word": "마라톤",
+          "weight": 5.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "심장",
+          "weight": 4.0
+        },
+        {
+          "word": "공부",
+          "weight": 4.0
+        },
+        {
+          "word": "재활",
+          "weight": 4.0
+        },
+        {
+          "word": "행복",
+          "weight": 4.0
+        },
+        {
+          "word": "1인자",
+          "weight": 4.0
+        },
+        {
+          "word": "대체",
+          "weight": 4.0
+        },
+        {
+          "word": "정신의학병원",
+          "weight": 3.0
+        },
+        {
+          "word": "죽음",
+          "weight": 3.0
+        },
+        {
+          "word": "관계",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "목소리",
+          "weight": 3.0
+        },
+        {
+          "word": "국내",
+          "weight": 3.0
+        },
+        {
+          "word": "판매",
+          "weight": 3.0
+        },
+        {
+          "word": "그렇지만",
+          "weight": 3.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "저서",
+          "weight": 3.0
+        },
+        {
+          "word": "시절",
+          "weight": 3.0
+        },
+        {
+          "word": "심근경색",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "대수술",
+          "weight": 3.0
+        },
+        {
+          "word": "강연",
+          "weight": 3.0
+        },
+        {
+          "word": "일생일대",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘의 문장들",
+          "weight": 3.0
+        },
+        {
+          "word": "청년",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "쓰러진",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "카라마조프가의 형제들",
+          "weight": 3.0
+        },
+        {
+          "word": "포기",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "사건",
+          "weight": 3.0
+        }
+      ],
+      "description": "국내에서만 150만 부 이상 판매된 &lt;미움받을 용기&gt;의 저자 기시미 이치로가 “나이 들어가는 삶을 둘러싼 문제”에 대해 이야기하고 있다. 아들러 심리학과 플라톤 철학을 ‘기시미 이치로’의 진실한 목소리로 풀어 ‘다시 살아갈 용기’에 대해 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "미움받을 용기 :사랑과 진정한 자립에 대한 아들러의 가르침",
+          "isbn13": "9791186560129",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "아무것도 하지 않으면 아무 일도 일어나지 않는다 :인생의 판을 뒤집는 아들러의 가르침 ",
+          "isbn13": "9788952235107",
+          "authors": "기시미 이치로 지음 ;전경아 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아들러 심리학을 읽는 밤 :『미움받을 용기』 기시미 이치로의 아들러 심리학 입문 ",
+          "isbn13": "9788952230645",
+          "authors": "기시미 이치로 지음 ;박재현 옮김"
+        }
+      ],
+      "title": "마흔에게",
+      "author": "기시미 이치로 지음 ;전경아 옮김",
+      "kdc_from_api": "189",
+      "ddc_from_api": "158.1",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "마흔에게",
+        "author": "기시미 이치로 지음 ;전경아 옮김",
+        "publisher": "다산초당 :다산북스",
+        "publish_predate": "20180921",
+        "isbn": "9791130619309",
+        "isbn_add_code": "03190",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "253 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "189",
+        "ddc": "158.1",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018030221",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6910915_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "마흔에게 :기시미 이치로의 다시 살아갈 용기에 대하여 ",
+        "author": "기시미 이치로 지음 ;전경아 옮김",
+        "publisher": "다산북스",
+        "publish_year": "2018",
+        "isbn": "1130619303",
+        "isbn13": "9791130619309",
+        "isbn_add_code": "03190",
+        "volume": "",
+        "class_no": "199.7",
+        "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+        "description": "국내에서만 150만 부 이상 판매된 &lt;미움받을 용기&gt;의 저자 기시미 이치로가 “나이 들어가는 삶을 둘러싼 문제”에 대해 이야기하고 있다. 아들러 심리학과 플라톤 철학을 ‘기시미 이치로’의 진실한 목소리로 풀어 ‘다시 살아갈 용기’에 대해 말한다.",
+        "cover_url": "http://image.aladin.co.kr/product/16933/4/cover/k972534371_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "나이",
+            "weight": 17.0
+          },
+          {
+            "word": "기시미",
+            "weight": 17.0
+          },
+          {
+            "word": "이치",
+            "weight": 15.0
+          },
+          {
+            "word": "용기",
+            "weight": 13.0
+          },
+          {
+            "word": "마흔에게",
+            "weight": 12.0
+          },
+          {
+            "word": "인생",
+            "weight": 11.0
+          },
+          {
+            "word": "사람",
+            "weight": 11.0
+          },
+          {
+            "word": "심리학",
+            "weight": 10.0
+          },
+          {
+            "word": "생각",
+            "weight": 10.0
+          },
+          {
+            "word": "미움받을 용기",
+            "weight": 9.0
+          },
+          {
+            "word": "오늘",
+            "weight": 9.0
+          },
+          {
+            "word": "아들러",
+            "weight": 8.0
+          },
+          {
+            "word": "시간",
+            "weight": 7.0
+          },
+          {
+            "word": "어머니",
+            "weight": 7.0
+          },
+          {
+            "word": "철학",
+            "weight": 6.0
+          },
+          {
+            "word": "플라톤",
+            "weight": 5.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 5.0
+          },
+          {
+            "word": "마라톤",
+            "weight": 5.0
+          },
+          {
+            "word": "부모",
+            "weight": 4.0
+          },
+          {
+            "word": "심장",
+            "weight": 4.0
+          },
+          {
+            "word": "공부",
+            "weight": 4.0
+          },
+          {
+            "word": "재활",
+            "weight": 4.0
+          },
+          {
+            "word": "행복",
+            "weight": 4.0
+          },
+          {
+            "word": "1인자",
+            "weight": 4.0
+          },
+          {
+            "word": "대체",
+            "weight": 4.0
+          },
+          {
+            "word": "정신의학병원",
+            "weight": 3.0
+          },
+          {
+            "word": "죽음",
+            "weight": 3.0
+          },
+          {
+            "word": "관계",
+            "weight": 3.0
+          },
+          {
+            "word": "이유",
+            "weight": 3.0
+          },
+          {
+            "word": "목소리",
+            "weight": 3.0
+          },
+          {
+            "word": "국내",
+            "weight": 3.0
+          },
+          {
+            "word": "판매",
+            "weight": 3.0
+          },
+          {
+            "word": "그렇지만",
+            "weight": 3.0
+          },
+          {
+            "word": "문제",
+            "weight": 3.0
+          },
+          {
+            "word": "저서",
+            "weight": 3.0
+          },
+          {
+            "word": "시절",
+            "weight": 3.0
+          },
+          {
+            "word": "심근경색",
+            "weight": 3.0
+          },
+          {
+            "word": "연결",
+            "weight": 3.0
+          },
+          {
+            "word": "대수술",
+            "weight": 3.0
+          },
+          {
+            "word": "강연",
+            "weight": 3.0
+          },
+          {
+            "word": "일생일대",
+            "weight": 3.0
+          },
+          {
+            "word": "청춘의 문장들",
+            "weight": 3.0
+          },
+          {
+            "word": "청년",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "쓰러진",
+            "weight": 3.0
+          },
+          {
+            "word": "경험",
+            "weight": 3.0
+          },
+          {
+            "word": "카라마조프가의 형제들",
+            "weight": 3.0
+          },
+          {
+            "word": "포기",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "사건",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+            "isbn13": "9788996991342",
+            "authors": "기시미 이치로,전경아 옮김"
+          },
+          {
+            "bookname": "미움받을 용기 :사랑과 진정한 자립에 대한 아들러의 가르침",
+            "isbn13": "9791186560129",
+            "authors": "기시미 이치로,전경아 옮김"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+            "isbn13": "9791192300245",
+            "authors": "장재형 지음"
+          },
+          {
+            "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+            "isbn13": "9791192300818",
+            "authors": "강용수 지음"
+          },
+          {
+            "bookname": "아무것도 하지 않으면 아무 일도 일어나지 않는다 :인생의 판을 뒤집는 아들러의 가르침 ",
+            "isbn13": "9788952235107",
+            "authors": "기시미 이치로 지음 ;전경아 옮김"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아들러 심리학을 읽는 밤 :『미움받을 용기』 기시미 이치로의 아들러 심리학 입문 ",
+            "isbn13": "9788952230645",
+            "authors": "기시미 이치로 지음 ;박재현 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "마흔에게 - 기시미 이치로의 다시 살아갈 용기에 대하여"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001686619",
+        "title": "마흔에게",
+        "subtitle": "",
+        "page": "256 p.",
+        "book_size": "132*201mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791130619309",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791130619309",
+      "isbn_add_code": "03190",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "마흔에게",
+      "subtitle": "기시미 이치로의 다시 살아갈 용기에 대하여",
+      "author": "기시미 이치로 지음 ;전경아 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다산초당 :다산북스",
+      "publish_year": "2018",
+      "publish_predate": "20180921",
+      "kdc": "189",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "158.1",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "256 p.",
+      "book_size": "132*201mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "국내에서만 150만 부 이상 판매된 &lt;미움받을 용기&gt;의 저자 기시미 이치로가 “나이 들어가는 삶을 둘러싼 문제”에 대해 이야기하고 있다. 아들러 심리학과 플라톤 철학을 ‘기시미 이치로’의 진실한 목소리로 풀어 ‘다시 살아갈 용기’에 대해 말한다.",
+      "control_no": "CIP2018030221",
+      "cover_url": "http://image.aladin.co.kr/product/16933/4/cover/k972534371_2.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6910915_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "나이",
+          "weight": 17.0
+        },
+        {
+          "word": "기시미",
+          "weight": 17.0
+        },
+        {
+          "word": "이치",
+          "weight": 15.0
+        },
+        {
+          "word": "용기",
+          "weight": 13.0
+        },
+        {
+          "word": "마흔에게",
+          "weight": 12.0
+        },
+        {
+          "word": "인생",
+          "weight": 11.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "심리학",
+          "weight": 10.0
+        },
+        {
+          "word": "생각",
+          "weight": 10.0
+        },
+        {
+          "word": "미움받을 용기",
+          "weight": 9.0
+        },
+        {
+          "word": "오늘",
+          "weight": 9.0
+        },
+        {
+          "word": "아들러",
+          "weight": 8.0
+        },
+        {
+          "word": "시간",
+          "weight": 7.0
+        },
+        {
+          "word": "어머니",
+          "weight": 7.0
+        },
+        {
+          "word": "철학",
+          "weight": 6.0
+        },
+        {
+          "word": "플라톤",
+          "weight": 5.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 5.0
+        },
+        {
+          "word": "마라톤",
+          "weight": 5.0
+        },
+        {
+          "word": "부모",
+          "weight": 4.0
+        },
+        {
+          "word": "심장",
+          "weight": 4.0
+        },
+        {
+          "word": "공부",
+          "weight": 4.0
+        },
+        {
+          "word": "재활",
+          "weight": 4.0
+        },
+        {
+          "word": "행복",
+          "weight": 4.0
+        },
+        {
+          "word": "1인자",
+          "weight": 4.0
+        },
+        {
+          "word": "대체",
+          "weight": 4.0
+        },
+        {
+          "word": "정신의학병원",
+          "weight": 3.0
+        },
+        {
+          "word": "죽음",
+          "weight": 3.0
+        },
+        {
+          "word": "관계",
+          "weight": 3.0
+        },
+        {
+          "word": "이유",
+          "weight": 3.0
+        },
+        {
+          "word": "목소리",
+          "weight": 3.0
+        },
+        {
+          "word": "국내",
+          "weight": 3.0
+        },
+        {
+          "word": "판매",
+          "weight": 3.0
+        },
+        {
+          "word": "그렇지만",
+          "weight": 3.0
+        },
+        {
+          "word": "문제",
+          "weight": 3.0
+        },
+        {
+          "word": "저서",
+          "weight": 3.0
+        },
+        {
+          "word": "시절",
+          "weight": 3.0
+        },
+        {
+          "word": "심근경색",
+          "weight": 3.0
+        },
+        {
+          "word": "연결",
+          "weight": 3.0
+        },
+        {
+          "word": "대수술",
+          "weight": 3.0
+        },
+        {
+          "word": "강연",
+          "weight": 3.0
+        },
+        {
+          "word": "일생일대",
+          "weight": 3.0
+        },
+        {
+          "word": "청춘의 문장들",
+          "weight": 3.0
+        },
+        {
+          "word": "청년",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "쓰러진",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "카라마조프가의 형제들",
+          "weight": 3.0
+        },
+        {
+          "word": "포기",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "사건",
+          "weight": 3.0
+        }
+      ],
+      "description": "국내에서만 150만 부 이상 판매된 &lt;미움받을 용기&gt;의 저자 기시미 이치로가 “나이 들어가는 삶을 둘러싼 문제”에 대해 이야기하고 있다. 아들러 심리학과 플라톤 철학을 ‘기시미 이치로’의 진실한 목소리로 풀어 ‘다시 살아갈 용기’에 대해 말한다.",
+      "co_loan_books": [
+        {
+          "bookname": "미움받을 용기 :자유롭고 행복한 삶을 위한 아들러의 가르침 ",
+          "isbn13": "9788996991342",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "미움받을 용기 :사랑과 진정한 자립에 대한 아들러의 가르침",
+          "isbn13": "9791186560129",
+          "authors": "기시미 이치로,전경아 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "isbn13": "9791192300245",
+          "authors": "장재형 지음"
+        },
+        {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "isbn13": "9791192300818",
+          "authors": "강용수 지음"
+        },
+        {
+          "bookname": "아무것도 하지 않으면 아무 일도 일어나지 않는다 :인생의 판을 뒤집는 아들러의 가르침 ",
+          "isbn13": "9788952235107",
+          "authors": "기시미 이치로 지음 ;전경아 옮김"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아들러 심리학을 읽는 밤 :『미움받을 용기』 기시미 이치로의 아들러 심리학 입문 ",
+          "isbn13": "9788952230645",
+          "authors": "기시미 이치로 지음 ;박재현 옮김"
+        }
+      ],
+      "title": "마흔에게",
+      "author": "기시미 이치로 지음 ;전경아 옮김",
+      "kdc_from_api": "189",
+      "ddc_from_api": "158.1",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

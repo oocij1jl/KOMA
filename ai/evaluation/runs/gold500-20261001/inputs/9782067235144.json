@@ -1,0 +1,930 @@
+{
+  "isbn": "9782067235144",
+  "captured_at": "2026-10-03T00:21:45.182031+09:00",
+  "lookup": {
+    "isbn": "9782067235144",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9782067235144",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+      "subtitle": "",
+      "author": "Michelin Travel Partner 저",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Michelin",
+      "publish_year": "[201",
+      "publish_predate": "",
+      "kdc": "594.82",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "132*193mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "가장 유명한 상징인 미쉐린 스타를 비롯하여 합리적인 가격에 훌륭한 음식을 제공하는 빕 구르망 그리고 좋은 요리를 맛볼 수 있는 더 플레이트까지, 여행객의 예산과 목적에 따라 최고의 맛을 경험을 할 수 있는 서울의 레스토랑을 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17048/36/cover/k542534786_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "레스토랑",
+          "weight": 12.0
+        },
+        {
+          "word": "호텔",
+          "weight": 11.0
+        },
+        {
+          "word": "미쉐린",
+          "weight": 11.0
+        },
+        {
+          "word": "가이드",
+          "weight": 7.0
+        },
+        {
+          "word": "서울",
+          "weight": 5.0
+        },
+        {
+          "word": "평가원",
+          "weight": 5.0
+        },
+        {
+          "word": "RESTAURANTS",
+          "weight": 5.0
+        },
+        {
+          "word": "평가",
+          "weight": 5.0
+        },
+        {
+          "word": "Michelin",
+          "weight": 4.0
+        },
+        {
+          "word": "IN",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        },
+        {
+          "word": "미쉐린 가이드 서울",
+          "weight": 3.0
+        },
+        {
+          "word": "분류",
+          "weight": 3.0
+        },
+        {
+          "word": "SEOUL",
+          "weight": 3.0
+        },
+        {
+          "word": "BY",
+          "weight": 3.0
+        },
+        {
+          "word": "GUIDE",
+          "weight": 3.0
+        },
+        {
+          "word": "THE",
+          "weight": 3.0
+        },
+        {
+          "word": "발행",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 2.0
+        },
+        {
+          "word": "신분",
+          "weight": 2.0
+        },
+        {
+          "word": "전세계",
+          "weight": 2.0
+        },
+        {
+          "word": "맛집여행",
+          "weight": 2.0
+        },
+        {
+          "word": "구르망",
+          "weight": 2.0
+        },
+        {
+          "word": "HOTELS",
+          "weight": 2.0
+        },
+        {
+          "word": "서울 수도권 여행가이드",
+          "weight": 2.0
+        },
+        {
+          "word": "이들",
+          "weight": 2.0
+        },
+        {
+          "word": "강남구",
+          "weight": 1.0
+        },
+        {
+          "word": "공정",
+          "weight": 1.0
+        },
+        {
+          "word": "고객",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "YEONGDEUNGPO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "YONGSAN-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "객관적",
+          "weight": 1.0
+        },
+        {
+          "word": "가격",
+          "weight": 1.0
+        },
+        {
+          "word": "CONTENTS",
+          "weight": 1.0
+        },
+        {
+          "word": "GURO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "CUISINE",
+          "weight": 1.0
+        },
+        {
+          "word": "JUNG-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "MAP",
+          "weight": 1.0
+        },
+        {
+          "word": "MAPO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "GOURMAND",
+          "weight": 1.0
+        },
+        {
+          "word": "OF",
+          "weight": 1.0
+        },
+        {
+          "word": "GANGNAM-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "OUR",
+          "weight": 1.0
+        },
+        {
+          "word": "Partner",
+          "weight": 1.0
+        },
+        {
+          "word": "SELECTION",
+          "weight": 1.0
+        },
+        {
+          "word": "SEOCHO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "ORDER",
+          "weight": 1.0
+        },
+        {
+          "word": "GWANGJIN-GU",
+          "weight": 1.0
+        }
+      ],
+      "description": "가장 유명한 상징인 미쉐린 스타를 비롯하여 합리적인 가격에 훌륭한 음식을 제공하는 빕 구르망 그리고 좋은 요리를 맛볼 수 있는 더 플레이트까지, 여행객의 예산과 목적에 따라 최고의 맛을 경험을 할 수 있는 서울의 레스토랑을 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "2021 미쉐린 가이드 서울",
+          "isbn13": "9782067250529",
+          "authors": "미쉐린 가이드 평가원 (지은이)"
+        },
+        {
+          "bookname": "2017 미쉐린 가이드 서울",
+          "isbn13": "9782067215146",
+          "authors": "미쉐린 트래블 파트너"
+        }
+      ],
+      "title": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+      "author": "Michelin Travel Partner 저",
+      "kdc_from_api": "594.82",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": false
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+        "author": "Michelin Travel Partner 저",
+        "publisher": "Michelin",
+        "publish_year": "[201",
+        "isbn": "2067235141",
+        "isbn13": "9782067235144",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "594.82",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+        "description": "가장 유명한 상징인 미쉐린 스타를 비롯하여 합리적인 가격에 훌륭한 음식을 제공하는 빕 구르망 그리고 좋은 요리를 맛볼 수 있는 더 플레이트까지, 여행객의 예산과 목적에 따라 최고의 맛을 경험을 할 수 있는 서울의 레스토랑을 담았다.",
+        "cover_url": "https://image.aladin.co.kr/product/17048/36/cover/k542534786_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "레스토랑",
+            "weight": 12.0
+          },
+          {
+            "word": "호텔",
+            "weight": 11.0
+          },
+          {
+            "word": "미쉐린",
+            "weight": 11.0
+          },
+          {
+            "word": "가이드",
+            "weight": 7.0
+          },
+          {
+            "word": "서울",
+            "weight": 5.0
+          },
+          {
+            "word": "평가원",
+            "weight": 5.0
+          },
+          {
+            "word": "RESTAURANTS",
+            "weight": 5.0
+          },
+          {
+            "word": "평가",
+            "weight": 5.0
+          },
+          {
+            "word": "Michelin",
+            "weight": 4.0
+          },
+          {
+            "word": "IN",
+            "weight": 4.0
+          },
+          {
+            "word": "최고",
+            "weight": 4.0
+          },
+          {
+            "word": "미쉐린 가이드 서울",
+            "weight": 3.0
+          },
+          {
+            "word": "분류",
+            "weight": 3.0
+          },
+          {
+            "word": "SEOUL",
+            "weight": 3.0
+          },
+          {
+            "word": "BY",
+            "weight": 3.0
+          },
+          {
+            "word": "GUIDE",
+            "weight": 3.0
+          },
+          {
+            "word": "THE",
+            "weight": 3.0
+          },
+          {
+            "word": "발행",
+            "weight": 2.0
+          },
+          {
+            "word": "스타",
+            "weight": 2.0
+          },
+          {
+            "word": "신분",
+            "weight": 2.0
+          },
+          {
+            "word": "전세계",
+            "weight": 2.0
+          },
+          {
+            "word": "맛집여행",
+            "weight": 2.0
+          },
+          {
+            "word": "구르망",
+            "weight": 2.0
+          },
+          {
+            "word": "HOTELS",
+            "weight": 2.0
+          },
+          {
+            "word": "서울 수도권 여행가이드",
+            "weight": 2.0
+          },
+          {
+            "word": "이들",
+            "weight": 2.0
+          },
+          {
+            "word": "강남구",
+            "weight": 1.0
+          },
+          {
+            "word": "공정",
+            "weight": 1.0
+          },
+          {
+            "word": "고객",
+            "weight": 1.0
+          },
+          {
+            "word": "경험",
+            "weight": 1.0
+          },
+          {
+            "word": "활동",
+            "weight": 1.0
+          },
+          {
+            "word": "YEONGDEUNGPO-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "YONGSAN-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "객관적",
+            "weight": 1.0
+          },
+          {
+            "word": "가격",
+            "weight": 1.0
+          },
+          {
+            "word": "CONTENTS",
+            "weight": 1.0
+          },
+          {
+            "word": "GURO-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "CUISINE",
+            "weight": 1.0
+          },
+          {
+            "word": "JUNG-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "MAP",
+            "weight": 1.0
+          },
+          {
+            "word": "MAPO-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "GOURMAND",
+            "weight": 1.0
+          },
+          {
+            "word": "OF",
+            "weight": 1.0
+          },
+          {
+            "word": "GANGNAM-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "OUR",
+            "weight": 1.0
+          },
+          {
+            "word": "Partner",
+            "weight": 1.0
+          },
+          {
+            "word": "SELECTION",
+            "weight": 1.0
+          },
+          {
+            "word": "SEOCHO-GU",
+            "weight": 1.0
+          },
+          {
+            "word": "ORDER",
+            "weight": 1.0
+          },
+          {
+            "word": "GWANGJIN-GU",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "2021 미쉐린 가이드 서울",
+            "isbn13": "9782067250529",
+            "authors": "미쉐린 가이드 평가원 (지은이)"
+          },
+          {
+            "bookname": "2017 미쉐린 가이드 서울",
+            "isbn13": "9782067215146",
+            "authors": "미쉐린 트래블 파트너"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": false,
+        "title_statement": ""
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000379020",
+        "title": "미쉐린 가이드: 서울(2019)",
+        "subtitle": "",
+        "page": "320 p.",
+        "book_size": "132*193mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9782067235144",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9782067235144",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "",
+      "title": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+      "subtitle": "",
+      "author": "Michelin Travel Partner 저",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "Michelin",
+      "publish_year": "[201",
+      "publish_predate": "",
+      "kdc": "594.82",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 식품과 식료",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "320 p.",
+      "book_size": "132*193mm",
+      "form": "",
+      "ebook_yn": "",
+      "description": "가장 유명한 상징인 미쉐린 스타를 비롯하여 합리적인 가격에 훌륭한 음식을 제공하는 빕 구르망 그리고 좋은 요리를 맛볼 수 있는 더 플레이트까지, 여행객의 예산과 목적에 따라 최고의 맛을 경험을 할 수 있는 서울의 레스토랑을 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/17048/36/cover/k542534786_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "d4l",
+        "isbn_add_code": "d4l",
+        "title": "d4l",
+        "author": "d4l",
+        "publisher": "d4l",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "레스토랑",
+          "weight": 12.0
+        },
+        {
+          "word": "호텔",
+          "weight": 11.0
+        },
+        {
+          "word": "미쉐린",
+          "weight": 11.0
+        },
+        {
+          "word": "가이드",
+          "weight": 7.0
+        },
+        {
+          "word": "서울",
+          "weight": 5.0
+        },
+        {
+          "word": "평가원",
+          "weight": 5.0
+        },
+        {
+          "word": "RESTAURANTS",
+          "weight": 5.0
+        },
+        {
+          "word": "평가",
+          "weight": 5.0
+        },
+        {
+          "word": "Michelin",
+          "weight": 4.0
+        },
+        {
+          "word": "IN",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        },
+        {
+          "word": "미쉐린 가이드 서울",
+          "weight": 3.0
+        },
+        {
+          "word": "분류",
+          "weight": 3.0
+        },
+        {
+          "word": "SEOUL",
+          "weight": 3.0
+        },
+        {
+          "word": "BY",
+          "weight": 3.0
+        },
+        {
+          "word": "GUIDE",
+          "weight": 3.0
+        },
+        {
+          "word": "THE",
+          "weight": 3.0
+        },
+        {
+          "word": "발행",
+          "weight": 2.0
+        },
+        {
+          "word": "스타",
+          "weight": 2.0
+        },
+        {
+          "word": "신분",
+          "weight": 2.0
+        },
+        {
+          "word": "전세계",
+          "weight": 2.0
+        },
+        {
+          "word": "맛집여행",
+          "weight": 2.0
+        },
+        {
+          "word": "구르망",
+          "weight": 2.0
+        },
+        {
+          "word": "HOTELS",
+          "weight": 2.0
+        },
+        {
+          "word": "서울 수도권 여행가이드",
+          "weight": 2.0
+        },
+        {
+          "word": "이들",
+          "weight": 2.0
+        },
+        {
+          "word": "강남구",
+          "weight": 1.0
+        },
+        {
+          "word": "공정",
+          "weight": 1.0
+        },
+        {
+          "word": "고객",
+          "weight": 1.0
+        },
+        {
+          "word": "경험",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "YEONGDEUNGPO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "YONGSAN-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "객관적",
+          "weight": 1.0
+        },
+        {
+          "word": "가격",
+          "weight": 1.0
+        },
+        {
+          "word": "CONTENTS",
+          "weight": 1.0
+        },
+        {
+          "word": "GURO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "CUISINE",
+          "weight": 1.0
+        },
+        {
+          "word": "JUNG-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "MAP",
+          "weight": 1.0
+        },
+        {
+          "word": "MAPO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "GOURMAND",
+          "weight": 1.0
+        },
+        {
+          "word": "OF",
+          "weight": 1.0
+        },
+        {
+          "word": "GANGNAM-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "OUR",
+          "weight": 1.0
+        },
+        {
+          "word": "Partner",
+          "weight": 1.0
+        },
+        {
+          "word": "SELECTION",
+          "weight": 1.0
+        },
+        {
+          "word": "SEOCHO-GU",
+          "weight": 1.0
+        },
+        {
+          "word": "ORDER",
+          "weight": 1.0
+        },
+        {
+          "word": "GWANGJIN-GU",
+          "weight": 1.0
+        }
+      ],
+      "description": "가장 유명한 상징인 미쉐린 스타를 비롯하여 합리적인 가격에 훌륭한 음식을 제공하는 빕 구르망 그리고 좋은 요리를 맛볼 수 있는 더 플레이트까지, 여행객의 예산과 목적에 따라 최고의 맛을 경험을 할 수 있는 서울의 레스토랑을 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "2021 미쉐린 가이드 서울",
+          "isbn13": "9782067250529",
+          "authors": "미쉐린 가이드 평가원 (지은이)"
+        },
+        {
+          "bookname": "2017 미쉐린 가이드 서울",
+          "isbn13": "9782067215146",
+          "authors": "미쉐린 트래블 파트너"
+        }
+      ],
+      "title": "미쉐린 가이드 서울 =The Michelin guide Seoul ",
+      "author": "Michelin Travel Partner 저",
+      "kdc_from_api": "594.82",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

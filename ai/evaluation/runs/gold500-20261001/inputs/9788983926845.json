@@ -1,0 +1,1088 @@
+{
+  "isbn": "9788983926845",
+  "captured_at": "2026-10-05T00:10:02.538495+09:00",
+  "lookup": {
+    "isbn": "9788983926845",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983926845",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788983926838",
+      "set_add_code": "04840 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "오리진",
+      "subtitle": "",
+      "author": "댄 브라운 지음 ;안종설 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "문학수첩",
+      "publish_year": "2017",
+      "publish_predate": "20171123",
+      "kdc": "843.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "813.6",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "오리진",
+      "series_no": "",
+      "page": "372 p.",
+      "book_size": "152*224",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;다빈치 코드&gt; 작가 댄 브라운의 신과 과학 그리고 미래에 대한 대담한 질문. &lt;다빈치 코드&gt;를 비롯한 그의 전작들이 그러하듯 &lt;오리진&gt; 역시 우리가 ‘당연하게’ 믿어왔던 진실에 물음표를 던진다.",
+      "control_no": "CIP2017029085",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "오리진",
+          "weight": 18.0
+        },
+        {
+          "word": "브라운",
+          "weight": 15.0
+        },
+        {
+          "word": "다빈치 코드",
+          "weight": 15.0
+        },
+        {
+          "word": "종교",
+          "weight": 14.0
+        },
+        {
+          "word": "커시",
+          "weight": 14.0
+        },
+        {
+          "word": "세계",
+          "weight": 10.0
+        },
+        {
+          "word": "랭던",
+          "weight": 9.0
+        },
+        {
+          "word": "로버트",
+          "weight": 7.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "뉴욕 타임스",
+          "weight": 6.0
+        },
+        {
+          "word": "천사와 악마",
+          "weight": 6.0
+        },
+        {
+          "word": "로스트 심벌",
+          "weight": 6.0
+        },
+        {
+          "word": "인페르노",
+          "weight": 6.0
+        },
+        {
+          "word": "암호",
+          "weight": 6.0
+        },
+        {
+          "word": "상징",
+          "weight": 6.0
+        },
+        {
+          "word": "에드먼드",
+          "weight": 6.0
+        },
+        {
+          "word": "발표",
+          "weight": 6.0
+        },
+        {
+          "word": "진실",
+          "weight": 6.0
+        },
+        {
+          "word": "질문",
+          "weight": 5.0
+        },
+        {
+          "word": "지적",
+          "weight": 5.0
+        },
+        {
+          "word": "인공지능",
+          "weight": 5.0
+        },
+        {
+          "word": "발견",
+          "weight": 5.0
+        },
+        {
+          "word": "스페인",
+          "weight": 5.0
+        },
+        {
+          "word": "영미",
+          "weight": 4.0
+        },
+        {
+          "word": "구겐하임",
+          "weight": 4.0
+        },
+        {
+          "word": "예술",
+          "weight": 4.0
+        },
+        {
+          "word": "비밀",
+          "weight": 4.0
+        },
+        {
+          "word": "미술관",
+          "weight": 4.0
+        },
+        {
+          "word": "과학자",
+          "weight": 4.0
+        },
+        {
+          "word": "윈스턴",
+          "weight": 4.0
+        },
+        {
+          "word": "이번",
+          "weight": 4.0
+        },
+        {
+          "word": "판매",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "대담",
+          "weight": 3.0
+        },
+        {
+          "word": "성당",
+          "weight": 3.0
+        },
+        {
+          "word": "디셉션 포인트",
+          "weight": 3.0
+        },
+        {
+          "word": "디지털 포트리스",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "창조",
+          "weight": 3.0
+        },
+        {
+          "word": "종교적",
+          "weight": 3.0
+        },
+        {
+          "word": "과학적",
+          "weight": 3.0
+        },
+        {
+          "word": "전작",
+          "weight": 3.0
+        },
+        {
+          "word": "대학",
+          "weight": 3.0
+        },
+        {
+          "word": "천재",
+          "weight": 3.0
+        },
+        {
+          "word": "과학",
+          "weight": 3.0
+        },
+        {
+          "word": "수도원",
+          "weight": 3.0
+        },
+        {
+          "word": "제자",
+          "weight": 3.0
+        },
+        {
+          "word": "책장",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        }
+      ],
+      "description": "&lt;다빈치 코드&gt; 작가 댄 브라운의 신과 과학 그리고 미래에 대한 대담한 질문. &lt;다빈치 코드&gt;를 비롯한 그의 전작들이 그러하듯 &lt;오리진&gt; 역시 우리가 ‘당연하게’ 믿어왔던 진실에 물음표를 던진다.",
+      "co_loan_books": [
+        {
+          "bookname": "오리진",
+          "isbn13": "9788983926852",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "인페르노",
+          "isbn13": "9788983924872",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "인페르노",
+          "isbn13": "9788983924889",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "로스트 심벌",
+          "isbn13": "9788983923387",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "로스트 심벌",
+          "isbn13": "9788983923394",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "풍수전쟁 :김진명 장편소설 ",
+          "isbn13": "9791167763846",
+          "authors": "지은이: 김진명"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "천사와 악마",
+          "isbn13": "9788983923059",
+          "authors": "댄 브라운 지음 ;홍성영 옮김"
+        },
+        {
+          "bookname": "천사와 악마",
+          "isbn13": "9788983923042",
+          "authors": "댄 브라운 지음 ;홍성영 옮김"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        }
+      ],
+      "title": "오리진",
+      "author": "댄 브라운 지음 ;안종설 옮김",
+      "kdc_from_api": "843.6",
+      "ddc_from_api": "813.6",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "오리진",
+        "author": "댄 브라운 지음 ;안종설 옮김",
+        "publisher": "문학수첩",
+        "publish_predate": "20171123",
+        "isbn": "9788983926845",
+        "isbn_add_code": "04840",
+        "set_isbn": "9788983926838",
+        "set_add_code": "04840 ",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "오리진",
+        "series_no": "",
+        "volume": "1",
+        "page": "368 p.",
+        "book_size": "152*224",
+        "form": "종이책",
+        "kdc": "843.6",
+        "ddc": "813.6",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017029085",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "오리진",
+        "author": "댄 브라운 지음 ;안종설 옮김",
+        "publisher": "문학수첩",
+        "publish_year": "2017",
+        "isbn": "8983926848",
+        "isbn13": "9788983926845",
+        "isbn_add_code": "04840",
+        "volume": "1",
+        "class_no": "843.6",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "&lt;다빈치 코드&gt; 작가 댄 브라운의 신과 과학 그리고 미래에 대한 대담한 질문. &lt;다빈치 코드&gt;를 비롯한 그의 전작들이 그러하듯 &lt;오리진&gt; 역시 우리가 ‘당연하게’ 믿어왔던 진실에 물음표를 던진다.",
+        "cover_url": "https://image.aladin.co.kr/product/12257/17/cover/8983926848_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "오리진",
+            "weight": 18.0
+          },
+          {
+            "word": "브라운",
+            "weight": 15.0
+          },
+          {
+            "word": "다빈치 코드",
+            "weight": 15.0
+          },
+          {
+            "word": "종교",
+            "weight": 14.0
+          },
+          {
+            "word": "커시",
+            "weight": 14.0
+          },
+          {
+            "word": "세계",
+            "weight": 10.0
+          },
+          {
+            "word": "랭던",
+            "weight": 9.0
+          },
+          {
+            "word": "로버트",
+            "weight": 7.0
+          },
+          {
+            "word": "인류",
+            "weight": 7.0
+          },
+          {
+            "word": "뉴욕 타임스",
+            "weight": 6.0
+          },
+          {
+            "word": "천사와 악마",
+            "weight": 6.0
+          },
+          {
+            "word": "로스트 심벌",
+            "weight": 6.0
+          },
+          {
+            "word": "인페르노",
+            "weight": 6.0
+          },
+          {
+            "word": "암호",
+            "weight": 6.0
+          },
+          {
+            "word": "상징",
+            "weight": 6.0
+          },
+          {
+            "word": "에드먼드",
+            "weight": 6.0
+          },
+          {
+            "word": "발표",
+            "weight": 6.0
+          },
+          {
+            "word": "진실",
+            "weight": 6.0
+          },
+          {
+            "word": "질문",
+            "weight": 5.0
+          },
+          {
+            "word": "지적",
+            "weight": 5.0
+          },
+          {
+            "word": "인공지능",
+            "weight": 5.0
+          },
+          {
+            "word": "발견",
+            "weight": 5.0
+          },
+          {
+            "word": "스페인",
+            "weight": 5.0
+          },
+          {
+            "word": "영미",
+            "weight": 4.0
+          },
+          {
+            "word": "구겐하임",
+            "weight": 4.0
+          },
+          {
+            "word": "예술",
+            "weight": 4.0
+          },
+          {
+            "word": "비밀",
+            "weight": 4.0
+          },
+          {
+            "word": "미술관",
+            "weight": 4.0
+          },
+          {
+            "word": "과학자",
+            "weight": 4.0
+          },
+          {
+            "word": "윈스턴",
+            "weight": 4.0
+          },
+          {
+            "word": "이번",
+            "weight": 4.0
+          },
+          {
+            "word": "판매",
+            "weight": 4.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 3.0
+          },
+          {
+            "word": "인물",
+            "weight": 3.0
+          },
+          {
+            "word": "대담",
+            "weight": 3.0
+          },
+          {
+            "word": "성당",
+            "weight": 3.0
+          },
+          {
+            "word": "디셉션 포인트",
+            "weight": 3.0
+          },
+          {
+            "word": "디지털 포트리스",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "창조",
+            "weight": 3.0
+          },
+          {
+            "word": "종교적",
+            "weight": 3.0
+          },
+          {
+            "word": "과학적",
+            "weight": 3.0
+          },
+          {
+            "word": "전작",
+            "weight": 3.0
+          },
+          {
+            "word": "대학",
+            "weight": 3.0
+          },
+          {
+            "word": "천재",
+            "weight": 3.0
+          },
+          {
+            "word": "과학",
+            "weight": 3.0
+          },
+          {
+            "word": "수도원",
+            "weight": 3.0
+          },
+          {
+            "word": "제자",
+            "weight": 3.0
+          },
+          {
+            "word": "책장",
+            "weight": 3.0
+          },
+          {
+            "word": "미래",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "오리진",
+            "isbn13": "9788983926852",
+            "authors": "댄 브라운 지음 ;안종설 옮김"
+          },
+          {
+            "bookname": "인페르노",
+            "isbn13": "9788983924872",
+            "authors": "댄 브라운 지음 ;안종설 옮김"
+          },
+          {
+            "bookname": "인페르노",
+            "isbn13": "9788983924889",
+            "authors": "댄 브라운 지음 ;안종설 옮김"
+          },
+          {
+            "bookname": "로스트 심벌",
+            "isbn13": "9788983923387",
+            "authors": "댄 브라운 지음 ;안종설 옮김"
+          },
+          {
+            "bookname": "로스트 심벌",
+            "isbn13": "9788983923394",
+            "authors": "댄 브라운 지음 ;안종설 옮김"
+          },
+          {
+            "bookname": "풍수전쟁 :김진명 장편소설 ",
+            "isbn13": "9791167763846",
+            "authors": "지은이: 김진명"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "천사와 악마",
+            "isbn13": "9788983923059",
+            "authors": "댄 브라운 지음 ;홍성영 옮김"
+          },
+          {
+            "bookname": "천사와 악마",
+            "isbn13": "9788983923042",
+            "authors": "댄 브라운 지음 ;홍성영 옮김"
+          },
+          {
+            "bookname": "황금종이 :조정래 장편소설 ",
+            "isbn13": "9791167140722",
+            "authors": "저자: 조정래"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "오리진 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001296883",
+        "title": "오리진 1",
+        "subtitle": "",
+        "page": "372 p.",
+        "book_size": "152*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788983926845",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788983926845",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788983926838",
+      "set_add_code": "04840 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "오리진",
+      "subtitle": "",
+      "author": "댄 브라운 지음 ;안종설 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "문학수첩",
+      "publish_year": "2017",
+      "publish_predate": "20171123",
+      "kdc": "843.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "813.6",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "오리진",
+      "series_no": "",
+      "page": "372 p.",
+      "book_size": "152*224",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;다빈치 코드&gt; 작가 댄 브라운의 신과 과학 그리고 미래에 대한 대담한 질문. &lt;다빈치 코드&gt;를 비롯한 그의 전작들이 그러하듯 &lt;오리진&gt; 역시 우리가 ‘당연하게’ 믿어왔던 진실에 물음표를 던진다.",
+      "control_no": "CIP2017029085",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6420218_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "오리진",
+          "weight": 18.0
+        },
+        {
+          "word": "브라운",
+          "weight": 15.0
+        },
+        {
+          "word": "다빈치 코드",
+          "weight": 15.0
+        },
+        {
+          "word": "종교",
+          "weight": 14.0
+        },
+        {
+          "word": "커시",
+          "weight": 14.0
+        },
+        {
+          "word": "세계",
+          "weight": 10.0
+        },
+        {
+          "word": "랭던",
+          "weight": 9.0
+        },
+        {
+          "word": "로버트",
+          "weight": 7.0
+        },
+        {
+          "word": "인류",
+          "weight": 7.0
+        },
+        {
+          "word": "뉴욕 타임스",
+          "weight": 6.0
+        },
+        {
+          "word": "천사와 악마",
+          "weight": 6.0
+        },
+        {
+          "word": "로스트 심벌",
+          "weight": 6.0
+        },
+        {
+          "word": "인페르노",
+          "weight": 6.0
+        },
+        {
+          "word": "암호",
+          "weight": 6.0
+        },
+        {
+          "word": "상징",
+          "weight": 6.0
+        },
+        {
+          "word": "에드먼드",
+          "weight": 6.0
+        },
+        {
+          "word": "발표",
+          "weight": 6.0
+        },
+        {
+          "word": "진실",
+          "weight": 6.0
+        },
+        {
+          "word": "질문",
+          "weight": 5.0
+        },
+        {
+          "word": "지적",
+          "weight": 5.0
+        },
+        {
+          "word": "인공지능",
+          "weight": 5.0
+        },
+        {
+          "word": "발견",
+          "weight": 5.0
+        },
+        {
+          "word": "스페인",
+          "weight": 5.0
+        },
+        {
+          "word": "영미",
+          "weight": 4.0
+        },
+        {
+          "word": "구겐하임",
+          "weight": 4.0
+        },
+        {
+          "word": "예술",
+          "weight": 4.0
+        },
+        {
+          "word": "비밀",
+          "weight": 4.0
+        },
+        {
+          "word": "미술관",
+          "weight": 4.0
+        },
+        {
+          "word": "과학자",
+          "weight": 4.0
+        },
+        {
+          "word": "윈스턴",
+          "weight": 4.0
+        },
+        {
+          "word": "이번",
+          "weight": 4.0
+        },
+        {
+          "word": "판매",
+          "weight": 4.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "대담",
+          "weight": 3.0
+        },
+        {
+          "word": "성당",
+          "weight": 3.0
+        },
+        {
+          "word": "디셉션 포인트",
+          "weight": 3.0
+        },
+        {
+          "word": "디지털 포트리스",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "창조",
+          "weight": 3.0
+        },
+        {
+          "word": "종교적",
+          "weight": 3.0
+        },
+        {
+          "word": "과학적",
+          "weight": 3.0
+        },
+        {
+          "word": "전작",
+          "weight": 3.0
+        },
+        {
+          "word": "대학",
+          "weight": 3.0
+        },
+        {
+          "word": "천재",
+          "weight": 3.0
+        },
+        {
+          "word": "과학",
+          "weight": 3.0
+        },
+        {
+          "word": "수도원",
+          "weight": 3.0
+        },
+        {
+          "word": "제자",
+          "weight": 3.0
+        },
+        {
+          "word": "책장",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        }
+      ],
+      "description": "&lt;다빈치 코드&gt; 작가 댄 브라운의 신과 과학 그리고 미래에 대한 대담한 질문. &lt;다빈치 코드&gt;를 비롯한 그의 전작들이 그러하듯 &lt;오리진&gt; 역시 우리가 ‘당연하게’ 믿어왔던 진실에 물음표를 던진다.",
+      "co_loan_books": [
+        {
+          "bookname": "오리진",
+          "isbn13": "9788983926852",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "인페르노",
+          "isbn13": "9788983924872",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "인페르노",
+          "isbn13": "9788983924889",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "로스트 심벌",
+          "isbn13": "9788983923387",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "로스트 심벌",
+          "isbn13": "9788983923394",
+          "authors": "댄 브라운 지음 ;안종설 옮김"
+        },
+        {
+          "bookname": "풍수전쟁 :김진명 장편소설 ",
+          "isbn13": "9791167763846",
+          "authors": "지은이: 김진명"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "천사와 악마",
+          "isbn13": "9788983923059",
+          "authors": "댄 브라운 지음 ;홍성영 옮김"
+        },
+        {
+          "bookname": "천사와 악마",
+          "isbn13": "9788983923042",
+          "authors": "댄 브라운 지음 ;홍성영 옮김"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        }
+      ],
+      "title": "오리진",
+      "author": "댄 브라운 지음 ;안종설 옮김",
+      "kdc_from_api": "843.6",
+      "ddc_from_api": "813.6",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

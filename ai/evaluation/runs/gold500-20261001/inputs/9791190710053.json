@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190710053",
+  "captured_at": "2026-10-02T00:16:19.672113+09:00",
+  "lookup": {
+    "isbn": "9791190710053",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190710053",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "어른의 어휘력",
+      "subtitle": "말에 품격을 더하고 세상을 올바르게 이해하는 힘",
+      "author": "유선경 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "앤의서재",
+      "publish_year": "2020",
+      "publish_predate": "20200815",
+      "kdc": "802",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 문학 > 문장작법, 수사학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "344 p.",
+      "book_size": "140*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "낱말을 뒤살피고 음미하는 언어적 즐거움부터 자신의 생각과 감정을 적절한 어휘로 표현하는 기쁨, 대상과 사물에 대한 새로운 시각을 깨우는 흥분, 타인의 마음을 두드리는 설렘으로 가득하다.",
+      "control_no": "CIP2020029494",
+      "cover_url": "https://image.aladin.co.kr/product/24779/29/cover/k102631725_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "어휘력",
+          "weight": 32.0
+        },
+        {
+          "word": "낱말",
+          "weight": 8.0
+        },
+        {
+          "word": "이해",
+          "weight": 8.0
+        },
+        {
+          "word": "한계",
+          "weight": 6.0
+        },
+        {
+          "word": "어휘",
+          "weight": 6.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "확장",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "기본",
+          "weight": 3.0
+        },
+        {
+          "word": "아주 오래된 말들의 위로",
+          "weight": 3.0
+        },
+        {
+          "word": "언어적",
+          "weight": 3.0
+        },
+        {
+          "word": "월간 미술",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "유선경",
+          "weight": 3.0
+        },
+        {
+          "word": "사물",
+          "weight": 3.0
+        },
+        {
+          "word": "불편",
+          "weight": 3.0
+        },
+        {
+          "word": "문득 묻다",
+          "weight": 3.0
+        },
+        {
+          "word": "읽기",
+          "weight": 3.0
+        },
+        {
+          "word": "부족",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "조건",
+          "weight": 3.0
+        },
+        {
+          "word": "소심해서 그렇습니다",
+          "weight": 3.0
+        },
+        {
+          "word": "문장",
+          "weight": 3.0
+        },
+        {
+          "word": "앤의서재",
+          "weight": 2.0
+        },
+        {
+          "word": "생기",
+          "weight": 2.0
+        },
+        {
+          "word": "매일",
+          "weight": 2.0
+        },
+        {
+          "word": "맞춤법",
+          "weight": 2.0
+        },
+        {
+          "word": "독심술",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤살피고",
+          "weight": 2.0
+        },
+        {
+          "word": "말맛",
+          "weight": 2.0
+        },
+        {
+          "word": "시각",
+          "weight": 2.0
+        },
+        {
+          "word": "맞춤",
+          "weight": 2.0
+        },
+        {
+          "word": "서술",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "쓸모",
+          "weight": 2.0
+        },
+        {
+          "word": "관성",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "세력",
+          "weight": 2.0
+        },
+        {
+          "word": "경계",
+          "weight": 2.0
+        },
+        {
+          "word": "연습",
+          "weight": 2.0
+        },
+        {
+          "word": "능력",
+          "weight": 2.0
+        },
+        {
+          "word": "글 어른다운",
+          "weight": 2.0
+        },
+        {
+          "word": "30년",
+          "weight": 2.0
+        }
+      ],
+      "description": "낱말을 뒤살피고 음미하는 언어적 즐거움부터 자신의 생각과 감정을 적절한 어휘로 표현하는 기쁨, 대상과 사물에 대한 새로운 시각을 깨우는 흥분, 타인의 마음을 두드리는 설렘으로 가득하다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "감정 어휘 :모호한 감정을 선명하게 밝혀 내 삶을 살게 해주는 말 공부 ",
+          "isbn13": "9791190710411",
+          "authors": "유선경 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "어른의 어휘력",
+      "author": "유선경 지음",
+      "kdc_from_api": "802",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "어른의 어휘력",
+        "author": "유선경 지음",
+        "publisher": "앤의서재",
+        "publish_predate": "20200815",
+        "isbn": "9791190710053",
+        "isbn_add_code": "03800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "0",
+        "volume": "",
+        "page": "342 p.",
+        "book_size": "140*200",
+        "form": "종이책",
+        "kdc": "802",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020029494",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "어른의 어휘력 :말에 품격을 더하고 세상을 올바르게 이해하는 힘 ",
+        "author": "유선경 지음",
+        "publisher": "앤의서재",
+        "publish_year": "2020",
+        "isbn": "1190710056",
+        "isbn13": "9791190710053",
+        "isbn_add_code": "03800",
+        "volume": "",
+        "class_no": "802.5",
+        "class_nm": "문학 > 문학 > 문장작법, 수사학",
+        "description": "낱말을 뒤살피고 음미하는 언어적 즐거움부터 자신의 생각과 감정을 적절한 어휘로 표현하는 기쁨, 대상과 사물에 대한 새로운 시각을 깨우는 흥분, 타인의 마음을 두드리는 설렘으로 가득하다.",
+        "cover_url": "https://image.aladin.co.kr/product/24779/29/cover/k102631725_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "어휘력",
+            "weight": 32.0
+          },
+          {
+            "word": "낱말",
+            "weight": 8.0
+          },
+          {
+            "word": "이해",
+            "weight": 8.0
+          },
+          {
+            "word": "한계",
+            "weight": 6.0
+          },
+          {
+            "word": "어휘",
+            "weight": 6.0
+          },
+          {
+            "word": "글쓰기",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "세상",
+            "weight": 5.0
+          },
+          {
+            "word": "감정",
+            "weight": 4.0
+          },
+          {
+            "word": "확장",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "언어",
+            "weight": 4.0
+          },
+          {
+            "word": "기본",
+            "weight": 3.0
+          },
+          {
+            "word": "아주 오래된 말들의 위로",
+            "weight": 3.0
+          },
+          {
+            "word": "언어적",
+            "weight": 3.0
+          },
+          {
+            "word": "월간 미술",
+            "weight": 3.0
+          },
+          {
+            "word": "필요",
+            "weight": 3.0
+          },
+          {
+            "word": "유선경",
+            "weight": 3.0
+          },
+          {
+            "word": "사물",
+            "weight": 3.0
+          },
+          {
+            "word": "불편",
+            "weight": 3.0
+          },
+          {
+            "word": "문득 묻다",
+            "weight": 3.0
+          },
+          {
+            "word": "읽기",
+            "weight": 3.0
+          },
+          {
+            "word": "부족",
+            "weight": 3.0
+          },
+          {
+            "word": "상상",
+            "weight": 3.0
+          },
+          {
+            "word": "생각",
+            "weight": 3.0
+          },
+          {
+            "word": "조건",
+            "weight": 3.0
+          },
+          {
+            "word": "소심해서 그렇습니다",
+            "weight": 3.0
+          },
+          {
+            "word": "문장",
+            "weight": 3.0
+          },
+          {
+            "word": "앤의서재",
+            "weight": 2.0
+          },
+          {
+            "word": "생기",
+            "weight": 2.0
+          },
+          {
+            "word": "매일",
+            "weight": 2.0
+          },
+          {
+            "word": "맞춤법",
+            "weight": 2.0
+          },
+          {
+            "word": "독심술",
+            "weight": 2.0
+          },
+          {
+            "word": "뒤살피고",
+            "weight": 2.0
+          },
+          {
+            "word": "말맛",
+            "weight": 2.0
+          },
+          {
+            "word": "시각",
+            "weight": 2.0
+          },
+          {
+            "word": "맞춤",
+            "weight": 2.0
+          },
+          {
+            "word": "서술",
+            "weight": 2.0
+          },
+          {
+            "word": "사실",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "공감",
+            "weight": 2.0
+          },
+          {
+            "word": "쓸모",
+            "weight": 2.0
+          },
+          {
+            "word": "관성",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "세력",
+            "weight": 2.0
+          },
+          {
+            "word": "경계",
+            "weight": 2.0
+          },
+          {
+            "word": "연습",
+            "weight": 2.0
+          },
+          {
+            "word": "능력",
+            "weight": 2.0
+          },
+          {
+            "word": "글 어른다운",
+            "weight": 2.0
+          },
+          {
+            "word": "30년",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "감정 어휘 :모호한 감정을 선명하게 밝혀 내 삶을 살게 해주는 말 공부 ",
+            "isbn13": "9791190710411",
+            "authors": "유선경 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "어른의 어휘력 - 말에 품격을 더하고 세상을 올바르게 이해하는 힘"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001942990",
+        "title": "어른의 어휘력",
+        "subtitle": "말에 품격을 더하고 세상을 올바르게 이해하는 힘",
+        "page": "344 p.",
+        "book_size": "141*200mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190710053",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190710053",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "어른의 어휘력",
+      "subtitle": "말에 품격을 더하고 세상을 올바르게 이해하는 힘",
+      "author": "유선경 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "앤의서재",
+      "publish_year": "2020",
+      "publish_predate": "20200815",
+      "kdc": "802",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 문학 > 문장작법, 수사학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "0",
+      "page": "344 p.",
+      "book_size": "140*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "낱말을 뒤살피고 음미하는 언어적 즐거움부터 자신의 생각과 감정을 적절한 어휘로 표현하는 기쁨, 대상과 사물에 대한 새로운 시각을 깨우는 흥분, 타인의 마음을 두드리는 설렘으로 가득하다.",
+      "control_no": "CIP2020029494",
+      "cover_url": "https://image.aladin.co.kr/product/24779/29/cover/k102631725_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "어휘력",
+          "weight": 32.0
+        },
+        {
+          "word": "낱말",
+          "weight": 8.0
+        },
+        {
+          "word": "이해",
+          "weight": 8.0
+        },
+        {
+          "word": "한계",
+          "weight": 6.0
+        },
+        {
+          "word": "어휘",
+          "weight": 6.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "확장",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "기본",
+          "weight": 3.0
+        },
+        {
+          "word": "아주 오래된 말들의 위로",
+          "weight": 3.0
+        },
+        {
+          "word": "언어적",
+          "weight": 3.0
+        },
+        {
+          "word": "월간 미술",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "유선경",
+          "weight": 3.0
+        },
+        {
+          "word": "사물",
+          "weight": 3.0
+        },
+        {
+          "word": "불편",
+          "weight": 3.0
+        },
+        {
+          "word": "문득 묻다",
+          "weight": 3.0
+        },
+        {
+          "word": "읽기",
+          "weight": 3.0
+        },
+        {
+          "word": "부족",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "조건",
+          "weight": 3.0
+        },
+        {
+          "word": "소심해서 그렇습니다",
+          "weight": 3.0
+        },
+        {
+          "word": "문장",
+          "weight": 3.0
+        },
+        {
+          "word": "앤의서재",
+          "weight": 2.0
+        },
+        {
+          "word": "생기",
+          "weight": 2.0
+        },
+        {
+          "word": "매일",
+          "weight": 2.0
+        },
+        {
+          "word": "맞춤법",
+          "weight": 2.0
+        },
+        {
+          "word": "독심술",
+          "weight": 2.0
+        },
+        {
+          "word": "뒤살피고",
+          "weight": 2.0
+        },
+        {
+          "word": "말맛",
+          "weight": 2.0
+        },
+        {
+          "word": "시각",
+          "weight": 2.0
+        },
+        {
+          "word": "맞춤",
+          "weight": 2.0
+        },
+        {
+          "word": "서술",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "공감",
+          "weight": 2.0
+        },
+        {
+          "word": "쓸모",
+          "weight": 2.0
+        },
+        {
+          "word": "관성",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "세력",
+          "weight": 2.0
+        },
+        {
+          "word": "경계",
+          "weight": 2.0
+        },
+        {
+          "word": "연습",
+          "weight": 2.0
+        },
+        {
+          "word": "능력",
+          "weight": 2.0
+        },
+        {
+          "word": "글 어른다운",
+          "weight": 2.0
+        },
+        {
+          "word": "30년",
+          "weight": 2.0
+        }
+      ],
+      "description": "낱말을 뒤살피고 음미하는 언어적 즐거움부터 자신의 생각과 감정을 적절한 어휘로 표현하는 기쁨, 대상과 사물에 대한 새로운 시각을 깨우는 흥분, 타인의 마음을 두드리는 설렘으로 가득하다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "감정 어휘 :모호한 감정을 선명하게 밝혀 내 삶을 살게 해주는 말 공부 ",
+          "isbn13": "9791190710411",
+          "authors": "유선경 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "어른의 어휘력",
+      "author": "유선경 지음",
+      "kdc_from_api": "802",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

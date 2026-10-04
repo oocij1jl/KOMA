@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788965962205",
+  "captured_at": "2026-10-03T00:18:39.880667+09:00",
+  "lookup": {
+    "isbn": "9788965962205",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788965962205",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "지적이고 아름다운 삶을 위한 : 라틴어 수업",
+      "subtitle": "",
+      "author": "한동일",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "흐름출판",
+      "publish_year": "2017",
+      "publish_predate": "20170630",
+      "kdc": "792.2",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 기타 제어 > 인도-유럽계어",
+      "ddc": "478",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "145*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "한국인 최초, 동아시아 최초 바티칸 대법원 로타 로마나 변호사이자 가톨릭 사제인 한동일 교수가 2010년부터 2016년까지 서강대학교에서 진행했던 강의를 책으로 옮겼다. 책 말미에는 수업을 들었던 제자들이 책 출간을 기념해 보내온 편지를 함께 실었다.",
+      "control_no": "CIP2017012841",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "Lectio",
+          "weight": 27.0
+        },
+        {
+          "word": "수업",
+          "weight": 27.0
+        },
+        {
+          "word": "라틴어",
+          "weight": 23.0
+        },
+        {
+          "word": "강의",
+          "weight": 15.0
+        },
+        {
+          "word": "로마",
+          "weight": 14.0
+        },
+        {
+          "word": "라틴어 수업",
+          "weight": 12.0
+        },
+        {
+          "word": "학생",
+          "weight": 10.0
+        },
+        {
+          "word": "최초",
+          "weight": 9.0
+        },
+        {
+          "word": "변호사",
+          "weight": 8.0
+        },
+        {
+          "word": "제자",
+          "weight": 8.0
+        },
+        {
+          "word": "공부",
+          "weight": 7.0
+        },
+        {
+          "word": "편지",
+          "weight": 7.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "태도",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "est",
+          "weight": 7.0
+        },
+        {
+          "word": "대법원",
+          "weight": 6.0
+        },
+        {
+          "word": "한동일",
+          "weight": 6.0
+        },
+        {
+          "word": "로타",
+          "weight": 6.0
+        },
+        {
+          "word": "시절",
+          "weight": 6.0
+        },
+        {
+          "word": "바티칸",
+          "weight": 6.0
+        },
+        {
+          "word": "그리스",
+          "weight": 6.0
+        },
+        {
+          "word": "서강대학교",
+          "weight": 6.0
+        },
+        {
+          "word": "장점",
+          "weight": 6.0
+        },
+        {
+          "word": "단점",
+          "weight": 6.0
+        },
+        {
+          "word": "문제",
+          "weight": 6.0
+        },
+        {
+          "word": "유럽",
+          "weight": 6.0
+        },
+        {
+          "word": "시대",
+          "weight": 6.0
+        },
+        {
+          "word": "관계",
+          "weight": 5.0
+        },
+        {
+          "word": "교수",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 5.0
+        },
+        {
+          "word": "성찰",
+          "weight": 5.0
+        },
+        {
+          "word": "동아시아",
+          "weight": 5.0
+        },
+        {
+          "word": "et",
+          "weight": 5.0
+        },
+        {
+          "word": "유학",
+          "weight": 5.0
+        },
+        {
+          "word": "한국인",
+          "weight": 4.0
+        },
+        {
+          "word": "오늘",
+          "weight": 4.0
+        },
+        {
+          "word": "과거",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "종교",
+          "weight": 4.0
+        },
+        {
+          "word": "입소문",
+          "weight": 4.0
+        },
+        {
+          "word": "로마법",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "이탈리아",
+          "weight": 4.0
+        },
+        {
+          "word": "연세대",
+          "weight": 4.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 4.0
+        },
+        {
+          "word": "문화",
+          "weight": 4.0
+        },
+        {
+          "word": "타고",
+          "weight": 4.0
+        }
+      ],
+      "description": "한국인 최초, 동아시아 최초 바티칸 대법원 로타 로마나 변호사이자 가톨릭 사제인 한동일 교수가 2010년부터 2016년까지 서강대학교에서 진행했던 강의를 책으로 옮겼다. 책 말미에는 수업을 들었던 제자들이 책 출간을 기념해 보내온 편지를 함께 실었다.",
+      "co_loan_books": [
+        {
+          "bookname": "믿는 인간에 대하여 :라틴어 수업, 두 번째 시간 =De homine credente : lectiones linguae Latinae pars secunda ",
+          "isbn13": "9788965964674",
+          "authors": "한동일 지음"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        }
+      ],
+      "title": "지적이고 아름다운 삶을 위한 : 라틴어 수업",
+      "author": "한동일",
+      "kdc_from_api": "792.2",
+      "ddc_from_api": "478",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지적이고 아름다운 삶을 위한 : 라틴어 수업",
+        "author": "한동일",
+        "publisher": "흐름출판",
+        "publish_predate": "20170630",
+        "isbn": "9788965962205",
+        "isbn_add_code": "03100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "312 ",
+        "book_size": "",
+        "form": "",
+        "kdc": "792.2",
+        "ddc": "478",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017012841",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(지적이고 아름다운 삶을 위한) 라틴어 수업 ",
+        "author": "한동일 지음",
+        "publisher": "흐름출판",
+        "publish_year": "2017",
+        "isbn": "896596220X",
+        "isbn13": "9788965962205",
+        "isbn_add_code": "03100",
+        "volume": "",
+        "class_no": "792.2",
+        "class_nm": "언어 > 기타 제어 > 인도-유럽계어",
+        "description": "한국인 최초, 동아시아 최초 바티칸 대법원 로타 로마나 변호사이자 가톨릭 사제인 한동일 교수가 2010년부터 2016년까지 서강대학교에서 진행했던 강의를 책으로 옮겼다. 책 말미에는 수업을 들었던 제자들이 책 출간을 기념해 보내온 편지를 함께 실었다.",
+        "cover_url": "http://image.aladin.co.kr/product/11217/32/cover/896596220x_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "Lectio",
+            "weight": 27.0
+          },
+          {
+            "word": "수업",
+            "weight": 27.0
+          },
+          {
+            "word": "라틴어",
+            "weight": 23.0
+          },
+          {
+            "word": "강의",
+            "weight": 15.0
+          },
+          {
+            "word": "로마",
+            "weight": 14.0
+          },
+          {
+            "word": "라틴어 수업",
+            "weight": 12.0
+          },
+          {
+            "word": "학생",
+            "weight": 10.0
+          },
+          {
+            "word": "최초",
+            "weight": 9.0
+          },
+          {
+            "word": "변호사",
+            "weight": 8.0
+          },
+          {
+            "word": "제자",
+            "weight": 8.0
+          },
+          {
+            "word": "공부",
+            "weight": 7.0
+          },
+          {
+            "word": "편지",
+            "weight": 7.0
+          },
+          {
+            "word": "자기",
+            "weight": 7.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "인생",
+            "weight": 7.0
+          },
+          {
+            "word": "태도",
+            "weight": 7.0
+          },
+          {
+            "word": "사람",
+            "weight": 7.0
+          },
+          {
+            "word": "est",
+            "weight": 7.0
+          },
+          {
+            "word": "대법원",
+            "weight": 6.0
+          },
+          {
+            "word": "한동일",
+            "weight": 6.0
+          },
+          {
+            "word": "로타",
+            "weight": 6.0
+          },
+          {
+            "word": "시절",
+            "weight": 6.0
+          },
+          {
+            "word": "바티칸",
+            "weight": 6.0
+          },
+          {
+            "word": "그리스",
+            "weight": 6.0
+          },
+          {
+            "word": "서강대학교",
+            "weight": 6.0
+          },
+          {
+            "word": "장점",
+            "weight": 6.0
+          },
+          {
+            "word": "단점",
+            "weight": 6.0
+          },
+          {
+            "word": "문제",
+            "weight": 6.0
+          },
+          {
+            "word": "유럽",
+            "weight": 6.0
+          },
+          {
+            "word": "시대",
+            "weight": 6.0
+          },
+          {
+            "word": "관계",
+            "weight": 5.0
+          },
+          {
+            "word": "교수",
+            "weight": 5.0
+          },
+          {
+            "word": "학교",
+            "weight": 5.0
+          },
+          {
+            "word": "성찰",
+            "weight": 5.0
+          },
+          {
+            "word": "동아시아",
+            "weight": 5.0
+          },
+          {
+            "word": "et",
+            "weight": 5.0
+          },
+          {
+            "word": "유학",
+            "weight": 5.0
+          },
+          {
+            "word": "한국인",
+            "weight": 4.0
+          },
+          {
+            "word": "오늘",
+            "weight": 4.0
+          },
+          {
+            "word": "과거",
+            "weight": 4.0
+          },
+          {
+            "word": "교양 인문학",
+            "weight": 4.0
+          },
+          {
+            "word": "종교",
+            "weight": 4.0
+          },
+          {
+            "word": "입소문",
+            "weight": 4.0
+          },
+          {
+            "word": "로마법",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "이탈리아",
+            "weight": 4.0
+          },
+          {
+            "word": "연세대",
+            "weight": 4.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 4.0
+          },
+          {
+            "word": "문화",
+            "weight": 4.0
+          },
+          {
+            "word": "타고",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "믿는 인간에 대하여 :라틴어 수업, 두 번째 시간 =De homine credente : lectiones linguae Latinae pars secunda ",
+            "isbn13": "9788965964674",
+            "authors": "한동일 지음"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+            "isbn13": "9788901276533",
+            "authors": "패트릭 브링리 지음 ;조현주 옮김"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+            "isbn13": "9791130698199",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지적이고 아름다운 삶을 위한 : 라틴어 수업"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001029294",
+        "title": "지적이고 아름다운 삶을 위한 라틴어 수업",
+        "subtitle": "",
+        "page": "312 p.",
+        "book_size": "145*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788965962205",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788965962205",
+      "isbn_add_code": "03100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "지적이고 아름다운 삶을 위한 : 라틴어 수업",
+      "subtitle": "",
+      "author": "한동일",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "흐름출판",
+      "publish_year": "2017",
+      "publish_predate": "20170630",
+      "kdc": "792.2",
+      "kdc_edition": "",
+      "kdc_name": "언어 > 기타 제어 > 인도-유럽계어",
+      "ddc": "478",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "312 p.",
+      "book_size": "145*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "한국인 최초, 동아시아 최초 바티칸 대법원 로타 로마나 변호사이자 가톨릭 사제인 한동일 교수가 2010년부터 2016년까지 서강대학교에서 진행했던 강의를 책으로 옮겼다. 책 말미에는 수업을 들었던 제자들이 책 출간을 기념해 보내온 편지를 함께 실었다.",
+      "control_no": "CIP2017012841",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6234651_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "Lectio",
+          "weight": 27.0
+        },
+        {
+          "word": "수업",
+          "weight": 27.0
+        },
+        {
+          "word": "라틴어",
+          "weight": 23.0
+        },
+        {
+          "word": "강의",
+          "weight": 15.0
+        },
+        {
+          "word": "로마",
+          "weight": 14.0
+        },
+        {
+          "word": "라틴어 수업",
+          "weight": 12.0
+        },
+        {
+          "word": "학생",
+          "weight": 10.0
+        },
+        {
+          "word": "최초",
+          "weight": 9.0
+        },
+        {
+          "word": "변호사",
+          "weight": 8.0
+        },
+        {
+          "word": "제자",
+          "weight": 8.0
+        },
+        {
+          "word": "공부",
+          "weight": 7.0
+        },
+        {
+          "word": "편지",
+          "weight": 7.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "태도",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "est",
+          "weight": 7.0
+        },
+        {
+          "word": "대법원",
+          "weight": 6.0
+        },
+        {
+          "word": "한동일",
+          "weight": 6.0
+        },
+        {
+          "word": "로타",
+          "weight": 6.0
+        },
+        {
+          "word": "시절",
+          "weight": 6.0
+        },
+        {
+          "word": "바티칸",
+          "weight": 6.0
+        },
+        {
+          "word": "그리스",
+          "weight": 6.0
+        },
+        {
+          "word": "서강대학교",
+          "weight": 6.0
+        },
+        {
+          "word": "장점",
+          "weight": 6.0
+        },
+        {
+          "word": "단점",
+          "weight": 6.0
+        },
+        {
+          "word": "문제",
+          "weight": 6.0
+        },
+        {
+          "word": "유럽",
+          "weight": 6.0
+        },
+        {
+          "word": "시대",
+          "weight": 6.0
+        },
+        {
+          "word": "관계",
+          "weight": 5.0
+        },
+        {
+          "word": "교수",
+          "weight": 5.0
+        },
+        {
+          "word": "학교",
+          "weight": 5.0
+        },
+        {
+          "word": "성찰",
+          "weight": 5.0
+        },
+        {
+          "word": "동아시아",
+          "weight": 5.0
+        },
+        {
+          "word": "et",
+          "weight": 5.0
+        },
+        {
+          "word": "유학",
+          "weight": 5.0
+        },
+        {
+          "word": "한국인",
+          "weight": 4.0
+        },
+        {
+          "word": "오늘",
+          "weight": 4.0
+        },
+        {
+          "word": "과거",
+          "weight": 4.0
+        },
+        {
+          "word": "교양 인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "종교",
+          "weight": 4.0
+        },
+        {
+          "word": "입소문",
+          "weight": 4.0
+        },
+        {
+          "word": "로마법",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "이탈리아",
+          "weight": 4.0
+        },
+        {
+          "word": "연세대",
+          "weight": 4.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 4.0
+        },
+        {
+          "word": "문화",
+          "weight": 4.0
+        },
+        {
+          "word": "타고",
+          "weight": 4.0
+        }
+      ],
+      "description": "한국인 최초, 동아시아 최초 바티칸 대법원 로타 로마나 변호사이자 가톨릭 사제인 한동일 교수가 2010년부터 2016년까지 서강대학교에서 진행했던 강의를 책으로 옮겼다. 책 말미에는 수업을 들었던 제자들이 책 출간을 기념해 보내온 편지를 함께 실었다.",
+      "co_loan_books": [
+        {
+          "bookname": "믿는 인간에 대하여 :라틴어 수업, 두 번째 시간 =De homine credente : lectiones linguae Latinae pars secunda ",
+          "isbn13": "9788965964674",
+          "authors": "한동일 지음"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "isbn13": "9788901276533",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        }
+      ],
+      "title": "지적이고 아름다운 삶을 위한 : 라틴어 수업",
+      "author": "한동일",
+      "kdc_from_api": "792.2",
+      "ddc_from_api": "478",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

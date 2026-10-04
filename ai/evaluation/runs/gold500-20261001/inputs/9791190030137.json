@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791190030137",
+  "captured_at": "2026-10-02T00:18:16.305334+09:00",
+  "lookup": {
+    "isbn": "9791190030137",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190030137",
+      "isbn_add_code": "03370",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "아홉 살 독서 수업",
+      "subtitle": "부모가 알아야 할 초등 저학년 독서의 모든 것",
+      "author": "한미화 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "어크로스(어크로스출판그룹)",
+      "publish_year": "2019",
+      "publish_predate": "20190730",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "276 p.",
+      "book_size": "147*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "이제 막 스스로 읽기를 시작한 7~9세 아이들의 독서가 즐거운 경험이 되려면 어떻게 해야 할지를 이야기하는 책이다.저학년 아이들이 왜 읽기를 어려워하는지, 어떻게 읽기를 해야 하는지, 읽기에 흥미를 느낄 수 있는 법은 무엇인지 설명한다.",
+      "control_no": "CIP2019027756",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/16/9791190030137.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "읽기",
+          "weight": 20.0
+        },
+        {
+          "word": "아이",
+          "weight": 10.0
+        },
+        {
+          "word": "아이들",
+          "weight": 7.0
+        },
+        {
+          "word": "저학년",
+          "weight": 6.0
+        },
+        {
+          "word": "아홉 살 독서 수업",
+          "weight": 6.0
+        },
+        {
+          "word": "어린이책",
+          "weight": 5.0
+        },
+        {
+          "word": "부모",
+          "weight": 5.0
+        },
+        {
+          "word": "한미화",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "활동",
+          "weight": 3.0
+        },
+        {
+          "word": "관심",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책 한국의 작가들",
+          "weight": 3.0
+        },
+        {
+          "word": "기획회의",
+          "weight": 3.0
+        },
+        {
+          "word": "학교",
+          "weight": 3.0
+        },
+        {
+          "word": "지도 탐험대",
+          "weight": 3.0
+        },
+        {
+          "word": "아이를 읽는다는 것",
+          "weight": 3.0
+        },
+        {
+          "word": "독서가",
+          "weight": 3.0
+        },
+        {
+          "word": "이토록 어여쁜 그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "잡스 사용법",
+          "weight": 3.0
+        },
+        {
+          "word": "독서",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 시대 스테디셀러의 계보",
+          "weight": 3.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "늑대",
+          "weight": 2.0
+        },
+        {
+          "word": "읽어주기",
+          "weight": 2.0
+        },
+        {
+          "word": "단행본",
+          "weight": 2.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        },
+        {
+          "word": "실질적",
+          "weight": 2.0
+        },
+        {
+          "word": "독서 글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "전문가",
+          "weight": 2.0
+        },
+        {
+          "word": "지름길",
+          "weight": 2.0
+        },
+        {
+          "word": "전집",
+          "weight": 2.0
+        },
+        {
+          "word": "어크로스",
+          "weight": 2.0
+        },
+        {
+          "word": "9세",
+          "weight": 2.0
+        },
+        {
+          "word": "조급",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "1부",
+          "weight": 2.0
+        },
+        {
+          "word": "거부",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "글자",
+          "weight": 2.0
+        },
+        {
+          "word": "공포물",
+          "weight": 2.0
+        },
+        {
+          "word": "잡지",
+          "weight": 2.0
+        },
+        {
+          "word": "관해",
+          "weight": 2.0
+        },
+        {
+          "word": "어휘력",
+          "weight": 2.0
+        },
+        {
+          "word": "공저",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        }
+      ],
+      "description": "이제 막 스스로 읽기를 시작한 7~9세 아이들의 독서가 즐거운 경험이 되려면 어떻게 해야 할지를 이야기하는 책이다.저학년 아이들이 왜 읽기를 어려워하는지, 어떻게 읽기를 해야 하는지, 읽기에 흥미를 느낄 수 있는 법은 무엇인지 설명한다.",
+      "co_loan_books": [
+        {
+          "bookname": "공부머리 독서법 :실현 가능하고 지속 가능한 독서교육의 모든 것 ",
+          "isbn13": "9791196316808",
+          "authors": "최승필 지음"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "초3보다 중요한 학년은 없습니다 :학습 격차, 3학년에 시작되고 5학년에 심화된다 ",
+          "isbn13": "9788960498679",
+          "authors": "해피이선생 지음"
+        },
+        {
+          "bookname": "초등 매일 독서의 힘 :'읽는 중학생'을 만드는 초등의 책 읽기 ",
+          "isbn13": "9791190846318",
+          "authors": "이은경 지음"
+        },
+        {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "isbn13": "9788934965404",
+          "authors": "나민애 지음"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "쓰면서 자라는 아이들 :부모가 알아야 할 초등 글쓰기의 모든 것 ",
+          "isbn13": "9791167740359",
+          "authors": "한미화 지음"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "아홉 살 독서 수업",
+      "author": "한미화 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "아홉 살 독서 수업",
+        "author": "한미화 지음",
+        "publisher": "어크로스(어크로스출판그룹)",
+        "publish_predate": "20190730",
+        "isbn": "9791190030137",
+        "isbn_add_code": "03370",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "275 p.",
+        "book_size": "147*215",
+        "form": "종이책",
+        "kdc": "029.4",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019027756",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/16/9791190030137.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "아홉 살 독서 수업 :부모가 알아야 할 초등 저학년 독서의 모든 것 ",
+        "author": "한미화 지음",
+        "publisher": "어크로스",
+        "publish_year": "2019",
+        "isbn": "1190030136",
+        "isbn13": "9791190030137",
+        "isbn_add_code": "03370",
+        "volume": "",
+        "class_no": "029.5",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "이제 막 스스로 읽기를 시작한 7~9세 아이들의 독서가 즐거운 경험이 되려면 어떻게 해야 할지를 이야기하는 책이다.저학년 아이들이 왜 읽기를 어려워하는지, 어떻게 읽기를 해야 하는지, 읽기에 흥미를 느낄 수 있는 법은 무엇인지 설명한다.",
+        "cover_url": "https://image.aladin.co.kr/product/19832/23/cover/k412635045_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "읽기",
+            "weight": 20.0
+          },
+          {
+            "word": "아이",
+            "weight": 10.0
+          },
+          {
+            "word": "아이들",
+            "weight": 7.0
+          },
+          {
+            "word": "저학년",
+            "weight": 6.0
+          },
+          {
+            "word": "아홉 살 독서 수업",
+            "weight": 6.0
+          },
+          {
+            "word": "어린이책",
+            "weight": 5.0
+          },
+          {
+            "word": "부모",
+            "weight": 5.0
+          },
+          {
+            "word": "한미화",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 3.0
+          },
+          {
+            "word": "활동",
+            "weight": 3.0
+          },
+          {
+            "word": "관심",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책 한국의 작가들",
+            "weight": 3.0
+          },
+          {
+            "word": "기획회의",
+            "weight": 3.0
+          },
+          {
+            "word": "학교",
+            "weight": 3.0
+          },
+          {
+            "word": "지도 탐험대",
+            "weight": 3.0
+          },
+          {
+            "word": "아이를 읽는다는 것",
+            "weight": 3.0
+          },
+          {
+            "word": "독서가",
+            "weight": 3.0
+          },
+          {
+            "word": "이토록 어여쁜 그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "잡스 사용법",
+            "weight": 3.0
+          },
+          {
+            "word": "독서",
+            "weight": 3.0
+          },
+          {
+            "word": "우리 시대 스테디셀러의 계보",
+            "weight": 3.0
+          },
+          {
+            "word": "상상력",
+            "weight": 2.0
+          },
+          {
+            "word": "늑대",
+            "weight": 2.0
+          },
+          {
+            "word": "읽어주기",
+            "weight": 2.0
+          },
+          {
+            "word": "단행본",
+            "weight": 2.0
+          },
+          {
+            "word": "독서교육",
+            "weight": 2.0
+          },
+          {
+            "word": "시대",
+            "weight": 2.0
+          },
+          {
+            "word": "실질적",
+            "weight": 2.0
+          },
+          {
+            "word": "독서 글쓰기",
+            "weight": 2.0
+          },
+          {
+            "word": "전문가",
+            "weight": 2.0
+          },
+          {
+            "word": "지름길",
+            "weight": 2.0
+          },
+          {
+            "word": "전집",
+            "weight": 2.0
+          },
+          {
+            "word": "어크로스",
+            "weight": 2.0
+          },
+          {
+            "word": "9세",
+            "weight": 2.0
+          },
+          {
+            "word": "조급",
+            "weight": 2.0
+          },
+          {
+            "word": "2부",
+            "weight": 2.0
+          },
+          {
+            "word": "방법",
+            "weight": 2.0
+          },
+          {
+            "word": "이유",
+            "weight": 2.0
+          },
+          {
+            "word": "1부",
+            "weight": 2.0
+          },
+          {
+            "word": "거부",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "글자",
+            "weight": 2.0
+          },
+          {
+            "word": "공포물",
+            "weight": 2.0
+          },
+          {
+            "word": "잡지",
+            "weight": 2.0
+          },
+          {
+            "word": "관해",
+            "weight": 2.0
+          },
+          {
+            "word": "어휘력",
+            "weight": 2.0
+          },
+          {
+            "word": "공저",
+            "weight": 2.0
+          },
+          {
+            "word": "고전",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "공부머리 독서법 :실현 가능하고 지속 가능한 독서교육의 모든 것 ",
+            "isbn13": "9791196316808",
+            "authors": "최승필 지음"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "초3보다 중요한 학년은 없습니다 :학습 격차, 3학년에 시작되고 5학년에 심화된다 ",
+            "isbn13": "9788960498679",
+            "authors": "해피이선생 지음"
+          },
+          {
+            "bookname": "초등 매일 독서의 힘 :'읽는 중학생'을 만드는 초등의 책 읽기 ",
+            "isbn13": "9791190846318",
+            "authors": "이은경 지음"
+          },
+          {
+            "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+            "isbn13": "9788934965404",
+            "authors": "나민애 지음"
+          },
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "쓰면서 자라는 아이들 :부모가 알아야 할 초등 글쓰기의 모든 것 ",
+            "isbn13": "9791167740359",
+            "authors": "한미화 지음"
+          },
+          {
+            "bookname": "아홉 살 마음 사전 ",
+            "isbn13": "9788936447014",
+            "authors": "박성우 글 ;김효은 그림"
+          },
+          {
+            "bookname": "똥볶이 할멈 :K-히어로 판타지",
+            "isbn13": "9791190409124",
+            "authors": "글: 강효미 ;그림: 김무연"
+          },
+          {
+            "bookname": "장군이네 떡집 ",
+            "isbn13": "9788949162041",
+            "authors": "김리리 글 ;이승현 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "아홉 살 독서 수업 - 부모가 알아야 할 초등 저학년 독서의 모든 것"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001934470",
+        "title": "아홉 살 독서 수업",
+        "subtitle": "부모가 알아야 할 초등 저학년 독서의 모든 것",
+        "page": "276 p.",
+        "book_size": "149*215mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190030137",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190030137",
+      "isbn_add_code": "03370",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "아홉 살 독서 수업",
+      "subtitle": "부모가 알아야 할 초등 저학년 독서의 모든 것",
+      "author": "한미화 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "어크로스(어크로스출판그룹)",
+      "publish_year": "2019",
+      "publish_predate": "20190730",
+      "kdc": "029.4",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "276 p.",
+      "book_size": "147*215",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "이제 막 스스로 읽기를 시작한 7~9세 아이들의 독서가 즐거운 경험이 되려면 어떻게 해야 할지를 이야기하는 책이다.저학년 아이들이 왜 읽기를 어려워하는지, 어떻게 읽기를 해야 하는지, 읽기에 흥미를 느낄 수 있는 법은 무엇인지 설명한다.",
+      "control_no": "CIP2019027756",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/16/9791190030137.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "읽기",
+          "weight": 20.0
+        },
+        {
+          "word": "아이",
+          "weight": 10.0
+        },
+        {
+          "word": "아이들",
+          "weight": 7.0
+        },
+        {
+          "word": "저학년",
+          "weight": 6.0
+        },
+        {
+          "word": "아홉 살 독서 수업",
+          "weight": 6.0
+        },
+        {
+          "word": "어린이책",
+          "weight": 5.0
+        },
+        {
+          "word": "부모",
+          "weight": 5.0
+        },
+        {
+          "word": "한미화",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 3.0
+        },
+        {
+          "word": "활동",
+          "weight": 3.0
+        },
+        {
+          "word": "관심",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책 한국의 작가들",
+          "weight": 3.0
+        },
+        {
+          "word": "기획회의",
+          "weight": 3.0
+        },
+        {
+          "word": "학교",
+          "weight": 3.0
+        },
+        {
+          "word": "지도 탐험대",
+          "weight": 3.0
+        },
+        {
+          "word": "아이를 읽는다는 것",
+          "weight": 3.0
+        },
+        {
+          "word": "독서가",
+          "weight": 3.0
+        },
+        {
+          "word": "이토록 어여쁜 그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "잡스 사용법",
+          "weight": 3.0
+        },
+        {
+          "word": "독서",
+          "weight": 3.0
+        },
+        {
+          "word": "우리 시대 스테디셀러의 계보",
+          "weight": 3.0
+        },
+        {
+          "word": "상상력",
+          "weight": 2.0
+        },
+        {
+          "word": "늑대",
+          "weight": 2.0
+        },
+        {
+          "word": "읽어주기",
+          "weight": 2.0
+        },
+        {
+          "word": "단행본",
+          "weight": 2.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        },
+        {
+          "word": "실질적",
+          "weight": 2.0
+        },
+        {
+          "word": "독서 글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "전문가",
+          "weight": 2.0
+        },
+        {
+          "word": "지름길",
+          "weight": 2.0
+        },
+        {
+          "word": "전집",
+          "weight": 2.0
+        },
+        {
+          "word": "어크로스",
+          "weight": 2.0
+        },
+        {
+          "word": "9세",
+          "weight": 2.0
+        },
+        {
+          "word": "조급",
+          "weight": 2.0
+        },
+        {
+          "word": "2부",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "1부",
+          "weight": 2.0
+        },
+        {
+          "word": "거부",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "글자",
+          "weight": 2.0
+        },
+        {
+          "word": "공포물",
+          "weight": 2.0
+        },
+        {
+          "word": "잡지",
+          "weight": 2.0
+        },
+        {
+          "word": "관해",
+          "weight": 2.0
+        },
+        {
+          "word": "어휘력",
+          "weight": 2.0
+        },
+        {
+          "word": "공저",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        }
+      ],
+      "description": "이제 막 스스로 읽기를 시작한 7~9세 아이들의 독서가 즐거운 경험이 되려면 어떻게 해야 할지를 이야기하는 책이다.저학년 아이들이 왜 읽기를 어려워하는지, 어떻게 읽기를 해야 하는지, 읽기에 흥미를 느낄 수 있는 법은 무엇인지 설명한다.",
+      "co_loan_books": [
+        {
+          "bookname": "공부머리 독서법 :실현 가능하고 지속 가능한 독서교육의 모든 것 ",
+          "isbn13": "9791196316808",
+          "authors": "최승필 지음"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "초3보다 중요한 학년은 없습니다 :학습 격차, 3학년에 시작되고 5학년에 심화된다 ",
+          "isbn13": "9788960498679",
+          "authors": "해피이선생 지음"
+        },
+        {
+          "bookname": "초등 매일 독서의 힘 :'읽는 중학생'을 만드는 초등의 책 읽기 ",
+          "isbn13": "9791190846318",
+          "authors": "이은경 지음"
+        },
+        {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "isbn13": "9788934965404",
+          "authors": "나민애 지음"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "쓰면서 자라는 아이들 :부모가 알아야 할 초등 글쓰기의 모든 것 ",
+          "isbn13": "9791167740359",
+          "authors": "한미화 지음"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "아홉 살 독서 수업",
+      "author": "한미화 지음",
+      "kdc_from_api": "029.4",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

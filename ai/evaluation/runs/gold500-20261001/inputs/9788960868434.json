@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788960868434",
+  "captured_at": "2026-10-04T00:10:31.677313+09:00",
+  "lookup": {
+    "isbn": "9788960868434",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960868434",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "혼자 있는 시간의 힘",
+      "subtitle": "",
+      "author": "사이토 다카시 지음 ;장은주 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)위즈덤하우스",
+      "publish_year": "2015",
+      "publish_predate": "20150727",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "650.1",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "148*211mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'잡담이 능력이다'의 저자 사이토 다카시의 책. 이 책은 대학 입시에 실패했던 18살부터 30대 초반까지 십여년 동안 혼자 있는 시간을 가지며 앞으로 나아갈 힘을 길렀던 저자의 경험을 바탕으로 앞으로 나아가기 위해서는 혼자 있는 시간이 필요하다는 내용을 담고 있다.",
+      "control_no": "CIP2015018788",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "혼자",
+          "weight": 39.0
+        },
+        {
+          "word": "시간",
+          "weight": 23.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "혼자 있는 시간의 힘",
+          "weight": 9.0
+        },
+        {
+          "word": "다카시",
+          "weight": 8.0
+        },
+        {
+          "word": "사이토",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 8.0
+        },
+        {
+          "word": "도움",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "성공",
+          "weight": 5.0
+        },
+        {
+          "word": "결정",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "목표",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "혼밥",
+          "weight": 4.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "성장",
+          "weight": 4.0
+        },
+        {
+          "word": "무리지어",
+          "weight": 3.0
+        },
+        {
+          "word": "상태",
+          "weight": 3.0
+        },
+        {
+          "word": "학생",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "적극적",
+          "weight": 3.0
+        },
+        {
+          "word": "집중",
+          "weight": 3.0
+        },
+        {
+          "word": "긍정",
+          "weight": 3.0
+        },
+        {
+          "word": "부러지지 않는 마음",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "생각 버리기 연습",
+          "weight": 3.0
+        },
+        {
+          "word": "가르치는 힘",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 3.0
+        },
+        {
+          "word": "신체감각을 되찾다",
+          "weight": 3.0
+        },
+        {
+          "word": "잡담이 능력이다",
+          "weight": 3.0
+        },
+        {
+          "word": "평가",
+          "weight": 3.0
+        },
+        {
+          "word": "철학 읽는 힘",
+          "weight": 3.0
+        },
+        {
+          "word": "번역",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "곁에 두고 읽는 니체",
+          "weight": 3.0
+        },
+        {
+          "word": "고전",
+          "weight": 3.0
+        },
+        {
+          "word": "소리 내어 읽고 싶은 일본어",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "구체적",
+          "weight": 2.0
+        },
+        {
+          "word": "효율적",
+          "weight": 2.0
+        },
+        {
+          "word": "내관법",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        },
+        {
+          "word": "객관화",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        }
+      ],
+      "description": "'잡담이 능력이다'의 저자 사이토 다카시의 책. 이 책은 대학 입시에 실패했던 18살부터 30대 초반까지 십여년 동안 혼자 있는 시간을 가지며 앞으로 나아갈 힘을 길렀던 저자의 경험을 바탕으로 앞으로 나아가기 위해서는 혼자 있는 시간이 필요하다는 내용을 담고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "일류의 조건 ",
+          "isbn13": "9791193262122",
+          "authors": "지은이: 사이토 다카시 ;옮긴이: 정현"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "(사이토 히토리의) 1퍼센트 부자의 법칙 ",
+          "isbn13": "9791197389450",
+          "authors": "사이토 히토리 [지음] ;김진아 옮김"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        }
+      ],
+      "title": "혼자 있는 시간의 힘",
+      "author": "사이토 다카시 지음 ;장은주 옮김",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "650.1",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "혼자 있는 시간의 힘",
+        "author": "사이토 다카시",
+        "publisher": "(주)위즈덤하우스",
+        "publish_predate": "20150727",
+        "isbn": "9788960868434",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "325.211",
+        "ddc": "650.1",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015018788",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(기대를 현실로 바꾸는) 혼자 있는 시간의 힘 ",
+        "author": "사이토 다카시 지음 ;장은주 옮김",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2015",
+        "isbn": "8960868434",
+        "isbn13": "9788960868434",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "325.211",
+        "class_nm": "사회과학 > 경제학 > 경영관리",
+        "description": "'잡담이 능력이다'의 저자 사이토 다카시의 책. 이 책은 대학 입시에 실패했던 18살부터 30대 초반까지 십여년 동안 혼자 있는 시간을 가지며 앞으로 나아갈 힘을 길렀던 저자의 경험을 바탕으로 앞으로 나아가기 위해서는 혼자 있는 시간이 필요하다는 내용을 담고 있다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/093/447/09344774.jpg?type=m1&udate=20180609"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "혼자",
+            "weight": 39.0
+          },
+          {
+            "word": "시간",
+            "weight": 23.0
+          },
+          {
+            "word": "사람",
+            "weight": 11.0
+          },
+          {
+            "word": "혼자 있는 시간의 힘",
+            "weight": 9.0
+          },
+          {
+            "word": "다카시",
+            "weight": 8.0
+          },
+          {
+            "word": "사이토",
+            "weight": 8.0
+          },
+          {
+            "word": "방법",
+            "weight": 8.0
+          },
+          {
+            "word": "도움",
+            "weight": 7.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "성공",
+            "weight": 5.0
+          },
+          {
+            "word": "결정",
+            "weight": 4.0
+          },
+          {
+            "word": "이유",
+            "weight": 4.0
+          },
+          {
+            "word": "자기",
+            "weight": 4.0
+          },
+          {
+            "word": "관계",
+            "weight": 4.0
+          },
+          {
+            "word": "목표",
+            "weight": 4.0
+          },
+          {
+            "word": "누구",
+            "weight": 4.0
+          },
+          {
+            "word": "감정",
+            "weight": 4.0
+          },
+          {
+            "word": "혼밥",
+            "weight": 4.0
+          },
+          {
+            "word": "소개",
+            "weight": 4.0
+          },
+          {
+            "word": "성장",
+            "weight": 4.0
+          },
+          {
+            "word": "무리지어",
+            "weight": 3.0
+          },
+          {
+            "word": "상태",
+            "weight": 3.0
+          },
+          {
+            "word": "학생",
+            "weight": 3.0
+          },
+          {
+            "word": "필요",
+            "weight": 3.0
+          },
+          {
+            "word": "적극적",
+            "weight": 3.0
+          },
+          {
+            "word": "집중",
+            "weight": 3.0
+          },
+          {
+            "word": "긍정",
+            "weight": 3.0
+          },
+          {
+            "word": "부러지지 않는 마음",
+            "weight": 3.0
+          },
+          {
+            "word": "교수",
+            "weight": 3.0
+          },
+          {
+            "word": "10년",
+            "weight": 3.0
+          },
+          {
+            "word": "생각 버리기 연습",
+            "weight": 3.0
+          },
+          {
+            "word": "가르치는 힘",
+            "weight": 3.0
+          },
+          {
+            "word": "순간",
+            "weight": 3.0
+          },
+          {
+            "word": "신체감각을 되찾다",
+            "weight": 3.0
+          },
+          {
+            "word": "잡담이 능력이다",
+            "weight": 3.0
+          },
+          {
+            "word": "평가",
+            "weight": 3.0
+          },
+          {
+            "word": "철학 읽는 힘",
+            "weight": 3.0
+          },
+          {
+            "word": "번역",
+            "weight": 3.0
+          },
+          {
+            "word": "경험",
+            "weight": 3.0
+          },
+          {
+            "word": "곁에 두고 읽는 니체",
+            "weight": 3.0
+          },
+          {
+            "word": "고전",
+            "weight": 3.0
+          },
+          {
+            "word": "소리 내어 읽고 싶은 일본어",
+            "weight": 3.0
+          },
+          {
+            "word": "공부",
+            "weight": 3.0
+          },
+          {
+            "word": "구체적",
+            "weight": 2.0
+          },
+          {
+            "word": "효율적",
+            "weight": 2.0
+          },
+          {
+            "word": "내관법",
+            "weight": 2.0
+          },
+          {
+            "word": "생각",
+            "weight": 2.0
+          },
+          {
+            "word": "생활",
+            "weight": 2.0
+          },
+          {
+            "word": "객관화",
+            "weight": 2.0
+          },
+          {
+            "word": "사실",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+            "isbn13": "9791158510619",
+            "authors": "팀 페리스 지음 ;정지현 옮김"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "일류의 조건 ",
+            "isbn13": "9791193262122",
+            "authors": "지은이: 사이토 다카시 ;옮긴이: 정현"
+          },
+          {
+            "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+            "isbn13": "9791192389325",
+            "authors": "벤저민 하디 지음 ;최은아 옮김"
+          },
+          {
+            "bookname": "(사이토 히토리의) 1퍼센트 부자의 법칙 ",
+            "isbn13": "9791197389450",
+            "authors": "사이토 히토리 [지음] ;김진아 옮김"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "혼자 있는 시간의 힘"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000938088",
+        "title": "기대를 현실로 바꾸는 혼자 있는 시간의 힘",
+        "subtitle": "",
+        "page": "216 p.",
+        "book_size": "148*211mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788960868434",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788960868434",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12800",
+      "title": "혼자 있는 시간의 힘",
+      "subtitle": "",
+      "author": "사이토 다카시 지음 ;장은주 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)위즈덤하우스",
+      "publish_year": "2015",
+      "publish_predate": "20150727",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "650.1",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "216 p.",
+      "book_size": "148*211mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'잡담이 능력이다'의 저자 사이토 다카시의 책. 이 책은 대학 입시에 실패했던 18살부터 30대 초반까지 십여년 동안 혼자 있는 시간을 가지며 앞으로 나아갈 힘을 길렀던 저자의 경험을 바탕으로 앞으로 나아가기 위해서는 혼자 있는 시간이 필요하다는 내용을 담고 있다.",
+      "control_no": "CIP2015018788",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4721462_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "혼자",
+          "weight": 39.0
+        },
+        {
+          "word": "시간",
+          "weight": 23.0
+        },
+        {
+          "word": "사람",
+          "weight": 11.0
+        },
+        {
+          "word": "혼자 있는 시간의 힘",
+          "weight": 9.0
+        },
+        {
+          "word": "다카시",
+          "weight": 8.0
+        },
+        {
+          "word": "사이토",
+          "weight": 8.0
+        },
+        {
+          "word": "방법",
+          "weight": 8.0
+        },
+        {
+          "word": "도움",
+          "weight": 7.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "성공",
+          "weight": 5.0
+        },
+        {
+          "word": "결정",
+          "weight": 4.0
+        },
+        {
+          "word": "이유",
+          "weight": 4.0
+        },
+        {
+          "word": "자기",
+          "weight": 4.0
+        },
+        {
+          "word": "관계",
+          "weight": 4.0
+        },
+        {
+          "word": "목표",
+          "weight": 4.0
+        },
+        {
+          "word": "누구",
+          "weight": 4.0
+        },
+        {
+          "word": "감정",
+          "weight": 4.0
+        },
+        {
+          "word": "혼밥",
+          "weight": 4.0
+        },
+        {
+          "word": "소개",
+          "weight": 4.0
+        },
+        {
+          "word": "성장",
+          "weight": 4.0
+        },
+        {
+          "word": "무리지어",
+          "weight": 3.0
+        },
+        {
+          "word": "상태",
+          "weight": 3.0
+        },
+        {
+          "word": "학생",
+          "weight": 3.0
+        },
+        {
+          "word": "필요",
+          "weight": 3.0
+        },
+        {
+          "word": "적극적",
+          "weight": 3.0
+        },
+        {
+          "word": "집중",
+          "weight": 3.0
+        },
+        {
+          "word": "긍정",
+          "weight": 3.0
+        },
+        {
+          "word": "부러지지 않는 마음",
+          "weight": 3.0
+        },
+        {
+          "word": "교수",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "생각 버리기 연습",
+          "weight": 3.0
+        },
+        {
+          "word": "가르치는 힘",
+          "weight": 3.0
+        },
+        {
+          "word": "순간",
+          "weight": 3.0
+        },
+        {
+          "word": "신체감각을 되찾다",
+          "weight": 3.0
+        },
+        {
+          "word": "잡담이 능력이다",
+          "weight": 3.0
+        },
+        {
+          "word": "평가",
+          "weight": 3.0
+        },
+        {
+          "word": "철학 읽는 힘",
+          "weight": 3.0
+        },
+        {
+          "word": "번역",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "곁에 두고 읽는 니체",
+          "weight": 3.0
+        },
+        {
+          "word": "고전",
+          "weight": 3.0
+        },
+        {
+          "word": "소리 내어 읽고 싶은 일본어",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "구체적",
+          "weight": 2.0
+        },
+        {
+          "word": "효율적",
+          "weight": 2.0
+        },
+        {
+          "word": "내관법",
+          "weight": 2.0
+        },
+        {
+          "word": "생각",
+          "weight": 2.0
+        },
+        {
+          "word": "생활",
+          "weight": 2.0
+        },
+        {
+          "word": "객관화",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        }
+      ],
+      "description": "'잡담이 능력이다'의 저자 사이토 다카시의 책. 이 책은 대학 입시에 실패했던 18살부터 30대 초반까지 십여년 동안 혼자 있는 시간을 가지며 앞으로 나아갈 힘을 길렀던 저자의 경험을 바탕으로 앞으로 나아가기 위해서는 혼자 있는 시간이 필요하다는 내용을 담고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "일류의 조건 ",
+          "isbn13": "9791193262122",
+          "authors": "지은이: 사이토 다카시 ;옮긴이: 정현"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "(사이토 히토리의) 1퍼센트 부자의 법칙 ",
+          "isbn13": "9791197389450",
+          "authors": "사이토 히토리 [지음] ;김진아 옮김"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        }
+      ],
+      "title": "혼자 있는 시간의 힘",
+      "author": "사이토 다카시 지음 ;장은주 옮김",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "650.1",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788936446819",
+  "captured_at": "2026-10-05T00:11:08.725120+09:00",
+  "lookup": {
+    "isbn": "9788936446819",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936446819",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "수박 수영장 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2015",
+      "publish_predate": "20150727",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "60 p.",
+      "book_size": "197*268mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "안녕달 그림책. 뜨거운 여름날, 커다란 수박 안에 들어가 수영을 한다는 시원하고 호방한 상상력이 돋보이는 그림책이다. 사람들이 수박 안에서 수영하는 모습이나 수박씨와 수박 껍질을 이용해 다양하게 노는 모습들이 즐겁게 전해진다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/093/451/09345174.jpg?type=m1&udate=20180718",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수박",
+          "weight": 33.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 18.0
+        },
+        {
+          "word": "수영장",
+          "weight": 13.0
+        },
+        {
+          "word": "여름",
+          "weight": 10.0
+        },
+        {
+          "word": "아이들",
+          "weight": 8.0
+        },
+        {
+          "word": "시원",
+          "weight": 8.0
+        },
+        {
+          "word": "가족",
+          "weight": 7.0
+        },
+        {
+          "word": "햇볕",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "마을",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "개장",
+          "weight": 5.0
+        },
+        {
+          "word": "상상력",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "이웃",
+          "weight": 3.0
+        },
+        {
+          "word": "아주머니",
+          "weight": 3.0
+        },
+        {
+          "word": "무더위",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "아저씨",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "소나기",
+          "weight": 2.0
+        },
+        {
+          "word": "소리",
+          "weight": 2.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 2.0
+        },
+        {
+          "word": "수박씨",
+          "weight": 2.0
+        },
+        {
+          "word": "5 7세용",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "웃음소리",
+          "weight": 2.0
+        },
+        {
+          "word": "구별",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "소반",
+          "weight": 2.0
+        },
+        {
+          "word": "생생",
+          "weight": 2.0
+        },
+        {
+          "word": "빨래",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "성별",
+          "weight": 2.0
+        },
+        {
+          "word": "여름휴가",
+          "weight": 2.0
+        },
+        {
+          "word": "여름날",
+          "weight": 2.0
+        },
+        {
+          "word": "논일",
+          "weight": 2.0
+        },
+        {
+          "word": "노을",
+          "weight": 2.0
+        },
+        {
+          "word": "시골",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "껍질",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "반딧불이",
+          "weight": 2.0
+        }
+      ],
+      "description": "안녕달 그림책. 뜨거운 여름날, 커다란 수박 안에 들어가 수영을 한다는 시원하고 호방한 상상력이 돋보이는 그림책이다. 사람들이 수박 안에서 수영하는 모습이나 수박씨와 수박 껍질을 이용해 다양하게 노는 모습들이 즐겁게 전해진다.",
+      "co_loan_books": [
+        {
+          "bookname": "할머니의 여름휴가",
+          "isbn13": "9788936454951",
+          "authors": "안녕달"
+        },
+        {
+          "bookname": "당근 유치원 ",
+          "isbn13": "9788936455484",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        }
+      ],
+      "title": "수박 수영장 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "수박 수영장 ",
+        "author": "지은이: 안녕달",
+        "publisher": "창비",
+        "publish_predate": "20150727",
+        "isbn": "9788936446819",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "수박 수영장 :안녕달 그림책 ",
+        "author": "지은이: 안녕달",
+        "publisher": "창비",
+        "publish_year": "2015",
+        "isbn": "8936446819",
+        "isbn13": "9788936446819",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "안녕달 그림책. 뜨거운 여름날, 커다란 수박 안에 들어가 수영을 한다는 시원하고 호방한 상상력이 돋보이는 그림책이다. 사람들이 수박 안에서 수영하는 모습이나 수박씨와 수박 껍질을 이용해 다양하게 노는 모습들이 즐겁게 전해진다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/093/451/09345174.jpg?type=m1&udate=20180718"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "수박",
+            "weight": 33.0
+          },
+          {
+            "word": "수박 수영장",
+            "weight": 18.0
+          },
+          {
+            "word": "수영장",
+            "weight": 13.0
+          },
+          {
+            "word": "여름",
+            "weight": 10.0
+          },
+          {
+            "word": "아이들",
+            "weight": 8.0
+          },
+          {
+            "word": "시원",
+            "weight": 8.0
+          },
+          {
+            "word": "가족",
+            "weight": 7.0
+          },
+          {
+            "word": "햇볕",
+            "weight": 7.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "마을",
+            "weight": 5.0
+          },
+          {
+            "word": "그림책",
+            "weight": 5.0
+          },
+          {
+            "word": "개장",
+            "weight": 5.0
+          },
+          {
+            "word": "상상력",
+            "weight": 4.0
+          },
+          {
+            "word": "모습",
+            "weight": 4.0
+          },
+          {
+            "word": "어른",
+            "weight": 4.0
+          },
+          {
+            "word": "장면",
+            "weight": 3.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 3.0
+          },
+          {
+            "word": "이웃",
+            "weight": 3.0
+          },
+          {
+            "word": "아주머니",
+            "weight": 3.0
+          },
+          {
+            "word": "무더위",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          },
+          {
+            "word": "아저씨",
+            "weight": 3.0
+          },
+          {
+            "word": "상상",
+            "weight": 3.0
+          },
+          {
+            "word": "수도",
+            "weight": 2.0
+          },
+          {
+            "word": "소나기",
+            "weight": 2.0
+          },
+          {
+            "word": "소리",
+            "weight": 2.0
+          },
+          {
+            "word": "안녕달",
+            "weight": 2.0
+          },
+          {
+            "word": "수박씨",
+            "weight": 2.0
+          },
+          {
+            "word": "5 7세용",
+            "weight": 2.0
+          },
+          {
+            "word": "일상",
+            "weight": 2.0
+          },
+          {
+            "word": "그린",
+            "weight": 2.0
+          },
+          {
+            "word": "웃음소리",
+            "weight": 2.0
+          },
+          {
+            "word": "구별",
+            "weight": 2.0
+          },
+          {
+            "word": "공간",
+            "weight": 2.0
+          },
+          {
+            "word": "소반",
+            "weight": 2.0
+          },
+          {
+            "word": "생생",
+            "weight": 2.0
+          },
+          {
+            "word": "빨래",
+            "weight": 2.0
+          },
+          {
+            "word": "보고",
+            "weight": 2.0
+          },
+          {
+            "word": "그림",
+            "weight": 2.0
+          },
+          {
+            "word": "성별",
+            "weight": 2.0
+          },
+          {
+            "word": "여름휴가",
+            "weight": 2.0
+          },
+          {
+            "word": "여름날",
+            "weight": 2.0
+          },
+          {
+            "word": "논일",
+            "weight": 2.0
+          },
+          {
+            "word": "노을",
+            "weight": 2.0
+          },
+          {
+            "word": "시골",
+            "weight": 2.0
+          },
+          {
+            "word": "나이",
+            "weight": 2.0
+          },
+          {
+            "word": "껍질",
+            "weight": 2.0
+          },
+          {
+            "word": "기발",
+            "weight": 2.0
+          },
+          {
+            "word": "반딧불이",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "할머니의 여름휴가",
+            "isbn13": "9788936454951",
+            "authors": "안녕달"
+          },
+          {
+            "bookname": "당근 유치원 ",
+            "isbn13": "9788936455484",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "알사탕 ",
+            "isbn13": "9791158360375",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "팥빙수의 전설 :이지은 그림책 ",
+            "isbn13": "9788901232232",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "겨울 이불 :안녕달 그림책 ",
+            "isbn13": "9788936455965",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "눈아이 :안녕달 그림책 ",
+            "isbn13": "9788936455736",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "이상한 엄마 ",
+            "isbn13": "9791158360214",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "메리 :안녕달 그림책 ",
+            "isbn13": "9791160943061",
+            "authors": "글·그림: 안녕달"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "수박 수영장"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000611323",
+        "title": "수박 수영장",
+        "subtitle": "안녕달 그림책",
+        "page": "60 p.",
+        "book_size": "197*268mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788936446819",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936446819",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "수박 수영장 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2015",
+      "publish_predate": "20150727",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "60 p.",
+      "book_size": "197*268mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "안녕달 그림책. 뜨거운 여름날, 커다란 수박 안에 들어가 수영을 한다는 시원하고 호방한 상상력이 돋보이는 그림책이다. 사람들이 수박 안에서 수영하는 모습이나 수박씨와 수박 껍질을 이용해 다양하게 노는 모습들이 즐겁게 전해진다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/093/451/09345174.jpg?type=m1&udate=20180718",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "수박",
+          "weight": 33.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 18.0
+        },
+        {
+          "word": "수영장",
+          "weight": 13.0
+        },
+        {
+          "word": "여름",
+          "weight": 10.0
+        },
+        {
+          "word": "아이들",
+          "weight": 8.0
+        },
+        {
+          "word": "시원",
+          "weight": 8.0
+        },
+        {
+          "word": "가족",
+          "weight": 7.0
+        },
+        {
+          "word": "햇볕",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "마을",
+          "weight": 5.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "개장",
+          "weight": 5.0
+        },
+        {
+          "word": "상상력",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "어른",
+          "weight": 4.0
+        },
+        {
+          "word": "장면",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "이웃",
+          "weight": 3.0
+        },
+        {
+          "word": "아주머니",
+          "weight": 3.0
+        },
+        {
+          "word": "무더위",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        },
+        {
+          "word": "아저씨",
+          "weight": 3.0
+        },
+        {
+          "word": "상상",
+          "weight": 3.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "소나기",
+          "weight": 2.0
+        },
+        {
+          "word": "소리",
+          "weight": 2.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 2.0
+        },
+        {
+          "word": "수박씨",
+          "weight": 2.0
+        },
+        {
+          "word": "5 7세용",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "그린",
+          "weight": 2.0
+        },
+        {
+          "word": "웃음소리",
+          "weight": 2.0
+        },
+        {
+          "word": "구별",
+          "weight": 2.0
+        },
+        {
+          "word": "공간",
+          "weight": 2.0
+        },
+        {
+          "word": "소반",
+          "weight": 2.0
+        },
+        {
+          "word": "생생",
+          "weight": 2.0
+        },
+        {
+          "word": "빨래",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "그림",
+          "weight": 2.0
+        },
+        {
+          "word": "성별",
+          "weight": 2.0
+        },
+        {
+          "word": "여름휴가",
+          "weight": 2.0
+        },
+        {
+          "word": "여름날",
+          "weight": 2.0
+        },
+        {
+          "word": "논일",
+          "weight": 2.0
+        },
+        {
+          "word": "노을",
+          "weight": 2.0
+        },
+        {
+          "word": "시골",
+          "weight": 2.0
+        },
+        {
+          "word": "나이",
+          "weight": 2.0
+        },
+        {
+          "word": "껍질",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "반딧불이",
+          "weight": 2.0
+        }
+      ],
+      "description": "안녕달 그림책. 뜨거운 여름날, 커다란 수박 안에 들어가 수영을 한다는 시원하고 호방한 상상력이 돋보이는 그림책이다. 사람들이 수박 안에서 수영하는 모습이나 수박씨와 수박 껍질을 이용해 다양하게 노는 모습들이 즐겁게 전해진다.",
+      "co_loan_books": [
+        {
+          "bookname": "할머니의 여름휴가",
+          "isbn13": "9788936454951",
+          "authors": "안녕달"
+        },
+        {
+          "bookname": "당근 유치원 ",
+          "isbn13": "9788936455484",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        }
+      ],
+      "title": "수박 수영장 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

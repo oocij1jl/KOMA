@@ -1,0 +1,28 @@
+{
+  "isbn": "9788932911526",
+  "status": "error",
+  "error_code": "validation_error",
+  "error_message": "LLM 출력 스키마 검증 실패: 4 validation errors for GenerateResult\nfields.0.review_required\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.0.confidence\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.1.review_required\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing\nfields.1.confidence\n  Field required [type=missing, input_value={'tag': '700', 'source': ..., 'generated_by': 'llm'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing",
+  "generated_at": "2026-10-04T00:16:06.404350+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

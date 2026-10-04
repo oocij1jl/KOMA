@@ -1,0 +1,1080 @@
+{
+  "isbn": "9788965133759",
+  "captured_at": "2026-10-04T00:20:06.333264+09:00",
+  "lookup": {
+    "isbn": "9788965133759",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788965133759",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "표현의 기술",
+      "subtitle": "",
+      "author": "글: 유시민 ;만화: 정훈이",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주 도서출판)아름다운사람들",
+      "publish_year": "2016",
+      "publish_predate": "20160608",
+      "kdc": "802",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 문학 > 문장작법, 수사학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "145*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "표현의 귀재 유시민이 말하는 표현의 기밀. 표현하고자 하는 바를 거침없이 표현하고 그것을 상대가 공감하게 만드는 일은, 쉬워 보이지만 꽤나 정교한 '기술'을 요한다. 어떤 형식으로든 생각과 감정을 표현하려면 그에 필요한 기술을 익혀야 한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8454/76/cover/8965133750_3.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "표현",
+          "weight": 54.0
+        },
+        {
+          "word": "생각",
+          "weight": 26.0
+        },
+        {
+          "word": "사람",
+          "weight": 23.0
+        },
+        {
+          "word": "기술",
+          "weight": 21.0
+        },
+        {
+          "word": "감정",
+          "weight": 18.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 17.0
+        },
+        {
+          "word": "자신",
+          "weight": 15.0
+        },
+        {
+          "word": "유시민",
+          "weight": 15.0
+        },
+        {
+          "word": "마음",
+          "weight": 12.0
+        },
+        {
+          "word": "-본문",
+          "weight": 11.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "공감",
+          "weight": 9.0
+        },
+        {
+          "word": "토론",
+          "weight": 8.0
+        },
+        {
+          "word": "필요",
+          "weight": 8.0
+        },
+        {
+          "word": "느낌",
+          "weight": 8.0
+        },
+        {
+          "word": "정치적",
+          "weight": 7.0
+        },
+        {
+          "word": "논리적",
+          "weight": 7.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "능력",
+          "weight": 7.0
+        },
+        {
+          "word": "악플",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "누구",
+          "weight": 7.0
+        },
+        {
+          "word": "오웰",
+          "weight": 6.0
+        },
+        {
+          "word": "방법",
+          "weight": 6.0
+        },
+        {
+          "word": "소통",
+          "weight": 5.0
+        },
+        {
+          "word": "직관",
+          "weight": 5.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "화살",
+          "weight": 5.0
+        },
+        {
+          "word": "제가",
+          "weight": 5.0
+        },
+        {
+          "word": "추론",
+          "weight": 5.0
+        },
+        {
+          "word": "사실",
+          "weight": 5.0
+        },
+        {
+          "word": "성공",
+          "weight": 5.0
+        },
+        {
+          "word": "상대",
+          "weight": 4.0
+        },
+        {
+          "word": "교감",
+          "weight": 4.0
+        },
+        {
+          "word": "경우",
+          "weight": 4.0
+        },
+        {
+          "word": "다음",
+          "weight": 4.0
+        },
+        {
+          "word": "도덕적",
+          "weight": 4.0
+        },
+        {
+          "word": "예술",
+          "weight": 4.0
+        },
+        {
+          "word": "대표",
+          "weight": 4.0
+        },
+        {
+          "word": "내면",
+          "weight": 4.0
+        },
+        {
+          "word": "만화가",
+          "weight": 4.0
+        },
+        {
+          "word": "생각해봤어",
+          "weight": 3.0
+        },
+        {
+          "word": "어떻게 살 것인가",
+          "weight": 3.0
+        },
+        {
+          "word": "나름",
+          "weight": 3.0
+        },
+        {
+          "word": "논리",
+          "weight": 3.0
+        },
+        {
+          "word": "부자의 경제학 빈민의 경제학",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "소망",
+          "weight": 3.0
+        }
+      ],
+      "description": "표현의 귀재 유시민이 말하는 표현의 기밀. 표현하고자 하는 바를 거침없이 표현하고 그것을 상대가 공감하게 만드는 일은, 쉬워 보이지만 꽤나 정교한 '기술'을 요한다. 어떤 형식으로든 생각과 감정을 표현하려면 그에 필요한 기술을 익혀야 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "유시민의 글쓰기 특강 ",
+          "isbn13": "9788965133520",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "어떻게 살 것인가 ",
+          "isbn13": "9788965132288",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "문과 남자의 과학 공부 :나는 무엇이고 왜 존재하며 어디로 가는가? ",
+          "isbn13": "9791192836188",
+          "authors": "유시민 지음"
+        },
+        {
+          "bookname": "거꾸로 읽는 세계사 ",
+          "isbn13": "9791191438406",
+          "authors": "유시민 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "유럽도시기행",
+          "isbn13": "9788965135586",
+          "authors": "지은이: 유시민,사진: 한경혜"
+        },
+        {
+          "bookname": "유시민의 공감필법 ",
+          "isbn13": "9788936472979",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+          "isbn13": "9788965138068",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "유시민의 논술 특강 ",
+          "isbn13": "9788965133568",
+          "authors": "지은이: 유시민"
+        }
+      ],
+      "title": "표현의 기술",
+      "author": "글: 유시민 ;만화: 정훈이",
+      "kdc_from_api": "802",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "표현의 기술",
+        "author": "유시민, 정훈이",
+        "publisher": "(주 도서출판)아름다운사람들",
+        "publish_predate": "20160608",
+        "isbn": "9788965133759",
+        "isbn_add_code": "03800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "368",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "표현의 기술 ",
+        "author": "글: 유시민 ;만화: 정훈이",
+        "publisher": "아름다운사람들",
+        "publish_year": "2016",
+        "isbn": "8965133750",
+        "isbn13": "9788965133759",
+        "isbn_add_code": "03800",
+        "volume": "",
+        "class_no": "802",
+        "class_nm": "문학 > 문학 > 문장작법, 수사학",
+        "description": "표현의 귀재 유시민이 말하는 표현의 기밀. 표현하고자 하는 바를 거침없이 표현하고 그것을 상대가 공감하게 만드는 일은, 쉬워 보이지만 꽤나 정교한 '기술'을 요한다. 어떤 형식으로든 생각과 감정을 표현하려면 그에 필요한 기술을 익혀야 한다.",
+        "cover_url": "http://image.aladin.co.kr/product/8454/76/cover/8965133750_3.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "표현",
+            "weight": 54.0
+          },
+          {
+            "word": "생각",
+            "weight": 26.0
+          },
+          {
+            "word": "사람",
+            "weight": 23.0
+          },
+          {
+            "word": "기술",
+            "weight": 21.0
+          },
+          {
+            "word": "감정",
+            "weight": 18.0
+          },
+          {
+            "word": "글쓰기",
+            "weight": 17.0
+          },
+          {
+            "word": "자신",
+            "weight": 15.0
+          },
+          {
+            "word": "유시민",
+            "weight": 15.0
+          },
+          {
+            "word": "마음",
+            "weight": 12.0
+          },
+          {
+            "word": "-본문",
+            "weight": 11.0
+          },
+          {
+            "word": "타인",
+            "weight": 9.0
+          },
+          {
+            "word": "공감",
+            "weight": 9.0
+          },
+          {
+            "word": "토론",
+            "weight": 8.0
+          },
+          {
+            "word": "필요",
+            "weight": 8.0
+          },
+          {
+            "word": "느낌",
+            "weight": 8.0
+          },
+          {
+            "word": "정치적",
+            "weight": 7.0
+          },
+          {
+            "word": "논리적",
+            "weight": 7.0
+          },
+          {
+            "word": "자기",
+            "weight": 7.0
+          },
+          {
+            "word": "능력",
+            "weight": 7.0
+          },
+          {
+            "word": "악플",
+            "weight": 7.0
+          },
+          {
+            "word": "독자",
+            "weight": 7.0
+          },
+          {
+            "word": "누구",
+            "weight": 7.0
+          },
+          {
+            "word": "오웰",
+            "weight": 6.0
+          },
+          {
+            "word": "방법",
+            "weight": 6.0
+          },
+          {
+            "word": "소통",
+            "weight": 5.0
+          },
+          {
+            "word": "직관",
+            "weight": 5.0
+          },
+          {
+            "word": "문제",
+            "weight": 5.0
+          },
+          {
+            "word": "가지",
+            "weight": 5.0
+          },
+          {
+            "word": "이유",
+            "weight": 5.0
+          },
+          {
+            "word": "화살",
+            "weight": 5.0
+          },
+          {
+            "word": "제가",
+            "weight": 5.0
+          },
+          {
+            "word": "추론",
+            "weight": 5.0
+          },
+          {
+            "word": "사실",
+            "weight": 5.0
+          },
+          {
+            "word": "성공",
+            "weight": 5.0
+          },
+          {
+            "word": "상대",
+            "weight": 4.0
+          },
+          {
+            "word": "교감",
+            "weight": 4.0
+          },
+          {
+            "word": "경우",
+            "weight": 4.0
+          },
+          {
+            "word": "다음",
+            "weight": 4.0
+          },
+          {
+            "word": "도덕적",
+            "weight": 4.0
+          },
+          {
+            "word": "예술",
+            "weight": 4.0
+          },
+          {
+            "word": "대표",
+            "weight": 4.0
+          },
+          {
+            "word": "내면",
+            "weight": 4.0
+          },
+          {
+            "word": "만화가",
+            "weight": 4.0
+          },
+          {
+            "word": "생각해봤어",
+            "weight": 3.0
+          },
+          {
+            "word": "어떻게 살 것인가",
+            "weight": 3.0
+          },
+          {
+            "word": "나름",
+            "weight": 3.0
+          },
+          {
+            "word": "논리",
+            "weight": 3.0
+          },
+          {
+            "word": "부자의 경제학 빈민의 경제학",
+            "weight": 3.0
+          },
+          {
+            "word": "대화",
+            "weight": 3.0
+          },
+          {
+            "word": "소망",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "유시민의 글쓰기 특강 ",
+            "isbn13": "9788965133520",
+            "authors": "지은이: 유시민"
+          },
+          {
+            "bookname": "어떻게 살 것인가 ",
+            "isbn13": "9788965132288",
+            "authors": "지은이: 유시민"
+          },
+          {
+            "bookname": "문과 남자의 과학 공부 :나는 무엇이고 왜 존재하며 어디로 가는가? ",
+            "isbn13": "9791192836188",
+            "authors": "유시민 지음"
+          },
+          {
+            "bookname": "거꾸로 읽는 세계사 ",
+            "isbn13": "9791191438406",
+            "authors": "유시민 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "유럽도시기행",
+            "isbn13": "9788965135586",
+            "authors": "지은이: 유시민,사진: 한경혜"
+          },
+          {
+            "bookname": "유시민의 공감필법 ",
+            "isbn13": "9788936472979",
+            "authors": "지은이: 유시민"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+            "isbn13": "9788965138068",
+            "authors": "지은이: 유시민"
+          },
+          {
+            "bookname": "유시민의 논술 특강 ",
+            "isbn13": "9788965133568",
+            "authors": "지은이: 유시민"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "표현의 기술"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001015923",
+        "title": "표현의 기술",
+        "subtitle": "",
+        "page": "368 p.",
+        "book_size": "145*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788965133759",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788965133759",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "표현의 기술",
+      "subtitle": "",
+      "author": "글: 유시민 ;만화: 정훈이",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주 도서출판)아름다운사람들",
+      "publish_year": "2016",
+      "publish_predate": "20160608",
+      "kdc": "802",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 문학 > 문장작법, 수사학",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "145*210mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "표현의 귀재 유시민이 말하는 표현의 기밀. 표현하고자 하는 바를 거침없이 표현하고 그것을 상대가 공감하게 만드는 일은, 쉬워 보이지만 꽤나 정교한 '기술'을 요한다. 어떤 형식으로든 생각과 감정을 표현하려면 그에 필요한 기술을 익혀야 한다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/8454/76/cover/8965133750_3.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "표현",
+          "weight": 54.0
+        },
+        {
+          "word": "생각",
+          "weight": 26.0
+        },
+        {
+          "word": "사람",
+          "weight": 23.0
+        },
+        {
+          "word": "기술",
+          "weight": 21.0
+        },
+        {
+          "word": "감정",
+          "weight": 18.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 17.0
+        },
+        {
+          "word": "자신",
+          "weight": 15.0
+        },
+        {
+          "word": "유시민",
+          "weight": 15.0
+        },
+        {
+          "word": "마음",
+          "weight": 12.0
+        },
+        {
+          "word": "-본문",
+          "weight": 11.0
+        },
+        {
+          "word": "타인",
+          "weight": 9.0
+        },
+        {
+          "word": "공감",
+          "weight": 9.0
+        },
+        {
+          "word": "토론",
+          "weight": 8.0
+        },
+        {
+          "word": "필요",
+          "weight": 8.0
+        },
+        {
+          "word": "느낌",
+          "weight": 8.0
+        },
+        {
+          "word": "정치적",
+          "weight": 7.0
+        },
+        {
+          "word": "논리적",
+          "weight": 7.0
+        },
+        {
+          "word": "자기",
+          "weight": 7.0
+        },
+        {
+          "word": "능력",
+          "weight": 7.0
+        },
+        {
+          "word": "악플",
+          "weight": 7.0
+        },
+        {
+          "word": "독자",
+          "weight": 7.0
+        },
+        {
+          "word": "누구",
+          "weight": 7.0
+        },
+        {
+          "word": "오웰",
+          "weight": 6.0
+        },
+        {
+          "word": "방법",
+          "weight": 6.0
+        },
+        {
+          "word": "소통",
+          "weight": 5.0
+        },
+        {
+          "word": "직관",
+          "weight": 5.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "가지",
+          "weight": 5.0
+        },
+        {
+          "word": "이유",
+          "weight": 5.0
+        },
+        {
+          "word": "화살",
+          "weight": 5.0
+        },
+        {
+          "word": "제가",
+          "weight": 5.0
+        },
+        {
+          "word": "추론",
+          "weight": 5.0
+        },
+        {
+          "word": "사실",
+          "weight": 5.0
+        },
+        {
+          "word": "성공",
+          "weight": 5.0
+        },
+        {
+          "word": "상대",
+          "weight": 4.0
+        },
+        {
+          "word": "교감",
+          "weight": 4.0
+        },
+        {
+          "word": "경우",
+          "weight": 4.0
+        },
+        {
+          "word": "다음",
+          "weight": 4.0
+        },
+        {
+          "word": "도덕적",
+          "weight": 4.0
+        },
+        {
+          "word": "예술",
+          "weight": 4.0
+        },
+        {
+          "word": "대표",
+          "weight": 4.0
+        },
+        {
+          "word": "내면",
+          "weight": 4.0
+        },
+        {
+          "word": "만화가",
+          "weight": 4.0
+        },
+        {
+          "word": "생각해봤어",
+          "weight": 3.0
+        },
+        {
+          "word": "어떻게 살 것인가",
+          "weight": 3.0
+        },
+        {
+          "word": "나름",
+          "weight": 3.0
+        },
+        {
+          "word": "논리",
+          "weight": 3.0
+        },
+        {
+          "word": "부자의 경제학 빈민의 경제학",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "소망",
+          "weight": 3.0
+        }
+      ],
+      "description": "표현의 귀재 유시민이 말하는 표현의 기밀. 표현하고자 하는 바를 거침없이 표현하고 그것을 상대가 공감하게 만드는 일은, 쉬워 보이지만 꽤나 정교한 '기술'을 요한다. 어떤 형식으로든 생각과 감정을 표현하려면 그에 필요한 기술을 익혀야 한다.",
+      "co_loan_books": [
+        {
+          "bookname": "유시민의 글쓰기 특강 ",
+          "isbn13": "9788965133520",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "어떻게 살 것인가 ",
+          "isbn13": "9788965132288",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "문과 남자의 과학 공부 :나는 무엇이고 왜 존재하며 어디로 가는가? ",
+          "isbn13": "9791192836188",
+          "authors": "유시민 지음"
+        },
+        {
+          "bookname": "거꾸로 읽는 세계사 ",
+          "isbn13": "9791191438406",
+          "authors": "유시민 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "유럽도시기행",
+          "isbn13": "9788965135586",
+          "authors": "지은이: 유시민,사진: 한경혜"
+        },
+        {
+          "bookname": "유시민의 공감필법 ",
+          "isbn13": "9788936472979",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+          "isbn13": "9788965138068",
+          "authors": "지은이: 유시민"
+        },
+        {
+          "bookname": "유시민의 논술 특강 ",
+          "isbn13": "9788965133568",
+          "authors": "지은이: 유시민"
+        }
+      ],
+      "title": "표현의 기술",
+      "author": "글: 유시민 ;만화: 정훈이",
+      "kdc_from_api": "802",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

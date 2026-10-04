@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791155714058",
+  "captured_at": "2026-10-04T00:20:12.248166+09:00",
+  "lookup": {
+    "isbn": "9791155714058",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791155714058",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩28000",
+      "title": "엄마의 선물",
+      "subtitle": "양장본 Hardcover",
+      "author": "김윤정",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)맥스교육",
+      "publish_year": "2016",
+      "publish_predate": "20160325",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "44 p.",
+      "book_size": "235*235",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "상수리 그림책방 시리즈 4권. 2015년 볼로냐 국제 아동도서전 화제작. 엄마가 아이에게 들려주는 따스하고 힘찬 응원과 사랑의 메시지, 그리고 그런 엄마에게 아이가 전하는 사랑과 감사의 마음을 특별한 형식으로 아름답게 담아낸 그림책이다.",
+      "control_no": "CIP2016006302",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사랑",
+          "weight": 9.0
+        },
+        {
+          "word": "엄마",
+          "weight": 6.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "감사",
+          "weight": 4.0
+        },
+        {
+          "word": "메시지",
+          "weight": 4.0
+        },
+        {
+          "word": "응원",
+          "weight": 4.0
+        },
+        {
+          "word": "전하",
+          "weight": 4.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "정성",
+          "weight": 3.0
+        },
+        {
+          "word": "매력적",
+          "weight": 3.0
+        },
+        {
+          "word": "형식",
+          "weight": 3.0
+        },
+        {
+          "word": "수작업",
+          "weight": 3.0
+        },
+        {
+          "word": "아이스크림 똥",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "여름이네 육아일기",
+          "weight": 3.0
+        },
+        {
+          "word": "똥자루 굴러간다",
+          "weight": 3.0
+        },
+        {
+          "word": "2015년",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "친구에게",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책방",
+          "weight": 2.0
+        },
+        {
+          "word": "상수리",
+          "weight": 2.0
+        },
+        {
+          "word": "볼로냐",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "가슴",
+          "weight": 2.0
+        },
+        {
+          "word": "아동도서전",
+          "weight": 2.0
+        },
+        {
+          "word": "OHP",
+          "weight": 2.0
+        },
+        {
+          "word": "국제",
+          "weight": 2.0
+        },
+        {
+          "word": "화제작",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "필름",
+          "weight": 2.0
+        },
+        {
+          "word": "맥스교육",
+          "weight": 2.0
+        },
+        {
+          "word": "조합",
+          "weight": 2.0
+        },
+        {
+          "word": "인쇄",
+          "weight": 2.0
+        },
+        {
+          "word": "김윤정",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 1.0
+        },
+        {
+          "word": "감동",
+          "weight": 1.0
+        },
+        {
+          "word": "젊은그림책작가연대",
+          "weight": 1.0
+        },
+        {
+          "word": "인상",
+          "weight": 1.0
+        },
+        {
+          "word": "아주",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "꾸리",
+          "weight": 1.0
+        },
+        {
+          "word": "미출간",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐국제아동",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐아동도서전",
+          "weight": 1.0
+        },
+        {
+          "word": "상품",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        }
+      ],
+      "description": "상수리 그림책방 시리즈 4권. 2015년 볼로냐 국제 아동도서전 화제작. 엄마가 아이에게 들려주는 따스하고 힘찬 응원과 사랑의 메시지, 그리고 그런 엄마에게 아이가 전하는 사랑과 감사의 마음을 특별한 형식으로 아름답게 담아낸 그림책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "친구에게 =김윤정 그림책 /With you ",
+          "isbn13": "9788911125623",
+          "authors": "글·그림: 김윤정"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "태양 왕 수바 :이지은 그림책 ",
+          "isbn13": "9788901271323",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "친구의 전설 :이지은 그림책 ",
+          "isbn13": "9788901251226",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "이파라파냐무냐무 :이지은 그림책 ",
+          "isbn13": "9791160946673",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        }
+      ],
+      "title": "엄마의 선물",
+      "author": "김윤정",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "엄마의 선물",
+        "author": "김윤정",
+        "publisher": "(주)맥스교육",
+        "publish_predate": "20160325",
+        "isbn": "9791155714058",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩28000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "40",
+        "book_size": "235*235",
+        "form": "종이책",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016006302",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "엄마의 선물 ",
+        "author": "김윤정 지음",
+        "publisher": "맥스교육",
+        "publish_year": "2016",
+        "isbn": "1155714059",
+        "isbn13": "9791155714058",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "상수리 그림책방 시리즈 4권. 2015년 볼로냐 국제 아동도서전 화제작. 엄마가 아이에게 들려주는 따스하고 힘찬 응원과 사랑의 메시지, 그리고 그런 엄마에게 아이가 전하는 사랑과 감사의 마음을 특별한 형식으로 아름답게 담아낸 그림책이다.",
+        "cover_url": "http://image.aladin.co.kr/product/8044/36/cover/k352434747_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사랑",
+            "weight": 9.0
+          },
+          {
+            "word": "엄마",
+            "weight": 6.0
+          },
+          {
+            "word": "그림책",
+            "weight": 5.0
+          },
+          {
+            "word": "아이",
+            "weight": 5.0
+          },
+          {
+            "word": "감사",
+            "weight": 4.0
+          },
+          {
+            "word": "메시지",
+            "weight": 4.0
+          },
+          {
+            "word": "응원",
+            "weight": 4.0
+          },
+          {
+            "word": "전하",
+            "weight": 4.0
+          },
+          {
+            "word": "그림",
+            "weight": 4.0
+          },
+          {
+            "word": "정성",
+            "weight": 3.0
+          },
+          {
+            "word": "매력적",
+            "weight": 3.0
+          },
+          {
+            "word": "형식",
+            "weight": 3.0
+          },
+          {
+            "word": "수작업",
+            "weight": 3.0
+          },
+          {
+            "word": "아이스크림 똥",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마의 선물",
+            "weight": 3.0
+          },
+          {
+            "word": "여름이네 육아일기",
+            "weight": 3.0
+          },
+          {
+            "word": "똥자루 굴러간다",
+            "weight": 3.0
+          },
+          {
+            "word": "2015년",
+            "weight": 3.0
+          },
+          {
+            "word": "특별",
+            "weight": 3.0
+          },
+          {
+            "word": "친구에게",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책방",
+            "weight": 2.0
+          },
+          {
+            "word": "상수리",
+            "weight": 2.0
+          },
+          {
+            "word": "볼로냐",
+            "weight": 2.0
+          },
+          {
+            "word": "한국",
+            "weight": 2.0
+          },
+          {
+            "word": "가슴",
+            "weight": 2.0
+          },
+          {
+            "word": "아동도서전",
+            "weight": 2.0
+          },
+          {
+            "word": "OHP",
+            "weight": 2.0
+          },
+          {
+            "word": "국제",
+            "weight": 2.0
+          },
+          {
+            "word": "화제작",
+            "weight": 2.0
+          },
+          {
+            "word": "마음",
+            "weight": 2.0
+          },
+          {
+            "word": "필름",
+            "weight": 2.0
+          },
+          {
+            "word": "맥스교육",
+            "weight": 2.0
+          },
+          {
+            "word": "조합",
+            "weight": 2.0
+          },
+          {
+            "word": "인쇄",
+            "weight": 2.0
+          },
+          {
+            "word": "김윤정",
+            "weight": 2.0
+          },
+          {
+            "word": "예술",
+            "weight": 1.0
+          },
+          {
+            "word": "감동",
+            "weight": 1.0
+          },
+          {
+            "word": "젊은그림책작가연대",
+            "weight": 1.0
+          },
+          {
+            "word": "인상",
+            "weight": 1.0
+          },
+          {
+            "word": "아주",
+            "weight": 1.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 1.0
+          },
+          {
+            "word": "독특",
+            "weight": 1.0
+          },
+          {
+            "word": "꾸리",
+            "weight": 1.0
+          },
+          {
+            "word": "미출간",
+            "weight": 1.0
+          },
+          {
+            "word": "볼로냐국제아동",
+            "weight": 1.0
+          },
+          {
+            "word": "볼로냐아동도서전",
+            "weight": 1.0
+          },
+          {
+            "word": "상품",
+            "weight": 1.0
+          },
+          {
+            "word": "그린",
+            "weight": 1.0
+          },
+          {
+            "word": "활동",
+            "weight": 1.0
+          },
+          {
+            "word": "독자",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "친구에게 =김윤정 그림책 /With you ",
+            "isbn13": "9788911125623",
+            "authors": "글·그림: 김윤정"
+          },
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "태양 왕 수바 :이지은 그림책 ",
+            "isbn13": "9788901271323",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "친구의 전설 :이지은 그림책 ",
+            "isbn13": "9788901251226",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "이파라파냐무냐무 :이지은 그림책 ",
+            "isbn13": "9791160946673",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "팥빙수의 전설 :이지은 그림책 ",
+            "isbn13": "9788901232232",
+            "authors": "글·그림: 이지은"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "슈퍼 토끼 :유설화 그림책 ",
+            "isbn13": "9791158361839",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "이상한 엄마 ",
+            "isbn13": "9791158360214",
+            "authors": "백희나"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "엄마의 선물"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001728172",
+        "title": "엄마의 선물",
+        "subtitle": "양장본 Hardcover",
+        "page": "44 p.",
+        "book_size": "235*235mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791155714058",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791155714058",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩28000",
+      "title": "엄마의 선물",
+      "subtitle": "양장본 Hardcover",
+      "author": "김윤정",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)맥스교육",
+      "publish_year": "2016",
+      "publish_predate": "20160325",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "44 p.",
+      "book_size": "235*235",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "상수리 그림책방 시리즈 4권. 2015년 볼로냐 국제 아동도서전 화제작. 엄마가 아이에게 들려주는 따스하고 힘찬 응원과 사랑의 메시지, 그리고 그런 엄마에게 아이가 전하는 사랑과 감사의 마음을 특별한 형식으로 아름답게 담아낸 그림책이다.",
+      "control_no": "CIP2016006302",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269936_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사랑",
+          "weight": 9.0
+        },
+        {
+          "word": "엄마",
+          "weight": 6.0
+        },
+        {
+          "word": "그림책",
+          "weight": 5.0
+        },
+        {
+          "word": "아이",
+          "weight": 5.0
+        },
+        {
+          "word": "감사",
+          "weight": 4.0
+        },
+        {
+          "word": "메시지",
+          "weight": 4.0
+        },
+        {
+          "word": "응원",
+          "weight": 4.0
+        },
+        {
+          "word": "전하",
+          "weight": 4.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "정성",
+          "weight": 3.0
+        },
+        {
+          "word": "매력적",
+          "weight": 3.0
+        },
+        {
+          "word": "형식",
+          "weight": 3.0
+        },
+        {
+          "word": "수작업",
+          "weight": 3.0
+        },
+        {
+          "word": "아이스크림 똥",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마의 선물",
+          "weight": 3.0
+        },
+        {
+          "word": "여름이네 육아일기",
+          "weight": 3.0
+        },
+        {
+          "word": "똥자루 굴러간다",
+          "weight": 3.0
+        },
+        {
+          "word": "2015년",
+          "weight": 3.0
+        },
+        {
+          "word": "특별",
+          "weight": 3.0
+        },
+        {
+          "word": "친구에게",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책방",
+          "weight": 2.0
+        },
+        {
+          "word": "상수리",
+          "weight": 2.0
+        },
+        {
+          "word": "볼로냐",
+          "weight": 2.0
+        },
+        {
+          "word": "한국",
+          "weight": 2.0
+        },
+        {
+          "word": "가슴",
+          "weight": 2.0
+        },
+        {
+          "word": "아동도서전",
+          "weight": 2.0
+        },
+        {
+          "word": "OHP",
+          "weight": 2.0
+        },
+        {
+          "word": "국제",
+          "weight": 2.0
+        },
+        {
+          "word": "화제작",
+          "weight": 2.0
+        },
+        {
+          "word": "마음",
+          "weight": 2.0
+        },
+        {
+          "word": "필름",
+          "weight": 2.0
+        },
+        {
+          "word": "맥스교육",
+          "weight": 2.0
+        },
+        {
+          "word": "조합",
+          "weight": 2.0
+        },
+        {
+          "word": "인쇄",
+          "weight": 2.0
+        },
+        {
+          "word": "김윤정",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 1.0
+        },
+        {
+          "word": "감동",
+          "weight": 1.0
+        },
+        {
+          "word": "젊은그림책작가연대",
+          "weight": 1.0
+        },
+        {
+          "word": "인상",
+          "weight": 1.0
+        },
+        {
+          "word": "아주",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "꾸리",
+          "weight": 1.0
+        },
+        {
+          "word": "미출간",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐국제아동",
+          "weight": 1.0
+        },
+        {
+          "word": "볼로냐아동도서전",
+          "weight": 1.0
+        },
+        {
+          "word": "상품",
+          "weight": 1.0
+        },
+        {
+          "word": "그린",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        }
+      ],
+      "description": "상수리 그림책방 시리즈 4권. 2015년 볼로냐 국제 아동도서전 화제작. 엄마가 아이에게 들려주는 따스하고 힘찬 응원과 사랑의 메시지, 그리고 그런 엄마에게 아이가 전하는 사랑과 감사의 마음을 특별한 형식으로 아름답게 담아낸 그림책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "친구에게 =김윤정 그림책 /With you ",
+          "isbn13": "9788911125623",
+          "authors": "글·그림: 김윤정"
+        },
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "태양 왕 수바 :이지은 그림책 ",
+          "isbn13": "9788901271323",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "친구의 전설 :이지은 그림책 ",
+          "isbn13": "9788901251226",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "이파라파냐무냐무 :이지은 그림책 ",
+          "isbn13": "9791160946673",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "이상한 엄마 ",
+          "isbn13": "9791158360214",
+          "authors": "백희나"
+        }
+      ],
+      "title": "엄마의 선물",
+      "author": "김윤정",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

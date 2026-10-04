@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788936455484",
+  "captured_at": "2026-10-05T00:11:30.969991+09:00",
+  "lookup": {
+    "isbn": "9788936455484",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936455484",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "당근 유치원 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2020",
+      "publish_predate": "20200522",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "48 p.",
+      "book_size": "257*285",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2015년 &lt;수박 수영장&gt;을 발표한 이후 개성 있는 작품들을 연달아 선보이며 이제는 모든 독자의 기대와 사랑을 한 몸에 받는 안녕달 작가의 그림책. 아기 토끼가 새 유치원에 가서 몸집도 목소리도 크고, '힘만 센' 곰 선생님을 만나지만 점차 선생님과 마음을 나누며 유치원에 적응해 가는 과정을 그렸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/24011/82/cover/8936455486_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "선생님",
+          "weight": 7.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 6.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "아이들",
+          "weight": 5.0
+        },
+        {
+          "word": "유치원",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "당근 유치원",
+          "weight": 3.0
+        },
+        {
+          "word": "아기",
+          "weight": 2.0
+        },
+        {
+          "word": "신작",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "적응",
+          "weight": 2.0
+        },
+        {
+          "word": "인사",
+          "weight": 2.0
+        },
+        {
+          "word": "위로",
+          "weight": 2.0
+        },
+        {
+          "word": "창비",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "토끼",
+          "weight": 2.0
+        },
+        {
+          "word": "환경",
+          "weight": 1.0
+        },
+        {
+          "word": "입학",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "일상적",
+          "weight": 1.0
+        },
+        {
+          "word": "열렬",
+          "weight": 1.0
+        },
+        {
+          "word": "이해",
+          "weight": 1.0
+        },
+        {
+          "word": "응원",
+          "weight": 1.0
+        },
+        {
+          "word": "유년",
+          "weight": 1.0
+        },
+        {
+          "word": "어른",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "동화적",
+          "weight": 1.0
+        },
+        {
+          "word": "서평단",
+          "weight": 1.0
+        },
+        {
+          "word": "생활",
+          "weight": 1.0
+        },
+        {
+          "word": "당근",
+          "weight": 1.0
+        },
+        {
+          "word": "노력",
+          "weight": 1.0
+        },
+        {
+          "word": "노고",
+          "weight": 1.0
+        },
+        {
+          "word": "기대",
+          "weight": 1.0
+        },
+        {
+          "word": "그림체",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "공간",
+          "weight": 1.0
+        },
+        {
+          "word": "당연",
+          "weight": 1.0
+        },
+        {
+          "word": "독보적",
+          "weight": 1.0
+        },
+        {
+          "word": "상상",
+          "weight": 1.0
+        },
+        {
+          "word": "사전",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "몸집",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "모습",
+          "weight": 1.0
+        },
+        {
+          "word": "매일",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        }
+      ],
+      "description": "2015년 &lt;수박 수영장&gt;을 발표한 이후 개성 있는 작품들을 연달아 선보이며 이제는 모든 독자의 기대와 사랑을 한 몸에 받는 안녕달 작가의 그림책. 아기 토끼가 새 유치원에 가서 몸집도 목소리도 크고, '힘만 센' 곰 선생님을 만나지만 점차 선생님과 마음을 나누며 유치원에 적응해 가는 과정을 그렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "할머니의 여름휴가",
+          "isbn13": "9788936454951",
+          "authors": "안녕달"
+        },
+        {
+          "bookname": "당근 할머니 :안녕달 그림책 ",
+          "isbn13": "9788936429232",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        },
+        {
+          "bookname": "왜냐면… ",
+          "isbn13": "9791158360382",
+          "authors": "안녕달 글·그림"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+          "isbn13": "9791158361518",
+          "authors": "안녕달 [지음]"
+        },
+        {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "isbn13": "9791158363499",
+          "authors": "윤정주"
+        }
+      ],
+      "title": "당근 유치원 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "당근 유치원 ",
+        "author": "지은이: 안녕달",
+        "publisher": "창비",
+        "publish_predate": "20200522",
+        "isbn": "9788936455484",
+        "isbn_add_code": "77810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "[46] p.",
+        "book_size": "257*285",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "당근 유치원 ",
+        "author": "지은이: 안녕달",
+        "publisher": "창비",
+        "publish_year": "2020",
+        "isbn": "8936455486",
+        "isbn13": "9788936455484",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "2015년 &lt;수박 수영장&gt;을 발표한 이후 개성 있는 작품들을 연달아 선보이며 이제는 모든 독자의 기대와 사랑을 한 몸에 받는 안녕달 작가의 그림책. 아기 토끼가 새 유치원에 가서 몸집도 목소리도 크고, '힘만 센' 곰 선생님을 만나지만 점차 선생님과 마음을 나누며 유치원에 적응해 가는 과정을 그렸다.",
+        "cover_url": "https://image.aladin.co.kr/product/24011/82/cover/8936455486_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "선생님",
+            "weight": 7.0
+          },
+          {
+            "word": "수박 수영장",
+            "weight": 6.0
+          },
+          {
+            "word": "안녕달",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 5.0
+          },
+          {
+            "word": "아이들",
+            "weight": 5.0
+          },
+          {
+            "word": "유치원",
+            "weight": 4.0
+          },
+          {
+            "word": "아이",
+            "weight": 4.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "당근 유치원",
+            "weight": 3.0
+          },
+          {
+            "word": "아기",
+            "weight": 2.0
+          },
+          {
+            "word": "신작",
+            "weight": 2.0
+          },
+          {
+            "word": "한국 그림책",
+            "weight": 2.0
+          },
+          {
+            "word": "적응",
+            "weight": 2.0
+          },
+          {
+            "word": "인사",
+            "weight": 2.0
+          },
+          {
+            "word": "위로",
+            "weight": 2.0
+          },
+          {
+            "word": "창비",
+            "weight": 2.0
+          },
+          {
+            "word": "교사",
+            "weight": 2.0
+          },
+          {
+            "word": "토끼",
+            "weight": 2.0
+          },
+          {
+            "word": "환경",
+            "weight": 1.0
+          },
+          {
+            "word": "입학",
+            "weight": 1.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "일상적",
+            "weight": 1.0
+          },
+          {
+            "word": "열렬",
+            "weight": 1.0
+          },
+          {
+            "word": "이해",
+            "weight": 1.0
+          },
+          {
+            "word": "응원",
+            "weight": 1.0
+          },
+          {
+            "word": "유년",
+            "weight": 1.0
+          },
+          {
+            "word": "어른",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이",
+            "weight": 1.0
+          },
+          {
+            "word": "동화적",
+            "weight": 1.0
+          },
+          {
+            "word": "서평단",
+            "weight": 1.0
+          },
+          {
+            "word": "생활",
+            "weight": 1.0
+          },
+          {
+            "word": "당근",
+            "weight": 1.0
+          },
+          {
+            "word": "노력",
+            "weight": 1.0
+          },
+          {
+            "word": "노고",
+            "weight": 1.0
+          },
+          {
+            "word": "기대",
+            "weight": 1.0
+          },
+          {
+            "word": "그림체",
+            "weight": 1.0
+          },
+          {
+            "word": "과정",
+            "weight": 1.0
+          },
+          {
+            "word": "공감",
+            "weight": 1.0
+          },
+          {
+            "word": "공간",
+            "weight": 1.0
+          },
+          {
+            "word": "당연",
+            "weight": 1.0
+          },
+          {
+            "word": "독보적",
+            "weight": 1.0
+          },
+          {
+            "word": "상상",
+            "weight": 1.0
+          },
+          {
+            "word": "사전",
+            "weight": 1.0
+          },
+          {
+            "word": "배경",
+            "weight": 1.0
+          },
+          {
+            "word": "몸집",
+            "weight": 1.0
+          },
+          {
+            "word": "목소리",
+            "weight": 1.0
+          },
+          {
+            "word": "모습",
+            "weight": 1.0
+          },
+          {
+            "word": "매일",
+            "weight": 1.0
+          },
+          {
+            "word": "독자",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "할머니의 여름휴가",
+            "isbn13": "9788936454951",
+            "authors": "안녕달"
+          },
+          {
+            "bookname": "당근 할머니 :안녕달 그림책 ",
+            "isbn13": "9788936429232",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "겨울 이불 :안녕달 그림책 ",
+            "isbn13": "9788936455965",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "눈아이 :안녕달 그림책 ",
+            "isbn13": "9788936455736",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "메리 :안녕달 그림책 ",
+            "isbn13": "9791160943061",
+            "authors": "글·그림: 안녕달"
+          },
+          {
+            "bookname": "왜냐면… ",
+            "isbn13": "9791158360382",
+            "authors": "안녕달 글·그림"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+            "isbn13": "9791158361518",
+            "authors": "안녕달 [지음]"
+          },
+          {
+            "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+            "isbn13": "9791158363499",
+            "authors": "윤정주"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "당근 유치원"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000611748",
+        "title": "당근 유치원",
+        "subtitle": "안녕달 그림책",
+        "page": "48 p.",
+        "book_size": "262*293mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788936455484",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788936455484",
+      "isbn_add_code": "77810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "당근 유치원 ",
+      "subtitle": "안녕달 그림책",
+      "author": "지은이: 안녕달",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "창비",
+      "publish_year": "2020",
+      "publish_predate": "20200522",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "48 p.",
+      "book_size": "257*285",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2015년 &lt;수박 수영장&gt;을 발표한 이후 개성 있는 작품들을 연달아 선보이며 이제는 모든 독자의 기대와 사랑을 한 몸에 받는 안녕달 작가의 그림책. 아기 토끼가 새 유치원에 가서 몸집도 목소리도 크고, '힘만 센' 곰 선생님을 만나지만 점차 선생님과 마음을 나누며 유치원에 적응해 가는 과정을 그렸다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/24011/82/cover/8936455486_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "선생님",
+          "weight": 7.0
+        },
+        {
+          "word": "수박 수영장",
+          "weight": 6.0
+        },
+        {
+          "word": "안녕달",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 5.0
+        },
+        {
+          "word": "아이들",
+          "weight": 5.0
+        },
+        {
+          "word": "유치원",
+          "weight": 4.0
+        },
+        {
+          "word": "아이",
+          "weight": 4.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "당근 유치원",
+          "weight": 3.0
+        },
+        {
+          "word": "아기",
+          "weight": 2.0
+        },
+        {
+          "word": "신작",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "적응",
+          "weight": 2.0
+        },
+        {
+          "word": "인사",
+          "weight": 2.0
+        },
+        {
+          "word": "위로",
+          "weight": 2.0
+        },
+        {
+          "word": "창비",
+          "weight": 2.0
+        },
+        {
+          "word": "교사",
+          "weight": 2.0
+        },
+        {
+          "word": "토끼",
+          "weight": 2.0
+        },
+        {
+          "word": "환경",
+          "weight": 1.0
+        },
+        {
+          "word": "입학",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "일상적",
+          "weight": 1.0
+        },
+        {
+          "word": "열렬",
+          "weight": 1.0
+        },
+        {
+          "word": "이해",
+          "weight": 1.0
+        },
+        {
+          "word": "응원",
+          "weight": 1.0
+        },
+        {
+          "word": "유년",
+          "weight": 1.0
+        },
+        {
+          "word": "어른",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이",
+          "weight": 1.0
+        },
+        {
+          "word": "동화적",
+          "weight": 1.0
+        },
+        {
+          "word": "서평단",
+          "weight": 1.0
+        },
+        {
+          "word": "생활",
+          "weight": 1.0
+        },
+        {
+          "word": "당근",
+          "weight": 1.0
+        },
+        {
+          "word": "노력",
+          "weight": 1.0
+        },
+        {
+          "word": "노고",
+          "weight": 1.0
+        },
+        {
+          "word": "기대",
+          "weight": 1.0
+        },
+        {
+          "word": "그림체",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "공감",
+          "weight": 1.0
+        },
+        {
+          "word": "공간",
+          "weight": 1.0
+        },
+        {
+          "word": "당연",
+          "weight": 1.0
+        },
+        {
+          "word": "독보적",
+          "weight": 1.0
+        },
+        {
+          "word": "상상",
+          "weight": 1.0
+        },
+        {
+          "word": "사전",
+          "weight": 1.0
+        },
+        {
+          "word": "배경",
+          "weight": 1.0
+        },
+        {
+          "word": "몸집",
+          "weight": 1.0
+        },
+        {
+          "word": "목소리",
+          "weight": 1.0
+        },
+        {
+          "word": "모습",
+          "weight": 1.0
+        },
+        {
+          "word": "매일",
+          "weight": 1.0
+        },
+        {
+          "word": "독자",
+          "weight": 1.0
+        }
+      ],
+      "description": "2015년 &lt;수박 수영장&gt;을 발표한 이후 개성 있는 작품들을 연달아 선보이며 이제는 모든 독자의 기대와 사랑을 한 몸에 받는 안녕달 작가의 그림책. 아기 토끼가 새 유치원에 가서 몸집도 목소리도 크고, '힘만 센' 곰 선생님을 만나지만 점차 선생님과 마음을 나누며 유치원에 적응해 가는 과정을 그렸다.",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "할머니의 여름휴가",
+          "isbn13": "9788936454951",
+          "authors": "안녕달"
+        },
+        {
+          "bookname": "당근 할머니 :안녕달 그림책 ",
+          "isbn13": "9788936429232",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "겨울 이불 :안녕달 그림책 ",
+          "isbn13": "9788936455965",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "눈아이 :안녕달 그림책 ",
+          "isbn13": "9788936455736",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "메리 :안녕달 그림책 ",
+          "isbn13": "9791160943061",
+          "authors": "글·그림: 안녕달"
+        },
+        {
+          "bookname": "왜냐면… ",
+          "isbn13": "9791158360382",
+          "authors": "안녕달 글·그림"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "쓰레기통 요정 :안녕달 그림책 ",
+          "isbn13": "9791158361518",
+          "authors": "안녕달 [지음]"
+        },
+        {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "isbn13": "9791158363499",
+          "authors": "윤정주"
+        }
+      ],
+      "title": "당근 유치원 ",
+      "author": "지은이: 안녕달",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

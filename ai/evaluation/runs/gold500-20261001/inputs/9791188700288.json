@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791188700288",
+  "captured_at": "2026-10-02T00:19:25.612944+09:00",
+  "lookup": {
+    "isbn": "9791188700288",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188700288",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "아이를 위한 하루 한 줄 인문학",
+      "subtitle": "내면의 힘이 탄탄한 아이를 만드는 인생 문장 100",
+      "author": "김종원 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "청림 Life :청림출판",
+      "publish_year": "2018",
+      "publish_predate": "20181212",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "649.1",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "292 p.",
+      "book_size": "152*224",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "10만 부모가 극찬한 인문 교육의 대가, 김종원 저자의 자녀교육 지혜를 한 권으로 집약한 책이다. 아이의 내면의 힘을 탄탄하게 길러줄 ‘하루 한 줄 인문학’의 의미와 구체적인 방법을 소개하고 있다.",
+      "control_no": "CIP2018036717",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 130.0
+        },
+        {
+          "word": "부모",
+          "weight": 74.0
+        },
+        {
+          "word": "교육",
+          "weight": 53.0
+        },
+        {
+          "word": "인생",
+          "weight": 52.0
+        },
+        {
+          "word": "문장",
+          "weight": 48.0
+        },
+        {
+          "word": "필사",
+          "weight": 45.0
+        },
+        {
+          "word": "인문학",
+          "weight": 40.0
+        },
+        {
+          "word": "포인트",
+          "weight": 36.0
+        },
+        {
+          "word": "생각",
+          "weight": 22.0
+        },
+        {
+          "word": "하루",
+          "weight": 19.0
+        },
+        {
+          "word": "방법",
+          "weight": 16.0
+        },
+        {
+          "word": "자기",
+          "weight": 13.0
+        },
+        {
+          "word": "수업",
+          "weight": 13.0
+        },
+        {
+          "word": "마음",
+          "weight": 12.0
+        },
+        {
+          "word": "자신",
+          "weight": 10.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "고민",
+          "weight": 9.0
+        },
+        {
+          "word": "자존감",
+          "weight": 9.0
+        },
+        {
+          "word": "내면",
+          "weight": 8.0
+        },
+        {
+          "word": "노트",
+          "weight": 7.0
+        },
+        {
+          "word": "교육법",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "김종원",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "잠재력",
+          "weight": 6.0
+        },
+        {
+          "word": "지혜",
+          "weight": 6.0
+        },
+        {
+          "word": "선택",
+          "weight": 5.0
+        },
+        {
+          "word": "성장",
+          "weight": 5.0
+        },
+        {
+          "word": "결정",
+          "weight": 5.0
+        },
+        {
+          "word": "배우",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "언어",
+          "weight": 5.0
+        },
+        {
+          "word": "인문",
+          "weight": 5.0
+        },
+        {
+          "word": "대가",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 4.0
+        },
+        {
+          "word": "창의력",
+          "weight": 4.0
+        },
+        {
+          "word": "도움",
+          "weight": 4.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "사고력",
+          "weight": 4.0
+        },
+        {
+          "word": "능력",
+          "weight": 4.0
+        },
+        {
+          "word": "재능",
+          "weight": 4.0
+        },
+        {
+          "word": "특별",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "자녀교육",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "시험",
+          "weight": 4.0
+        },
+        {
+          "word": "소중",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        }
+      ],
+      "description": "10만 부모가 극찬한 인문 교육의 대가, 김종원 저자의 자녀교육 지혜를 한 권으로 집약한 책이다. 아이의 내면의 힘을 탄탄하게 길러줄 ‘하루 한 줄 인문학’의 의미와 구체적인 방법을 소개하고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "부모의 말 :아이의 마음을 제대로 읽은 부모의 말은 다릅니다 ",
+          "isbn13": "9791185402642",
+          "authors": "지은이: 김종원"
+        },
+        {
+          "bookname": "아이의 공부 태도가 바뀌는 하루 한 줄 인문학 :자기주도 학습력을 높이는 동기부여 문장 100 ",
+          "isbn13": "9791188700516",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(1일 1문장으로 부모는 따뜻하게, 아이는 단단하게 자라는) 66일 인문학 대화법 ",
+          "isbn13": "9791168271104",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "하루 한마디 인문학 질문의 기적 ",
+          "isbn13": "9791130629384",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "66일 밥상머리 대화법 :아이의 50년을 결정하는 하루 5분 식탁 대화의 비밀 ",
+          "isbn13": "9791168271173",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "66일 자존감 대화법 :밝고 긍정적이며 야무진 아이로 키우는 하루 10분 부모 대화 수업 ",
+          "isbn13": "9791168271432",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(내 아이의 미래를 위한) 부모 인문학 수업 ",
+          "isbn13": "9788997195947",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "isbn13": "9791168271999",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(내 아이를 위한) 30일 인문학 글쓰기의 기적 ",
+          "isbn13": "9791185402550",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "아이를 위한 하루 한 줄 인문학",
+      "author": "김종원 지음",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "649.1",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "아이를 위한 하루 한 줄 인문학",
+        "author": "김종원 지음",
+        "publisher": "청림 Life :청림출판",
+        "publish_predate": "20181212",
+        "isbn": "9791188700288",
+        "isbn_add_code": "13590",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "291 p.",
+        "book_size": "152*224",
+        "form": "종이책",
+        "kdc": "598.1",
+        "ddc": "649.1",
+        "subject": "5",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018036717",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "아이를 위한 하루 한 줄 인문학 :내면의 힘이 탄탄한 아이를 만드는 인생 문장 100 ",
+        "author": "김종원 지음",
+        "publisher": "청림출판",
+        "publish_year": "2018",
+        "isbn": "1188700286",
+        "isbn13": "9791188700288",
+        "isbn_add_code": "13590",
+        "volume": "",
+        "class_no": "598.1",
+        "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+        "description": "10만 부모가 극찬한 인문 교육의 대가, 김종원 저자의 자녀교육 지혜를 한 권으로 집약한 책이다. 아이의 내면의 힘을 탄탄하게 길러줄 ‘하루 한 줄 인문학’의 의미와 구체적인 방법을 소개하고 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/17533/6/cover/k632534304_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아이",
+            "weight": 130.0
+          },
+          {
+            "word": "부모",
+            "weight": 74.0
+          },
+          {
+            "word": "교육",
+            "weight": 53.0
+          },
+          {
+            "word": "인생",
+            "weight": 52.0
+          },
+          {
+            "word": "문장",
+            "weight": 48.0
+          },
+          {
+            "word": "필사",
+            "weight": 45.0
+          },
+          {
+            "word": "인문학",
+            "weight": 40.0
+          },
+          {
+            "word": "포인트",
+            "weight": 36.0
+          },
+          {
+            "word": "생각",
+            "weight": 22.0
+          },
+          {
+            "word": "하루",
+            "weight": 19.0
+          },
+          {
+            "word": "방법",
+            "weight": 16.0
+          },
+          {
+            "word": "자기",
+            "weight": 13.0
+          },
+          {
+            "word": "수업",
+            "weight": 13.0
+          },
+          {
+            "word": "마음",
+            "weight": 12.0
+          },
+          {
+            "word": "자신",
+            "weight": 10.0
+          },
+          {
+            "word": "공부",
+            "weight": 9.0
+          },
+          {
+            "word": "고민",
+            "weight": 9.0
+          },
+          {
+            "word": "자존감",
+            "weight": 9.0
+          },
+          {
+            "word": "내면",
+            "weight": 8.0
+          },
+          {
+            "word": "노트",
+            "weight": 7.0
+          },
+          {
+            "word": "교육법",
+            "weight": 7.0
+          },
+          {
+            "word": "사람",
+            "weight": 6.0
+          },
+          {
+            "word": "김종원",
+            "weight": 6.0
+          },
+          {
+            "word": "세상",
+            "weight": 6.0
+          },
+          {
+            "word": "잠재력",
+            "weight": 6.0
+          },
+          {
+            "word": "지혜",
+            "weight": 6.0
+          },
+          {
+            "word": "선택",
+            "weight": 5.0
+          },
+          {
+            "word": "성장",
+            "weight": 5.0
+          },
+          {
+            "word": "결정",
+            "weight": 5.0
+          },
+          {
+            "word": "배우",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "언어",
+            "weight": 5.0
+          },
+          {
+            "word": "인문",
+            "weight": 5.0
+          },
+          {
+            "word": "대가",
+            "weight": 4.0
+          },
+          {
+            "word": "도전",
+            "weight": 4.0
+          },
+          {
+            "word": "두뇌",
+            "weight": 4.0
+          },
+          {
+            "word": "창의력",
+            "weight": 4.0
+          },
+          {
+            "word": "도움",
+            "weight": 4.0
+          },
+          {
+            "word": "건강",
+            "weight": 4.0
+          },
+          {
+            "word": "사고력",
+            "weight": 4.0
+          },
+          {
+            "word": "능력",
+            "weight": 4.0
+          },
+          {
+            "word": "재능",
+            "weight": 4.0
+          },
+          {
+            "word": "특별",
+            "weight": 4.0
+          },
+          {
+            "word": "창조",
+            "weight": 4.0
+          },
+          {
+            "word": "가지",
+            "weight": 4.0
+          },
+          {
+            "word": "자녀교육",
+            "weight": 4.0
+          },
+          {
+            "word": "방식",
+            "weight": 4.0
+          },
+          {
+            "word": "시험",
+            "weight": 4.0
+          },
+          {
+            "word": "소중",
+            "weight": 4.0
+          },
+          {
+            "word": "최고",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "부모의 말 :아이의 마음을 제대로 읽은 부모의 말은 다릅니다 ",
+            "isbn13": "9791185402642",
+            "authors": "지은이: 김종원"
+          },
+          {
+            "bookname": "아이의 공부 태도가 바뀌는 하루 한 줄 인문학 :자기주도 학습력을 높이는 동기부여 문장 100 ",
+            "isbn13": "9791188700516",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "(1일 1문장으로 부모는 따뜻하게, 아이는 단단하게 자라는) 66일 인문학 대화법 ",
+            "isbn13": "9791168271104",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "하루 한마디 인문학 질문의 기적 ",
+            "isbn13": "9791130629384",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "66일 밥상머리 대화법 :아이의 50년을 결정하는 하루 5분 식탁 대화의 비밀 ",
+            "isbn13": "9791168271173",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "66일 자존감 대화법 :밝고 긍정적이며 야무진 아이로 키우는 하루 10분 부모 대화 수업 ",
+            "isbn13": "9791168271432",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "(내 아이의 미래를 위한) 부모 인문학 수업 ",
+            "isbn13": "9788997195947",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+            "isbn13": "9791168271999",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "(내 아이를 위한) 30일 인문학 글쓰기의 기적 ",
+            "isbn13": "9791185402550",
+            "authors": "김종원 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "아이를 위한 하루 한 줄 인문학"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001917635",
+        "title": "아이를 위한 하루 한 줄 인문학",
+        "subtitle": "내면의 힘이 탄탄한 아이를 만드는 인생 문장 100",
+        "page": "292 p.",
+        "book_size": "155*224mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791188700288",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188700288",
+      "isbn_add_code": "13590",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "아이를 위한 하루 한 줄 인문학",
+      "subtitle": "내면의 힘이 탄탄한 아이를 만드는 인생 문장 100",
+      "author": "김종원 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "청림 Life :청림출판",
+      "publish_year": "2018",
+      "publish_predate": "20181212",
+      "kdc": "598.1",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 가정학 및 가정생활 > 육아",
+      "ddc": "649.1",
+      "ddc_edition": "",
+      "subject": "5",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "292 p.",
+      "book_size": "152*224",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "10만 부모가 극찬한 인문 교육의 대가, 김종원 저자의 자녀교육 지혜를 한 권으로 집약한 책이다. 아이의 내면의 힘을 탄탄하게 길러줄 ‘하루 한 줄 인문학’의 의미와 구체적인 방법을 소개하고 있다.",
+      "control_no": "CIP2018036717",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001951_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 130.0
+        },
+        {
+          "word": "부모",
+          "weight": 74.0
+        },
+        {
+          "word": "교육",
+          "weight": 53.0
+        },
+        {
+          "word": "인생",
+          "weight": 52.0
+        },
+        {
+          "word": "문장",
+          "weight": 48.0
+        },
+        {
+          "word": "필사",
+          "weight": 45.0
+        },
+        {
+          "word": "인문학",
+          "weight": 40.0
+        },
+        {
+          "word": "포인트",
+          "weight": 36.0
+        },
+        {
+          "word": "생각",
+          "weight": 22.0
+        },
+        {
+          "word": "하루",
+          "weight": 19.0
+        },
+        {
+          "word": "방법",
+          "weight": 16.0
+        },
+        {
+          "word": "자기",
+          "weight": 13.0
+        },
+        {
+          "word": "수업",
+          "weight": 13.0
+        },
+        {
+          "word": "마음",
+          "weight": 12.0
+        },
+        {
+          "word": "자신",
+          "weight": 10.0
+        },
+        {
+          "word": "공부",
+          "weight": 9.0
+        },
+        {
+          "word": "고민",
+          "weight": 9.0
+        },
+        {
+          "word": "자존감",
+          "weight": 9.0
+        },
+        {
+          "word": "내면",
+          "weight": 8.0
+        },
+        {
+          "word": "노트",
+          "weight": 7.0
+        },
+        {
+          "word": "교육법",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 6.0
+        },
+        {
+          "word": "김종원",
+          "weight": 6.0
+        },
+        {
+          "word": "세상",
+          "weight": 6.0
+        },
+        {
+          "word": "잠재력",
+          "weight": 6.0
+        },
+        {
+          "word": "지혜",
+          "weight": 6.0
+        },
+        {
+          "word": "선택",
+          "weight": 5.0
+        },
+        {
+          "word": "성장",
+          "weight": 5.0
+        },
+        {
+          "word": "결정",
+          "weight": 5.0
+        },
+        {
+          "word": "배우",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "언어",
+          "weight": 5.0
+        },
+        {
+          "word": "인문",
+          "weight": 5.0
+        },
+        {
+          "word": "대가",
+          "weight": 4.0
+        },
+        {
+          "word": "도전",
+          "weight": 4.0
+        },
+        {
+          "word": "두뇌",
+          "weight": 4.0
+        },
+        {
+          "word": "창의력",
+          "weight": 4.0
+        },
+        {
+          "word": "도움",
+          "weight": 4.0
+        },
+        {
+          "word": "건강",
+          "weight": 4.0
+        },
+        {
+          "word": "사고력",
+          "weight": 4.0
+        },
+        {
+          "word": "능력",
+          "weight": 4.0
+        },
+        {
+          "word": "재능",
+          "weight": 4.0
+        },
+        {
+          "word": "특별",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "자녀교육",
+          "weight": 4.0
+        },
+        {
+          "word": "방식",
+          "weight": 4.0
+        },
+        {
+          "word": "시험",
+          "weight": 4.0
+        },
+        {
+          "word": "소중",
+          "weight": 4.0
+        },
+        {
+          "word": "최고",
+          "weight": 4.0
+        }
+      ],
+      "description": "10만 부모가 극찬한 인문 교육의 대가, 김종원 저자의 자녀교육 지혜를 한 권으로 집약한 책이다. 아이의 내면의 힘을 탄탄하게 길러줄 ‘하루 한 줄 인문학’의 의미와 구체적인 방법을 소개하고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "부모의 말 :아이의 마음을 제대로 읽은 부모의 말은 다릅니다 ",
+          "isbn13": "9791185402642",
+          "authors": "지은이: 김종원"
+        },
+        {
+          "bookname": "아이의 공부 태도가 바뀌는 하루 한 줄 인문학 :자기주도 학습력을 높이는 동기부여 문장 100 ",
+          "isbn13": "9791188700516",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(1일 1문장으로 부모는 따뜻하게, 아이는 단단하게 자라는) 66일 인문학 대화법 ",
+          "isbn13": "9791168271104",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "하루 한마디 인문학 질문의 기적 ",
+          "isbn13": "9791130629384",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "66일 밥상머리 대화법 :아이의 50년을 결정하는 하루 5분 식탁 대화의 비밀 ",
+          "isbn13": "9791168271173",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "66일 자존감 대화법 :밝고 긍정적이며 야무진 아이로 키우는 하루 10분 부모 대화 수업 ",
+          "isbn13": "9791168271432",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(내 아이의 미래를 위한) 부모 인문학 수업 ",
+          "isbn13": "9788997195947",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "isbn13": "9791168271999",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "(내 아이를 위한) 30일 인문학 글쓰기의 기적 ",
+          "isbn13": "9791185402550",
+          "authors": "김종원 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "아이를 위한 하루 한 줄 인문학",
+      "author": "김종원 지음",
+      "kdc_from_api": "598.1",
+      "ddc_from_api": "649.1",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

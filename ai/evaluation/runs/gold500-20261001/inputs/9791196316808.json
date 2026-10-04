@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791196316808",
+  "captured_at": "2026-10-02T00:11:51.661785+09:00",
+  "lookup": {
+    "isbn": "9791196316808",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196316808",
+      "isbn_add_code": "03370",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "공부머리 독서법",
+      "subtitle": "실현 가능하고 지속 가능한 독서교육의 모든 것",
+      "author": "최승필 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책구루",
+      "publish_year": "2018",
+      "publish_predate": "20180503",
+      "kdc": "029.8",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028.5",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "147*223",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "12년 동안 저자가 아이들과 함께 독서 논술 수업을 하면서 축적한 노하우를 집약한 독서교육 지침서. 전국을 누비며 독서법 강연을 하는 전문가지만 《공부머리 독서법》에는 가정에서 실현 가능한 독서법만을 엮었다. 실제 사례와 데이터를 바탕으로 직접 효과를 본 독서법들이 알차게 채워져 있다.",
+      "control_no": "CIP2018008481",
+      "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2025/02/9791196316808.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "독서법",
+          "weight": 41.0
+        },
+        {
+          "word": "공부머리 독서법",
+          "weight": 33.0
+        },
+        {
+          "word": "아이",
+          "weight": 22.0
+        },
+        {
+          "word": "공부머리",
+          "weight": 20.0
+        },
+        {
+          "word": "독서",
+          "weight": 20.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 17.0
+        },
+        {
+          "word": "공부",
+          "weight": 16.0
+        },
+        {
+          "word": "정보",
+          "weight": 15.0
+        },
+        {
+          "word": "아이들",
+          "weight": 15.0
+        },
+        {
+          "word": "언어능력",
+          "weight": 12.0
+        },
+        {
+          "word": "이해",
+          "weight": 11.0
+        },
+        {
+          "word": "이야기책",
+          "weight": 10.0
+        },
+        {
+          "word": "초등",
+          "weight": 10.0
+        },
+        {
+          "word": "읽기",
+          "weight": 9.0
+        },
+        {
+          "word": "지식도서",
+          "weight": 8.0
+        },
+        {
+          "word": "문제",
+          "weight": 8.0
+        },
+        {
+          "word": "최승필",
+          "weight": 7.0
+        },
+        {
+          "word": "효과",
+          "weight": 7.0
+        },
+        {
+          "word": "가능",
+          "weight": 7.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "교육",
+          "weight": 6.0
+        },
+        {
+          "word": "읽기독립",
+          "weight": 6.0
+        },
+        {
+          "word": "지식",
+          "weight": 6.0
+        },
+        {
+          "word": "교과서",
+          "weight": 6.0
+        },
+        {
+          "word": "청소년",
+          "weight": 5.0
+        },
+        {
+          "word": "내용",
+          "weight": 5.0
+        },
+        {
+          "word": "학부모",
+          "weight": 5.0
+        },
+        {
+          "word": "매일",
+          "weight": 5.0
+        },
+        {
+          "word": "실행",
+          "weight": 5.0
+        },
+        {
+          "word": "고학년",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "독서가",
+          "weight": 4.0
+        },
+        {
+          "word": "우등생",
+          "weight": 4.0
+        },
+        {
+          "word": "중학생",
+          "weight": 4.0
+        },
+        {
+          "word": "사례",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "페이지",
+          "weight": 4.0
+        },
+        {
+          "word": "학년",
+          "weight": 4.0
+        },
+        {
+          "word": "원리",
+          "weight": 4.0
+        },
+        {
+          "word": "문장",
+          "weight": 3.0
+        },
+        {
+          "word": "수준",
+          "weight": 3.0
+        },
+        {
+          "word": "수학",
+          "weight": 3.0
+        },
+        {
+          "word": "데이터",
+          "weight": 3.0
+        },
+        {
+          "word": "능력",
+          "weight": 3.0
+        },
+        {
+          "word": "단기간",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "저학년",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "전문가",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        }
+      ],
+      "description": "12년 동안 저자가 아이들과 함께 독서 논술 수업을 하면서 축적한 노하우를 집약한 독서교육 지침서. 전국을 누비며 독서법 강연을 하는 전문가지만 《공부머리 독서법》에는 가정에서 실현 가능한 독서법만을 엮었다. 실제 사례와 데이터를 바탕으로 직접 효과를 본 독서법들이 알차게 채워져 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "다시, 공부머리 독서법",
+          "isbn13": "9791196316860",
+          "authors": "최승필 지음"
+        },
+        {
+          "bookname": "수학 잘하는 아이는 이렇게 공부합니다 :수학이 어려운 엄마를 위한 전략적 학습 로드맵 ",
+          "isbn13": "9791196848194",
+          "authors": "류승재 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "isbn13": "9788934965404",
+          "authors": "나민애 지음"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "공부머리 독서법",
+      "author": "최승필 지음",
+      "kdc_from_api": "029.8",
+      "ddc_from_api": "028.5",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "공부머리 독서법",
+        "author": "최승필 지음",
+        "publisher": "책구루",
+        "publish_predate": "20180503",
+        "isbn": "9791196316808",
+        "isbn_add_code": "03370",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "343 p.",
+        "book_size": "147*223",
+        "form": "종이책",
+        "kdc": "029.8",
+        "ddc": "028.5",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018008481",
+        "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2025/02/9791196316808.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "공부머리 독서법 :실현 가능하고 지속 가능한 독서교육의 모든 것 ",
+        "author": "최승필 지음",
+        "publisher": "책구루",
+        "publish_year": "2018",
+        "isbn": "1196316805",
+        "isbn13": "9791196316808",
+        "isbn_add_code": "03370",
+        "volume": "",
+        "class_no": "029.8",
+        "class_nm": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+        "description": "12년 동안 저자가 아이들과 함께 독서 논술 수업을 하면서 축적한 노하우를 집약한 독서교육 지침서. 전국을 누비며 독서법 강연을 하는 전문가지만 《공부머리 독서법》에는 가정에서 실현 가능한 독서법만을 엮었다. 실제 사례와 데이터를 바탕으로 직접 효과를 본 독서법들이 알차게 채워져 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/14131/58/cover/k722532337_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "독서법",
+            "weight": 41.0
+          },
+          {
+            "word": "공부머리 독서법",
+            "weight": 33.0
+          },
+          {
+            "word": "아이",
+            "weight": 22.0
+          },
+          {
+            "word": "공부머리",
+            "weight": 20.0
+          },
+          {
+            "word": "독서",
+            "weight": 20.0
+          },
+          {
+            "word": "독서교육",
+            "weight": 17.0
+          },
+          {
+            "word": "공부",
+            "weight": 16.0
+          },
+          {
+            "word": "정보",
+            "weight": 15.0
+          },
+          {
+            "word": "아이들",
+            "weight": 15.0
+          },
+          {
+            "word": "언어능력",
+            "weight": 12.0
+          },
+          {
+            "word": "이해",
+            "weight": 11.0
+          },
+          {
+            "word": "이야기책",
+            "weight": 10.0
+          },
+          {
+            "word": "초등",
+            "weight": 10.0
+          },
+          {
+            "word": "읽기",
+            "weight": 9.0
+          },
+          {
+            "word": "지식도서",
+            "weight": 8.0
+          },
+          {
+            "word": "문제",
+            "weight": 8.0
+          },
+          {
+            "word": "최승필",
+            "weight": 7.0
+          },
+          {
+            "word": "효과",
+            "weight": 7.0
+          },
+          {
+            "word": "가능",
+            "weight": 7.0
+          },
+          {
+            "word": "시간",
+            "weight": 6.0
+          },
+          {
+            "word": "교육",
+            "weight": 6.0
+          },
+          {
+            "word": "읽기독립",
+            "weight": 6.0
+          },
+          {
+            "word": "지식",
+            "weight": 6.0
+          },
+          {
+            "word": "교과서",
+            "weight": 6.0
+          },
+          {
+            "word": "청소년",
+            "weight": 5.0
+          },
+          {
+            "word": "내용",
+            "weight": 5.0
+          },
+          {
+            "word": "학부모",
+            "weight": 5.0
+          },
+          {
+            "word": "매일",
+            "weight": 5.0
+          },
+          {
+            "word": "실행",
+            "weight": 5.0
+          },
+          {
+            "word": "고학년",
+            "weight": 4.0
+          },
+          {
+            "word": "방법",
+            "weight": 4.0
+          },
+          {
+            "word": "독서가",
+            "weight": 4.0
+          },
+          {
+            "word": "우등생",
+            "weight": 4.0
+          },
+          {
+            "word": "중학생",
+            "weight": 4.0
+          },
+          {
+            "word": "사례",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "페이지",
+            "weight": 4.0
+          },
+          {
+            "word": "학년",
+            "weight": 4.0
+          },
+          {
+            "word": "원리",
+            "weight": 4.0
+          },
+          {
+            "word": "문장",
+            "weight": 3.0
+          },
+          {
+            "word": "수준",
+            "weight": 3.0
+          },
+          {
+            "word": "수학",
+            "weight": 3.0
+          },
+          {
+            "word": "데이터",
+            "weight": 3.0
+          },
+          {
+            "word": "능력",
+            "weight": 3.0
+          },
+          {
+            "word": "단기간",
+            "weight": 3.0
+          },
+          {
+            "word": "자기",
+            "weight": 3.0
+          },
+          {
+            "word": "저학년",
+            "weight": 3.0
+          },
+          {
+            "word": "누구",
+            "weight": 3.0
+          },
+          {
+            "word": "전문가",
+            "weight": 3.0
+          },
+          {
+            "word": "마음",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "다시, 공부머리 독서법",
+            "isbn13": "9791196316860",
+            "authors": "최승필 지음"
+          },
+          {
+            "bookname": "수학 잘하는 아이는 이렇게 공부합니다 :수학이 어려운 엄마를 위한 전략적 학습 로드맵 ",
+            "isbn13": "9791196848194",
+            "authors": "류승재 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+            "isbn13": "9788934965404",
+            "authors": "나민애 지음"
+          },
+          {
+            "bookname": "똥볶이 할멈 :K-히어로 판타지",
+            "isbn13": "9791190409124",
+            "authors": "글: 강효미 ;그림: 김무연"
+          },
+          {
+            "bookname": "만복이네 떡집 ",
+            "isbn13": "9788949161341",
+            "authors": "김리리 글 ;이승현 그림"
+          },
+          {
+            "bookname": "긴긴밤 ",
+            "isbn13": "9788954677158",
+            "authors": "루리 글·그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447861",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "장군이네 떡집 ",
+            "isbn13": "9788949162041",
+            "authors": "김리리 글 ;이승현 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "공부머리 독서법 - 실현 가능하고 지속 가능한 독서교육의 모든 것"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001974802",
+        "title": "공부머리 독서법",
+        "subtitle": "실현 가능하고 지속 가능한 독서교육의 모든 것",
+        "page": "344 p.",
+        "book_size": "150*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791196316808",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791196316808",
+      "isbn_add_code": "03370",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16500",
+      "title": "공부머리 독서법",
+      "subtitle": "실현 가능하고 지속 가능한 독서교육의 모든 것",
+      "author": "최승필 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "책구루",
+      "publish_year": "2018",
+      "publish_predate": "20180503",
+      "kdc": "029.8",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 문헌정보학 > 독서 및 정보매체의 이용",
+      "ddc": "028.5",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "147*223",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "12년 동안 저자가 아이들과 함께 독서 논술 수업을 하면서 축적한 노하우를 집약한 독서교육 지침서. 전국을 누비며 독서법 강연을 하는 전문가지만 《공부머리 독서법》에는 가정에서 실현 가능한 독서법만을 엮었다. 실제 사례와 데이터를 바탕으로 직접 효과를 본 독서법들이 알차게 채워져 있다.",
+      "control_no": "CIP2018008481",
+      "cover_url": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2025/02/9791196316808.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6592602_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "독서법",
+          "weight": 41.0
+        },
+        {
+          "word": "공부머리 독서법",
+          "weight": 33.0
+        },
+        {
+          "word": "아이",
+          "weight": 22.0
+        },
+        {
+          "word": "공부머리",
+          "weight": 20.0
+        },
+        {
+          "word": "독서",
+          "weight": 20.0
+        },
+        {
+          "word": "독서교육",
+          "weight": 17.0
+        },
+        {
+          "word": "공부",
+          "weight": 16.0
+        },
+        {
+          "word": "정보",
+          "weight": 15.0
+        },
+        {
+          "word": "아이들",
+          "weight": 15.0
+        },
+        {
+          "word": "언어능력",
+          "weight": 12.0
+        },
+        {
+          "word": "이해",
+          "weight": 11.0
+        },
+        {
+          "word": "이야기책",
+          "weight": 10.0
+        },
+        {
+          "word": "초등",
+          "weight": 10.0
+        },
+        {
+          "word": "읽기",
+          "weight": 9.0
+        },
+        {
+          "word": "지식도서",
+          "weight": 8.0
+        },
+        {
+          "word": "문제",
+          "weight": 8.0
+        },
+        {
+          "word": "최승필",
+          "weight": 7.0
+        },
+        {
+          "word": "효과",
+          "weight": 7.0
+        },
+        {
+          "word": "가능",
+          "weight": 7.0
+        },
+        {
+          "word": "시간",
+          "weight": 6.0
+        },
+        {
+          "word": "교육",
+          "weight": 6.0
+        },
+        {
+          "word": "읽기독립",
+          "weight": 6.0
+        },
+        {
+          "word": "지식",
+          "weight": 6.0
+        },
+        {
+          "word": "교과서",
+          "weight": 6.0
+        },
+        {
+          "word": "청소년",
+          "weight": 5.0
+        },
+        {
+          "word": "내용",
+          "weight": 5.0
+        },
+        {
+          "word": "학부모",
+          "weight": 5.0
+        },
+        {
+          "word": "매일",
+          "weight": 5.0
+        },
+        {
+          "word": "실행",
+          "weight": 5.0
+        },
+        {
+          "word": "고학년",
+          "weight": 4.0
+        },
+        {
+          "word": "방법",
+          "weight": 4.0
+        },
+        {
+          "word": "독서가",
+          "weight": 4.0
+        },
+        {
+          "word": "우등생",
+          "weight": 4.0
+        },
+        {
+          "word": "중학생",
+          "weight": 4.0
+        },
+        {
+          "word": "사례",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "페이지",
+          "weight": 4.0
+        },
+        {
+          "word": "학년",
+          "weight": 4.0
+        },
+        {
+          "word": "원리",
+          "weight": 4.0
+        },
+        {
+          "word": "문장",
+          "weight": 3.0
+        },
+        {
+          "word": "수준",
+          "weight": 3.0
+        },
+        {
+          "word": "수학",
+          "weight": 3.0
+        },
+        {
+          "word": "데이터",
+          "weight": 3.0
+        },
+        {
+          "word": "능력",
+          "weight": 3.0
+        },
+        {
+          "word": "단기간",
+          "weight": 3.0
+        },
+        {
+          "word": "자기",
+          "weight": 3.0
+        },
+        {
+          "word": "저학년",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "전문가",
+          "weight": 3.0
+        },
+        {
+          "word": "마음",
+          "weight": 3.0
+        }
+      ],
+      "description": "12년 동안 저자가 아이들과 함께 독서 논술 수업을 하면서 축적한 노하우를 집약한 독서교육 지침서. 전국을 누비며 독서법 강연을 하는 전문가지만 《공부머리 독서법》에는 가정에서 실현 가능한 독서법만을 엮었다. 실제 사례와 데이터를 바탕으로 직접 효과를 본 독서법들이 알차게 채워져 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "다시, 공부머리 독서법",
+          "isbn13": "9791196316860",
+          "authors": "최승필 지음"
+        },
+        {
+          "bookname": "수학 잘하는 아이는 이렇게 공부합니다 :수학이 어려운 엄마를 위한 전략적 학습 로드맵 ",
+          "isbn13": "9791196848194",
+          "authors": "류승재 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "isbn13": "9788934965404",
+          "authors": "나민애 지음"
+        },
+        {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "isbn13": "9791190409124",
+          "authors": "글: 강효미 ;그림: 김무연"
+        },
+        {
+          "bookname": "만복이네 떡집 ",
+          "isbn13": "9788949161341",
+          "authors": "김리리 글 ;이승현 그림"
+        },
+        {
+          "bookname": "긴긴밤 ",
+          "isbn13": "9788954677158",
+          "authors": "루리 글·그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "장군이네 떡집 ",
+          "isbn13": "9788949162041",
+          "authors": "김리리 글 ;이승현 그림"
+        }
+      ],
+      "title": "공부머리 독서법",
+      "author": "최승필 지음",
+      "kdc_from_api": "029.8",
+      "ddc_from_api": "028.5",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

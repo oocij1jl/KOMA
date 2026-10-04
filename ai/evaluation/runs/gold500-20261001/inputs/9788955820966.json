@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788955820966",
+  "captured_at": "2026-10-05T00:11:40.698480+09:00",
+  "lookup": {
+    "isbn": "9788955820966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788955820966",
+      "isbn_add_code": "74810",
+      "set_isbn": "9788955820942",
+      "set_add_code": "74810 ",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "거짓말",
+      "subtitle": "양장본 Hardcover",
+      "author": "저자 : 고대영 글, 김영진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "길벗어린이(주)",
+      "publish_year": "2009",
+      "publish_predate": "20091020",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "지원이와 병관이 ",
+      "series_no": "5",
+      "page": "38 p.",
+      "book_size": "287*232mm",
+      "form": "그림책 ",
+      "ebook_yn": "N",
+      "description": "지원이 병관이 시리즈, 다섯 번째 그림책. 주인 없는 돈을 주운 병관이의 깜찍한 행동이 놀이터와 문방구, 분식점을 배경으로 펼쳐진다. 뜻하지 않게 돈을 주운 병관이의 마음 속 갈등과 그 갈등이 해소되는 과정이 잘 드러난다. \n",
+      "control_no": "CIP2012003524",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "거짓말",
+          "weight": 27.0
+        },
+        {
+          "word": "병관",
+          "weight": 22.0
+        },
+        {
+          "word": "마음",
+          "weight": 22.0
+        },
+        {
+          "word": "그림책",
+          "weight": 11.0
+        },
+        {
+          "word": "아이들",
+          "weight": 10.0
+        },
+        {
+          "word": "장면",
+          "weight": 8.0
+        },
+        {
+          "word": "요요",
+          "weight": 8.0
+        },
+        {
+          "word": "과정",
+          "weight": 8.0
+        },
+        {
+          "word": "순간",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이터",
+          "weight": 7.0
+        },
+        {
+          "word": "공감",
+          "weight": 6.0
+        },
+        {
+          "word": "행동",
+          "weight": 6.0
+        },
+        {
+          "word": "갈등",
+          "weight": 6.0
+        },
+        {
+          "word": "문방구",
+          "weight": 5.0
+        },
+        {
+          "word": "누나",
+          "weight": 5.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "지원",
+          "weight": 5.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 5.0
+        },
+        {
+          "word": "그림작가",
+          "weight": 4.0
+        },
+        {
+          "word": "걱정",
+          "weight": 4.0
+        },
+        {
+          "word": "병관이가",
+          "weight": 4.0
+        },
+        {
+          "word": "편안",
+          "weight": 4.0
+        },
+        {
+          "word": "장난감",
+          "weight": 4.0
+        },
+        {
+          "word": "떡볶이",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "엄마",
+          "weight": 4.0
+        },
+        {
+          "word": "분식점",
+          "weight": 4.0
+        },
+        {
+          "word": "마음에",
+          "weight": 3.0
+        },
+        {
+          "word": "형광",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "그림",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "원짜리",
+          "weight": 3.0
+        },
+        {
+          "word": "고대영",
+          "weight": 3.0
+        },
+        {
+          "word": "일들",
+          "weight": 3.0
+        },
+        {
+          "word": "감정",
+          "weight": 3.0
+        },
+        {
+          "word": "복잡",
+          "weight": 3.0
+        },
+        {
+          "word": "오천",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "심정",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "안도감",
+          "weight": 2.0
+        },
+        {
+          "word": "깜찍",
+          "weight": 2.0
+        },
+        {
+          "word": "실수",
+          "weight": 2.0
+        },
+        {
+          "word": "김영진",
+          "weight": 2.0
+        },
+        {
+          "word": "인정",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "생생",
+          "weight": 2.0
+        }
+      ],
+      "description": "지원이 병관이 시리즈, 다섯 번째 그림책. 주인 없는 돈을 주운 병관이의 깜찍한 행동이 놀이터와 문방구, 분식점을 배경으로 펼쳐진다. 뜻하지 않게 돈을 주운 병관이의 마음 속 갈등과 그 갈등이 해소되는 과정이 잘 드러난다. \n",
+      "co_loan_books": [
+        {
+          "bookname": "집안 치우기 ",
+          "isbn13": "9788955821055",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "싸워도 돼요? ",
+          "isbn13": "9788955822823",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "용돈주세요",
+          "isbn13": "9788955820683",
+          "authors": "글: 고대영;그림: 김영진"
+        },
+        {
+          "bookname": "두발자전거 배우기 ",
+          "isbn13": "9788955820904",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "손톱 깨물기 ",
+          "isbn13": "9788955820805",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "지하철을 타고서",
+          "isbn13": "9788955820461",
+          "authors": "글: 고대영;그림:김영진"
+        },
+        {
+          "bookname": "먹는 이야기 ",
+          "isbn13": "9788955821697",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "칭찬 먹으러 가요 ",
+          "isbn13": "9788955821970",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "두근두근 편의점 :김영진 그림책 ",
+          "isbn13": "9791158363178",
+          "authors": "지은이: 김영진"
+        },
+        {
+          "bookname": "틀리면 어떡해? ",
+          "isbn13": "9788955824896",
+          "authors": "김영진 글·그림"
+        }
+      ],
+      "title": "거짓말",
+      "author": "저자 : 고대영 글, 김영진 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "거짓말",
+        "author": "저자 : 고대영 글, 김영진 그림",
+        "publisher": "길벗어린이(주)",
+        "publish_predate": "20091020",
+        "isbn": "9788955820966",
+        "isbn_add_code": "74810",
+        "set_isbn": "9788955820942",
+        "set_add_code": "74810 ",
+        "set_expression": "",
+        "price": "₩10000",
+        "edition_stmt": "",
+        "series_title": "지원이와 병관이 ",
+        "series_no": "5",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "그림책 ",
+        "kdc": "813.8",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2012003524",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "거짓말 ",
+        "author": "글: 고대영 ;그림: 김영진",
+        "publisher": "길벗어린이",
+        "publish_year": "2009",
+        "isbn": "8955820968",
+        "isbn13": "9788955820966",
+        "isbn_add_code": "77810",
+        "volume": "",
+        "class_no": "813.6",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "지원이 병관이 시리즈, 다섯 번째 그림책. 주인 없는 돈을 주운 병관이의 깜찍한 행동이 놀이터와 문방구, 분식점을 배경으로 펼쳐진다. 뜻하지 않게 돈을 주운 병관이의 마음 속 갈등과 그 갈등이 해소되는 과정이 잘 드러난다. \n",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/060/986/06098628.jpg?type=m1&udate=20140830"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "거짓말",
+            "weight": 27.0
+          },
+          {
+            "word": "병관",
+            "weight": 22.0
+          },
+          {
+            "word": "마음",
+            "weight": 22.0
+          },
+          {
+            "word": "그림책",
+            "weight": 11.0
+          },
+          {
+            "word": "아이들",
+            "weight": 10.0
+          },
+          {
+            "word": "장면",
+            "weight": 8.0
+          },
+          {
+            "word": "요요",
+            "weight": 8.0
+          },
+          {
+            "word": "과정",
+            "weight": 8.0
+          },
+          {
+            "word": "순간",
+            "weight": 7.0
+          },
+          {
+            "word": "놀이터",
+            "weight": 7.0
+          },
+          {
+            "word": "공감",
+            "weight": 6.0
+          },
+          {
+            "word": "행동",
+            "weight": 6.0
+          },
+          {
+            "word": "갈등",
+            "weight": 6.0
+          },
+          {
+            "word": "문방구",
+            "weight": 5.0
+          },
+          {
+            "word": "누나",
+            "weight": 5.0
+          },
+          {
+            "word": "독자",
+            "weight": 5.0
+          },
+          {
+            "word": "지원",
+            "weight": 5.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 5.0
+          },
+          {
+            "word": "그림작가",
+            "weight": 4.0
+          },
+          {
+            "word": "걱정",
+            "weight": 4.0
+          },
+          {
+            "word": "병관이가",
+            "weight": 4.0
+          },
+          {
+            "word": "편안",
+            "weight": 4.0
+          },
+          {
+            "word": "장난감",
+            "weight": 4.0
+          },
+          {
+            "word": "떡볶이",
+            "weight": 4.0
+          },
+          {
+            "word": "모습",
+            "weight": 4.0
+          },
+          {
+            "word": "엄마",
+            "weight": 4.0
+          },
+          {
+            "word": "분식점",
+            "weight": 4.0
+          },
+          {
+            "word": "마음에",
+            "weight": 3.0
+          },
+          {
+            "word": "형광",
+            "weight": 3.0
+          },
+          {
+            "word": "공간",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 3.0
+          },
+          {
+            "word": "주인",
+            "weight": 3.0
+          },
+          {
+            "word": "그림",
+            "weight": 3.0
+          },
+          {
+            "word": "불안",
+            "weight": 3.0
+          },
+          {
+            "word": "원짜리",
+            "weight": 3.0
+          },
+          {
+            "word": "고대영",
+            "weight": 3.0
+          },
+          {
+            "word": "일들",
+            "weight": 3.0
+          },
+          {
+            "word": "감정",
+            "weight": 3.0
+          },
+          {
+            "word": "복잡",
+            "weight": 3.0
+          },
+          {
+            "word": "오천",
+            "weight": 3.0
+          },
+          {
+            "word": "고민",
+            "weight": 2.0
+          },
+          {
+            "word": "심정",
+            "weight": 2.0
+          },
+          {
+            "word": "누구",
+            "weight": 2.0
+          },
+          {
+            "word": "안도감",
+            "weight": 2.0
+          },
+          {
+            "word": "깜찍",
+            "weight": 2.0
+          },
+          {
+            "word": "실수",
+            "weight": 2.0
+          },
+          {
+            "word": "김영진",
+            "weight": 2.0
+          },
+          {
+            "word": "인정",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "생생",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "집안 치우기 ",
+            "isbn13": "9788955821055",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "싸워도 돼요? ",
+            "isbn13": "9788955822823",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "용돈주세요",
+            "isbn13": "9788955820683",
+            "authors": "글: 고대영;그림: 김영진"
+          },
+          {
+            "bookname": "두발자전거 배우기 ",
+            "isbn13": "9788955820904",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "손톱 깨물기 ",
+            "isbn13": "9788955820805",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "지하철을 타고서",
+            "isbn13": "9788955820461",
+            "authors": "글: 고대영;그림:김영진"
+          },
+          {
+            "bookname": "먹는 이야기 ",
+            "isbn13": "9788955821697",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "칭찬 먹으러 가요 ",
+            "isbn13": "9788955821970",
+            "authors": "글: 고대영 ;그림: 김영진"
+          },
+          {
+            "bookname": "두근두근 편의점 :김영진 그림책 ",
+            "isbn13": "9791158363178",
+            "authors": "지은이: 김영진"
+          },
+          {
+            "bookname": "틀리면 어떡해? ",
+            "isbn13": "9788955824896",
+            "authors": "김영진 글·그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "거짓말"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000809268",
+        "title": "거짓말(지원이와 병관이 5)",
+        "subtitle": "양장본 Hardcover",
+        "page": "38 p.",
+        "book_size": "287*232mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788955820966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788955820966",
+      "isbn_add_code": "74810",
+      "set_isbn": "9788955820942",
+      "set_add_code": "74810 ",
+      "set_expression": "",
+      "price": "₩10000",
+      "title": "거짓말",
+      "subtitle": "양장본 Hardcover",
+      "author": "저자 : 고대영 글, 김영진 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "길벗어린이(주)",
+      "publish_year": "2009",
+      "publish_predate": "20091020",
+      "kdc": "813.8",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "지원이와 병관이 ",
+      "series_no": "5",
+      "page": "38 p.",
+      "book_size": "287*232mm",
+      "form": "그림책 ",
+      "ebook_yn": "N",
+      "description": "지원이 병관이 시리즈, 다섯 번째 그림책. 주인 없는 돈을 주운 병관이의 깜찍한 행동이 놀이터와 문방구, 분식점을 배경으로 펼쳐진다. 뜻하지 않게 돈을 주운 병관이의 마음 속 갈등과 그 갈등이 해소되는 과정이 잘 드러난다. \n",
+      "control_no": "CIP2012003524",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2570007_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "거짓말",
+          "weight": 27.0
+        },
+        {
+          "word": "병관",
+          "weight": 22.0
+        },
+        {
+          "word": "마음",
+          "weight": 22.0
+        },
+        {
+          "word": "그림책",
+          "weight": 11.0
+        },
+        {
+          "word": "아이들",
+          "weight": 10.0
+        },
+        {
+          "word": "장면",
+          "weight": 8.0
+        },
+        {
+          "word": "요요",
+          "weight": 8.0
+        },
+        {
+          "word": "과정",
+          "weight": 8.0
+        },
+        {
+          "word": "순간",
+          "weight": 7.0
+        },
+        {
+          "word": "놀이터",
+          "weight": 7.0
+        },
+        {
+          "word": "공감",
+          "weight": 6.0
+        },
+        {
+          "word": "행동",
+          "weight": 6.0
+        },
+        {
+          "word": "갈등",
+          "weight": 6.0
+        },
+        {
+          "word": "문방구",
+          "weight": 5.0
+        },
+        {
+          "word": "누나",
+          "weight": 5.0
+        },
+        {
+          "word": "독자",
+          "weight": 5.0
+        },
+        {
+          "word": "지원",
+          "weight": 5.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 5.0
+        },
+        {
+          "word": "그림작가",
+          "weight": 4.0
+        },
+        {
+          "word": "걱정",
+          "weight": 4.0
+        },
+        {
+          "word": "병관이가",
+          "weight": 4.0
+        },
+        {
+          "word": "편안",
+          "weight": 4.0
+        },
+        {
+          "word": "장난감",
+          "weight": 4.0
+        },
+        {
+          "word": "떡볶이",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "엄마",
+          "weight": 4.0
+        },
+        {
+          "word": "분식점",
+          "weight": 4.0
+        },
+        {
+          "word": "마음에",
+          "weight": 3.0
+        },
+        {
+          "word": "형광",
+          "weight": 3.0
+        },
+        {
+          "word": "공간",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "주인",
+          "weight": 3.0
+        },
+        {
+          "word": "그림",
+          "weight": 3.0
+        },
+        {
+          "word": "불안",
+          "weight": 3.0
+        },
+        {
+          "word": "원짜리",
+          "weight": 3.0
+        },
+        {
+          "word": "고대영",
+          "weight": 3.0
+        },
+        {
+          "word": "일들",
+          "weight": 3.0
+        },
+        {
+          "word": "감정",
+          "weight": 3.0
+        },
+        {
+          "word": "복잡",
+          "weight": 3.0
+        },
+        {
+          "word": "오천",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 2.0
+        },
+        {
+          "word": "심정",
+          "weight": 2.0
+        },
+        {
+          "word": "누구",
+          "weight": 2.0
+        },
+        {
+          "word": "안도감",
+          "weight": 2.0
+        },
+        {
+          "word": "깜찍",
+          "weight": 2.0
+        },
+        {
+          "word": "실수",
+          "weight": 2.0
+        },
+        {
+          "word": "김영진",
+          "weight": 2.0
+        },
+        {
+          "word": "인정",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "생생",
+          "weight": 2.0
+        }
+      ],
+      "description": "지원이 병관이 시리즈, 다섯 번째 그림책. 주인 없는 돈을 주운 병관이의 깜찍한 행동이 놀이터와 문방구, 분식점을 배경으로 펼쳐진다. 뜻하지 않게 돈을 주운 병관이의 마음 속 갈등과 그 갈등이 해소되는 과정이 잘 드러난다. \n",
+      "co_loan_books": [
+        {
+          "bookname": "집안 치우기 ",
+          "isbn13": "9788955821055",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "싸워도 돼요? ",
+          "isbn13": "9788955822823",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "용돈주세요",
+          "isbn13": "9788955820683",
+          "authors": "글: 고대영;그림: 김영진"
+        },
+        {
+          "bookname": "두발자전거 배우기 ",
+          "isbn13": "9788955820904",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "손톱 깨물기 ",
+          "isbn13": "9788955820805",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "지하철을 타고서",
+          "isbn13": "9788955820461",
+          "authors": "글: 고대영;그림:김영진"
+        },
+        {
+          "bookname": "먹는 이야기 ",
+          "isbn13": "9788955821697",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "칭찬 먹으러 가요 ",
+          "isbn13": "9788955821970",
+          "authors": "글: 고대영 ;그림: 김영진"
+        },
+        {
+          "bookname": "두근두근 편의점 :김영진 그림책 ",
+          "isbn13": "9791158363178",
+          "authors": "지은이: 김영진"
+        },
+        {
+          "bookname": "틀리면 어떡해? ",
+          "isbn13": "9788955824896",
+          "authors": "김영진 글·그림"
+        }
+      ],
+      "title": "거짓말",
+      "author": "저자 : 고대영 글, 김영진 그림",
+      "kdc_from_api": "813.8",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

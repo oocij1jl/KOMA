@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788967493349",
+  "captured_at": "2026-10-04T00:20:02.332745+09:00",
+  "lookup": {
+    "isbn": "9788967493349",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788967493349",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788997366125",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "오늘 내 기분은…",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "키즈엠",
+      "publish_year": "2015",
+      "publish_predate": "20150522",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "춤추는 카멜레온",
+      "series_no": "144",
+      "page": "32 p.",
+      "book_size": "228*228mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "춤추는 카멜레온 시리즈 144권. 다양한 기분을 표현한 단어들을 소개한다. 어떤 기분에 어떤 표현을 해야 하는지 유아는 그림책을 통해 자연스럽게 깨닫고, 상황에 따른 적절한 표현을 하게 될 것이다.",
+      "control_no": "CIP2015007214",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "기분",
+          "weight": 16.0
+        },
+        {
+          "word": "표현",
+          "weight": 10.0
+        },
+        {
+          "word": "테오",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "단어",
+          "weight": 3.0
+        },
+        {
+          "word": "적절",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘 내 기분은",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "오빠",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "여동생",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "선생님",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘",
+          "weight": 2.0
+        },
+        {
+          "word": "월요일",
+          "weight": 2.0
+        },
+        {
+          "word": "자전거",
+          "weight": 2.0
+        },
+        {
+          "word": "질투",
+          "weight": 2.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 2.0
+        },
+        {
+          "word": "카멜레온",
+          "weight": 2.0
+        },
+        {
+          "word": "키즈엠",
+          "weight": 2.0
+        },
+        {
+          "word": "사회성",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "메리앤 코카-레플러",
+          "weight": 2.0
+        },
+        {
+          "word": "무서울까",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "김영미",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        },
+        {
+          "word": "행복",
+          "weight": 2.0
+        },
+        {
+          "word": "독서협회",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        },
+        {
+          "word": "재능",
+          "weight": 1.0
+        },
+        {
+          "word": "훈련",
+          "weight": 1.0
+        },
+        {
+          "word": "정확",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사회",
+          "weight": 1.0
+        },
+        {
+          "word": "출판사",
+          "weight": 1.0
+        },
+        {
+          "word": "누나",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "삽화가입니",
+          "weight": 1.0
+        },
+        {
+          "word": "뿌듯",
+          "weight": 1.0
+        },
+        {
+          "word": "배가",
+          "weight": 1.0
+        },
+        {
+          "word": "소통",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "아파",
+          "weight": 1.0
+        },
+        {
+          "word": "안녕",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이도서",
+          "weight": 1.0
+        },
+        {
+          "word": "언니",
+          "weight": 1.0
+        },
+        {
+          "word": "예술",
+          "weight": 1.0
+        },
+        {
+          "word": "매사추세츠",
+          "weight": 1.0
+        }
+      ],
+      "description": "춤추는 카멜레온 시리즈 144권. 다양한 기분을 표현한 단어들을 소개한다. 어떤 기분에 어떤 표현을 해야 하는지 유아는 그림책을 통해 자연스럽게 깨닫고, 상황에 따른 적절한 표현을 하게 될 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "기분을 말해 봐요 ",
+          "isbn13": "9788961771344",
+          "authors": "디디에 레비 글 ;장석훈 옮김"
+        },
+        {
+          "bookname": "치과 의사 드소토 선생님",
+          "isbn13": "9788949110097",
+          "authors": "윌리엄 스타이그 글 그림;조은수 옮김"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+          "isbn13": "9788962477290",
+          "authors": "글·그림: 고상미"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        }
+      ],
+      "title": "오늘 내 기분은…",
+      "author": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "오늘 내 기분은…",
+        "author": "메리앤 코카-레플러",
+        "publisher": "키즈엠",
+        "publish_predate": "20150522",
+        "isbn": "9788967493349",
+        "isbn_add_code": "74800",
+        "set_isbn": "9788997366125",
+        "set_add_code": "74800 ",
+        "set_expression": "",
+        "price": "₩8500",
+        "edition_stmt": "",
+        "series_title": "춤추는 카멜레온",
+        "series_no": "144",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "843",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015007214",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "오늘 내 기분은… ",
+        "author": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+        "publisher": "키즈엠",
+        "publish_year": "2015",
+        "isbn": "8967493347",
+        "isbn13": "9788967493349",
+        "isbn_add_code": "74800",
+        "volume": "",
+        "class_no": "843",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "춤추는 카멜레온 시리즈 144권. 다양한 기분을 표현한 단어들을 소개한다. 어떤 기분에 어떤 표현을 해야 하는지 유아는 그림책을 통해 자연스럽게 깨닫고, 상황에 따른 적절한 표현을 하게 될 것이다.",
+        "cover_url": "http://image.aladin.co.kr/product/5968/77/cover/8967493347_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "기분",
+            "weight": 16.0
+          },
+          {
+            "word": "표현",
+            "weight": 10.0
+          },
+          {
+            "word": "테오",
+            "weight": 6.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "단어",
+            "weight": 3.0
+          },
+          {
+            "word": "적절",
+            "weight": 3.0
+          },
+          {
+            "word": "오늘 내 기분은",
+            "weight": 3.0
+          },
+          {
+            "word": "그림책",
+            "weight": 3.0
+          },
+          {
+            "word": "오빠",
+            "weight": 2.0
+          },
+          {
+            "word": "소개",
+            "weight": 2.0
+          },
+          {
+            "word": "여동생",
+            "weight": 2.0
+          },
+          {
+            "word": "상황",
+            "weight": 2.0
+          },
+          {
+            "word": "선생님",
+            "weight": 2.0
+          },
+          {
+            "word": "오늘",
+            "weight": 2.0
+          },
+          {
+            "word": "월요일",
+            "weight": 2.0
+          },
+          {
+            "word": "자전거",
+            "weight": 2.0
+          },
+          {
+            "word": "질투",
+            "weight": 2.0
+          },
+          {
+            "word": "칭찬",
+            "weight": 2.0
+          },
+          {
+            "word": "카멜레온",
+            "weight": 2.0
+          },
+          {
+            "word": "키즈엠",
+            "weight": 2.0
+          },
+          {
+            "word": "사회성",
+            "weight": 2.0
+          },
+          {
+            "word": "다양",
+            "weight": 2.0
+          },
+          {
+            "word": "메리앤 코카-레플러",
+            "weight": 2.0
+          },
+          {
+            "word": "무서울까",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          },
+          {
+            "word": "김영미",
+            "weight": 2.0
+          },
+          {
+            "word": "선물",
+            "weight": 2.0
+          },
+          {
+            "word": "행복",
+            "weight": 2.0
+          },
+          {
+            "word": "독서협회",
+            "weight": 1.0
+          },
+          {
+            "word": "대학",
+            "weight": 1.0
+          },
+          {
+            "word": "재능",
+            "weight": 1.0
+          },
+          {
+            "word": "훈련",
+            "weight": 1.0
+          },
+          {
+            "word": "정확",
+            "weight": 1.0
+          },
+          {
+            "word": "사람",
+            "weight": 1.0
+          },
+          {
+            "word": "사회",
+            "weight": 1.0
+          },
+          {
+            "word": "출판사",
+            "weight": 1.0
+          },
+          {
+            "word": "누나",
+            "weight": 1.0
+          },
+          {
+            "word": "동화",
+            "weight": 1.0
+          },
+          {
+            "word": "동화책",
+            "weight": 1.0
+          },
+          {
+            "word": "삽화가입니",
+            "weight": 1.0
+          },
+          {
+            "word": "뿌듯",
+            "weight": 1.0
+          },
+          {
+            "word": "배가",
+            "weight": 1.0
+          },
+          {
+            "word": "소통",
+            "weight": 1.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 1.0
+          },
+          {
+            "word": "아파",
+            "weight": 1.0
+          },
+          {
+            "word": "안녕",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이도서",
+            "weight": 1.0
+          },
+          {
+            "word": "언니",
+            "weight": 1.0
+          },
+          {
+            "word": "예술",
+            "weight": 1.0
+          },
+          {
+            "word": "매사추세츠",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "아주 무서운 날 ",
+            "isbn13": "9788994368269",
+            "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+          },
+          {
+            "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+            "isbn13": "9791185173030",
+            "authors": "글: 허윤 ;그림: 윤희동"
+          },
+          {
+            "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+            "isbn13": "9791159950179",
+            "authors": "글·그림: 김유경 ;Hannah Chung"
+          },
+          {
+            "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+            "isbn13": "9788972887683",
+            "authors": "글: 박완서 ;그림: 김세현"
+          },
+          {
+            "bookname": "으악, 도깨비다!",
+            "isbn13": "9788987504568",
+            "authors": "손정원 글;유애로 그림"
+          },
+          {
+            "bookname": "기분을 말해 봐요 ",
+            "isbn13": "9788961771344",
+            "authors": "디디에 레비 글 ;장석훈 옮김"
+          },
+          {
+            "bookname": "치과 의사 드소토 선생님",
+            "isbn13": "9788949110097",
+            "authors": "윌리엄 스타이그 글 그림;조은수 옮김"
+          },
+          {
+            "bookname": "나는 나의 주인 ",
+            "isbn13": "9788964960035",
+            "authors": "채인선 글 ;안은진 그림"
+          },
+          {
+            "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+            "isbn13": "9788962477290",
+            "authors": "글·그림: 고상미"
+          },
+          {
+            "bookname": "아홉 살 마음 사전 ",
+            "isbn13": "9788936447014",
+            "authors": "박성우 글 ;김효은 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "오늘 내 기분은…"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001047850",
+        "title": "오늘 내 기분은",
+        "subtitle": "양장본 Hardcover",
+        "page": "32 p.",
+        "book_size": "228*228mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788967493349",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788967493349",
+      "isbn_add_code": "74800",
+      "set_isbn": "9788997366125",
+      "set_add_code": "74800 ",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "오늘 내 기분은…",
+      "subtitle": "양장본 Hardcover",
+      "author": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "키즈엠",
+      "publish_year": "2015",
+      "publish_predate": "20150522",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "춤추는 카멜레온",
+      "series_no": "144",
+      "page": "32 p.",
+      "book_size": "228*228mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "춤추는 카멜레온 시리즈 144권. 다양한 기분을 표현한 단어들을 소개한다. 어떤 기분에 어떤 표현을 해야 하는지 유아는 그림책을 통해 자연스럽게 깨닫고, 상황에 따른 적절한 표현을 하게 될 것이다.",
+      "control_no": "CIP2015007214",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4423967_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "기분",
+          "weight": 16.0
+        },
+        {
+          "word": "표현",
+          "weight": 10.0
+        },
+        {
+          "word": "테오",
+          "weight": 6.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "단어",
+          "weight": 3.0
+        },
+        {
+          "word": "적절",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘 내 기분은",
+          "weight": 3.0
+        },
+        {
+          "word": "그림책",
+          "weight": 3.0
+        },
+        {
+          "word": "오빠",
+          "weight": 2.0
+        },
+        {
+          "word": "소개",
+          "weight": 2.0
+        },
+        {
+          "word": "여동생",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "선생님",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘",
+          "weight": 2.0
+        },
+        {
+          "word": "월요일",
+          "weight": 2.0
+        },
+        {
+          "word": "자전거",
+          "weight": 2.0
+        },
+        {
+          "word": "질투",
+          "weight": 2.0
+        },
+        {
+          "word": "칭찬",
+          "weight": 2.0
+        },
+        {
+          "word": "카멜레온",
+          "weight": 2.0
+        },
+        {
+          "word": "키즈엠",
+          "weight": 2.0
+        },
+        {
+          "word": "사회성",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "메리앤 코카-레플러",
+          "weight": 2.0
+        },
+        {
+          "word": "무서울까",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "김영미",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        },
+        {
+          "word": "행복",
+          "weight": 2.0
+        },
+        {
+          "word": "독서협회",
+          "weight": 1.0
+        },
+        {
+          "word": "대학",
+          "weight": 1.0
+        },
+        {
+          "word": "재능",
+          "weight": 1.0
+        },
+        {
+          "word": "훈련",
+          "weight": 1.0
+        },
+        {
+          "word": "정확",
+          "weight": 1.0
+        },
+        {
+          "word": "사람",
+          "weight": 1.0
+        },
+        {
+          "word": "사회",
+          "weight": 1.0
+        },
+        {
+          "word": "출판사",
+          "weight": 1.0
+        },
+        {
+          "word": "누나",
+          "weight": 1.0
+        },
+        {
+          "word": "동화",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "삽화가입니",
+          "weight": 1.0
+        },
+        {
+          "word": "뿌듯",
+          "weight": 1.0
+        },
+        {
+          "word": "배가",
+          "weight": 1.0
+        },
+        {
+          "word": "소통",
+          "weight": 1.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 1.0
+        },
+        {
+          "word": "아파",
+          "weight": 1.0
+        },
+        {
+          "word": "안녕",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이도서",
+          "weight": 1.0
+        },
+        {
+          "word": "언니",
+          "weight": 1.0
+        },
+        {
+          "word": "예술",
+          "weight": 1.0
+        },
+        {
+          "word": "매사추세츠",
+          "weight": 1.0
+        }
+      ],
+      "description": "춤추는 카멜레온 시리즈 144권. 다양한 기분을 표현한 단어들을 소개한다. 어떤 기분에 어떤 표현을 해야 하는지 유아는 그림책을 통해 자연스럽게 깨닫고, 상황에 따른 적절한 표현을 하게 될 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "아주 무서운 날 ",
+          "isbn13": "9788994368269",
+          "authors": "탕무니우 글·그림 ;홍연숙 옮김"
+        },
+        {
+          "bookname": "내 꿈은 방울토마토 엄마 :가슴 뛰는 꿈을 위한 작은 첫걸음 ",
+          "isbn13": "9791185173030",
+          "authors": "글: 허윤 ;그림: 윤희동"
+        },
+        {
+          "bookname": "(초등학생을 위한) 욕심쟁이 딸기 아저씨 :특별판 ",
+          "isbn13": "9791159950179",
+          "authors": "글·그림: 김유경 ;Hannah Chung"
+        },
+        {
+          "bookname": "7년 동안의 잠 :박완서 그림동화 ",
+          "isbn13": "9788972887683",
+          "authors": "글: 박완서 ;그림: 김세현"
+        },
+        {
+          "bookname": "으악, 도깨비다!",
+          "isbn13": "9788987504568",
+          "authors": "손정원 글;유애로 그림"
+        },
+        {
+          "bookname": "기분을 말해 봐요 ",
+          "isbn13": "9788961771344",
+          "authors": "디디에 레비 글 ;장석훈 옮김"
+        },
+        {
+          "bookname": "치과 의사 드소토 선생님",
+          "isbn13": "9788949110097",
+          "authors": "윌리엄 스타이그 글 그림;조은수 옮김"
+        },
+        {
+          "bookname": "나는 나의 주인 ",
+          "isbn13": "9788964960035",
+          "authors": "채인선 글 ;안은진 그림"
+        },
+        {
+          "bookname": "신발 신은 강아지 =A dog wearing shoes ",
+          "isbn13": "9788962477290",
+          "authors": "글·그림: 고상미"
+        },
+        {
+          "bookname": "아홉 살 마음 사전 ",
+          "isbn13": "9788936447014",
+          "authors": "박성우 글 ;김효은 그림"
+        }
+      ],
+      "title": "오늘 내 기분은…",
+      "author": "글·그림: 메리앤 코카-레플러 ;옮김: 김영미",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

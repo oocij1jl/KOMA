@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791191891027",
+  "captured_at": "2026-10-02T00:14:09.417525+09:00",
+  "lookup": {
+    "isbn": "9791191891027",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191891027",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "럭키",
+      "subtitle": "내 안에 잠든 운을 깨우는 7가지 법칙",
+      "author": "김도윤",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북로망스",
+      "publish_year": "2021",
+      "publish_predate": "20210825",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "130*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "10년 동안 성공한 인물 1,000명과 인터뷰를 해온 김작가. 그는 사람들을 만날 때마다 성공 비결을 물었는데, 신기하게도 그때마다 한 가지 공통된 대답이 돌아왔다. \"운이 좋았어요.\" 처음에는 그저 인사치레나 겸손의 말 정도로 생각했지만 인생에 대해 조금씩 더 알아갈수록 그 말의 이면에 성공에 관한 모든 비밀이 숨어 있음을 알게 되었다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/05/9791191891027.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 21.0
+        },
+        {
+          "word": "성공",
+          "weight": 9.0
+        },
+        {
+          "word": "가지",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "김작가",
+          "weight": 5.0
+        },
+        {
+          "word": "비밀",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "속도",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "공저",
+          "weight": 4.0
+        },
+        {
+          "word": "열쇠",
+          "weight": 4.0
+        },
+        {
+          "word": "불운",
+          "weight": 3.0
+        },
+        {
+          "word": "고용노동부 청년 멘토",
+          "weight": 3.0
+        },
+        {
+          "word": "공모전 17관왕",
+          "weight": 3.0
+        },
+        {
+          "word": "인터뷰",
+          "weight": 3.0
+        },
+        {
+          "word": "유튜브 젊은 부자들",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국 인재상대통령상",
+          "weight": 3.0
+        },
+        {
+          "word": "000명",
+          "weight": 3.0
+        },
+        {
+          "word": "실패",
+          "weight": 3.0
+        },
+        {
+          "word": "기회",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "최후의 몰입",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마는 괜찮아",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국 국민대표 61인",
+          "weight": 3.0
+        },
+        {
+          "word": "파도",
+          "weight": 3.0
+        },
+        {
+          "word": "김작가 TV",
+          "weight": 3.0
+        },
+        {
+          "word": "기획에서 기획을 덜어내라",
+          "weight": 3.0
+        },
+        {
+          "word": "김도윤",
+          "weight": 2.0
+        },
+        {
+          "word": "긍정",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "난관",
+          "weight": 2.0
+        },
+        {
+          "word": "방향",
+          "weight": 2.0
+        },
+        {
+          "word": "북로망스",
+          "weight": 2.0
+        },
+        {
+          "word": "4가지",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "3장 속",
+          "weight": 2.0
+        },
+        {
+          "word": "변화",
+          "weight": 2.0
+        },
+        {
+          "word": "비결",
+          "weight": 2.0
+        },
+        {
+          "word": "상관관계",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "가능성",
+          "weight": 2.0
+        },
+        {
+          "word": "2장 관찰",
+          "weight": 2.0
+        },
+        {
+          "word": "복기",
+          "weight": 2.0
+        },
+        {
+          "word": "결국",
+          "weight": 2.0
+        },
+        {
+          "word": "겸손",
+          "weight": 2.0
+        },
+        {
+          "word": "경로",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "셰르파",
+          "weight": 2.0
+        }
+      ],
+      "description": "10년 동안 성공한 인물 1,000명과 인터뷰를 해온 김작가. 그는 사람들을 만날 때마다 성공 비결을 물었는데, 신기하게도 그때마다 한 가지 공통된 대답이 돌아왔다. \"운이 좋았어요.\" 처음에는 그저 인사치레나 겸손의 말 정도로 생각했지만 인생에 대해 조금씩 더 알아갈수록 그 말의 이면에 성공에 관한 모든 비밀이 숨어 있음을 알게 되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "럭키 드로우 =나만의 길을 찾을 때까지 인생의 레버를 당기는 법 /Lucky draw ",
+          "isbn13": "9791130679822",
+          "authors": "드로우앤드류 지음"
+        },
+        {
+          "bookname": "웰씽킹 =부를 창조하는 생각의 뿌리 /Wealthinking ",
+          "isbn13": "9791130677774",
+          "authors": "켈리 최 지음"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "럭키",
+      "author": "김도윤",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "럭키",
+        "author": "김도윤",
+        "publisher": "북로망스",
+        "publish_predate": "20210825",
+        "isbn": "9791191891027",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "280 p.",
+        "book_size": "130*190",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/05/9791191891027.JPG",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "럭키 :내 안에 잠든 운을 깨우는 7가지 법칙 ",
+        "author": "김도윤 지음",
+        "publisher": "북로망스",
+        "publish_year": "2021",
+        "isbn": "119189102X",
+        "isbn13": "9791191891027",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "325.211",
+        "class_nm": "사회과학 > 경제학 > 경영관리",
+        "description": "10년 동안 성공한 인물 1,000명과 인터뷰를 해온 김작가. 그는 사람들을 만날 때마다 성공 비결을 물었는데, 신기하게도 그때마다 한 가지 공통된 대답이 돌아왔다. \"운이 좋았어요.\" 처음에는 그저 인사치레나 겸손의 말 정도로 생각했지만 인생에 대해 조금씩 더 알아갈수록 그 말의 이면에 성공에 관한 모든 비밀이 숨어 있음을 알게 되었다.",
+        "cover_url": "https://image.aladin.co.kr/product/27817/71/cover/k292734577_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사람",
+            "weight": 21.0
+          },
+          {
+            "word": "성공",
+            "weight": 9.0
+          },
+          {
+            "word": "가지",
+            "weight": 7.0
+          },
+          {
+            "word": "인생",
+            "weight": 7.0
+          },
+          {
+            "word": "김작가",
+            "weight": 5.0
+          },
+          {
+            "word": "비밀",
+            "weight": 5.0
+          },
+          {
+            "word": "세상",
+            "weight": 5.0
+          },
+          {
+            "word": "속도",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "공저",
+            "weight": 4.0
+          },
+          {
+            "word": "열쇠",
+            "weight": 4.0
+          },
+          {
+            "word": "불운",
+            "weight": 3.0
+          },
+          {
+            "word": "고용노동부 청년 멘토",
+            "weight": 3.0
+          },
+          {
+            "word": "공모전 17관왕",
+            "weight": 3.0
+          },
+          {
+            "word": "인터뷰",
+            "weight": 3.0
+          },
+          {
+            "word": "유튜브 젊은 부자들",
+            "weight": 3.0
+          },
+          {
+            "word": "대한민국 인재상대통령상",
+            "weight": 3.0
+          },
+          {
+            "word": "000명",
+            "weight": 3.0
+          },
+          {
+            "word": "실패",
+            "weight": 3.0
+          },
+          {
+            "word": "기회",
+            "weight": 3.0
+          },
+          {
+            "word": "10년",
+            "weight": 3.0
+          },
+          {
+            "word": "최후의 몰입",
+            "weight": 3.0
+          },
+          {
+            "word": "인물",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마는 괜찮아",
+            "weight": 3.0
+          },
+          {
+            "word": "대한민국 국민대표 61인",
+            "weight": 3.0
+          },
+          {
+            "word": "파도",
+            "weight": 3.0
+          },
+          {
+            "word": "김작가 TV",
+            "weight": 3.0
+          },
+          {
+            "word": "기획에서 기획을 덜어내라",
+            "weight": 3.0
+          },
+          {
+            "word": "김도윤",
+            "weight": 2.0
+          },
+          {
+            "word": "긍정",
+            "weight": 2.0
+          },
+          {
+            "word": "기술",
+            "weight": 2.0
+          },
+          {
+            "word": "난관",
+            "weight": 2.0
+          },
+          {
+            "word": "방향",
+            "weight": 2.0
+          },
+          {
+            "word": "북로망스",
+            "weight": 2.0
+          },
+          {
+            "word": "4가지",
+            "weight": 2.0
+          },
+          {
+            "word": "방법",
+            "weight": 2.0
+          },
+          {
+            "word": "보고",
+            "weight": 2.0
+          },
+          {
+            "word": "3장 속",
+            "weight": 2.0
+          },
+          {
+            "word": "변화",
+            "weight": 2.0
+          },
+          {
+            "word": "비결",
+            "weight": 2.0
+          },
+          {
+            "word": "상관관계",
+            "weight": 2.0
+          },
+          {
+            "word": "선택",
+            "weight": 2.0
+          },
+          {
+            "word": "가능성",
+            "weight": 2.0
+          },
+          {
+            "word": "2장 관찰",
+            "weight": 2.0
+          },
+          {
+            "word": "복기",
+            "weight": 2.0
+          },
+          {
+            "word": "결국",
+            "weight": 2.0
+          },
+          {
+            "word": "겸손",
+            "weight": 2.0
+          },
+          {
+            "word": "경로",
+            "weight": 2.0
+          },
+          {
+            "word": "성공학",
+            "weight": 2.0
+          },
+          {
+            "word": "셰르파",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+            "isbn13": "9791158510619",
+            "authors": "팀 페리스 지음 ;정지현 옮김"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+            "isbn13": "9791189686536",
+            "authors": "고명환 지음"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "럭키 드로우 =나만의 길을 찾을 때까지 인생의 레버를 당기는 법 /Lucky draw ",
+            "isbn13": "9791130679822",
+            "authors": "드로우앤드류 지음"
+          },
+          {
+            "bookname": "웰씽킹 =부를 창조하는 생각의 뿌리 /Wealthinking ",
+            "isbn13": "9791130677774",
+            "authors": "켈리 최 지음"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "럭키 - 내 안에 잠든 운을 깨우는 7가지 법칙"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001953723",
+        "title": "럭키",
+        "subtitle": "내 안에 잠든 운을 깨우는 7가지 법칙",
+        "page": "280 p.",
+        "book_size": "131*191mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191891027",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191891027",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "럭키",
+      "subtitle": "내 안에 잠든 운을 깨우는 7가지 법칙",
+      "author": "김도윤",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "북로망스",
+      "publish_year": "2021",
+      "publish_predate": "20210825",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "280 p.",
+      "book_size": "130*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "10년 동안 성공한 인물 1,000명과 인터뷰를 해온 김작가. 그는 사람들을 만날 때마다 성공 비결을 물었는데, 신기하게도 그때마다 한 가지 공통된 대답이 돌아왔다. \"운이 좋았어요.\" 처음에는 그저 인사치레나 겸손의 말 정도로 생각했지만 인생에 대해 조금씩 더 알아갈수록 그 말의 이면에 성공에 관한 모든 비밀이 숨어 있음을 알게 되었다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/05/9791191891027.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 21.0
+        },
+        {
+          "word": "성공",
+          "weight": 9.0
+        },
+        {
+          "word": "가지",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "김작가",
+          "weight": 5.0
+        },
+        {
+          "word": "비밀",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "속도",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "공저",
+          "weight": 4.0
+        },
+        {
+          "word": "열쇠",
+          "weight": 4.0
+        },
+        {
+          "word": "불운",
+          "weight": 3.0
+        },
+        {
+          "word": "고용노동부 청년 멘토",
+          "weight": 3.0
+        },
+        {
+          "word": "공모전 17관왕",
+          "weight": 3.0
+        },
+        {
+          "word": "인터뷰",
+          "weight": 3.0
+        },
+        {
+          "word": "유튜브 젊은 부자들",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국 인재상대통령상",
+          "weight": 3.0
+        },
+        {
+          "word": "000명",
+          "weight": 3.0
+        },
+        {
+          "word": "실패",
+          "weight": 3.0
+        },
+        {
+          "word": "기회",
+          "weight": 3.0
+        },
+        {
+          "word": "10년",
+          "weight": 3.0
+        },
+        {
+          "word": "최후의 몰입",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마는 괜찮아",
+          "weight": 3.0
+        },
+        {
+          "word": "대한민국 국민대표 61인",
+          "weight": 3.0
+        },
+        {
+          "word": "파도",
+          "weight": 3.0
+        },
+        {
+          "word": "김작가 TV",
+          "weight": 3.0
+        },
+        {
+          "word": "기획에서 기획을 덜어내라",
+          "weight": 3.0
+        },
+        {
+          "word": "김도윤",
+          "weight": 2.0
+        },
+        {
+          "word": "긍정",
+          "weight": 2.0
+        },
+        {
+          "word": "기술",
+          "weight": 2.0
+        },
+        {
+          "word": "난관",
+          "weight": 2.0
+        },
+        {
+          "word": "방향",
+          "weight": 2.0
+        },
+        {
+          "word": "북로망스",
+          "weight": 2.0
+        },
+        {
+          "word": "4가지",
+          "weight": 2.0
+        },
+        {
+          "word": "방법",
+          "weight": 2.0
+        },
+        {
+          "word": "보고",
+          "weight": 2.0
+        },
+        {
+          "word": "3장 속",
+          "weight": 2.0
+        },
+        {
+          "word": "변화",
+          "weight": 2.0
+        },
+        {
+          "word": "비결",
+          "weight": 2.0
+        },
+        {
+          "word": "상관관계",
+          "weight": 2.0
+        },
+        {
+          "word": "선택",
+          "weight": 2.0
+        },
+        {
+          "word": "가능성",
+          "weight": 2.0
+        },
+        {
+          "word": "2장 관찰",
+          "weight": 2.0
+        },
+        {
+          "word": "복기",
+          "weight": 2.0
+        },
+        {
+          "word": "결국",
+          "weight": 2.0
+        },
+        {
+          "word": "겸손",
+          "weight": 2.0
+        },
+        {
+          "word": "경로",
+          "weight": 2.0
+        },
+        {
+          "word": "성공학",
+          "weight": 2.0
+        },
+        {
+          "word": "셰르파",
+          "weight": 2.0
+        }
+      ],
+      "description": "10년 동안 성공한 인물 1,000명과 인터뷰를 해온 김작가. 그는 사람들을 만날 때마다 성공 비결을 물었는데, 신기하게도 그때마다 한 가지 공통된 대답이 돌아왔다. \"운이 좋았어요.\" 처음에는 그저 인사치레나 겸손의 말 정도로 생각했지만 인생에 대해 조금씩 더 알아갈수록 그 말의 이면에 성공에 관한 모든 비밀이 숨어 있음을 알게 되었다.",
+      "co_loan_books": [
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "이 책은 돈 버는 법에 관한 이야기 :서민갑부 고명환의 생각법, 독서법, 장사법 ",
+          "isbn13": "9791189686536",
+          "authors": "고명환 지음"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "럭키 드로우 =나만의 길을 찾을 때까지 인생의 레버를 당기는 법 /Lucky draw ",
+          "isbn13": "9791130679822",
+          "authors": "드로우앤드류 지음"
+        },
+        {
+          "bookname": "웰씽킹 =부를 창조하는 생각의 뿌리 /Wealthinking ",
+          "isbn13": "9791130677774",
+          "authors": "켈리 최 지음"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        }
+      ],
+      "title": "럭키",
+      "author": "김도윤",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

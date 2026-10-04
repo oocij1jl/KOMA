@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791191824193",
+  "captured_at": "2026-10-02T00:14:15.354290+09:00",
+  "lookup": {
+    "isbn": "9791191824193",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191824193",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15800",
+      "title": "내게 남은 사랑을 드릴게요",
+      "subtitle": "",
+      "author": "지은이: 이유리,김서해,김초엽,설재인,천선란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "자이언트북스",
+      "publish_year": "2023",
+      "publish_predate": "20230130",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "294 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "자이언트북스의 앤솔러지 시리즈, ‘자이언트 픽’이 시작된다. 소설들 사이에 그어진 경계를 가볍게 뛰어넘으며 매력적인 이야기를 선보여온 자이언트북스가 Pick한 빛나는 이름들을 한자리에서 만나볼 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30935/85/cover/k102831491_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자이언트",
+          "weight": 9.0
+        },
+        {
+          "word": "자이언트북스",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "폴터가이스트",
+          "weight": 4.0
+        },
+        {
+          "word": "김서해",
+          "weight": 4.0
+        },
+        {
+          "word": "김초엽",
+          "weight": 4.0
+        },
+        {
+          "word": "천선란",
+          "weight": 4.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "이유리",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "내게 남은 사랑을 드릴게요",
+          "weight": 3.0
+        },
+        {
+          "word": "너는 내 목소리를 닮았어",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "Pick",
+          "weight": 3.0
+        },
+        {
+          "word": "고유",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "준비",
+          "weight": 2.0
+        },
+        {
+          "word": "지난해",
+          "weight": 2.0
+        },
+        {
+          "word": "출발",
+          "weight": 2.0
+        },
+        {
+          "word": "영토",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "플랫폼",
+          "weight": 2.0
+        },
+        {
+          "word": "설재인",
+          "weight": 2.0
+        },
+        {
+          "word": "한자리",
+          "weight": 2.0
+        },
+        {
+          "word": "순문학",
+          "weight": 2.0
+        },
+        {
+          "word": "개의치",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "시기",
+          "weight": 2.0
+        },
+        {
+          "word": "영원",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "예정",
+          "weight": 2.0
+        },
+        {
+          "word": "문예지",
+          "weight": 2.0
+        },
+        {
+          "word": "규정",
+          "weight": 2.0
+        },
+        {
+          "word": "그어진",
+          "weight": 2.0
+        },
+        {
+          "word": "장르",
+          "weight": 2.0
+        },
+        {
+          "word": "경계",
+          "weight": 2.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 2.0
+        },
+        {
+          "word": "순수",
+          "weight": 2.0
+        },
+        {
+          "word": "SF",
+          "weight": 2.0
+        },
+        {
+          "word": "단행본",
+          "weight": 2.0
+        },
+        {
+          "word": "판타지",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "매력적",
+          "weight": 2.0
+        },
+        {
+          "word": "클래식",
+          "weight": 2.0
+        },
+        {
+          "word": "2023년",
+          "weight": 2.0
+        },
+        {
+          "word": "김겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "스푼",
+          "weight": 1.0
+        },
+        {
+          "word": "231쪽",
+          "weight": 1.0
+        }
+      ],
+      "description": "자이언트북스의 앤솔러지 시리즈, ‘자이언트 픽’이 시작된다. 소설들 사이에 그어진 경계를 가볍게 뛰어넘으며 매력적인 이야기를 선보여온 자이언트북스가 Pick한 빛나는 이름들을 한자리에서 만나볼 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        },
+        {
+          "bookname": "브로콜리 펀치 :이유리 소설집 ",
+          "isbn13": "9788932039114",
+          "authors": "지은이: 이유리"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "단 한 사람 :최진영 장편소설 ",
+          "isbn13": "9791160405750",
+          "authors": "지은이: 최진영"
+        }
+      ],
+      "title": "내게 남은 사랑을 드릴게요",
+      "author": "지은이: 이유리,김서해,김초엽,설재인,천선란",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "내게 남은 사랑을 드릴게요",
+        "author": "지은이: 이유리,김서해,김초엽,설재인,천선란",
+        "publisher": "자이언트북스",
+        "publish_predate": "20230130",
+        "isbn": "9791191824193",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "294 p.",
+        "book_size": "128*188",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "내게 남은 사랑을 드릴게요 ",
+        "author": "지은이: 이유리,천선란",
+        "publisher": "자이언트북스",
+        "publish_year": "2023",
+        "isbn": "1191824195",
+        "isbn13": "9791191824193",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "자이언트북스의 앤솔러지 시리즈, ‘자이언트 픽’이 시작된다. 소설들 사이에 그어진 경계를 가볍게 뛰어넘으며 매력적인 이야기를 선보여온 자이언트북스가 Pick한 빛나는 이름들을 한자리에서 만나볼 수 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/30935/85/cover/k102831491_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "자이언트",
+            "weight": 9.0
+          },
+          {
+            "word": "자이언트북스",
+            "weight": 7.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 6.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "폴터가이스트",
+            "weight": 4.0
+          },
+          {
+            "word": "김서해",
+            "weight": 4.0
+          },
+          {
+            "word": "김초엽",
+            "weight": 4.0
+          },
+          {
+            "word": "천선란",
+            "weight": 4.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 4.0
+          },
+          {
+            "word": "독자",
+            "weight": 4.0
+          },
+          {
+            "word": "이유리",
+            "weight": 4.0
+          },
+          {
+            "word": "사랑",
+            "weight": 4.0
+          },
+          {
+            "word": "내게 남은 사랑을 드릴게요",
+            "weight": 3.0
+          },
+          {
+            "word": "너는 내 목소리를 닮았어",
+            "weight": 3.0
+          },
+          {
+            "word": "이름",
+            "weight": 3.0
+          },
+          {
+            "word": "Pick",
+            "weight": 3.0
+          },
+          {
+            "word": "고유",
+            "weight": 2.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "준비",
+            "weight": 2.0
+          },
+          {
+            "word": "지난해",
+            "weight": 2.0
+          },
+          {
+            "word": "출발",
+            "weight": 2.0
+          },
+          {
+            "word": "영토",
+            "weight": 2.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "플랫폼",
+            "weight": 2.0
+          },
+          {
+            "word": "설재인",
+            "weight": 2.0
+          },
+          {
+            "word": "한자리",
+            "weight": 2.0
+          },
+          {
+            "word": "순문학",
+            "weight": 2.0
+          },
+          {
+            "word": "개의치",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "시기",
+            "weight": 2.0
+          },
+          {
+            "word": "영원",
+            "weight": 2.0
+          },
+          {
+            "word": "시작",
+            "weight": 2.0
+          },
+          {
+            "word": "예정",
+            "weight": 2.0
+          },
+          {
+            "word": "문예지",
+            "weight": 2.0
+          },
+          {
+            "word": "규정",
+            "weight": 2.0
+          },
+          {
+            "word": "그어진",
+            "weight": 2.0
+          },
+          {
+            "word": "장르",
+            "weight": 2.0
+          },
+          {
+            "word": "경계",
+            "weight": 2.0
+          },
+          {
+            "word": "기쁨",
+            "weight": 2.0
+          },
+          {
+            "word": "순수",
+            "weight": 2.0
+          },
+          {
+            "word": "SF",
+            "weight": 2.0
+          },
+          {
+            "word": "단행본",
+            "weight": 2.0
+          },
+          {
+            "word": "판타지",
+            "weight": 2.0
+          },
+          {
+            "word": "단숨",
+            "weight": 2.0
+          },
+          {
+            "word": "매력적",
+            "weight": 2.0
+          },
+          {
+            "word": "클래식",
+            "weight": 2.0
+          },
+          {
+            "word": "2023년",
+            "weight": 2.0
+          },
+          {
+            "word": "김겨울",
+            "weight": 1.0
+          },
+          {
+            "word": "스푼",
+            "weight": 1.0
+          },
+          {
+            "word": "231쪽",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "이끼숲 :천선란 연작소설 ",
+            "isbn13": "9791191824216",
+            "authors": "지은이: 천선란 ;일러스트: 점선면"
+          },
+          {
+            "bookname": "랑과 나의 사막 :천선란 소설 ",
+            "isbn13": "9791167901354",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+            "isbn13": "9791160408331",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "눈부신 안부 :백수린 장편소설 ",
+            "isbn13": "9788954699372",
+            "authors": "지은이: 백수린"
+          },
+          {
+            "bookname": "브로콜리 펀치 :이유리 소설집 ",
+            "isbn13": "9788932039114",
+            "authors": "지은이: 이유리"
+          },
+          {
+            "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+            "isbn13": "9788954695053",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "천 개의 파랑 :천선란 장편소설 ",
+            "isbn13": "9791190090261",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+            "isbn13": "9791191824001",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+            "isbn13": "9791160406504",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "단 한 사람 :최진영 장편소설 ",
+            "isbn13": "9791160405750",
+            "authors": "지은이: 최진영"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "내게 남은 사랑을 드릴게요"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000200755350",
+        "title": "내게 남은 사랑을 드릴게요",
+        "subtitle": "",
+        "page": "294 p.",
+        "book_size": "129*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191824193",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191824193",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15800",
+      "title": "내게 남은 사랑을 드릴게요",
+      "subtitle": "",
+      "author": "지은이: 이유리,김서해,김초엽,설재인,천선란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "자이언트북스",
+      "publish_year": "2023",
+      "publish_predate": "20230130",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "294 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "자이언트북스의 앤솔러지 시리즈, ‘자이언트 픽’이 시작된다. 소설들 사이에 그어진 경계를 가볍게 뛰어넘으며 매력적인 이야기를 선보여온 자이언트북스가 Pick한 빛나는 이름들을 한자리에서 만나볼 수 있다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/30935/85/cover/k102831491_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "자이언트",
+          "weight": 9.0
+        },
+        {
+          "word": "자이언트북스",
+          "weight": 7.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 6.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "폴터가이스트",
+          "weight": 4.0
+        },
+        {
+          "word": "김서해",
+          "weight": 4.0
+        },
+        {
+          "word": "김초엽",
+          "weight": 4.0
+        },
+        {
+          "word": "천선란",
+          "weight": 4.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 4.0
+        },
+        {
+          "word": "독자",
+          "weight": 4.0
+        },
+        {
+          "word": "이유리",
+          "weight": 4.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "내게 남은 사랑을 드릴게요",
+          "weight": 3.0
+        },
+        {
+          "word": "너는 내 목소리를 닮았어",
+          "weight": 3.0
+        },
+        {
+          "word": "이름",
+          "weight": 3.0
+        },
+        {
+          "word": "Pick",
+          "weight": 3.0
+        },
+        {
+          "word": "고유",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "준비",
+          "weight": 2.0
+        },
+        {
+          "word": "지난해",
+          "weight": 2.0
+        },
+        {
+          "word": "출발",
+          "weight": 2.0
+        },
+        {
+          "word": "영토",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "플랫폼",
+          "weight": 2.0
+        },
+        {
+          "word": "설재인",
+          "weight": 2.0
+        },
+        {
+          "word": "한자리",
+          "weight": 2.0
+        },
+        {
+          "word": "순문학",
+          "weight": 2.0
+        },
+        {
+          "word": "개의치",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "시기",
+          "weight": 2.0
+        },
+        {
+          "word": "영원",
+          "weight": 2.0
+        },
+        {
+          "word": "시작",
+          "weight": 2.0
+        },
+        {
+          "word": "예정",
+          "weight": 2.0
+        },
+        {
+          "word": "문예지",
+          "weight": 2.0
+        },
+        {
+          "word": "규정",
+          "weight": 2.0
+        },
+        {
+          "word": "그어진",
+          "weight": 2.0
+        },
+        {
+          "word": "장르",
+          "weight": 2.0
+        },
+        {
+          "word": "경계",
+          "weight": 2.0
+        },
+        {
+          "word": "기쁨",
+          "weight": 2.0
+        },
+        {
+          "word": "순수",
+          "weight": 2.0
+        },
+        {
+          "word": "SF",
+          "weight": 2.0
+        },
+        {
+          "word": "단행본",
+          "weight": 2.0
+        },
+        {
+          "word": "판타지",
+          "weight": 2.0
+        },
+        {
+          "word": "단숨",
+          "weight": 2.0
+        },
+        {
+          "word": "매력적",
+          "weight": 2.0
+        },
+        {
+          "word": "클래식",
+          "weight": 2.0
+        },
+        {
+          "word": "2023년",
+          "weight": 2.0
+        },
+        {
+          "word": "김겨울",
+          "weight": 1.0
+        },
+        {
+          "word": "스푼",
+          "weight": 1.0
+        },
+        {
+          "word": "231쪽",
+          "weight": 1.0
+        }
+      ],
+      "description": "자이언트북스의 앤솔러지 시리즈, ‘자이언트 픽’이 시작된다. 소설들 사이에 그어진 경계를 가볍게 뛰어넘으며 매력적인 이야기를 선보여온 자이언트북스가 Pick한 빛나는 이름들을 한자리에서 만나볼 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "isbn13": "9788954699372",
+          "authors": "지은이: 백수린"
+        },
+        {
+          "bookname": "브로콜리 펀치 :이유리 소설집 ",
+          "isbn13": "9788932039114",
+          "authors": "지은이: 이유리"
+        },
+        {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "isbn13": "9788954695053",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "단 한 사람 :최진영 장편소설 ",
+          "isbn13": "9791160405750",
+          "authors": "지은이: 최진영"
+        }
+      ],
+      "title": "내게 남은 사랑을 드릴게요",
+      "author": "지은이: 이유리,김서해,김초엽,설재인,천선란",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

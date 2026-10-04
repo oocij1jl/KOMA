@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788994120966",
+  "captured_at": "2026-10-03T00:22:16.430123+09:00",
+  "lookup": {
+    "isbn": "9788994120966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788994120966",
+      "isbn_add_code": "13100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "지적 대화를 위한 넓고 얕은 지식",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "채사장",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한빛비즈(주)",
+      "publish_year": "2014",
+      "publish_predate": "20141224",
+      "kdc": "001.3",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 지식, 학문 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "역사, 경제, 정치, 사회, 윤리 전 과정을 마치 하나의 천일야화처럼 재미있는 이야기로 자연스럽게 풀어낸다. 먼저 역사는 직선적 시간관에 의해 설명된다. 이 과정에서 원시시대부터 현대까지 기나긴 세계사가 자연스럽게 이해된다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "지식",
+          "weight": 18.0
+        },
+        {
+          "word": "경제",
+          "weight": 13.0
+        },
+        {
+          "word": "사회",
+          "weight": 13.0
+        },
+        {
+          "word": "대화",
+          "weight": 12.0
+        },
+        {
+          "word": "역사",
+          "weight": 11.0
+        },
+        {
+          "word": "보수",
+          "weight": 11.0
+        },
+        {
+          "word": "진보",
+          "weight": 11.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 10.0
+        },
+        {
+          "word": "현실",
+          "weight": 9.0
+        },
+        {
+          "word": "정치",
+          "weight": 8.0
+        },
+        {
+          "word": "공산주의",
+          "weight": 8.0
+        },
+        {
+          "word": "지적",
+          "weight": 8.0
+        },
+        {
+          "word": "지식인",
+          "weight": 7.0
+        },
+        {
+          "word": "관계",
+          "weight": 6.0
+        },
+        {
+          "word": "민주주의",
+          "weight": 6.0
+        },
+        {
+          "word": "윤리",
+          "weight": 6.0
+        },
+        {
+          "word": "개인",
+          "weight": 6.0
+        },
+        {
+          "word": "열한 계단",
+          "weight": 6.0
+        },
+        {
+          "word": "시민의 교양",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "생산수단",
+          "weight": 5.0
+        },
+        {
+          "word": "시장",
+          "weight": 5.0
+        },
+        {
+          "word": "탐구",
+          "weight": 5.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "설명",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "교양",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "독재",
+          "weight": 4.0
+        },
+        {
+          "word": "정부",
+          "weight": 4.0
+        },
+        {
+          "word": "인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "경제체제",
+          "weight": 4.0
+        },
+        {
+          "word": "신자유주",
+          "weight": 4.0
+        },
+        {
+          "word": "윤리적",
+          "weight": 4.0
+        },
+        {
+          "word": "구분",
+          "weight": 4.0
+        },
+        {
+          "word": "전체주의",
+          "weight": 4.0
+        },
+        {
+          "word": "과정",
+          "weight": 4.0
+        },
+        {
+          "word": "뼈대",
+          "weight": 3.0
+        },
+        {
+          "word": "이들",
+          "weight": 3.0
+        },
+        {
+          "word": "자아",
+          "weight": 3.0
+        },
+        {
+          "word": "의무론",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사회문제",
+          "weight": 3.0
+        },
+        {
+          "word": "목적",
+          "weight": 3.0
+        },
+        {
+          "word": "자유",
+          "weight": 3.0
+        }
+      ],
+      "description": "역사, 경제, 정치, 사회, 윤리 전 과정을 마치 하나의 천일야화처럼 재미있는 이야기로 자연스럽게 풀어낸다. 먼저 역사는 직선적 시간관에 의해 설명된다. 이 과정에서 원시시대부터 현대까지 기나긴 세계사가 자연스럽게 이해된다.",
+      "co_loan_books": [
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120997",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+          "isbn13": "9791190313131",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "isbn13": "9791190313193",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "isbn13": "9791190313186",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "심판 ",
+          "isbn13": "9788932920405",
+          "authors": "베르나르 베르베르 지음 ;전미연 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "지적 대화를 위한 넓고 얕은 지식",
+      "author": "채사장",
+      "kdc_from_api": "001.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지적 대화를 위한 넓고 얕은 지식",
+        "author": "채사장",
+        "publisher": "한빛비즈(주)",
+        "publish_predate": "20141224",
+        "isbn": "9788994120966",
+        "isbn_add_code": "13100",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "1",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지적 대화를 위한 넓고 얕은 지식",
+        "author": "채사장 지음",
+        "publisher": "한빛비즈",
+        "publish_year": "2014",
+        "isbn": "8994120963",
+        "isbn13": "9788994120966",
+        "isbn_add_code": "13100",
+        "volume": "",
+        "class_no": "001.3",
+        "class_nm": "총류 > 총류 > 지식, 학문 일반",
+        "description": "역사, 경제, 정치, 사회, 윤리 전 과정을 마치 하나의 천일야화처럼 재미있는 이야기로 자연스럽게 풀어낸다. 먼저 역사는 직선적 시간관에 의해 설명된다. 이 과정에서 원시시대부터 현대까지 기나긴 세계사가 자연스럽게 이해된다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "지식",
+            "weight": 18.0
+          },
+          {
+            "word": "경제",
+            "weight": 13.0
+          },
+          {
+            "word": "사회",
+            "weight": 13.0
+          },
+          {
+            "word": "대화",
+            "weight": 12.0
+          },
+          {
+            "word": "역사",
+            "weight": 11.0
+          },
+          {
+            "word": "보수",
+            "weight": 11.0
+          },
+          {
+            "word": "진보",
+            "weight": 11.0
+          },
+          {
+            "word": "세계",
+            "weight": 11.0
+          },
+          {
+            "word": "자본주의",
+            "weight": 10.0
+          },
+          {
+            "word": "현실",
+            "weight": 9.0
+          },
+          {
+            "word": "정치",
+            "weight": 8.0
+          },
+          {
+            "word": "공산주의",
+            "weight": 8.0
+          },
+          {
+            "word": "지적",
+            "weight": 8.0
+          },
+          {
+            "word": "지식인",
+            "weight": 7.0
+          },
+          {
+            "word": "관계",
+            "weight": 6.0
+          },
+          {
+            "word": "민주주의",
+            "weight": 6.0
+          },
+          {
+            "word": "윤리",
+            "weight": 6.0
+          },
+          {
+            "word": "개인",
+            "weight": 6.0
+          },
+          {
+            "word": "열한 계단",
+            "weight": 6.0
+          },
+          {
+            "word": "시민의 교양",
+            "weight": 6.0
+          },
+          {
+            "word": "분야",
+            "weight": 5.0
+          },
+          {
+            "word": "생산수단",
+            "weight": 5.0
+          },
+          {
+            "word": "시장",
+            "weight": 5.0
+          },
+          {
+            "word": "탐구",
+            "weight": 5.0
+          },
+          {
+            "word": "팟캐스트",
+            "weight": 5.0
+          },
+          {
+            "word": "이해",
+            "weight": 5.0
+          },
+          {
+            "word": "설명",
+            "weight": 5.0
+          },
+          {
+            "word": "필요",
+            "weight": 5.0
+          },
+          {
+            "word": "교양",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "독재",
+            "weight": 4.0
+          },
+          {
+            "word": "정부",
+            "weight": 4.0
+          },
+          {
+            "word": "인문학",
+            "weight": 4.0
+          },
+          {
+            "word": "다양",
+            "weight": 4.0
+          },
+          {
+            "word": "시대",
+            "weight": 4.0
+          },
+          {
+            "word": "경제체제",
+            "weight": 4.0
+          },
+          {
+            "word": "신자유주",
+            "weight": 4.0
+          },
+          {
+            "word": "윤리적",
+            "weight": 4.0
+          },
+          {
+            "word": "구분",
+            "weight": 4.0
+          },
+          {
+            "word": "전체주의",
+            "weight": 4.0
+          },
+          {
+            "word": "과정",
+            "weight": 4.0
+          },
+          {
+            "word": "뼈대",
+            "weight": 3.0
+          },
+          {
+            "word": "이들",
+            "weight": 3.0
+          },
+          {
+            "word": "자아",
+            "weight": 3.0
+          },
+          {
+            "word": "의무론",
+            "weight": 3.0
+          },
+          {
+            "word": "사람",
+            "weight": 3.0
+          },
+          {
+            "word": "사회문제",
+            "weight": 3.0
+          },
+          {
+            "word": "목적",
+            "weight": 3.0
+          },
+          {
+            "word": "자유",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식",
+            "isbn13": "9788994120997",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+            "isbn13": "9791190313131",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+            "isbn13": "9791190313193",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+            "isbn13": "9791190313186",
+            "authors": "채사장 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "심판 ",
+            "isbn13": "9788932920405",
+            "authors": "베르나르 베르베르 지음 ;전미연 옮김"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지적 대화를 위한 넓고 얕은 지식"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000221505184",
+        "title": "가호",
+        "subtitle": "무라카미 하루키 장편소설",
+        "page": "376 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788994120966",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788994120966",
+      "isbn_add_code": "13100",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "지적 대화를 위한 넓고 얕은 지식",
+      "subtitle": "무라카미 하루키 장편소설",
+      "author": "채사장",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "한빛비즈(주)",
+      "publish_year": "2014",
+      "publish_predate": "20141224",
+      "kdc": "001.3",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 총류 > 지식, 학문 일반",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "1",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "역사, 경제, 정치, 사회, 윤리 전 과정을 마치 하나의 천일야화처럼 재미있는 이야기로 자연스럽게 풀어낸다. 먼저 역사는 직선적 시간관에 의해 설명된다. 이 과정에서 원시시대부터 현대까지 기나긴 세계사가 자연스럽게 이해된다.",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/084/030/08403038.jpg?type=m1&udate=20171223",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "지식",
+          "weight": 18.0
+        },
+        {
+          "word": "경제",
+          "weight": 13.0
+        },
+        {
+          "word": "사회",
+          "weight": 13.0
+        },
+        {
+          "word": "대화",
+          "weight": 12.0
+        },
+        {
+          "word": "역사",
+          "weight": 11.0
+        },
+        {
+          "word": "보수",
+          "weight": 11.0
+        },
+        {
+          "word": "진보",
+          "weight": 11.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 10.0
+        },
+        {
+          "word": "현실",
+          "weight": 9.0
+        },
+        {
+          "word": "정치",
+          "weight": 8.0
+        },
+        {
+          "word": "공산주의",
+          "weight": 8.0
+        },
+        {
+          "word": "지적",
+          "weight": 8.0
+        },
+        {
+          "word": "지식인",
+          "weight": 7.0
+        },
+        {
+          "word": "관계",
+          "weight": 6.0
+        },
+        {
+          "word": "민주주의",
+          "weight": 6.0
+        },
+        {
+          "word": "윤리",
+          "weight": 6.0
+        },
+        {
+          "word": "개인",
+          "weight": 6.0
+        },
+        {
+          "word": "열한 계단",
+          "weight": 6.0
+        },
+        {
+          "word": "시민의 교양",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "생산수단",
+          "weight": 5.0
+        },
+        {
+          "word": "시장",
+          "weight": 5.0
+        },
+        {
+          "word": "탐구",
+          "weight": 5.0
+        },
+        {
+          "word": "팟캐스트",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "설명",
+          "weight": 5.0
+        },
+        {
+          "word": "필요",
+          "weight": 5.0
+        },
+        {
+          "word": "교양",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "독재",
+          "weight": 4.0
+        },
+        {
+          "word": "정부",
+          "weight": 4.0
+        },
+        {
+          "word": "인문학",
+          "weight": 4.0
+        },
+        {
+          "word": "다양",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "경제체제",
+          "weight": 4.0
+        },
+        {
+          "word": "신자유주",
+          "weight": 4.0
+        },
+        {
+          "word": "윤리적",
+          "weight": 4.0
+        },
+        {
+          "word": "구분",
+          "weight": 4.0
+        },
+        {
+          "word": "전체주의",
+          "weight": 4.0
+        },
+        {
+          "word": "과정",
+          "weight": 4.0
+        },
+        {
+          "word": "뼈대",
+          "weight": 3.0
+        },
+        {
+          "word": "이들",
+          "weight": 3.0
+        },
+        {
+          "word": "자아",
+          "weight": 3.0
+        },
+        {
+          "word": "의무론",
+          "weight": 3.0
+        },
+        {
+          "word": "사람",
+          "weight": 3.0
+        },
+        {
+          "word": "사회문제",
+          "weight": 3.0
+        },
+        {
+          "word": "목적",
+          "weight": 3.0
+        },
+        {
+          "word": "자유",
+          "weight": 3.0
+        }
+      ],
+      "description": "역사, 경제, 정치, 사회, 윤리 전 과정을 마치 하나의 천일야화처럼 재미있는 이야기로 자연스럽게 풀어낸다. 먼저 역사는 직선적 시간관에 의해 설명된다. 이 과정에서 원시시대부터 현대까지 기나긴 세계사가 자연스럽게 이해된다.",
+      "co_loan_books": [
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9788994120997",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 0 :지혜를 찾아 138억 년을 달리는 시간 여행서 ",
+          "isbn13": "9791190313131",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실을 통찰하게 하는 지식 여행서",
+          "isbn13": "9791190313193",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "지적 대화를 위한 넓고 얕은 지식 :한 권으로 현실 세계를 통달하는 지식 여행서",
+          "isbn13": "9791190313186",
+          "authors": "채사장 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "심판 ",
+          "isbn13": "9788932920405",
+          "authors": "베르나르 베르베르 지음 ;전미연 옮김"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "지적 대화를 위한 넓고 얕은 지식",
+      "author": "채사장",
+      "kdc_from_api": "001.3",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

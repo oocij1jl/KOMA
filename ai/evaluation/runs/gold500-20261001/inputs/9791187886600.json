@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791187886600",
+  "captured_at": "2026-10-03T00:22:04.242887+09:00",
+  "lookup": {
+    "isbn": "9791187886600",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791187886600",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "책에 갇히다",
+      "subtitle": "책과 서점에 관한 SF 앤솔러지",
+      "author": "지은이: 김성일,문녹주,송경아,오승현,이경희,이지연,전혜진,천선란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "구픽",
+      "publish_year": "2021",
+      "publish_predate": "20210205",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "146*206",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "한국 SF의 부흥을 이끌고 있는 작가들을 이 한 권으로 모두 만난다책과 서점에 관한 작가 여덟 명의 놀라운 상상력이 모인 SF 앤솔러지바야흐로 한국 SF의 전성시대다. 혹자는 새로운 세대의 샛별 같은 작가들이 지금의 부흥을 이끌어냈다고 말하겠지만 한국의 SF는 우리가 생각했던 것보다 훨씬 오래전부터... ",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/176/641/17664109.jpg?type=m1&udate=20210129",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 11.0
+        },
+        {
+          "word": "김성일",
+          "weight": 6.0
+        },
+        {
+          "word": "서점",
+          "weight": 6.0
+        },
+        {
+          "word": "천선란",
+          "weight": 5.0
+        },
+        {
+          "word": "한국",
+          "weight": 5.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 5.0
+        },
+        {
+          "word": "부흥",
+          "weight": 4.0
+        },
+        {
+          "word": "이지연",
+          "weight": 3.0
+        },
+        {
+          "word": "드래곤 펄",
+          "weight": 3.0
+        },
+        {
+          "word": "뱀파이어 유격수",
+          "weight": 3.0
+        },
+        {
+          "word": "우모리 하늘신발",
+          "weight": 3.0
+        },
+        {
+          "word": "오승현",
+          "weight": 3.0
+        },
+        {
+          "word": "전혜진",
+          "weight": 3.0
+        },
+        {
+          "word": "이경희",
+          "weight": 3.0
+        },
+        {
+          "word": "송경",
+          "weight": 3.0
+        },
+        {
+          "word": "문녹주",
+          "weight": 3.0
+        },
+        {
+          "word": "SM  페미니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "롱 워크",
+          "weight": 3.0
+        },
+        {
+          "word": "상상력",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년 가출협회",
+          "weight": 3.0
+        },
+        {
+          "word": "테러리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "장르적",
+          "weight": 2.0
+        },
+        {
+          "word": "변주",
+          "weight": 2.0
+        },
+        {
+          "word": "참여",
+          "weight": 2.0
+        },
+        {
+          "word": "이번",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "붉은구두",
+          "weight": 2.0
+        },
+        {
+          "word": "무한",
+          "weight": 2.0
+        },
+        {
+          "word": "재미",
+          "weight": 2.0
+        },
+        {
+          "word": "애정",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "단편집",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "기반",
+          "weight": 2.0
+        },
+        {
+          "word": "매개체",
+          "weight": 2.0
+        },
+        {
+          "word": "구픽",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 1.0
+        },
+        {
+          "word": "2019년",
+          "weight": 1.0
+        },
+        {
+          "word": "세대",
+          "weight": 1.0
+        },
+        {
+          "word": "소금",
+          "weight": 1.0
+        },
+        {
+          "word": "금서",
+          "weight": 1.0
+        },
+        {
+          "word": "계승자",
+          "weight": 1.0
+        },
+        {
+          "word": "길모퉁이",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "무지개",
+          "weight": 1.0
+        },
+        {
+          "word": "바벨",
+          "weight": 1.0
+        }
+      ],
+      "description": "한국 SF의 부흥을 이끌고 있는 작가들을 이 한 권으로 모두 만난다책과 서점에 관한 작가 여덟 명의 놀라운 상상력이 모인 SF 앤솔러지바야흐로 한국 SF의 전성시대다. 혹자는 새로운 세대의 샛별 같은 작가들이 지금의 부흥을 이끌어냈다고 말하겠지만 한국의 SF는 우리가 생각했던 것보다 훨씬 오래전부터... ",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "노랜드 :천선란 소설집 ",
+          "isbn13": "9791160404944",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+          "isbn13": "9791165508340",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+          "isbn13": "9791191193138",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "다섯 번째 감각 :김보영 소설집 ",
+          "isbn13": "9791166686603",
+          "authors": "지은이: 김보영"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "나인 :천선란 장편소설 ",
+          "isbn13": "9788936438609",
+          "authors": "지은이: 천선란"
+        }
+      ],
+      "title": "책에 갇히다",
+      "author": "지은이: 김성일,문녹주,송경아,오승현,이경희,이지연,전혜진,천선란",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "책에 갇히다",
+        "author": "지은이: 김성일,문녹주,송경아,오승현,이경희,이지연,전혜진,천선란",
+        "publisher": "구픽",
+        "publish_predate": "20210205",
+        "isbn": "9791187886600",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "371 p.",
+        "book_size": "146*206",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "책에 갇히다 :책과 서점에 관한 SF 앤솔러지 ",
+        "author": "지은이: 김성일,천선란",
+        "publisher": "구픽",
+        "publish_year": "2021",
+        "isbn": "1187886602",
+        "isbn13": "9791187886600",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "한국 SF의 부흥을 이끌고 있는 작가들을 이 한 권으로 모두 만난다책과 서점에 관한 작가 여덟 명의 놀라운 상상력이 모인 SF 앤솔러지바야흐로 한국 SF의 전성시대다. 혹자는 새로운 세대의 샛별 같은 작가들이 지금의 부흥을 이끌어냈다고 말하겠지만 한국의 SF는 우리가 생각했던 것보다 훨씬 오래전부터... ",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/176/641/17664109.jpg?type=m1&udate=20210129"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "SF",
+            "weight": 11.0
+          },
+          {
+            "word": "김성일",
+            "weight": 6.0
+          },
+          {
+            "word": "서점",
+            "weight": 6.0
+          },
+          {
+            "word": "천선란",
+            "weight": 5.0
+          },
+          {
+            "word": "한국",
+            "weight": 5.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 5.0
+          },
+          {
+            "word": "부흥",
+            "weight": 4.0
+          },
+          {
+            "word": "이지연",
+            "weight": 3.0
+          },
+          {
+            "word": "드래곤 펄",
+            "weight": 3.0
+          },
+          {
+            "word": "뱀파이어 유격수",
+            "weight": 3.0
+          },
+          {
+            "word": "우모리 하늘신발",
+            "weight": 3.0
+          },
+          {
+            "word": "오승현",
+            "weight": 3.0
+          },
+          {
+            "word": "전혜진",
+            "weight": 3.0
+          },
+          {
+            "word": "이경희",
+            "weight": 3.0
+          },
+          {
+            "word": "송경",
+            "weight": 3.0
+          },
+          {
+            "word": "문녹주",
+            "weight": 3.0
+          },
+          {
+            "word": "SM  페미니스트",
+            "weight": 3.0
+          },
+          {
+            "word": "롱 워크",
+            "weight": 3.0
+          },
+          {
+            "word": "상상력",
+            "weight": 3.0
+          },
+          {
+            "word": "청소년 가출협회",
+            "weight": 3.0
+          },
+          {
+            "word": "테러리스트",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "장르적",
+            "weight": 2.0
+          },
+          {
+            "word": "변주",
+            "weight": 2.0
+          },
+          {
+            "word": "참여",
+            "weight": 2.0
+          },
+          {
+            "word": "이번",
+            "weight": 2.0
+          },
+          {
+            "word": "한국 과학소설",
+            "weight": 2.0
+          },
+          {
+            "word": "선사",
+            "weight": 2.0
+          },
+          {
+            "word": "붉은구두",
+            "weight": 2.0
+          },
+          {
+            "word": "무한",
+            "weight": 2.0
+          },
+          {
+            "word": "재미",
+            "weight": 2.0
+          },
+          {
+            "word": "애정",
+            "weight": 2.0
+          },
+          {
+            "word": "기발",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "다양",
+            "weight": 2.0
+          },
+          {
+            "word": "단편집",
+            "weight": 2.0
+          },
+          {
+            "word": "독자",
+            "weight": 2.0
+          },
+          {
+            "word": "기반",
+            "weight": 2.0
+          },
+          {
+            "word": "매개체",
+            "weight": 2.0
+          },
+          {
+            "word": "구픽",
+            "weight": 2.0
+          },
+          {
+            "word": "세계",
+            "weight": 1.0
+          },
+          {
+            "word": "2019년",
+            "weight": 1.0
+          },
+          {
+            "word": "세대",
+            "weight": 1.0
+          },
+          {
+            "word": "소금",
+            "weight": 1.0
+          },
+          {
+            "word": "금서",
+            "weight": 1.0
+          },
+          {
+            "word": "계승자",
+            "weight": 1.0
+          },
+          {
+            "word": "길모퉁이",
+            "weight": 1.0
+          },
+          {
+            "word": "활동",
+            "weight": 1.0
+          },
+          {
+            "word": "무지개",
+            "weight": 1.0
+          },
+          {
+            "word": "바벨",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "이끼숲 :천선란 연작소설 ",
+            "isbn13": "9791191824216",
+            "authors": "지은이: 천선란 ;일러스트: 점선면"
+          },
+          {
+            "bookname": "랑과 나의 사막 :천선란 소설 ",
+            "isbn13": "9791167901354",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "노랜드 :천선란 소설집 ",
+            "isbn13": "9791160404944",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+            "isbn13": "9791160406504",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+            "isbn13": "9791160408331",
+            "authors": "지은이: 조예은"
+          },
+          {
+            "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+            "isbn13": "9791165508340",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+            "isbn13": "9791191193138",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "다섯 번째 감각 :김보영 소설집 ",
+            "isbn13": "9791166686603",
+            "authors": "지은이: 김보영"
+          },
+          {
+            "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+            "isbn13": "9791191824001",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "나인 :천선란 장편소설 ",
+            "isbn13": "9788936438609",
+            "authors": "지은이: 천선란"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "책에 갇히다 - 책과 서점에 관한 SF 앤솔러지"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001907344",
+        "title": "책에 갇히다",
+        "subtitle": "책과 서점에 관한 SF 앤솔러지",
+        "page": "376 p.",
+        "book_size": "145*206mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791187886600",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791187886600",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14000",
+      "title": "책에 갇히다",
+      "subtitle": "책과 서점에 관한 SF 앤솔러지",
+      "author": "지은이: 김성일,문녹주,송경아,오승현,이경희,이지연,전혜진,천선란",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "구픽",
+      "publish_year": "2021",
+      "publish_predate": "20210205",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "376 p.",
+      "book_size": "146*206",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "한국 SF의 부흥을 이끌고 있는 작가들을 이 한 권으로 모두 만난다책과 서점에 관한 작가 여덟 명의 놀라운 상상력이 모인 SF 앤솔러지바야흐로 한국 SF의 전성시대다. 혹자는 새로운 세대의 샛별 같은 작가들이 지금의 부흥을 이끌어냈다고 말하겠지만 한국의 SF는 우리가 생각했던 것보다 훨씬 오래전부터... ",
+      "control_no": "",
+      "cover_url": "https://bookthumb-phinf.pstatic.net/cover/176/641/17664109.jpg?type=m1&udate=20210129",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "SF",
+          "weight": 11.0
+        },
+        {
+          "word": "김성일",
+          "weight": 6.0
+        },
+        {
+          "word": "서점",
+          "weight": 6.0
+        },
+        {
+          "word": "천선란",
+          "weight": 5.0
+        },
+        {
+          "word": "한국",
+          "weight": 5.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 5.0
+        },
+        {
+          "word": "부흥",
+          "weight": 4.0
+        },
+        {
+          "word": "이지연",
+          "weight": 3.0
+        },
+        {
+          "word": "드래곤 펄",
+          "weight": 3.0
+        },
+        {
+          "word": "뱀파이어 유격수",
+          "weight": 3.0
+        },
+        {
+          "word": "우모리 하늘신발",
+          "weight": 3.0
+        },
+        {
+          "word": "오승현",
+          "weight": 3.0
+        },
+        {
+          "word": "전혜진",
+          "weight": 3.0
+        },
+        {
+          "word": "이경희",
+          "weight": 3.0
+        },
+        {
+          "word": "송경",
+          "weight": 3.0
+        },
+        {
+          "word": "문녹주",
+          "weight": 3.0
+        },
+        {
+          "word": "SM  페미니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "롱 워크",
+          "weight": 3.0
+        },
+        {
+          "word": "상상력",
+          "weight": 3.0
+        },
+        {
+          "word": "청소년 가출협회",
+          "weight": 3.0
+        },
+        {
+          "word": "테러리스트",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "장르적",
+          "weight": 2.0
+        },
+        {
+          "word": "변주",
+          "weight": 2.0
+        },
+        {
+          "word": "참여",
+          "weight": 2.0
+        },
+        {
+          "word": "이번",
+          "weight": 2.0
+        },
+        {
+          "word": "한국 과학소설",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "붉은구두",
+          "weight": 2.0
+        },
+        {
+          "word": "무한",
+          "weight": 2.0
+        },
+        {
+          "word": "재미",
+          "weight": 2.0
+        },
+        {
+          "word": "애정",
+          "weight": 2.0
+        },
+        {
+          "word": "기발",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "다양",
+          "weight": 2.0
+        },
+        {
+          "word": "단편집",
+          "weight": 2.0
+        },
+        {
+          "word": "독자",
+          "weight": 2.0
+        },
+        {
+          "word": "기반",
+          "weight": 2.0
+        },
+        {
+          "word": "매개체",
+          "weight": 2.0
+        },
+        {
+          "word": "구픽",
+          "weight": 2.0
+        },
+        {
+          "word": "세계",
+          "weight": 1.0
+        },
+        {
+          "word": "2019년",
+          "weight": 1.0
+        },
+        {
+          "word": "세대",
+          "weight": 1.0
+        },
+        {
+          "word": "소금",
+          "weight": 1.0
+        },
+        {
+          "word": "금서",
+          "weight": 1.0
+        },
+        {
+          "word": "계승자",
+          "weight": 1.0
+        },
+        {
+          "word": "길모퉁이",
+          "weight": 1.0
+        },
+        {
+          "word": "활동",
+          "weight": 1.0
+        },
+        {
+          "word": "무지개",
+          "weight": 1.0
+        },
+        {
+          "word": "바벨",
+          "weight": 1.0
+        }
+      ],
+      "description": "한국 SF의 부흥을 이끌고 있는 작가들을 이 한 권으로 모두 만난다책과 서점에 관한 작가 여덟 명의 놀라운 상상력이 모인 SF 앤솔러지바야흐로 한국 SF의 전성시대다. 혹자는 새로운 세대의 샛별 같은 작가들이 지금의 부흥을 이끌어냈다고 말하겠지만 한국의 SF는 우리가 생각했던 것보다 훨씬 오래전부터... ",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "노랜드 :천선란 소설집 ",
+          "isbn13": "9791160404944",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "트로피컬 나이트 =조예은 소설집 /Tropical night ",
+          "isbn13": "9791160408331",
+          "authors": "지은이: 조예은"
+        },
+        {
+          "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+          "isbn13": "9791165508340",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+          "isbn13": "9791191193138",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "다섯 번째 감각 :김보영 소설집 ",
+          "isbn13": "9791166686603",
+          "authors": "지은이: 김보영"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "나인 :천선란 장편소설 ",
+          "isbn13": "9788936438609",
+          "authors": "지은이: 천선란"
+        }
+      ],
+      "title": "책에 갇히다",
+      "author": "지은이: 김성일,문녹주,송경아,오승현,이경희,이지연,전혜진,천선란",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

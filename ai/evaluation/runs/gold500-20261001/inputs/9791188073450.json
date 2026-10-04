@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791188073450",
+  "captured_at": "2026-10-02T00:19:54.970063+09:00",
+  "lookup": {
+    "isbn": "9791188073450",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188073450",
+      "isbn_add_code": "73690",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "토깽이네와 집에서 놀아요",
+      "subtitle": "",
+      "author": "지은이: 토깽이네",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "코알라스토어",
+      "publish_year": "2020",
+      "publish_predate": "20200124",
+      "kdc": "691",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 오락",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "160 p.",
+      "book_size": "175*235mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등학교를 다니는 아이라면 다 알 만한 유튜브 채널 ‘토깽이네’. 네 가족의 엄마인 토깽이와 딸 나린이, 아들 다린이가 집에서 놀았던 경험을 바탕으로 다양한 집놀이를 소개한다. 크게 5가지 파트로 나누어 두뇌와 신체가 균형 잡힌 놀이가 되도록 구성했다.",
+      "control_no": "CIP2019053627",
+      "cover_url": "https://image.aladin.co.kr/product/22508/34/cover/k212636731_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "유튜브",
+          "weight": 14.0
+        },
+        {
+          "word": "토깽이네",
+          "weight": 13.0
+        },
+        {
+          "word": "가족",
+          "weight": 11.0
+        },
+        {
+          "word": "영상",
+          "weight": 10.0
+        },
+        {
+          "word": "놀이",
+          "weight": 8.0
+        },
+        {
+          "word": "게임",
+          "weight": 6.0
+        },
+        {
+          "word": "소개",
+          "weight": 5.0
+        },
+        {
+          "word": "미세먼지",
+          "weight": 4.0
+        },
+        {
+          "word": "채널",
+          "weight": 4.0
+        },
+        {
+          "word": "그리기",
+          "weight": 4.0
+        },
+        {
+          "word": "나린",
+          "weight": 3.0
+        },
+        {
+          "word": "스피드",
+          "weight": 3.0
+        },
+        {
+          "word": "줄넘기",
+          "weight": 3.0
+        },
+        {
+          "word": "미션",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 3.0
+        },
+        {
+          "word": "Brain",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "인기",
+          "weight": 2.0
+        },
+        {
+          "word": "휴지",
+          "weight": 2.0
+        },
+        {
+          "word": "보물찾기",
+          "weight": 2.0
+        },
+        {
+          "word": "다린",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "불어",
+          "weight": 2.0
+        },
+        {
+          "word": "아들",
+          "weight": 2.0
+        },
+        {
+          "word": "신문지",
+          "weight": 2.0
+        },
+        {
+          "word": "손바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "시그니처",
+          "weight": 2.0
+        },
+        {
+          "word": "수건",
+          "weight": 2.0
+        },
+        {
+          "word": "전국",
+          "weight": 2.0
+        },
+        {
+          "word": "body",
+          "weight": 2.0
+        },
+        {
+          "word": "Music",
+          "weight": 2.0
+        },
+        {
+          "word": "Toy",
+          "weight": 2.0
+        },
+        {
+          "word": "머리",
+          "weight": 2.0
+        },
+        {
+          "word": "미로",
+          "weight": 2.0
+        },
+        {
+          "word": "서점",
+          "weight": 2.0
+        },
+        {
+          "word": "악수",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "거북이",
+          "weight": 2.0
+        },
+        {
+          "word": "걷기",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "신문",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "5가지",
+          "weight": 2.0
+        },
+        {
+          "word": "젓가락",
+          "weight": 2.0
+        },
+        {
+          "word": "굼벵이",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학교를 다니는 아이라면 다 알 만한 유튜브 채널 ‘토깽이네’. 네 가족의 엄마인 토깽이와 딸 나린이, 아들 다린이가 집에서 놀았던 경험을 바탕으로 다양한 집놀이를 소개한다. 크게 5가지 파트로 나누어 두뇌와 신체가 균형 잡힌 놀이가 되도록 구성했다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134847",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164131686",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164132454",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "토깽이네와 집에서 놀아요",
+      "author": "지은이: 토깽이네",
+      "kdc_from_api": "691",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "토깽이네와 집에서 놀아요",
+        "author": "지은이: 토깽이네",
+        "publisher": "코알라스토어",
+        "publish_predate": "20200124",
+        "isbn": "9791188073450",
+        "isbn_add_code": "73690",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "159 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "691",
+        "ddc": "",
+        "subject": "6",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019053627",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "토깽이네와 집에서 놀아요 ",
+        "author": "지은이: 토깽이네",
+        "publisher": "코알라스토어",
+        "publish_year": "2020",
+        "isbn": "1188073451",
+        "isbn13": "9791188073450",
+        "isbn_add_code": "73690",
+        "volume": "",
+        "class_no": "691",
+        "class_nm": "예술 > 오락, 운동 > 오락",
+        "description": "초등학교를 다니는 아이라면 다 알 만한 유튜브 채널 ‘토깽이네’. 네 가족의 엄마인 토깽이와 딸 나린이, 아들 다린이가 집에서 놀았던 경험을 바탕으로 다양한 집놀이를 소개한다. 크게 5가지 파트로 나누어 두뇌와 신체가 균형 잡힌 놀이가 되도록 구성했다.",
+        "cover_url": "https://image.aladin.co.kr/product/22508/34/cover/k212636731_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "유튜브",
+            "weight": 14.0
+          },
+          {
+            "word": "토깽이네",
+            "weight": 13.0
+          },
+          {
+            "word": "가족",
+            "weight": 11.0
+          },
+          {
+            "word": "영상",
+            "weight": 10.0
+          },
+          {
+            "word": "놀이",
+            "weight": 8.0
+          },
+          {
+            "word": "게임",
+            "weight": 6.0
+          },
+          {
+            "word": "소개",
+            "weight": 5.0
+          },
+          {
+            "word": "미세먼지",
+            "weight": 4.0
+          },
+          {
+            "word": "채널",
+            "weight": 4.0
+          },
+          {
+            "word": "그리기",
+            "weight": 4.0
+          },
+          {
+            "word": "나린",
+            "weight": 3.0
+          },
+          {
+            "word": "스피드",
+            "weight": 3.0
+          },
+          {
+            "word": "줄넘기",
+            "weight": 3.0
+          },
+          {
+            "word": "미션",
+            "weight": 3.0
+          },
+          {
+            "word": "초등학생",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 3.0
+          },
+          {
+            "word": "퀴즈",
+            "weight": 3.0
+          },
+          {
+            "word": "Brain",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "친구",
+            "weight": 3.0
+          },
+          {
+            "word": "일상",
+            "weight": 2.0
+          },
+          {
+            "word": "인기",
+            "weight": 2.0
+          },
+          {
+            "word": "휴지",
+            "weight": 2.0
+          },
+          {
+            "word": "보물찾기",
+            "weight": 2.0
+          },
+          {
+            "word": "다린",
+            "weight": 2.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "불어",
+            "weight": 2.0
+          },
+          {
+            "word": "아들",
+            "weight": 2.0
+          },
+          {
+            "word": "신문지",
+            "weight": 2.0
+          },
+          {
+            "word": "손바닥",
+            "weight": 2.0
+          },
+          {
+            "word": "시그니처",
+            "weight": 2.0
+          },
+          {
+            "word": "수건",
+            "weight": 2.0
+          },
+          {
+            "word": "전국",
+            "weight": 2.0
+          },
+          {
+            "word": "body",
+            "weight": 2.0
+          },
+          {
+            "word": "Music",
+            "weight": 2.0
+          },
+          {
+            "word": "Toy",
+            "weight": 2.0
+          },
+          {
+            "word": "머리",
+            "weight": 2.0
+          },
+          {
+            "word": "미로",
+            "weight": 2.0
+          },
+          {
+            "word": "서점",
+            "weight": 2.0
+          },
+          {
+            "word": "악수",
+            "weight": 2.0
+          },
+          {
+            "word": "엄마",
+            "weight": 2.0
+          },
+          {
+            "word": "거북이",
+            "weight": 2.0
+          },
+          {
+            "word": "걷기",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "신문",
+            "weight": 2.0
+          },
+          {
+            "word": "음악 미술 예체능",
+            "weight": 2.0
+          },
+          {
+            "word": "5가지",
+            "weight": 2.0
+          },
+          {
+            "word": "젓가락",
+            "weight": 2.0
+          },
+          {
+            "word": "굼벵이",
+            "weight": 2.0
+          },
+          {
+            "word": "그림자",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134847",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164135592",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164131686",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134267",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164136261",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164137527",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164139897",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168412477",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164132454",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "토깽이네와 집에서 놀아요"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001910061",
+        "title": "토깽이네와 집에서 놀아요",
+        "subtitle": "",
+        "page": "160 p.",
+        "book_size": "175*235mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791188073450",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791188073450",
+      "isbn_add_code": "73690",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "토깽이네와 집에서 놀아요",
+      "subtitle": "",
+      "author": "지은이: 토깽이네",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "코알라스토어",
+      "publish_year": "2020",
+      "publish_predate": "20200124",
+      "kdc": "691",
+      "kdc_edition": "",
+      "kdc_name": "예술 > 오락, 운동 > 오락",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "6",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "160 p.",
+      "book_size": "175*235mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "초등학교를 다니는 아이라면 다 알 만한 유튜브 채널 ‘토깽이네’. 네 가족의 엄마인 토깽이와 딸 나린이, 아들 다린이가 집에서 놀았던 경험을 바탕으로 다양한 집놀이를 소개한다. 크게 5가지 파트로 나누어 두뇌와 신체가 균형 잡힌 놀이가 되도록 구성했다.",
+      "control_no": "CIP2019053627",
+      "cover_url": "https://image.aladin.co.kr/product/22508/34/cover/k212636731_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "유튜브",
+          "weight": 14.0
+        },
+        {
+          "word": "토깽이네",
+          "weight": 13.0
+        },
+        {
+          "word": "가족",
+          "weight": 11.0
+        },
+        {
+          "word": "영상",
+          "weight": 10.0
+        },
+        {
+          "word": "놀이",
+          "weight": 8.0
+        },
+        {
+          "word": "게임",
+          "weight": 6.0
+        },
+        {
+          "word": "소개",
+          "weight": 5.0
+        },
+        {
+          "word": "미세먼지",
+          "weight": 4.0
+        },
+        {
+          "word": "채널",
+          "weight": 4.0
+        },
+        {
+          "word": "그리기",
+          "weight": 4.0
+        },
+        {
+          "word": "나린",
+          "weight": 3.0
+        },
+        {
+          "word": "스피드",
+          "weight": 3.0
+        },
+        {
+          "word": "줄넘기",
+          "weight": 3.0
+        },
+        {
+          "word": "미션",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 3.0
+        },
+        {
+          "word": "퀴즈",
+          "weight": 3.0
+        },
+        {
+          "word": "Brain",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "친구",
+          "weight": 3.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "인기",
+          "weight": 2.0
+        },
+        {
+          "word": "휴지",
+          "weight": 2.0
+        },
+        {
+          "word": "보물찾기",
+          "weight": 2.0
+        },
+        {
+          "word": "다린",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "불어",
+          "weight": 2.0
+        },
+        {
+          "word": "아들",
+          "weight": 2.0
+        },
+        {
+          "word": "신문지",
+          "weight": 2.0
+        },
+        {
+          "word": "손바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "시그니처",
+          "weight": 2.0
+        },
+        {
+          "word": "수건",
+          "weight": 2.0
+        },
+        {
+          "word": "전국",
+          "weight": 2.0
+        },
+        {
+          "word": "body",
+          "weight": 2.0
+        },
+        {
+          "word": "Music",
+          "weight": 2.0
+        },
+        {
+          "word": "Toy",
+          "weight": 2.0
+        },
+        {
+          "word": "머리",
+          "weight": 2.0
+        },
+        {
+          "word": "미로",
+          "weight": 2.0
+        },
+        {
+          "word": "서점",
+          "weight": 2.0
+        },
+        {
+          "word": "악수",
+          "weight": 2.0
+        },
+        {
+          "word": "엄마",
+          "weight": 2.0
+        },
+        {
+          "word": "거북이",
+          "weight": 2.0
+        },
+        {
+          "word": "걷기",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "신문",
+          "weight": 2.0
+        },
+        {
+          "word": "음악 미술 예체능",
+          "weight": 2.0
+        },
+        {
+          "word": "5가지",
+          "weight": 2.0
+        },
+        {
+          "word": "젓가락",
+          "weight": 2.0
+        },
+        {
+          "word": "굼벵이",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        }
+      ],
+      "description": "초등학교를 다니는 아이라면 다 알 만한 유튜브 채널 ‘토깽이네’. 네 가족의 엄마인 토깽이와 딸 나린이, 아들 다린이가 집에서 놀았던 경험을 바탕으로 다양한 집놀이를 소개한다. 크게 5가지 파트로 나누어 두뇌와 신체가 균형 잡힌 놀이가 되도록 구성했다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134847",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164135592",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164131686",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164136261",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164139897",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168412477",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164132454",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "토깽이네와 집에서 놀아요",
+      "author": "지은이: 토깽이네",
+      "kdc_from_api": "691",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791197377143",
+  "captured_at": "2026-10-02T00:10:51.200335+09:00",
+  "lookup": {
+    "isbn": "9791197377143",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197377143",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "어서오세요, 휴남동 서점입니다",
+      "subtitle": "황보름 장편소설",
+      "author": "지은이: 황보름",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "클레이하우스",
+      "publish_year": "2022",
+      "publish_predate": "20220117",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "364 p.",
+      "book_size": "140*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "크고 작은 상처와 희망을 가진 사람들이 휴남동 서점이라는 공간을 안식처로 삼아 함께 살아가는 법을 배운다. 배려와 친절, 거리를 지킬 줄 아는 사람들끼리의 우정과 느슨한 연대, 진솔하고 깊이 있는 대화 등 우리가 잃어버린 채 살고 있지만 사는 데 꼭 필요한 것들이 가득한 책이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28685/95/cover/k362836265_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "서점",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "커피",
+          "weight": 6.0
+        },
+        {
+          "word": "휴남동",
+          "weight": 5.0
+        },
+        {
+          "word": "공간",
+          "weight": 5.0
+        },
+        {
+          "word": "순간",
+          "weight": 4.0
+        },
+        {
+          "word": "느낌",
+          "weight": 4.0
+        },
+        {
+          "word": "모이",
+          "weight": 4.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "동네",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "난생처음 킥복싱",
+          "weight": 3.0
+        },
+        {
+          "word": "매일 읽겠습니다",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "이 정도 거리가 딱 좋다",
+          "weight": 3.0
+        },
+        {
+          "word": "것들",
+          "weight": 3.0
+        },
+        {
+          "word": "영주",
+          "weight": 3.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "요청",
+          "weight": 2.0
+        },
+        {
+          "word": "불협화음",
+          "weight": 2.0
+        },
+        {
+          "word": "서울",
+          "weight": 2.0
+        },
+        {
+          "word": "북토크",
+          "weight": 2.0
+        },
+        {
+          "word": "무사",
+          "weight": 2.0
+        },
+        {
+          "word": "완전",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "모습",
+          "weight": 2.0
+        },
+        {
+          "word": "목소리",
+          "weight": 2.0
+        },
+        {
+          "word": "문장",
+          "weight": 2.0
+        },
+        {
+          "word": "손님",
+          "weight": 2.0
+        },
+        {
+          "word": "대표",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "소진",
+          "weight": 2.0
+        },
+        {
+          "word": "수세미",
+          "weight": 2.0
+        },
+        {
+          "word": "골목길",
+          "weight": 2.0
+        },
+        {
+          "word": "이벤트",
+          "weight": 2.0
+        },
+        {
+          "word": "사연",
+          "weight": 2.0
+        },
+        {
+          "word": "구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "단추",
+          "weight": 2.0
+        },
+        {
+          "word": "단골손님",
+          "weight": 2.0
+        },
+        {
+          "word": "의욕",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "내면",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "염소",
+          "weight": 2.0
+        }
+      ],
+      "description": "크고 작은 상처와 희망을 가진 사람들이 휴남동 서점이라는 공간을 안식처로 삼아 함께 살아가는 법을 배운다. 배려와 친절, 거리를 지킬 줄 아는 사람들끼리의 우정과 느슨한 연대, 진솔하고 깊이 있는 대화 등 우리가 잃어버린 채 살고 있지만 사는 데 꼭 필요한 것들이 가득한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "바다가 들리는 편의점 ",
+          "isbn13": "9791192579504",
+          "authors": "마치다 소노코 지음 ;황국영 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "세상의 마지막 기차역 ",
+          "isbn13": "9791191043754",
+          "authors": "무라세 다케시 지음 ;김지연 옮김"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "isbn13": "9791165343729",
+          "authors": "지은이: 이미예"
+        }
+      ],
+      "title": "어서오세요, 휴남동 서점입니다",
+      "author": "지은이: 황보름",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "어서오세요, 휴남동 서점입니다",
+        "author": "지은이: 황보름",
+        "publisher": "클레이하우스",
+        "publish_predate": "20220117",
+        "isbn": "9791197377143",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "363 p.",
+        "book_size": "140*205",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+        "author": "지은이: 황보름",
+        "publisher": "클레이하우스",
+        "publish_year": "2022",
+        "isbn": "119737714X",
+        "isbn13": "9791197377143",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "크고 작은 상처와 희망을 가진 사람들이 휴남동 서점이라는 공간을 안식처로 삼아 함께 살아가는 법을 배운다. 배려와 친절, 거리를 지킬 줄 아는 사람들끼리의 우정과 느슨한 연대, 진솔하고 깊이 있는 대화 등 우리가 잃어버린 채 살고 있지만 사는 데 꼭 필요한 것들이 가득한 책이다.",
+        "cover_url": "https://image.aladin.co.kr/product/28685/95/cover/k362836265_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "서점",
+            "weight": 18.0
+          },
+          {
+            "word": "사람",
+            "weight": 15.0
+          },
+          {
+            "word": "커피",
+            "weight": 6.0
+          },
+          {
+            "word": "휴남동",
+            "weight": 5.0
+          },
+          {
+            "word": "공간",
+            "weight": 5.0
+          },
+          {
+            "word": "순간",
+            "weight": 4.0
+          },
+          {
+            "word": "느낌",
+            "weight": 4.0
+          },
+          {
+            "word": "모이",
+            "weight": 4.0
+          },
+          {
+            "word": "얼굴",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "동네",
+            "weight": 4.0
+          },
+          {
+            "word": "자신",
+            "weight": 4.0
+          },
+          {
+            "word": "난생처음 킥복싱",
+            "weight": 3.0
+          },
+          {
+            "word": "매일 읽겠습니다",
+            "weight": 3.0
+          },
+          {
+            "word": "오늘",
+            "weight": 3.0
+          },
+          {
+            "word": "독자",
+            "weight": 3.0
+          },
+          {
+            "word": "대화",
+            "weight": 3.0
+          },
+          {
+            "word": "이 정도 거리가 딱 좋다",
+            "weight": 3.0
+          },
+          {
+            "word": "것들",
+            "weight": 3.0
+          },
+          {
+            "word": "영주",
+            "weight": 3.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "요청",
+            "weight": 2.0
+          },
+          {
+            "word": "불협화음",
+            "weight": 2.0
+          },
+          {
+            "word": "서울",
+            "weight": 2.0
+          },
+          {
+            "word": "북토크",
+            "weight": 2.0
+          },
+          {
+            "word": "무사",
+            "weight": 2.0
+          },
+          {
+            "word": "완전",
+            "weight": 2.0
+          },
+          {
+            "word": "얼마",
+            "weight": 2.0
+          },
+          {
+            "word": "모습",
+            "weight": 2.0
+          },
+          {
+            "word": "목소리",
+            "weight": 2.0
+          },
+          {
+            "word": "문장",
+            "weight": 2.0
+          },
+          {
+            "word": "손님",
+            "weight": 2.0
+          },
+          {
+            "word": "대표",
+            "weight": 2.0
+          },
+          {
+            "word": "감정",
+            "weight": 2.0
+          },
+          {
+            "word": "사실",
+            "weight": 2.0
+          },
+          {
+            "word": "소진",
+            "weight": 2.0
+          },
+          {
+            "word": "수세미",
+            "weight": 2.0
+          },
+          {
+            "word": "골목길",
+            "weight": 2.0
+          },
+          {
+            "word": "이벤트",
+            "weight": 2.0
+          },
+          {
+            "word": "사연",
+            "weight": 2.0
+          },
+          {
+            "word": "구멍",
+            "weight": 2.0
+          },
+          {
+            "word": "기분",
+            "weight": 2.0
+          },
+          {
+            "word": "단추",
+            "weight": 2.0
+          },
+          {
+            "word": "단골손님",
+            "weight": 2.0
+          },
+          {
+            "word": "의욕",
+            "weight": 2.0
+          },
+          {
+            "word": "2000년대 이후 한국소설",
+            "weight": 2.0
+          },
+          {
+            "word": "내면",
+            "weight": 2.0
+          },
+          {
+            "word": "아주",
+            "weight": 2.0
+          },
+          {
+            "word": "깊이",
+            "weight": 2.0
+          },
+          {
+            "word": "염소",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+            "isbn13": "9791191891287",
+            "authors": "글: 윤정은"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+            "isbn13": "9791165341909",
+            "authors": "지은이: 이미예"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "바다가 들리는 편의점 ",
+            "isbn13": "9791192579504",
+            "authors": "마치다 소노코 지음 ;황국영 옮김"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          },
+          {
+            "bookname": "세상의 마지막 기차역 ",
+            "isbn13": "9791191043754",
+            "authors": "무라세 다케시 지음 ;김지연 옮김"
+          },
+          {
+            "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+            "isbn13": "9791165343729",
+            "authors": "지은이: 이미예"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "어서오세요, 휴남동 서점입니다 - 황보름 장편소설"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001986136",
+        "title": "어서 오세요, 휴남동 서점입니다",
+        "subtitle": "황보름 장편소설",
+        "page": "364 p.",
+        "book_size": "140*205mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791197377143",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791197377143",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "어서오세요, 휴남동 서점입니다",
+      "subtitle": "황보름 장편소설",
+      "author": "지은이: 황보름",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "클레이하우스",
+      "publish_year": "2022",
+      "publish_predate": "20220117",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "364 p.",
+      "book_size": "140*205",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "크고 작은 상처와 희망을 가진 사람들이 휴남동 서점이라는 공간을 안식처로 삼아 함께 살아가는 법을 배운다. 배려와 친절, 거리를 지킬 줄 아는 사람들끼리의 우정과 느슨한 연대, 진솔하고 깊이 있는 대화 등 우리가 잃어버린 채 살고 있지만 사는 데 꼭 필요한 것들이 가득한 책이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/28685/95/cover/k362836265_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "서점",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "커피",
+          "weight": 6.0
+        },
+        {
+          "word": "휴남동",
+          "weight": 5.0
+        },
+        {
+          "word": "공간",
+          "weight": 5.0
+        },
+        {
+          "word": "순간",
+          "weight": 4.0
+        },
+        {
+          "word": "느낌",
+          "weight": 4.0
+        },
+        {
+          "word": "모이",
+          "weight": 4.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "동네",
+          "weight": 4.0
+        },
+        {
+          "word": "자신",
+          "weight": 4.0
+        },
+        {
+          "word": "난생처음 킥복싱",
+          "weight": 3.0
+        },
+        {
+          "word": "매일 읽겠습니다",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘",
+          "weight": 3.0
+        },
+        {
+          "word": "독자",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "이 정도 거리가 딱 좋다",
+          "weight": 3.0
+        },
+        {
+          "word": "것들",
+          "weight": 3.0
+        },
+        {
+          "word": "영주",
+          "weight": 3.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "요청",
+          "weight": 2.0
+        },
+        {
+          "word": "불협화음",
+          "weight": 2.0
+        },
+        {
+          "word": "서울",
+          "weight": 2.0
+        },
+        {
+          "word": "북토크",
+          "weight": 2.0
+        },
+        {
+          "word": "무사",
+          "weight": 2.0
+        },
+        {
+          "word": "완전",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "모습",
+          "weight": 2.0
+        },
+        {
+          "word": "목소리",
+          "weight": 2.0
+        },
+        {
+          "word": "문장",
+          "weight": 2.0
+        },
+        {
+          "word": "손님",
+          "weight": 2.0
+        },
+        {
+          "word": "대표",
+          "weight": 2.0
+        },
+        {
+          "word": "감정",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "소진",
+          "weight": 2.0
+        },
+        {
+          "word": "수세미",
+          "weight": 2.0
+        },
+        {
+          "word": "골목길",
+          "weight": 2.0
+        },
+        {
+          "word": "이벤트",
+          "weight": 2.0
+        },
+        {
+          "word": "사연",
+          "weight": 2.0
+        },
+        {
+          "word": "구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "기분",
+          "weight": 2.0
+        },
+        {
+          "word": "단추",
+          "weight": 2.0
+        },
+        {
+          "word": "단골손님",
+          "weight": 2.0
+        },
+        {
+          "word": "의욕",
+          "weight": 2.0
+        },
+        {
+          "word": "2000년대 이후 한국소설",
+          "weight": 2.0
+        },
+        {
+          "word": "내면",
+          "weight": 2.0
+        },
+        {
+          "word": "아주",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "염소",
+          "weight": 2.0
+        }
+      ],
+      "description": "크고 작은 상처와 희망을 가진 사람들이 휴남동 서점이라는 공간을 안식처로 삼아 함께 살아가는 법을 배운다. 배려와 친절, 거리를 지킬 줄 아는 사람들끼리의 우정과 느슨한 연대, 진솔하고 깊이 있는 대화 등 우리가 잃어버린 채 살고 있지만 사는 데 꼭 필요한 것들이 가득한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "isbn13": "9791191891287",
+          "authors": "글: 윤정은"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "isbn13": "9791165341909",
+          "authors": "지은이: 이미예"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "바다가 들리는 편의점 ",
+          "isbn13": "9791192579504",
+          "authors": "마치다 소노코 지음 ;황국영 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "세상의 마지막 기차역 ",
+          "isbn13": "9791191043754",
+          "authors": "무라세 다케시 지음 ;김지연 옮김"
+        },
+        {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "isbn13": "9791165343729",
+          "authors": "지은이: 이미예"
+        }
+      ],
+      "title": "어서오세요, 휴남동 서점입니다",
+      "author": "지은이: 황보름",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

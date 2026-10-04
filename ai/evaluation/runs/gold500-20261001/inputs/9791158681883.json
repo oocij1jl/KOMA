@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791158681883",
+  "captured_at": "2026-10-03T00:13:36.738767+09:00",
+  "lookup": {
+    "isbn": "9791158681883",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681883",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 속담",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2020",
+      "publish_predate": "20201218",
+      "kdc": "388",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 풍속, 민속학 > 민간전승",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "232 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "손바닥 뒤집기보다 쉬운 속담 공부 비법속담을 활용하면 자기 생각을좀 더 효과적으로 전달할 수 있어요.하지만 그 속에 담긴 뜻을 제대로 알지 못하면 전혀 맞지 않는 엉뚱한 말이 되지요.바이러스성으로 모험을 떠난 찹이 패밀리와 함께 재미있게 새로운 속담을 익혀 보세요.어휘력이 쑥~, 표현력이 쑥쑥... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/25785/13/cover/k122736716_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "속담",
+          "weight": 12.0
+        },
+        {
+          "word": "하늘",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "에피소드",
+          "weight": 5.0
+        },
+        {
+          "word": "활용",
+          "weight": 3.0
+        },
+        {
+          "word": "서울",
+          "weight": 3.0
+        },
+        {
+          "word": "웃지 마 나 퀴즈 책이야",
+          "weight": 3.0
+        },
+        {
+          "word": "사용",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "제사",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "물건",
+          "weight": 2.0
+        },
+        {
+          "word": "귀신",
+          "weight": 2.0
+        },
+        {
+          "word": "뱁새",
+          "weight": 2.0
+        },
+        {
+          "word": "부탁",
+          "weight": 2.0
+        },
+        {
+          "word": "구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "구렁이",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "다리",
+          "weight": 2.0
+        },
+        {
+          "word": "손바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "장맛",
+          "weight": 2.0
+        },
+        {
+          "word": "제대",
+          "weight": 2.0
+        },
+        {
+          "word": "도랑",
+          "weight": 2.0
+        },
+        {
+          "word": "도토리",
+          "weight": 2.0
+        },
+        {
+          "word": "두부",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "지푸라기",
+          "weight": 2.0
+        },
+        {
+          "word": "개미구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "말이",
+          "weight": 2.0
+        },
+        {
+          "word": "가지",
+          "weight": 2.0
+        },
+        {
+          "word": "가재",
+          "weight": 2.0
+        },
+        {
+          "word": "세균",
+          "weight": 2.0
+        },
+        {
+          "word": "뚝배기",
+          "weight": 2.0
+        },
+        {
+          "word": "가리",
+          "weight": 2.0
+        },
+        {
+          "word": "가도",
+          "weight": 2.0
+        },
+        {
+          "word": "효과적",
+          "weight": 2.0
+        },
+        {
+          "word": "걱정",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "전달",
+          "weight": 2.0
+        },
+        {
+          "word": "고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "고기",
+          "weight": 2.0
+        },
+        {
+          "word": "손가락",
+          "weight": 2.0
+        },
+        {
+          "word": "서방",
+          "weight": 2.0
+        },
+        {
+          "word": "상식 교양",
+          "weight": 2.0
+        },
+        {
+          "word": "벼룩",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "등불",
+          "weight": 2.0
+        }
+      ],
+      "description": "손바닥 뒤집기보다 쉬운 속담 공부 비법속담을 활용하면 자기 생각을좀 더 효과적으로 전달할 수 있어요.하지만 그 속에 담긴 뜻을 제대로 알지 못하면 전혀 맞지 않는 엉뚱한 말이 되지요.바이러스성으로 모험을 떠난 찹이 패밀리와 함께 재미있게 새로운 속담을 익혀 보세요.어휘력이 쑥~, 표현력이 쑥쑥... ",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+          "isbn13": "9791158682446",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 속담",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "388",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 속담",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_predate": "20201218",
+        "isbn": "9791158681883",
+        "isbn_add_code": "73710",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩12000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "226 p.",
+        "book_size": "152*190",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "7",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "(읽으면서 바로 써먹는) 어린이 속담",
+        "author": "글·그림: 한날",
+        "publisher": "파란정원",
+        "publish_year": "2020",
+        "isbn": "1158681887",
+        "isbn13": "9791158681883",
+        "isbn_add_code": "73710",
+        "volume": "",
+        "class_no": "388",
+        "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+        "description": "손바닥 뒤집기보다 쉬운 속담 공부 비법속담을 활용하면 자기 생각을좀 더 효과적으로 전달할 수 있어요.하지만 그 속에 담긴 뜻을 제대로 알지 못하면 전혀 맞지 않는 엉뚱한 말이 되지요.바이러스성으로 모험을 떠난 찹이 패밀리와 함께 재미있게 새로운 속담을 익혀 보세요.어휘력이 쑥~, 표현력이 쑥쑥... ",
+        "cover_url": "https://image.aladin.co.kr/product/25785/13/cover/k122736716_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "속담",
+            "weight": 12.0
+          },
+          {
+            "word": "하늘",
+            "weight": 6.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "에피소드",
+            "weight": 5.0
+          },
+          {
+            "word": "활용",
+            "weight": 3.0
+          },
+          {
+            "word": "서울",
+            "weight": 3.0
+          },
+          {
+            "word": "웃지 마 나 퀴즈 책이야",
+            "weight": 3.0
+          },
+          {
+            "word": "사용",
+            "weight": 3.0
+          },
+          {
+            "word": "공부",
+            "weight": 3.0
+          },
+          {
+            "word": "제사",
+            "weight": 3.0
+          },
+          {
+            "word": "생각",
+            "weight": 3.0
+          },
+          {
+            "word": "물건",
+            "weight": 2.0
+          },
+          {
+            "word": "귀신",
+            "weight": 2.0
+          },
+          {
+            "word": "뱁새",
+            "weight": 2.0
+          },
+          {
+            "word": "부탁",
+            "weight": 2.0
+          },
+          {
+            "word": "구멍",
+            "weight": 2.0
+          },
+          {
+            "word": "구렁이",
+            "weight": 2.0
+          },
+          {
+            "word": "상황",
+            "weight": 2.0
+          },
+          {
+            "word": "다리",
+            "weight": 2.0
+          },
+          {
+            "word": "손바닥",
+            "weight": 2.0
+          },
+          {
+            "word": "인생다반사",
+            "weight": 2.0
+          },
+          {
+            "word": "자기",
+            "weight": 2.0
+          },
+          {
+            "word": "장맛",
+            "weight": 2.0
+          },
+          {
+            "word": "제대",
+            "weight": 2.0
+          },
+          {
+            "word": "도랑",
+            "weight": 2.0
+          },
+          {
+            "word": "도토리",
+            "weight": 2.0
+          },
+          {
+            "word": "두부",
+            "weight": 2.0
+          },
+          {
+            "word": "한날",
+            "weight": 2.0
+          },
+          {
+            "word": "지푸라기",
+            "weight": 2.0
+          },
+          {
+            "word": "개미구멍",
+            "weight": 2.0
+          },
+          {
+            "word": "일상",
+            "weight": 2.0
+          },
+          {
+            "word": "말이",
+            "weight": 2.0
+          },
+          {
+            "word": "가지",
+            "weight": 2.0
+          },
+          {
+            "word": "가재",
+            "weight": 2.0
+          },
+          {
+            "word": "세균",
+            "weight": 2.0
+          },
+          {
+            "word": "뚝배기",
+            "weight": 2.0
+          },
+          {
+            "word": "가리",
+            "weight": 2.0
+          },
+          {
+            "word": "가도",
+            "weight": 2.0
+          },
+          {
+            "word": "효과적",
+            "weight": 2.0
+          },
+          {
+            "word": "걱정",
+            "weight": 2.0
+          },
+          {
+            "word": "파란정원",
+            "weight": 2.0
+          },
+          {
+            "word": "전달",
+            "weight": 2.0
+          },
+          {
+            "word": "고양이",
+            "weight": 2.0
+          },
+          {
+            "word": "고기",
+            "weight": 2.0
+          },
+          {
+            "word": "손가락",
+            "weight": 2.0
+          },
+          {
+            "word": "서방",
+            "weight": 2.0
+          },
+          {
+            "word": "상식 교양",
+            "weight": 2.0
+          },
+          {
+            "word": "벼룩",
+            "weight": 2.0
+          },
+          {
+            "word": "모험",
+            "weight": 2.0
+          },
+          {
+            "word": "등불",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+            "isbn13": "9791158681746",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+            "isbn13": "9791158681258",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+            "isbn13": "9791158681999",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+            "isbn13": "9791158681647",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+            "isbn13": "9791158682446",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+            "isbn13": "9791158682538",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+            "isbn13": "9791158681531",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+            "isbn13": "9791158681944",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+            "isbn13": "9791158681791",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+            "isbn13": "9791158681487",
+            "authors": "글·그림: 한날"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "(읽으면서 바로 써먹는) 어린이 속담"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001770985",
+        "title": "읽으면서 바로 써먹는 어린이 속담: 바이러스 편",
+        "subtitle": "",
+        "page": "232 p.",
+        "book_size": "153*215mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791158681883",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791158681883",
+      "isbn_add_code": "73710",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩12000",
+      "title": "(읽으면서 바로 써먹는) 어린이 속담",
+      "subtitle": "",
+      "author": "글·그림: 한날",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "파란정원",
+      "publish_year": "2020",
+      "publish_predate": "20201218",
+      "kdc": "388",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 풍속, 민속학 > 민간전승",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "7",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "232 p.",
+      "book_size": "152*190",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "손바닥 뒤집기보다 쉬운 속담 공부 비법속담을 활용하면 자기 생각을좀 더 효과적으로 전달할 수 있어요.하지만 그 속에 담긴 뜻을 제대로 알지 못하면 전혀 맞지 않는 엉뚱한 말이 되지요.바이러스성으로 모험을 떠난 찹이 패밀리와 함께 재미있게 새로운 속담을 익혀 보세요.어휘력이 쑥~, 표현력이 쑥쑥... ",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/25785/13/cover/k122736716_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "속담",
+          "weight": 12.0
+        },
+        {
+          "word": "하늘",
+          "weight": 6.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "에피소드",
+          "weight": 5.0
+        },
+        {
+          "word": "활용",
+          "weight": 3.0
+        },
+        {
+          "word": "서울",
+          "weight": 3.0
+        },
+        {
+          "word": "웃지 마 나 퀴즈 책이야",
+          "weight": 3.0
+        },
+        {
+          "word": "사용",
+          "weight": 3.0
+        },
+        {
+          "word": "공부",
+          "weight": 3.0
+        },
+        {
+          "word": "제사",
+          "weight": 3.0
+        },
+        {
+          "word": "생각",
+          "weight": 3.0
+        },
+        {
+          "word": "물건",
+          "weight": 2.0
+        },
+        {
+          "word": "귀신",
+          "weight": 2.0
+        },
+        {
+          "word": "뱁새",
+          "weight": 2.0
+        },
+        {
+          "word": "부탁",
+          "weight": 2.0
+        },
+        {
+          "word": "구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "구렁이",
+          "weight": 2.0
+        },
+        {
+          "word": "상황",
+          "weight": 2.0
+        },
+        {
+          "word": "다리",
+          "weight": 2.0
+        },
+        {
+          "word": "손바닥",
+          "weight": 2.0
+        },
+        {
+          "word": "인생다반사",
+          "weight": 2.0
+        },
+        {
+          "word": "자기",
+          "weight": 2.0
+        },
+        {
+          "word": "장맛",
+          "weight": 2.0
+        },
+        {
+          "word": "제대",
+          "weight": 2.0
+        },
+        {
+          "word": "도랑",
+          "weight": 2.0
+        },
+        {
+          "word": "도토리",
+          "weight": 2.0
+        },
+        {
+          "word": "두부",
+          "weight": 2.0
+        },
+        {
+          "word": "한날",
+          "weight": 2.0
+        },
+        {
+          "word": "지푸라기",
+          "weight": 2.0
+        },
+        {
+          "word": "개미구멍",
+          "weight": 2.0
+        },
+        {
+          "word": "일상",
+          "weight": 2.0
+        },
+        {
+          "word": "말이",
+          "weight": 2.0
+        },
+        {
+          "word": "가지",
+          "weight": 2.0
+        },
+        {
+          "word": "가재",
+          "weight": 2.0
+        },
+        {
+          "word": "세균",
+          "weight": 2.0
+        },
+        {
+          "word": "뚝배기",
+          "weight": 2.0
+        },
+        {
+          "word": "가리",
+          "weight": 2.0
+        },
+        {
+          "word": "가도",
+          "weight": 2.0
+        },
+        {
+          "word": "효과적",
+          "weight": 2.0
+        },
+        {
+          "word": "걱정",
+          "weight": 2.0
+        },
+        {
+          "word": "파란정원",
+          "weight": 2.0
+        },
+        {
+          "word": "전달",
+          "weight": 2.0
+        },
+        {
+          "word": "고양이",
+          "weight": 2.0
+        },
+        {
+          "word": "고기",
+          "weight": 2.0
+        },
+        {
+          "word": "손가락",
+          "weight": 2.0
+        },
+        {
+          "word": "서방",
+          "weight": 2.0
+        },
+        {
+          "word": "상식 교양",
+          "weight": 2.0
+        },
+        {
+          "word": "벼룩",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "등불",
+          "weight": 2.0
+        }
+      ],
+      "description": "손바닥 뒤집기보다 쉬운 속담 공부 비법속담을 활용하면 자기 생각을좀 더 효과적으로 전달할 수 있어요.하지만 그 속에 담긴 뜻을 제대로 알지 못하면 전혀 맞지 않는 엉뚱한 말이 되지요.바이러스성으로 모험을 떠난 찹이 패밀리와 함께 재미있게 새로운 속담을 익혀 보세요.어휘력이 쑥~, 표현력이 쑥쑥... ",
+      "co_loan_books": [
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 ",
+          "isbn13": "9791158681746",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "isbn13": "9791158681258",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "isbn13": "9791158681999",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "isbn13": "9791158681647",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 수수께끼 :공포 특급 ",
+          "isbn13": "9791158682446",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "isbn13": "9791158682538",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "isbn13": "9791158681531",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 사자성어 ",
+          "isbn13": "9791158681944",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 명심보감 ",
+          "isbn13": "9791158681791",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 관용구 ",
+          "isbn13": "9791158681487",
+          "authors": "글·그림: 한날"
+        }
+      ],
+      "title": "(읽으면서 바로 써먹는) 어린이 속담",
+      "author": "글·그림: 한날",
+      "kdc_from_api": "388",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

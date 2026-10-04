@@ -1,0 +1,714 @@
+{
+  "isbn": "9788990611260",
+  "captured_at": "2026-10-05T00:11:22.578451+09:00",
+  "lookup": {
+    "isbn": "9788990611260",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788990611260",
+      "isbn_add_code": "77830",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9500",
+      "title": "틀려도 괜찮아",
+      "subtitle": "양장본 Hardcover",
+      "author": "마키타 신지 글;하세가와 토모코 그림;유문조 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "토토북",
+      "publish_year": "2006",
+      "publish_predate": "20060210",
+      "kdc": "833.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "30 p.",
+      "book_size": "210*248mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "\"아는 사람 손 들어봐\", \"할 수 있는 사람 나와 봐\"로 시작하는 수업 시간에 잘 모르는 아이, 자신이 없는 아이의 가슴은 오그라든다. 망설이는 초등학교 신입생들에게 교실이 틀려도 괜찮은 곳, 틀리면서 정답을 찾아가는 곳이라는 것을 깨닫게 해주는 그림 동화책이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/62/27/cover/8990611261_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이 출판사 편집장들이 뽑은",
+          "weight": 2.0
+        },
+        {
+          "word": "유문조",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "마키타 신지",
+          "weight": 2.0
+        },
+        {
+          "word": "그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "토토북",
+          "weight": 2.0
+        },
+        {
+          "word": "정답",
+          "weight": 1.0
+        },
+        {
+          "word": "자신",
+          "weight": 1.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 1.0
+        },
+        {
+          "word": "가슴",
+          "weight": 1.0
+        },
+        {
+          "word": "신입생",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "시간",
+          "weight": 1.0
+        },
+        {
+          "word": "수업",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "교실",
+          "weight": 1.0
+        },
+        {
+          "word": "해주",
+          "weight": 1.0
+        }
+      ],
+      "description": "\"아는 사람 손 들어봐\", \"할 수 있는 사람 나와 봐\"로 시작하는 수업 시간에 잘 모르는 아이, 자신이 없는 아이의 가슴은 오그라든다. 망설이는 초등학교 신입생들에게 교실이 틀려도 괜찮은 곳, 틀리면서 정답을 찾아가는 곳이라는 것을 깨닫게 해주는 그림 동화책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "강아지똥 ",
+          "isbn13": "9788986621136",
+          "authors": "글: 권정생 ;그림: 정승각"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "오싹오싹 크레용! ",
+          "isbn13": "9788964964767",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        },
+        {
+          "bookname": "두근두근 편의점 :김영진 그림책 ",
+          "isbn13": "9791158363178",
+          "authors": "지은이: 김영진"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        }
+      ],
+      "title": "틀려도 괜찮아",
+      "author": "마키타 신지 글;하세가와 토모코 그림;유문조 옮김",
+      "kdc_from_api": "833.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "틀려도 괜찮아",
+        "author": "마키타 신지 글;하세가와 토모코 그림;유문조 옮김",
+        "publisher": "토토북",
+        "publish_predate": "20060210",
+        "isbn": "9788990611260",
+        "isbn_add_code": "77830",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩9500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "틀려도 괜찮아",
+        "author": "마키타 신지 글;유문조 옮김",
+        "publisher": "토토북",
+        "publish_year": "2006",
+        "isbn": "8990611261",
+        "isbn13": "9788990611260",
+        "isbn_add_code": "77830",
+        "volume": "",
+        "class_no": "833.6",
+        "class_nm": "문학 > 일본문학 > 소설",
+        "description": "\"아는 사람 손 들어봐\", \"할 수 있는 사람 나와 봐\"로 시작하는 수업 시간에 잘 모르는 아이, 자신이 없는 아이의 가슴은 오그라든다. 망설이는 초등학교 신입생들에게 교실이 틀려도 괜찮은 곳, 틀리면서 정답을 찾아가는 곳이라는 것을 깨닫게 해주는 그림 동화책이다.",
+        "cover_url": "http://image.aladin.co.kr/product/62/27/cover/8990611261_2.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "아이",
+            "weight": 2.0
+          },
+          {
+            "word": "어린이 출판사 편집장들이 뽑은",
+            "weight": 2.0
+          },
+          {
+            "word": "유문조",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "마키타 신지",
+            "weight": 2.0
+          },
+          {
+            "word": "그림책",
+            "weight": 2.0
+          },
+          {
+            "word": "토토북",
+            "weight": 2.0
+          },
+          {
+            "word": "정답",
+            "weight": 1.0
+          },
+          {
+            "word": "자신",
+            "weight": 1.0
+          },
+          {
+            "word": "초등학교",
+            "weight": 1.0
+          },
+          {
+            "word": "가슴",
+            "weight": 1.0
+          },
+          {
+            "word": "신입생",
+            "weight": 1.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "시간",
+            "weight": 1.0
+          },
+          {
+            "word": "수업",
+            "weight": 1.0
+          },
+          {
+            "word": "동화책",
+            "weight": 1.0
+          },
+          {
+            "word": "그림",
+            "weight": 1.0
+          },
+          {
+            "word": "교실",
+            "weight": 1.0
+          },
+          {
+            "word": "해주",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "수박 수영장 :안녕달 그림책 ",
+            "isbn13": "9788936446819",
+            "authors": "지은이: 안녕달"
+          },
+          {
+            "bookname": "슈퍼 거북 ",
+            "isbn13": "9788993242980",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "알사탕 ",
+            "isbn13": "9791158360375",
+            "authors": "백희나"
+          },
+          {
+            "bookname": "장수탕 선녀님 ",
+            "isbn13": "9788993242706",
+            "authors": "지은이: 백희나"
+          },
+          {
+            "bookname": "강아지똥 ",
+            "isbn13": "9788986621136",
+            "authors": "글: 권정생 ;그림: 정승각"
+          },
+          {
+            "bookname": "슈퍼 토끼 :유설화 그림책 ",
+            "isbn13": "9791158361839",
+            "authors": "유설화 글·그림"
+          },
+          {
+            "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+            "isbn13": "9791158362249",
+            "authors": "유설화"
+          },
+          {
+            "bookname": "오싹오싹 크레용! ",
+            "isbn13": "9788964964767",
+            "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+          },
+          {
+            "bookname": "두근두근 편의점 :김영진 그림책 ",
+            "isbn13": "9791158363178",
+            "authors": "지은이: 김영진"
+          },
+          {
+            "bookname": "팥빙수의 전설 :이지은 그림책 ",
+            "isbn13": "9788901232232",
+            "authors": "글·그림: 이지은"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "틀려도 괜찮아"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001451518",
+        "title": "틀려도 괜찮아",
+        "subtitle": "양장본 Hardcover",
+        "page": "30 p.",
+        "book_size": "210*248mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788990611260",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788990611260",
+      "isbn_add_code": "77830",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩9500",
+      "title": "틀려도 괜찮아",
+      "subtitle": "양장본 Hardcover",
+      "author": "마키타 신지 글;하세가와 토모코 그림;유문조 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "토토북",
+      "publish_year": "2006",
+      "publish_predate": "20060210",
+      "kdc": "833.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "30 p.",
+      "book_size": "210*248mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "\"아는 사람 손 들어봐\", \"할 수 있는 사람 나와 봐\"로 시작하는 수업 시간에 잘 모르는 아이, 자신이 없는 아이의 가슴은 오그라든다. 망설이는 초등학교 신입생들에게 교실이 틀려도 괜찮은 곳, 틀리면서 정답을 찾아가는 곳이라는 것을 깨닫게 해주는 그림 동화책이다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/62/27/cover/8990611261_2.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "어린이 출판사 편집장들이 뽑은",
+          "weight": 2.0
+        },
+        {
+          "word": "유문조",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "마키타 신지",
+          "weight": 2.0
+        },
+        {
+          "word": "그림책",
+          "weight": 2.0
+        },
+        {
+          "word": "토토북",
+          "weight": 2.0
+        },
+        {
+          "word": "정답",
+          "weight": 1.0
+        },
+        {
+          "word": "자신",
+          "weight": 1.0
+        },
+        {
+          "word": "초등학교",
+          "weight": 1.0
+        },
+        {
+          "word": "가슴",
+          "weight": 1.0
+        },
+        {
+          "word": "신입생",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "시간",
+          "weight": 1.0
+        },
+        {
+          "word": "수업",
+          "weight": 1.0
+        },
+        {
+          "word": "동화책",
+          "weight": 1.0
+        },
+        {
+          "word": "그림",
+          "weight": 1.0
+        },
+        {
+          "word": "교실",
+          "weight": 1.0
+        },
+        {
+          "word": "해주",
+          "weight": 1.0
+        }
+      ],
+      "description": "\"아는 사람 손 들어봐\", \"할 수 있는 사람 나와 봐\"로 시작하는 수업 시간에 잘 모르는 아이, 자신이 없는 아이의 가슴은 오그라든다. 망설이는 초등학교 신입생들에게 교실이 틀려도 괜찮은 곳, 틀리면서 정답을 찾아가는 곳이라는 것을 깨닫게 해주는 그림 동화책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "수박 수영장 :안녕달 그림책 ",
+          "isbn13": "9788936446819",
+          "authors": "지은이: 안녕달"
+        },
+        {
+          "bookname": "슈퍼 거북 ",
+          "isbn13": "9788993242980",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "알사탕 ",
+          "isbn13": "9791158360375",
+          "authors": "백희나"
+        },
+        {
+          "bookname": "장수탕 선녀님 ",
+          "isbn13": "9788993242706",
+          "authors": "지은이: 백희나"
+        },
+        {
+          "bookname": "강아지똥 ",
+          "isbn13": "9788986621136",
+          "authors": "글: 권정생 ;그림: 정승각"
+        },
+        {
+          "bookname": "슈퍼 토끼 :유설화 그림책 ",
+          "isbn13": "9791158361839",
+          "authors": "유설화 글·그림"
+        },
+        {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "isbn13": "9791158362249",
+          "authors": "유설화"
+        },
+        {
+          "bookname": "오싹오싹 크레용! ",
+          "isbn13": "9788964964767",
+          "authors": "글: 에런 레이놀즈 ;옮김: 홍연미"
+        },
+        {
+          "bookname": "두근두근 편의점 :김영진 그림책 ",
+          "isbn13": "9791158363178",
+          "authors": "지은이: 김영진"
+        },
+        {
+          "bookname": "팥빙수의 전설 :이지은 그림책 ",
+          "isbn13": "9788901232232",
+          "authors": "글·그림: 이지은"
+        }
+      ],
+      "title": "틀려도 괜찮아",
+      "author": "마키타 신지 글;하세가와 토모코 그림;유문조 옮김",
+      "kdc_from_api": "833.6",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

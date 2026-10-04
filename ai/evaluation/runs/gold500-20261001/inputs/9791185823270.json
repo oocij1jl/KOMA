@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791185823270",
+  "captured_at": "2026-10-02T00:22:56.362182+09:00",
+  "lookup": {
+    "isbn": "9791185823270",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185823270",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "마녀체력",
+      "subtitle": "마흔, 여자가 체력을 키워야 할 때",
+      "author": "이영미 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "남해의봄날",
+      "publish_year": "2018",
+      "publish_predate": "20180520",
+      "kdc": "517.3",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 위생학, 공공의학",
+      "ddc": "613",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "\"지금 운동을 시작하기엔 너무 늦은 게 아닐까?\" 고민하는 사람이라면, 더 늦기 전에 운동을 해 보고 싶지만 시간도 마음의 여유도, 의지도 부족하다면, 이 책을 보라! 30대에 고혈압 진단을 받고 숨만 쉬던 저자가 하나씩 운동에 도전, 철인 3종을 완주하게 되었다. 무엇이 저자를 이렇게 바꾼 것일까?",
+      "control_no": "CIP2018013289",
+      "cover_url": "http://image.aladin.co.kr/product/14646/34/cover/k192532757_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6645711_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "운동",
+          "weight": 16.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "인생",
+          "weight": 12.0
+        },
+        {
+          "word": "에디터",
+          "weight": 10.0
+        },
+        {
+          "word": "이영미",
+          "weight": 8.0
+        },
+        {
+          "word": "체력",
+          "weight": 8.0
+        },
+        {
+          "word": "나이",
+          "weight": 7.0
+        },
+        {
+          "word": "대편집자",
+          "weight": 6.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "하루",
+          "weight": 5.0
+        },
+        {
+          "word": "노동자",
+          "weight": 5.0
+        },
+        {
+          "word": "깨알",
+          "weight": 4.0
+        },
+        {
+          "word": "고혈압",
+          "weight": 4.0
+        },
+        {
+          "word": "Q A",
+          "weight": 4.0
+        },
+        {
+          "word": "처음",
+          "weight": 4.0
+        },
+        {
+          "word": "한국에세이",
+          "weight": 4.0
+        },
+        {
+          "word": "책상",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "나영석",
+          "weight": 3.0
+        },
+        {
+          "word": "근육",
+          "weight": 3.0
+        },
+        {
+          "word": "도전",
+          "weight": 3.0
+        },
+        {
+          "word": "철인",
+          "weight": 3.0
+        },
+        {
+          "word": "구혜",
+          "weight": 3.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "정혜윤",
+          "weight": 3.0
+        },
+        {
+          "word": "아침형",
+          "weight": 3.0
+        },
+        {
+          "word": "종일",
+          "weight": 3.0
+        },
+        {
+          "word": "25년",
+          "weight": 3.0
+        },
+        {
+          "word": "달리",
+          "weight": 3.0
+        },
+        {
+          "word": "저질",
+          "weight": 3.0
+        },
+        {
+          "word": "완주",
+          "weight": 3.0
+        },
+        {
+          "word": "몸치",
+          "weight": 3.0
+        },
+        {
+          "word": "저질체력",
+          "weight": 3.0
+        },
+        {
+          "word": "건강",
+          "weight": 3.0
+        },
+        {
+          "word": "이적",
+          "weight": 3.0
+        },
+        {
+          "word": "손미나",
+          "weight": 3.0
+        },
+        {
+          "word": "사무직",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "3종을",
+          "weight": 2.0
+        },
+        {
+          "word": "씨름",
+          "weight": 2.0
+        },
+        {
+          "word": "13년",
+          "weight": 2.0
+        },
+        {
+          "word": "수영",
+          "weight": 2.0
+        },
+        {
+          "word": "스트레스",
+          "weight": 2.0
+        },
+        {
+          "word": "것들",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        }
+      ],
+      "description": "\"지금 운동을 시작하기엔 너무 늦은 게 아닐까?\" 고민하는 사람이라면, 더 늦기 전에 운동을 해 보고 싶지만 시간도 마음의 여유도, 의지도 부족하다면, 이 책을 보라! 30대에 고혈압 진단을 받고 숨만 쉬던 저자가 하나씩 운동에 도전, 철인 3종을 완주하게 되었다. 무엇이 저자를 이렇게 바꾼 것일까?",
+      "co_loan_books": [
+        {
+          "bookname": "마녀엄마 :육아를 빙자한 마녀체력 엄마의 성장기록 ",
+          "isbn13": "9791185823638",
+          "authors": "이영미 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "미리, 슬슬 노후대책 :노년에 후회 없도록 대비하는 인생책 ",
+          "isbn13": "9791193027288",
+          "authors": "마녀체력 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "마녀체력",
+      "author": "이영미 지음",
+      "kdc_from_api": "517.3",
+      "ddc_from_api": "613",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "마녀체력",
+        "author": "이영미 지음",
+        "publisher": "남해의봄날",
+        "publish_predate": "20180520",
+        "isbn": "9791185823270",
+        "isbn_add_code": "03800",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "263 p.",
+        "book_size": "128*188",
+        "form": "종이책",
+        "kdc": "517.3",
+        "ddc": "613",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018013289",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6645711_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "마녀체력 :마흔, 여자가 체력을 키워야 할 때 ",
+        "author": "이영미 지음",
+        "publisher": "남해의봄날",
+        "publish_year": "2018",
+        "isbn": "1185823271",
+        "isbn13": "9791185823270",
+        "isbn_add_code": "03800",
+        "volume": "",
+        "class_no": "517.3",
+        "class_nm": "기술과학 > 의학 > 위생학, 공공의학",
+        "description": "\"지금 운동을 시작하기엔 너무 늦은 게 아닐까?\" 고민하는 사람이라면, 더 늦기 전에 운동을 해 보고 싶지만 시간도 마음의 여유도, 의지도 부족하다면, 이 책을 보라! 30대에 고혈압 진단을 받고 숨만 쉬던 저자가 하나씩 운동에 도전, 철인 3종을 완주하게 되었다. 무엇이 저자를 이렇게 바꾼 것일까?",
+        "cover_url": "http://image.aladin.co.kr/product/14646/34/cover/k192532757_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "운동",
+            "weight": 16.0
+          },
+          {
+            "word": "사람",
+            "weight": 15.0
+          },
+          {
+            "word": "인생",
+            "weight": 12.0
+          },
+          {
+            "word": "에디터",
+            "weight": 10.0
+          },
+          {
+            "word": "이영미",
+            "weight": 8.0
+          },
+          {
+            "word": "체력",
+            "weight": 8.0
+          },
+          {
+            "word": "나이",
+            "weight": 7.0
+          },
+          {
+            "word": "대편집자",
+            "weight": 6.0
+          },
+          {
+            "word": "시작",
+            "weight": 5.0
+          },
+          {
+            "word": "마음",
+            "weight": 5.0
+          },
+          {
+            "word": "하루",
+            "weight": 5.0
+          },
+          {
+            "word": "노동자",
+            "weight": 5.0
+          },
+          {
+            "word": "깨알",
+            "weight": 4.0
+          },
+          {
+            "word": "고혈압",
+            "weight": 4.0
+          },
+          {
+            "word": "Q A",
+            "weight": 4.0
+          },
+          {
+            "word": "처음",
+            "weight": 4.0
+          },
+          {
+            "word": "한국에세이",
+            "weight": 4.0
+          },
+          {
+            "word": "책상",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "경험",
+            "weight": 3.0
+          },
+          {
+            "word": "고민",
+            "weight": 3.0
+          },
+          {
+            "word": "자전거",
+            "weight": 3.0
+          },
+          {
+            "word": "나영석",
+            "weight": 3.0
+          },
+          {
+            "word": "근육",
+            "weight": 3.0
+          },
+          {
+            "word": "도전",
+            "weight": 3.0
+          },
+          {
+            "word": "철인",
+            "weight": 3.0
+          },
+          {
+            "word": "구혜",
+            "weight": 3.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 3.0
+          },
+          {
+            "word": "정혜윤",
+            "weight": 3.0
+          },
+          {
+            "word": "아침형",
+            "weight": 3.0
+          },
+          {
+            "word": "종일",
+            "weight": 3.0
+          },
+          {
+            "word": "25년",
+            "weight": 3.0
+          },
+          {
+            "word": "달리",
+            "weight": 3.0
+          },
+          {
+            "word": "저질",
+            "weight": 3.0
+          },
+          {
+            "word": "완주",
+            "weight": 3.0
+          },
+          {
+            "word": "몸치",
+            "weight": 3.0
+          },
+          {
+            "word": "저질체력",
+            "weight": 3.0
+          },
+          {
+            "word": "건강",
+            "weight": 3.0
+          },
+          {
+            "word": "이적",
+            "weight": 3.0
+          },
+          {
+            "word": "손미나",
+            "weight": 3.0
+          },
+          {
+            "word": "사무직",
+            "weight": 2.0
+          },
+          {
+            "word": "순간",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "3종을",
+            "weight": 2.0
+          },
+          {
+            "word": "씨름",
+            "weight": 2.0
+          },
+          {
+            "word": "13년",
+            "weight": 2.0
+          },
+          {
+            "word": "수영",
+            "weight": 2.0
+          },
+          {
+            "word": "스트레스",
+            "weight": 2.0
+          },
+          {
+            "word": "것들",
+            "weight": 2.0
+          },
+          {
+            "word": "아이",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "마녀엄마 :육아를 빙자한 마녀체력 엄마의 성장기록 ",
+            "isbn13": "9791185823638",
+            "authors": "이영미 지음"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+            "isbn13": "9788970128337",
+            "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+          },
+          {
+            "bookname": "순례 주택 :유은실 소설 ",
+            "isbn13": "9788949123493",
+            "authors": "지은이: 유은실"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+            "isbn13": "9791198013026",
+            "authors": "김미경 지음"
+          },
+          {
+            "bookname": "미리, 슬슬 노후대책 :노년에 후회 없도록 대비하는 인생책 ",
+            "isbn13": "9791193027288",
+            "authors": "마녀체력 지음"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "마녀체력 - 마흔, 여자가 체력을 키워야 할 때"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001874053",
+        "title": "마녀체력",
+        "subtitle": "마흔, 여자가 체력을 키워야 할 때",
+        "page": "272 p.",
+        "book_size": "128*189mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791185823270",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185823270",
+      "isbn_add_code": "03800",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "마녀체력",
+      "subtitle": "마흔, 여자가 체력을 키워야 할 때",
+      "author": "이영미 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "남해의봄날",
+      "publish_year": "2018",
+      "publish_predate": "20180520",
+      "kdc": "517.3",
+      "kdc_edition": "",
+      "kdc_name": "기술과학 > 의학 > 위생학, 공공의학",
+      "ddc": "613",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "128*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "\"지금 운동을 시작하기엔 너무 늦은 게 아닐까?\" 고민하는 사람이라면, 더 늦기 전에 운동을 해 보고 싶지만 시간도 마음의 여유도, 의지도 부족하다면, 이 책을 보라! 30대에 고혈압 진단을 받고 숨만 쉬던 저자가 하나씩 운동에 도전, 철인 3종을 완주하게 되었다. 무엇이 저자를 이렇게 바꾼 것일까?",
+      "control_no": "CIP2018013289",
+      "cover_url": "http://image.aladin.co.kr/product/14646/34/cover/k192532757_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6645711_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "운동",
+          "weight": 16.0
+        },
+        {
+          "word": "사람",
+          "weight": 15.0
+        },
+        {
+          "word": "인생",
+          "weight": 12.0
+        },
+        {
+          "word": "에디터",
+          "weight": 10.0
+        },
+        {
+          "word": "이영미",
+          "weight": 8.0
+        },
+        {
+          "word": "체력",
+          "weight": 8.0
+        },
+        {
+          "word": "나이",
+          "weight": 7.0
+        },
+        {
+          "word": "대편집자",
+          "weight": 6.0
+        },
+        {
+          "word": "시작",
+          "weight": 5.0
+        },
+        {
+          "word": "마음",
+          "weight": 5.0
+        },
+        {
+          "word": "하루",
+          "weight": 5.0
+        },
+        {
+          "word": "노동자",
+          "weight": 5.0
+        },
+        {
+          "word": "깨알",
+          "weight": 4.0
+        },
+        {
+          "word": "고혈압",
+          "weight": 4.0
+        },
+        {
+          "word": "Q A",
+          "weight": 4.0
+        },
+        {
+          "word": "처음",
+          "weight": 4.0
+        },
+        {
+          "word": "한국에세이",
+          "weight": 4.0
+        },
+        {
+          "word": "책상",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "경험",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "자전거",
+          "weight": 3.0
+        },
+        {
+          "word": "나영석",
+          "weight": 3.0
+        },
+        {
+          "word": "근육",
+          "weight": 3.0
+        },
+        {
+          "word": "도전",
+          "weight": 3.0
+        },
+        {
+          "word": "철인",
+          "weight": 3.0
+        },
+        {
+          "word": "구혜",
+          "weight": 3.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 3.0
+        },
+        {
+          "word": "정혜윤",
+          "weight": 3.0
+        },
+        {
+          "word": "아침형",
+          "weight": 3.0
+        },
+        {
+          "word": "종일",
+          "weight": 3.0
+        },
+        {
+          "word": "25년",
+          "weight": 3.0
+        },
+        {
+          "word": "달리",
+          "weight": 3.0
+        },
+        {
+          "word": "저질",
+          "weight": 3.0
+        },
+        {
+          "word": "완주",
+          "weight": 3.0
+        },
+        {
+          "word": "몸치",
+          "weight": 3.0
+        },
+        {
+          "word": "저질체력",
+          "weight": 3.0
+        },
+        {
+          "word": "건강",
+          "weight": 3.0
+        },
+        {
+          "word": "이적",
+          "weight": 3.0
+        },
+        {
+          "word": "손미나",
+          "weight": 3.0
+        },
+        {
+          "word": "사무직",
+          "weight": 2.0
+        },
+        {
+          "word": "순간",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "3종을",
+          "weight": 2.0
+        },
+        {
+          "word": "씨름",
+          "weight": 2.0
+        },
+        {
+          "word": "13년",
+          "weight": 2.0
+        },
+        {
+          "word": "수영",
+          "weight": 2.0
+        },
+        {
+          "word": "스트레스",
+          "weight": 2.0
+        },
+        {
+          "word": "것들",
+          "weight": 2.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        }
+      ],
+      "description": "\"지금 운동을 시작하기엔 너무 늦은 게 아닐까?\" 고민하는 사람이라면, 더 늦기 전에 운동을 해 보고 싶지만 시간도 마음의 여유도, 의지도 부족하다면, 이 책을 보라! 30대에 고혈압 진단을 받고 숨만 쉬던 저자가 하나씩 운동에 도전, 철인 3종을 완주하게 되었다. 무엇이 저자를 이렇게 바꾼 것일까?",
+      "co_loan_books": [
+        {
+          "bookname": "마녀엄마 :육아를 빙자한 마녀체력 엄마의 성장기록 ",
+          "isbn13": "9791185823638",
+          "authors": "이영미 지음"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "달리기를 말할 때 내가 하고 싶은 이야기 =What I talk about when I talk about running ",
+          "isbn13": "9788970128337",
+          "authors": "무라카미 하루키 지음 ;임홍빈 옮김"
+        },
+        {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "isbn13": "9788949123493",
+          "authors": "지은이: 유은실"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "isbn13": "9791198013026",
+          "authors": "김미경 지음"
+        },
+        {
+          "bookname": "미리, 슬슬 노후대책 :노년에 후회 없도록 대비하는 인생책 ",
+          "isbn13": "9791193027288",
+          "authors": "마녀체력 지음"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "마녀체력",
+      "author": "이영미 지음",
+      "kdc_from_api": "517.3",
+      "ddc_from_api": "613",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

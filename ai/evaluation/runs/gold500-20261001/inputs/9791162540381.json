@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791162540381",
+  "captured_at": "2026-10-03T00:11:47.573060+09:00",
+  "lookup": {
+    "isbn": "9791162540381",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162540381",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16800",
+      "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까",
+      "subtitle": "5년 만에 자산을 100배로 불린 투자고수 렘군의 단기속성 부동산 스쿨",
+      "author": "김재수 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "비즈니스북스",
+      "publish_year": "2018",
+      "publish_predate": "20180915",
+      "kdc": "327.87",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "152*225",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "생계형 외벌이 노동자였던 저자가 부동산 투자를 통해 자산을 100배로 불리고 경제적 자유를 누리게 된 과정과 그 투자전략을 담고 있다. ‘내 집 하나 마련해보리라’는 간절한 마음으로 시작해 유망 아파트 30채를 보유하게 되기까지 7년 동안 부동산 투자를 하면서 깨달은 것, 경험했던 것을 원칙별로 정리해놓았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/16639/21/cover/k442534369_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부동산",
+          "weight": 49.0
+        },
+        {
+          "word": "투자",
+          "weight": 38.0
+        },
+        {
+          "word": "아파트",
+          "weight": 12.0
+        },
+        {
+          "word": "렘군",
+          "weight": 10.0
+        },
+        {
+          "word": "방법",
+          "weight": 8.0
+        },
+        {
+          "word": "공부",
+          "weight": 8.0
+        },
+        {
+          "word": "지역",
+          "weight": 8.0
+        },
+        {
+          "word": "신도시",
+          "weight": 8.0
+        },
+        {
+          "word": "구도심",
+          "weight": 8.0
+        },
+        {
+          "word": "시작",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "가지",
+          "weight": 7.0
+        },
+        {
+          "word": "가격",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "전국",
+          "weight": 7.0
+        },
+        {
+          "word": "간절",
+          "weight": 6.0
+        },
+        {
+          "word": "상승",
+          "weight": 6.0
+        },
+        {
+          "word": "유망",
+          "weight": 6.0
+        },
+        {
+          "word": "경제적",
+          "weight": 6.0
+        },
+        {
+          "word": "입주물량",
+          "weight": 5.0
+        },
+        {
+          "word": "흐름",
+          "weight": 5.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 5.0
+        },
+        {
+          "word": "자유",
+          "weight": 5.0
+        },
+        {
+          "word": "타이밍",
+          "weight": 5.0
+        },
+        {
+          "word": "투자자",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "마련",
+          "weight": 5.0
+        },
+        {
+          "word": "데이터",
+          "weight": 5.0
+        },
+        {
+          "word": "노하우",
+          "weight": 5.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "빅데이터",
+          "weight": 5.0
+        },
+        {
+          "word": "월세",
+          "weight": 4.0
+        },
+        {
+          "word": "분석",
+          "weight": 4.0
+        },
+        {
+          "word": "100배",
+          "weight": 4.0
+        },
+        {
+          "word": "성공",
+          "weight": 4.0
+        },
+        {
+          "word": "10년",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "보유",
+          "weight": 4.0
+        },
+        {
+          "word": "빠숑",
+          "weight": 4.0
+        },
+        {
+          "word": "30채",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 4.0
+        },
+        {
+          "word": "사이클",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "실현",
+          "weight": 4.0
+        },
+        {
+          "word": "7년",
+          "weight": 4.0
+        },
+        {
+          "word": "누리",
+          "weight": 4.0
+        },
+        {
+          "word": "zip",
+          "weight": 4.0
+        },
+        {
+          "word": "원칙",
+          "weight": 4.0
+        },
+        {
+          "word": "자산",
+          "weight": 4.0
+        },
+        {
+          "word": "인구",
+          "weight": 4.0
+        }
+      ],
+      "description": "생계형 외벌이 노동자였던 저자가 부동산 투자를 통해 자산을 100배로 불리고 경제적 자유를 누리게 된 과정과 그 투자전략을 담고 있다. ‘내 집 하나 마련해보리라’는 간절한 마음으로 시작해 유망 아파트 30채를 보유하게 되기까지 7년 동안 부동산 투자를 하면서 깨달은 것, 경험했던 것을 원칙별로 정리해놓았다.",
+      "co_loan_books": [
+        {
+          "bookname": "딱 2년 안에 무조건 돈 버는 부동산 투자 시크릿 ",
+          "isbn13": "9791162542521",
+          "authors": "김세희 지음"
+        },
+        {
+          "bookname": "월급쟁이 부자로 은퇴하라 :3년 만에 30년 치 연봉을 번 김 과장의 시스템 마련법 ",
+          "isbn13": "9788925566511",
+          "authors": "너나위 지음"
+        },
+        {
+          "bookname": "나는 오늘도 경제적 자유를 꿈꾼다 ",
+          "isbn13": "9788925564289",
+          "authors": "청울림 지음"
+        },
+        {
+          "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+          "isbn13": "9788901259307",
+          "authors": "정태익"
+        },
+        {
+          "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+          "isbn13": "9788901259314",
+          "authors": "정태익"
+        },
+        {
+          "bookname": "나는 마트 대신 부동산에 간다 :3천만 원으로 6년 만에 아파트 15채 보유 ",
+          "isbn13": "9788947541473",
+          "authors": "김유라 지음"
+        },
+        {
+          "bookname": "나는 부동산과 맞벌이한다 :배우자 대신 꼬박꼬박 월급을 가져오는 시스템 만들기 ",
+          "isbn13": "9788952773487",
+          "authors": "너바나 지음"
+        },
+        {
+          "bookname": "(대한민국 부동산 초보를 위한) 아파트 투자의 정석 :마흔 전에 내 집 마련부터 부동산 투자까지 ",
+          "isbn13": "9791162541326",
+          "authors": "제네시스박 지음"
+        },
+        {
+          "bookname": "월급쟁이 부자로 은퇴하라 :월급쟁이에서 100억 자산가로 변신한 '아는 선배'의 시스템 마련법 ",
+          "isbn13": "9788925578156",
+          "authors": "너나위 지음"
+        },
+        {
+          "bookname": "입지 센스 :한 번의 선택으로 부의 계급을 높이는 부동산 투자의 감각 ",
+          "isbn13": "9791130692074",
+          "authors": "훨훨 지음"
+        }
+      ],
+      "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까",
+      "author": "김재수 지음",
+      "kdc_from_api": "327.87",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까",
+        "author": "김재수 지음",
+        "publisher": "비즈니스북스",
+        "publish_predate": "20180915",
+        "isbn": "9791162540381",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "342 p.",
+        "book_size": "152*225",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까 :5년 만에 자산을 100배 불린 투자고수 렘군의 단기속성 부동산 스쿨 ",
+        "author": "김재수 지음",
+        "publisher": "비즈니스북스",
+        "publish_year": "2018",
+        "isbn": "1162540389",
+        "isbn13": "9791162540381",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "327.87",
+        "class_nm": "사회과학 > 경제학 > 금융",
+        "description": "생계형 외벌이 노동자였던 저자가 부동산 투자를 통해 자산을 100배로 불리고 경제적 자유를 누리게 된 과정과 그 투자전략을 담고 있다. ‘내 집 하나 마련해보리라’는 간절한 마음으로 시작해 유망 아파트 30채를 보유하게 되기까지 7년 동안 부동산 투자를 하면서 깨달은 것, 경험했던 것을 원칙별로 정리해놓았다.",
+        "cover_url": "https://image.aladin.co.kr/product/16639/21/cover/k442534369_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "부동산",
+            "weight": 49.0
+          },
+          {
+            "word": "투자",
+            "weight": 38.0
+          },
+          {
+            "word": "아파트",
+            "weight": 12.0
+          },
+          {
+            "word": "렘군",
+            "weight": 10.0
+          },
+          {
+            "word": "방법",
+            "weight": 8.0
+          },
+          {
+            "word": "공부",
+            "weight": 8.0
+          },
+          {
+            "word": "지역",
+            "weight": 8.0
+          },
+          {
+            "word": "신도시",
+            "weight": 8.0
+          },
+          {
+            "word": "구도심",
+            "weight": 8.0
+          },
+          {
+            "word": "시작",
+            "weight": 8.0
+          },
+          {
+            "word": "자신",
+            "weight": 7.0
+          },
+          {
+            "word": "가지",
+            "weight": 7.0
+          },
+          {
+            "word": "가격",
+            "weight": 7.0
+          },
+          {
+            "word": "사람",
+            "weight": 7.0
+          },
+          {
+            "word": "전국",
+            "weight": 7.0
+          },
+          {
+            "word": "간절",
+            "weight": 6.0
+          },
+          {
+            "word": "상승",
+            "weight": 6.0
+          },
+          {
+            "word": "유망",
+            "weight": 6.0
+          },
+          {
+            "word": "경제적",
+            "weight": 6.0
+          },
+          {
+            "word": "입주물량",
+            "weight": 5.0
+          },
+          {
+            "word": "흐름",
+            "weight": 5.0
+          },
+          {
+            "word": "대한민국",
+            "weight": 5.0
+          },
+          {
+            "word": "자유",
+            "weight": 5.0
+          },
+          {
+            "word": "타이밍",
+            "weight": 5.0
+          },
+          {
+            "word": "투자자",
+            "weight": 5.0
+          },
+          {
+            "word": "세상",
+            "weight": 5.0
+          },
+          {
+            "word": "마련",
+            "weight": 5.0
+          },
+          {
+            "word": "데이터",
+            "weight": 5.0
+          },
+          {
+            "word": "노하우",
+            "weight": 5.0
+          },
+          {
+            "word": "과정",
+            "weight": 5.0
+          },
+          {
+            "word": "빅데이터",
+            "weight": 5.0
+          },
+          {
+            "word": "월세",
+            "weight": 4.0
+          },
+          {
+            "word": "분석",
+            "weight": 4.0
+          },
+          {
+            "word": "100배",
+            "weight": 4.0
+          },
+          {
+            "word": "성공",
+            "weight": 4.0
+          },
+          {
+            "word": "10년",
+            "weight": 4.0
+          },
+          {
+            "word": "마음",
+            "weight": 4.0
+          },
+          {
+            "word": "보유",
+            "weight": 4.0
+          },
+          {
+            "word": "빠숑",
+            "weight": 4.0
+          },
+          {
+            "word": "30채",
+            "weight": 4.0
+          },
+          {
+            "word": "인생",
+            "weight": 4.0
+          },
+          {
+            "word": "사이클",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "실현",
+            "weight": 4.0
+          },
+          {
+            "word": "7년",
+            "weight": 4.0
+          },
+          {
+            "word": "누리",
+            "weight": 4.0
+          },
+          {
+            "word": "zip",
+            "weight": 4.0
+          },
+          {
+            "word": "원칙",
+            "weight": 4.0
+          },
+          {
+            "word": "자산",
+            "weight": 4.0
+          },
+          {
+            "word": "인구",
+            "weight": 4.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "딱 2년 안에 무조건 돈 버는 부동산 투자 시크릿 ",
+            "isbn13": "9791162542521",
+            "authors": "김세희 지음"
+          },
+          {
+            "bookname": "월급쟁이 부자로 은퇴하라 :3년 만에 30년 치 연봉을 번 김 과장의 시스템 마련법 ",
+            "isbn13": "9788925566511",
+            "authors": "너나위 지음"
+          },
+          {
+            "bookname": "나는 오늘도 경제적 자유를 꿈꾼다 ",
+            "isbn13": "9788925564289",
+            "authors": "청울림 지음"
+          },
+          {
+            "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+            "isbn13": "9788901259307",
+            "authors": "정태익"
+          },
+          {
+            "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+            "isbn13": "9788901259314",
+            "authors": "정태익"
+          },
+          {
+            "bookname": "나는 마트 대신 부동산에 간다 :3천만 원으로 6년 만에 아파트 15채 보유 ",
+            "isbn13": "9788947541473",
+            "authors": "김유라 지음"
+          },
+          {
+            "bookname": "나는 부동산과 맞벌이한다 :배우자 대신 꼬박꼬박 월급을 가져오는 시스템 만들기 ",
+            "isbn13": "9788952773487",
+            "authors": "너바나 지음"
+          },
+          {
+            "bookname": "(대한민국 부동산 초보를 위한) 아파트 투자의 정석 :마흔 전에 내 집 마련부터 부동산 투자까지 ",
+            "isbn13": "9791162541326",
+            "authors": "제네시스박 지음"
+          },
+          {
+            "bookname": "월급쟁이 부자로 은퇴하라 :월급쟁이에서 100억 자산가로 변신한 '아는 선배'의 시스템 마련법 ",
+            "isbn13": "9788925578156",
+            "authors": "너나위 지음"
+          },
+          {
+            "bookname": "입지 센스 :한 번의 선택으로 부의 계급을 높이는 부동산 투자의 감각 ",
+            "isbn13": "9791130692074",
+            "authors": "훨훨 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001813640",
+        "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까?",
+        "subtitle": "5년 만에 자산을 100배로 불린 투자고수 렘군의 단기속성 부동산 스쿨",
+        "page": "344 p.",
+        "book_size": "154*226mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791162540381",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791162540381",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16800",
+      "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까",
+      "subtitle": "5년 만에 자산을 100배로 불린 투자고수 렘군의 단기속성 부동산 스쿨",
+      "author": "김재수 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "비즈니스북스",
+      "publish_year": "2018",
+      "publish_predate": "20180915",
+      "kdc": "327.87",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "152*225",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "생계형 외벌이 노동자였던 저자가 부동산 투자를 통해 자산을 100배로 불리고 경제적 자유를 누리게 된 과정과 그 투자전략을 담고 있다. ‘내 집 하나 마련해보리라’는 간절한 마음으로 시작해 유망 아파트 30채를 보유하게 되기까지 7년 동안 부동산 투자를 하면서 깨달은 것, 경험했던 것을 원칙별로 정리해놓았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/16639/21/cover/k442534369_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부동산",
+          "weight": 49.0
+        },
+        {
+          "word": "투자",
+          "weight": 38.0
+        },
+        {
+          "word": "아파트",
+          "weight": 12.0
+        },
+        {
+          "word": "렘군",
+          "weight": 10.0
+        },
+        {
+          "word": "방법",
+          "weight": 8.0
+        },
+        {
+          "word": "공부",
+          "weight": 8.0
+        },
+        {
+          "word": "지역",
+          "weight": 8.0
+        },
+        {
+          "word": "신도시",
+          "weight": 8.0
+        },
+        {
+          "word": "구도심",
+          "weight": 8.0
+        },
+        {
+          "word": "시작",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 7.0
+        },
+        {
+          "word": "가지",
+          "weight": 7.0
+        },
+        {
+          "word": "가격",
+          "weight": 7.0
+        },
+        {
+          "word": "사람",
+          "weight": 7.0
+        },
+        {
+          "word": "전국",
+          "weight": 7.0
+        },
+        {
+          "word": "간절",
+          "weight": 6.0
+        },
+        {
+          "word": "상승",
+          "weight": 6.0
+        },
+        {
+          "word": "유망",
+          "weight": 6.0
+        },
+        {
+          "word": "경제적",
+          "weight": 6.0
+        },
+        {
+          "word": "입주물량",
+          "weight": 5.0
+        },
+        {
+          "word": "흐름",
+          "weight": 5.0
+        },
+        {
+          "word": "대한민국",
+          "weight": 5.0
+        },
+        {
+          "word": "자유",
+          "weight": 5.0
+        },
+        {
+          "word": "타이밍",
+          "weight": 5.0
+        },
+        {
+          "word": "투자자",
+          "weight": 5.0
+        },
+        {
+          "word": "세상",
+          "weight": 5.0
+        },
+        {
+          "word": "마련",
+          "weight": 5.0
+        },
+        {
+          "word": "데이터",
+          "weight": 5.0
+        },
+        {
+          "word": "노하우",
+          "weight": 5.0
+        },
+        {
+          "word": "과정",
+          "weight": 5.0
+        },
+        {
+          "word": "빅데이터",
+          "weight": 5.0
+        },
+        {
+          "word": "월세",
+          "weight": 4.0
+        },
+        {
+          "word": "분석",
+          "weight": 4.0
+        },
+        {
+          "word": "100배",
+          "weight": 4.0
+        },
+        {
+          "word": "성공",
+          "weight": 4.0
+        },
+        {
+          "word": "10년",
+          "weight": 4.0
+        },
+        {
+          "word": "마음",
+          "weight": 4.0
+        },
+        {
+          "word": "보유",
+          "weight": 4.0
+        },
+        {
+          "word": "빠숑",
+          "weight": 4.0
+        },
+        {
+          "word": "30채",
+          "weight": 4.0
+        },
+        {
+          "word": "인생",
+          "weight": 4.0
+        },
+        {
+          "word": "사이클",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "실현",
+          "weight": 4.0
+        },
+        {
+          "word": "7년",
+          "weight": 4.0
+        },
+        {
+          "word": "누리",
+          "weight": 4.0
+        },
+        {
+          "word": "zip",
+          "weight": 4.0
+        },
+        {
+          "word": "원칙",
+          "weight": 4.0
+        },
+        {
+          "word": "자산",
+          "weight": 4.0
+        },
+        {
+          "word": "인구",
+          "weight": 4.0
+        }
+      ],
+      "description": "생계형 외벌이 노동자였던 저자가 부동산 투자를 통해 자산을 100배로 불리고 경제적 자유를 누리게 된 과정과 그 투자전략을 담고 있다. ‘내 집 하나 마련해보리라’는 간절한 마음으로 시작해 유망 아파트 30채를 보유하게 되기까지 7년 동안 부동산 투자를 하면서 깨달은 것, 경험했던 것을 원칙별로 정리해놓았다.",
+      "co_loan_books": [
+        {
+          "bookname": "딱 2년 안에 무조건 돈 버는 부동산 투자 시크릿 ",
+          "isbn13": "9791162542521",
+          "authors": "김세희 지음"
+        },
+        {
+          "bookname": "월급쟁이 부자로 은퇴하라 :3년 만에 30년 치 연봉을 번 김 과장의 시스템 마련법 ",
+          "isbn13": "9788925566511",
+          "authors": "너나위 지음"
+        },
+        {
+          "bookname": "나는 오늘도 경제적 자유를 꿈꾼다 ",
+          "isbn13": "9788925564289",
+          "authors": "청울림 지음"
+        },
+        {
+          "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+          "isbn13": "9788901259307",
+          "authors": "정태익"
+        },
+        {
+          "bookname": "(운명을 바꾸는) 부동산 투자 수업 :82만 명의 투자 멘토 '부동산읽어주는남자' 정태익의 반드시 읽어야 할 부동산 트렌드 ",
+          "isbn13": "9788901259314",
+          "authors": "정태익"
+        },
+        {
+          "bookname": "나는 마트 대신 부동산에 간다 :3천만 원으로 6년 만에 아파트 15채 보유 ",
+          "isbn13": "9788947541473",
+          "authors": "김유라 지음"
+        },
+        {
+          "bookname": "나는 부동산과 맞벌이한다 :배우자 대신 꼬박꼬박 월급을 가져오는 시스템 만들기 ",
+          "isbn13": "9788952773487",
+          "authors": "너바나 지음"
+        },
+        {
+          "bookname": "(대한민국 부동산 초보를 위한) 아파트 투자의 정석 :마흔 전에 내 집 마련부터 부동산 투자까지 ",
+          "isbn13": "9791162541326",
+          "authors": "제네시스박 지음"
+        },
+        {
+          "bookname": "월급쟁이 부자로 은퇴하라 :월급쟁이에서 100억 자산가로 변신한 '아는 선배'의 시스템 마련법 ",
+          "isbn13": "9788925578156",
+          "authors": "너나위 지음"
+        },
+        {
+          "bookname": "입지 센스 :한 번의 선택으로 부의 계급을 높이는 부동산 투자의 감각 ",
+          "isbn13": "9791130692074",
+          "authors": "훨훨 지음"
+        }
+      ],
+      "title": "10년 동안 적금밖에 모르던 39세 김 과장은 어떻게 1년 만에 부동산 천재가 됐을까",
+      "author": "김재수 지음",
+      "kdc_from_api": "327.87",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

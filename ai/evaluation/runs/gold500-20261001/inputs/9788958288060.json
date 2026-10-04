@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788958288060",
+  "captured_at": "2026-10-03T00:19:55.976955+09:00",
+  "lookup": {
+    "isbn": "9788958288060",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958288060",
+      "isbn_add_code": "73980",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "세계 나라 사전",
+      "subtitle": "양장본 Hardcover",
+      "author": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)사계절출판사",
+      "publish_year": "2017",
+      "publish_predate": "20170303",
+      "kdc": "980",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 지리 > 지리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "211 p.",
+      "book_size": "154*218mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "세계 197개 나라를 소개하는 책이다. 각 나라의 인사말과 언어, 종교, 전통 문화, 국기 등을 상세히 소개했다. 이 책은 초등학생이라면 누구나 쉽게 볼 수 있게 재미있는 그림과 친절한 설명글로 구성되어 있다.",
+      "control_no": "CIP2017000481",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "나라",
+          "weight": 25.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "언어",
+          "weight": 10.0
+        },
+        {
+          "word": "소개",
+          "weight": 9.0
+        },
+        {
+          "word": "문화",
+          "weight": 8.0
+        },
+        {
+          "word": "다문화",
+          "weight": 8.0
+        },
+        {
+          "word": "197개",
+          "weight": 7.0
+        },
+        {
+          "word": "교육",
+          "weight": 6.0
+        },
+        {
+          "word": "국기",
+          "weight": 6.0
+        },
+        {
+          "word": "사회",
+          "weight": 5.0
+        },
+        {
+          "word": "내용",
+          "weight": 5.0
+        },
+        {
+          "word": "종교",
+          "weight": 5.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "구성",
+          "weight": 4.0
+        },
+        {
+          "word": "인구",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "북한",
+          "weight": 3.0
+        },
+        {
+          "word": "니우",
+          "weight": 3.0
+        },
+        {
+          "word": "국가",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "쿡제",
+          "weight": 3.0
+        },
+        {
+          "word": "혐오",
+          "weight": 3.0
+        },
+        {
+          "word": "면적",
+          "weight": 3.0
+        },
+        {
+          "word": "신기",
+          "weight": 3.0
+        },
+        {
+          "word": "정확",
+          "weight": 3.0
+        },
+        {
+          "word": "외국인",
+          "weight": 3.0
+        },
+        {
+          "word": "가입",
+          "weight": 3.0
+        },
+        {
+          "word": "시차",
+          "weight": 3.0
+        },
+        {
+          "word": "지도",
+          "weight": 3.0
+        },
+        {
+          "word": "상세",
+          "weight": 3.0
+        },
+        {
+          "word": "통화",
+          "weight": 3.0
+        },
+        {
+          "word": "국제",
+          "weight": 3.0
+        },
+        {
+          "word": "증오",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "문화 예술 인물",
+          "weight": 2.0
+        },
+        {
+          "word": "배열",
+          "weight": 2.0
+        },
+        {
+          "word": "가나다라",
+          "weight": 2.0
+        },
+        {
+          "word": "여부",
+          "weight": 2.0
+        },
+        {
+          "word": "오세아니아",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아",
+          "weight": 2.0
+        },
+        {
+          "word": "순서",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "국제연합",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "상징물",
+          "weight": 2.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 2.0
+        },
+        {
+          "word": "고려",
+          "weight": 2.0
+        },
+        {
+          "word": "아프리카",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문화",
+          "weight": 2.0
+        },
+        {
+          "word": "외교부",
+          "weight": 2.0
+        }
+      ],
+      "description": "세계 197개 나라를 소개하는 책이다. 각 나라의 인사말과 언어, 종교, 전통 문화, 국기 등을 상세히 소개했다. 이 책은 초등학생이라면 누구나 쉽게 볼 수 있게 재미있는 그림과 친절한 설명글로 구성되어 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164131686",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+          "isbn13": "9791158682798",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164132454",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168411029",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134847",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168414471",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "세계 나라 사전",
+      "author": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+      "kdc_from_api": "980",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "세계 나라 사전",
+        "author": "테즈카 아케미",
+        "publisher": "(주)사계절출판사",
+        "publish_predate": "20170303",
+        "isbn": "9788958288060",
+        "isbn_add_code": "73980",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩15000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "220",
+        "book_size": "",
+        "form": "",
+        "kdc": "980",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017000481",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_5.jpg"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "세계 나라 사전 =World picture dictionary ",
+        "author": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+        "publisher": "사계절",
+        "publish_year": "2017",
+        "isbn": "895828806X",
+        "isbn13": "9788958288060",
+        "isbn_add_code": "73980",
+        "volume": "",
+        "class_no": "980",
+        "class_nm": "역사 > 지리 > 지리",
+        "description": "세계 197개 나라를 소개하는 책이다. 각 나라의 인사말과 언어, 종교, 전통 문화, 국기 등을 상세히 소개했다. 이 책은 초등학생이라면 누구나 쉽게 볼 수 있게 재미있는 그림과 친절한 설명글로 구성되어 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/10411/96/cover/895828806x_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "나라",
+            "weight": 25.0
+          },
+          {
+            "word": "세계",
+            "weight": 11.0
+          },
+          {
+            "word": "언어",
+            "weight": 10.0
+          },
+          {
+            "word": "소개",
+            "weight": 9.0
+          },
+          {
+            "word": "문화",
+            "weight": 8.0
+          },
+          {
+            "word": "다문화",
+            "weight": 8.0
+          },
+          {
+            "word": "197개",
+            "weight": 7.0
+          },
+          {
+            "word": "교육",
+            "weight": 6.0
+          },
+          {
+            "word": "국기",
+            "weight": 6.0
+          },
+          {
+            "word": "사회",
+            "weight": 5.0
+          },
+          {
+            "word": "내용",
+            "weight": 5.0
+          },
+          {
+            "word": "종교",
+            "weight": 5.0
+          },
+          {
+            "word": "그림",
+            "weight": 4.0
+          },
+          {
+            "word": "구성",
+            "weight": 4.0
+          },
+          {
+            "word": "인구",
+            "weight": 3.0
+          },
+          {
+            "word": "누구",
+            "weight": 3.0
+          },
+          {
+            "word": "북한",
+            "weight": 3.0
+          },
+          {
+            "word": "니우",
+            "weight": 3.0
+          },
+          {
+            "word": "국가",
+            "weight": 3.0
+          },
+          {
+            "word": "초등학생",
+            "weight": 3.0
+          },
+          {
+            "word": "쿡제",
+            "weight": 3.0
+          },
+          {
+            "word": "혐오",
+            "weight": 3.0
+          },
+          {
+            "word": "면적",
+            "weight": 3.0
+          },
+          {
+            "word": "신기",
+            "weight": 3.0
+          },
+          {
+            "word": "정확",
+            "weight": 3.0
+          },
+          {
+            "word": "외국인",
+            "weight": 3.0
+          },
+          {
+            "word": "가입",
+            "weight": 3.0
+          },
+          {
+            "word": "시차",
+            "weight": 3.0
+          },
+          {
+            "word": "지도",
+            "weight": 3.0
+          },
+          {
+            "word": "상세",
+            "weight": 3.0
+          },
+          {
+            "word": "통화",
+            "weight": 3.0
+          },
+          {
+            "word": "국제",
+            "weight": 3.0
+          },
+          {
+            "word": "증오",
+            "weight": 3.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "문화 예술 인물",
+            "weight": 2.0
+          },
+          {
+            "word": "배열",
+            "weight": 2.0
+          },
+          {
+            "word": "가나다라",
+            "weight": 2.0
+          },
+          {
+            "word": "여부",
+            "weight": 2.0
+          },
+          {
+            "word": "오세아니아",
+            "weight": 2.0
+          },
+          {
+            "word": "아시아",
+            "weight": 2.0
+          },
+          {
+            "word": "순서",
+            "weight": 2.0
+          },
+          {
+            "word": "수도",
+            "weight": 2.0
+          },
+          {
+            "word": "국제연합",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "상징물",
+            "weight": 2.0
+          },
+          {
+            "word": "우리나라",
+            "weight": 2.0
+          },
+          {
+            "word": "고려",
+            "weight": 2.0
+          },
+          {
+            "word": "아프리카",
+            "weight": 2.0
+          },
+          {
+            "word": "세계문화",
+            "weight": 2.0
+          },
+          {
+            "word": "외교부",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164131686",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134267",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+            "isbn13": "9791158682798",
+            "authors": "글·그림: 한날"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164132454",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "에그박사 :Egg&bugs",
+            "isbn13": "9791168411029",
+            "authors": "원작: 에그박사 ;그림: 홍종현"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168411685",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164134847",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791168414471",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164138197",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          },
+          {
+            "bookname": "흔한남매",
+            "isbn13": "9791164137527",
+            "authors": "원작: 흔한남매 ;그림: 유난희"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "세계 나라 사전"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000869977",
+        "title": "세계 나라 사전",
+        "subtitle": "양장본 Hardcover",
+        "page": "211 p.",
+        "book_size": "154*218mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788958288060",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788958288060",
+      "isbn_add_code": "73980",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩15000",
+      "title": "세계 나라 사전",
+      "subtitle": "양장본 Hardcover",
+      "author": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "(주)사계절출판사",
+      "publish_year": "2017",
+      "publish_predate": "20170303",
+      "kdc": "980",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 지리 > 지리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "211 p.",
+      "book_size": "154*218mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "세계 197개 나라를 소개하는 책이다. 각 나라의 인사말과 언어, 종교, 전통 문화, 국기 등을 상세히 소개했다. 이 책은 초등학생이라면 누구나 쉽게 볼 수 있게 재미있는 그림과 친절한 설명글로 구성되어 있다.",
+      "control_no": "CIP2017000481",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5903964_5.jpg",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "d4l",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "나라",
+          "weight": 25.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "언어",
+          "weight": 10.0
+        },
+        {
+          "word": "소개",
+          "weight": 9.0
+        },
+        {
+          "word": "문화",
+          "weight": 8.0
+        },
+        {
+          "word": "다문화",
+          "weight": 8.0
+        },
+        {
+          "word": "197개",
+          "weight": 7.0
+        },
+        {
+          "word": "교육",
+          "weight": 6.0
+        },
+        {
+          "word": "국기",
+          "weight": 6.0
+        },
+        {
+          "word": "사회",
+          "weight": 5.0
+        },
+        {
+          "word": "내용",
+          "weight": 5.0
+        },
+        {
+          "word": "종교",
+          "weight": 5.0
+        },
+        {
+          "word": "그림",
+          "weight": 4.0
+        },
+        {
+          "word": "구성",
+          "weight": 4.0
+        },
+        {
+          "word": "인구",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "북한",
+          "weight": 3.0
+        },
+        {
+          "word": "니우",
+          "weight": 3.0
+        },
+        {
+          "word": "국가",
+          "weight": 3.0
+        },
+        {
+          "word": "초등학생",
+          "weight": 3.0
+        },
+        {
+          "word": "쿡제",
+          "weight": 3.0
+        },
+        {
+          "word": "혐오",
+          "weight": 3.0
+        },
+        {
+          "word": "면적",
+          "weight": 3.0
+        },
+        {
+          "word": "신기",
+          "weight": 3.0
+        },
+        {
+          "word": "정확",
+          "weight": 3.0
+        },
+        {
+          "word": "외국인",
+          "weight": 3.0
+        },
+        {
+          "word": "가입",
+          "weight": 3.0
+        },
+        {
+          "word": "시차",
+          "weight": 3.0
+        },
+        {
+          "word": "지도",
+          "weight": 3.0
+        },
+        {
+          "word": "상세",
+          "weight": 3.0
+        },
+        {
+          "word": "통화",
+          "weight": 3.0
+        },
+        {
+          "word": "국제",
+          "weight": 3.0
+        },
+        {
+          "word": "증오",
+          "weight": 3.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "문화 예술 인물",
+          "weight": 2.0
+        },
+        {
+          "word": "배열",
+          "weight": 2.0
+        },
+        {
+          "word": "가나다라",
+          "weight": 2.0
+        },
+        {
+          "word": "여부",
+          "weight": 2.0
+        },
+        {
+          "word": "오세아니아",
+          "weight": 2.0
+        },
+        {
+          "word": "아시아",
+          "weight": 2.0
+        },
+        {
+          "word": "순서",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "국제연합",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "상징물",
+          "weight": 2.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 2.0
+        },
+        {
+          "word": "고려",
+          "weight": 2.0
+        },
+        {
+          "word": "아프리카",
+          "weight": 2.0
+        },
+        {
+          "word": "세계문화",
+          "weight": 2.0
+        },
+        {
+          "word": "외교부",
+          "weight": 2.0
+        }
+      ],
+      "description": "세계 197개 나라를 소개하는 책이다. 각 나라의 인사말과 언어, 종교, 전통 문화, 국기 등을 상세히 소개했다. 이 책은 초등학생이라면 누구나 쉽게 볼 수 있게 재미있는 그림과 친절한 설명글로 구성되어 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164131686",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134267",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+          "isbn13": "9791158682798",
+          "authors": "글·그림: 한날"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164132454",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "에그박사 :Egg&bugs",
+          "isbn13": "9791168411029",
+          "authors": "원작: 에그박사 ;그림: 홍종현"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168411685",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164134847",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791168414471",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164138197",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        },
+        {
+          "bookname": "흔한남매",
+          "isbn13": "9791164137527",
+          "authors": "원작: 흔한남매 ;그림: 유난희"
+        }
+      ],
+      "title": "세계 나라 사전",
+      "author": "후키우라 타다마사 감수 ;타카모리 마쓰미 옮김",
+      "kdc_from_api": "980",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

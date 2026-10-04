@@ -1,0 +1,1082 @@
+{
+  "isbn": "9791195434077",
+  "captured_at": "2026-10-02T00:12:43.442899+09:00",
+  "lookup": {
+    "isbn": "9791195434077",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195434077",
+      "isbn_add_code": "04910",
+      "set_isbn": "9791195434060",
+      "set_add_code": "04910 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "조선왕조실톡",
+      "subtitle": "",
+      "author": "무적핑크 지음 ;이한 해설",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "이마",
+      "publish_year": "2015",
+      "publish_predate": "20150817",
+      "kdc": "810",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 아시아(아세아) > 한국",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "148*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;조선왕조실록&gt;에 등장하는 인물들이 가상의 대화창 '톡talk'으로 대화를 나눈다는 파격적인 형식의 웹툰 [조선왕조실톡]. &lt;조선왕조실톡&gt;은 웹툰을 바탕으로 조선사를 연대순으로 재구성한 역사교양만화 시리즈이다.",
+      "control_no": "CIP2015020994",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "실록",
+          "weight": 7.0
+        },
+        {
+          "word": "실톡",
+          "weight": 5.0
+        },
+        {
+          "word": "조선",
+          "weight": 4.0
+        },
+        {
+          "word": "실록 돋보기",
+          "weight": 3.0
+        },
+        {
+          "word": "대화창",
+          "weight": 3.0
+        },
+        {
+          "word": "기록",
+          "weight": 3.0
+        },
+        {
+          "word": "상황",
+          "weight": 3.0
+        },
+        {
+          "word": "역사",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "한국인물사",
+          "weight": 2.0
+        },
+        {
+          "word": "무적핑크",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "이마",
+          "weight": 2.0
+        },
+        {
+          "word": "이한 해설",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 2.0
+        },
+        {
+          "word": "초대",
+          "weight": 2.0
+        },
+        {
+          "word": "글자",
+          "weight": 2.0
+        },
+        {
+          "word": "서울대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "분위기",
+          "weight": 1.0
+        },
+        {
+          "word": "신하",
+          "weight": 1.0
+        },
+        {
+          "word": "활자",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "법도",
+          "weight": 1.0
+        },
+        {
+          "word": "생김새",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "상소",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "갖가지",
+          "weight": 1.0
+        },
+        {
+          "word": "겁니다 조선왕조실록",
+          "weight": 1.0
+        },
+        {
+          "word": "결과",
+          "weight": 1.0
+        },
+        {
+          "word": "구분",
+          "weight": 1.0
+        },
+        {
+          "word": "남자",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "냄새",
+          "weight": 1.0
+        },
+        {
+          "word": "대입",
+          "weight": 1.0
+        },
+        {
+          "word": "덕분",
+          "weight": 1.0
+        },
+        {
+          "word": "도전",
+          "weight": 1.0
+        },
+        {
+          "word": "동양사학과",
+          "weight": 1.0
+        },
+        {
+          "word": "마침",
+          "weight": 1.0
+        },
+        {
+          "word": "매일",
+          "weight": 1.0
+        },
+        {
+          "word": "맥락",
+          "weight": 1.0
+        },
+        {
+          "word": "메신저",
+          "weight": 1.0
+        },
+        {
+          "word": "목표",
+          "weight": 1.0
+        },
+        {
+          "word": "묘호",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;조선왕조실록&gt;에 등장하는 인물들이 가상의 대화창 '톡talk'으로 대화를 나눈다는 파격적인 형식의 웹툰 [조선왕조실톡]. &lt;조선왕조실톡&gt;은 웹툰을 바탕으로 조선사를 연대순으로 재구성한 역사교양만화 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940020",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940099",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940129",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940174",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡 6 - 조선의 두 번째 영광",
+          "isbn13": "9791186940259",
+          "authors": "무적핑크 (지은이), 이한, 와이랩(YLAB)"
+        },
+        {
+          "bookname": "조선왕조실톡 7 - 안녕, 조선 패밀리",
+          "isbn13": "9791186940303",
+          "authors": "무적핑크|Ylab|이한"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791162205723",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791189709327",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791190182973",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "조선왕조실톡",
+      "author": "무적핑크 지음 ;이한 해설",
+      "kdc_from_api": "810",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "조선왕조실톡",
+        "author": "무적핑크, 이한",
+        "publisher": "이마",
+        "publish_predate": "20150817",
+        "isbn": "9791195434077",
+        "isbn_add_code": "04910",
+        "set_isbn": "9791195434060",
+        "set_add_code": "04910 ",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "1",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "810",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2015020994",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "조선왕조실톡",
+        "author": "무적핑크 지음 ;이한 해설",
+        "publisher": "위즈덤하우스",
+        "publish_year": "2015",
+        "isbn": "1195434073",
+        "isbn13": "9791195434077",
+        "isbn_add_code": "04910",
+        "volume": "1",
+        "class_no": "911.05",
+        "class_nm": "역사 > 아시아(아세아) > 한국",
+        "description": "&lt;조선왕조실록&gt;에 등장하는 인물들이 가상의 대화창 '톡talk'으로 대화를 나눈다는 파격적인 형식의 웹툰 [조선왕조실톡]. &lt;조선왕조실톡&gt;은 웹툰을 바탕으로 조선사를 연대순으로 재구성한 역사교양만화 시리즈이다.",
+        "cover_url": "https://bookthumb-phinf.pstatic.net/cover/094/125/09412563.jpg?type=m1&udate=20151202"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "실록",
+            "weight": 7.0
+          },
+          {
+            "word": "실톡",
+            "weight": 5.0
+          },
+          {
+            "word": "조선",
+            "weight": 4.0
+          },
+          {
+            "word": "실록 돋보기",
+            "weight": 3.0
+          },
+          {
+            "word": "대화창",
+            "weight": 3.0
+          },
+          {
+            "word": "기록",
+            "weight": 3.0
+          },
+          {
+            "word": "상황",
+            "weight": 3.0
+          },
+          {
+            "word": "역사",
+            "weight": 3.0
+          },
+          {
+            "word": "대화",
+            "weight": 3.0
+          },
+          {
+            "word": "한국인물사",
+            "weight": 2.0
+          },
+          {
+            "word": "무적핑크",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "방식",
+            "weight": 2.0
+          },
+          {
+            "word": "바탕",
+            "weight": 2.0
+          },
+          {
+            "word": "읽기",
+            "weight": 2.0
+          },
+          {
+            "word": "이마",
+            "weight": 2.0
+          },
+          {
+            "word": "이한 해설",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 2.0
+          },
+          {
+            "word": "초대",
+            "weight": 2.0
+          },
+          {
+            "word": "글자",
+            "weight": 2.0
+          },
+          {
+            "word": "서울대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "분위기",
+            "weight": 1.0
+          },
+          {
+            "word": "신하",
+            "weight": 1.0
+          },
+          {
+            "word": "활자",
+            "weight": 1.0
+          },
+          {
+            "word": "시작",
+            "weight": 1.0
+          },
+          {
+            "word": "법도",
+            "weight": 1.0
+          },
+          {
+            "word": "생김새",
+            "weight": 1.0
+          },
+          {
+            "word": "생생",
+            "weight": 1.0
+          },
+          {
+            "word": "사이",
+            "weight": 1.0
+          },
+          {
+            "word": "상소",
+            "weight": 1.0
+          },
+          {
+            "word": "생각",
+            "weight": 1.0
+          },
+          {
+            "word": "대학원",
+            "weight": 1.0
+          },
+          {
+            "word": "갖가지",
+            "weight": 1.0
+          },
+          {
+            "word": "겁니다 조선왕조실록",
+            "weight": 1.0
+          },
+          {
+            "word": "결과",
+            "weight": 1.0
+          },
+          {
+            "word": "구분",
+            "weight": 1.0
+          },
+          {
+            "word": "남자",
+            "weight": 1.0
+          },
+          {
+            "word": "내용",
+            "weight": 1.0
+          },
+          {
+            "word": "냄새",
+            "weight": 1.0
+          },
+          {
+            "word": "대입",
+            "weight": 1.0
+          },
+          {
+            "word": "덕분",
+            "weight": 1.0
+          },
+          {
+            "word": "도전",
+            "weight": 1.0
+          },
+          {
+            "word": "동양사학과",
+            "weight": 1.0
+          },
+          {
+            "word": "마침",
+            "weight": 1.0
+          },
+          {
+            "word": "매일",
+            "weight": 1.0
+          },
+          {
+            "word": "맥락",
+            "weight": 1.0
+          },
+          {
+            "word": "메신저",
+            "weight": 1.0
+          },
+          {
+            "word": "목표",
+            "weight": 1.0
+          },
+          {
+            "word": "묘호",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "조선왕조실톡",
+            "isbn13": "9791186940020",
+            "authors": "무적핑크 지음 ;이한 해설"
+          },
+          {
+            "bookname": "조선왕조실톡",
+            "isbn13": "9791186940099",
+            "authors": "무적핑크 지음 ;이한 해설"
+          },
+          {
+            "bookname": "조선왕조실톡",
+            "isbn13": "9791186940129",
+            "authors": "무적핑크 지음 ;이한 해설"
+          },
+          {
+            "bookname": "조선왕조실톡",
+            "isbn13": "9791186940174",
+            "authors": "무적핑크 지음 ;이한 해설"
+          },
+          {
+            "bookname": "조선왕조실톡 6 - 조선의 두 번째 영광",
+            "isbn13": "9791186940259",
+            "authors": "무적핑크 (지은이), 이한, 와이랩(YLAB)"
+          },
+          {
+            "bookname": "조선왕조실톡 7 - 안녕, 조선 패밀리",
+            "isbn13": "9791186940303",
+            "authors": "무적핑크|Ylab|이한"
+          },
+          {
+            "bookname": "세계사톡",
+            "isbn13": "9791162205723",
+            "authors": "무적핑크,핑크잼 지음"
+          },
+          {
+            "bookname": "세계사톡",
+            "isbn13": "9791189709327",
+            "authors": "무적핑크,핑크잼 지음"
+          },
+          {
+            "bookname": "세계사톡",
+            "isbn13": "9791190182973",
+            "authors": "무적핑크,핑크잼 지음"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "조선왕조실톡 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001962150",
+        "title": "조선왕조실톡 1: 조선 패밀리의 탄생",
+        "subtitle": "",
+        "page": "352 p.",
+        "book_size": "148*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791195434077",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791195434077",
+      "isbn_add_code": "04910",
+      "set_isbn": "9791195434060",
+      "set_add_code": "04910 ",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "조선왕조실톡",
+      "subtitle": "",
+      "author": "무적핑크 지음 ;이한 해설",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "이마",
+      "publish_year": "2015",
+      "publish_predate": "20150817",
+      "kdc": "810",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 아시아(아세아) > 한국",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "352 p.",
+      "book_size": "148*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "&lt;조선왕조실록&gt;에 등장하는 인물들이 가상의 대화창 '톡talk'으로 대화를 나눈다는 파격적인 형식의 웹툰 [조선왕조실톡]. &lt;조선왕조실톡&gt;은 웹툰을 바탕으로 조선사를 연대순으로 재구성한 역사교양만화 시리즈이다.",
+      "control_no": "CIP2015020994",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777065_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "d4l",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "실록",
+          "weight": 7.0
+        },
+        {
+          "word": "실톡",
+          "weight": 5.0
+        },
+        {
+          "word": "조선",
+          "weight": 4.0
+        },
+        {
+          "word": "실록 돋보기",
+          "weight": 3.0
+        },
+        {
+          "word": "대화창",
+          "weight": 3.0
+        },
+        {
+          "word": "기록",
+          "weight": 3.0
+        },
+        {
+          "word": "상황",
+          "weight": 3.0
+        },
+        {
+          "word": "역사",
+          "weight": 3.0
+        },
+        {
+          "word": "대화",
+          "weight": 3.0
+        },
+        {
+          "word": "한국인물사",
+          "weight": 2.0
+        },
+        {
+          "word": "무적핑크",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "방식",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "읽기",
+          "weight": 2.0
+        },
+        {
+          "word": "이마",
+          "weight": 2.0
+        },
+        {
+          "word": "이한 해설",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 2.0
+        },
+        {
+          "word": "초대",
+          "weight": 2.0
+        },
+        {
+          "word": "글자",
+          "weight": 2.0
+        },
+        {
+          "word": "서울대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "분위기",
+          "weight": 1.0
+        },
+        {
+          "word": "신하",
+          "weight": 1.0
+        },
+        {
+          "word": "활자",
+          "weight": 1.0
+        },
+        {
+          "word": "시작",
+          "weight": 1.0
+        },
+        {
+          "word": "법도",
+          "weight": 1.0
+        },
+        {
+          "word": "생김새",
+          "weight": 1.0
+        },
+        {
+          "word": "생생",
+          "weight": 1.0
+        },
+        {
+          "word": "사이",
+          "weight": 1.0
+        },
+        {
+          "word": "상소",
+          "weight": 1.0
+        },
+        {
+          "word": "생각",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "갖가지",
+          "weight": 1.0
+        },
+        {
+          "word": "겁니다 조선왕조실록",
+          "weight": 1.0
+        },
+        {
+          "word": "결과",
+          "weight": 1.0
+        },
+        {
+          "word": "구분",
+          "weight": 1.0
+        },
+        {
+          "word": "남자",
+          "weight": 1.0
+        },
+        {
+          "word": "내용",
+          "weight": 1.0
+        },
+        {
+          "word": "냄새",
+          "weight": 1.0
+        },
+        {
+          "word": "대입",
+          "weight": 1.0
+        },
+        {
+          "word": "덕분",
+          "weight": 1.0
+        },
+        {
+          "word": "도전",
+          "weight": 1.0
+        },
+        {
+          "word": "동양사학과",
+          "weight": 1.0
+        },
+        {
+          "word": "마침",
+          "weight": 1.0
+        },
+        {
+          "word": "매일",
+          "weight": 1.0
+        },
+        {
+          "word": "맥락",
+          "weight": 1.0
+        },
+        {
+          "word": "메신저",
+          "weight": 1.0
+        },
+        {
+          "word": "목표",
+          "weight": 1.0
+        },
+        {
+          "word": "묘호",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;조선왕조실록&gt;에 등장하는 인물들이 가상의 대화창 '톡talk'으로 대화를 나눈다는 파격적인 형식의 웹툰 [조선왕조실톡]. &lt;조선왕조실톡&gt;은 웹툰을 바탕으로 조선사를 연대순으로 재구성한 역사교양만화 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940020",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940099",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940129",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡",
+          "isbn13": "9791186940174",
+          "authors": "무적핑크 지음 ;이한 해설"
+        },
+        {
+          "bookname": "조선왕조실톡 6 - 조선의 두 번째 영광",
+          "isbn13": "9791186940259",
+          "authors": "무적핑크 (지은이), 이한, 와이랩(YLAB)"
+        },
+        {
+          "bookname": "조선왕조실톡 7 - 안녕, 조선 패밀리",
+          "isbn13": "9791186940303",
+          "authors": "무적핑크|Ylab|이한"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791162205723",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791189709327",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "세계사톡",
+          "isbn13": "9791190182973",
+          "authors": "무적핑크,핑크잼 지음"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        }
+      ],
+      "title": "조선왕조실톡",
+      "author": "무적핑크 지음 ;이한 해설",
+      "kdc_from_api": "810",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

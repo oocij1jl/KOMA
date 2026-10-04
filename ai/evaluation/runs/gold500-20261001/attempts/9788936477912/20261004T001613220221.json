@@ -1,0 +1,28 @@
+{
+  "isbn": "9788936477912",
+  "status": "error",
+  "error_code": "validation_error",
+  "error_message": "LLM 출력 스키마 검증 실패: 1 validation error for GenerateResult\nwarnings\n  Field required [type=missing, input_value={'fields': [{'tag': '700'...], 'skipped_fields': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.7/v/missing",
+  "generated_at": "2026-10-04T00:16:13.220165+09:00",
+  "code_rev": "039cdeb",
+  "d4l_responses": [
+    {
+      "endpoint": "/api/srchDtlList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/keywordList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    },
+    {
+      "endpoint": "/api/usageAnalysisList",
+      "http_status": 200,
+      "api_error": false,
+      "quota": false
+    }
+  ]
+}

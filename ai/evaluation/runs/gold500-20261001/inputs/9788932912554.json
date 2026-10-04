@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788932912554",
+  "captured_at": "2026-10-04T00:16:41.397064+09:00",
+  "lookup": {
+    "isbn": "9788932912554",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932912554",
+      "isbn_add_code": "04860",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "시지프 신화",
+      "subtitle": "양장본 Hardcover",
+      "author": "알베르 카뮈 지음 ;박언주 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2020",
+      "publish_predate": "20200830",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 수필",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "열린책들 세계문학",
+      "series_no": "255",
+      "page": "264 p.",
+      "book_size": "120*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "열린책들 세계문학 시리즈의 255번째 책. 카뮈의 문학적 토대가 된 부조리 사상의 정수가 담긴 철학 에세이로, 부조리, 자살, 반항, 자유, 정열 등 카뮈의 핵심 화두와 사상을 예리하고 명징한 언어로 파고들며 정리한 작품이다.",
+      "control_no": "CIP2020033692",
+      "cover_url": "https://image.aladin.co.kr/product/24975/42/cover/8932912556_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부조리",
+          "weight": 25.0
+        },
+        {
+          "word": "카뮈",
+          "weight": 15.0
+        },
+        {
+          "word": "이방인",
+          "weight": 15.0
+        },
+        {
+          "word": "시지프 신화",
+          "weight": 9.0
+        },
+        {
+          "word": "인간",
+          "weight": 8.0
+        },
+        {
+          "word": "최초의 인간",
+          "weight": 6.0
+        },
+        {
+          "word": "칼리굴라",
+          "weight": 6.0
+        },
+        {
+          "word": "에세이",
+          "weight": 6.0
+        },
+        {
+          "word": "사상",
+          "weight": 6.0
+        },
+        {
+          "word": "열린책",
+          "weight": 6.0
+        },
+        {
+          "word": "자유",
+          "weight": 6.0
+        },
+        {
+          "word": "자살",
+          "weight": 6.0
+        },
+        {
+          "word": "신화",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "시지프",
+          "weight": 4.0
+        },
+        {
+          "word": "철학적",
+          "weight": 4.0
+        },
+        {
+          "word": "발표",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "문학적",
+          "weight": 4.0
+        },
+        {
+          "word": "1957년",
+          "weight": 3.0
+        },
+        {
+          "word": "철학과",
+          "weight": 3.0
+        },
+        {
+          "word": "부조리 3부작",
+          "weight": 3.0
+        },
+        {
+          "word": "표리",
+          "weight": 3.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 3.0
+        },
+        {
+          "word": "희망",
+          "weight": 3.0
+        },
+        {
+          "word": "행복",
+          "weight": 3.0
+        },
+        {
+          "word": "명징",
+          "weight": 3.0
+        },
+        {
+          "word": "알베르",
+          "weight": 3.0
+        },
+        {
+          "word": "행복한 죽음",
+          "weight": 3.0
+        },
+        {
+          "word": "정의의 사람들",
+          "weight": 3.0
+        },
+        {
+          "word": "오해",
+          "weight": 3.0
+        },
+        {
+          "word": "반항하는 인간",
+          "weight": 3.0
+        },
+        {
+          "word": "토대",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 3.0
+        },
+        {
+          "word": "정수",
+          "weight": 3.0
+        },
+        {
+          "word": "결혼",
+          "weight": 3.0
+        },
+        {
+          "word": "페스트",
+          "weight": 3.0
+        },
+        {
+          "word": "노벨",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 2.0
+        },
+        {
+          "word": "연극",
+          "weight": 2.0
+        },
+        {
+          "word": "전형",
+          "weight": 2.0
+        },
+        {
+          "word": "예리",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "자세",
+          "weight": 2.0
+        },
+        {
+          "word": "255번째",
+          "weight": 2.0
+        },
+        {
+          "word": "정리",
+          "weight": 2.0
+        },
+        {
+          "word": "영웅",
+          "weight": 2.0
+        }
+      ],
+      "description": "열린책들 세계문학 시리즈의 255번째 책. 카뮈의 문학적 토대가 된 부조리 사상의 정수가 담긴 철학 에세이로, 부조리, 자살, 반항, 자유, 정열 등 카뮈의 핵심 화두와 사상을 예리하고 명징한 언어로 파고들며 정리한 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "시지프 신화 ",
+          "isbn13": "9788937463433",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        },
+        {
+          "bookname": "반항하는 인간 ",
+          "isbn13": "9788937463839",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "페스트 ",
+          "isbn13": "9788937462672",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "결혼·여름 ",
+          "isbn13": "9791198375308",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 장소미"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "이방인 ",
+          "isbn13": "9788937462665",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        }
+      ],
+      "title": "시지프 신화",
+      "author": "알베르 카뮈 지음 ;박언주 옮김",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "시지프 신화",
+        "author": "알베르 카뮈 지음 ;박언주 옮김",
+        "publisher": "열린책들",
+        "publish_predate": "20200830",
+        "isbn": "9788932912554",
+        "isbn_add_code": "04860",
+        "set_isbn": "9788932914992",
+        "set_add_code": "04800 ",
+        "set_expression": "",
+        "price": "₩11800",
+        "edition_stmt": "",
+        "series_title": "열린책들 세계문학",
+        "series_no": "255",
+        "volume": "",
+        "page": "255 p.",
+        "book_size": "120*188",
+        "form": "종이책",
+        "kdc": "863",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020033692",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "시지프 신화 ",
+        "author": "알베르 카뮈 지음 ;박언주 옮김",
+        "publisher": "열린책들",
+        "publish_year": "2020",
+        "isbn": "8932912556",
+        "isbn13": "9788932912554",
+        "isbn_add_code": "04860",
+        "volume": "",
+        "class_no": "864",
+        "class_nm": "문학 > 프랑스문학 > 수필",
+        "description": "열린책들 세계문학 시리즈의 255번째 책. 카뮈의 문학적 토대가 된 부조리 사상의 정수가 담긴 철학 에세이로, 부조리, 자살, 반항, 자유, 정열 등 카뮈의 핵심 화두와 사상을 예리하고 명징한 언어로 파고들며 정리한 작품이다.",
+        "cover_url": "https://image.aladin.co.kr/product/24975/42/cover/8932912556_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "부조리",
+            "weight": 25.0
+          },
+          {
+            "word": "카뮈",
+            "weight": 15.0
+          },
+          {
+            "word": "이방인",
+            "weight": 15.0
+          },
+          {
+            "word": "시지프 신화",
+            "weight": 9.0
+          },
+          {
+            "word": "인간",
+            "weight": 8.0
+          },
+          {
+            "word": "최초의 인간",
+            "weight": 6.0
+          },
+          {
+            "word": "칼리굴라",
+            "weight": 6.0
+          },
+          {
+            "word": "에세이",
+            "weight": 6.0
+          },
+          {
+            "word": "사상",
+            "weight": 6.0
+          },
+          {
+            "word": "열린책",
+            "weight": 6.0
+          },
+          {
+            "word": "자유",
+            "weight": 6.0
+          },
+          {
+            "word": "자살",
+            "weight": 6.0
+          },
+          {
+            "word": "신화",
+            "weight": 4.0
+          },
+          {
+            "word": "창조",
+            "weight": 4.0
+          },
+          {
+            "word": "시지프",
+            "weight": 4.0
+          },
+          {
+            "word": "철학적",
+            "weight": 4.0
+          },
+          {
+            "word": "발표",
+            "weight": 4.0
+          },
+          {
+            "word": "철학",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "문학적",
+            "weight": 4.0
+          },
+          {
+            "word": "1957년",
+            "weight": 3.0
+          },
+          {
+            "word": "철학과",
+            "weight": 3.0
+          },
+          {
+            "word": "부조리 3부작",
+            "weight": 3.0
+          },
+          {
+            "word": "표리",
+            "weight": 3.0
+          },
+          {
+            "word": "프랑스",
+            "weight": 3.0
+          },
+          {
+            "word": "희망",
+            "weight": 3.0
+          },
+          {
+            "word": "행복",
+            "weight": 3.0
+          },
+          {
+            "word": "명징",
+            "weight": 3.0
+          },
+          {
+            "word": "알베르",
+            "weight": 3.0
+          },
+          {
+            "word": "행복한 죽음",
+            "weight": 3.0
+          },
+          {
+            "word": "정의의 사람들",
+            "weight": 3.0
+          },
+          {
+            "word": "오해",
+            "weight": 3.0
+          },
+          {
+            "word": "반항하는 인간",
+            "weight": 3.0
+          },
+          {
+            "word": "토대",
+            "weight": 3.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 3.0
+          },
+          {
+            "word": "정수",
+            "weight": 3.0
+          },
+          {
+            "word": "결혼",
+            "weight": 3.0
+          },
+          {
+            "word": "페스트",
+            "weight": 3.0
+          },
+          {
+            "word": "노벨",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 2.0
+          },
+          {
+            "word": "연극",
+            "weight": 2.0
+          },
+          {
+            "word": "전형",
+            "weight": 2.0
+          },
+          {
+            "word": "예리",
+            "weight": 2.0
+          },
+          {
+            "word": "외국에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "인물",
+            "weight": 2.0
+          },
+          {
+            "word": "자세",
+            "weight": 2.0
+          },
+          {
+            "word": "255번째",
+            "weight": 2.0
+          },
+          {
+            "word": "정리",
+            "weight": 2.0
+          },
+          {
+            "word": "영웅",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "시지프 신화 ",
+            "isbn13": "9788937463433",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "싯다르타",
+            "isbn13": "9788937460586",
+            "authors": "헤르만 헤세 지음;박병덕 옮김"
+          },
+          {
+            "bookname": "반항하는 인간 ",
+            "isbn13": "9788937463839",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+          },
+          {
+            "bookname": "페스트 ",
+            "isbn13": "9788937462672",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+          },
+          {
+            "bookname": "결혼·여름 ",
+            "isbn13": "9791198375308",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 장소미"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "이방인 ",
+            "isbn13": "9788937462665",
+            "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "시지프 신화"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000581594",
+        "title": "시지프 신화",
+        "subtitle": "양장본 Hardcover",
+        "page": "264 p.",
+        "book_size": "130*196mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932912554",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932912554",
+      "isbn_add_code": "04860",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩11800",
+      "title": "시지프 신화",
+      "subtitle": "양장본 Hardcover",
+      "author": "알베르 카뮈 지음 ;박언주 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2020",
+      "publish_predate": "20200830",
+      "kdc": "863",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 프랑스문학 > 수필",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "열린책들 세계문학",
+      "series_no": "255",
+      "page": "264 p.",
+      "book_size": "120*188",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "열린책들 세계문학 시리즈의 255번째 책. 카뮈의 문학적 토대가 된 부조리 사상의 정수가 담긴 철학 에세이로, 부조리, 자살, 반항, 자유, 정열 등 카뮈의 핵심 화두와 사상을 예리하고 명징한 언어로 파고들며 정리한 작품이다.",
+      "control_no": "CIP2020033692",
+      "cover_url": "https://image.aladin.co.kr/product/24975/42/cover/8932912556_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "부조리",
+          "weight": 25.0
+        },
+        {
+          "word": "카뮈",
+          "weight": 15.0
+        },
+        {
+          "word": "이방인",
+          "weight": 15.0
+        },
+        {
+          "word": "시지프 신화",
+          "weight": 9.0
+        },
+        {
+          "word": "인간",
+          "weight": 8.0
+        },
+        {
+          "word": "최초의 인간",
+          "weight": 6.0
+        },
+        {
+          "word": "칼리굴라",
+          "weight": 6.0
+        },
+        {
+          "word": "에세이",
+          "weight": 6.0
+        },
+        {
+          "word": "사상",
+          "weight": 6.0
+        },
+        {
+          "word": "열린책",
+          "weight": 6.0
+        },
+        {
+          "word": "자유",
+          "weight": 6.0
+        },
+        {
+          "word": "자살",
+          "weight": 6.0
+        },
+        {
+          "word": "신화",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "시지프",
+          "weight": 4.0
+        },
+        {
+          "word": "철학적",
+          "weight": 4.0
+        },
+        {
+          "word": "발표",
+          "weight": 4.0
+        },
+        {
+          "word": "철학",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "문학적",
+          "weight": 4.0
+        },
+        {
+          "word": "1957년",
+          "weight": 3.0
+        },
+        {
+          "word": "철학과",
+          "weight": 3.0
+        },
+        {
+          "word": "부조리 3부작",
+          "weight": 3.0
+        },
+        {
+          "word": "표리",
+          "weight": 3.0
+        },
+        {
+          "word": "프랑스",
+          "weight": 3.0
+        },
+        {
+          "word": "희망",
+          "weight": 3.0
+        },
+        {
+          "word": "행복",
+          "weight": 3.0
+        },
+        {
+          "word": "명징",
+          "weight": 3.0
+        },
+        {
+          "word": "알베르",
+          "weight": 3.0
+        },
+        {
+          "word": "행복한 죽음",
+          "weight": 3.0
+        },
+        {
+          "word": "정의의 사람들",
+          "weight": 3.0
+        },
+        {
+          "word": "오해",
+          "weight": 3.0
+        },
+        {
+          "word": "반항하는 인간",
+          "weight": 3.0
+        },
+        {
+          "word": "토대",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 3.0
+        },
+        {
+          "word": "정수",
+          "weight": 3.0
+        },
+        {
+          "word": "결혼",
+          "weight": 3.0
+        },
+        {
+          "word": "페스트",
+          "weight": 3.0
+        },
+        {
+          "word": "노벨",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 2.0
+        },
+        {
+          "word": "연극",
+          "weight": 2.0
+        },
+        {
+          "word": "전형",
+          "weight": 2.0
+        },
+        {
+          "word": "예리",
+          "weight": 2.0
+        },
+        {
+          "word": "외국에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "인물",
+          "weight": 2.0
+        },
+        {
+          "word": "자세",
+          "weight": 2.0
+        },
+        {
+          "word": "255번째",
+          "weight": 2.0
+        },
+        {
+          "word": "정리",
+          "weight": 2.0
+        },
+        {
+          "word": "영웅",
+          "weight": 2.0
+        }
+      ],
+      "description": "열린책들 세계문학 시리즈의 255번째 책. 카뮈의 문학적 토대가 된 부조리 사상의 정수가 담긴 철학 에세이로, 부조리, 자살, 반항, 자유, 정열 등 카뮈의 핵심 화두와 사상을 예리하고 명징한 언어로 파고들며 정리한 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "시지프 신화 ",
+          "isbn13": "9788937463433",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "싯다르타",
+          "isbn13": "9788937460586",
+          "authors": "헤르만 헤세 지음;박병덕 옮김"
+        },
+        {
+          "bookname": "반항하는 인간 ",
+          "isbn13": "9788937463839",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "페스트 ",
+          "isbn13": "9788937462672",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        },
+        {
+          "bookname": "결혼·여름 ",
+          "isbn13": "9791198375308",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 장소미"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "이방인 ",
+          "isbn13": "9788937462665",
+          "authors": "지은이: 알베르 카뮈 ;옮긴이: 김화영"
+        }
+      ],
+      "title": "시지프 신화",
+      "author": "알베르 카뮈 지음 ;박언주 옮김",
+      "kdc_from_api": "863",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

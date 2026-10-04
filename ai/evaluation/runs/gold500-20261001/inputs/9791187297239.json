@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791187297239",
+  "captured_at": "2026-10-02T00:20:49.499814+09:00",
+  "lookup": {
+    "isbn": "9791187297239",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791187297239",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "지금 이대로 좋다 ",
+      "subtitle": "",
+      "author": "법륜 지음 ;박정은 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "정토출판사",
+      "publish_year": "2019",
+      "publish_predate": "20191030",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "137*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;인생수업&gt; &lt;지금, 여기, 깨어있기&gt; &lt;법륜스님의 행복&gt; 등으로 인생의 고민에 대해 명쾌한 해법을 제시해 온 법륜 스님의 에세이. 지난 8년간 SNS로 매일 전해졌던 법륜 스님의 희망편지 콘텐츠를 한 권의 에세이로 정리한 책이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/21290/5/cover/k912636388_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "마음",
+          "weight": 11.0
+        },
+        {
+          "word": "행복",
+          "weight": 8.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "법륜",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "오늘",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "인정",
+          "weight": 4.0
+        },
+        {
+          "word": "새로운 백년",
+          "weight": 3.0
+        },
+        {
+          "word": "스님의 주례사",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인생수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인연",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 여기 깨어 있기",
+          "weight": 3.0
+        },
+        {
+          "word": "스님",
+          "weight": 3.0
+        },
+        {
+          "word": "그대",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 여기 깨어있기",
+          "weight": 3.0
+        },
+        {
+          "word": "법륜스님의 행복",
+          "weight": 3.0
+        },
+        {
+          "word": "야단법석",
+          "weight": 3.0
+        },
+        {
+          "word": "매일",
+          "weight": 3.0
+        },
+        {
+          "word": "인생 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 이대로 좋다",
+          "weight": 3.0
+        },
+        {
+          "word": "방황해도 괜찮아",
+          "weight": 3.0
+        },
+        {
+          "word": "법륜스님의 희망편지",
+          "weight": 3.0
+        },
+        {
+          "word": "부모님",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "기도",
+          "weight": 2.0
+        },
+        {
+          "word": "습관",
+          "weight": 2.0
+        },
+        {
+          "word": "기타",
+          "weight": 2.0
+        },
+        {
+          "word": "깨달음",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "부문",
+          "weight": 2.0
+        },
+        {
+          "word": "부모",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "욕심",
+          "weight": 2.0
+        },
+        {
+          "word": "괴로움",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "갈등",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "법륜스님",
+          "weight": 2.0
+        },
+        {
+          "word": "본래",
+          "weight": 2.0
+        },
+        {
+          "word": "불안",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;인생수업&gt; &lt;지금, 여기, 깨어있기&gt; &lt;법륜스님의 행복&gt; 등으로 인생의 고민에 대해 명쾌한 해법을 제시해 온 법륜 스님의 에세이. 지난 8년간 SNS로 매일 전해졌던 법륜 스님의 희망편지 콘텐츠를 한 권의 에세이로 정리한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "isbn13": "9788985961851",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "지금 이대로 좋다 ",
+      "author": "법륜 지음 ;박정은 그림",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "지금 이대로 좋다 ",
+        "author": "법륜 지음 ;박정은 그림",
+        "publisher": "정토출판사",
+        "publish_predate": "20191030",
+        "isbn": "9791187297239",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "270 p.",
+        "book_size": "137*200",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "지금 이대로 좋다 ",
+        "author": "법륜 지음 ;박정은 그림",
+        "publisher": "정토출판",
+        "publish_year": "2019",
+        "isbn": "1187297232",
+        "isbn13": "9791187297239",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "199.1",
+        "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+        "description": "&lt;인생수업&gt; &lt;지금, 여기, 깨어있기&gt; &lt;법륜스님의 행복&gt; 등으로 인생의 고민에 대해 명쾌한 해법을 제시해 온 법륜 스님의 에세이. 지난 8년간 SNS로 매일 전해졌던 법륜 스님의 희망편지 콘텐츠를 한 권의 에세이로 정리한 책이다.",
+        "cover_url": "https://image.aladin.co.kr/product/21290/5/cover/k912636388_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "마음",
+            "weight": 11.0
+          },
+          {
+            "word": "행복",
+            "weight": 8.0
+          },
+          {
+            "word": "인생",
+            "weight": 6.0
+          },
+          {
+            "word": "문제",
+            "weight": 5.0
+          },
+          {
+            "word": "법륜",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "오늘",
+            "weight": 4.0
+          },
+          {
+            "word": "생각",
+            "weight": 4.0
+          },
+          {
+            "word": "인정",
+            "weight": 4.0
+          },
+          {
+            "word": "새로운 백년",
+            "weight": 3.0
+          },
+          {
+            "word": "스님의 주례사",
+            "weight": 3.0
+          },
+          {
+            "word": "고민",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 3.0
+          },
+          {
+            "word": "엄마 수업",
+            "weight": 3.0
+          },
+          {
+            "word": "인생수업",
+            "weight": 3.0
+          },
+          {
+            "word": "인연",
+            "weight": 3.0
+          },
+          {
+            "word": "지금 여기 깨어 있기",
+            "weight": 3.0
+          },
+          {
+            "word": "스님",
+            "weight": 3.0
+          },
+          {
+            "word": "그대",
+            "weight": 3.0
+          },
+          {
+            "word": "지금 여기 깨어있기",
+            "weight": 3.0
+          },
+          {
+            "word": "법륜스님의 행복",
+            "weight": 3.0
+          },
+          {
+            "word": "야단법석",
+            "weight": 3.0
+          },
+          {
+            "word": "매일",
+            "weight": 3.0
+          },
+          {
+            "word": "인생 수업",
+            "weight": 3.0
+          },
+          {
+            "word": "지금 이대로 좋다",
+            "weight": 3.0
+          },
+          {
+            "word": "방황해도 괜찮아",
+            "weight": 3.0
+          },
+          {
+            "word": "법륜스님의 희망편지",
+            "weight": 3.0
+          },
+          {
+            "word": "부모님",
+            "weight": 3.0
+          },
+          {
+            "word": "아이",
+            "weight": 2.0
+          },
+          {
+            "word": "상대",
+            "weight": 2.0
+          },
+          {
+            "word": "세상",
+            "weight": 2.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "기도",
+            "weight": 2.0
+          },
+          {
+            "word": "습관",
+            "weight": 2.0
+          },
+          {
+            "word": "기타",
+            "weight": 2.0
+          },
+          {
+            "word": "깨달음",
+            "weight": 2.0
+          },
+          {
+            "word": "상처",
+            "weight": 2.0
+          },
+          {
+            "word": "부문",
+            "weight": 2.0
+          },
+          {
+            "word": "부모",
+            "weight": 2.0
+          },
+          {
+            "word": "선물",
+            "weight": 2.0
+          },
+          {
+            "word": "에세이",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "욕심",
+            "weight": 2.0
+          },
+          {
+            "word": "괴로움",
+            "weight": 2.0
+          },
+          {
+            "word": "이유",
+            "weight": 2.0
+          },
+          {
+            "word": "갈등",
+            "weight": 2.0
+          },
+          {
+            "word": "가운데",
+            "weight": 2.0
+          },
+          {
+            "word": "법륜스님",
+            "weight": 2.0
+          },
+          {
+            "word": "본래",
+            "weight": 2.0
+          },
+          {
+            "word": "불안",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+            "isbn13": "9788954637169",
+            "authors": "법륜 지음 ;최승미 그림"
+          },
+          {
+            "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+            "isbn13": "9791187297260",
+            "authors": "지은이: 법륜 ;그림: 드로잉메리"
+          },
+          {
+            "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+            "isbn13": "9788984317413",
+            "authors": "법륜 지음 ;유근택 그림"
+          },
+          {
+            "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+            "isbn13": "9788985961851",
+            "authors": "지은이: 법륜"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+            "isbn13": "9791190538510",
+            "authors": "김혜남 지음"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "지금 이대로 좋다"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001899716",
+        "title": "지금 이대로 좋다",
+        "subtitle": "",
+        "page": "272 p.",
+        "book_size": "138*200mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791187297239",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791187297239",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "지금 이대로 좋다 ",
+      "subtitle": "",
+      "author": "법륜 지음 ;박정은 그림",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "정토출판사",
+      "publish_year": "2019",
+      "publish_predate": "20191030",
+      "kdc": "199.1",
+      "kdc_edition": "",
+      "kdc_name": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "272 p.",
+      "book_size": "137*200",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;인생수업&gt; &lt;지금, 여기, 깨어있기&gt; &lt;법륜스님의 행복&gt; 등으로 인생의 고민에 대해 명쾌한 해법을 제시해 온 법륜 스님의 에세이. 지난 8년간 SNS로 매일 전해졌던 법륜 스님의 희망편지 콘텐츠를 한 권의 에세이로 정리한 책이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/21290/5/cover/k912636388_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "마음",
+          "weight": 11.0
+        },
+        {
+          "word": "행복",
+          "weight": 8.0
+        },
+        {
+          "word": "인생",
+          "weight": 6.0
+        },
+        {
+          "word": "문제",
+          "weight": 5.0
+        },
+        {
+          "word": "법륜",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "오늘",
+          "weight": 4.0
+        },
+        {
+          "word": "생각",
+          "weight": 4.0
+        },
+        {
+          "word": "인정",
+          "weight": 4.0
+        },
+        {
+          "word": "새로운 백년",
+          "weight": 3.0
+        },
+        {
+          "word": "스님의 주례사",
+          "weight": 3.0
+        },
+        {
+          "word": "고민",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 3.0
+        },
+        {
+          "word": "엄마 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인생수업",
+          "weight": 3.0
+        },
+        {
+          "word": "인연",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 여기 깨어 있기",
+          "weight": 3.0
+        },
+        {
+          "word": "스님",
+          "weight": 3.0
+        },
+        {
+          "word": "그대",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 여기 깨어있기",
+          "weight": 3.0
+        },
+        {
+          "word": "법륜스님의 행복",
+          "weight": 3.0
+        },
+        {
+          "word": "야단법석",
+          "weight": 3.0
+        },
+        {
+          "word": "매일",
+          "weight": 3.0
+        },
+        {
+          "word": "인생 수업",
+          "weight": 3.0
+        },
+        {
+          "word": "지금 이대로 좋다",
+          "weight": 3.0
+        },
+        {
+          "word": "방황해도 괜찮아",
+          "weight": 3.0
+        },
+        {
+          "word": "법륜스님의 희망편지",
+          "weight": 3.0
+        },
+        {
+          "word": "부모님",
+          "weight": 3.0
+        },
+        {
+          "word": "아이",
+          "weight": 2.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "세상",
+          "weight": 2.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "기도",
+          "weight": 2.0
+        },
+        {
+          "word": "습관",
+          "weight": 2.0
+        },
+        {
+          "word": "기타",
+          "weight": 2.0
+        },
+        {
+          "word": "깨달음",
+          "weight": 2.0
+        },
+        {
+          "word": "상처",
+          "weight": 2.0
+        },
+        {
+          "word": "부문",
+          "weight": 2.0
+        },
+        {
+          "word": "부모",
+          "weight": 2.0
+        },
+        {
+          "word": "선물",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "욕심",
+          "weight": 2.0
+        },
+        {
+          "word": "괴로움",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "갈등",
+          "weight": 2.0
+        },
+        {
+          "word": "가운데",
+          "weight": 2.0
+        },
+        {
+          "word": "법륜스님",
+          "weight": 2.0
+        },
+        {
+          "word": "본래",
+          "weight": 2.0
+        },
+        {
+          "word": "불안",
+          "weight": 2.0
+        }
+      ],
+      "description": "&lt;인생수업&gt; &lt;지금, 여기, 깨어있기&gt; &lt;법륜스님의 행복&gt; 등으로 인생의 고민에 대해 명쾌한 해법을 제시해 온 법륜 스님의 에세이. 지난 8년간 SNS로 매일 전해졌던 법륜 스님의 희망편지 콘텐츠를 한 권의 에세이로 정리한 책이다.",
+      "co_loan_books": [
+        {
+          "bookname": "(법륜 스님의) 행복 :행복해지고 싶지만 길을 몰라 헤매는 당신에게 ",
+          "isbn13": "9788954637169",
+          "authors": "법륜 지음 ;최승미 그림"
+        },
+        {
+          "bookname": "나는 괜찮은 사람입니다 :내려놓고 인정하고 나를 사랑하는 법 ",
+          "isbn13": "9791187297260",
+          "authors": "지은이: 법륜 ;그림: 드로잉메리"
+        },
+        {
+          "bookname": "인생 수업 :잘 물든 단풍은 봄꽃보다 아름답다 ",
+          "isbn13": "9788984317413",
+          "authors": "법륜 지음 ;유근택 그림"
+        },
+        {
+          "bookname": "지금 여기 깨어있기 :법륜 스님의 깨달음 이야기 ",
+          "isbn13": "9788985961851",
+          "authors": "지은이: 법륜"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "isbn13": "9791190538510",
+          "authors": "김혜남 지음"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "지금 이대로 좋다 ",
+      "author": "법륜 지음 ;박정은 그림",
+      "kdc_from_api": "199.1",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

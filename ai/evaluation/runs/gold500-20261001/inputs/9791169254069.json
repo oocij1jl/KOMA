@@ -1,0 +1,1088 @@
+{
+  "isbn": "9791169254069",
+  "captured_at": "2026-10-02T00:23:28.428886+09:00",
+  "lookup": {
+    "isbn": "9791169254069",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791169254069",
+      "isbn_add_code": "74030",
+      "set_isbn": "9791169254052",
+      "set_add_code": "74030 ",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "팩토피아",
+      "subtitle": "꼬리에 꼬리를 무는 400가지 사실들",
+      "author": "케이트 헤일 글 ;앤디 스미스 그림 ;조은영 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "시공주니어 :시공사",
+      "publish_year": "2022",
+      "publish_predate": "20221220",
+      "kdc": "034",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 영어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "팩토피아 시리즈",
+      "series_no": "1",
+      "page": "208 p.",
+      "book_size": "170*230",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29747/62/cover/k952830140_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "꼬리",
+          "weight": 15.0
+        },
+        {
+          "word": "팩트",
+          "weight": 13.0
+        },
+        {
+          "word": "사실",
+          "weight": 11.0
+        },
+        {
+          "word": "팩토피아",
+          "weight": 11.0
+        },
+        {
+          "word": "지식",
+          "weight": 9.0
+        },
+        {
+          "word": "동물",
+          "weight": 9.0
+        },
+        {
+          "word": "물기",
+          "weight": 9.0
+        },
+        {
+          "word": "우주",
+          "weight": 5.0
+        },
+        {
+          "word": "역사",
+          "weight": 5.0
+        },
+        {
+          "word": "식물",
+          "weight": 4.0
+        },
+        {
+          "word": "브리태니커",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "400가지",
+          "weight": 4.0
+        },
+        {
+          "word": "검증",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "사진",
+          "weight": 3.0
+        },
+        {
+          "word": "영국영어협회",
+          "weight": 3.0
+        },
+        {
+          "word": "영국학교독서목록",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        },
+        {
+          "word": "점선",
+          "weight": 3.0
+        },
+        {
+          "word": "가디언",
+          "weight": 3.0
+        },
+        {
+          "word": "호기심",
+          "weight": 3.0
+        },
+        {
+          "word": "이미지",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 2.0
+        },
+        {
+          "word": "통통",
+          "weight": 2.0
+        },
+        {
+          "word": "케이트 헤일",
+          "weight": 2.0
+        },
+        {
+          "word": "시공주니어",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "앤디 스미스",
+          "weight": 2.0
+        },
+        {
+          "word": "조합",
+          "weight": 2.0
+        },
+        {
+          "word": "조은영  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "음악",
+          "weight": 2.0
+        },
+        {
+          "word": "예상치",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "자랑",
+          "weight": 2.0
+        },
+        {
+          "word": "절묘",
+          "weight": 2.0
+        },
+        {
+          "word": "엽기",
+          "weight": 2.0
+        },
+        {
+          "word": "삽화",
+          "weight": 2.0
+        },
+        {
+          "word": "공룡",
+          "weight": 2.0
+        },
+        {
+          "word": "과거",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "정거장",
+          "weight": 2.0
+        },
+        {
+          "word": "국제",
+          "weight": 2.0
+        },
+        {
+          "word": "권위",
+          "weight": 2.0
+        },
+        {
+          "word": "학문",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        }
+      ],
+      "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254076",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254083",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254106",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254090",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254113",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254120",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254137",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168413955",
+          "authors": "최재훈 글 ;정주연 그림"
+        },
+        {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9791197578410",
+          "authors": "글: 채사장,그림: 정용환"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168415034",
+          "authors": "최재훈 글 ;정주연 그림"
+        }
+      ],
+      "title": "팩토피아",
+      "author": "케이트 헤일 글 ;앤디 스미스 그림 ;조은영 옮김",
+      "kdc_from_api": "034",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "팩토피아",
+        "author": "케이트 헤일 글 ;앤디 스미스 그림 ;조은영 옮김",
+        "publisher": "시공주니어 :시공사",
+        "publish_predate": "20221220",
+        "isbn": "9791169254069",
+        "isbn_add_code": "74030",
+        "set_isbn": "9791169254052",
+        "set_add_code": "74030 ",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "팩토피아 시리즈",
+        "series_no": "1",
+        "volume": "1",
+        "page": "207 p.",
+        "book_size": "170*230",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "0",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+        "author": "케이트 헤일,조은영 옮김",
+        "publisher": "시공사",
+        "publish_year": "2022",
+        "isbn": "1169254063",
+        "isbn13": "9791169254069",
+        "isbn_add_code": "74030",
+        "volume": "1",
+        "class_no": "034",
+        "class_nm": "총류 > 백과사전 > 영어",
+        "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+        "cover_url": "https://image.aladin.co.kr/product/29747/62/cover/k952830140_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "꼬리",
+            "weight": 15.0
+          },
+          {
+            "word": "팩트",
+            "weight": 13.0
+          },
+          {
+            "word": "사실",
+            "weight": 11.0
+          },
+          {
+            "word": "팩토피아",
+            "weight": 11.0
+          },
+          {
+            "word": "지식",
+            "weight": 9.0
+          },
+          {
+            "word": "동물",
+            "weight": 9.0
+          },
+          {
+            "word": "물기",
+            "weight": 9.0
+          },
+          {
+            "word": "우주",
+            "weight": 5.0
+          },
+          {
+            "word": "역사",
+            "weight": 5.0
+          },
+          {
+            "word": "식물",
+            "weight": 4.0
+          },
+          {
+            "word": "브리태니커",
+            "weight": 4.0
+          },
+          {
+            "word": "세계",
+            "weight": 4.0
+          },
+          {
+            "word": "400가지",
+            "weight": 4.0
+          },
+          {
+            "word": "검증",
+            "weight": 4.0
+          },
+          {
+            "word": "세상",
+            "weight": 4.0
+          },
+          {
+            "word": "사진",
+            "weight": 3.0
+          },
+          {
+            "word": "영국영어협회",
+            "weight": 3.0
+          },
+          {
+            "word": "영국학교독서목록",
+            "weight": 3.0
+          },
+          {
+            "word": "어린이",
+            "weight": 3.0
+          },
+          {
+            "word": "다양",
+            "weight": 3.0
+          },
+          {
+            "word": "미래",
+            "weight": 3.0
+          },
+          {
+            "word": "점선",
+            "weight": 3.0
+          },
+          {
+            "word": "가디언",
+            "weight": 3.0
+          },
+          {
+            "word": "호기심",
+            "weight": 3.0
+          },
+          {
+            "word": "이미지",
+            "weight": 3.0
+          },
+          {
+            "word": "시작",
+            "weight": 3.0
+          },
+          {
+            "word": "스포츠",
+            "weight": 2.0
+          },
+          {
+            "word": "통통",
+            "weight": 2.0
+          },
+          {
+            "word": "케이트 헤일",
+            "weight": 2.0
+          },
+          {
+            "word": "시공주니어",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "앤디 스미스",
+            "weight": 2.0
+          },
+          {
+            "word": "조합",
+            "weight": 2.0
+          },
+          {
+            "word": "조은영  옮긴이",
+            "weight": 2.0
+          },
+          {
+            "word": "음악",
+            "weight": 2.0
+          },
+          {
+            "word": "예상치",
+            "weight": 2.0
+          },
+          {
+            "word": "선사",
+            "weight": 2.0
+          },
+          {
+            "word": "자랑",
+            "weight": 2.0
+          },
+          {
+            "word": "절묘",
+            "weight": 2.0
+          },
+          {
+            "word": "엽기",
+            "weight": 2.0
+          },
+          {
+            "word": "삽화",
+            "weight": 2.0
+          },
+          {
+            "word": "공룡",
+            "weight": 2.0
+          },
+          {
+            "word": "과거",
+            "weight": 2.0
+          },
+          {
+            "word": "과학 일반",
+            "weight": 2.0
+          },
+          {
+            "word": "정거장",
+            "weight": 2.0
+          },
+          {
+            "word": "국제",
+            "weight": 2.0
+          },
+          {
+            "word": "권위",
+            "weight": 2.0
+          },
+          {
+            "word": "학문",
+            "weight": 2.0
+          },
+          {
+            "word": "과학",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254076",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254083",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254106",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254090",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254113",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254120",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+            "isbn13": "9791169254137",
+            "authors": "케이트 헤일,조은영 옮김"
+          },
+          {
+            "bookname": "흔한남매 이상한 나라의 고전 읽기",
+            "isbn13": "9791168413955",
+            "authors": "최재훈 글 ;정주연 그림"
+          },
+          {
+            "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+            "isbn13": "9791197578410",
+            "authors": "글: 채사장,그림: 정용환"
+          },
+          {
+            "bookname": "흔한남매 이상한 나라의 고전 읽기",
+            "isbn13": "9791168415034",
+            "authors": "최재훈 글 ;정주연 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "팩토피아 1 - 꼬리에 꼬리를 무는 400가지 사실들"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000200471471",
+        "title": "팩토피아 1: 잡학 상식",
+        "subtitle": "꼬리에 꼬리를 무는 400가지 사실들",
+        "page": "208 p.",
+        "book_size": "179*238mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791169254069",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791169254069",
+      "isbn_add_code": "74030",
+      "set_isbn": "9791169254052",
+      "set_add_code": "74030 ",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "팩토피아",
+      "subtitle": "꼬리에 꼬리를 무는 400가지 사실들",
+      "author": "케이트 헤일 글 ;앤디 스미스 그림 ;조은영 옮김",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "시공주니어 :시공사",
+      "publish_year": "2022",
+      "publish_predate": "20221220",
+      "kdc": "034",
+      "kdc_edition": "",
+      "kdc_name": "총류 > 백과사전 > 영어",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "0",
+      "edition_stmt": "",
+      "series_title": "팩토피아 시리즈",
+      "series_no": "1",
+      "page": "208 p.",
+      "book_size": "170*230",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/29747/62/cover/k952830140_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "꼬리",
+          "weight": 15.0
+        },
+        {
+          "word": "팩트",
+          "weight": 13.0
+        },
+        {
+          "word": "사실",
+          "weight": 11.0
+        },
+        {
+          "word": "팩토피아",
+          "weight": 11.0
+        },
+        {
+          "word": "지식",
+          "weight": 9.0
+        },
+        {
+          "word": "동물",
+          "weight": 9.0
+        },
+        {
+          "word": "물기",
+          "weight": 9.0
+        },
+        {
+          "word": "우주",
+          "weight": 5.0
+        },
+        {
+          "word": "역사",
+          "weight": 5.0
+        },
+        {
+          "word": "식물",
+          "weight": 4.0
+        },
+        {
+          "word": "브리태니커",
+          "weight": 4.0
+        },
+        {
+          "word": "세계",
+          "weight": 4.0
+        },
+        {
+          "word": "400가지",
+          "weight": 4.0
+        },
+        {
+          "word": "검증",
+          "weight": 4.0
+        },
+        {
+          "word": "세상",
+          "weight": 4.0
+        },
+        {
+          "word": "사진",
+          "weight": 3.0
+        },
+        {
+          "word": "영국영어협회",
+          "weight": 3.0
+        },
+        {
+          "word": "영국학교독서목록",
+          "weight": 3.0
+        },
+        {
+          "word": "어린이",
+          "weight": 3.0
+        },
+        {
+          "word": "다양",
+          "weight": 3.0
+        },
+        {
+          "word": "미래",
+          "weight": 3.0
+        },
+        {
+          "word": "점선",
+          "weight": 3.0
+        },
+        {
+          "word": "가디언",
+          "weight": 3.0
+        },
+        {
+          "word": "호기심",
+          "weight": 3.0
+        },
+        {
+          "word": "이미지",
+          "weight": 3.0
+        },
+        {
+          "word": "시작",
+          "weight": 3.0
+        },
+        {
+          "word": "스포츠",
+          "weight": 2.0
+        },
+        {
+          "word": "통통",
+          "weight": 2.0
+        },
+        {
+          "word": "케이트 헤일",
+          "weight": 2.0
+        },
+        {
+          "word": "시공주니어",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "앤디 스미스",
+          "weight": 2.0
+        },
+        {
+          "word": "조합",
+          "weight": 2.0
+        },
+        {
+          "word": "조은영  옮긴이",
+          "weight": 2.0
+        },
+        {
+          "word": "음악",
+          "weight": 2.0
+        },
+        {
+          "word": "예상치",
+          "weight": 2.0
+        },
+        {
+          "word": "선사",
+          "weight": 2.0
+        },
+        {
+          "word": "자랑",
+          "weight": 2.0
+        },
+        {
+          "word": "절묘",
+          "weight": 2.0
+        },
+        {
+          "word": "엽기",
+          "weight": 2.0
+        },
+        {
+          "word": "삽화",
+          "weight": 2.0
+        },
+        {
+          "word": "공룡",
+          "weight": 2.0
+        },
+        {
+          "word": "과거",
+          "weight": 2.0
+        },
+        {
+          "word": "과학 일반",
+          "weight": 2.0
+        },
+        {
+          "word": "정거장",
+          "weight": 2.0
+        },
+        {
+          "word": "국제",
+          "weight": 2.0
+        },
+        {
+          "word": "권위",
+          "weight": 2.0
+        },
+        {
+          "word": "학문",
+          "weight": 2.0
+        },
+        {
+          "word": "과학",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        }
+      ],
+      "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+      "co_loan_books": [
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254076",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254083",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254106",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254090",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254113",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254120",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "isbn13": "9791169254137",
+          "authors": "케이트 헤일,조은영 옮김"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168413955",
+          "authors": "최재훈 글 ;정주연 그림"
+        },
+        {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "isbn13": "9791197578410",
+          "authors": "글: 채사장,그림: 정용환"
+        },
+        {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "isbn13": "9791168415034",
+          "authors": "최재훈 글 ;정주연 그림"
+        }
+      ],
+      "title": "팩토피아",
+      "author": "케이트 헤일 글 ;앤디 스미스 그림 ;조은영 옮김",
+      "kdc_from_api": "034",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

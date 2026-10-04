@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788932904351",
+  "captured_at": "2026-10-04T00:18:34.552753+09:00",
+  "lookup": {
+    "isbn": "9788932904351",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8932904359",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "폐허의 도시",
+      "subtitle": "",
+      "author": "폴 오스터 지음;윤희기 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2002",
+      "publish_predate": "20020101",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "286 p.",
+      "book_size": "128*182mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 작품세계로 꾸준히 사랑받아온 폴 오스터의 초기 장편소설 가 출간됐다. 오스터의 소설에 빠지지 않고 등장하는 '결핍, 한계상황, 고립, 우연에 의한 일상의 파괴, 굶주림과 광기, 추리적 구조, 비현실적 내러티브' 등의 요소가 여전하다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/36/19/cover/8932904359_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "폐허의 도시",
+          "weight": 6.0
+        },
+        {
+          "word": "소멸",
+          "weight": 4.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 4.0
+        },
+        {
+          "word": "오스터",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "안나 블룸",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "폴 오스터",
+          "weight": 2.0
+        },
+        {
+          "word": "윤희기",
+          "weight": 2.0
+        },
+        {
+          "word": "열린책",
+          "weight": 2.0
+        },
+        {
+          "word": "주인공",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "초기",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "실종",
+          "weight": 1.0
+        },
+        {
+          "word": "스타인벡",
+          "weight": 1.0
+        },
+        {
+          "word": "황량",
+          "weight": 1.0
+        },
+        {
+          "word": "숙명여자대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "부산",
+          "weight": 1.0
+        },
+        {
+          "word": "비애",
+          "weight": 1.0
+        },
+        {
+          "word": "생명",
+          "weight": 1.0
+        },
+        {
+          "word": "사냥꾼",
+          "weight": 1.0
+        },
+        {
+          "word": "사회",
+          "weight": 1.0
+        },
+        {
+          "word": "비현실적",
+          "weight": 1.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 1.0
+        },
+        {
+          "word": "물건",
+          "weight": 1.0
+        },
+        {
+          "word": "강원대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "거주",
+          "weight": 1.0
+        },
+        {
+          "word": "결핍",
+          "weight": 1.0
+        },
+        {
+          "word": "공간",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "광기",
+          "weight": 1.0
+        },
+        {
+          "word": "교수",
+          "weight": 1.0
+        },
+        {
+          "word": "구조",
+          "weight": 1.0
+        },
+        {
+          "word": "국제어학원",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "단절",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "도시",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "모티프",
+          "weight": 1.0
+        }
+      ],
+      "description": "독특한 작품세계로 꾸준히 사랑받아온 폴 오스터의 초기 장편소설 가 출간됐다. 오스터의 소설에 빠지지 않고 등장하는 '결핍, 한계상황, 고립, 우연에 의한 일상의 파괴, 굶주림과 광기, 추리적 구조, 비현실적 내러티브' 등의 요소가 여전하다.",
+      "co_loan_books": [
+        {
+          "bookname": "달의 궁전:폴 오스터 장편소설",
+          "isbn13": "9788932902814",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "선셋 파크 :폴 오스터 장편소설 ",
+          "isbn13": "9788932915937",
+          "authors": "지은이: 폴 오스터 ;옮긴이: 송은주"
+        },
+        {
+          "bookname": "보이지 않는 :폴 오스터 장편소설 ",
+          "isbn13": "9788932910789",
+          "authors": "폴 오스터 지음 ;이종인 옮김"
+        },
+        {
+          "bookname": "공중 곡예사:폴 오스터 장편소설",
+          "isbn13": "9788932902807",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "어둠 속의 남자 ",
+          "isbn13": "9788932908465",
+          "authors": "폴 오스터 지음 ;이종인 옮김"
+        },
+        {
+          "bookname": "낯선 사람에게 말 걸기 :폴 오스터 산문집 ",
+          "isbn13": "9788932922041",
+          "authors": "지은이: 폴 오스터 ;황보석"
+        },
+        {
+          "bookname": "거대한 괴물:폴 오스터 장편소설",
+          "isbn13": "9788932902791",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "완전한 행복 :정유정 장편소설 ",
+          "isbn13": "9791167370280",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "신탁의 밤:폴 오스터 장편소설",
+          "isbn13": "9788932905495",
+          "authors": "폴 오스터 지음;황보석 옮김"
+        },
+        {
+          "bookname": "뉴욕 3부작:폴 오스터 장편소설",
+          "isbn13": "9788932904719",
+          "authors": "폴 오스터 지음;황보석 옮김"
+        }
+      ],
+      "title": "폐허의 도시",
+      "author": "폴 오스터 지음;윤희기 옮김",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "폐허의 도시",
+        "author": "폴 오스터 지음;윤희기 옮김",
+        "publisher": "열린책들",
+        "publish_predate": "20020101",
+        "isbn": "8932904359",
+        "isbn_add_code": "03840",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩8500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "",
+        "ebook_yn": "N",
+        "cip_yn": "",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "폐허의 도시",
+        "author": "폴 오스터 지음;윤희기 옮김",
+        "publisher": "열린책들",
+        "publish_year": "2002",
+        "isbn": "8932904359",
+        "isbn13": "9788932904351",
+        "isbn_add_code": "03840",
+        "volume": "",
+        "class_no": "843",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "독특한 작품세계로 꾸준히 사랑받아온 폴 오스터의 초기 장편소설 가 출간됐다. 오스터의 소설에 빠지지 않고 등장하는 '결핍, 한계상황, 고립, 우연에 의한 일상의 파괴, 굶주림과 광기, 추리적 구조, 비현실적 내러티브' 등의 요소가 여전하다.",
+        "cover_url": "http://image.aladin.co.kr/product/36/19/cover/8932904359_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "폐허의 도시",
+            "weight": 6.0
+          },
+          {
+            "word": "소멸",
+            "weight": 4.0
+          },
+          {
+            "word": "영미소설",
+            "weight": 4.0
+          },
+          {
+            "word": "오스터",
+            "weight": 3.0
+          },
+          {
+            "word": "정신분석학의 근본 개념",
+            "weight": 3.0
+          },
+          {
+            "word": "도리언 그레이의 초상",
+            "weight": 3.0
+          },
+          {
+            "word": "동행",
+            "weight": 3.0
+          },
+          {
+            "word": "천사와 벌레",
+            "weight": 3.0
+          },
+          {
+            "word": "마티스 스토리",
+            "weight": 3.0
+          },
+          {
+            "word": "안나 블룸",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "의심스러운 싸움",
+            "weight": 3.0
+          },
+          {
+            "word": "소유",
+            "weight": 3.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "폴 오스터",
+            "weight": 2.0
+          },
+          {
+            "word": "윤희기",
+            "weight": 2.0
+          },
+          {
+            "word": "열린책",
+            "weight": 2.0
+          },
+          {
+            "word": "주인공",
+            "weight": 2.0
+          },
+          {
+            "word": "고려대학교",
+            "weight": 2.0
+          },
+          {
+            "word": "초기",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "실종",
+            "weight": 1.0
+          },
+          {
+            "word": "스타인벡",
+            "weight": 1.0
+          },
+          {
+            "word": "황량",
+            "weight": 1.0
+          },
+          {
+            "word": "숙명여자대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "부산",
+            "weight": 1.0
+          },
+          {
+            "word": "비애",
+            "weight": 1.0
+          },
+          {
+            "word": "생명",
+            "weight": 1.0
+          },
+          {
+            "word": "사냥꾼",
+            "weight": 1.0
+          },
+          {
+            "word": "사회",
+            "weight": 1.0
+          },
+          {
+            "word": "비현실적",
+            "weight": 1.0
+          },
+          {
+            "word": "눈앞",
+            "weight": 1.0
+          },
+          {
+            "word": "물건",
+            "weight": 1.0
+          },
+          {
+            "word": "강원대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "거주",
+            "weight": 1.0
+          },
+          {
+            "word": "결핍",
+            "weight": 1.0
+          },
+          {
+            "word": "공간",
+            "weight": 1.0
+          },
+          {
+            "word": "과정",
+            "weight": 1.0
+          },
+          {
+            "word": "광기",
+            "weight": 1.0
+          },
+          {
+            "word": "교수",
+            "weight": 1.0
+          },
+          {
+            "word": "구조",
+            "weight": 1.0
+          },
+          {
+            "word": "국제어학원",
+            "weight": 1.0
+          },
+          {
+            "word": "논문",
+            "weight": 1.0
+          },
+          {
+            "word": "다수",
+            "weight": 1.0
+          },
+          {
+            "word": "단절",
+            "weight": 1.0
+          },
+          {
+            "word": "대학원",
+            "weight": 1.0
+          },
+          {
+            "word": "도시",
+            "weight": 1.0
+          },
+          {
+            "word": "독특",
+            "weight": 1.0
+          },
+          {
+            "word": "등장",
+            "weight": 1.0
+          },
+          {
+            "word": "모티프",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "달의 궁전:폴 오스터 장편소설",
+            "isbn13": "9788932902814",
+            "authors": "폴 오스터 저;황보석 옮김"
+          },
+          {
+            "bookname": "선셋 파크 :폴 오스터 장편소설 ",
+            "isbn13": "9788932915937",
+            "authors": "지은이: 폴 오스터 ;옮긴이: 송은주"
+          },
+          {
+            "bookname": "보이지 않는 :폴 오스터 장편소설 ",
+            "isbn13": "9788932910789",
+            "authors": "폴 오스터 지음 ;이종인 옮김"
+          },
+          {
+            "bookname": "공중 곡예사:폴 오스터 장편소설",
+            "isbn13": "9788932902807",
+            "authors": "폴 오스터 저;황보석 옮김"
+          },
+          {
+            "bookname": "어둠 속의 남자 ",
+            "isbn13": "9788932908465",
+            "authors": "폴 오스터 지음 ;이종인 옮김"
+          },
+          {
+            "bookname": "낯선 사람에게 말 걸기 :폴 오스터 산문집 ",
+            "isbn13": "9788932922041",
+            "authors": "지은이: 폴 오스터 ;황보석"
+          },
+          {
+            "bookname": "거대한 괴물:폴 오스터 장편소설",
+            "isbn13": "9788932902791",
+            "authors": "폴 오스터 저;황보석 옮김"
+          },
+          {
+            "bookname": "완전한 행복 :정유정 장편소설 ",
+            "isbn13": "9791167370280",
+            "authors": "지은이: 정유정"
+          },
+          {
+            "bookname": "신탁의 밤:폴 오스터 장편소설",
+            "isbn13": "9788932905495",
+            "authors": "폴 오스터 지음;황보석 옮김"
+          },
+          {
+            "bookname": "뉴욕 3부작:폴 오스터 장편소설",
+            "isbn13": "9788932904719",
+            "authors": "폴 오스터 지음;황보석 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "폐허의 도시"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000580845",
+        "title": "폐허의 도시",
+        "subtitle": "",
+        "page": "286 p.",
+        "book_size": "128*182mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932904351",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "8932904359",
+      "isbn_add_code": "03840",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8500",
+      "title": "폐허의 도시",
+      "subtitle": "",
+      "author": "폴 오스터 지음;윤희기 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2002",
+      "publish_predate": "20020101",
+      "kdc": "843",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "286 p.",
+      "book_size": "128*182mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "독특한 작품세계로 꾸준히 사랑받아온 폴 오스터의 초기 장편소설 가 출간됐다. 오스터의 소설에 빠지지 않고 등장하는 '결핍, 한계상황, 고립, 우연에 의한 일상의 파괴, 굶주림과 광기, 추리적 구조, 비현실적 내러티브' 등의 요소가 여전하다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/36/19/cover/8932904359_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "폐허의 도시",
+          "weight": 6.0
+        },
+        {
+          "word": "소멸",
+          "weight": 4.0
+        },
+        {
+          "word": "영미소설",
+          "weight": 4.0
+        },
+        {
+          "word": "오스터",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "안나 블룸",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "폴 오스터",
+          "weight": 2.0
+        },
+        {
+          "word": "윤희기",
+          "weight": 2.0
+        },
+        {
+          "word": "열린책",
+          "weight": 2.0
+        },
+        {
+          "word": "주인공",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "초기",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "실종",
+          "weight": 1.0
+        },
+        {
+          "word": "스타인벡",
+          "weight": 1.0
+        },
+        {
+          "word": "황량",
+          "weight": 1.0
+        },
+        {
+          "word": "숙명여자대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "부산",
+          "weight": 1.0
+        },
+        {
+          "word": "비애",
+          "weight": 1.0
+        },
+        {
+          "word": "생명",
+          "weight": 1.0
+        },
+        {
+          "word": "사냥꾼",
+          "weight": 1.0
+        },
+        {
+          "word": "사회",
+          "weight": 1.0
+        },
+        {
+          "word": "비현실적",
+          "weight": 1.0
+        },
+        {
+          "word": "눈앞",
+          "weight": 1.0
+        },
+        {
+          "word": "물건",
+          "weight": 1.0
+        },
+        {
+          "word": "강원대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "거주",
+          "weight": 1.0
+        },
+        {
+          "word": "결핍",
+          "weight": 1.0
+        },
+        {
+          "word": "공간",
+          "weight": 1.0
+        },
+        {
+          "word": "과정",
+          "weight": 1.0
+        },
+        {
+          "word": "광기",
+          "weight": 1.0
+        },
+        {
+          "word": "교수",
+          "weight": 1.0
+        },
+        {
+          "word": "구조",
+          "weight": 1.0
+        },
+        {
+          "word": "국제어학원",
+          "weight": 1.0
+        },
+        {
+          "word": "논문",
+          "weight": 1.0
+        },
+        {
+          "word": "다수",
+          "weight": 1.0
+        },
+        {
+          "word": "단절",
+          "weight": 1.0
+        },
+        {
+          "word": "대학원",
+          "weight": 1.0
+        },
+        {
+          "word": "도시",
+          "weight": 1.0
+        },
+        {
+          "word": "독특",
+          "weight": 1.0
+        },
+        {
+          "word": "등장",
+          "weight": 1.0
+        },
+        {
+          "word": "모티프",
+          "weight": 1.0
+        }
+      ],
+      "description": "독특한 작품세계로 꾸준히 사랑받아온 폴 오스터의 초기 장편소설 가 출간됐다. 오스터의 소설에 빠지지 않고 등장하는 '결핍, 한계상황, 고립, 우연에 의한 일상의 파괴, 굶주림과 광기, 추리적 구조, 비현실적 내러티브' 등의 요소가 여전하다.",
+      "co_loan_books": [
+        {
+          "bookname": "달의 궁전:폴 오스터 장편소설",
+          "isbn13": "9788932902814",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "선셋 파크 :폴 오스터 장편소설 ",
+          "isbn13": "9788932915937",
+          "authors": "지은이: 폴 오스터 ;옮긴이: 송은주"
+        },
+        {
+          "bookname": "보이지 않는 :폴 오스터 장편소설 ",
+          "isbn13": "9788932910789",
+          "authors": "폴 오스터 지음 ;이종인 옮김"
+        },
+        {
+          "bookname": "공중 곡예사:폴 오스터 장편소설",
+          "isbn13": "9788932902807",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "어둠 속의 남자 ",
+          "isbn13": "9788932908465",
+          "authors": "폴 오스터 지음 ;이종인 옮김"
+        },
+        {
+          "bookname": "낯선 사람에게 말 걸기 :폴 오스터 산문집 ",
+          "isbn13": "9788932922041",
+          "authors": "지은이: 폴 오스터 ;황보석"
+        },
+        {
+          "bookname": "거대한 괴물:폴 오스터 장편소설",
+          "isbn13": "9788932902791",
+          "authors": "폴 오스터 저;황보석 옮김"
+        },
+        {
+          "bookname": "완전한 행복 :정유정 장편소설 ",
+          "isbn13": "9791167370280",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "신탁의 밤:폴 오스터 장편소설",
+          "isbn13": "9788932905495",
+          "authors": "폴 오스터 지음;황보석 옮김"
+        },
+        {
+          "bookname": "뉴욕 3부작:폴 오스터 장편소설",
+          "isbn13": "9788932904719",
+          "authors": "폴 오스터 지음;황보석 옮김"
+        }
+      ],
+      "title": "폐허의 도시",
+      "author": "폴 오스터 지음;윤희기 옮김",
+      "kdc_from_api": "843",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

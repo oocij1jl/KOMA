@@ -1,0 +1,1080 @@
+{
+  "isbn": "9791190090377",
+  "captured_at": "2026-10-02T00:17:43.949214+09:00",
+  "lookup": {
+    "isbn": "9791190090377",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190090377",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "우리는 이 별을 떠나기로 했어",
+      "subtitle": "",
+      "author": "지은이: 천선란,박해울,박문영,오정연,이루카",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2021",
+      "publish_predate": "20210302",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "130*198",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2021년 3월 8일, 5명의 작가, 천선란, 박해울, 박문영, 오정연, 이루카가 세계 여성의 날을 맞이하여 여성과 행성을 주제로 담은 앤솔러지를 출간한다. 지구를 넘어선 '여성만의 우주, 여성만의 행성, 여성만의 이야기'를 다룬다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/18/9791190090377.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "여성",
+          "weight": 25.0
+        },
+        {
+          "word": "화재",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "우주",
+          "weight": 5.0
+        },
+        {
+          "word": "3월",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "코크",
+          "weight": 4.0
+        },
+        {
+          "word": "확장",
+          "weight": 4.0
+        },
+        {
+          "word": "미국",
+          "weight": 4.0
+        },
+        {
+          "word": "노동자",
+          "weight": 4.0
+        },
+        {
+          "word": "천선란",
+          "weight": 4.0
+        },
+        {
+          "word": "유영",
+          "weight": 4.0
+        },
+        {
+          "word": "지구",
+          "weight": 4.0
+        },
+        {
+          "word": "두크리스티나",
+          "weight": 4.0
+        },
+        {
+          "word": "이루카",
+          "weight": 4.0
+        },
+        {
+          "word": "UN",
+          "weight": 4.0
+        },
+        {
+          "word": "투쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "2019년",
+          "weight": 4.0
+        },
+        {
+          "word": "무주지",
+          "weight": 3.0
+        },
+        {
+          "word": "요람 행성",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 여성의 날",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "SF",
+          "weight": 3.0
+        },
+        {
+          "word": "2번 출구에서 만나요",
+          "weight": 3.0
+        },
+        {
+          "word": "한국",
+          "weight": 3.0
+        },
+        {
+          "word": "남십자자리",
+          "weight": 3.0
+        },
+        {
+          "word": "뿌리가 하늘로 자라는 나무",
+          "weight": 3.0
+        },
+        {
+          "word": "1908년",
+          "weight": 3.0
+        },
+        {
+          "word": "영역",
+          "weight": 3.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "열악",
+          "weight": 2.0
+        },
+        {
+          "word": "8일을",
+          "weight": 2.0
+        },
+        {
+          "word": "오정연",
+          "weight": 2.0
+        },
+        {
+          "word": "참여",
+          "weight": 2.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "동참",
+          "weight": 2.0
+        },
+        {
+          "word": "거대",
+          "weight": 2.0
+        },
+        {
+          "word": "처음",
+          "weight": 2.0
+        },
+        {
+          "word": "당시",
+          "weight": 2.0
+        },
+        {
+          "word": "최장",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "박문영",
+          "weight": 2.0
+        },
+        {
+          "word": "박해울",
+          "weight": 2.0
+        },
+        {
+          "word": "기간",
+          "weight": 2.0
+        },
+        {
+          "word": "지위",
+          "weight": 2.0
+        },
+        {
+          "word": "궐기",
+          "weight": 2.0
+        },
+        {
+          "word": "제시카",
+          "weight": 2.0
+        },
+        {
+          "word": "국한",
+          "weight": 2.0
+        },
+        {
+          "word": "흐름",
+          "weight": 2.0
+        }
+      ],
+      "description": "2021년 3월 8일, 5명의 작가, 천선란, 박해울, 박문영, 오정연, 이루카가 세계 여성의 날을 맞이하여 여성과 행성을 주제로 담은 앤솔러지를 출간한다. 지구를 넘어선 '여성만의 우주, 여성만의 행성, 여성만의 이야기'를 다룬다.",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+          "isbn13": "9791165508340",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "노랜드 :천선란 소설집 ",
+          "isbn13": "9791160404944",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+          "isbn13": "9791191193138",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "나인 :천선란 장편소설 ",
+          "isbn13": "9788936438609",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "isbn13": "9791190090018",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "우리는 이 별을 떠나기로 했어",
+      "author": "지은이: 천선란,박해울,박문영,오정연,이루카",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "우리는 이 별을 떠나기로 했어",
+        "author": "지은이: 천선란,박해울,박문영,오정연,이루카",
+        "publisher": "허블",
+        "publish_predate": "20210302",
+        "isbn": "9791190090377",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "238 p.",
+        "book_size": "130*198",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/18/9791190090377.JPG",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "우리는 이 별을 떠나기로 했어 ",
+        "author": "지은이: 천선란,이루카",
+        "publisher": "허블",
+        "publish_year": "2021",
+        "isbn": "1190090376",
+        "isbn13": "9791190090377",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "813.7",
+        "class_nm": "문학 > 한국문학 > 소설",
+        "description": "2021년 3월 8일, 5명의 작가, 천선란, 박해울, 박문영, 오정연, 이루카가 세계 여성의 날을 맞이하여 여성과 행성을 주제로 담은 앤솔러지를 출간한다. 지구를 넘어선 '여성만의 우주, 여성만의 행성, 여성만의 이야기'를 다룬다.",
+        "cover_url": "https://image.aladin.co.kr/product/26564/99/cover/k142738031_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "여성",
+            "weight": 25.0
+          },
+          {
+            "word": "화재",
+            "weight": 6.0
+          },
+          {
+            "word": "세계",
+            "weight": 5.0
+          },
+          {
+            "word": "우주",
+            "weight": 5.0
+          },
+          {
+            "word": "3월",
+            "weight": 5.0
+          },
+          {
+            "word": "사랑",
+            "weight": 4.0
+          },
+          {
+            "word": "코크",
+            "weight": 4.0
+          },
+          {
+            "word": "확장",
+            "weight": 4.0
+          },
+          {
+            "word": "미국",
+            "weight": 4.0
+          },
+          {
+            "word": "노동자",
+            "weight": 4.0
+          },
+          {
+            "word": "천선란",
+            "weight": 4.0
+          },
+          {
+            "word": "유영",
+            "weight": 4.0
+          },
+          {
+            "word": "지구",
+            "weight": 4.0
+          },
+          {
+            "word": "두크리스티나",
+            "weight": 4.0
+          },
+          {
+            "word": "이루카",
+            "weight": 4.0
+          },
+          {
+            "word": "UN",
+            "weight": 4.0
+          },
+          {
+            "word": "투쟁",
+            "weight": 4.0
+          },
+          {
+            "word": "2019년",
+            "weight": 4.0
+          },
+          {
+            "word": "무주지",
+            "weight": 3.0
+          },
+          {
+            "word": "요람 행성",
+            "weight": 3.0
+          },
+          {
+            "word": "세계 여성의 날",
+            "weight": 3.0
+          },
+          {
+            "word": "자신",
+            "weight": 3.0
+          },
+          {
+            "word": "SF",
+            "weight": 3.0
+          },
+          {
+            "word": "2번 출구에서 만나요",
+            "weight": 3.0
+          },
+          {
+            "word": "한국",
+            "weight": 3.0
+          },
+          {
+            "word": "남십자자리",
+            "weight": 3.0
+          },
+          {
+            "word": "뿌리가 하늘로 자라는 나무",
+            "weight": 3.0
+          },
+          {
+            "word": "1908년",
+            "weight": 3.0
+          },
+          {
+            "word": "영역",
+            "weight": 3.0
+          },
+          {
+            "word": "앤솔러지",
+            "weight": 2.0
+          },
+          {
+            "word": "역사",
+            "weight": 2.0
+          },
+          {
+            "word": "열악",
+            "weight": 2.0
+          },
+          {
+            "word": "8일을",
+            "weight": 2.0
+          },
+          {
+            "word": "오정연",
+            "weight": 2.0
+          },
+          {
+            "word": "참여",
+            "weight": 2.0
+          },
+          {
+            "word": "2021년",
+            "weight": 2.0
+          },
+          {
+            "word": "동참",
+            "weight": 2.0
+          },
+          {
+            "word": "거대",
+            "weight": 2.0
+          },
+          {
+            "word": "처음",
+            "weight": 2.0
+          },
+          {
+            "word": "당시",
+            "weight": 2.0
+          },
+          {
+            "word": "최장",
+            "weight": 2.0
+          },
+          {
+            "word": "최초",
+            "weight": 2.0
+          },
+          {
+            "word": "박문영",
+            "weight": 2.0
+          },
+          {
+            "word": "박해울",
+            "weight": 2.0
+          },
+          {
+            "word": "기간",
+            "weight": 2.0
+          },
+          {
+            "word": "지위",
+            "weight": 2.0
+          },
+          {
+            "word": "궐기",
+            "weight": 2.0
+          },
+          {
+            "word": "제시카",
+            "weight": 2.0
+          },
+          {
+            "word": "국한",
+            "weight": 2.0
+          },
+          {
+            "word": "흐름",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "이끼숲 :천선란 연작소설 ",
+            "isbn13": "9791191824216",
+            "authors": "지은이: 천선란 ;일러스트: 점선면"
+          },
+          {
+            "bookname": "천 개의 파랑 :천선란 장편소설 ",
+            "isbn13": "9791190090261",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "랑과 나의 사막 :천선란 소설 ",
+            "isbn13": "9791167901354",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+            "isbn13": "9791165508340",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "노랜드 :천선란 소설집 ",
+            "isbn13": "9791160404944",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+            "isbn13": "9791191193138",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "나인 :천선란 장편소설 ",
+            "isbn13": "9788936438609",
+            "authors": "지은이: 천선란"
+          },
+          {
+            "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+            "isbn13": "9791191824001",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+            "isbn13": "9791160406504",
+            "authors": "지은이: 김초엽"
+          },
+          {
+            "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+            "isbn13": "9791190090018",
+            "authors": "지은이: 김초엽"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "우리는 이 별을 떠나기로 했어"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001935260",
+        "title": "우리는 이 별을 떠나기로 했어",
+        "subtitle": "",
+        "page": "240 p.",
+        "book_size": "132*198mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791190090377",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791190090377",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "우리는 이 별을 떠나기로 했어",
+      "subtitle": "",
+      "author": "지은이: 천선란,박해울,박문영,오정연,이루카",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "허블",
+      "publish_year": "2021",
+      "publish_predate": "20210302",
+      "kdc": "813.7",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "240 p.",
+      "book_size": "130*198",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2021년 3월 8일, 5명의 작가, 천선란, 박해울, 박문영, 오정연, 이루카가 세계 여성의 날을 맞이하여 여성과 행성을 주제로 담은 앤솔러지를 출간한다. 지구를 넘어선 '여성만의 우주, 여성만의 행성, 여성만의 이야기'를 다룬다.",
+      "control_no": "",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/18/9791190090377.JPG",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "여성",
+          "weight": 25.0
+        },
+        {
+          "word": "화재",
+          "weight": 6.0
+        },
+        {
+          "word": "세계",
+          "weight": 5.0
+        },
+        {
+          "word": "우주",
+          "weight": 5.0
+        },
+        {
+          "word": "3월",
+          "weight": 5.0
+        },
+        {
+          "word": "사랑",
+          "weight": 4.0
+        },
+        {
+          "word": "코크",
+          "weight": 4.0
+        },
+        {
+          "word": "확장",
+          "weight": 4.0
+        },
+        {
+          "word": "미국",
+          "weight": 4.0
+        },
+        {
+          "word": "노동자",
+          "weight": 4.0
+        },
+        {
+          "word": "천선란",
+          "weight": 4.0
+        },
+        {
+          "word": "유영",
+          "weight": 4.0
+        },
+        {
+          "word": "지구",
+          "weight": 4.0
+        },
+        {
+          "word": "두크리스티나",
+          "weight": 4.0
+        },
+        {
+          "word": "이루카",
+          "weight": 4.0
+        },
+        {
+          "word": "UN",
+          "weight": 4.0
+        },
+        {
+          "word": "투쟁",
+          "weight": 4.0
+        },
+        {
+          "word": "2019년",
+          "weight": 4.0
+        },
+        {
+          "word": "무주지",
+          "weight": 3.0
+        },
+        {
+          "word": "요람 행성",
+          "weight": 3.0
+        },
+        {
+          "word": "세계 여성의 날",
+          "weight": 3.0
+        },
+        {
+          "word": "자신",
+          "weight": 3.0
+        },
+        {
+          "word": "SF",
+          "weight": 3.0
+        },
+        {
+          "word": "2번 출구에서 만나요",
+          "weight": 3.0
+        },
+        {
+          "word": "한국",
+          "weight": 3.0
+        },
+        {
+          "word": "남십자자리",
+          "weight": 3.0
+        },
+        {
+          "word": "뿌리가 하늘로 자라는 나무",
+          "weight": 3.0
+        },
+        {
+          "word": "1908년",
+          "weight": 3.0
+        },
+        {
+          "word": "영역",
+          "weight": 3.0
+        },
+        {
+          "word": "앤솔러지",
+          "weight": 2.0
+        },
+        {
+          "word": "역사",
+          "weight": 2.0
+        },
+        {
+          "word": "열악",
+          "weight": 2.0
+        },
+        {
+          "word": "8일을",
+          "weight": 2.0
+        },
+        {
+          "word": "오정연",
+          "weight": 2.0
+        },
+        {
+          "word": "참여",
+          "weight": 2.0
+        },
+        {
+          "word": "2021년",
+          "weight": 2.0
+        },
+        {
+          "word": "동참",
+          "weight": 2.0
+        },
+        {
+          "word": "거대",
+          "weight": 2.0
+        },
+        {
+          "word": "처음",
+          "weight": 2.0
+        },
+        {
+          "word": "당시",
+          "weight": 2.0
+        },
+        {
+          "word": "최장",
+          "weight": 2.0
+        },
+        {
+          "word": "최초",
+          "weight": 2.0
+        },
+        {
+          "word": "박문영",
+          "weight": 2.0
+        },
+        {
+          "word": "박해울",
+          "weight": 2.0
+        },
+        {
+          "word": "기간",
+          "weight": 2.0
+        },
+        {
+          "word": "지위",
+          "weight": 2.0
+        },
+        {
+          "word": "궐기",
+          "weight": 2.0
+        },
+        {
+          "word": "제시카",
+          "weight": 2.0
+        },
+        {
+          "word": "국한",
+          "weight": 2.0
+        },
+        {
+          "word": "흐름",
+          "weight": 2.0
+        }
+      ],
+      "description": "2021년 3월 8일, 5명의 작가, 천선란, 박해울, 박문영, 오정연, 이루카가 세계 여성의 날을 맞이하여 여성과 행성을 주제로 담은 앤솔러지를 출간한다. 지구를 넘어선 '여성만의 우주, 여성만의 행성, 여성만의 이야기'를 다룬다.",
+      "co_loan_books": [
+        {
+          "bookname": "이끼숲 :천선란 연작소설 ",
+          "isbn13": "9791191824216",
+          "authors": "지은이: 천선란 ;일러스트: 점선면"
+        },
+        {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "isbn13": "9791190090261",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "랑과 나의 사막 :천선란 소설 ",
+          "isbn13": "9791167901354",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+          "isbn13": "9791165508340",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "노랜드 :천선란 소설집 ",
+          "isbn13": "9791160404944",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "밤에 찾아오는 구원자 :천선란 장편소설 ",
+          "isbn13": "9791191193138",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "나인 :천선란 장편소설 ",
+          "isbn13": "9788936438609",
+          "authors": "지은이: 천선란"
+        },
+        {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "isbn13": "9791191824001",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "isbn13": "9791160406504",
+          "authors": "지은이: 김초엽"
+        },
+        {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "isbn13": "9791190090018",
+          "authors": "지은이: 김초엽"
+        }
+      ],
+      "title": "우리는 이 별을 떠나기로 했어",
+      "author": "지은이: 천선란,박해울,박문영,오정연,이루카",
+      "kdc_from_api": "813.7",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

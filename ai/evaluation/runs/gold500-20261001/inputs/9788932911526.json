@@ -1,0 +1,1088 @@
+{
+  "isbn": "9788932911526",
+  "captured_at": "2026-10-04T00:16:06.404350+09:00",
+  "lookup": {
+    "isbn": "9788932911526",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932911526",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "도리언 그레이의 초상",
+      "subtitle": "양장본 Hardcover",
+      "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2010",
+      "publish_predate": "20101220",
+      "kdc": "843.4",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "823.8",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "362 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "영국의 지배를 받던 아일랜드 더블린에서 태어나 주로 영국에서 활동했던 오스카 와일드는 아일랜드 출신의 다른 유명 작가, 예를 들면 예이츠나 버나드 쇼 등과 마찬가지로 경계인의 삶을 살았다. &lt;도리언 그레이의 초상&gt;은 오스카 와일드가 남긴 유일한 장편소설로, 평생 그가 추구했던 유미주의를 함축하고 있는 작품이다.",
+      "control_no": "CIP2010004424",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 12.0
+        },
+        {
+          "word": "문학",
+          "weight": 9.0
+        },
+        {
+          "word": "예술",
+          "weight": 9.0
+        },
+        {
+          "word": "열린책",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "오스카",
+          "weight": 5.0
+        },
+        {
+          "word": "영국",
+          "weight": 5.0
+        },
+        {
+          "word": "고전",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "아일랜드",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 4.0
+        },
+        {
+          "word": "선정",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "과정",
+          "weight": 3.0
+        },
+        {
+          "word": "폐허의 도시",
+          "weight": 3.0
+        },
+        {
+          "word": "리핀코츠 먼슬리 매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "타락",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "개성",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "초상화",
+          "weight": 3.0
+        },
+        {
+          "word": "목적",
+          "weight": 3.0
+        },
+        {
+          "word": "디자인",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼",
+          "weight": 3.0
+        },
+        {
+          "word": "연보",
+          "weight": 2.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 2.0
+        },
+        {
+          "word": "아일랜드소설",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        },
+        {
+          "word": "서구",
+          "weight": 2.0
+        },
+        {
+          "word": "스펙트럼",
+          "weight": 2.0
+        },
+        {
+          "word": "버나드",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "부여",
+          "weight": 2.0
+        },
+        {
+          "word": "간직",
+          "weight": 2.0
+        },
+        {
+          "word": "감각",
+          "weight": 2.0
+        },
+        {
+          "word": "영화소설",
+          "weight": 2.0
+        },
+        {
+          "word": "결과적",
+          "weight": 2.0
+        },
+        {
+          "word": "결국",
+          "weight": 2.0
+        },
+        {
+          "word": "경구",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        }
+      ],
+      "description": "영국의 지배를 받던 아일랜드 더블린에서 태어나 주로 영국에서 활동했던 오스카 와일드는 아일랜드 출신의 다른 유명 작가, 예를 들면 예이츠나 버나드 쇼 등과 마찬가지로 경계인의 삶을 살았다. &lt;도리언 그레이의 초상&gt;은 오스카 와일드가 남긴 유일한 장편소설로, 평생 그가 추구했던 유미주의를 함축하고 있는 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "달과 6펜스",
+          "isbn13": "9788937460388",
+          "authors": "서머싯 몸 지음;송무 옮김"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "도리언 그레이의 초상",
+      "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+      "kdc_from_api": "843.4",
+      "ddc_from_api": "823.8",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "도리언 그레이의 초상",
+        "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+        "publisher": "열린책들",
+        "publish_predate": "20101220",
+        "isbn": "9788932911526",
+        "isbn_add_code": "04840",
+        "set_isbn": "9788932914992",
+        "set_add_code": "04800 ",
+        "set_expression": "",
+        "price": "₩9800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "843.4",
+        "ddc": "823.8",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2010004424",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "도리언 그레이의 초상 :오스카 와일드 장편소설 ",
+        "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+        "publisher": "열린책들",
+        "publish_year": "2010",
+        "isbn": "8932911525",
+        "isbn13": "9788932911526",
+        "isbn_add_code": "03840",
+        "volume": "",
+        "class_no": "843.4",
+        "class_nm": "문학 > 영미문학 > 소설",
+        "description": "영국의 지배를 받던 아일랜드 더블린에서 태어나 주로 영국에서 활동했던 오스카 와일드는 아일랜드 출신의 다른 유명 작가, 예를 들면 예이츠나 버나드 쇼 등과 마찬가지로 경계인의 삶을 살았다. &lt;도리언 그레이의 초상&gt;은 오스카 와일드가 남긴 유일한 장편소설로, 평생 그가 추구했던 유미주의를 함축하고 있는 작품이다.",
+        "cover_url": "http://image.aladin.co.kr/product/843/34/cover/8932911525_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "도리언 그레이의 초상",
+            "weight": 12.0
+          },
+          {
+            "word": "문학",
+            "weight": 9.0
+          },
+          {
+            "word": "예술",
+            "weight": 9.0
+          },
+          {
+            "word": "열린책",
+            "weight": 8.0
+          },
+          {
+            "word": "자신",
+            "weight": 5.0
+          },
+          {
+            "word": "오스카",
+            "weight": 5.0
+          },
+          {
+            "word": "영국",
+            "weight": 5.0
+          },
+          {
+            "word": "고전",
+            "weight": 4.0
+          },
+          {
+            "word": "창조",
+            "weight": 4.0
+          },
+          {
+            "word": "아일랜드",
+            "weight": 4.0
+          },
+          {
+            "word": "모습",
+            "weight": 4.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 4.0
+          },
+          {
+            "word": "선정",
+            "weight": 3.0
+          },
+          {
+            "word": "소멸",
+            "weight": 3.0
+          },
+          {
+            "word": "과정",
+            "weight": 3.0
+          },
+          {
+            "word": "폐허의 도시",
+            "weight": 3.0
+          },
+          {
+            "word": "리핀코츠 먼슬리 매거진",
+            "weight": 3.0
+          },
+          {
+            "word": "마티스 스토리",
+            "weight": 3.0
+          },
+          {
+            "word": "천사와 벌레",
+            "weight": 3.0
+          },
+          {
+            "word": "정신분석학의 근본 개념",
+            "weight": 3.0
+          },
+          {
+            "word": "소설",
+            "weight": 3.0
+          },
+          {
+            "word": "타락",
+            "weight": 3.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "인물",
+            "weight": 3.0
+          },
+          {
+            "word": "의심스러운 싸움",
+            "weight": 3.0
+          },
+          {
+            "word": "소유",
+            "weight": 3.0
+          },
+          {
+            "word": "개성",
+            "weight": 3.0
+          },
+          {
+            "word": "동행",
+            "weight": 3.0
+          },
+          {
+            "word": "초상화",
+            "weight": 3.0
+          },
+          {
+            "word": "목적",
+            "weight": 3.0
+          },
+          {
+            "word": "디자인",
+            "weight": 3.0
+          },
+          {
+            "word": "영혼",
+            "weight": 3.0
+          },
+          {
+            "word": "연보",
+            "weight": 2.0
+          },
+          {
+            "word": "얼굴",
+            "weight": 2.0
+          },
+          {
+            "word": "아일랜드소설",
+            "weight": 2.0
+          },
+          {
+            "word": "내용",
+            "weight": 2.0
+          },
+          {
+            "word": "서구",
+            "weight": 2.0
+          },
+          {
+            "word": "스펙트럼",
+            "weight": 2.0
+          },
+          {
+            "word": "버나드",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "부여",
+            "weight": 2.0
+          },
+          {
+            "word": "간직",
+            "weight": 2.0
+          },
+          {
+            "word": "감각",
+            "weight": 2.0
+          },
+          {
+            "word": "영화소설",
+            "weight": 2.0
+          },
+          {
+            "word": "결과적",
+            "weight": 2.0
+          },
+          {
+            "word": "결국",
+            "weight": 2.0
+          },
+          {
+            "word": "경구",
+            "weight": 2.0
+          },
+          {
+            "word": "고려대학교",
+            "weight": 2.0
+          },
+          {
+            "word": "관계",
+            "weight": 2.0
+          },
+          {
+            "word": "시대",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "달과 6펜스",
+            "isbn13": "9788937460388",
+            "authors": "서머싯 몸 지음;송무 옮김"
+          },
+          {
+            "bookname": "브람스를 좋아하세요 ",
+            "isbn13": "9788937461798",
+            "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+          },
+          {
+            "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+            "isbn13": "9791130646381",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+            "isbn13": "9791189327156",
+            "authors": "룰루 밀러 지음 ;정지인 옮김"
+          },
+          {
+            "bookname": "밝은 밤 :최은영 장편소설 ",
+            "isbn13": "9788954681179",
+            "authors": "지은이: 최은영"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+            "isbn13": "9791130698199",
+            "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "도리언 그레이의 초상"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000581494",
+        "title": "도리언 그레이의 초상",
+        "subtitle": "양장본 Hardcover",
+        "page": "362 p.",
+        "book_size": "128*188mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788932911526",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788932911526",
+      "isbn_add_code": "04840",
+      "set_isbn": "9788932914992",
+      "set_add_code": "04800 ",
+      "set_expression": "",
+      "price": "₩9800",
+      "title": "도리언 그레이의 초상",
+      "subtitle": "양장본 Hardcover",
+      "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "열린책들",
+      "publish_year": "2010",
+      "publish_predate": "20101220",
+      "kdc": "843.4",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 영미문학 > 소설",
+      "ddc": "823.8",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "362 p.",
+      "book_size": "128*188mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "영국의 지배를 받던 아일랜드 더블린에서 태어나 주로 영국에서 활동했던 오스카 와일드는 아일랜드 출신의 다른 유명 작가, 예를 들면 예이츠나 버나드 쇼 등과 마찬가지로 경계인의 삶을 살았다. &lt;도리언 그레이의 초상&gt;은 오스카 와일드가 남긴 유일한 장편소설로, 평생 그가 추구했던 유미주의를 함축하고 있는 작품이다.",
+      "control_no": "CIP2010004424",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2445054_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "도리언 그레이의 초상",
+          "weight": 12.0
+        },
+        {
+          "word": "문학",
+          "weight": 9.0
+        },
+        {
+          "word": "예술",
+          "weight": 9.0
+        },
+        {
+          "word": "열린책",
+          "weight": 8.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "오스카",
+          "weight": 5.0
+        },
+        {
+          "word": "영국",
+          "weight": 5.0
+        },
+        {
+          "word": "고전",
+          "weight": 4.0
+        },
+        {
+          "word": "창조",
+          "weight": 4.0
+        },
+        {
+          "word": "아일랜드",
+          "weight": 4.0
+        },
+        {
+          "word": "모습",
+          "weight": 4.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 4.0
+        },
+        {
+          "word": "선정",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "과정",
+          "weight": 3.0
+        },
+        {
+          "word": "폐허의 도시",
+          "weight": 3.0
+        },
+        {
+          "word": "리핀코츠 먼슬리 매거진",
+          "weight": 3.0
+        },
+        {
+          "word": "마티스 스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "천사와 벌레",
+          "weight": 3.0
+        },
+        {
+          "word": "정신분석학의 근본 개념",
+          "weight": 3.0
+        },
+        {
+          "word": "소설",
+          "weight": 3.0
+        },
+        {
+          "word": "타락",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "인물",
+          "weight": 3.0
+        },
+        {
+          "word": "의심스러운 싸움",
+          "weight": 3.0
+        },
+        {
+          "word": "소유",
+          "weight": 3.0
+        },
+        {
+          "word": "개성",
+          "weight": 3.0
+        },
+        {
+          "word": "동행",
+          "weight": 3.0
+        },
+        {
+          "word": "초상화",
+          "weight": 3.0
+        },
+        {
+          "word": "목적",
+          "weight": 3.0
+        },
+        {
+          "word": "디자인",
+          "weight": 3.0
+        },
+        {
+          "word": "영혼",
+          "weight": 3.0
+        },
+        {
+          "word": "연보",
+          "weight": 2.0
+        },
+        {
+          "word": "얼굴",
+          "weight": 2.0
+        },
+        {
+          "word": "아일랜드소설",
+          "weight": 2.0
+        },
+        {
+          "word": "내용",
+          "weight": 2.0
+        },
+        {
+          "word": "서구",
+          "weight": 2.0
+        },
+        {
+          "word": "스펙트럼",
+          "weight": 2.0
+        },
+        {
+          "word": "버나드",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "부여",
+          "weight": 2.0
+        },
+        {
+          "word": "간직",
+          "weight": 2.0
+        },
+        {
+          "word": "감각",
+          "weight": 2.0
+        },
+        {
+          "word": "영화소설",
+          "weight": 2.0
+        },
+        {
+          "word": "결과적",
+          "weight": 2.0
+        },
+        {
+          "word": "결국",
+          "weight": 2.0
+        },
+        {
+          "word": "경구",
+          "weight": 2.0
+        },
+        {
+          "word": "고려대학교",
+          "weight": 2.0
+        },
+        {
+          "word": "관계",
+          "weight": 2.0
+        },
+        {
+          "word": "시대",
+          "weight": 2.0
+        }
+      ],
+      "description": "영국의 지배를 받던 아일랜드 더블린에서 태어나 주로 영국에서 활동했던 오스카 와일드는 아일랜드 출신의 다른 유명 작가, 예를 들면 예이츠나 버나드 쇼 등과 마찬가지로 경계인의 삶을 살았다. &lt;도리언 그레이의 초상&gt;은 오스카 와일드가 남긴 유일한 장편소설로, 평생 그가 추구했던 유미주의를 함축하고 있는 작품이다.",
+      "co_loan_books": [
+        {
+          "bookname": "달과 6펜스",
+          "isbn13": "9788937460388",
+          "authors": "서머싯 몸 지음;송무 옮김"
+        },
+        {
+          "bookname": "브람스를 좋아하세요 ",
+          "isbn13": "9788937461798",
+          "authors": "프랑수아즈 사강 [지음] ;김남주 옮김"
+        },
+        {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "isbn13": "9791130646381",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "isbn13": "9791189327156",
+          "authors": "룰루 밀러 지음 ;정지인 옮김"
+        },
+        {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "isbn13": "9788954681179",
+          "authors": "지은이: 최은영"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "isbn13": "9791130698199",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        }
+      ],
+      "title": "도리언 그레이의 초상",
+      "author": "지은이: 오스카 와일드 ;옮긴이: 윤희기",
+      "kdc_from_api": "843.4",
+      "ddc_from_api": "823.8",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

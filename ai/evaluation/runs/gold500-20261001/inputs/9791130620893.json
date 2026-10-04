@@ -1,0 +1,1084 @@
+{
+  "isbn": "9791130620893",
+  "captured_at": "2026-10-03T00:16:08.798162+09:00",
+  "lookup": {
+    "isbn": "9791130620893",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791130620893",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "돈 공부는 처음이라",
+      "subtitle": "0원부터 시작하는 난생처음 부자 수업",
+      "author": "김종봉,제갈현열 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다산북스",
+      "publish_year": "2019",
+      "publish_predate": "20190222",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "332.024",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "147*195mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "사람들이 잘못 알고 있는 돈에 대한 상식을 짚어주고, 잘못된 상식으로 지금까지 돈 모으는 데 어려움을 겪던 사람들에게 도움이 되는 정보를 알려준다. 단순히 이론적인 정보만을 알려주는 것이 아니라, 돈 불리는 데 직접적인 도움이 되는 습관을 자산에 따라 4단계로 나누어 소개하여 누구나 따라 할 수 있다.",
+      "control_no": "CIP2019004229",
+      "cover_url": "https://image.aladin.co.kr/product/18418/50/cover/k852534252_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7148880_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 13.0
+        },
+        {
+          "word": "보이",
+          "weight": 10.0
+        },
+        {
+          "word": "행복",
+          "weight": 8.0
+        },
+        {
+          "word": "Part",
+          "weight": 6.0
+        },
+        {
+          "word": "1억",
+          "weight": 6.0
+        },
+        {
+          "word": "5억",
+          "weight": 5.0
+        },
+        {
+          "word": "4단계",
+          "weight": 5.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "도움",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "관점",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "구간",
+          "weight": 4.0
+        },
+        {
+          "word": "상식",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "선택",
+          "weight": 4.0
+        },
+        {
+          "word": "현실",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "결국",
+          "weight": 4.0
+        },
+        {
+          "word": "잉여",
+          "weight": 4.0
+        },
+        {
+          "word": "투자자",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 4.0
+        },
+        {
+          "word": "투자물",
+          "weight": 4.0
+        },
+        {
+          "word": "실체",
+          "weight": 4.0
+        },
+        {
+          "word": "불리",
+          "weight": 3.0
+        },
+        {
+          "word": "조각",
+          "weight": 3.0
+        },
+        {
+          "word": "주식",
+          "weight": 3.0
+        },
+        {
+          "word": "마주",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "제갈현열",
+          "weight": 3.0
+        },
+        {
+          "word": "무작정",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "단계",
+          "weight": 3.0
+        },
+        {
+          "word": "금액",
+          "weight": 3.0
+        },
+        {
+          "word": "김종봉",
+          "weight": 3.0
+        },
+        {
+          "word": "서점",
+          "weight": 3.0
+        },
+        {
+          "word": "습관",
+          "weight": 3.0
+        },
+        {
+          "word": "과시",
+          "weight": 2.0
+        },
+        {
+          "word": "관해",
+          "weight": 2.0
+        },
+        {
+          "word": "교환",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "부자",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "3퍼센트",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "thejb",
+          "weight": 2.0
+        },
+        {
+          "word": "불편",
+          "weight": 2.0
+        },
+        {
+          "word": "prologue",
+          "weight": 2.0
+        }
+      ],
+      "description": "사람들이 잘못 알고 있는 돈에 대한 상식을 짚어주고, 잘못된 상식으로 지금까지 돈 모으는 데 어려움을 겪던 사람들에게 도움이 되는 정보를 알려준다. 단순히 이론적인 정보만을 알려주는 것이 아니라, 돈 불리는 데 직접적인 도움이 되는 습관을 자산에 따라 4단계로 나누어 소개하여 누구나 따라 할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 시나리오 :계획이 있는 돈은 흔들리지 않는다 ",
+          "isbn13": "9791130634432",
+          "authors": "김종봉,제갈현열 지음"
+        },
+        {
+          "bookname": "돈은, 너로부터다 :부를 묻자 돈의 신이 답했다 ",
+          "isbn13": "9791130699448",
+          "authors": "지은이: 김종봉,제갈현열"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+          "isbn13": "9788960306134",
+          "authors": "뿅글이 지음"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        }
+      ],
+      "title": "돈 공부는 처음이라",
+      "author": "김종봉,제갈현열 지음",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "332.024",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "돈 공부는 처음이라",
+        "author": "김종봉,제갈현열 지음",
+        "publisher": "다산북스",
+        "publish_predate": "20190222",
+        "isbn": "9791130620893",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩16000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "343 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "327.04",
+        "ddc": "332.024",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2019004229",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7148880_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "돈 공부는 처음이라 :0원부터 시작하는 난생처음 부자 수업 ",
+        "author": "김종봉,제갈현열 지음",
+        "publisher": "다산북스",
+        "publish_year": "2019",
+        "isbn": "1130620891",
+        "isbn13": "9791130620893",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "327.04",
+        "class_nm": "사회과학 > 경제학 > 금융",
+        "description": "사람들이 잘못 알고 있는 돈에 대한 상식을 짚어주고, 잘못된 상식으로 지금까지 돈 모으는 데 어려움을 겪던 사람들에게 도움이 되는 정보를 알려준다. 단순히 이론적인 정보만을 알려주는 것이 아니라, 돈 불리는 데 직접적인 도움이 되는 습관을 자산에 따라 4단계로 나누어 소개하여 누구나 따라 할 수 있다.",
+        "cover_url": "https://image.aladin.co.kr/product/18418/50/cover/k852534252_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "투자",
+            "weight": 18.0
+          },
+          {
+            "word": "사람",
+            "weight": 13.0
+          },
+          {
+            "word": "보이",
+            "weight": 10.0
+          },
+          {
+            "word": "행복",
+            "weight": 8.0
+          },
+          {
+            "word": "Part",
+            "weight": 6.0
+          },
+          {
+            "word": "1억",
+            "weight": 6.0
+          },
+          {
+            "word": "5억",
+            "weight": 5.0
+          },
+          {
+            "word": "4단계",
+            "weight": 5.0
+          },
+          {
+            "word": "정보",
+            "weight": 5.0
+          },
+          {
+            "word": "도움",
+            "weight": 5.0
+          },
+          {
+            "word": "시작",
+            "weight": 4.0
+          },
+          {
+            "word": "관점",
+            "weight": 4.0
+          },
+          {
+            "word": "시간",
+            "weight": 4.0
+          },
+          {
+            "word": "구간",
+            "weight": 4.0
+          },
+          {
+            "word": "상식",
+            "weight": 4.0
+          },
+          {
+            "word": "가지",
+            "weight": 4.0
+          },
+          {
+            "word": "선택",
+            "weight": 4.0
+          },
+          {
+            "word": "현실",
+            "weight": 4.0
+          },
+          {
+            "word": "경험",
+            "weight": 4.0
+          },
+          {
+            "word": "필요",
+            "weight": 4.0
+          },
+          {
+            "word": "결국",
+            "weight": 4.0
+          },
+          {
+            "word": "잉여",
+            "weight": 4.0
+          },
+          {
+            "word": "투자자",
+            "weight": 4.0
+          },
+          {
+            "word": "행동",
+            "weight": 4.0
+          },
+          {
+            "word": "투자물",
+            "weight": 4.0
+          },
+          {
+            "word": "실체",
+            "weight": 4.0
+          },
+          {
+            "word": "불리",
+            "weight": 3.0
+          },
+          {
+            "word": "조각",
+            "weight": 3.0
+          },
+          {
+            "word": "주식",
+            "weight": 3.0
+          },
+          {
+            "word": "마주",
+            "weight": 3.0
+          },
+          {
+            "word": "인생",
+            "weight": 3.0
+          },
+          {
+            "word": "제갈현열",
+            "weight": 3.0
+          },
+          {
+            "word": "무작정",
+            "weight": 3.0
+          },
+          {
+            "word": "누구",
+            "weight": 3.0
+          },
+          {
+            "word": "단계",
+            "weight": 3.0
+          },
+          {
+            "word": "금액",
+            "weight": 3.0
+          },
+          {
+            "word": "김종봉",
+            "weight": 3.0
+          },
+          {
+            "word": "서점",
+            "weight": 3.0
+          },
+          {
+            "word": "습관",
+            "weight": 3.0
+          },
+          {
+            "word": "과시",
+            "weight": 2.0
+          },
+          {
+            "word": "관해",
+            "weight": 2.0
+          },
+          {
+            "word": "교환",
+            "weight": 2.0
+          },
+          {
+            "word": "관심",
+            "weight": 2.0
+          },
+          {
+            "word": "부자",
+            "weight": 2.0
+          },
+          {
+            "word": "공부",
+            "weight": 2.0
+          },
+          {
+            "word": "3퍼센트",
+            "weight": 2.0
+          },
+          {
+            "word": "사실",
+            "weight": 2.0
+          },
+          {
+            "word": "thejb",
+            "weight": 2.0
+          },
+          {
+            "word": "불편",
+            "weight": 2.0
+          },
+          {
+            "word": "prologue",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "돈의 시나리오 :계획이 있는 돈은 흔들리지 않는다 ",
+            "isbn13": "9791130634432",
+            "authors": "김종봉,제갈현열 지음"
+          },
+          {
+            "bookname": "돈은, 너로부터다 :부를 묻자 돈의 신이 답했다 ",
+            "isbn13": "9791130699448",
+            "authors": "지은이: 김종봉,제갈현열"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+            "isbn13": "9791191056372",
+            "authors": "모건 하우절 지음 ;이지연 옮김"
+          },
+          {
+            "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+            "isbn13": "9791158883591",
+            "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+            "isbn13": "9788960306134",
+            "authors": "뿅글이 지음"
+          },
+          {
+            "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+            "isbn13": "9791165347161",
+            "authors": "송희구 지음"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "돈 공부는 처음이라"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001686656",
+        "title": "돈 공부는 처음이라",
+        "subtitle": "0원부터 시작하는 난생처음 부자 수업",
+        "page": "344 p.",
+        "book_size": "147*195mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791130620893",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791130620893",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩16000",
+      "title": "돈 공부는 처음이라",
+      "subtitle": "0원부터 시작하는 난생처음 부자 수업",
+      "author": "김종봉,제갈현열 지음",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다산북스",
+      "publish_year": "2019",
+      "publish_predate": "20190222",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "332.024",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "344 p.",
+      "book_size": "147*195mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "사람들이 잘못 알고 있는 돈에 대한 상식을 짚어주고, 잘못된 상식으로 지금까지 돈 모으는 데 어려움을 겪던 사람들에게 도움이 되는 정보를 알려준다. 단순히 이론적인 정보만을 알려주는 것이 아니라, 돈 불리는 데 직접적인 도움이 되는 습관을 자산에 따라 4단계로 나누어 소개하여 누구나 따라 할 수 있다.",
+      "control_no": "CIP2019004229",
+      "cover_url": "https://image.aladin.co.kr/product/18418/50/cover/k852534252_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7148880_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 18.0
+        },
+        {
+          "word": "사람",
+          "weight": 13.0
+        },
+        {
+          "word": "보이",
+          "weight": 10.0
+        },
+        {
+          "word": "행복",
+          "weight": 8.0
+        },
+        {
+          "word": "Part",
+          "weight": 6.0
+        },
+        {
+          "word": "1억",
+          "weight": 6.0
+        },
+        {
+          "word": "5억",
+          "weight": 5.0
+        },
+        {
+          "word": "4단계",
+          "weight": 5.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "도움",
+          "weight": 5.0
+        },
+        {
+          "word": "시작",
+          "weight": 4.0
+        },
+        {
+          "word": "관점",
+          "weight": 4.0
+        },
+        {
+          "word": "시간",
+          "weight": 4.0
+        },
+        {
+          "word": "구간",
+          "weight": 4.0
+        },
+        {
+          "word": "상식",
+          "weight": 4.0
+        },
+        {
+          "word": "가지",
+          "weight": 4.0
+        },
+        {
+          "word": "선택",
+          "weight": 4.0
+        },
+        {
+          "word": "현실",
+          "weight": 4.0
+        },
+        {
+          "word": "경험",
+          "weight": 4.0
+        },
+        {
+          "word": "필요",
+          "weight": 4.0
+        },
+        {
+          "word": "결국",
+          "weight": 4.0
+        },
+        {
+          "word": "잉여",
+          "weight": 4.0
+        },
+        {
+          "word": "투자자",
+          "weight": 4.0
+        },
+        {
+          "word": "행동",
+          "weight": 4.0
+        },
+        {
+          "word": "투자물",
+          "weight": 4.0
+        },
+        {
+          "word": "실체",
+          "weight": 4.0
+        },
+        {
+          "word": "불리",
+          "weight": 3.0
+        },
+        {
+          "word": "조각",
+          "weight": 3.0
+        },
+        {
+          "word": "주식",
+          "weight": 3.0
+        },
+        {
+          "word": "마주",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "제갈현열",
+          "weight": 3.0
+        },
+        {
+          "word": "무작정",
+          "weight": 3.0
+        },
+        {
+          "word": "누구",
+          "weight": 3.0
+        },
+        {
+          "word": "단계",
+          "weight": 3.0
+        },
+        {
+          "word": "금액",
+          "weight": 3.0
+        },
+        {
+          "word": "김종봉",
+          "weight": 3.0
+        },
+        {
+          "word": "서점",
+          "weight": 3.0
+        },
+        {
+          "word": "습관",
+          "weight": 3.0
+        },
+        {
+          "word": "과시",
+          "weight": 2.0
+        },
+        {
+          "word": "관해",
+          "weight": 2.0
+        },
+        {
+          "word": "교환",
+          "weight": 2.0
+        },
+        {
+          "word": "관심",
+          "weight": 2.0
+        },
+        {
+          "word": "부자",
+          "weight": 2.0
+        },
+        {
+          "word": "공부",
+          "weight": 2.0
+        },
+        {
+          "word": "3퍼센트",
+          "weight": 2.0
+        },
+        {
+          "word": "사실",
+          "weight": 2.0
+        },
+        {
+          "word": "thejb",
+          "weight": 2.0
+        },
+        {
+          "word": "불편",
+          "weight": 2.0
+        },
+        {
+          "word": "prologue",
+          "weight": 2.0
+        }
+      ],
+      "description": "사람들이 잘못 알고 있는 돈에 대한 상식을 짚어주고, 잘못된 상식으로 지금까지 돈 모으는 데 어려움을 겪던 사람들에게 도움이 되는 정보를 알려준다. 단순히 이론적인 정보만을 알려주는 것이 아니라, 돈 불리는 데 직접적인 도움이 되는 습관을 자산에 따라 4단계로 나누어 소개하여 누구나 따라 할 수 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 시나리오 :계획이 있는 돈은 흔들리지 않는다 ",
+          "isbn13": "9791130634432",
+          "authors": "김종봉,제갈현열 지음"
+        },
+        {
+          "bookname": "돈은, 너로부터다 :부를 묻자 돈의 신이 답했다 ",
+          "isbn13": "9791130699448",
+          "authors": "지은이: 김종봉,제갈현열"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "isbn13": "9791191056372",
+          "authors": "모건 하우절 지음 ;이지연 옮김"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+          "isbn13": "9788960306134",
+          "authors": "뿅글이 지음"
+        },
+        {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "isbn13": "9791165347161",
+          "authors": "송희구 지음"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        }
+      ],
+      "title": "돈 공부는 처음이라",
+      "author": "김종봉,제갈현열 지음",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "332.024",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

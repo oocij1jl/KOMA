@@ -1,0 +1,1088 @@
+{
+  "isbn": "9791189271121",
+  "captured_at": "2026-10-02T00:19:10.888504+09:00",
+  "lookup": {
+    "isbn": "9791189271121",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189271121",
+      "isbn_add_code": "03830",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8000",
+      "title": "인간실격",
+      "subtitle": "",
+      "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "새움",
+      "publish_year": "2018",
+      "publish_predate": "20180816",
+      "kdc": "833.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "895.634",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "129*197mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2018년, 다자이 오사무가 세상을 떠난 지 70주기가 되는 해를 맞아 그의 자서전이자 유서와도 같은 작품 &lt;인간실격&gt;이 출간되었다. 고전소설 번역의 직역을 주장하며 섬세한 번역으로 사랑받고 있는 새움 세계문학 시리즈로 새롭게 태어난 것이다.",
+      "control_no": "CIP2018021244",
+      "cover_url": "https://image.aladin.co.kr/product/16315/85/cover/k572533341_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인간실격",
+          "weight": 15.0
+        },
+        {
+          "word": "사양",
+          "weight": 9.0
+        },
+        {
+          "word": "오사무",
+          "weight": 9.0
+        },
+        {
+          "word": "다자이",
+          "weight": 9.0
+        },
+        {
+          "word": "번역",
+          "weight": 7.0
+        },
+        {
+          "word": "요조",
+          "weight": 6.0
+        },
+        {
+          "word": "수기",
+          "weight": 4.0
+        },
+        {
+          "word": "영화",
+          "weight": 3.0
+        },
+        {
+          "word": "직역",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "역자",
+          "weight": 3.0
+        },
+        {
+          "word": "역행",
+          "weight": 3.0
+        },
+        {
+          "word": "만년",
+          "weight": 3.0
+        },
+        {
+          "word": "인간 실격",
+          "weight": 3.0
+        },
+        {
+          "word": "고전소설",
+          "weight": 3.0
+        },
+        {
+          "word": "주장",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "마약",
+          "weight": 2.0
+        },
+        {
+          "word": "섬세",
+          "weight": 2.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 2.0
+        },
+        {
+          "word": "사진",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "편의",
+          "weight": 2.0
+        },
+        {
+          "word": "일본",
+          "weight": 2.0
+        },
+        {
+          "word": "입학",
+          "weight": 2.0
+        },
+        {
+          "word": "장현주",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "참고",
+          "weight": 2.0
+        },
+        {
+          "word": "충실",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "쉼표",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "유서",
+          "weight": 2.0
+        },
+        {
+          "word": "여자",
+          "weight": 2.0
+        },
+        {
+          "word": "행갈",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "자서전",
+          "weight": 2.0
+        },
+        {
+          "word": "남자",
+          "weight": 2.0
+        },
+        {
+          "word": "원문",
+          "weight": 2.0
+        },
+        {
+          "word": "다자이 오사무",
+          "weight": 2.0
+        },
+        {
+          "word": "담배",
+          "weight": 2.0
+        },
+        {
+          "word": "결혼",
+          "weight": 1.0
+        },
+        {
+          "word": "방탕",
+          "weight": 1.0
+        },
+        {
+          "word": "대표",
+          "weight": 1.0
+        },
+        {
+          "word": "견고",
+          "weight": 1.0
+        },
+        {
+          "word": "겁쟁이",
+          "weight": 1.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "단편집",
+          "weight": 1.0
+        },
+        {
+          "word": "후기",
+          "weight": 1.0
+        }
+      ],
+      "description": "2018년, 다자이 오사무가 세상을 떠난 지 70주기가 되는 해를 맞아 그의 자서전이자 유서와도 같은 작품 &lt;인간실격&gt;이 출간되었다. 고전소설 번역의 직역을 주장하며 섬세한 번역으로 사랑받고 있는 새움 세계문학 시리즈로 새롭게 태어난 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "구의 증명 :최진영 소설 ",
+          "isbn13": "9788956608556",
+          "authors": "지은이: 최진영"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+          "isbn13": "9788956609959",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        }
+      ],
+      "title": "인간실격",
+      "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+      "kdc_from_api": "833.6",
+      "ddc_from_api": "895.634",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견",
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "인간실격",
+        "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+        "publisher": "새움",
+        "publish_predate": "20180816",
+        "isbn": "9791189271121",
+        "isbn_add_code": "03830",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩8000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "171 p.",
+        "book_size": "",
+        "form": "종이책",
+        "kdc": "833.6",
+        "ddc": "895.634",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2018021244",
+        "cover_url": "",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_6.txt",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "인간실격 ",
+        "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+        "publisher": "새움",
+        "publish_year": "2018",
+        "isbn": "1189271125",
+        "isbn13": "9791189271121",
+        "isbn_add_code": "03830",
+        "volume": "",
+        "class_no": "833.6",
+        "class_nm": "문학 > 일본문학 > 소설",
+        "description": "2018년, 다자이 오사무가 세상을 떠난 지 70주기가 되는 해를 맞아 그의 자서전이자 유서와도 같은 작품 &lt;인간실격&gt;이 출간되었다. 고전소설 번역의 직역을 주장하며 섬세한 번역으로 사랑받고 있는 새움 세계문학 시리즈로 새롭게 태어난 것이다.",
+        "cover_url": "https://image.aladin.co.kr/product/16315/85/cover/k572533341_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "인간실격",
+            "weight": 15.0
+          },
+          {
+            "word": "사양",
+            "weight": 9.0
+          },
+          {
+            "word": "오사무",
+            "weight": 9.0
+          },
+          {
+            "word": "다자이",
+            "weight": 9.0
+          },
+          {
+            "word": "번역",
+            "weight": 7.0
+          },
+          {
+            "word": "요조",
+            "weight": 6.0
+          },
+          {
+            "word": "수기",
+            "weight": 4.0
+          },
+          {
+            "word": "영화",
+            "weight": 3.0
+          },
+          {
+            "word": "직역",
+            "weight": 3.0
+          },
+          {
+            "word": "세상",
+            "weight": 3.0
+          },
+          {
+            "word": "역자",
+            "weight": 3.0
+          },
+          {
+            "word": "역행",
+            "weight": 3.0
+          },
+          {
+            "word": "만년",
+            "weight": 3.0
+          },
+          {
+            "word": "인간 실격",
+            "weight": 3.0
+          },
+          {
+            "word": "고전소설",
+            "weight": 3.0
+          },
+          {
+            "word": "주장",
+            "weight": 3.0
+          },
+          {
+            "word": "세계문학",
+            "weight": 2.0
+          },
+          {
+            "word": "마약",
+            "weight": 2.0
+          },
+          {
+            "word": "섬세",
+            "weight": 2.0
+          },
+          {
+            "word": "프로그램",
+            "weight": 2.0
+          },
+          {
+            "word": "사진",
+            "weight": 2.0
+          },
+          {
+            "word": "인간",
+            "weight": 2.0
+          },
+          {
+            "word": "편의",
+            "weight": 2.0
+          },
+          {
+            "word": "일본",
+            "weight": 2.0
+          },
+          {
+            "word": "입학",
+            "weight": 2.0
+          },
+          {
+            "word": "장현주",
+            "weight": 2.0
+          },
+          {
+            "word": "2018년",
+            "weight": 2.0
+          },
+          {
+            "word": "참고",
+            "weight": 2.0
+          },
+          {
+            "word": "충실",
+            "weight": 2.0
+          },
+          {
+            "word": "방송",
+            "weight": 2.0
+          },
+          {
+            "word": "사랑",
+            "weight": 2.0
+          },
+          {
+            "word": "쉼표",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "유서",
+            "weight": 2.0
+          },
+          {
+            "word": "여자",
+            "weight": 2.0
+          },
+          {
+            "word": "행갈",
+            "weight": 2.0
+          },
+          {
+            "word": "깊이",
+            "weight": 2.0
+          },
+          {
+            "word": "자서전",
+            "weight": 2.0
+          },
+          {
+            "word": "남자",
+            "weight": 2.0
+          },
+          {
+            "word": "원문",
+            "weight": 2.0
+          },
+          {
+            "word": "다자이 오사무",
+            "weight": 2.0
+          },
+          {
+            "word": "담배",
+            "weight": 2.0
+          },
+          {
+            "word": "결혼",
+            "weight": 1.0
+          },
+          {
+            "word": "방탕",
+            "weight": 1.0
+          },
+          {
+            "word": "대표",
+            "weight": 1.0
+          },
+          {
+            "word": "견고",
+            "weight": 1.0
+          },
+          {
+            "word": "겁쟁이",
+            "weight": 1.0
+          },
+          {
+            "word": "대신",
+            "weight": 1.0
+          },
+          {
+            "word": "단편집",
+            "weight": 1.0
+          },
+          {
+            "word": "후기",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "구의 증명 :최진영 소설 ",
+            "isbn13": "9788956608556",
+            "authors": "지은이: 최진영"
+          },
+          {
+            "bookname": "채식주의자:한강 연작소설",
+            "isbn13": "9788936433598",
+            "authors": "한강"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "모순 :양귀자 장편소설 ",
+            "isbn13": "9788998441012",
+            "authors": "지은이: 양귀자"
+          },
+          {
+            "bookname": "홍학의 자리 :정해연 장편소설 ",
+            "isbn13": "9788954681155",
+            "authors": "지은이: 정해연"
+          },
+          {
+            "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+            "isbn13": "9788956609959",
+            "authors": "지은이: 정유정"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "작별인사 :김영하 장편소설 ",
+            "isbn13": "9791191114225",
+            "authors": "지은이: 김영하"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "인간실격"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001925163",
+        "title": "인간실격",
+        "subtitle": "",
+        "page": "172 p.",
+        "book_size": "129*197mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791189271121",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791189271121",
+      "isbn_add_code": "03830",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩8000",
+      "title": "인간실격",
+      "subtitle": "",
+      "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "새움",
+      "publish_year": "2018",
+      "publish_predate": "20180816",
+      "kdc": "833.6",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 일본문학 > 소설",
+      "ddc": "895.634",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "172 p.",
+      "book_size": "129*197mm",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "2018년, 다자이 오사무가 세상을 떠난 지 70주기가 되는 해를 맞아 그의 자서전이자 유서와도 같은 작품 &lt;인간실격&gt;이 출간되었다. 고전소설 번역의 직역을 주장하며 섬세한 번역으로 사랑받고 있는 새움 세계문학 시리즈로 새롭게 태어난 것이다.",
+      "control_no": "CIP2018021244",
+      "cover_url": "https://image.aladin.co.kr/product/16315/85/cover/k572533341_1.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_6.txt",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6734331_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "인간실격",
+          "weight": 15.0
+        },
+        {
+          "word": "사양",
+          "weight": 9.0
+        },
+        {
+          "word": "오사무",
+          "weight": 9.0
+        },
+        {
+          "word": "다자이",
+          "weight": 9.0
+        },
+        {
+          "word": "번역",
+          "weight": 7.0
+        },
+        {
+          "word": "요조",
+          "weight": 6.0
+        },
+        {
+          "word": "수기",
+          "weight": 4.0
+        },
+        {
+          "word": "영화",
+          "weight": 3.0
+        },
+        {
+          "word": "직역",
+          "weight": 3.0
+        },
+        {
+          "word": "세상",
+          "weight": 3.0
+        },
+        {
+          "word": "역자",
+          "weight": 3.0
+        },
+        {
+          "word": "역행",
+          "weight": 3.0
+        },
+        {
+          "word": "만년",
+          "weight": 3.0
+        },
+        {
+          "word": "인간 실격",
+          "weight": 3.0
+        },
+        {
+          "word": "고전소설",
+          "weight": 3.0
+        },
+        {
+          "word": "주장",
+          "weight": 3.0
+        },
+        {
+          "word": "세계문학",
+          "weight": 2.0
+        },
+        {
+          "word": "마약",
+          "weight": 2.0
+        },
+        {
+          "word": "섬세",
+          "weight": 2.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 2.0
+        },
+        {
+          "word": "사진",
+          "weight": 2.0
+        },
+        {
+          "word": "인간",
+          "weight": 2.0
+        },
+        {
+          "word": "편의",
+          "weight": 2.0
+        },
+        {
+          "word": "일본",
+          "weight": 2.0
+        },
+        {
+          "word": "입학",
+          "weight": 2.0
+        },
+        {
+          "word": "장현주",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "참고",
+          "weight": 2.0
+        },
+        {
+          "word": "충실",
+          "weight": 2.0
+        },
+        {
+          "word": "방송",
+          "weight": 2.0
+        },
+        {
+          "word": "사랑",
+          "weight": 2.0
+        },
+        {
+          "word": "쉼표",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "유서",
+          "weight": 2.0
+        },
+        {
+          "word": "여자",
+          "weight": 2.0
+        },
+        {
+          "word": "행갈",
+          "weight": 2.0
+        },
+        {
+          "word": "깊이",
+          "weight": 2.0
+        },
+        {
+          "word": "자서전",
+          "weight": 2.0
+        },
+        {
+          "word": "남자",
+          "weight": 2.0
+        },
+        {
+          "word": "원문",
+          "weight": 2.0
+        },
+        {
+          "word": "다자이 오사무",
+          "weight": 2.0
+        },
+        {
+          "word": "담배",
+          "weight": 2.0
+        },
+        {
+          "word": "결혼",
+          "weight": 1.0
+        },
+        {
+          "word": "방탕",
+          "weight": 1.0
+        },
+        {
+          "word": "대표",
+          "weight": 1.0
+        },
+        {
+          "word": "견고",
+          "weight": 1.0
+        },
+        {
+          "word": "겁쟁이",
+          "weight": 1.0
+        },
+        {
+          "word": "대신",
+          "weight": 1.0
+        },
+        {
+          "word": "단편집",
+          "weight": 1.0
+        },
+        {
+          "word": "후기",
+          "weight": 1.0
+        }
+      ],
+      "description": "2018년, 다자이 오사무가 세상을 떠난 지 70주기가 되는 해를 맞아 그의 자서전이자 유서와도 같은 작품 &lt;인간실격&gt;이 출간되었다. 고전소설 번역의 직역을 주장하며 섬세한 번역으로 사랑받고 있는 새움 세계문학 시리즈로 새롭게 태어난 것이다.",
+      "co_loan_books": [
+        {
+          "bookname": "구의 증명 :최진영 소설 ",
+          "isbn13": "9788956608556",
+          "authors": "지은이: 최진영"
+        },
+        {
+          "bookname": "채식주의자:한강 연작소설",
+          "isbn13": "9788936433598",
+          "authors": "한강"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "isbn13": "9788998441012",
+          "authors": "지은이: 양귀자"
+        },
+        {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "isbn13": "9788954681155",
+          "authors": "지은이: 정해연"
+        },
+        {
+          "bookname": "종의 기원 =정유정 장편소설 /The origin of species ",
+          "isbn13": "9788956609959",
+          "authors": "지은이: 정유정"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "isbn13": "9791191114225",
+          "authors": "지은이: 김영하"
+        }
+      ],
+      "title": "인간실격",
+      "author": "지은이: 다자이 오사무 ;옮긴이: 장현주",
+      "kdc_from_api": "833.6",
+      "ddc_from_api": "895.634",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'번역' 표현 발견",
+          "'옮긴이' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

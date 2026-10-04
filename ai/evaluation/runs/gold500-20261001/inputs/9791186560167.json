@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791186560167",
+  "captured_at": "2026-10-02T00:21:43.263977+09:00",
+  "lookup": {
+    "isbn": "9791186560167",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186560167",
+      "isbn_add_code": "04320",
+      "set_isbn": "9791186560211",
+      "set_add_code": "04320 ",
+      "set_expression": "(세트)",
+      "price": "₩15800",
+      "title": "명견만리:인구, 경제, 북한, 의료 편 ",
+      "subtitle": "향후 인류에게 가장 중요한 것들을 말하다",
+      "author": "KBS 〈명견만리〉 제작진",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "(주)인플루엔셜",
+      "publish_year": "2016",
+      "publish_predate": "20160607",
+      "kdc": "331.544",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "303.49",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "명견만리 ",
+      "series_no": "",
+      "page": "296 p.",
+      "book_size": "152*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'명견만리'가 다룬 미래 사회의 주요 키워드들을 2편으로 나눈 것 중 그 첫 번째 결과물이다. 이번 1편에서는 인구, 경제, 북한, 의료 문제를, 2편에서는 교육, 기술, 중국, 윤리 문제를 다루고 있다.",
+      "control_no": "CIP2016012104",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "명견만리",
+          "weight": 21.0
+        },
+        {
+          "word": "문제",
+          "weight": 17.0
+        },
+        {
+          "word": "미래",
+          "weight": 16.0
+        },
+        {
+          "word": "기회",
+          "weight": 11.0
+        },
+        {
+          "word": "변화",
+          "weight": 11.0
+        },
+        {
+          "word": "인구",
+          "weight": 9.0
+        },
+        {
+          "word": "인류",
+          "weight": 9.0
+        },
+        {
+          "word": "일자리",
+          "weight": 8.0
+        },
+        {
+          "word": "콘텐츠",
+          "weight": 8.0
+        },
+        {
+          "word": "북한",
+          "weight": 8.0
+        },
+        {
+          "word": "사회",
+          "weight": 8.0
+        },
+        {
+          "word": "주목",
+          "weight": 8.0
+        },
+        {
+          "word": "전문가",
+          "weight": 7.0
+        },
+        {
+          "word": "세대",
+          "weight": 7.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 7.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "향후",
+          "weight": 6.0
+        },
+        {
+          "word": "시대",
+          "weight": 6.0
+        },
+        {
+          "word": "은퇴",
+          "weight": 5.0
+        },
+        {
+          "word": "기술",
+          "weight": 5.0
+        },
+        {
+          "word": "기존",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "의료",
+          "weight": 5.0
+        },
+        {
+          "word": "장마당",
+          "weight": 4.0
+        },
+        {
+          "word": "유전자",
+          "weight": 4.0
+        },
+        {
+          "word": "김난도",
+          "weight": 4.0
+        },
+        {
+          "word": "저성장",
+          "weight": 4.0
+        },
+        {
+          "word": "예상",
+          "weight": 4.0
+        },
+        {
+          "word": "통찰",
+          "weight": 4.0
+        },
+        {
+          "word": "해법",
+          "weight": 4.0
+        },
+        {
+          "word": "지식",
+          "weight": 4.0
+        },
+        {
+          "word": "바탕",
+          "weight": 4.0
+        },
+        {
+          "word": "예측",
+          "weight": 4.0
+        },
+        {
+          "word": "TV",
+          "weight": 4.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "Lecture Documentary",
+          "weight": 3.0
+        },
+        {
+          "word": "소비",
+          "weight": 3.0
+        },
+        {
+          "word": "김영란",
+          "weight": 3.0
+        },
+        {
+          "word": "렉처멘터리",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "나라",
+          "weight": 3.0
+        },
+        {
+          "word": "자료조사",
+          "weight": 3.0
+        },
+        {
+          "word": "발전",
+          "weight": 3.0
+        },
+        {
+          "word": "장진",
+          "weight": 3.0
+        },
+        {
+          "word": "담론",
+          "weight": 3.0
+        },
+        {
+          "word": "미래참여단",
+          "weight": 3.0
+        },
+        {
+          "word": "서태지",
+          "weight": 3.0
+        },
+        {
+          "word": "인사",
+          "weight": 3.0
+        }
+      ],
+      "description": "'명견만리'가 다룬 미래 사회의 주요 키워드들을 2편으로 나눈 것 중 그 첫 번째 결과물이다. 이번 1편에서는 인구, 경제, 북한, 의료 문제를, 2편에서는 교육, 기술, 중국, 윤리 문제를 다루고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "명견만리 :우리가 준비해야 할 미래의 기회를 말하다",
+          "isbn13": "9791186560204",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :지금까지 경험하지 못한 새로운 사회를 말하다",
+          "isbn13": "9791186560433",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+          "isbn13": "9791186560976",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :우리가 만들어갈 미래의 가치를 말하다",
+          "isbn13": "9791191056594",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+          "isbn13": "9791186560211",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "명견만리:인구, 경제, 북한, 의료 편 ",
+      "author": "KBS 〈명견만리〉 제작진",
+      "kdc_from_api": "331.544",
+      "ddc_from_api": "303.49",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "명견만리:인구, 경제, 북한, 의료 편 ",
+        "author": "KBS 〈명견만리〉 제작진",
+        "publisher": "(주)인플루엔셜",
+        "publish_predate": "20160607",
+        "isbn": "9791186560167",
+        "isbn_add_code": "04320",
+        "set_isbn": "9791186560211",
+        "set_add_code": "04320 ",
+        "set_expression": "(세트)",
+        "price": "₩15800",
+        "edition_stmt": "",
+        "series_title": "명견만리 ",
+        "series_no": "",
+        "volume": "1",
+        "page": "288페이지 내외",
+        "book_size": "",
+        "form": "",
+        "kdc": "331.544",
+        "ddc": "303.49",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2016012104",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_3.jpg",
+        "toc_url": "",
+        "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_5.txt"
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "명견만리 :향후 인류에게 가장 중요한 것들을 말하다",
+        "author": "KBS <명견만리> 제작팀 지음",
+        "publisher": "인플루엔셜",
+        "publish_year": "2016",
+        "isbn": "1186560169",
+        "isbn13": "9791186560167",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "331.544",
+        "class_nm": "사회과학 > 사회학, 사회문제 > 사회학",
+        "description": "'명견만리'가 다룬 미래 사회의 주요 키워드들을 2편으로 나눈 것 중 그 첫 번째 결과물이다. 이번 1편에서는 인구, 경제, 북한, 의료 문제를, 2편에서는 교육, 기술, 중국, 윤리 문제를 다루고 있다.",
+        "cover_url": "http://image.aladin.co.kr/product/8468/10/cover/k362535362_3.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "명견만리",
+            "weight": 21.0
+          },
+          {
+            "word": "문제",
+            "weight": 17.0
+          },
+          {
+            "word": "미래",
+            "weight": 16.0
+          },
+          {
+            "word": "기회",
+            "weight": 11.0
+          },
+          {
+            "word": "변화",
+            "weight": 11.0
+          },
+          {
+            "word": "인구",
+            "weight": 9.0
+          },
+          {
+            "word": "인류",
+            "weight": 9.0
+          },
+          {
+            "word": "일자리",
+            "weight": 8.0
+          },
+          {
+            "word": "콘텐츠",
+            "weight": 8.0
+          },
+          {
+            "word": "북한",
+            "weight": 8.0
+          },
+          {
+            "word": "사회",
+            "weight": 8.0
+          },
+          {
+            "word": "주목",
+            "weight": 8.0
+          },
+          {
+            "word": "전문가",
+            "weight": 7.0
+          },
+          {
+            "word": "세대",
+            "weight": 7.0
+          },
+          {
+            "word": "프로그램",
+            "weight": 7.0
+          },
+          {
+            "word": "세계",
+            "weight": 7.0
+          },
+          {
+            "word": "향후",
+            "weight": 6.0
+          },
+          {
+            "word": "시대",
+            "weight": 6.0
+          },
+          {
+            "word": "은퇴",
+            "weight": 5.0
+          },
+          {
+            "word": "기술",
+            "weight": 5.0
+          },
+          {
+            "word": "기존",
+            "weight": 5.0
+          },
+          {
+            "word": "사람",
+            "weight": 5.0
+          },
+          {
+            "word": "의료",
+            "weight": 5.0
+          },
+          {
+            "word": "장마당",
+            "weight": 4.0
+          },
+          {
+            "word": "유전자",
+            "weight": 4.0
+          },
+          {
+            "word": "김난도",
+            "weight": 4.0
+          },
+          {
+            "word": "저성장",
+            "weight": 4.0
+          },
+          {
+            "word": "예상",
+            "weight": 4.0
+          },
+          {
+            "word": "통찰",
+            "weight": 4.0
+          },
+          {
+            "word": "해법",
+            "weight": 4.0
+          },
+          {
+            "word": "지식",
+            "weight": 4.0
+          },
+          {
+            "word": "바탕",
+            "weight": 4.0
+          },
+          {
+            "word": "예측",
+            "weight": 4.0
+          },
+          {
+            "word": "TV",
+            "weight": 4.0
+          },
+          {
+            "word": "자본주의",
+            "weight": 3.0
+          },
+          {
+            "word": "인생",
+            "weight": 3.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 3.0
+          },
+          {
+            "word": "Lecture Documentary",
+            "weight": 3.0
+          },
+          {
+            "word": "소비",
+            "weight": 3.0
+          },
+          {
+            "word": "김영란",
+            "weight": 3.0
+          },
+          {
+            "word": "렉처멘터리",
+            "weight": 3.0
+          },
+          {
+            "word": "소멸",
+            "weight": 3.0
+          },
+          {
+            "word": "나라",
+            "weight": 3.0
+          },
+          {
+            "word": "자료조사",
+            "weight": 3.0
+          },
+          {
+            "word": "발전",
+            "weight": 3.0
+          },
+          {
+            "word": "장진",
+            "weight": 3.0
+          },
+          {
+            "word": "담론",
+            "weight": 3.0
+          },
+          {
+            "word": "미래참여단",
+            "weight": 3.0
+          },
+          {
+            "word": "서태지",
+            "weight": 3.0
+          },
+          {
+            "word": "인사",
+            "weight": 3.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "명견만리 :우리가 준비해야 할 미래의 기회를 말하다",
+            "isbn13": "9791186560204",
+            "authors": "KBS <명견만리> 제작팀 지음"
+          },
+          {
+            "bookname": "명견만리 :지금까지 경험하지 못한 새로운 사회를 말하다",
+            "isbn13": "9791186560433",
+            "authors": "KBS <명견만리> 제작팀 지음"
+          },
+          {
+            "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+            "isbn13": "9791186560976",
+            "authors": "KBS <명견만리> 제작팀 지음"
+          },
+          {
+            "bookname": "명견만리 :우리가 만들어갈 미래의 가치를 말하다",
+            "isbn13": "9791191056594",
+            "authors": "KBS <명견만리> 제작팀 지음"
+          },
+          {
+            "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+            "isbn13": "9791186560211",
+            "authors": "KBS <명견만리> 제작팀 지음"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "황금종이 :조정래 장편소설 ",
+            "isbn13": "9791167140722",
+            "authors": "저자: 조정래"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "명견만리:인구, 경제, 북한, 의료 편 1"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001887737",
+        "title": "명견만리: 인구, 경제, 북한, 의료 편",
+        "subtitle": "향후 인류에게 가장 중요한 것들을 말하다",
+        "page": "296 p.",
+        "book_size": "152*225mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791186560167",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791186560167",
+      "isbn_add_code": "04320",
+      "set_isbn": "9791186560211",
+      "set_add_code": "04320 ",
+      "set_expression": "(세트)",
+      "price": "₩15800",
+      "title": "명견만리:인구, 경제, 북한, 의료 편 ",
+      "subtitle": "향후 인류에게 가장 중요한 것들을 말하다",
+      "author": "KBS 〈명견만리〉 제작진",
+      "volume": "1",
+      "pub_place": "",
+      "publisher": "(주)인플루엔셜",
+      "publish_year": "2016",
+      "publish_predate": "20160607",
+      "kdc": "331.544",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 사회학, 사회문제 > 사회학",
+      "ddc": "303.49",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "명견만리 ",
+      "series_no": "",
+      "page": "296 p.",
+      "book_size": "152*225mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "'명견만리'가 다룬 미래 사회의 주요 키워드들을 2편으로 나눈 것 중 그 첫 번째 결과물이다. 이번 1편에서는 인구, 경제, 북한, 의료 문제를, 2편에서는 교육, 기술, 중국, 윤리 문제를 다루고 있다.",
+      "control_no": "CIP2016012104",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_3.jpg",
+      "toc_url": "",
+      "intro_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5437733_5.txt",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "volume": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "명견만리",
+          "weight": 21.0
+        },
+        {
+          "word": "문제",
+          "weight": 17.0
+        },
+        {
+          "word": "미래",
+          "weight": 16.0
+        },
+        {
+          "word": "기회",
+          "weight": 11.0
+        },
+        {
+          "word": "변화",
+          "weight": 11.0
+        },
+        {
+          "word": "인구",
+          "weight": 9.0
+        },
+        {
+          "word": "인류",
+          "weight": 9.0
+        },
+        {
+          "word": "일자리",
+          "weight": 8.0
+        },
+        {
+          "word": "콘텐츠",
+          "weight": 8.0
+        },
+        {
+          "word": "북한",
+          "weight": 8.0
+        },
+        {
+          "word": "사회",
+          "weight": 8.0
+        },
+        {
+          "word": "주목",
+          "weight": 8.0
+        },
+        {
+          "word": "전문가",
+          "weight": 7.0
+        },
+        {
+          "word": "세대",
+          "weight": 7.0
+        },
+        {
+          "word": "프로그램",
+          "weight": 7.0
+        },
+        {
+          "word": "세계",
+          "weight": 7.0
+        },
+        {
+          "word": "향후",
+          "weight": 6.0
+        },
+        {
+          "word": "시대",
+          "weight": 6.0
+        },
+        {
+          "word": "은퇴",
+          "weight": 5.0
+        },
+        {
+          "word": "기술",
+          "weight": 5.0
+        },
+        {
+          "word": "기존",
+          "weight": 5.0
+        },
+        {
+          "word": "사람",
+          "weight": 5.0
+        },
+        {
+          "word": "의료",
+          "weight": 5.0
+        },
+        {
+          "word": "장마당",
+          "weight": 4.0
+        },
+        {
+          "word": "유전자",
+          "weight": 4.0
+        },
+        {
+          "word": "김난도",
+          "weight": 4.0
+        },
+        {
+          "word": "저성장",
+          "weight": 4.0
+        },
+        {
+          "word": "예상",
+          "weight": 4.0
+        },
+        {
+          "word": "통찰",
+          "weight": 4.0
+        },
+        {
+          "word": "해법",
+          "weight": 4.0
+        },
+        {
+          "word": "지식",
+          "weight": 4.0
+        },
+        {
+          "word": "바탕",
+          "weight": 4.0
+        },
+        {
+          "word": "예측",
+          "weight": 4.0
+        },
+        {
+          "word": "TV",
+          "weight": 4.0
+        },
+        {
+          "word": "자본주의",
+          "weight": 3.0
+        },
+        {
+          "word": "인생",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "Lecture Documentary",
+          "weight": 3.0
+        },
+        {
+          "word": "소비",
+          "weight": 3.0
+        },
+        {
+          "word": "김영란",
+          "weight": 3.0
+        },
+        {
+          "word": "렉처멘터리",
+          "weight": 3.0
+        },
+        {
+          "word": "소멸",
+          "weight": 3.0
+        },
+        {
+          "word": "나라",
+          "weight": 3.0
+        },
+        {
+          "word": "자료조사",
+          "weight": 3.0
+        },
+        {
+          "word": "발전",
+          "weight": 3.0
+        },
+        {
+          "word": "장진",
+          "weight": 3.0
+        },
+        {
+          "word": "담론",
+          "weight": 3.0
+        },
+        {
+          "word": "미래참여단",
+          "weight": 3.0
+        },
+        {
+          "word": "서태지",
+          "weight": 3.0
+        },
+        {
+          "word": "인사",
+          "weight": 3.0
+        }
+      ],
+      "description": "'명견만리'가 다룬 미래 사회의 주요 키워드들을 2편으로 나눈 것 중 그 첫 번째 결과물이다. 이번 1편에서는 인구, 경제, 북한, 의료 문제를, 2편에서는 교육, 기술, 중국, 윤리 문제를 다루고 있다.",
+      "co_loan_books": [
+        {
+          "bookname": "명견만리 :우리가 준비해야 할 미래의 기회를 말하다",
+          "isbn13": "9791186560204",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :지금까지 경험하지 못한 새로운 사회를 말하다",
+          "isbn13": "9791186560433",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+          "isbn13": "9791186560976",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :우리가 만들어갈 미래의 가치를 말하다",
+          "isbn13": "9791191056594",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "명견만리 :모두를 위한 공존의 시대를 말하다",
+          "isbn13": "9791186560211",
+          "authors": "KBS <명견만리> 제작팀 지음"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "황금종이 :조정래 장편소설 ",
+          "isbn13": "9791167140722",
+          "authors": "저자: 조정래"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        }
+      ],
+      "title": "명견만리:인구, 경제, 북한, 의료 편 ",
+      "author": "KBS 〈명견만리〉 제작진",
+      "kdc_from_api": "331.544",
+      "ddc_from_api": "303.49",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

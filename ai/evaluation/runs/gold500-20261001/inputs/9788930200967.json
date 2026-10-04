@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788930200967",
+  "captured_at": "2026-10-05T00:10:16.479569+09:00",
+  "lookup": {
+    "isbn": "9788930200967",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788930200967",
+      "isbn_add_code": "74900",
+      "set_isbn": "9788930200790",
+      "set_add_code": "74900 ",
+      "set_expression": "(세트)",
+      "price": "₩11000",
+      "title": "Why? 이탈리아",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 김승렬 ;그림: 이태훈",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "예림당",
+      "publish_year": "2012",
+      "publish_predate": "20120405",
+      "kdc": "909",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 역사 > 세계사, 세계문화사",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "Why? 세계사",
+      "series_no": "w016",
+      "page": "185 p.",
+      "book_size": "188*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "Why? 세계사 시리즈. 이탈리아의 지리적 특징과 자연환경은 물론 화려한 예술과 옛 로마의 유서 깊은 문화유산을 소개한다. 또한 현재의 이탈리아를 있게 한 정치.경제 분야의 발달과 특징은 무엇인지 알아보고, 고대 로마 제국의 탄생부터 근현대사까지의 간략하지만 핵심적인 역사를 다뤘다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/1668/49/cover/8930200966_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세계사",
+          "weight": 15.0
+        },
+        {
+          "word": "나라",
+          "weight": 13.0
+        },
+        {
+          "word": "이탈리아",
+          "weight": 12.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "Why",
+          "weight": 7.0
+        },
+        {
+          "word": "탄생",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "자연환경",
+          "weight": 5.0
+        },
+        {
+          "word": "로마",
+          "weight": 5.0
+        },
+        {
+          "word": "문화",
+          "weight": 5.0
+        },
+        {
+          "word": "경제",
+          "weight": 5.0
+        },
+        {
+          "word": "문화유산",
+          "weight": 5.0
+        },
+        {
+          "word": "핵심적",
+          "weight": 4.0
+        },
+        {
+          "word": "화려",
+          "weight": 4.0
+        },
+        {
+          "word": "정치",
+          "weight": 4.0
+        },
+        {
+          "word": "학습만화",
+          "weight": 4.0
+        },
+        {
+          "word": "특징",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "소통",
+          "weight": 4.0
+        },
+        {
+          "word": "대표",
+          "weight": 3.0
+        },
+        {
+          "word": "한국사",
+          "weight": 3.0
+        },
+        {
+          "word": "글로벌",
+          "weight": 3.0
+        },
+        {
+          "word": "지리적",
+          "weight": 3.0
+        },
+        {
+          "word": "발달",
+          "weight": 3.0
+        },
+        {
+          "word": "그대",
+          "weight": 3.0
+        },
+        {
+          "word": "사회",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "Why  시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "유럽",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "Why  세계사 이탈리아",
+          "weight": 3.0
+        },
+        {
+          "word": "고대",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "시련",
+          "weight": 2.0
+        },
+        {
+          "word": "영광",
+          "weight": 2.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "예림당",
+          "weight": 2.0
+        },
+        {
+          "word": "연표",
+          "weight": 2.0
+        },
+        {
+          "word": "구성",
+          "weight": 2.0
+        },
+        {
+          "word": "각종",
+          "weight": 2.0
+        },
+        {
+          "word": "국가",
+          "weight": 2.0
+        },
+        {
+          "word": "유서",
+          "weight": 2.0
+        },
+        {
+          "word": "과학학습만화",
+          "weight": 2.0
+        },
+        {
+          "word": "영향력",
+          "weight": 2.0
+        },
+        {
+          "word": "강대국",
+          "weight": 2.0
+        },
+        {
+          "word": "간략",
+          "weight": 2.0
+        },
+        {
+          "word": "간단",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        }
+      ],
+      "description": "Why? 세계사 시리즈. 이탈리아의 지리적 특징과 자연환경은 물론 화려한 예술과 옛 로마의 유서 깊은 문화유산을 소개한다. 또한 현재의 이탈리아를 있게 한 정치.경제 분야의 발달과 특징은 무엇인지 알아보고, 고대 로마 제국의 탄생부터 근현대사까지의 간략하지만 핵심적인 역사를 다뤘다.",
+      "co_loan_books": [
+        {
+          "bookname": "Why? 프랑스 ",
+          "isbn13": "9788930200974",
+          "authors": "글: 남춘자 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 독일 ",
+          "isbn13": "9788930200950",
+          "authors": "글: 김승렬 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 미국 ",
+          "isbn13": "9788930200929",
+          "authors": "글: 남춘자 ;그림: 크레파스"
+        },
+        {
+          "bookname": "Why? 일본 ",
+          "isbn13": "9788930200936",
+          "authors": "글: 전재운 ;그림: 최병국"
+        },
+        {
+          "bookname": "Why? 인도 ",
+          "isbn13": "9788930200981",
+          "authors": "글: 오영석 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 영국 ",
+          "isbn13": "9788930200943",
+          "authors": "글쓴이: 유기영,그림: 김정진"
+        },
+        {
+          "bookname": "Why? 브라질 ",
+          "isbn13": "9788930201018",
+          "authors": "글: 박준형,그림: 코믹팜"
+        },
+        {
+          "bookname": "Why? 중국 ",
+          "isbn13": "9788930201001",
+          "authors": "글: 김승렬 ;그림: 그림수레"
+        },
+        {
+          "bookname": "Why? 스페인 ",
+          "isbn13": "9788930201049",
+          "authors": "글쓴이: 박현비 ;그린이: 윤현우"
+        },
+        {
+          "bookname": "Why? 러시아 ",
+          "isbn13": "9788930200998",
+          "authors": "글쓴이: 안영주 ;그린이: 윤현우"
+        }
+      ],
+      "title": "Why? 이탈리아",
+      "author": "글: 김승렬 ;그림: 이태훈",
+      "kdc_from_api": "909",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "Why? 이탈리아",
+        "author": "글: 김승렬 ;그림: 이태훈",
+        "publisher": "예림당",
+        "publish_predate": "20120405",
+        "isbn": "9788930200967",
+        "isbn_add_code": "74900",
+        "set_isbn": "9788930200790",
+        "set_add_code": "74900 ",
+        "set_expression": "(세트)",
+        "price": "₩11000",
+        "edition_stmt": "",
+        "series_title": "Why? 세계사",
+        "series_no": "w016",
+        "volume": "",
+        "page": "",
+        "book_size": "",
+        "form": "",
+        "kdc": "",
+        "ddc": "",
+        "subject": "9",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "Why? 이탈리아 ",
+        "author": "글: 김승렬 ;그림: 이태훈",
+        "publisher": "예림당",
+        "publish_year": "2012",
+        "isbn": "8930200966",
+        "isbn13": "9788930200967",
+        "isbn_add_code": "73920",
+        "volume": "",
+        "class_no": "909",
+        "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+        "description": "Why? 세계사 시리즈. 이탈리아의 지리적 특징과 자연환경은 물론 화려한 예술과 옛 로마의 유서 깊은 문화유산을 소개한다. 또한 현재의 이탈리아를 있게 한 정치.경제 분야의 발달과 특징은 무엇인지 알아보고, 고대 로마 제국의 탄생부터 근현대사까지의 간략하지만 핵심적인 역사를 다뤘다.",
+        "cover_url": "http://image.aladin.co.kr/product/1668/49/cover/8930200966_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "세계사",
+            "weight": 15.0
+          },
+          {
+            "word": "나라",
+            "weight": 13.0
+          },
+          {
+            "word": "이탈리아",
+            "weight": 12.0
+          },
+          {
+            "word": "세계",
+            "weight": 11.0
+          },
+          {
+            "word": "역사",
+            "weight": 9.0
+          },
+          {
+            "word": "Why",
+            "weight": 7.0
+          },
+          {
+            "word": "탄생",
+            "weight": 5.0
+          },
+          {
+            "word": "이해",
+            "weight": 5.0
+          },
+          {
+            "word": "자연환경",
+            "weight": 5.0
+          },
+          {
+            "word": "로마",
+            "weight": 5.0
+          },
+          {
+            "word": "문화",
+            "weight": 5.0
+          },
+          {
+            "word": "경제",
+            "weight": 5.0
+          },
+          {
+            "word": "문화유산",
+            "weight": 5.0
+          },
+          {
+            "word": "핵심적",
+            "weight": 4.0
+          },
+          {
+            "word": "화려",
+            "weight": 4.0
+          },
+          {
+            "word": "정치",
+            "weight": 4.0
+          },
+          {
+            "word": "학습만화",
+            "weight": 4.0
+          },
+          {
+            "word": "특징",
+            "weight": 4.0
+          },
+          {
+            "word": "시대",
+            "weight": 4.0
+          },
+          {
+            "word": "내용",
+            "weight": 4.0
+          },
+          {
+            "word": "소통",
+            "weight": 4.0
+          },
+          {
+            "word": "대표",
+            "weight": 3.0
+          },
+          {
+            "word": "한국사",
+            "weight": 3.0
+          },
+          {
+            "word": "글로벌",
+            "weight": 3.0
+          },
+          {
+            "word": "지리적",
+            "weight": 3.0
+          },
+          {
+            "word": "발달",
+            "weight": 3.0
+          },
+          {
+            "word": "그대",
+            "weight": 3.0
+          },
+          {
+            "word": "사회",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 3.0
+          },
+          {
+            "word": "Why  시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "유럽",
+            "weight": 3.0
+          },
+          {
+            "word": "오늘날",
+            "weight": 3.0
+          },
+          {
+            "word": "Why  세계사 이탈리아",
+            "weight": 3.0
+          },
+          {
+            "word": "고대",
+            "weight": 3.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 3.0
+          },
+          {
+            "word": "시련",
+            "weight": 2.0
+          },
+          {
+            "word": "영광",
+            "weight": 2.0
+          },
+          {
+            "word": "상대",
+            "weight": 2.0
+          },
+          {
+            "word": "예림당",
+            "weight": 2.0
+          },
+          {
+            "word": "연표",
+            "weight": 2.0
+          },
+          {
+            "word": "구성",
+            "weight": 2.0
+          },
+          {
+            "word": "각종",
+            "weight": 2.0
+          },
+          {
+            "word": "국가",
+            "weight": 2.0
+          },
+          {
+            "word": "유서",
+            "weight": 2.0
+          },
+          {
+            "word": "과학학습만화",
+            "weight": 2.0
+          },
+          {
+            "word": "영향력",
+            "weight": 2.0
+          },
+          {
+            "word": "강대국",
+            "weight": 2.0
+          },
+          {
+            "word": "간략",
+            "weight": 2.0
+          },
+          {
+            "word": "간단",
+            "weight": 2.0
+          },
+          {
+            "word": "예술",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "Why? 프랑스 ",
+            "isbn13": "9788930200974",
+            "authors": "글: 남춘자 ;그림: 윤현우"
+          },
+          {
+            "bookname": "Why? 독일 ",
+            "isbn13": "9788930200950",
+            "authors": "글: 김승렬 ;그림: 윤현우"
+          },
+          {
+            "bookname": "Why? 미국 ",
+            "isbn13": "9788930200929",
+            "authors": "글: 남춘자 ;그림: 크레파스"
+          },
+          {
+            "bookname": "Why? 일본 ",
+            "isbn13": "9788930200936",
+            "authors": "글: 전재운 ;그림: 최병국"
+          },
+          {
+            "bookname": "Why? 인도 ",
+            "isbn13": "9788930200981",
+            "authors": "글: 오영석 ;그림: 윤현우"
+          },
+          {
+            "bookname": "Why? 영국 ",
+            "isbn13": "9788930200943",
+            "authors": "글쓴이: 유기영,그림: 김정진"
+          },
+          {
+            "bookname": "Why? 브라질 ",
+            "isbn13": "9788930201018",
+            "authors": "글: 박준형,그림: 코믹팜"
+          },
+          {
+            "bookname": "Why? 중국 ",
+            "isbn13": "9788930201001",
+            "authors": "글: 김승렬 ;그림: 그림수레"
+          },
+          {
+            "bookname": "Why? 스페인 ",
+            "isbn13": "9788930201049",
+            "authors": "글쓴이: 박현비 ;그린이: 윤현우"
+          },
+          {
+            "bookname": "Why? 러시아 ",
+            "isbn13": "9788930200998",
+            "authors": "글쓴이: 안영주 ;그린이: 윤현우"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "Why? 이탈리아"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000540914",
+        "title": "Why? 세계사: 이탈리아",
+        "subtitle": "양장본 Hardcover",
+        "page": "185 p.",
+        "book_size": "188*250mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788930200967",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788930200967",
+      "isbn_add_code": "74900",
+      "set_isbn": "9788930200790",
+      "set_add_code": "74900 ",
+      "set_expression": "(세트)",
+      "price": "₩11000",
+      "title": "Why? 이탈리아",
+      "subtitle": "양장본 Hardcover",
+      "author": "글: 김승렬 ;그림: 이태훈",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "예림당",
+      "publish_year": "2012",
+      "publish_predate": "20120405",
+      "kdc": "909",
+      "kdc_edition": "",
+      "kdc_name": "역사 > 역사 > 세계사, 세계문화사",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "9",
+      "edition_stmt": "",
+      "series_title": "Why? 세계사",
+      "series_no": "w016",
+      "page": "185 p.",
+      "book_size": "188*250mm",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "Why? 세계사 시리즈. 이탈리아의 지리적 특징과 자연환경은 물론 화려한 예술과 옛 로마의 유서 깊은 문화유산을 소개한다. 또한 현재의 이탈리아를 있게 한 정치.경제 분야의 발달과 특징은 무엇인지 알아보고, 고대 로마 제국의 탄생부터 근현대사까지의 간략하지만 핵심적인 역사를 다뤘다.",
+      "control_no": "",
+      "cover_url": "http://image.aladin.co.kr/product/1668/49/cover/8930200966_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "kyobo",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "세계사",
+          "weight": 15.0
+        },
+        {
+          "word": "나라",
+          "weight": 13.0
+        },
+        {
+          "word": "이탈리아",
+          "weight": 12.0
+        },
+        {
+          "word": "세계",
+          "weight": 11.0
+        },
+        {
+          "word": "역사",
+          "weight": 9.0
+        },
+        {
+          "word": "Why",
+          "weight": 7.0
+        },
+        {
+          "word": "탄생",
+          "weight": 5.0
+        },
+        {
+          "word": "이해",
+          "weight": 5.0
+        },
+        {
+          "word": "자연환경",
+          "weight": 5.0
+        },
+        {
+          "word": "로마",
+          "weight": 5.0
+        },
+        {
+          "word": "문화",
+          "weight": 5.0
+        },
+        {
+          "word": "경제",
+          "weight": 5.0
+        },
+        {
+          "word": "문화유산",
+          "weight": 5.0
+        },
+        {
+          "word": "핵심적",
+          "weight": 4.0
+        },
+        {
+          "word": "화려",
+          "weight": 4.0
+        },
+        {
+          "word": "정치",
+          "weight": 4.0
+        },
+        {
+          "word": "학습만화",
+          "weight": 4.0
+        },
+        {
+          "word": "특징",
+          "weight": 4.0
+        },
+        {
+          "word": "시대",
+          "weight": 4.0
+        },
+        {
+          "word": "내용",
+          "weight": 4.0
+        },
+        {
+          "word": "소통",
+          "weight": 4.0
+        },
+        {
+          "word": "대표",
+          "weight": 3.0
+        },
+        {
+          "word": "한국사",
+          "weight": 3.0
+        },
+        {
+          "word": "글로벌",
+          "weight": 3.0
+        },
+        {
+          "word": "지리적",
+          "weight": 3.0
+        },
+        {
+          "word": "발달",
+          "weight": 3.0
+        },
+        {
+          "word": "그대",
+          "weight": 3.0
+        },
+        {
+          "word": "사회",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 3.0
+        },
+        {
+          "word": "Why  시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "유럽",
+          "weight": 3.0
+        },
+        {
+          "word": "오늘날",
+          "weight": 3.0
+        },
+        {
+          "word": "Why  세계사 이탈리아",
+          "weight": 3.0
+        },
+        {
+          "word": "고대",
+          "weight": 3.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 3.0
+        },
+        {
+          "word": "시련",
+          "weight": 2.0
+        },
+        {
+          "word": "영광",
+          "weight": 2.0
+        },
+        {
+          "word": "상대",
+          "weight": 2.0
+        },
+        {
+          "word": "예림당",
+          "weight": 2.0
+        },
+        {
+          "word": "연표",
+          "weight": 2.0
+        },
+        {
+          "word": "구성",
+          "weight": 2.0
+        },
+        {
+          "word": "각종",
+          "weight": 2.0
+        },
+        {
+          "word": "국가",
+          "weight": 2.0
+        },
+        {
+          "word": "유서",
+          "weight": 2.0
+        },
+        {
+          "word": "과학학습만화",
+          "weight": 2.0
+        },
+        {
+          "word": "영향력",
+          "weight": 2.0
+        },
+        {
+          "word": "강대국",
+          "weight": 2.0
+        },
+        {
+          "word": "간략",
+          "weight": 2.0
+        },
+        {
+          "word": "간단",
+          "weight": 2.0
+        },
+        {
+          "word": "예술",
+          "weight": 2.0
+        }
+      ],
+      "description": "Why? 세계사 시리즈. 이탈리아의 지리적 특징과 자연환경은 물론 화려한 예술과 옛 로마의 유서 깊은 문화유산을 소개한다. 또한 현재의 이탈리아를 있게 한 정치.경제 분야의 발달과 특징은 무엇인지 알아보고, 고대 로마 제국의 탄생부터 근현대사까지의 간략하지만 핵심적인 역사를 다뤘다.",
+      "co_loan_books": [
+        {
+          "bookname": "Why? 프랑스 ",
+          "isbn13": "9788930200974",
+          "authors": "글: 남춘자 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 독일 ",
+          "isbn13": "9788930200950",
+          "authors": "글: 김승렬 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 미국 ",
+          "isbn13": "9788930200929",
+          "authors": "글: 남춘자 ;그림: 크레파스"
+        },
+        {
+          "bookname": "Why? 일본 ",
+          "isbn13": "9788930200936",
+          "authors": "글: 전재운 ;그림: 최병국"
+        },
+        {
+          "bookname": "Why? 인도 ",
+          "isbn13": "9788930200981",
+          "authors": "글: 오영석 ;그림: 윤현우"
+        },
+        {
+          "bookname": "Why? 영국 ",
+          "isbn13": "9788930200943",
+          "authors": "글쓴이: 유기영,그림: 김정진"
+        },
+        {
+          "bookname": "Why? 브라질 ",
+          "isbn13": "9788930201018",
+          "authors": "글: 박준형,그림: 코믹팜"
+        },
+        {
+          "bookname": "Why? 중국 ",
+          "isbn13": "9788930201001",
+          "authors": "글: 김승렬 ;그림: 그림수레"
+        },
+        {
+          "bookname": "Why? 스페인 ",
+          "isbn13": "9788930201049",
+          "authors": "글쓴이: 박현비 ;그린이: 윤현우"
+        },
+        {
+          "bookname": "Why? 러시아 ",
+          "isbn13": "9788930200998",
+          "authors": "글쓴이: 안영주 ;그린이: 윤현우"
+        }
+      ],
+      "title": "Why? 이탈리아",
+      "author": "글: 김승렬 ;그림: 이태훈",
+      "kdc_from_api": "909",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

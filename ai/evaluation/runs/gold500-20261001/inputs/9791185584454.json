@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791185584454",
+  "captured_at": "2026-10-02T00:23:06.824625+09:00",
+  "lookup": {
+    "isbn": "9791185584454",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185584454",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "나는 4시간만 일한다",
+      "subtitle": "디지털 노마드 시대 완전히 새로운 삶의 방식",
+      "author": "팀 페리스 지음 ;최원형,윤동준 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다른상상 :빛과향기",
+      "publish_year": "2017",
+      "publish_predate": "20171020",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "147*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "디지털 노마드 논의에 처음으로 불을 붙인 당사자이자 지금도 선도자로서 성공적인 인터넷 기업가로 활동하는 저자는 협상의 앞 글자를 딴 4단계 전략을 구체적으로 제시하며 최소한만 일하며 원하는 대로 사는 방법을 이 책에 모두 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/11956/55/cover/k392531430_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "시간",
+          "weight": 20.0
+        },
+        {
+          "word": "수입",
+          "weight": 18.0
+        },
+        {
+          "word": "자동화",
+          "weight": 15.0
+        },
+        {
+          "word": "달러",
+          "weight": 13.0
+        },
+        {
+          "word": "일주일",
+          "weight": 12.0
+        },
+        {
+          "word": "방법",
+          "weight": 11.0
+        },
+        {
+          "word": "선택",
+          "weight": 11.0
+        },
+        {
+          "word": "과정",
+          "weight": 11.0
+        },
+        {
+          "word": "4시간",
+          "weight": 11.0
+        },
+        {
+          "word": "라이프스타일",
+          "weight": 10.0
+        },
+        {
+          "word": "근무",
+          "weight": 10.0
+        },
+        {
+          "word": "필요",
+          "weight": 10.0
+        },
+        {
+          "word": "정의",
+          "weight": 8.0
+        },
+        {
+          "word": "하루",
+          "weight": 8.0
+        },
+        {
+          "word": "백만장자",
+          "weight": 8.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 8.0
+        },
+        {
+          "word": "규칙",
+          "weight": 8.0
+        },
+        {
+          "word": "질문",
+          "weight": 7.0
+        },
+        {
+          "word": "제시",
+          "weight": 7.0
+        },
+        {
+          "word": "완전",
+          "weight": 7.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "은퇴",
+          "weight": 7.0
+        },
+        {
+          "word": "법칙",
+          "weight": 7.0
+        },
+        {
+          "word": "기존",
+          "weight": 7.0
+        },
+        {
+          "word": "월스트리트저널",
+          "weight": 6.0
+        },
+        {
+          "word": "전략",
+          "weight": 6.0
+        },
+        {
+          "word": "일의",
+          "weight": 6.0
+        },
+        {
+          "word": "방식",
+          "weight": 6.0
+        },
+        {
+          "word": "페리스",
+          "weight": 6.0
+        },
+        {
+          "word": "해방 Liberation",
+          "weight": 6.0
+        },
+        {
+          "word": "자유",
+          "weight": 6.0
+        },
+        {
+          "word": "회사",
+          "weight": 6.0
+        },
+        {
+          "word": "자동화 Automation",
+          "weight": 6.0
+        },
+        {
+          "word": "정의 Definition",
+          "weight": 6.0
+        },
+        {
+          "word": "뮤즈",
+          "weight": 6.0
+        },
+        {
+          "word": "제거 Elimination",
+          "weight": 6.0
+        },
+        {
+          "word": "디지털",
+          "weight": 5.0
+        },
+        {
+          "word": "노예",
+          "weight": 5.0
+        },
+        {
+          "word": "분명",
+          "weight": 5.0
+        },
+        {
+          "word": "관리",
+          "weight": 5.0
+        },
+        {
+          "word": "해방",
+          "weight": 5.0
+        },
+        {
+          "word": "권리",
+          "weight": 5.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 5.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "아웃소싱",
+          "weight": 5.0
+        },
+        {
+          "word": "제거",
+          "weight": 5.0
+        },
+        {
+          "word": "대로",
+          "weight": 5.0
+        },
+        {
+          "word": "여행",
+          "weight": 5.0
+        }
+      ],
+      "description": "디지털 노마드 논의에 처음으로 불을 붙인 당사자이자 지금도 선도자로서 성공적인 인터넷 기업가로 활동하는 저자는 협상의 앞 글자를 딴 4단계 전략을 구체적으로 제시하며 최소한만 일하며 원하는 대로 사는 방법을 이 책에 모두 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "인스타 브레인 =몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 /Insta brain ",
+          "isbn13": "9791157686179",
+          "authors": "안데르스 한센 지음 ;김아영 옮김"
+        },
+        {
+          "bookname": "언스크립티드 :부의 추월차선 완결판 ",
+          "isbn13": "9791187444213",
+          "authors": "엠제이 드마코 지음 ;안시열 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "부자의 그릇 :남을 위해 돈 쓰는 능력을 키우는 법 ",
+          "isbn13": "9791130604787",
+          "authors": "이즈미 마사토 지음 ;김윤수 옮김"
+        },
+        {
+          "bookname": "더 시스템 :거의 모든 일에 실패하던 자가 결국 큰 성공을 이루어낸 방법 ",
+          "isbn13": "9791188102051",
+          "authors": "지은이: 스콧 애덤스 ;옮긴이: 김인수"
+        },
+        {
+          "bookname": "당신의 뇌는 최적화를 원한다 :지금 당신의 뇌는 최상의 컨디션인가? ",
+          "isbn13": "9788965706342",
+          "authors": "가바사와 시온 지음 ;오시연 옮김"
+        },
+        {
+          "bookname": "나는 돈이 없어도 사업을 한다 :스펙도 나이도 필요없는 주말 48시간의 기적 ",
+          "isbn13": "9791186805886",
+          "authors": "프레이저 도허티 지음 ;박홍경 옮김"
+        }
+      ],
+      "title": "나는 4시간만 일한다",
+      "author": "팀 페리스 지음 ;최원형,윤동준 옮김",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "나는 4시간만 일한다",
+        "author": "팀 페리스 지음 ;최원형,윤동준 옮김",
+        "publisher": "다른상상 :빛과향기",
+        "publish_predate": "20171020",
+        "isbn": "9791185584454",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "368 p.",
+        "book_size": "147*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "나는 4시간만 일한다 :디지털 노마드 시대 완전히 새로운 삶의 방식 ",
+        "author": "팀 페리스 지음 ;윤동준 옮김",
+        "publisher": "빛과향기",
+        "publish_year": "2017",
+        "isbn": "1185584455",
+        "isbn13": "9791185584454",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "325.211",
+        "class_nm": "사회과학 > 경제학 > 경영관리",
+        "description": "디지털 노마드 논의에 처음으로 불을 붙인 당사자이자 지금도 선도자로서 성공적인 인터넷 기업가로 활동하는 저자는 협상의 앞 글자를 딴 4단계 전략을 구체적으로 제시하며 최소한만 일하며 원하는 대로 사는 방법을 이 책에 모두 담았다.",
+        "cover_url": "https://image.aladin.co.kr/product/11956/55/cover/k392531430_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "시간",
+            "weight": 20.0
+          },
+          {
+            "word": "수입",
+            "weight": 18.0
+          },
+          {
+            "word": "자동화",
+            "weight": 15.0
+          },
+          {
+            "word": "달러",
+            "weight": 13.0
+          },
+          {
+            "word": "일주일",
+            "weight": 12.0
+          },
+          {
+            "word": "방법",
+            "weight": 11.0
+          },
+          {
+            "word": "선택",
+            "weight": 11.0
+          },
+          {
+            "word": "과정",
+            "weight": 11.0
+          },
+          {
+            "word": "4시간",
+            "weight": 11.0
+          },
+          {
+            "word": "라이프스타일",
+            "weight": 10.0
+          },
+          {
+            "word": "근무",
+            "weight": 10.0
+          },
+          {
+            "word": "필요",
+            "weight": 10.0
+          },
+          {
+            "word": "정의",
+            "weight": 8.0
+          },
+          {
+            "word": "하루",
+            "weight": 8.0
+          },
+          {
+            "word": "백만장자",
+            "weight": 8.0
+          },
+          {
+            "word": "베스트셀러",
+            "weight": 8.0
+          },
+          {
+            "word": "규칙",
+            "weight": 8.0
+          },
+          {
+            "word": "질문",
+            "weight": 7.0
+          },
+          {
+            "word": "제시",
+            "weight": 7.0
+          },
+          {
+            "word": "완전",
+            "weight": 7.0
+          },
+          {
+            "word": "뉴욕타임스",
+            "weight": 7.0
+          },
+          {
+            "word": "인생",
+            "weight": 7.0
+          },
+          {
+            "word": "은퇴",
+            "weight": 7.0
+          },
+          {
+            "word": "법칙",
+            "weight": 7.0
+          },
+          {
+            "word": "기존",
+            "weight": 7.0
+          },
+          {
+            "word": "월스트리트저널",
+            "weight": 6.0
+          },
+          {
+            "word": "전략",
+            "weight": 6.0
+          },
+          {
+            "word": "일의",
+            "weight": 6.0
+          },
+          {
+            "word": "방식",
+            "weight": 6.0
+          },
+          {
+            "word": "페리스",
+            "weight": 6.0
+          },
+          {
+            "word": "해방 Liberation",
+            "weight": 6.0
+          },
+          {
+            "word": "자유",
+            "weight": 6.0
+          },
+          {
+            "word": "회사",
+            "weight": 6.0
+          },
+          {
+            "word": "자동화 Automation",
+            "weight": 6.0
+          },
+          {
+            "word": "정의 Definition",
+            "weight": 6.0
+          },
+          {
+            "word": "뮤즈",
+            "weight": 6.0
+          },
+          {
+            "word": "제거 Elimination",
+            "weight": 6.0
+          },
+          {
+            "word": "디지털",
+            "weight": 5.0
+          },
+          {
+            "word": "노예",
+            "weight": 5.0
+          },
+          {
+            "word": "분명",
+            "weight": 5.0
+          },
+          {
+            "word": "관리",
+            "weight": 5.0
+          },
+          {
+            "word": "해방",
+            "weight": 5.0
+          },
+          {
+            "word": "권리",
+            "weight": 5.0
+          },
+          {
+            "word": "구체적",
+            "weight": 5.0
+          },
+          {
+            "word": "아마존",
+            "weight": 5.0
+          },
+          {
+            "word": "정보",
+            "weight": 5.0
+          },
+          {
+            "word": "아웃소싱",
+            "weight": 5.0
+          },
+          {
+            "word": "제거",
+            "weight": 5.0
+          },
+          {
+            "word": "대로",
+            "weight": 5.0
+          },
+          {
+            "word": "여행",
+            "weight": 5.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+            "isbn13": "9791158510619",
+            "authors": "팀 페리스 지음 ;정지현 옮김"
+          },
+          {
+            "bookname": "인스타 브레인 =몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 /Insta brain ",
+            "isbn13": "9791157686179",
+            "authors": "안데르스 한센 지음 ;김아영 옮김"
+          },
+          {
+            "bookname": "언스크립티드 :부의 추월차선 완결판 ",
+            "isbn13": "9791187444213",
+            "authors": "엠제이 드마코 지음 ;안시열 옮김"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "부자의 그릇 :남을 위해 돈 쓰는 능력을 키우는 법 ",
+            "isbn13": "9791130604787",
+            "authors": "이즈미 마사토 지음 ;김윤수 옮김"
+          },
+          {
+            "bookname": "더 시스템 :거의 모든 일에 실패하던 자가 결국 큰 성공을 이루어낸 방법 ",
+            "isbn13": "9791188102051",
+            "authors": "지은이: 스콧 애덤스 ;옮긴이: 김인수"
+          },
+          {
+            "bookname": "당신의 뇌는 최적화를 원한다 :지금 당신의 뇌는 최상의 컨디션인가? ",
+            "isbn13": "9788965706342",
+            "authors": "가바사와 시온 지음 ;오시연 옮김"
+          },
+          {
+            "bookname": "나는 돈이 없어도 사업을 한다 :스펙도 나이도 필요없는 주말 48시간의 기적 ",
+            "isbn13": "9791186805886",
+            "authors": "프레이저 도허티 지음 ;박홍경 옮김"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "나는 4시간만 일한다 - 디지털 노마드 시대 완전히 새로운 삶의 방식"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001870726",
+        "title": "나는 4시간만 일한다",
+        "subtitle": "최소한만 일하고 원하는 대로 사는 법",
+        "page": "368 p.",
+        "book_size": "147*210mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791185584454",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791185584454",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14800",
+      "title": "나는 4시간만 일한다",
+      "subtitle": "디지털 노마드 시대 완전히 새로운 삶의 방식",
+      "author": "팀 페리스 지음 ;최원형,윤동준 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "다른상상 :빛과향기",
+      "publish_year": "2017",
+      "publish_predate": "20171020",
+      "kdc": "325.211",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 경영관리",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "368 p.",
+      "book_size": "147*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "디지털 노마드 논의에 처음으로 불을 붙인 당사자이자 지금도 선도자로서 성공적인 인터넷 기업가로 활동하는 저자는 협상의 앞 글자를 딴 4단계 전략을 구체적으로 제시하며 최소한만 일하며 원하는 대로 사는 방법을 이 책에 모두 담았다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/11956/55/cover/k392531430_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "시간",
+          "weight": 20.0
+        },
+        {
+          "word": "수입",
+          "weight": 18.0
+        },
+        {
+          "word": "자동화",
+          "weight": 15.0
+        },
+        {
+          "word": "달러",
+          "weight": 13.0
+        },
+        {
+          "word": "일주일",
+          "weight": 12.0
+        },
+        {
+          "word": "방법",
+          "weight": 11.0
+        },
+        {
+          "word": "선택",
+          "weight": 11.0
+        },
+        {
+          "word": "과정",
+          "weight": 11.0
+        },
+        {
+          "word": "4시간",
+          "weight": 11.0
+        },
+        {
+          "word": "라이프스타일",
+          "weight": 10.0
+        },
+        {
+          "word": "근무",
+          "weight": 10.0
+        },
+        {
+          "word": "필요",
+          "weight": 10.0
+        },
+        {
+          "word": "정의",
+          "weight": 8.0
+        },
+        {
+          "word": "하루",
+          "weight": 8.0
+        },
+        {
+          "word": "백만장자",
+          "weight": 8.0
+        },
+        {
+          "word": "베스트셀러",
+          "weight": 8.0
+        },
+        {
+          "word": "규칙",
+          "weight": 8.0
+        },
+        {
+          "word": "질문",
+          "weight": 7.0
+        },
+        {
+          "word": "제시",
+          "weight": 7.0
+        },
+        {
+          "word": "완전",
+          "weight": 7.0
+        },
+        {
+          "word": "뉴욕타임스",
+          "weight": 7.0
+        },
+        {
+          "word": "인생",
+          "weight": 7.0
+        },
+        {
+          "word": "은퇴",
+          "weight": 7.0
+        },
+        {
+          "word": "법칙",
+          "weight": 7.0
+        },
+        {
+          "word": "기존",
+          "weight": 7.0
+        },
+        {
+          "word": "월스트리트저널",
+          "weight": 6.0
+        },
+        {
+          "word": "전략",
+          "weight": 6.0
+        },
+        {
+          "word": "일의",
+          "weight": 6.0
+        },
+        {
+          "word": "방식",
+          "weight": 6.0
+        },
+        {
+          "word": "페리스",
+          "weight": 6.0
+        },
+        {
+          "word": "해방 Liberation",
+          "weight": 6.0
+        },
+        {
+          "word": "자유",
+          "weight": 6.0
+        },
+        {
+          "word": "회사",
+          "weight": 6.0
+        },
+        {
+          "word": "자동화 Automation",
+          "weight": 6.0
+        },
+        {
+          "word": "정의 Definition",
+          "weight": 6.0
+        },
+        {
+          "word": "뮤즈",
+          "weight": 6.0
+        },
+        {
+          "word": "제거 Elimination",
+          "weight": 6.0
+        },
+        {
+          "word": "디지털",
+          "weight": 5.0
+        },
+        {
+          "word": "노예",
+          "weight": 5.0
+        },
+        {
+          "word": "분명",
+          "weight": 5.0
+        },
+        {
+          "word": "관리",
+          "weight": 5.0
+        },
+        {
+          "word": "해방",
+          "weight": 5.0
+        },
+        {
+          "word": "권리",
+          "weight": 5.0
+        },
+        {
+          "word": "구체적",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 5.0
+        },
+        {
+          "word": "정보",
+          "weight": 5.0
+        },
+        {
+          "word": "아웃소싱",
+          "weight": 5.0
+        },
+        {
+          "word": "제거",
+          "weight": 5.0
+        },
+        {
+          "word": "대로",
+          "weight": 5.0
+        },
+        {
+          "word": "여행",
+          "weight": 5.0
+        }
+      ],
+      "description": "디지털 노마드 논의에 처음으로 불을 붙인 당사자이자 지금도 선도자로서 성공적인 인터넷 기업가로 활동하는 저자는 협상의 앞 글자를 딴 4단계 전략을 구체적으로 제시하며 최소한만 일하며 원하는 대로 사는 방법을 이 책에 모두 담았다.",
+      "co_loan_books": [
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "isbn13": "9791158510619",
+          "authors": "팀 페리스 지음 ;정지현 옮김"
+        },
+        {
+          "bookname": "인스타 브레인 =몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 /Insta brain ",
+          "isbn13": "9791157686179",
+          "authors": "안데르스 한센 지음 ;김아영 옮김"
+        },
+        {
+          "bookname": "언스크립티드 :부의 추월차선 완결판 ",
+          "isbn13": "9791187444213",
+          "authors": "엠제이 드마코 지음 ;안시열 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "부자의 그릇 :남을 위해 돈 쓰는 능력을 키우는 법 ",
+          "isbn13": "9791130604787",
+          "authors": "이즈미 마사토 지음 ;김윤수 옮김"
+        },
+        {
+          "bookname": "더 시스템 :거의 모든 일에 실패하던 자가 결국 큰 성공을 이루어낸 방법 ",
+          "isbn13": "9791188102051",
+          "authors": "지은이: 스콧 애덤스 ;옮긴이: 김인수"
+        },
+        {
+          "bookname": "당신의 뇌는 최적화를 원한다 :지금 당신의 뇌는 최상의 컨디션인가? ",
+          "isbn13": "9788965706342",
+          "authors": "가바사와 시온 지음 ;오시연 옮김"
+        },
+        {
+          "bookname": "나는 돈이 없어도 사업을 한다 :스펙도 나이도 필요없는 주말 48시간의 기적 ",
+          "isbn13": "9791186805886",
+          "authors": "프레이저 도허티 지음 ;박홍경 옮김"
+        }
+      ],
+      "title": "나는 4시간만 일한다",
+      "author": "팀 페리스 지음 ;최원형,윤동준 옮김",
+      "kdc_from_api": "325.211",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "isbn": "9788997092772",
+  "captured_at": "2026-10-04T00:10:10.900160+09:00",
+  "lookup": {
+    "isbn": "9788997092772",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788997092772",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "말의 품격",
+      "subtitle": "",
+      "author": "이기주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "황소북스",
+      "publish_year": "2017",
+      "publish_predate": "20170529",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "895.785",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "232 p.",
+      "book_size": "B6 변형판",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "이기주 작가의 신작 에세이집. 경청, 공감, 반응, 뒷말, 인향, 소음 등 24개의 키워드를 통해 말과 사람과 품격에 대한 생각들을 풀어낸다. 고전과 현대를 오가는 인문학적 소양을 바탕으로 이기주 작가 특유의 감성이 더해 볼거리와 생각할 거리를 동시에 전한다.",
+      "control_no": "CIP2017009842",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 22.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "언어의 온도",
+          "weight": 6.0
+        },
+        {
+          "word": "품성",
+          "weight": 5.0
+        },
+        {
+          "word": "인향",
+          "weight": 5.0
+        },
+        {
+          "word": "말이",
+          "weight": 5.0
+        },
+        {
+          "word": "소리",
+          "weight": 4.0
+        },
+        {
+          "word": "본능",
+          "weight": 4.0
+        },
+        {
+          "word": "반응",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "경청",
+          "weight": 3.0
+        },
+        {
+          "word": "품격",
+          "weight": 3.0
+        },
+        {
+          "word": "한마디",
+          "weight": 3.0
+        },
+        {
+          "word": "공감",
+          "weight": 3.0
+        },
+        {
+          "word": "신작",
+          "weight": 3.0
+        },
+        {
+          "word": "귀소",
+          "weight": 3.0
+        },
+        {
+          "word": "아픔",
+          "weight": 3.0
+        },
+        {
+          "word": "뒷말",
+          "weight": 3.0
+        },
+        {
+          "word": "소음",
+          "weight": 3.0
+        },
+        {
+          "word": "동시",
+          "weight": 3.0
+        },
+        {
+          "word": "상처",
+          "weight": 3.0
+        },
+        {
+          "word": "상대",
+          "weight": 3.0
+        },
+        {
+          "word": "말의 품격",
+          "weight": 3.0
+        },
+        {
+          "word": "뿜어져",
+          "weight": 2.0
+        },
+        {
+          "word": "人香",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        },
+        {
+          "word": "극단",
+          "weight": 2.0
+        },
+        {
+          "word": "거리",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이집",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "나름",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "볼거리",
+          "weight": 2.0
+        },
+        {
+          "word": "이기주",
+          "weight": 2.0
+        },
+        {
+          "word": "본질",
+          "weight": 2.0
+        },
+        {
+          "word": "소양",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "바람",
+          "weight": 2.0
+        },
+        {
+          "word": "인문학적",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "특유",
+          "weight": 2.0
+        },
+        {
+          "word": "필요",
+          "weight": 2.0
+        },
+        {
+          "word": "감성",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "키워드",
+          "weight": 2.0
+        },
+        {
+          "word": "말하기",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        }
+      ],
+      "description": "이기주 작가의 신작 에세이집. 경청, 공감, 반응, 뒷말, 인향, 소음 등 24개의 키워드를 통해 말과 사람과 품격에 대한 생각들을 풀어낸다. 고전과 현대를 오가는 인문학적 소양을 바탕으로 이기주 작가 특유의 감성이 더해 볼거리와 생각할 거리를 동시에 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "언어의 온도 :말과 글에는 나름의 따뜻함과 차가움이 있다 ",
+          "isbn13": "9791195522125",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "보편의 단어",
+          "isbn13": "9791195522170",
+          "authors": "이기주"
+        },
+        {
+          "bookname": "한때 소중했던 것들 :이기주 산문집 ",
+          "isbn13": "9791158160807",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "마음의 주인 :마음을 온전히 느끼고 누리는 삶에 대하여 ",
+          "isbn13": "9791195522149",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "말의 품격",
+      "author": "이기주",
+      "kdc_from_api": "818",
+      "ddc_from_api": "895.785",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "말의 품격",
+        "author": "이기주",
+        "publisher": "황소북스",
+        "publish_predate": "20170529",
+        "isbn": "9788997092772",
+        "isbn_add_code": "03810",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩14500",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "232",
+        "book_size": "B6 변형판",
+        "form": "",
+        "kdc": "818",
+        "ddc": "895.785",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2017009842",
+        "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_3.jpg",
+        "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_6.txt",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "말의 품격 :말과 사람과 품격에 대한 생각들 ",
+        "author": "이기주 지음",
+        "publisher": "황소북스",
+        "publish_year": "2017",
+        "isbn": "8997092774",
+        "isbn13": "9788997092772",
+        "isbn_add_code": "03810",
+        "volume": "",
+        "class_no": "818",
+        "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+        "description": "이기주 작가의 신작 에세이집. 경청, 공감, 반응, 뒷말, 인향, 소음 등 24개의 키워드를 통해 말과 사람과 품격에 대한 생각들을 풀어낸다. 고전과 현대를 오가는 인문학적 소양을 바탕으로 이기주 작가 특유의 감성이 더해 볼거리와 생각할 거리를 동시에 전한다.",
+        "cover_url": "http://image.aladin.co.kr/product/10869/79/cover/s852531536_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "사람",
+            "weight": 22.0
+          },
+          {
+            "word": "마음",
+            "weight": 7.0
+          },
+          {
+            "word": "생각",
+            "weight": 6.0
+          },
+          {
+            "word": "언어의 온도",
+            "weight": 6.0
+          },
+          {
+            "word": "품성",
+            "weight": 5.0
+          },
+          {
+            "word": "인향",
+            "weight": 5.0
+          },
+          {
+            "word": "말이",
+            "weight": 5.0
+          },
+          {
+            "word": "소리",
+            "weight": 4.0
+          },
+          {
+            "word": "본능",
+            "weight": 4.0
+          },
+          {
+            "word": "반응",
+            "weight": 4.0
+          },
+          {
+            "word": "언어",
+            "weight": 4.0
+          },
+          {
+            "word": "경청",
+            "weight": 3.0
+          },
+          {
+            "word": "품격",
+            "weight": 3.0
+          },
+          {
+            "word": "한마디",
+            "weight": 3.0
+          },
+          {
+            "word": "공감",
+            "weight": 3.0
+          },
+          {
+            "word": "신작",
+            "weight": 3.0
+          },
+          {
+            "word": "귀소",
+            "weight": 3.0
+          },
+          {
+            "word": "아픔",
+            "weight": 3.0
+          },
+          {
+            "word": "뒷말",
+            "weight": 3.0
+          },
+          {
+            "word": "소음",
+            "weight": 3.0
+          },
+          {
+            "word": "동시",
+            "weight": 3.0
+          },
+          {
+            "word": "상처",
+            "weight": 3.0
+          },
+          {
+            "word": "상대",
+            "weight": 3.0
+          },
+          {
+            "word": "말의 품격",
+            "weight": 3.0
+          },
+          {
+            "word": "뿜어져",
+            "weight": 2.0
+          },
+          {
+            "word": "人香",
+            "weight": 2.0
+          },
+          {
+            "word": "그림자",
+            "weight": 2.0
+          },
+          {
+            "word": "극단",
+            "weight": 2.0
+          },
+          {
+            "word": "거리",
+            "weight": 2.0
+          },
+          {
+            "word": "사이",
+            "weight": 2.0
+          },
+          {
+            "word": "에세이집",
+            "weight": 2.0
+          },
+          {
+            "word": "2018년",
+            "weight": 2.0
+          },
+          {
+            "word": "나름",
+            "weight": 2.0
+          },
+          {
+            "word": "자신",
+            "weight": 2.0
+          },
+          {
+            "word": "볼거리",
+            "weight": 2.0
+          },
+          {
+            "word": "이기주",
+            "weight": 2.0
+          },
+          {
+            "word": "본질",
+            "weight": 2.0
+          },
+          {
+            "word": "소양",
+            "weight": 2.0
+          },
+          {
+            "word": "수도",
+            "weight": 2.0
+          },
+          {
+            "word": "바람",
+            "weight": 2.0
+          },
+          {
+            "word": "인문학적",
+            "weight": 2.0
+          },
+          {
+            "word": "고전",
+            "weight": 2.0
+          },
+          {
+            "word": "특유",
+            "weight": 2.0
+          },
+          {
+            "word": "필요",
+            "weight": 2.0
+          },
+          {
+            "word": "감성",
+            "weight": 2.0
+          },
+          {
+            "word": "행동",
+            "weight": 2.0
+          },
+          {
+            "word": "키워드",
+            "weight": 2.0
+          },
+          {
+            "word": "말하기",
+            "weight": 2.0
+          },
+          {
+            "word": "바탕",
+            "weight": 2.0
+          },
+          {
+            "word": "질문",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "언어의 온도 :말과 글에는 나름의 따뜻함과 차가움이 있다 ",
+            "isbn13": "9791195522125",
+            "authors": "지은이: 이기주"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설 ",
+            "isbn13": "9791161571188",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+            "isbn13": "9788936438838",
+            "authors": "지은이: 정지아"
+          },
+          {
+            "bookname": "불편한 편의점 :김호연 장편소설",
+            "isbn13": "9791161571379",
+            "authors": "지은이: 김호연"
+          },
+          {
+            "bookname": "보편의 단어",
+            "isbn13": "9791195522170",
+            "authors": "이기주"
+          },
+          {
+            "bookname": "한때 소중했던 것들 :이기주 산문집 ",
+            "isbn13": "9791158160807",
+            "authors": "지은이: 이기주"
+          },
+          {
+            "bookname": "소년이 온다 :한강 장편소설 ",
+            "isbn13": "9788936434120",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "작별하지 않는다 :한강 장편소설 ",
+            "isbn13": "9788954682152",
+            "authors": "지은이: 한강"
+          },
+          {
+            "bookname": "마음의 주인 :마음을 온전히 느끼고 누리는 삶에 대하여 ",
+            "isbn13": "9791195522149",
+            "authors": "지은이: 이기주"
+          },
+          {
+            "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+            "isbn13": "9791197377143",
+            "authors": "지은이: 황보름"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "말의 품격"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001608586",
+        "title": "말의 품격(7주년 기념 플라워 에디션)",
+        "subtitle": "",
+        "page": "232 p.",
+        "book_size": "",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788997092772",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788997092772",
+      "isbn_add_code": "03810",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩14500",
+      "title": "말의 품격",
+      "subtitle": "",
+      "author": "이기주",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "황소북스",
+      "publish_year": "2017",
+      "publish_predate": "20170529",
+      "kdc": "818",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 한국문학 > 르포르타주 및 기타",
+      "ddc": "895.785",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "232 p.",
+      "book_size": "B6 변형판",
+      "form": "",
+      "ebook_yn": "N",
+      "description": "이기주 작가의 신작 에세이집. 경청, 공감, 반응, 뒷말, 인향, 소음 등 24개의 키워드를 통해 말과 사람과 품격에 대한 생각들을 풀어낸다. 고전과 현대를 오가는 인문학적 소양을 바탕으로 이기주 작가 특유의 감성이 더해 볼거리와 생각할 거리를 동시에 전한다.",
+      "control_no": "CIP2017009842",
+      "cover_url": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_3.jpg",
+      "toc_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205920_6.txt",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "ddc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "사람",
+          "weight": 22.0
+        },
+        {
+          "word": "마음",
+          "weight": 7.0
+        },
+        {
+          "word": "생각",
+          "weight": 6.0
+        },
+        {
+          "word": "언어의 온도",
+          "weight": 6.0
+        },
+        {
+          "word": "품성",
+          "weight": 5.0
+        },
+        {
+          "word": "인향",
+          "weight": 5.0
+        },
+        {
+          "word": "말이",
+          "weight": 5.0
+        },
+        {
+          "word": "소리",
+          "weight": 4.0
+        },
+        {
+          "word": "본능",
+          "weight": 4.0
+        },
+        {
+          "word": "반응",
+          "weight": 4.0
+        },
+        {
+          "word": "언어",
+          "weight": 4.0
+        },
+        {
+          "word": "경청",
+          "weight": 3.0
+        },
+        {
+          "word": "품격",
+          "weight": 3.0
+        },
+        {
+          "word": "한마디",
+          "weight": 3.0
+        },
+        {
+          "word": "공감",
+          "weight": 3.0
+        },
+        {
+          "word": "신작",
+          "weight": 3.0
+        },
+        {
+          "word": "귀소",
+          "weight": 3.0
+        },
+        {
+          "word": "아픔",
+          "weight": 3.0
+        },
+        {
+          "word": "뒷말",
+          "weight": 3.0
+        },
+        {
+          "word": "소음",
+          "weight": 3.0
+        },
+        {
+          "word": "동시",
+          "weight": 3.0
+        },
+        {
+          "word": "상처",
+          "weight": 3.0
+        },
+        {
+          "word": "상대",
+          "weight": 3.0
+        },
+        {
+          "word": "말의 품격",
+          "weight": 3.0
+        },
+        {
+          "word": "뿜어져",
+          "weight": 2.0
+        },
+        {
+          "word": "人香",
+          "weight": 2.0
+        },
+        {
+          "word": "그림자",
+          "weight": 2.0
+        },
+        {
+          "word": "극단",
+          "weight": 2.0
+        },
+        {
+          "word": "거리",
+          "weight": 2.0
+        },
+        {
+          "word": "사이",
+          "weight": 2.0
+        },
+        {
+          "word": "에세이집",
+          "weight": 2.0
+        },
+        {
+          "word": "2018년",
+          "weight": 2.0
+        },
+        {
+          "word": "나름",
+          "weight": 2.0
+        },
+        {
+          "word": "자신",
+          "weight": 2.0
+        },
+        {
+          "word": "볼거리",
+          "weight": 2.0
+        },
+        {
+          "word": "이기주",
+          "weight": 2.0
+        },
+        {
+          "word": "본질",
+          "weight": 2.0
+        },
+        {
+          "word": "소양",
+          "weight": 2.0
+        },
+        {
+          "word": "수도",
+          "weight": 2.0
+        },
+        {
+          "word": "바람",
+          "weight": 2.0
+        },
+        {
+          "word": "인문학적",
+          "weight": 2.0
+        },
+        {
+          "word": "고전",
+          "weight": 2.0
+        },
+        {
+          "word": "특유",
+          "weight": 2.0
+        },
+        {
+          "word": "필요",
+          "weight": 2.0
+        },
+        {
+          "word": "감성",
+          "weight": 2.0
+        },
+        {
+          "word": "행동",
+          "weight": 2.0
+        },
+        {
+          "word": "키워드",
+          "weight": 2.0
+        },
+        {
+          "word": "말하기",
+          "weight": 2.0
+        },
+        {
+          "word": "바탕",
+          "weight": 2.0
+        },
+        {
+          "word": "질문",
+          "weight": 2.0
+        }
+      ],
+      "description": "이기주 작가의 신작 에세이집. 경청, 공감, 반응, 뒷말, 인향, 소음 등 24개의 키워드를 통해 말과 사람과 품격에 대한 생각들을 풀어낸다. 고전과 현대를 오가는 인문학적 소양을 바탕으로 이기주 작가 특유의 감성이 더해 볼거리와 생각할 거리를 동시에 전한다.",
+      "co_loan_books": [
+        {
+          "bookname": "언어의 온도 :말과 글에는 나름의 따뜻함과 차가움이 있다 ",
+          "isbn13": "9791195522125",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "isbn13": "9791161571188",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "isbn13": "9788936438838",
+          "authors": "지은이: 정지아"
+        },
+        {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "isbn13": "9791161571379",
+          "authors": "지은이: 김호연"
+        },
+        {
+          "bookname": "보편의 단어",
+          "isbn13": "9791195522170",
+          "authors": "이기주"
+        },
+        {
+          "bookname": "한때 소중했던 것들 :이기주 산문집 ",
+          "isbn13": "9791158160807",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "isbn13": "9788936434120",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "isbn13": "9788954682152",
+          "authors": "지은이: 한강"
+        },
+        {
+          "bookname": "마음의 주인 :마음을 온전히 느끼고 누리는 삶에 대하여 ",
+          "isbn13": "9791195522149",
+          "authors": "지은이: 이기주"
+        },
+        {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "isbn13": "9791197377143",
+          "authors": "지은이: 황보름"
+        }
+      ],
+      "title": "말의 품격",
+      "author": "이기주",
+      "kdc_from_api": "818",
+      "ddc_from_api": "895.785",
+      "translation_signals": {
+        "detected": false,
+        "hints": []
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": false
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

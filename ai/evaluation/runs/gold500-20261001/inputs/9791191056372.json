@@ -1,0 +1,1086 @@
+{
+  "isbn": "9791191056372",
+  "captured_at": "2026-10-02T00:15:20.851916+09:00",
+  "lookup": {
+    "isbn": "9791191056372",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191056372",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩19800",
+      "title": "돈의 심리학",
+      "subtitle": "당신은 왜 부자가 되지 못했는가",
+      "author": "모건 하우절 지음 ;이지연 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "인플루엔셜",
+      "publish_year": "2021",
+      "publish_predate": "20210113",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "408 p.",
+      "book_size": "140*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+      "control_no": "CIP2020052771",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/11/9791191056372.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 12.0
+        },
+        {
+          "word": "돈의 심리학",
+          "weight": 9.0
+        },
+        {
+          "word": "금융",
+          "weight": 8.0
+        },
+        {
+          "word": "부자",
+          "weight": 6.0
+        },
+        {
+          "word": "돈이 있다",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 5.0
+        },
+        {
+          "word": "월스트리트저널",
+          "weight": 5.0
+        },
+        {
+          "word": "모건",
+          "weight": 5.0
+        },
+        {
+          "word": "비즈니스",
+          "weight": 4.0
+        },
+        {
+          "word": "기술",
+          "weight": 4.0
+        },
+        {
+          "word": "투자자",
+          "weight": 4.0
+        },
+        {
+          "word": "편향",
+          "weight": 3.0
+        },
+        {
+          "word": "칼럼니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "The",
+          "weight": 3.0
+        },
+        {
+          "word": "부의",
+          "weight": 3.0
+        },
+        {
+          "word": "스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "천재",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "페라리",
+          "weight": 3.0
+        },
+        {
+          "word": "파트너",
+          "weight": 3.0
+        },
+        {
+          "word": "콜라보레이티브",
+          "weight": 3.0
+        },
+        {
+          "word": "스토리텔링",
+          "weight": 3.0
+        },
+        {
+          "word": "Award",
+          "weight": 3.0
+        },
+        {
+          "word": "하우절",
+          "weight": 3.0
+        },
+        {
+          "word": "기자",
+          "weight": 3.0
+        },
+        {
+          "word": "펀드",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "블로그",
+          "weight": 2.0
+        },
+        {
+          "word": "극찬",
+          "weight": 2.0
+        },
+        {
+          "word": "수여",
+          "weight": 2.0
+        },
+        {
+          "word": "꼬리",
+          "weight": 2.0
+        },
+        {
+          "word": "금융도서",
+          "weight": 2.0
+        },
+        {
+          "word": "미래",
+          "weight": 2.0
+        },
+        {
+          "word": "부유케",
+          "weight": 2.0
+        },
+        {
+          "word": "1위를",
+          "weight": 2.0
+        },
+        {
+          "word": "별명답게",
+          "weight": 2.0
+        },
+        {
+          "word": "20개",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "안전마진",
+          "weight": 2.0
+        },
+        {
+          "word": "역설",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "비밀",
+          "weight": 2.0
+        },
+        {
+          "word": "세례",
+          "weight": 2.0
+        },
+        {
+          "word": "가격표",
+          "weight": 2.0
+        },
+        {
+          "word": "간절",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "개인",
+          "weight": 2.0
+        }
+      ],
+      "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "isbn13": "9791198517425",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "isbn13": "9788957365793",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음"
+        }
+      ],
+      "title": "돈의 심리학",
+      "author": "모건 하우절 지음 ;이지연 옮김",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "돈의 심리학",
+        "author": "모건 하우절 지음 ;이지연 옮김",
+        "publisher": "인플루엔셜",
+        "publish_predate": "20210113",
+        "isbn": "9791191056372",
+        "isbn_add_code": "03320",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩19800",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "393 p.",
+        "book_size": "140*210",
+        "form": "종이책",
+        "kdc": "327.04",
+        "ddc": "",
+        "subject": "3",
+        "ebook_yn": "N",
+        "cip_yn": "Y",
+        "control_no": "CIP2020052771",
+        "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/11/9791191056372.jpg",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+        "author": "모건 하우절 지음 ;이지연 옮김",
+        "publisher": "인플루엔셜",
+        "publish_year": "2021",
+        "isbn": "1191056376",
+        "isbn13": "9791191056372",
+        "isbn_add_code": "03320",
+        "volume": "",
+        "class_no": "327.04",
+        "class_nm": "사회과학 > 경제학 > 금융",
+        "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+        "cover_url": "https://image.aladin.co.kr/product/25967/85/cover/k412737326_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "투자",
+            "weight": 12.0
+          },
+          {
+            "word": "돈의 심리학",
+            "weight": 9.0
+          },
+          {
+            "word": "금융",
+            "weight": 8.0
+          },
+          {
+            "word": "부자",
+            "weight": 6.0
+          },
+          {
+            "word": "돈이 있다",
+            "weight": 6.0
+          },
+          {
+            "word": "분야",
+            "weight": 5.0
+          },
+          {
+            "word": "아마존",
+            "weight": 5.0
+          },
+          {
+            "word": "월스트리트저널",
+            "weight": 5.0
+          },
+          {
+            "word": "모건",
+            "weight": 5.0
+          },
+          {
+            "word": "비즈니스",
+            "weight": 4.0
+          },
+          {
+            "word": "기술",
+            "weight": 4.0
+          },
+          {
+            "word": "투자자",
+            "weight": 4.0
+          },
+          {
+            "word": "편향",
+            "weight": 3.0
+          },
+          {
+            "word": "칼럼니스트",
+            "weight": 3.0
+          },
+          {
+            "word": "The",
+            "weight": 3.0
+          },
+          {
+            "word": "부의",
+            "weight": 3.0
+          },
+          {
+            "word": "스토리",
+            "weight": 3.0
+          },
+          {
+            "word": "천재",
+            "weight": 3.0
+          },
+          {
+            "word": "최고",
+            "weight": 3.0
+          },
+          {
+            "word": "페라리",
+            "weight": 3.0
+          },
+          {
+            "word": "파트너",
+            "weight": 3.0
+          },
+          {
+            "word": "콜라보레이티브",
+            "weight": 3.0
+          },
+          {
+            "word": "스토리텔링",
+            "weight": 3.0
+          },
+          {
+            "word": "Award",
+            "weight": 3.0
+          },
+          {
+            "word": "하우절",
+            "weight": 3.0
+          },
+          {
+            "word": "기자",
+            "weight": 3.0
+          },
+          {
+            "word": "펀드",
+            "weight": 3.0
+          },
+          {
+            "word": "시간",
+            "weight": 2.0
+          },
+          {
+            "word": "블로그",
+            "weight": 2.0
+          },
+          {
+            "word": "극찬",
+            "weight": 2.0
+          },
+          {
+            "word": "수여",
+            "weight": 2.0
+          },
+          {
+            "word": "꼬리",
+            "weight": 2.0
+          },
+          {
+            "word": "금융도서",
+            "weight": 2.0
+          },
+          {
+            "word": "미래",
+            "weight": 2.0
+          },
+          {
+            "word": "부유케",
+            "weight": 2.0
+          },
+          {
+            "word": "1위를",
+            "weight": 2.0
+          },
+          {
+            "word": "별명답게",
+            "weight": 2.0
+          },
+          {
+            "word": "20개",
+            "weight": 2.0
+          },
+          {
+            "word": "보고서",
+            "weight": 2.0
+          },
+          {
+            "word": "사람",
+            "weight": 2.0
+          },
+          {
+            "word": "심리학",
+            "weight": 2.0
+          },
+          {
+            "word": "안전마진",
+            "weight": 2.0
+          },
+          {
+            "word": "역설",
+            "weight": 2.0
+          },
+          {
+            "word": "미국",
+            "weight": 2.0
+          },
+          {
+            "word": "비밀",
+            "weight": 2.0
+          },
+          {
+            "word": "세례",
+            "weight": 2.0
+          },
+          {
+            "word": "가격표",
+            "weight": 2.0
+          },
+          {
+            "word": "간절",
+            "weight": 2.0
+          },
+          {
+            "word": "얼마",
+            "weight": 2.0
+          },
+          {
+            "word": "개인",
+            "weight": 2.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+            "isbn13": "9791188331796",
+            "authors": "지은이: 김승호"
+          },
+          {
+            "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+            "isbn13": "9791198517425",
+            "authors": "지은이: 모건 하우절 ;옮긴이: 이수경"
+          },
+          {
+            "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+            "isbn13": "9791168473690",
+            "authors": "세이노 지음"
+          },
+          {
+            "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+            "isbn13": "9791158883591",
+            "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+          },
+          {
+            "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+            "isbn13": "9791162540640",
+            "authors": "제임스 클리어 지음 ;이한이 옮김"
+          },
+          {
+            "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+            "isbn13": "9788997575169",
+            "authors": "게리 켈러,구세희 옮김"
+          },
+          {
+            "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+            "isbn13": "9791192389325",
+            "authors": "벤저민 하디 지음 ;최은아 옮김"
+          },
+          {
+            "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+            "isbn13": "9788901260716",
+            "authors": "자청 지음"
+          },
+          {
+            "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+            "isbn13": "9791167740984",
+            "authors": "요한 하리 지음 ;김하현 옮김"
+          },
+          {
+            "bookname": "(EBS 다큐프라임) 자본주의 ",
+            "isbn13": "9788957365793",
+            "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "돈의 심리학 - 당신은 왜 부자가 되지 못했는가"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000001947552",
+        "title": "돈의 심리학(30만 부 기념 스페셜 에디션)",
+        "subtitle": "당신은 왜 부자가 되지 못했는가(보너스 스토리 수록)",
+        "page": "408 p.",
+        "book_size": "148*217mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9791191056372",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9791191056372",
+      "isbn_add_code": "03320",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩19800",
+      "title": "돈의 심리학",
+      "subtitle": "당신은 왜 부자가 되지 못했는가",
+      "author": "모건 하우절 지음 ;이지연 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "인플루엔셜",
+      "publish_year": "2021",
+      "publish_predate": "20210113",
+      "kdc": "327.04",
+      "kdc_edition": "",
+      "kdc_name": "사회과학 > 경제학 > 금융",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "3",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "408 p.",
+      "book_size": "140*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+      "control_no": "CIP2020052771",
+      "cover_url": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/11/9791191056372.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "nl_seoji_detail",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "nl",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "nl"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "투자",
+          "weight": 12.0
+        },
+        {
+          "word": "돈의 심리학",
+          "weight": 9.0
+        },
+        {
+          "word": "금융",
+          "weight": 8.0
+        },
+        {
+          "word": "부자",
+          "weight": 6.0
+        },
+        {
+          "word": "돈이 있다",
+          "weight": 6.0
+        },
+        {
+          "word": "분야",
+          "weight": 5.0
+        },
+        {
+          "word": "아마존",
+          "weight": 5.0
+        },
+        {
+          "word": "월스트리트저널",
+          "weight": 5.0
+        },
+        {
+          "word": "모건",
+          "weight": 5.0
+        },
+        {
+          "word": "비즈니스",
+          "weight": 4.0
+        },
+        {
+          "word": "기술",
+          "weight": 4.0
+        },
+        {
+          "word": "투자자",
+          "weight": 4.0
+        },
+        {
+          "word": "편향",
+          "weight": 3.0
+        },
+        {
+          "word": "칼럼니스트",
+          "weight": 3.0
+        },
+        {
+          "word": "The",
+          "weight": 3.0
+        },
+        {
+          "word": "부의",
+          "weight": 3.0
+        },
+        {
+          "word": "스토리",
+          "weight": 3.0
+        },
+        {
+          "word": "천재",
+          "weight": 3.0
+        },
+        {
+          "word": "최고",
+          "weight": 3.0
+        },
+        {
+          "word": "페라리",
+          "weight": 3.0
+        },
+        {
+          "word": "파트너",
+          "weight": 3.0
+        },
+        {
+          "word": "콜라보레이티브",
+          "weight": 3.0
+        },
+        {
+          "word": "스토리텔링",
+          "weight": 3.0
+        },
+        {
+          "word": "Award",
+          "weight": 3.0
+        },
+        {
+          "word": "하우절",
+          "weight": 3.0
+        },
+        {
+          "word": "기자",
+          "weight": 3.0
+        },
+        {
+          "word": "펀드",
+          "weight": 3.0
+        },
+        {
+          "word": "시간",
+          "weight": 2.0
+        },
+        {
+          "word": "블로그",
+          "weight": 2.0
+        },
+        {
+          "word": "극찬",
+          "weight": 2.0
+        },
+        {
+          "word": "수여",
+          "weight": 2.0
+        },
+        {
+          "word": "꼬리",
+          "weight": 2.0
+        },
+        {
+          "word": "금융도서",
+          "weight": 2.0
+        },
+        {
+          "word": "미래",
+          "weight": 2.0
+        },
+        {
+          "word": "부유케",
+          "weight": 2.0
+        },
+        {
+          "word": "1위를",
+          "weight": 2.0
+        },
+        {
+          "word": "별명답게",
+          "weight": 2.0
+        },
+        {
+          "word": "20개",
+          "weight": 2.0
+        },
+        {
+          "word": "보고서",
+          "weight": 2.0
+        },
+        {
+          "word": "사람",
+          "weight": 2.0
+        },
+        {
+          "word": "심리학",
+          "weight": 2.0
+        },
+        {
+          "word": "안전마진",
+          "weight": 2.0
+        },
+        {
+          "word": "역설",
+          "weight": 2.0
+        },
+        {
+          "word": "미국",
+          "weight": 2.0
+        },
+        {
+          "word": "비밀",
+          "weight": 2.0
+        },
+        {
+          "word": "세례",
+          "weight": 2.0
+        },
+        {
+          "word": "가격표",
+          "weight": 2.0
+        },
+        {
+          "word": "간절",
+          "weight": 2.0
+        },
+        {
+          "word": "얼마",
+          "weight": 2.0
+        },
+        {
+          "word": "개인",
+          "weight": 2.0
+        }
+      ],
+      "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+      "co_loan_books": [
+        {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "isbn13": "9791188331796",
+          "authors": "지은이: 김승호"
+        },
+        {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "isbn13": "9791198517425",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경"
+        },
+        {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "isbn13": "9791168473690",
+          "authors": "세이노 지음"
+        },
+        {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "isbn13": "9791158883591",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환"
+        },
+        {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "isbn13": "9791162540640",
+          "authors": "제임스 클리어 지음 ;이한이 옮김"
+        },
+        {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "isbn13": "9788997575169",
+          "authors": "게리 켈러,구세희 옮김"
+        },
+        {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "isbn13": "9791192389325",
+          "authors": "벤저민 하디 지음 ;최은아 옮김"
+        },
+        {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "isbn13": "9788901260716",
+          "authors": "자청 지음"
+        },
+        {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "isbn13": "9791167740984",
+          "authors": "요한 하리 지음 ;김하현 옮김"
+        },
+        {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "isbn13": "9788957365793",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음"
+        }
+      ],
+      "title": "돈의 심리학",
+      "author": "모건 하우절 지음 ;이지연 옮김",
+      "kdc_from_api": "327.04",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}

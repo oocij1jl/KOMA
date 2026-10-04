@@ -1,0 +1,1086 @@
+{
+  "isbn": "9788934991342",
+  "captured_at": "2026-10-04T00:11:46.770783+09:00",
+  "lookup": {
+    "isbn": "9788934991342",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788934991342",
+      "isbn_add_code": "73850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "책 먹는 여우의 겨울 이야기",
+      "subtitle": "양장본 Hardcover",
+      "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "주니어김영사 :김영사",
+      "publish_year": "2020",
+      "publish_predate": "20201210",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "147*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;책 먹는 여우와 이야기 도둑&gt;에 이어 새롭게 선보이는 책 먹는 여우의 계절 편이다. 이번 책은 ‘책 먹는 여우’의 겨울 이야기를 다룬 책으로, ‘책 먹는 여우’가 그동안 지내던 곳이 아닌 눈의 나라 핀란드에서 펼쳐진다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/24790/62/cover/8934991348_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "여우",
+          "weight": 18.0
+        },
+        {
+          "word": "책 먹는 여우와 이야기 도둑",
+          "weight": 9.0
+        },
+        {
+          "word": "책 먹는 여우",
+          "weight": 6.0
+        },
+        {
+          "word": "겨울",
+          "weight": 6.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "이번",
+          "weight": 5.0
+        },
+        {
+          "word": "핀란드",
+          "weight": 3.0
+        },
+        {
+          "word": "윔피키드 2",
+          "weight": 3.0
+        },
+        {
+          "word": "잭키 마론과 악당 황금손",
+          "weight": 3.0
+        },
+        {
+          "word": "책 먹는 여우의 여행일기",
+          "weight": 3.0
+        },
+        {
+          "word": "나라",
+          "weight": 3.0
+        },
+        {
+          "word": "외국창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "송순섭",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "신작",
+          "weight": 2.0
+        },
+        {
+          "word": "편지",
+          "weight": 2.0
+        },
+        {
+          "word": "편이",
+          "weight": 2.0
+        },
+        {
+          "word": "피에",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "계절",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "김영사",
+          "weight": 2.0
+        },
+        {
+          "word": "프란치스카 비어만",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 1.0
+        },
+        {
+          "word": "한국외국어대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "외국",
+          "weight": 1.0
+        },
+        {
+          "word": "전세계",
+          "weight": 1.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 1.0
+        },
+        {
+          "word": "위대",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이책",
+          "weight": 1.0
+        },
+        {
+          "word": "비결",
+          "weight": 1.0
+        },
+        {
+          "word": "교황",
+          "weight": 1.0
+        },
+        {
+          "word": "대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "도약",
+          "weight": 1.0
+        },
+        {
+          "word": "독일",
+          "weight": 1.0
+        },
+        {
+          "word": "마세",
+          "weight": 1.0
+        },
+        {
+          "word": "사계절",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "성장기",
+          "weight": 1.0
+        },
+        {
+          "word": "세상",
+          "weight": 1.0
+        },
+        {
+          "word": "소개",
+          "weight": 1.0
+        },
+        {
+          "word": "소포",
+          "weight": 1.0
+        },
+        {
+          "word": "스릴",
+          "weight": 1.0
+        },
+        {
+          "word": "슬라브어문학",
+          "weight": 1.0
+        },
+        {
+          "word": "슬로바키아어과",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;책 먹는 여우와 이야기 도둑&gt;에 이어 새롭게 선보이는 책 먹는 여우의 계절 편이다. 이번 책은 ‘책 먹는 여우’의 겨울 이야기를 다룬 책으로, ‘책 먹는 여우’가 그동안 지내던 곳이 아닌 눈의 나라 핀란드에서 펼쳐진다.",
+      "co_loan_books": [
+        {
+          "bookname": "책 먹는 여우의 여름 이야기 ",
+          "isbn13": "9788934951056",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우와 이야기 도둑 :《책 먹는 여우》두 번째 이야기 ",
+          "isbn13": "9788934969952",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우의 봄 이야기 ",
+          "isbn13": "9788934937098",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우 ",
+          "isbn13": "9788934908067",
+          "authors": "프란치스카 비어만 지음 ;김경연 옮김"
+        },
+        {
+          "bookname": "잭키 마론과 악당 황금손 ",
+          "isbn13": "9788934978381",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우의 여행일기",
+          "isbn13": "9788934990239",
+          "authors": "프란치스카 비어만 (지은이), 송순섭 (옮긴이)"
+        },
+        {
+          "bookname": "잭키 마론과 검은 유령 ",
+          "isbn13": "9788934981275",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "잭키 마론과 사라진 이야기 모자 ",
+          "isbn13": "9788934995586",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "책 먹는 여우의 겨울 이야기",
+      "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "raw": {
+      "nl": {
+        "source": "nl.go.kr",
+        "found": true,
+        "title": "책 먹는 여우의 겨울 이야기",
+        "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+        "publisher": "주니어김영사 :김영사",
+        "publish_predate": "20201210",
+        "isbn": "9788934991342",
+        "isbn_add_code": "73850",
+        "set_isbn": "",
+        "set_add_code": "",
+        "set_expression": "",
+        "price": "₩13000",
+        "edition_stmt": "",
+        "series_title": "",
+        "series_no": "",
+        "volume": "",
+        "page": "86 p.",
+        "book_size": "147*210",
+        "form": "종이책",
+        "kdc": "",
+        "ddc": "",
+        "subject": "8",
+        "ebook_yn": "N",
+        "cip_yn": "N",
+        "control_no": "",
+        "cover_url": "",
+        "toc_url": "",
+        "intro_url": ""
+      },
+      "d4l_detail": {
+        "source": "data4library.kr",
+        "found": true,
+        "title": "책 먹는 여우의 겨울 이야기 ",
+        "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+        "publisher": "김영사",
+        "publish_year": "2020",
+        "isbn": "8934991348",
+        "isbn13": "9788934991342",
+        "isbn_add_code": "73850",
+        "volume": "",
+        "class_no": "853",
+        "class_nm": "문학 > 독일문학 > 소설",
+        "description": "&lt;책 먹는 여우와 이야기 도둑&gt;에 이어 새롭게 선보이는 책 먹는 여우의 계절 편이다. 이번 책은 ‘책 먹는 여우’의 겨울 이야기를 다룬 책으로, ‘책 먹는 여우’가 그동안 지내던 곳이 아닌 눈의 나라 핀란드에서 펼쳐진다.",
+        "cover_url": "https://image.aladin.co.kr/product/24790/62/cover/8934991348_1.jpg"
+      },
+      "d4l_keyword": {
+        "source": "keywordList",
+        "found": true,
+        "keywords": [
+          {
+            "word": "여우",
+            "weight": 18.0
+          },
+          {
+            "word": "책 먹는 여우와 이야기 도둑",
+            "weight": 9.0
+          },
+          {
+            "word": "책 먹는 여우",
+            "weight": 6.0
+          },
+          {
+            "word": "겨울",
+            "weight": 6.0
+          },
+          {
+            "word": "자신",
+            "weight": 5.0
+          },
+          {
+            "word": "이번",
+            "weight": 5.0
+          },
+          {
+            "word": "핀란드",
+            "weight": 3.0
+          },
+          {
+            "word": "윔피키드 2",
+            "weight": 3.0
+          },
+          {
+            "word": "잭키 마론과 악당 황금손",
+            "weight": 3.0
+          },
+          {
+            "word": "책 먹는 여우의 여행일기",
+            "weight": 3.0
+          },
+          {
+            "word": "나라",
+            "weight": 3.0
+          },
+          {
+            "word": "외국창작동화",
+            "weight": 2.0
+          },
+          {
+            "word": "송순섭",
+            "weight": 2.0
+          },
+          {
+            "word": "가능",
+            "weight": 2.0
+          },
+          {
+            "word": "시리즈",
+            "weight": 2.0
+          },
+          {
+            "word": "아이들",
+            "weight": 2.0
+          },
+          {
+            "word": "신작",
+            "weight": 2.0
+          },
+          {
+            "word": "편지",
+            "weight": 2.0
+          },
+          {
+            "word": "편이",
+            "weight": 2.0
+          },
+          {
+            "word": "피에",
+            "weight": 2.0
+          },
+          {
+            "word": "경험",
+            "weight": 2.0
+          },
+          {
+            "word": "계절",
+            "weight": 2.0
+          },
+          {
+            "word": "글쓰기",
+            "weight": 2.0
+          },
+          {
+            "word": "김영사",
+            "weight": 2.0
+          },
+          {
+            "word": "프란치스카 비어만",
+            "weight": 2.0
+          },
+          {
+            "word": "이유",
+            "weight": 2.0
+          },
+          {
+            "word": "모험",
+            "weight": 2.0
+          },
+          {
+            "word": "번역",
+            "weight": 2.0
+          },
+          {
+            "word": "여름",
+            "weight": 1.0
+          },
+          {
+            "word": "한국외국어대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "외국",
+            "weight": 1.0
+          },
+          {
+            "word": "전세계",
+            "weight": 1.0
+          },
+          {
+            "word": "우리나라",
+            "weight": 1.0
+          },
+          {
+            "word": "위대",
+            "weight": 1.0
+          },
+          {
+            "word": "어린이책",
+            "weight": 1.0
+          },
+          {
+            "word": "비결",
+            "weight": 1.0
+          },
+          {
+            "word": "교황",
+            "weight": 1.0
+          },
+          {
+            "word": "대학교",
+            "weight": 1.0
+          },
+          {
+            "word": "도약",
+            "weight": 1.0
+          },
+          {
+            "word": "독일",
+            "weight": 1.0
+          },
+          {
+            "word": "마세",
+            "weight": 1.0
+          },
+          {
+            "word": "사계절",
+            "weight": 1.0
+          },
+          {
+            "word": "사랑",
+            "weight": 1.0
+          },
+          {
+            "word": "성장기",
+            "weight": 1.0
+          },
+          {
+            "word": "세상",
+            "weight": 1.0
+          },
+          {
+            "word": "소개",
+            "weight": 1.0
+          },
+          {
+            "word": "소포",
+            "weight": 1.0
+          },
+          {
+            "word": "스릴",
+            "weight": 1.0
+          },
+          {
+            "word": "슬라브어문학",
+            "weight": 1.0
+          },
+          {
+            "word": "슬로바키아어과",
+            "weight": 1.0
+          }
+        ]
+      },
+      "d4l_usage": {
+        "source": "usageAnalysisList",
+        "found": true,
+        "co_loan_books": [
+          {
+            "bookname": "책 먹는 여우의 여름 이야기 ",
+            "isbn13": "9788934951056",
+            "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "책 먹는 여우와 이야기 도둑 :《책 먹는 여우》두 번째 이야기 ",
+            "isbn13": "9788934969952",
+            "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "책 먹는 여우의 봄 이야기 ",
+            "isbn13": "9788934937098",
+            "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "책 먹는 여우 ",
+            "isbn13": "9788934908067",
+            "authors": "프란치스카 비어만 지음 ;김경연 옮김"
+          },
+          {
+            "bookname": "잭키 마론과 악당 황금손 ",
+            "isbn13": "9788934978381",
+            "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "책 먹는 여우의 여행일기",
+            "isbn13": "9788934990239",
+            "authors": "프란치스카 비어만 (지은이), 송순섭 (옮긴이)"
+          },
+          {
+            "bookname": "잭키 마론과 검은 유령 ",
+            "isbn13": "9788934981275",
+            "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "잭키 마론과 사라진 이야기 모자 ",
+            "isbn13": "9788934995586",
+            "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447694",
+            "authors": "홍민정 동화 ;김재희 그림"
+          },
+          {
+            "bookname": "고양이 해결사 깜냥",
+            "isbn13": "9788936447861",
+            "authors": "홍민정 동화 ;김재희 그림"
+          }
+        ]
+      },
+      "nl_seoji_detail": {
+        "source": "nl.go.kr/seoji-detail",
+        "found": true,
+        "title_statement": "책 먹는 여우의 겨울 이야기"
+      },
+      "aladin": {
+        "source": "aladin.co.kr",
+        "found": false,
+        "error": "API 키 미설정 (ALADIN_TTB_KEY)"
+      },
+      "kyobo": {
+        "source": "kyobobook.co.kr",
+        "found": true,
+        "product_url": "https://product.kyobobook.co.kr/detail/S000000598069",
+        "title": "책 먹는 여우의 겨울 이야기",
+        "subtitle": "양장본 Hardcover",
+        "page": "96 p.",
+        "book_size": "154*218mm",
+        "original_title": ""
+      }
+    },
+    "found": true
+  },
+  "llm_input": {
+    "isbn": "9788934991342",
+    "biblio": {
+      "found": true,
+      "isbn_ea": "9788934991342",
+      "isbn_add_code": "73850",
+      "set_isbn": "",
+      "set_add_code": "",
+      "set_expression": "",
+      "price": "₩13000",
+      "title": "책 먹는 여우의 겨울 이야기",
+      "subtitle": "양장본 Hardcover",
+      "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+      "volume": "",
+      "pub_place": "",
+      "publisher": "주니어김영사 :김영사",
+      "publish_year": "2020",
+      "publish_predate": "20201210",
+      "kdc": "853",
+      "kdc_edition": "",
+      "kdc_name": "문학 > 독일문학 > 소설",
+      "ddc": "",
+      "ddc_edition": "",
+      "subject": "8",
+      "edition_stmt": "",
+      "series_title": "",
+      "series_no": "",
+      "page": "96 p.",
+      "book_size": "147*210",
+      "form": "종이책",
+      "ebook_yn": "N",
+      "description": "&lt;책 먹는 여우와 이야기 도둑&gt;에 이어 새롭게 선보이는 책 먹는 여우의 계절 편이다. 이번 책은 ‘책 먹는 여우’의 겨울 이야기를 다룬 책으로, ‘책 먹는 여우’가 그동안 지내던 곳이 아닌 눈의 나라 핀란드에서 펼쳐진다.",
+      "control_no": "",
+      "cover_url": "https://image.aladin.co.kr/product/24790/62/cover/8934991348_1.jpg",
+      "toc_url": "",
+      "intro_url": "",
+      "field_sources": {
+        "isbn_ea": "nl",
+        "isbn_add_code": "nl",
+        "price": "nl",
+        "title": "nl",
+        "subtitle": "kyobo",
+        "author": "nl",
+        "publisher": "nl",
+        "publish_year": "d4l",
+        "kdc": "d4l",
+        "subject": "nl",
+        "page": "kyobo",
+        "book_size": "nl",
+        "description": "d4l",
+        "cover_url": "d4l"
+      }
+    },
+    "evidence": {
+      "keywords": [
+        {
+          "word": "여우",
+          "weight": 18.0
+        },
+        {
+          "word": "책 먹는 여우와 이야기 도둑",
+          "weight": 9.0
+        },
+        {
+          "word": "책 먹는 여우",
+          "weight": 6.0
+        },
+        {
+          "word": "겨울",
+          "weight": 6.0
+        },
+        {
+          "word": "자신",
+          "weight": 5.0
+        },
+        {
+          "word": "이번",
+          "weight": 5.0
+        },
+        {
+          "word": "핀란드",
+          "weight": 3.0
+        },
+        {
+          "word": "윔피키드 2",
+          "weight": 3.0
+        },
+        {
+          "word": "잭키 마론과 악당 황금손",
+          "weight": 3.0
+        },
+        {
+          "word": "책 먹는 여우의 여행일기",
+          "weight": 3.0
+        },
+        {
+          "word": "나라",
+          "weight": 3.0
+        },
+        {
+          "word": "외국창작동화",
+          "weight": 2.0
+        },
+        {
+          "word": "송순섭",
+          "weight": 2.0
+        },
+        {
+          "word": "가능",
+          "weight": 2.0
+        },
+        {
+          "word": "시리즈",
+          "weight": 2.0
+        },
+        {
+          "word": "아이들",
+          "weight": 2.0
+        },
+        {
+          "word": "신작",
+          "weight": 2.0
+        },
+        {
+          "word": "편지",
+          "weight": 2.0
+        },
+        {
+          "word": "편이",
+          "weight": 2.0
+        },
+        {
+          "word": "피에",
+          "weight": 2.0
+        },
+        {
+          "word": "경험",
+          "weight": 2.0
+        },
+        {
+          "word": "계절",
+          "weight": 2.0
+        },
+        {
+          "word": "글쓰기",
+          "weight": 2.0
+        },
+        {
+          "word": "김영사",
+          "weight": 2.0
+        },
+        {
+          "word": "프란치스카 비어만",
+          "weight": 2.0
+        },
+        {
+          "word": "이유",
+          "weight": 2.0
+        },
+        {
+          "word": "모험",
+          "weight": 2.0
+        },
+        {
+          "word": "번역",
+          "weight": 2.0
+        },
+        {
+          "word": "여름",
+          "weight": 1.0
+        },
+        {
+          "word": "한국외국어대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "외국",
+          "weight": 1.0
+        },
+        {
+          "word": "전세계",
+          "weight": 1.0
+        },
+        {
+          "word": "우리나라",
+          "weight": 1.0
+        },
+        {
+          "word": "위대",
+          "weight": 1.0
+        },
+        {
+          "word": "어린이책",
+          "weight": 1.0
+        },
+        {
+          "word": "비결",
+          "weight": 1.0
+        },
+        {
+          "word": "교황",
+          "weight": 1.0
+        },
+        {
+          "word": "대학교",
+          "weight": 1.0
+        },
+        {
+          "word": "도약",
+          "weight": 1.0
+        },
+        {
+          "word": "독일",
+          "weight": 1.0
+        },
+        {
+          "word": "마세",
+          "weight": 1.0
+        },
+        {
+          "word": "사계절",
+          "weight": 1.0
+        },
+        {
+          "word": "사랑",
+          "weight": 1.0
+        },
+        {
+          "word": "성장기",
+          "weight": 1.0
+        },
+        {
+          "word": "세상",
+          "weight": 1.0
+        },
+        {
+          "word": "소개",
+          "weight": 1.0
+        },
+        {
+          "word": "소포",
+          "weight": 1.0
+        },
+        {
+          "word": "스릴",
+          "weight": 1.0
+        },
+        {
+          "word": "슬라브어문학",
+          "weight": 1.0
+        },
+        {
+          "word": "슬로바키아어과",
+          "weight": 1.0
+        }
+      ],
+      "description": "&lt;책 먹는 여우와 이야기 도둑&gt;에 이어 새롭게 선보이는 책 먹는 여우의 계절 편이다. 이번 책은 ‘책 먹는 여우’의 겨울 이야기를 다룬 책으로, ‘책 먹는 여우’가 그동안 지내던 곳이 아닌 눈의 나라 핀란드에서 펼쳐진다.",
+      "co_loan_books": [
+        {
+          "bookname": "책 먹는 여우의 여름 이야기 ",
+          "isbn13": "9788934951056",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우와 이야기 도둑 :《책 먹는 여우》두 번째 이야기 ",
+          "isbn13": "9788934969952",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우의 봄 이야기 ",
+          "isbn13": "9788934937098",
+          "authors": "프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우 ",
+          "isbn13": "9788934908067",
+          "authors": "프란치스카 비어만 지음 ;김경연 옮김"
+        },
+        {
+          "bookname": "잭키 마론과 악당 황금손 ",
+          "isbn13": "9788934978381",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "책 먹는 여우의 여행일기",
+          "isbn13": "9788934990239",
+          "authors": "프란치스카 비어만 (지은이), 송순섭 (옮긴이)"
+        },
+        {
+          "bookname": "잭키 마론과 검은 유령 ",
+          "isbn13": "9788934981275",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "잭키 마론과 사라진 이야기 모자 ",
+          "isbn13": "9788934995586",
+          "authors": "책 먹는 여우와 프란치스카 비어만 글·그림 ;송순섭 옮김"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447694",
+          "authors": "홍민정 동화 ;김재희 그림"
+        },
+        {
+          "bookname": "고양이 해결사 깜냥",
+          "isbn13": "9788936447861",
+          "authors": "홍민정 동화 ;김재희 그림"
+        }
+      ],
+      "title": "책 먹는 여우의 겨울 이야기",
+      "author": "프란치스카 비어만 글·그림 ;송순섭 옮김",
+      "kdc_from_api": "853",
+      "ddc_from_api": "",
+      "translation_signals": {
+        "detected": true,
+        "hints": [
+          "'옮김' 표현 발견"
+        ]
+      },
+      "available": {
+        "keywords": true,
+        "description": true,
+        "co_loan_books": true,
+        "translation_signals": true
+      }
+    },
+    "generate_options": {
+      "required_fields": [
+        "020",
+        "245",
+        "260",
+        "700"
+      ],
+      "review_required_fields": [
+        "653",
+        "056",
+        "082"
+      ],
+      "conditional_fields": [
+        "041",
+        "246",
+        "250",
+        "300",
+        "490",
+        "500",
+        "546",
+        "710"
+      ],
+      "skipped_by_default": [
+        "650",
+        "830",
+        "950"
+      ],
+      "allow_inference": true,
+      "show_source": true
+    },
+    "constraints": [
+      "빈 값은 \"\" 를 사용하고 null은 사용하지 않는다.",
+      "value에는 구두점을 넣지 않는다. 구두점은 후처리 단계 책임이다.",
+      "available=false 인 evidence 소스는 추론 근거로 사용하지 않는다.",
+      "LLM 입력에는 raw 원문 응답을 포함하지 않는다."
+    ],
+    "field_evidence_map": {
+      "653": {
+        "evidence_sources": [
+          "keywords",
+          "description",
+          "co_loan_books"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "650": {
+        "evidence_sources": [],
+        "skip_allowed": true,
+        "rag_notes": "MVP 기본 skip — 통제 주제명은 표목표 대조 필요: 653으로 대체"
+      },
+      "056": {
+        "evidence_sources": [
+          "keywords",
+          "kdc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "082": {
+        "evidence_sources": [
+          "keywords",
+          "ddc_from_api",
+          "description"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "546": {
+        "evidence_sources": [
+          "description",
+          "title",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "041": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      },
+      "500": {
+        "evidence_sources": [
+          "translation_signals",
+          "description",
+          "author"
+        ],
+        "skip_allowed": true,
+        "rag_notes": "RAG: 팀원1"
+      }
+    }
+  }
+}
